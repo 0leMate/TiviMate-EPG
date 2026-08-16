@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Every 12 hours. GitHub cron is UTC.
-    - cron: "17 */12 * * *"
+    - cron: "30 */2 * * *"
 
 permissions:
   contents: write
