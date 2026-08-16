@@ -12144,6 +12144,46 @@
     <display-name>KAYO+ 100: 09:30 Brewers vs Mariners 08-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.001">
+    <display-name>UK D+ 001</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.002">
+    <display-name>UK D+ 002</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.003">
+    <display-name>UK D+ 003</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.004">
+    <display-name>UK D+ 004</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.005">
+    <display-name>UK D+ 005</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.006">
+    <display-name>UK D+ 006</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.007">
+    <display-name>UK D+ 007</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.008">
+    <display-name>UK D+ 008</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.009">
+    <display-name>UK D+ 009</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
+  <channel id="custom.UK.DISCOVERY.UK.D.010">
+    <display-name>UK D+ 010</display-name>
+    <display-name>UK DISCOVERY+</display-name>
+  </channel>
   <programme start="20260817060000 +1000" stop="20260817100000 +1000" channel="custom.AU.KAYO.KAYO.085">
     <title>8:00 AM Arizona Open Session 1</title>
     <category>Sports</category>
@@ -12223,6 +12263,76 @@
     <title>11:30 AM Brewers vs Mariners</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260816120000 +1000" stop="20260816160000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
+    <title>2:00 PM Southland vs Waikato NPC Round 3 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816150000 +1000" stop="20260816190000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
+    <title>5:00 PM Counties Manukau vs Tasman NPC Round 3 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816150000 +1000" stop="20260816190000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.019">
+    <title>5:00 PM Easts vs Wests Hospital Cup Semi Final 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816172500 +1000" stop="20260816212500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.020">
+    <title>7:25 PM Free Practice 3: London Formula E 2025/26</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816193000 +1000" stop="20260816233000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.021">
+    <title>9:30 PM Qualifying 2: London Formula E 2025/26</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816202500 +1000" stop="20260817002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.022">
+    <title>10:25 PM Ulsan vs Gangwon K League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816202500 +1000" stop="20260817002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.023">
+    <title>10:25 PM Bucheon vs Jeonbuk K League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816210000 +1000" stop="20260817010000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.024">
+    <title>11:00 PM Race Day Part 1: Sweden MXGP 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816225500 +1000" stop="20260817025500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.025">
+    <title>12:55 AM Bulls vs Cheetahs Currie Cup Round 5 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816230000 +1000" stop="20260817030000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.026">
+    <title>1:00 AM Race 2: London Formula E 2025/26</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260816234500 +1000" stop="20260817034500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.027">
+    <title>1:45 AM Arsenal vs Manchester City FA Community Shield 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260817000000 +1000" stop="20260817040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.028">
+    <title>2:00 AM Race Day Part 2: Sweden MXGP 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260817010000 +1000" stop="20260817050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.029">
+    <title>3:00 AM Cincinnati: Day 4 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260817020000 +1000" stop="20260817060000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.030">
+    <title>4:00 AM Race: Grand Prix of Markham Indycar 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
   <programme start="20260816082000 -0400" stop="20260816122000 -0400" channel="custom.CA.SPORTSNET.SN.017">
     <title>12:20 AM Feyenoord vs Go Ahead Eagles</title>
@@ -12314,420 +12424,770 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA SPORTSNET+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.001">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.001">
     <title>CFL on TSN: Redblacks vs Blue Bombers A @ Aug 15 02:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.002">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.002">
     <title>SPORTSCENTRE A vs Aug 15 04:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.003">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.003">
     <title>2025-26 Formula E Qualifying: London vs Round 16 vs Aug 15 05:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.005">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.005">
     <title>CFL on TSN: Redblacks vs Blue Bombers B @ Aug 15 05:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.006">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.006">
     <title>SPORTSCENTRE C vs Aug 15 06:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.007">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.007">
     <title>SPORTSCENTRE D vs Aug 15 07:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.008">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.008">
     <title>PGA TOUR Live: FedEx St. Jude Championship vs Third Round: Main Feed vs Aug 15 07:45</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.009">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.009">
     <title>SPORTSCENTRE E vs Aug 15 08:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.010">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.010">
     <title>CFL on TSN: Redblacks vs Blue Bombers C @ Aug 15 08:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.011">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.011">
     <title>PGA TOUR Live: FedEx St. Jude Championship vs Third Round: Featured Groups vs Aug 15 08:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.012">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.012">
     <title>PGA TOUR Live: FedEx St. Jude Championship vs Third Round: Marquee Group vs Aug 15 08:45</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.013">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.013">
     <title>Formula E Racing: London vs Round 16 vs Aug 15 09:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.014">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.014">
     <title>SPORTSCENTRE F vs Aug 15 09:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.015">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.015">
     <title>Australian Rules Football: Brisbane Lions vs Gold Coast Suns @ Aug 15 10:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.016">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.016">
     <title>SPORTSCENTRE G vs Aug 15 10:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.017">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.017">
     <title>IndyCar Practice 2: Ontario Honda Dealers Indy at Markham vs Aug 15 10:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.018">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.018">
     <title>ATP 1000 Tennis: Cincinnati vs Day #3 (Court 4) vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.019">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.019">
     <title>WTA 1000 Tennis: Cincinnati vs Early Round Coverage Day #3 vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.020">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.020">
     <title>ATP 1000 Tennis: Cincinnati vs Day #3 (Grandstand) vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.021">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.021">
     <title>ATP 1000 Tennis: Cincinnati vs Early Round Coverage Day #3 vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.022">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.022">
     <title>ATP 1000 Tennis: Cincinnati vs Day #3 (Champions Court) vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.023">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.023">
     <title>ATP 1000 Tennis: Cincinnati vs Day #3 (Court 10) vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.024">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.024">
     <title>ATP-WTA 1000 Tennis: Cincinnati vs Early Round Coverage Day #3 vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.025">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.025">
     <title>SC: Wacky CFL Moments vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.026">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.026">
     <title>SPORTSCENTRE H vs Aug 15 11:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.027">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.027">
     <title>SPORTSCENTRE I vs Aug 15 11:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.028">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.028">
     <title>SC: Top 10 Grey Cup Games vs Aug 15 11:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.029">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.029">
     <title>ATP 1000 Tennis: Cincinnati vs Day #3 (P&amp;G Stadium) vs Aug 15 12:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.030">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.030">
     <title>Athletes Unlimited Softball League: All-Star Cup vs Team Brown vs Team Klingler @ Aug 15 12:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.031">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.031">
     <title>SC: Top 100 Catches of All-Time vs Aug 15 12:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.033">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.033">
     <title>SPORTSCENTRE J vs Aug 15 12:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.035">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.035">
     <title>ATP 1000 Tennis: Cincinnati vs Day #3 (Tony Trabert) vs Aug 15 13:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.036">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.036">
     <title>AFL Women&#x27;s Series: Gold Coast Suns vs Western Bulldogs @ Aug 15 13:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.037">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.037">
     <title>Amazing Race Canada A vs Aug 15 13:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.038">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.038">
     <title>Maple Leaf Pro Wrestling Mayhem vs Aug 15 13:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.039">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.039">
     <title>LaLiga: Alaves vs Getafe @ Aug 15 13:18</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.040">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.040">
     <title>Premier Lacrosse League: New York Atlas vs Philadelphia Waterdogs @ Aug 15 14:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.041">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.041">
     <title>SC: Top OverDrive Moments vs Aug 15 14:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.042">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.042">
     <title>SC: Top Moments of the FIFA World Cup A vs Aug 15 14:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.043">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.043">
     <title>IndyCar Qualifying: Ontario Honda Dealers Indy at Markham vs Aug 15 14:25</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.044">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.044">
     <title>SC: July Plays of the Month A vs Aug 15 14:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.045">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.045">
     <title>US Men&#x27;s Amateur: Semifinals A vs Aug 15 15:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.046">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.046">
     <title>PGA TOUR vs FedEx Cup Playoffs: FedEx St. Jude Championship vs Third Round vs Aug 15 15:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.047">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.047">
     <title>SC: Top 50 NBA Circus Shots vs Aug 15 15:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.048">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.048">
     <title>CFL on TSN: Argonauts vs Elks A @ Aug 15 15:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.049">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.049">
     <title>LaLiga: Sevilla vs Rayo Vallecano @ Aug 15 15:18</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.050">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.050">
     <title>CEBL Basketball Championship vs Honey Badgers vs Sea Bears @ Aug 15 15:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.051">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.051">
     <title>Amazing Race Canada B vs Aug 15 16:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.052">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.052">
     <title>Women&#x27;s Lacrosse League: Final vs Maryland Charm vs California Palms @ Aug 15 17:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.053">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.053">
     <title>CPL on TSN: Cavalry FC vs Forge FC @ Aug 15 17:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.055">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.055">
     <title>SC: Top 50 NBA Buzzer Beaters vs Aug 15 17:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.056">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.056">
     <title>SC: Top 40 Trick Plays of All-Time vs Aug 15 18:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.057">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.057">
     <title>SC: Top Overtime Moments vs Aug 15 18:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.058">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.058">
     <title>SC: July Plays of the Month B vs Aug 15 18:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.059">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.059">
     <title>NASCAR Cup Series Pre-Race: Cook Out 400 vs Aug 15 18:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.060">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.060">
     <title>SC: Top Rivalries in Sports vs Aug 15 18:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.061">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.061">
     <title>NASCAR Cup Series On-Board Camera: Cook Out 400 vs Denny Hamlin vs Aug 15 19:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.062">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.062">
     <title>NASCAR Cup Series On-Board Camera: Cook Out 400 vs Tyler Reddick vs Aug 15 19:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.063">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.063">
     <title>SC: Top Moments of the FIFA World Cup B vs Aug 15 19:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.064">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.064">
     <title>CFL on TSN: Roughriders vs Tiger-Cats A @ Aug 15 19:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.065">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.065">
     <title>NASCAR Cup Series: Cook Out 400 vs Aug 15 19:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.066">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.066">
     <title>SC: Top 50 Tennis Shots of All-Time vs Aug 15 19:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.067">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.067">
     <title>MLS on TSN: CF Montreal vs DC United @ Aug 15 19:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.068">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.068">
     <title>SC: Top 50 Curling Shots vs Aug 15 19:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.069">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.069">
     <title>Banana Ball: Clowns vs Bananas @ Aug 15 20:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.070">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.070">
     <title>NFL Pre-Season: Cowboys vs Seahawks @ Aug 15 20:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.071">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.071">
     <title>NSL on TSN: Vancouver vs Halifax @ Aug 15 21:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.072">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.072">
     <title>SPORTSCENTRE K vs Aug 15 22:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.073">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.073">
     <title>SPORTSCENTRE L vs Aug 15 22:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.074">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.074">
     <title>SPORTSCENTRE M vs Aug 15 23:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.075">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.075">
     <title>Hard Knocks: Training Camp with the Seattle Seahawks vs Episode 2 vs Aug 15 23:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.076">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.076">
     <title>SPORTSCENTRE N vs Aug 15 23:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.077">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.077">
     <title>SC: Top PWHL Moments vs Aug 16 00:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.078">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.078">
     <title>Amazing Race Canada C vs Aug 16 00:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.079">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.079">
     <title>US Men&#x27;s Amateur: Semifinals B vs Aug 16 00:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.080">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.080">
     <title>AFL Women&#x27;s Series: Fremantle vs Port Adelaide @ Aug 16 00:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.081">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.081">
     <title>SC: Top 10 Women&#x27;s World Hockey Championship Games vs Aug 16 00:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.082">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.082">
     <title>SPORTSCENTRE O vs Aug 16 01:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.083">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.083">
     <title>SPORTSCENTRE P vs Aug 16 02:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.084">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.084">
     <title>AFL Women&#x27;s Series: GWS Giants vs West Coast Eagles @ Aug 16 02:30</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.QC.A.vs.Aug.15.12">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.QC.A.vs.Aug.15.12">
     <title>55&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27523.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 034: NASCAR Canada Series: Le 45 Tours CarGurus vs Trois-Rivieres, QC A vs Aug 15 12:55</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.QC.B.vs.Aug.15.17">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.QC.B.vs.Aug.15.17">
     <title>00&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27543.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 054: NASCAR Canada Series: Le 45 Tours CarGurus vs Trois-Rivieres, QC B vs Aug 15 17:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260816011628 -0400" stop="20260816043128 -0400" channel="custom.CA.TSN.SD.vs.Aug.15.12">
+  <programme start="20260816012238 -0400" stop="20260816043738 -0400" channel="custom.CA.TSN.SD.vs.Aug.15.12">
     <title>00&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27521.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 032: PBR Tour: Sioux Falls, SD vs Aug 15 12:00</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260815181500 -0400" stop="20260815221500 -0400" channel="custom.DIRTVISION.DIRT.02">
+    <title>10:15 AM Cedar Lake Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260815183000 -0400" stop="20260815223000 -0400" channel="custom.DIRTVISION.DIRT.03">
+    <title>10:30 AM Sharon Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260815110000 -0400" stop="20260815150000 -0400" channel="custom.DIRTVISION.DIRT.05">
+    <title>3:00 AM PM</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260815173000 -0400" stop="20260815213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>9:30 AM EARLY PRELIMS UFC 330</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815173000 -0400" stop="20260815213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
+    <title>9:30 AM EARLY PRELIMS UFC 330</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815190000 -0400" stop="20260815230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+    <title>11:00 AM PRELIMS UFC 330</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815190000 -0400" stop="20260815230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+    <title>11:00 AM PRELIMS UFC 330</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815210000 -0400" stop="20260816010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
+    <title>1:00 PM UFC 330 Makhachev vs Garry</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815210000 -0400" stop="20260816010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.06">
+    <title>1:00 PM UFC 330 Makhachev vs Garry</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815210000 -0400" stop="20260816010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.07">
+    <title>1:00 PM UFC 330 Makhachev vs Garry</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260815210000 -0400" stop="20260816010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.08">
+    <title>1:00 PM MULTIVIEW UFC 330</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816001500 -0400" stop="20260816041500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.09">
+    <title>4:15 PM Post Fight Press Conference UFC 330</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816130000 -0400" stop="20260816170000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.10">
+    <title>5:00 AM Submission Hunter Pro 104</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816183000 -0400" stop="20260816223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.12">
+    <title>10:30 AM Awesome Championship Wrestling Uprising 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816193000 -0400" stop="20260816233000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.13">
+    <title>11:30 AM Greektown Wrestling</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816200000 -0400" stop="20260817000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.14">
+    <title>12:00 PM GCW Homecoming</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816203000 -0400" stop="20260817003000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.15">
+    <title>12:30 PM Shields vs Scott</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816160000 -0400" stop="20260816200000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.16">
+    <title>8:00 AM Hasty Bake High Limit Room Live at Knoxville</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816092000 -0400" stop="20260816132000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.17">
+    <title>1:20 AM USAC Road Racing at Road America</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816164500 -0400" stop="20260816204500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.18">
+    <title>8:45 AM KKM Challenge Series at Greenwood</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816190000 -0400" stop="20260816230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.19">
+    <title>11:00 AM IMCA Captain of the Creek at 141</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816200000 -0400" stop="20260817000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.20">
+    <title>12:00 PM Great Lakes Pro Am Series at Lake Erie</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816201500 -0400" stop="20260817001500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.21">
+    <title>12:15 PM Lucas Oil Topless 100 at Batesville</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816200000 -0400" stop="20260817000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.22">
+    <title>12:00 PM Summer Showdown at Evergreen</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817103000 -0400" stop="20260817143000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.23">
+    <title>2:30 AM SOIL Championship Off Road</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817171500 -0400" stop="20260817211500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.24">
+    <title>9:15 AM Mr. Supermodified at Oswego</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.25">
+    <title>10:00 AM Race of Champions Modifieds at Lancaster</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.26">
+    <title>10:00 AM Championship Night at Fonda</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817182000 -0400" stop="20260817222000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.27">
+    <title>10:20 AM NASCAR Weekly Racing at Jennerstown</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817184500 -0400" stop="20260817224500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.28">
+    <title>10:45 AM USAC NOS Energy Drink National Midgets at Coles</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.30">
+    <title>11:00 AM Nascar Cup Series Cook Out 400</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817173000 -0400" stop="20260817213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.31">
+    <title>9:30 AM Knoxville Raceway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817181500 -0400" stop="20260817221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.32">
+    <title>10:15 AM Cedar Lake Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260817183000 -0400" stop="20260817223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.33">
+    <title>10:30 AM Sharon Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260816103000 -0400" stop="20260816143000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>2:30 AM USAC Road Racing Road America</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260816103000 -0400" stop="20260816143000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>2:30 AM SOIL Championship Off Road</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260816120000 -0400" stop="20260816160000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>4:00 AM MotoAmerica Superbikes Virginia</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260816193000 -0400" stop="20260816233000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
+    <title>11:30 AM GO Kart Night Slinger</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260816200000 -0400" stop="20260817000000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
+    <title>12:00 PM Anthony Pettis FC 24</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260816210000 -0400" stop="20260817010000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
+    <title>1:00 PM Primos Pro Wrestling Sorched Summer 2</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260227092500 +0000" stop="20260227132500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
+    <title>10:25 PM ATP Tour: S. Bolelli/A. Vavassori v M. Arevalo/M. Pavic</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227105500 +0000" stop="20260227145500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
+    <title>11:55 PM ATP Tour: J. Cash/L. Glasspool v H. Heliovaara/H. Patten</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227125500 +0000" stop="20260227165500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
+    <title>1:55 AM ATP Tour: F. Auger Aliassime v D. Medvedev</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227145500 +0000" stop="20260227185500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
+    <title>3:55 AM ATP Tour: A. Rublev v T. Griekspoor</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227155500 +0000" stop="20260227195500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
+    <title>4:55 AM ATP Tour: Y. Hanfmann v V. Gaubas</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227175500 +0000" stop="20260227215500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
+    <title>6:55 AM ATP Tour: F. Cerundolo v E. Nava</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
+    <title>7:55 AM PGA Tour: Cognizant Classic Featured Hole</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
+    <title>7:55 AM PGA Tour: Cognizant Classic Featured Hole</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
+    <title>7:55 AM PGA Tour: Cognizant Classic Featured Group 1</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
+    <title>7:55 AM PGA Tour: Cognizant Classic Featured Group 2</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.11">
+    <title>7:55 AM WTA Tour: K. Birrell v A. Tomljanovic</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227193000 +0000" stop="20260227233000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.12">
+    <title>8:30 AM EFL: Harrogate v Cheltenham</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227195000 +0000" stop="20260227235000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.13">
+    <title>8:50 AM Betfred Super League: Castleford Tigers v Huddersfield Giants</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227195000 +0000" stop="20260227235000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
+    <title>8:50 AM Betfred Super League: Hull FC v York City Knights</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227195500 +0000" stop="20260227235500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.15">
+    <title>8:55 AM WTA Tour: M. Frech v M. Bouzkova</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227202500 +0000" stop="20260228002500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.16">
+    <title>9:25 AM WTA Tour: Chong Eudice Wong/Liang En Shuo v S. Aoyama/E. Shibahara</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227202500 +0000" stop="20260228002500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.17">
+    <title>9:25 AM WTA Tour: R. Masarova v T. Townsend</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227212500 +0000" stop="20260228012500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.18">
+    <title>10:25 AM ATP Tour: A. Pellegrino v L. Darderi</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227212500 +0000" stop="20260228012500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.19">
+    <title>10:25 AM ATP Tour: Z. Sonmez v C. Bucsa</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227215500 +0000" stop="20260228015500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.20">
+    <title>10:55 AM WTA Tour: K. Birrell/C. McNally v C. Harrison/D. Hewitt</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227215500 +0000" stop="20260228015500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.21">
+    <title>10:55 AM WTA Tour: K. Piter/J. Tjen v C. Bucsa/Jiang Xinyu</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227225500 +0000" stop="20260228025500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.22">
+    <title>11:55 AM ATP Tour: A. Tabilo v S. Baez</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227235500 +0000" stop="20260228035500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.23">
+    <title>12:55 PM WTA Tour: O. Selekhmeteva v P. Stearns</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260227235500 +0000" stop="20260228035500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.24">
+    <title>12:55 PM WTA Tour: V. Jimenez Kasintseva v Zhang Shuai</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260228005500 +0000" stop="20260228045500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.25">
+    <title>1:55 PM ATP Tour: M. Kecmanovic v F. Cobolli</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260228005500 +0000" stop="20260228045500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.26">
+    <title>1:55 PM ATP Tour: V. Kirkov/B. Stevens v A. Erler/R. Galloway</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260228012500 +0000" stop="20260228052500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.27">
+    <title>2:25 PM WTA Tour: J. Paolini v K. Boulter</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260228012500 +0000" stop="20260228052500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.28">
+    <title>2:25 PM WTA Tour: Yuan Yue v A. Krueger</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260228022500 +0000" stop="20260228062500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.29">
+    <title>3:25 PM ATP Tour: F. Tiafoe v B. Nakashima</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+  </programme>
+  <programme start="20260228022500 +0000" stop="20260228062500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.30">
+    <title>3:25 PM ATP Tour: R. Jodar/R. Pacheco Mendez v M. Melo/A. Zverev</title>
+    <category>Sports</category>
+    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
   <programme start="20260724120000 -0400" stop="20260725000000 -0400" channel="custom.UFC.UFC.01">
     <title>Fight Pass</title>
@@ -12828,6 +13288,56 @@
     <title>10:00 AM UFC Paris: Post Fight Press Conference</title>
     <category>Sports</category>
     <desc>Vortex M3U • UFC</desc>
+  </programme>
+  <programme start="20260327125000 +0000" stop="20260327165000 +0000" channel="custom.UK.DISCOVERY.UK.D.001">
+    <title>1:50 AM E3 Saxo Classic</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260327132000 +0000" stop="20260327172000 +0000" channel="custom.UK.DISCOVERY.UK.D.002">
+    <title>2:20 AM Volta Ciclista a Catalunya | Stage 5</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260327134500 +0000" stop="20260327174500 +0000" channel="custom.UK.DISCOVERY.UK.D.003">
+    <title>2:45 AM Planica | Men\`s HS 240 Ski Flying</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260327190000 +0000" stop="20260327230000 +0000" channel="custom.UK.DISCOVERY.UK.D.004">
+    <title>8:00 AM Newcastle Red Bulls Exeter Chiefs</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260328072500 +0000" stop="20260328112500 +0000" channel="custom.UK.DISCOVERY.UK.D.005">
+    <title>8:25 PM Gran Fondo Memorial Sergio Favre | Gran Finale a Saint Barthélemy</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260328081500 +0000" stop="20260328121500 +0000" channel="custom.UK.DISCOVERY.UK.D.006">
+    <title>9:15 PM Planica7 | Men\`s HS 240 Team Ski Flying</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260328085000 +0000" stop="20260328125000 +0000" channel="custom.UK.DISCOVERY.UK.D.007">
+    <title>9:50 PM Silvaplana | Slopestyle</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260328101000 +0000" stop="20260328141000 +0000" channel="custom.UK.DISCOVERY.UK.D.008">
+    <title>11:10 PM Gällivare | Ski Cross</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260328110000 +0000" stop="20260328150000 +0000" channel="custom.UK.DISCOVERY.UK.D.009">
+    <title>12:00 AM Harley Davidson Bagger World Cup | United States</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
+  </programme>
+  <programme start="20260328115000 +0000" stop="20260328155000 +0000" channel="custom.UK.DISCOVERY.UK.D.010">
+    <title>12:50 AM Silvaplana | Half Pipe</title>
+    <category>Sports</category>
+    <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
   </programme>
   <programme start="20260816073000 -0400" stop="20260816113000 -0400" channel="custom.US.ESPN.ESPN.095">
     <title>11:30 PM Soccer: SV Waldhof vs Hansa Rostock</title>
@@ -14613,5 +15123,40 @@
     <title>9:00 AM Lacrosse: Charm vs Palms</title>
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20260816082000 -0400" stop="20260816122000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.008">
+    <title>12:20 AM Watford vs Southampton</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260816103000 -0400" stop="20260816143000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.009">
+    <title>2:30 AM Burnley vs West Ham United</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260816105500 -0400" stop="20260816145500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.010">
+    <title>2:55 AM Rangers vs St. Mirren</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260816115000 -0400" stop="20260816155000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.011">
+    <title>3:50 AM Frosinone vs Juve Stabia</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260816122000 -0400" stop="20260816162000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.012">
+    <title>4:20 AM Genoa vs Ascoli</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260816143500 -0400" stop="20260816183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.013">
+    <title>6:35 AM Hellas Verona vs Virtus Entella</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260816150500 -0400" stop="20260816190500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.014">
+    <title>7:05 AM Lazio vs Mantova</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
 </tv>

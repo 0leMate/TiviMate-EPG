@@ -1,4 +1,883 @@
 {
-  "services": {},
+  "services": {
+    "dirtvision": {
+      "channel": "dirtvision",
+      "events": [
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
+          "start": "2026-08-15T18:15:00-04:00",
+          "stop": "2026-08-15T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "10:30 AM Sharon Speedway",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
+          "start": "2026-08-15T18:30:00-04:00",
+          "stop": "2026-08-15T22:30:00-04:00",
+          "title": "Sharon Speedway"
+        },
+        {
+          "display_title": "3:00 AM PM",
+          "slot": "DIRT 05",
+          "slot_norm": "DIRT 5",
+          "start": "2026-08-15T11:00:00-04:00",
+          "stop": "2026-08-15T15:00:00-04:00",
+          "title": "PM"
+        }
+      ],
+      "group": "DIRTVISION",
+      "message_id": 616707788,
+      "message_timestamp": 1786804213,
+      "timezone": "America/New_York",
+      "updated_at": "2026-08-16T05:37:36.572869+00:00"
+    },
+    "discovery-plus": {
+      "channel": "discovery-plus",
+      "events": [
+        {
+          "display_title": "1:50 AM E3 Saxo Classic",
+          "slot": "UK D+ 001",
+          "slot_norm": "UK D+ 1",
+          "start": "2026-03-27T12:50:00+00:00",
+          "stop": "2026-03-27T16:50:00+00:00",
+          "title": "E3 Saxo Classic"
+        },
+        {
+          "display_title": "2:20 AM Volta Ciclista a Catalunya | Stage 5",
+          "slot": "UK D+ 002",
+          "slot_norm": "UK D+ 2",
+          "start": "2026-03-27T13:20:00+00:00",
+          "stop": "2026-03-27T17:20:00+00:00",
+          "title": "Volta Ciclista a Catalunya | Stage 5"
+        },
+        {
+          "display_title": "2:45 AM Planica | Men\\`s HS 240 Ski Flying",
+          "slot": "UK D+ 003",
+          "slot_norm": "UK D+ 3",
+          "start": "2026-03-27T13:45:00+00:00",
+          "stop": "2026-03-27T17:45:00+00:00",
+          "title": "Planica | Men\\`s HS 240 Ski Flying"
+        },
+        {
+          "display_title": "8:00 AM Newcastle Red Bulls Exeter Chiefs",
+          "slot": "UK D+ 004",
+          "slot_norm": "UK D+ 4",
+          "start": "2026-03-27T19:00:00+00:00",
+          "stop": "2026-03-27T23:00:00+00:00",
+          "title": "Newcastle Red Bulls Exeter Chiefs"
+        },
+        {
+          "display_title": "8:25 PM Gran Fondo Memorial Sergio Favre | Gran Finale a Saint Barthélemy",
+          "slot": "UK D+ 005",
+          "slot_norm": "UK D+ 5",
+          "start": "2026-03-28T07:25:00+00:00",
+          "stop": "2026-03-28T11:25:00+00:00",
+          "title": "Gran Fondo Memorial Sergio Favre | Gran Finale a Saint Barthélemy"
+        },
+        {
+          "display_title": "9:15 PM Planica7 | Men\\`s HS 240 Team Ski Flying",
+          "slot": "UK D+ 006",
+          "slot_norm": "UK D+ 6",
+          "start": "2026-03-28T08:15:00+00:00",
+          "stop": "2026-03-28T12:15:00+00:00",
+          "title": "Planica7 | Men\\`s HS 240 Team Ski Flying"
+        },
+        {
+          "display_title": "9:50 PM Silvaplana | Slopestyle",
+          "slot": "UK D+ 007",
+          "slot_norm": "UK D+ 7",
+          "start": "2026-03-28T08:50:00+00:00",
+          "stop": "2026-03-28T12:50:00+00:00",
+          "title": "Silvaplana | Slopestyle"
+        },
+        {
+          "display_title": "11:10 PM Gällivare | Ski Cross",
+          "slot": "UK D+ 008",
+          "slot_norm": "UK D+ 8",
+          "start": "2026-03-28T10:10:00+00:00",
+          "stop": "2026-03-28T14:10:00+00:00",
+          "title": "Gällivare | Ski Cross"
+        },
+        {
+          "display_title": "12:00 AM Harley Davidson Bagger World Cup | United States",
+          "slot": "UK D+ 009",
+          "slot_norm": "UK D+ 9",
+          "start": "2026-03-28T11:00:00+00:00",
+          "stop": "2026-03-28T15:00:00+00:00",
+          "title": "Harley Davidson Bagger World Cup | United States"
+        },
+        {
+          "display_title": "12:50 AM Silvaplana | Half Pipe",
+          "slot": "UK D+ 010",
+          "slot_norm": "UK D+ 10",
+          "start": "2026-03-28T11:50:00+00:00",
+          "stop": "2026-03-28T15:50:00+00:00",
+          "title": "Silvaplana | Half Pipe"
+        }
+      ],
+      "group": "UK DISCOVERY+",
+      "message_id": 582130526,
+      "message_timestamp": 1774607907,
+      "timezone": "Europe/London",
+      "updated_at": "2026-08-16T05:37:36.944500+00:00"
+    },
+    "paramount": {
+      "channel": "paramount",
+      "events": [
+        {
+          "display_title": "12:20 AM Watford vs Southampton",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-08-16T08:20:00-04:00",
+          "stop": "2026-08-16T12:20:00-04:00",
+          "title": "Watford vs Southampton"
+        },
+        {
+          "display_title": "2:30 AM Burnley vs West Ham United",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-08-16T10:30:00-04:00",
+          "stop": "2026-08-16T14:30:00-04:00",
+          "title": "Burnley vs West Ham United"
+        },
+        {
+          "display_title": "2:55 AM Rangers vs St. Mirren",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-08-16T10:55:00-04:00",
+          "stop": "2026-08-16T14:55:00-04:00",
+          "title": "Rangers vs St. Mirren"
+        },
+        {
+          "display_title": "3:50 AM Frosinone vs Juve Stabia",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-08-16T11:50:00-04:00",
+          "stop": "2026-08-16T15:50:00-04:00",
+          "title": "Frosinone vs Juve Stabia"
+        },
+        {
+          "display_title": "4:20 AM Genoa vs Ascoli",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-08-16T12:20:00-04:00",
+          "stop": "2026-08-16T16:20:00-04:00",
+          "title": "Genoa vs Ascoli"
+        },
+        {
+          "display_title": "6:35 AM Hellas Verona vs Virtus Entella",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-08-16T14:35:00-04:00",
+          "stop": "2026-08-16T18:35:00-04:00",
+          "title": "Hellas Verona vs Virtus Entella"
+        },
+        {
+          "display_title": "7:05 AM Lazio vs Mantova",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-08-16T15:05:00-04:00",
+          "stop": "2026-08-16T19:05:00-04:00",
+          "title": "Lazio vs Mantova"
+        }
+      ],
+      "group": "US PARAMOUNT",
+      "message_id": 616761528,
+      "message_timestamp": 1786852827,
+      "timezone": "America/New_York",
+      "updated_at": "2026-08-16T05:37:36.623511+00:00"
+    },
+    "pay-per-view": {
+      "channel": "pay-per-view",
+      "events": [
+        {
+          "display_title": "2:30 AM USAC Road Racing Road America",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-08-16T10:30:00-04:00",
+          "stop": "2026-08-16T14:30:00-04:00",
+          "title": "USAC Road Racing Road America"
+        },
+        {
+          "display_title": "2:30 AM SOIL Championship Off Road",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-16T10:30:00-04:00",
+          "stop": "2026-08-16T14:30:00-04:00",
+          "title": "SOIL Championship Off Road"
+        },
+        {
+          "display_title": "4:00 AM MotoAmerica Superbikes Virginia",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-08-16T12:00:00-04:00",
+          "stop": "2026-08-16T16:00:00-04:00",
+          "title": "MotoAmerica Superbikes Virginia"
+        },
+        {
+          "display_title": "11:30 AM GO Kart Night Slinger",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-08-16T19:30:00-04:00",
+          "stop": "2026-08-16T23:30:00-04:00",
+          "title": "GO Kart Night Slinger"
+        },
+        {
+          "display_title": "12:00 PM Anthony Pettis FC 24",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-08-16T20:00:00-04:00",
+          "stop": "2026-08-17T00:00:00-04:00",
+          "title": "Anthony Pettis FC 24"
+        },
+        {
+          "display_title": "1:00 PM Primos Pro Wrestling Sorched Summer 2",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-08-16T21:00:00-04:00",
+          "stop": "2026-08-17T01:00:00-04:00",
+          "title": "Primos Pro Wrestling Sorched Summer 2"
+        }
+      ],
+      "group": "PAY PER VIEW",
+      "message_id": 616766324,
+      "message_timestamp": 1786858208,
+      "timezone": "America/New_York",
+      "updated_at": "2026-08-16T05:37:36.696841+00:00"
+    },
+    "pay-per-view2": {
+      "channel": "pay-per-view2",
+      "events": [
+        {
+          "display_title": "9:30 AM EARLY PRELIMS UFC 330",
+          "slot": "PPV2 01",
+          "slot_norm": "PPV2 1",
+          "start": "2026-08-15T17:30:00-04:00",
+          "stop": "2026-08-15T21:30:00-04:00",
+          "title": "EARLY PRELIMS UFC 330"
+        },
+        {
+          "display_title": "9:30 AM EARLY PRELIMS UFC 330",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-08-15T17:30:00-04:00",
+          "stop": "2026-08-15T21:30:00-04:00",
+          "title": "EARLY PRELIMS UFC 330"
+        },
+        {
+          "display_title": "11:00 AM PRELIMS UFC 330",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-08-15T19:00:00-04:00",
+          "stop": "2026-08-15T23:00:00-04:00",
+          "title": "PRELIMS UFC 330"
+        },
+        {
+          "display_title": "11:00 AM PRELIMS UFC 330",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-08-15T19:00:00-04:00",
+          "stop": "2026-08-15T23:00:00-04:00",
+          "title": "PRELIMS UFC 330"
+        },
+        {
+          "display_title": "1:00 PM UFC 330 Makhachev vs Garry",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-08-15T21:00:00-04:00",
+          "stop": "2026-08-16T01:00:00-04:00",
+          "title": "UFC 330 Makhachev vs Garry"
+        },
+        {
+          "display_title": "1:00 PM UFC 330 Makhachev vs Garry",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-08-15T21:00:00-04:00",
+          "stop": "2026-08-16T01:00:00-04:00",
+          "title": "UFC 330 Makhachev vs Garry"
+        },
+        {
+          "display_title": "1:00 PM UFC 330 Makhachev vs Garry",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-08-15T21:00:00-04:00",
+          "stop": "2026-08-16T01:00:00-04:00",
+          "title": "UFC 330 Makhachev vs Garry"
+        },
+        {
+          "display_title": "1:00 PM MULTIVIEW UFC 330",
+          "slot": "PPV2 08",
+          "slot_norm": "PPV2 8",
+          "start": "2026-08-15T21:00:00-04:00",
+          "stop": "2026-08-16T01:00:00-04:00",
+          "title": "MULTIVIEW UFC 330"
+        },
+        {
+          "display_title": "4:15 PM Post Fight Press Conference UFC 330",
+          "slot": "PPV2 09",
+          "slot_norm": "PPV2 9",
+          "start": "2026-08-16T00:15:00-04:00",
+          "stop": "2026-08-16T04:15:00-04:00",
+          "title": "Post Fight Press Conference UFC 330"
+        },
+        {
+          "display_title": "5:00 AM Submission Hunter Pro 104",
+          "slot": "PPV2 10",
+          "slot_norm": "PPV2 10",
+          "start": "2026-08-16T13:00:00-04:00",
+          "stop": "2026-08-16T17:00:00-04:00",
+          "title": "Submission Hunter Pro 104"
+        },
+        {
+          "display_title": "10:30 AM Awesome Championship Wrestling Uprising 2026",
+          "slot": "PPV2 12",
+          "slot_norm": "PPV2 12",
+          "start": "2026-08-16T18:30:00-04:00",
+          "stop": "2026-08-16T22:30:00-04:00",
+          "title": "Awesome Championship Wrestling Uprising 2026"
+        },
+        {
+          "display_title": "11:30 AM Greektown Wrestling",
+          "slot": "PPV2 13",
+          "slot_norm": "PPV2 13",
+          "start": "2026-08-16T19:30:00-04:00",
+          "stop": "2026-08-16T23:30:00-04:00",
+          "title": "Greektown Wrestling"
+        },
+        {
+          "display_title": "12:00 PM GCW Homecoming",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-08-16T20:00:00-04:00",
+          "stop": "2026-08-17T00:00:00-04:00",
+          "title": "GCW Homecoming"
+        },
+        {
+          "display_title": "12:30 PM Shields vs Scott",
+          "slot": "PPV2 15",
+          "slot_norm": "PPV2 15",
+          "start": "2026-08-16T20:30:00-04:00",
+          "stop": "2026-08-17T00:30:00-04:00",
+          "title": "Shields vs Scott"
+        },
+        {
+          "display_title": "8:00 AM Hasty Bake High Limit Room Live at Knoxville",
+          "slot": "PPV2 16",
+          "slot_norm": "PPV2 16",
+          "start": "2026-08-16T16:00:00-04:00",
+          "stop": "2026-08-16T20:00:00-04:00",
+          "title": "Hasty Bake High Limit Room Live at Knoxville"
+        },
+        {
+          "display_title": "1:20 AM USAC Road Racing at Road America",
+          "slot": "PPV2 17",
+          "slot_norm": "PPV2 17",
+          "start": "2026-08-16T09:20:00-04:00",
+          "stop": "2026-08-16T13:20:00-04:00",
+          "title": "USAC Road Racing at Road America"
+        },
+        {
+          "display_title": "8:45 AM KKM Challenge Series at Greenwood",
+          "slot": "PPV2 18",
+          "slot_norm": "PPV2 18",
+          "start": "2026-08-16T16:45:00-04:00",
+          "stop": "2026-08-16T20:45:00-04:00",
+          "title": "KKM Challenge Series at Greenwood"
+        },
+        {
+          "display_title": "11:00 AM IMCA Captain of the Creek at 141",
+          "slot": "PPV2 19",
+          "slot_norm": "PPV2 19",
+          "start": "2026-08-16T19:00:00-04:00",
+          "stop": "2026-08-16T23:00:00-04:00",
+          "title": "IMCA Captain of the Creek at 141"
+        },
+        {
+          "display_title": "12:00 PM Great Lakes Pro Am Series at Lake Erie",
+          "slot": "PPV2 20",
+          "slot_norm": "PPV2 20",
+          "start": "2026-08-16T20:00:00-04:00",
+          "stop": "2026-08-17T00:00:00-04:00",
+          "title": "Great Lakes Pro Am Series at Lake Erie"
+        },
+        {
+          "display_title": "12:15 PM Lucas Oil Topless 100 at Batesville",
+          "slot": "PPV2 21",
+          "slot_norm": "PPV2 21",
+          "start": "2026-08-16T20:15:00-04:00",
+          "stop": "2026-08-17T00:15:00-04:00",
+          "title": "Lucas Oil Topless 100 at Batesville"
+        },
+        {
+          "display_title": "12:00 PM Summer Showdown at Evergreen",
+          "slot": "PPV2 22",
+          "slot_norm": "PPV2 22",
+          "start": "2026-08-16T20:00:00-04:00",
+          "stop": "2026-08-17T00:00:00-04:00",
+          "title": "Summer Showdown at Evergreen"
+        },
+        {
+          "display_title": "2:30 AM SOIL Championship Off Road",
+          "slot": "PPV2 23",
+          "slot_norm": "PPV2 23",
+          "start": "2026-08-17T10:30:00-04:00",
+          "stop": "2026-08-17T14:30:00-04:00",
+          "title": "SOIL Championship Off Road"
+        },
+        {
+          "display_title": "9:15 AM Mr. Supermodified at Oswego",
+          "slot": "PPV2 24",
+          "slot_norm": "PPV2 24",
+          "start": "2026-08-17T17:15:00-04:00",
+          "stop": "2026-08-17T21:15:00-04:00",
+          "title": "Mr. Supermodified at Oswego"
+        },
+        {
+          "display_title": "10:00 AM Race of Champions Modifieds at Lancaster",
+          "slot": "PPV2 25",
+          "slot_norm": "PPV2 25",
+          "start": "2026-08-17T18:00:00-04:00",
+          "stop": "2026-08-17T22:00:00-04:00",
+          "title": "Race of Champions Modifieds at Lancaster"
+        },
+        {
+          "display_title": "10:00 AM Championship Night at Fonda",
+          "slot": "PPV2 26",
+          "slot_norm": "PPV2 26",
+          "start": "2026-08-17T18:00:00-04:00",
+          "stop": "2026-08-17T22:00:00-04:00",
+          "title": "Championship Night at Fonda"
+        },
+        {
+          "display_title": "10:20 AM NASCAR Weekly Racing at Jennerstown",
+          "slot": "PPV2 27",
+          "slot_norm": "PPV2 27",
+          "start": "2026-08-17T18:20:00-04:00",
+          "stop": "2026-08-17T22:20:00-04:00",
+          "title": "NASCAR Weekly Racing at Jennerstown"
+        },
+        {
+          "display_title": "10:45 AM USAC NOS Energy Drink National Midgets at Coles",
+          "slot": "PPV2 28",
+          "slot_norm": "PPV2 28",
+          "start": "2026-08-17T18:45:00-04:00",
+          "stop": "2026-08-17T22:45:00-04:00",
+          "title": "USAC NOS Energy Drink National Midgets at Coles"
+        },
+        {
+          "display_title": "11:00 AM Nascar Cup Series Cook Out 400",
+          "slot": "PPV2 30",
+          "slot_norm": "PPV2 30",
+          "start": "2026-08-17T19:00:00-04:00",
+          "stop": "2026-08-17T23:00:00-04:00",
+          "title": "Nascar Cup Series Cook Out 400"
+        },
+        {
+          "display_title": "9:30 AM Knoxville Raceway",
+          "slot": "PPV2 31",
+          "slot_norm": "PPV2 31",
+          "start": "2026-08-17T17:30:00-04:00",
+          "stop": "2026-08-17T21:30:00-04:00",
+          "title": "Knoxville Raceway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "PPV2 32",
+          "slot_norm": "PPV2 32",
+          "start": "2026-08-17T18:15:00-04:00",
+          "stop": "2026-08-17T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "10:30 AM Sharon Speedway",
+          "slot": "PPV2 33",
+          "slot_norm": "PPV2 33",
+          "start": "2026-08-17T18:30:00-04:00",
+          "stop": "2026-08-17T22:30:00-04:00",
+          "title": "Sharon Speedway"
+        }
+      ],
+      "group": "PAY PER VIEW 2",
+      "message_id": 616702286,
+      "message_timestamp": 1786798830,
+      "timezone": "America/New_York",
+      "updated_at": "2026-08-16T05:37:36.804211+00:00"
+    },
+    "sky-sports-plus": {
+      "channel": "sky-sports-plus",
+      "events": [
+        {
+          "display_title": "10:25 PM ATP Tour: S. Bolelli/A. Vavassori v M. Arevalo/M. Pavic",
+          "slot": "SKY SPORTS+ 001",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-02-27T09:25:00+00:00",
+          "stop": "2026-02-27T13:25:00+00:00",
+          "title": "ATP Tour: S. Bolelli/A. Vavassori v M. Arevalo/M. Pavic"
+        },
+        {
+          "display_title": "11:55 PM ATP Tour: J. Cash/L. Glasspool v H. Heliovaara/H. Patten",
+          "slot": "SKY SPORTS+ 002",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-02-27T10:55:00+00:00",
+          "stop": "2026-02-27T14:55:00+00:00",
+          "title": "ATP Tour: J. Cash/L. Glasspool v H. Heliovaara/H. Patten"
+        },
+        {
+          "display_title": "1:55 AM ATP Tour: F. Auger Aliassime v D. Medvedev",
+          "slot": "SKY SPORTS+ 003",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-02-27T12:55:00+00:00",
+          "stop": "2026-02-27T16:55:00+00:00",
+          "title": "ATP Tour: F. Auger Aliassime v D. Medvedev"
+        },
+        {
+          "display_title": "3:55 AM ATP Tour: A. Rublev v T. Griekspoor",
+          "slot": "SKY SPORTS+ 004",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-02-27T14:55:00+00:00",
+          "stop": "2026-02-27T18:55:00+00:00",
+          "title": "ATP Tour: A. Rublev v T. Griekspoor"
+        },
+        {
+          "display_title": "4:55 AM ATP Tour: Y. Hanfmann v V. Gaubas",
+          "slot": "SKY SPORTS+ 005",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-02-27T15:55:00+00:00",
+          "stop": "2026-02-27T19:55:00+00:00",
+          "title": "ATP Tour: Y. Hanfmann v V. Gaubas"
+        },
+        {
+          "display_title": "6:55 AM ATP Tour: F. Cerundolo v E. Nava",
+          "slot": "SKY SPORTS+ 006",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-02-27T17:55:00+00:00",
+          "stop": "2026-02-27T21:55:00+00:00",
+          "title": "ATP Tour: F. Cerundolo v E. Nava"
+        },
+        {
+          "display_title": "7:55 AM PGA Tour: Cognizant Classic Featured Hole",
+          "slot": "SKY SPORTS+ 007",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-02-27T18:55:00+00:00",
+          "stop": "2026-02-27T22:55:00+00:00",
+          "title": "PGA Tour: Cognizant Classic Featured Hole"
+        },
+        {
+          "display_title": "7:55 AM PGA Tour: Cognizant Classic Featured Hole",
+          "slot": "SKY SPORTS+ 008",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-02-27T18:55:00+00:00",
+          "stop": "2026-02-27T22:55:00+00:00",
+          "title": "PGA Tour: Cognizant Classic Featured Hole"
+        },
+        {
+          "display_title": "7:55 AM PGA Tour: Cognizant Classic Featured Group 1",
+          "slot": "SKY SPORTS+ 009",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-02-27T18:55:00+00:00",
+          "stop": "2026-02-27T22:55:00+00:00",
+          "title": "PGA Tour: Cognizant Classic Featured Group 1"
+        },
+        {
+          "display_title": "7:55 AM PGA Tour: Cognizant Classic Featured Group 2",
+          "slot": "SKY SPORTS+ 010",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-02-27T18:55:00+00:00",
+          "stop": "2026-02-27T22:55:00+00:00",
+          "title": "PGA Tour: Cognizant Classic Featured Group 2"
+        },
+        {
+          "display_title": "7:55 AM WTA Tour: K. Birrell v A. Tomljanovic",
+          "slot": "SKY SPORTS+ 011",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-02-27T18:55:00+00:00",
+          "stop": "2026-02-27T22:55:00+00:00",
+          "title": "WTA Tour: K. Birrell v A. Tomljanovic"
+        },
+        {
+          "display_title": "8:30 AM EFL: Harrogate v Cheltenham",
+          "slot": "SKY SPORTS+ 012",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-02-27T19:30:00+00:00",
+          "stop": "2026-02-27T23:30:00+00:00",
+          "title": "EFL: Harrogate v Cheltenham"
+        },
+        {
+          "display_title": "8:50 AM Betfred Super League: Castleford Tigers v Huddersfield Giants",
+          "slot": "SKY SPORTS+ 013",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-02-27T19:50:00+00:00",
+          "stop": "2026-02-27T23:50:00+00:00",
+          "title": "Betfred Super League: Castleford Tigers v Huddersfield Giants"
+        },
+        {
+          "display_title": "8:50 AM Betfred Super League: Hull FC v York City Knights",
+          "slot": "SKY SPORTS+ 014",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-02-27T19:50:00+00:00",
+          "stop": "2026-02-27T23:50:00+00:00",
+          "title": "Betfred Super League: Hull FC v York City Knights"
+        },
+        {
+          "display_title": "8:55 AM WTA Tour: M. Frech v M. Bouzkova",
+          "slot": "SKY SPORTS+ 015",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-02-27T19:55:00+00:00",
+          "stop": "2026-02-27T23:55:00+00:00",
+          "title": "WTA Tour: M. Frech v M. Bouzkova"
+        },
+        {
+          "display_title": "9:25 AM WTA Tour: Chong Eudice Wong/Liang En Shuo v S. Aoyama/E. Shibahara",
+          "slot": "SKY SPORTS+ 016",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-02-27T20:25:00+00:00",
+          "stop": "2026-02-28T00:25:00+00:00",
+          "title": "WTA Tour: Chong Eudice Wong/Liang En Shuo v S. Aoyama/E. Shibahara"
+        },
+        {
+          "display_title": "9:25 AM WTA Tour: R. Masarova v T. Townsend",
+          "slot": "SKY SPORTS+ 017",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-02-27T20:25:00+00:00",
+          "stop": "2026-02-28T00:25:00+00:00",
+          "title": "WTA Tour: R. Masarova v T. Townsend"
+        },
+        {
+          "display_title": "10:25 AM ATP Tour: A. Pellegrino v L. Darderi",
+          "slot": "SKY SPORTS+ 018",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-02-27T21:25:00+00:00",
+          "stop": "2026-02-28T01:25:00+00:00",
+          "title": "ATP Tour: A. Pellegrino v L. Darderi"
+        },
+        {
+          "display_title": "10:25 AM ATP Tour: Z. Sonmez v C. Bucsa",
+          "slot": "SKY SPORTS+ 019",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-02-27T21:25:00+00:00",
+          "stop": "2026-02-28T01:25:00+00:00",
+          "title": "ATP Tour: Z. Sonmez v C. Bucsa"
+        },
+        {
+          "display_title": "10:55 AM WTA Tour: K. Birrell/C. McNally v C. Harrison/D. Hewitt",
+          "slot": "SKY SPORTS+ 020",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-02-27T21:55:00+00:00",
+          "stop": "2026-02-28T01:55:00+00:00",
+          "title": "WTA Tour: K. Birrell/C. McNally v C. Harrison/D. Hewitt"
+        },
+        {
+          "display_title": "10:55 AM WTA Tour: K. Piter/J. Tjen v C. Bucsa/Jiang Xinyu",
+          "slot": "SKY SPORTS+ 021",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-02-27T21:55:00+00:00",
+          "stop": "2026-02-28T01:55:00+00:00",
+          "title": "WTA Tour: K. Piter/J. Tjen v C. Bucsa/Jiang Xinyu"
+        },
+        {
+          "display_title": "11:55 AM ATP Tour: A. Tabilo v S. Baez",
+          "slot": "SKY SPORTS+ 022",
+          "slot_norm": "SKY SPORTS+ 22",
+          "start": "2026-02-27T22:55:00+00:00",
+          "stop": "2026-02-28T02:55:00+00:00",
+          "title": "ATP Tour: A. Tabilo v S. Baez"
+        },
+        {
+          "display_title": "12:55 PM WTA Tour: O. Selekhmeteva v P. Stearns",
+          "slot": "SKY SPORTS+ 023",
+          "slot_norm": "SKY SPORTS+ 23",
+          "start": "2026-02-27T23:55:00+00:00",
+          "stop": "2026-02-28T03:55:00+00:00",
+          "title": "WTA Tour: O. Selekhmeteva v P. Stearns"
+        },
+        {
+          "display_title": "12:55 PM WTA Tour: V. Jimenez Kasintseva v Zhang Shuai",
+          "slot": "SKY SPORTS+ 024",
+          "slot_norm": "SKY SPORTS+ 24",
+          "start": "2026-02-27T23:55:00+00:00",
+          "stop": "2026-02-28T03:55:00+00:00",
+          "title": "WTA Tour: V. Jimenez Kasintseva v Zhang Shuai"
+        },
+        {
+          "display_title": "1:55 PM ATP Tour: M. Kecmanovic v F. Cobolli",
+          "slot": "SKY SPORTS+ 025",
+          "slot_norm": "SKY SPORTS+ 25",
+          "start": "2026-02-28T00:55:00+00:00",
+          "stop": "2026-02-28T04:55:00+00:00",
+          "title": "ATP Tour: M. Kecmanovic v F. Cobolli"
+        },
+        {
+          "display_title": "1:55 PM ATP Tour: V. Kirkov/B. Stevens v A. Erler/R. Galloway",
+          "slot": "SKY SPORTS+ 026",
+          "slot_norm": "SKY SPORTS+ 26",
+          "start": "2026-02-28T00:55:00+00:00",
+          "stop": "2026-02-28T04:55:00+00:00",
+          "title": "ATP Tour: V. Kirkov/B. Stevens v A. Erler/R. Galloway"
+        },
+        {
+          "display_title": "2:25 PM WTA Tour: J. Paolini v K. Boulter",
+          "slot": "SKY SPORTS+ 027",
+          "slot_norm": "SKY SPORTS+ 27",
+          "start": "2026-02-28T01:25:00+00:00",
+          "stop": "2026-02-28T05:25:00+00:00",
+          "title": "WTA Tour: J. Paolini v K. Boulter"
+        },
+        {
+          "display_title": "2:25 PM WTA Tour: Yuan Yue v A. Krueger",
+          "slot": "SKY SPORTS+ 028",
+          "slot_norm": "SKY SPORTS+ 28",
+          "start": "2026-02-28T01:25:00+00:00",
+          "stop": "2026-02-28T05:25:00+00:00",
+          "title": "WTA Tour: Yuan Yue v A. Krueger"
+        },
+        {
+          "display_title": "3:25 PM ATP Tour: F. Tiafoe v B. Nakashima",
+          "slot": "SKY SPORTS+ 029",
+          "slot_norm": "SKY SPORTS+ 29",
+          "start": "2026-02-28T02:25:00+00:00",
+          "stop": "2026-02-28T06:25:00+00:00",
+          "title": "ATP Tour: F. Tiafoe v B. Nakashima"
+        },
+        {
+          "display_title": "3:25 PM ATP Tour: R. Jodar/R. Pacheco Mendez v M. Melo/A. Zverev",
+          "slot": "SKY SPORTS+ 030",
+          "slot_norm": "SKY SPORTS+ 30",
+          "start": "2026-02-28T02:25:00+00:00",
+          "stop": "2026-02-28T06:25:00+00:00",
+          "title": "ATP Tour: R. Jodar/R. Pacheco Mendez v M. Melo/A. Zverev"
+        }
+      ],
+      "group": "SKY SPORTS+",
+      "message_id": 576245394,
+      "message_timestamp": 1772194364,
+      "timezone": "Europe/London",
+      "updated_at": "2026-08-16T05:37:36.849162+00:00"
+    },
+    "stan-sport": {
+      "channel": "stan-sport",
+      "events": [
+        {
+          "display_title": "2:00 PM Southland vs Waikato NPC Round 3 2026",
+          "slot": "AU STAN ALT 017",
+          "slot_norm": "AU STAN ALT 17",
+          "start": "2026-08-16T12:00:00+10:00",
+          "stop": "2026-08-16T16:00:00+10:00",
+          "title": "Southland vs Waikato NPC Round 3 2026"
+        },
+        {
+          "display_title": "5:00 PM Counties Manukau vs Tasman NPC Round 3 2026",
+          "slot": "AU STAN ALT 018",
+          "slot_norm": "AU STAN ALT 18",
+          "start": "2026-08-16T15:00:00+10:00",
+          "stop": "2026-08-16T19:00:00+10:00",
+          "title": "Counties Manukau vs Tasman NPC Round 3 2026"
+        },
+        {
+          "display_title": "5:00 PM Easts vs Wests Hospital Cup Semi Final 2026",
+          "slot": "AU STAN ALT 019",
+          "slot_norm": "AU STAN ALT 19",
+          "start": "2026-08-16T15:00:00+10:00",
+          "stop": "2026-08-16T19:00:00+10:00",
+          "title": "Easts vs Wests Hospital Cup Semi Final 2026"
+        },
+        {
+          "display_title": "7:25 PM Free Practice 3: London Formula E 2025/26",
+          "slot": "AU STAN ALT 020",
+          "slot_norm": "AU STAN ALT 20",
+          "start": "2026-08-16T17:25:00+10:00",
+          "stop": "2026-08-16T21:25:00+10:00",
+          "title": "Free Practice 3: London Formula E 2025/26"
+        },
+        {
+          "display_title": "9:30 PM Qualifying 2: London Formula E 2025/26",
+          "slot": "AU STAN ALT 021",
+          "slot_norm": "AU STAN ALT 21",
+          "start": "2026-08-16T19:30:00+10:00",
+          "stop": "2026-08-16T23:30:00+10:00",
+          "title": "Qualifying 2: London Formula E 2025/26"
+        },
+        {
+          "display_title": "10:25 PM Ulsan vs Gangwon K League 2026",
+          "slot": "AU STAN ALT 022",
+          "slot_norm": "AU STAN ALT 22",
+          "start": "2026-08-16T20:25:00+10:00",
+          "stop": "2026-08-17T00:25:00+10:00",
+          "title": "Ulsan vs Gangwon K League 2026"
+        },
+        {
+          "display_title": "10:25 PM Bucheon vs Jeonbuk K League 2026",
+          "slot": "AU STAN ALT 023",
+          "slot_norm": "AU STAN ALT 23",
+          "start": "2026-08-16T20:25:00+10:00",
+          "stop": "2026-08-17T00:25:00+10:00",
+          "title": "Bucheon vs Jeonbuk K League 2026"
+        },
+        {
+          "display_title": "11:00 PM Race Day Part 1: Sweden MXGP 2026",
+          "slot": "AU STAN ALT 024",
+          "slot_norm": "AU STAN ALT 24",
+          "start": "2026-08-16T21:00:00+10:00",
+          "stop": "2026-08-17T01:00:00+10:00",
+          "title": "Race Day Part 1: Sweden MXGP 2026"
+        },
+        {
+          "display_title": "12:55 AM Bulls vs Cheetahs Currie Cup Round 5 2026",
+          "slot": "AU STAN ALT 025",
+          "slot_norm": "AU STAN ALT 25",
+          "start": "2026-08-16T22:55:00+10:00",
+          "stop": "2026-08-17T02:55:00+10:00",
+          "title": "Bulls vs Cheetahs Currie Cup Round 5 2026"
+        },
+        {
+          "display_title": "1:00 AM Race 2: London Formula E 2025/26",
+          "slot": "AU STAN ALT 026",
+          "slot_norm": "AU STAN ALT 26",
+          "start": "2026-08-16T23:00:00+10:00",
+          "stop": "2026-08-17T03:00:00+10:00",
+          "title": "Race 2: London Formula E 2025/26"
+        },
+        {
+          "display_title": "1:45 AM Arsenal vs Manchester City FA Community Shield 2026",
+          "slot": "AU STAN ALT 027",
+          "slot_norm": "AU STAN ALT 27",
+          "start": "2026-08-16T23:45:00+10:00",
+          "stop": "2026-08-17T03:45:00+10:00",
+          "title": "Arsenal vs Manchester City FA Community Shield 2026"
+        },
+        {
+          "display_title": "2:00 AM Race Day Part 2: Sweden MXGP 2026",
+          "slot": "AU STAN ALT 028",
+          "slot_norm": "AU STAN ALT 28",
+          "start": "2026-08-17T00:00:00+10:00",
+          "stop": "2026-08-17T04:00:00+10:00",
+          "title": "Race Day Part 2: Sweden MXGP 2026"
+        },
+        {
+          "display_title": "3:00 AM Cincinnati: Day 4 WTA 1000",
+          "slot": "AU STAN ALT 029",
+          "slot_norm": "AU STAN ALT 29",
+          "start": "2026-08-17T01:00:00+10:00",
+          "stop": "2026-08-17T05:00:00+10:00",
+          "title": "Cincinnati: Day 4 WTA 1000"
+        },
+        {
+          "display_title": "4:00 AM Race: Grand Prix of Markham Indycar 2026",
+          "slot": "AU STAN ALT 030",
+          "slot_norm": "AU STAN ALT 30",
+          "start": "2026-08-17T02:00:00+10:00",
+          "stop": "2026-08-17T06:00:00+10:00",
+          "title": "Race: Grand Prix of Markham Indycar 2026"
+        }
+      ],
+      "group": "AU STAN",
+      "message_id": 616713405,
+      "message_timestamp": 1786809623,
+      "timezone": "Australia/Sydney",
+      "updated_at": "2026-08-16T05:37:36.897283+00:00"
+    }
+  },
   "version": 1
 }
