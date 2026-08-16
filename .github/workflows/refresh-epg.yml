@@ -32,23 +32,16 @@ jobs:
           git config user.name "EPG updater"
           git config user.email "actions@users.noreply.github.com"
 
+          git fetch origin main
+          git reset --hard origin/main
+
+          python generate_epg.py
+
           git add vortex_custom_event_epg.xml
 
           if git diff --cached --quiet; then
             echo "No EPG changes to commit."
-            exit 0
-          fi
-
-          git commit -m "Refresh EPG from Vortex playlist"
-
-          git fetch origin main
-          git rebase origin/main || {
-            git rebase --abort
-            git reset --hard origin/main
-            python generate_epg.py
-            git add vortex_custom_event_epg.xml
+          else
             git commit -m "Refresh EPG from Vortex playlist"
-          }
-
-          git push origin HEAD:main
+            git push origin HEAD:main
           fi
