@@ -129,66 +129,66 @@
       "events": [
         {
           "display_title": "12:20 AM Watford vs Southampton",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-16T08:20:00-04:00",
           "stop": "2026-08-16T12:20:00-04:00",
           "title": "Watford vs Southampton"
         },
         {
           "display_title": "2:30 AM Burnley vs West Ham United",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-16T10:30:00-04:00",
           "stop": "2026-08-16T14:30:00-04:00",
           "title": "Burnley vs West Ham United"
         },
         {
           "display_title": "2:55 AM Rangers vs St. Mirren",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-16T10:55:00-04:00",
           "stop": "2026-08-16T14:55:00-04:00",
           "title": "Rangers vs St. Mirren"
         },
         {
           "display_title": "3:50 AM Frosinone vs Juve Stabia",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-16T11:50:00-04:00",
           "stop": "2026-08-16T15:50:00-04:00",
           "title": "Frosinone vs Juve Stabia"
         },
         {
           "display_title": "4:20 AM Genoa vs Ascoli",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-08-16T12:20:00-04:00",
           "stop": "2026-08-16T16:20:00-04:00",
           "title": "Genoa vs Ascoli"
         },
         {
           "display_title": "6:35 AM Hellas Verona vs Virtus Entella",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-08-16T14:35:00-04:00",
           "stop": "2026-08-16T18:35:00-04:00",
           "title": "Hellas Verona vs Virtus Entella"
         },
         {
           "display_title": "7:05 AM Lazio vs Mantova",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-08-16T15:05:00-04:00",
           "stop": "2026-08-16T19:05:00-04:00",
           "title": "Lazio vs Mantova"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 616761528,
-      "message_timestamp": 1786852827,
+      "message_id": 616777198,
+      "message_timestamp": 1786869016,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-16T05:37:36.623511+00:00"
+      "updated_at": "2026-08-16T09:46:49.253946+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -760,123 +760,91 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM Southland vs Waikato NPC Round 3 2026",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-08-16T12:00:00+10:00",
-          "stop": "2026-08-16T16:00:00+10:00",
-          "title": "Southland vs Waikato NPC Round 3 2026"
-        },
-        {
-          "display_title": "5:00 PM Counties Manukau vs Tasman NPC Round 3 2026",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-08-16T15:00:00+10:00",
-          "stop": "2026-08-16T19:00:00+10:00",
-          "title": "Counties Manukau vs Tasman NPC Round 3 2026"
-        },
-        {
-          "display_title": "5:00 PM Easts vs Wests Hospital Cup Semi Final 2026",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-08-16T15:00:00+10:00",
-          "stop": "2026-08-16T19:00:00+10:00",
-          "title": "Easts vs Wests Hospital Cup Semi Final 2026"
-        },
-        {
-          "display_title": "7:25 PM Free Practice 3: London Formula E 2025/26",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-08-16T17:25:00+10:00",
-          "stop": "2026-08-16T21:25:00+10:00",
-          "title": "Free Practice 3: London Formula E 2025/26"
-        },
-        {
           "display_title": "9:30 PM Qualifying 2: London Formula E 2025/26",
-          "slot": "AU STAN ALT 021",
-          "slot_norm": "AU STAN ALT 21",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-08-16T19:30:00+10:00",
           "stop": "2026-08-16T23:30:00+10:00",
           "title": "Qualifying 2: London Formula E 2025/26"
         },
         {
           "display_title": "10:25 PM Ulsan vs Gangwon K League 2026",
-          "slot": "AU STAN ALT 022",
-          "slot_norm": "AU STAN ALT 22",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
           "start": "2026-08-16T20:25:00+10:00",
           "stop": "2026-08-17T00:25:00+10:00",
           "title": "Ulsan vs Gangwon K League 2026"
         },
         {
           "display_title": "10:25 PM Bucheon vs Jeonbuk K League 2026",
-          "slot": "AU STAN ALT 023",
-          "slot_norm": "AU STAN ALT 23",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-08-16T20:25:00+10:00",
           "stop": "2026-08-17T00:25:00+10:00",
           "title": "Bucheon vs Jeonbuk K League 2026"
         },
         {
           "display_title": "11:00 PM Race Day Part 1: Sweden MXGP 2026",
-          "slot": "AU STAN ALT 024",
-          "slot_norm": "AU STAN ALT 24",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-08-16T21:00:00+10:00",
           "stop": "2026-08-17T01:00:00+10:00",
           "title": "Race Day Part 1: Sweden MXGP 2026"
         },
         {
           "display_title": "12:55 AM Bulls vs Cheetahs Currie Cup Round 5 2026",
-          "slot": "AU STAN ALT 025",
-          "slot_norm": "AU STAN ALT 25",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-08-16T22:55:00+10:00",
           "stop": "2026-08-17T02:55:00+10:00",
           "title": "Bulls vs Cheetahs Currie Cup Round 5 2026"
         },
         {
           "display_title": "1:00 AM Race 2: London Formula E 2025/26",
-          "slot": "AU STAN ALT 026",
-          "slot_norm": "AU STAN ALT 26",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-08-16T23:00:00+10:00",
           "stop": "2026-08-17T03:00:00+10:00",
           "title": "Race 2: London Formula E 2025/26"
         },
         {
           "display_title": "1:45 AM Arsenal vs Manchester City FA Community Shield 2026",
-          "slot": "AU STAN ALT 027",
-          "slot_norm": "AU STAN ALT 27",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
           "start": "2026-08-16T23:45:00+10:00",
           "stop": "2026-08-17T03:45:00+10:00",
           "title": "Arsenal vs Manchester City FA Community Shield 2026"
         },
         {
           "display_title": "2:00 AM Race Day Part 2: Sweden MXGP 2026",
-          "slot": "AU STAN ALT 028",
-          "slot_norm": "AU STAN ALT 28",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-08-17T00:00:00+10:00",
           "stop": "2026-08-17T04:00:00+10:00",
           "title": "Race Day Part 2: Sweden MXGP 2026"
         },
         {
           "display_title": "3:00 AM Cincinnati: Day 4 WTA 1000",
-          "slot": "AU STAN ALT 029",
-          "slot_norm": "AU STAN ALT 29",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-08-17T01:00:00+10:00",
           "stop": "2026-08-17T05:00:00+10:00",
           "title": "Cincinnati: Day 4 WTA 1000"
         },
         {
           "display_title": "4:00 AM Race: Grand Prix of Markham Indycar 2026",
-          "slot": "AU STAN ALT 030",
-          "slot_norm": "AU STAN ALT 30",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
           "start": "2026-08-17T02:00:00+10:00",
           "stop": "2026-08-17T06:00:00+10:00",
           "title": "Race: Grand Prix of Markham Indycar 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 616713405,
-      "message_timestamp": 1786809623,
+      "message_id": 616780727,
+      "message_timestamp": 1786872615,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-16T05:37:36.897283+00:00"
+      "updated_at": "2026-08-16T09:46:50.617256+00:00"
     }
   },
   "version": 1
