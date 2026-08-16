@@ -3,7 +3,8 @@ name: Refresh TiviMate EPG
 on:
   workflow_dispatch:
   schedule:
-    - cron: "17 */8 * * *"
+    # Every 12 hours. GitHub cron is UTC.
+    - cron: "17 */12 * * *"
 
 permissions:
   contents: write
@@ -21,12 +22,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate XMLTV guide
+      - name: Generate XMLTV guide from fresh Vortex playlist
         env:
           XTREAM_M3U_URL: ${{ secrets.XTREAM_M3U_URL }}
-          ZULIP_SITE: ${{ secrets.ZULIP_SITE }}
-          ZULIP_EMAIL: ${{ secrets.ZULIP_EMAIL }}
-          ZULIP_API_KEY: ${{ secrets.ZULIP_API_KEY }}
         run: python generate_epg.py
 
       - name: Commit updated guide
@@ -38,6 +36,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No EPG changes to commit."
           else
-            git commit -m "Refresh EPG"
+            git commit -m "Refresh EPG from Vortex playlist"
             git push
           fi
