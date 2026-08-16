@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:15 AM Cedar Lake Speedway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-08-15T18:15:00-04:00",
-          "stop": "2026-08-15T22:15:00-04:00",
-          "title": "Cedar Lake Speedway"
-        },
-        {
-          "display_title": "10:30 AM Sharon Speedway",
-          "slot": "DIRT 03",
-          "slot_norm": "DIRT 3",
-          "start": "2026-08-15T18:30:00-04:00",
-          "stop": "2026-08-15T22:30:00-04:00",
-          "title": "Sharon Speedway"
-        },
-        {
-          "display_title": "3:00 AM PM",
-          "slot": "DIRT 05",
-          "slot_norm": "DIRT 5",
-          "start": "2026-08-15T11:00:00-04:00",
-          "stop": "2026-08-15T15:00:00-04:00",
-          "title": "PM"
+          "display_title": "8:45 AM Weedsport Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-08-16T16:45:00-04:00",
+          "stop": "2026-08-16T20:45:00-04:00",
+          "title": "Weedsport Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 616707788,
-      "message_timestamp": 1786804213,
+      "message_id": 616801315,
+      "message_timestamp": 1786888812,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-16T05:37:36.572869+00:00"
+      "updated_at": "2026-08-16T15:00:54.896789+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -552,62 +536,6 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "9:30 PM Qualifying 2: London Formula E 2025/26",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-08-16T19:30:00+10:00",
-          "stop": "2026-08-16T23:30:00+10:00",
-          "title": "Qualifying 2: London Formula E 2025/26"
-        },
-        {
-          "display_title": "10:25 PM Ulsan vs Gangwon K League 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-08-16T20:25:00+10:00",
-          "stop": "2026-08-17T00:25:00+10:00",
-          "title": "Ulsan vs Gangwon K League 2026"
-        },
-        {
-          "display_title": "10:25 PM Bucheon vs Jeonbuk K League 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-08-16T20:25:00+10:00",
-          "stop": "2026-08-17T00:25:00+10:00",
-          "title": "Bucheon vs Jeonbuk K League 2026"
-        },
-        {
-          "display_title": "11:00 PM Race Day Part 1: Sweden MXGP 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-08-16T21:00:00+10:00",
-          "stop": "2026-08-17T01:00:00+10:00",
-          "title": "Race Day Part 1: Sweden MXGP 2026"
-        },
-        {
-          "display_title": "12:55 AM Bulls vs Cheetahs Currie Cup Round 5 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-08-16T22:55:00+10:00",
-          "stop": "2026-08-17T02:55:00+10:00",
-          "title": "Bulls vs Cheetahs Currie Cup Round 5 2026"
-        },
-        {
-          "display_title": "1:00 AM Race 2: London Formula E 2025/26",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-08-16T23:00:00+10:00",
-          "stop": "2026-08-17T03:00:00+10:00",
-          "title": "Race 2: London Formula E 2025/26"
-        },
-        {
-          "display_title": "1:45 AM Arsenal vs Manchester City FA Community Shield 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-08-16T23:45:00+10:00",
-          "stop": "2026-08-17T03:45:00+10:00",
-          "title": "Arsenal vs Manchester City FA Community Shield 2026"
-        },
-        {
           "display_title": "2:00 AM Race Day Part 2: Sweden MXGP 2026",
           "slot": "AU STAN 008",
           "slot_norm": "AU STAN 8",
@@ -632,91 +560,67 @@
           "title": "Race: Grand Prix of Markham Indycar 2026"
         },
         {
-          "display_title": "9:30 PM Qualifying 2: London Formula E 2025/26",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-16T19:30:00+10:00",
-          "stop": "2026-08-16T23:30:00+10:00",
-          "title": "Qualifying 2: London Formula E 2025/26"
+          "display_title": "11:00 AM North Carolina Courage vs Houston Dash NWSL 2026",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
+          "start": "2026-08-17T09:00:00+10:00",
+          "stop": "2026-08-17T13:00:00+10:00",
+          "title": "North Carolina Courage vs Houston Dash NWSL 2026"
         },
         {
-          "display_title": "10:25 PM Ulsan vs Gangwon K League 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-08-16T20:25:00+10:00",
-          "stop": "2026-08-17T00:25:00+10:00",
-          "title": "Ulsan vs Gangwon K League 2026"
-        },
-        {
-          "display_title": "10:25 PM Bucheon vs Jeonbuk K League 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-08-16T20:25:00+10:00",
-          "stop": "2026-08-17T00:25:00+10:00",
-          "title": "Bucheon vs Jeonbuk K League 2026"
-        },
-        {
-          "display_title": "11:00 PM Race Day Part 1: Sweden MXGP 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-08-16T21:00:00+10:00",
-          "stop": "2026-08-17T01:00:00+10:00",
-          "title": "Race Day Part 1: Sweden MXGP 2026"
-        },
-        {
-          "display_title": "12:55 AM Bulls vs Cheetahs Currie Cup Round 5 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-08-16T22:55:00+10:00",
-          "stop": "2026-08-17T02:55:00+10:00",
-          "title": "Bulls vs Cheetahs Currie Cup Round 5 2026"
-        },
-        {
-          "display_title": "1:00 AM Race 2: London Formula E 2025/26",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-08-16T23:00:00+10:00",
-          "stop": "2026-08-17T03:00:00+10:00",
-          "title": "Race 2: London Formula E 2025/26"
-        },
-        {
-          "display_title": "1:45 AM Arsenal vs Manchester City FA Community Shield 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-08-16T23:45:00+10:00",
-          "stop": "2026-08-17T03:45:00+10:00",
-          "title": "Arsenal vs Manchester City FA Community Shield 2026"
+          "display_title": "3:00 AM Cincinnati: Day 5 WTA 1000",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-08-18T01:00:00+10:00",
+          "stop": "2026-08-18T05:00:00+10:00",
+          "title": "Cincinnati: Day 5 WTA 1000"
         },
         {
           "display_title": "2:00 AM Race Day Part 2: Sweden MXGP 2026",
           "slot": "AU STAN ALT 008",
           "slot_norm": "AU STAN ALT 8",
-          "start": "2026-08-17T00:00:00+10:00",
-          "stop": "2026-08-17T04:00:00+10:00",
+          "start": "2026-08-18T00:00:00+10:00",
+          "stop": "2026-08-18T04:00:00+10:00",
           "title": "Race Day Part 2: Sweden MXGP 2026"
         },
         {
           "display_title": "3:00 AM Cincinnati: Day 4 WTA 1000",
           "slot": "AU STAN ALT 009",
           "slot_norm": "AU STAN ALT 9",
-          "start": "2026-08-17T01:00:00+10:00",
-          "stop": "2026-08-17T05:00:00+10:00",
+          "start": "2026-08-18T01:00:00+10:00",
+          "stop": "2026-08-18T05:00:00+10:00",
           "title": "Cincinnati: Day 4 WTA 1000"
         },
         {
           "display_title": "4:00 AM Race: Grand Prix of Markham Indycar 2026",
           "slot": "AU STAN ALT 010",
           "slot_norm": "AU STAN ALT 10",
-          "start": "2026-08-17T02:00:00+10:00",
-          "stop": "2026-08-17T06:00:00+10:00",
+          "start": "2026-08-18T02:00:00+10:00",
+          "stop": "2026-08-18T06:00:00+10:00",
           "title": "Race: Grand Prix of Markham Indycar 2026"
+        },
+        {
+          "display_title": "11:00 AM North Carolina Courage vs Houston Dash NWSL 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-08-18T09:00:00+10:00",
+          "stop": "2026-08-18T13:00:00+10:00",
+          "title": "North Carolina Courage vs Houston Dash NWSL 2026"
+        },
+        {
+          "display_title": "3:00 AM Cincinnati: Day 5 WTA 1000",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-08-18T01:00:00+10:00",
+          "stop": "2026-08-18T05:00:00+10:00",
+          "title": "Cincinnati: Day 5 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 616786174,
-      "message_timestamp": 1786878012,
+      "message_id": 616801368,
+      "message_timestamp": 1786888823,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-16T11:00:30.685275+00:00"
+      "updated_at": "2026-08-16T15:00:55.348484+00:00"
     }
   },
   "version": 1
