@@ -28,45 +28,24 @@ GROUP_TIMEZONES = {
     "ESPN PLAY": "America/New_York",
 }
 
+DISPLAY_TIMEZONE = ZoneInfo("Pacific/Auckland")
 WANTED_GROUPS = set(GROUP_TIMEZONES)
 
 WANTED_PREFIXES = (
-    "PPV ",
-    "PPV2 ",
-    "PPV ALT ",
-    "PARAMOUNT ",
-    "AU STAN ",
-    "AU STAN ALT ",
-    "KAYO+ ",
-    "AU KAYO+ ",
-    "ESPN+ ",
-    "ESPN+ ALT ",
-    "ESPN+ ALT2 ",
-    "ESPNPLAY ",
-    "DIRT ",
-    "SKY SPORTS+ ",
-    "SPORTSNET+ ",
-    "SN+ ",
-    "TSN+ ",
-    "UFC ",
-    "UK D+ ",
+    "PPV ", "PPV2 ", "PPV ALT ", "PARAMOUNT ",
+    "AU STAN ", "AU STAN ALT ", "KAYO+ ", "AU KAYO+ ",
+    "ESPN+ ", "ESPN+ ALT ", "ESPN+ ALT2 ", "ESPNPLAY ",
+    "DIRT ", "SKY SPORTS+ ", "SPORTSNET+ ", "SN+ ", "TSN+ ",
+    "UFC ", "UK D+ ",
 )
 
 ATTR_RE = re.compile(r'([\w-]+)="([^"]*)"')
-
-# Beginning time, e.g. 17:30 Event Name
 TIME_RE = re.compile(
     r'^\s*(?P<hour>\d{1,2}):(?P<minute>\d{2})'
     r'(?:\s*(?P<ampm>AM|PM))?'
     r'\s*(?:\|\s*)?(?P<rest>.*)$',
     re.I,
 )
-
-# Date at the end:
-# 08-28
-# 08-28-26
-# 8/28/26
-# 16/08
 DATE_RE = re.compile(
     r'(?:\s+|^)'
     r'(?P<a>\d{1,2})[-/](?P<b>\d{1,2})'
@@ -74,19 +53,15 @@ DATE_RE = re.compile(
     r'\s*$'
 )
 
-
 def attrs(line: str) -> dict[str, str]:
     return dict(ATTR_RE.findall(line))
-
 
 def safe_id(value: str) -> str:
     value = re.sub(r"[^A-Za-z0-9_.-]+", ".", value.strip())
     return value.strip(".") or "channel"
 
-
 def stable_slot(display: str) -> str:
     return display.split(":", 1)[0].strip() if ":" in display else display.strip()
-
 
 def wanted_channel(group: str, display: str) -> bool:
     if group in WANTED_GROUPS:
@@ -94,14 +69,10 @@ def wanted_channel(group: str, display: str) -> bool:
     upper = display.upper().strip()
     return any(upper.startswith(prefix) for prefix in WANTED_PREFIXES)
 
-
-def to_12hr(hour: int, minute: int) -> str:
-    suffix = "AM" if hour < 12 else "PM"
-    h = hour % 12
-    if h == 0:
-        h = 12
-    return f"{h}:{minute:02d} {suffix}"
-
+def to_12hr(dt: datetime) -> str:
+    suffix = "AM" if dt.hour < 12 else "PM"
+    hour = dt.hour % 12 or 12
+    return f"{hour}:{dt.minute:02d} {suffix}"
 
 def convert_hour(hour: int, ampm: str | None) -> int:
     if not ampm:
@@ -113,12 +84,7 @@ def convert_hour(hour: int, ampm: str | None) -> int:
         return 0
     return hour
 
-
 def infer_date(a: int, b: int, year_text: str | None, tz: ZoneInfo, now: datetime):
-    """
-    Vortex mostly uses MM-DD. For slash dates with a first value > 12,
-    interpret as DD/MM. Handles 08-28, 08-28-26, 16/08, 8/28/2026.
-    """
     if a > 12:
         day, month = a, b
     else:
@@ -129,7 +95,6 @@ def infer_date(a: int, b: int, year_text: str | None, tz: ZoneInfo, now: datetim
         if year < 100:
             year += 2000
     else:
-        # Pick the nearest sensible year.
         candidates = []
         for year in (now.year - 1, now.year, now.year + 1):
             try:
@@ -145,15 +110,7 @@ def infer_date(a: int, b: int, year_text: str | None, tz: ZoneInfo, now: datetim
     except ValueError:
         return None
 
-
 def parse_listing(display: str, timezone_name: str):
-    """
-    Returns:
-      (start, stop, visible_title, has_explicit_date)
-
-    Explicit-date listings are scheduled on the real date.
-    No-date listings get a rolling 13-hour window around now.
-    """
     if ":" not in display:
         return None
 
@@ -161,8 +118,8 @@ def parse_listing(display: str, timezone_name: str):
     if not payload:
         return None
 
-    tz = ZoneInfo(timezone_name)
-    now = datetime.now(tz)
+    source_tz = ZoneInfo(timezone_name)
+    now_source = datetime.now(source_tz)
 
     date_obj = None
     dm = DATE_RE.search(payload)
@@ -171,13 +128,10 @@ def parse_listing(display: str, timezone_name: str):
             int(dm.group("a")),
             int(dm.group("b")),
             dm.group("year"),
-            tz,
-            now,
+            source_tz,
+            now_source,
         )
-        if date_obj:
-            payload_without_date = payload[:dm.start()].strip()
-        else:
-            payload_without_date = payload
+        payload_without_date = payload[:dm.start()].strip() if date_obj else payload
     else:
         payload_without_date = payload
 
@@ -187,49 +141,60 @@ def parse_listing(display: str, timezone_name: str):
         hour = convert_hour(int(tm.group("hour")), tm.group("ampm"))
         minute = int(tm.group("minute"))
         rest = tm.group("rest").strip().lstrip("|").strip()
-        visible = f"{to_12hr(hour, minute)} {rest}".strip()
 
         if date_obj:
-            start = datetime(
+            source_start = datetime(
                 date_obj.year, date_obj.month, date_obj.day,
-                hour, minute, tzinfo=tz
+                hour, minute, tzinfo=source_tz
             )
-            stop = start + timedelta(hours=4)
-            return start, stop, visible, True
+            source_stop = source_start + timedelta(hours=4)
 
-        # No explicit date: show as the provider's current listing until refresh.
-        start = now - timedelta(minutes=15)
-        stop = now + timedelta(hours=13)
-        return start, stop, visible, False
+            local_start = source_start.astimezone(DISPLAY_TIMEZONE)
+            visible = f"{to_12hr(local_start)} {rest}".strip()
 
-    # Has listing text but no parseable time.
-    if date_obj:
-        # Put it at noon on the explicit date rather than today.
-        start = datetime(
-            date_obj.year, date_obj.month, date_obj.day,
-            12, 0, tzinfo=tz
+            return source_start, source_stop, visible, True
+
+        source_today = datetime(
+            now_source.year, now_source.month, now_source.day,
+            hour, minute, tzinfo=source_tz
         )
-        stop = start + timedelta(hours=12)
-        return start, stop, payload_without_date, True
+        source_candidate = min(
+            [source_today - timedelta(days=1), source_today, source_today + timedelta(days=1)],
+            key=lambda d: abs((d - now_source).total_seconds()),
+        )
+        local_start = source_candidate.astimezone(DISPLAY_TIMEZONE)
+        visible = f"{to_12hr(local_start)} {rest}".strip()
 
-    start = now - timedelta(minutes=15)
-    stop = now + timedelta(hours=13)
-    return start, stop, payload, False
+        rolling_start = now_source - timedelta(minutes=15)
+        rolling_stop = now_source + timedelta(hours=13)
+        return rolling_start, rolling_stop, visible, False
 
+    if date_obj:
+        source_start = datetime(
+            date_obj.year, date_obj.month, date_obj.day,
+            12, 0, tzinfo=source_tz
+        )
+        return source_start, source_start + timedelta(hours=12), payload_without_date, True
+
+    return (
+        now_source - timedelta(minutes=15),
+        now_source + timedelta(hours=13),
+        payload,
+        False,
+    )
 
 def download_playlist() -> str:
     url = os.environ.get("XTREAM_M3U_URL", "").strip()
     if not url:
         raise RuntimeError("XTREAM_M3U_URL GitHub secret is missing.")
 
-    req = Request(url, headers={"User-Agent": "TiviMate-M3U-EPG/2.2"})
+    req = Request(url, headers={"User-Agent": "TiviMate-M3U-EPG/2.3"})
     with urlopen(req, timeout=90) as response:
         text = response.read().decode("utf-8", errors="replace")
 
     if "#EXTM3U" not in text:
         raise RuntimeError("Vortex did not return a valid M3U playlist.")
     return text
-
 
 def main():
     playlist = download_playlist()
@@ -264,8 +229,8 @@ def main():
             channels.append((channel_id, slot, display, group))
             group_counts[group] = group_counts.get(group, 0) + 1
 
-        timezone_name = GROUP_TIMEZONES.get(group, "UTC")
-        parsed = parse_listing(display, timezone_name)
+        source_timezone = GROUP_TIMEZONES.get(group, "UTC")
+        parsed = parse_listing(display, source_timezone)
         if not parsed:
             continue
 
@@ -279,7 +244,7 @@ def main():
 
     output = [
         '<?xml version="1.0" encoding="UTF-8"?>',
-        '<tv generator-info-name="Vortex Hybrid Date-Aware EPG v2.2">',
+        '<tv generator-info-name="Vortex NZ-Time Date-Aware EPG v2.3">',
     ]
 
     for channel_id, slot, display, group in channels:
@@ -300,7 +265,7 @@ def main():
         output.append(f'    <title>{html.escape(title)}</title>')
         output.append('    <category>Sports</category>')
         output.append(
-            f'    <desc>{html.escape(group or "Vortex")} • Vortex playlist listing</desc>'
+            f'    <desc>{html.escape(group or "Vortex")} • time displayed in New Zealand local time</desc>'
         )
         output.append('  </programme>')
 
@@ -308,13 +273,13 @@ def main():
     OUTPUT.write_text("\n".join(output) + "\n", encoding="utf-8")
 
     print(f"Generated {len(channels)} channels and {len(programmes)} programme listings.")
+    print("Visible event-title times converted to Pacific/Auckland.")
     for group in sorted(group_counts):
         print(
             f"{group or '(no group)'}: {group_counts[group]} channels, "
             f"{dated_counts.get(group, 0)} dated listings, "
             f"{rolling_counts.get(group, 0)} rolling listings"
         )
-
 
 if __name__ == "__main__":
     try:
