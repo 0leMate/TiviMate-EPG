@@ -3,8 +3,11 @@ name: Refresh TiviMate EPG
 on:
   workflow_dispatch:
   schedule:
-    # Every 12 hours. GitHub cron is UTC.
     - cron: "30 */2 * * *"
+
+concurrency:
+  group: tivimate-epg-refresh
+  cancel-in-progress: true
 
 permissions:
   contents: write
@@ -16,34 +19,35 @@ jobs:
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Generate XMLTV guide from fresh Vortex playlist
+      - name: Sync latest main
+        run: git pull --rebase origin main
+
+      - name: Check Zulip and Vortex M3U
         env:
           XTREAM_M3U_URL: ${{ secrets.XTREAM_M3U_URL }}
+          ZULIP_SITE: ${{ secrets.ZULIP_SITE }}
+          ZULIP_EMAIL: ${{ secrets.ZULIP_EMAIL }}
+          ZULIP_API_KEY: ${{ secrets.ZULIP_API_KEY }}
         run: python generate_epg.py
 
-      - name: Commit updated guide
-        env:
-          XTREAM_M3U_URL: ${{ secrets.XTREAM_M3U_URL }}
+      - name: Save EPG and Zulip state
         run: |
           git config user.name "EPG updater"
           git config user.email "actions@users.noreply.github.com"
 
-          git fetch origin main
-          git reset --hard origin/main
-
-          python generate_epg.py
-
-          git add vortex_custom_event_epg.xml
+          git add vortex_custom_event_epg.xml zulip_epg_state.json
 
           if git diff --cached --quiet; then
-            echo "No EPG changes to commit."
+            echo "No EPG or Zulip state changes."
           else
-            git commit -m "Refresh EPG from Vortex playlist"
+            git commit -m "Refresh hybrid TiviMate EPG"
             git push origin HEAD:main
           fi
