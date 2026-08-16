@@ -37,5 +37,6 @@ jobs:
             echo "No EPG changes to commit."
           else
             git commit -m "Refresh EPG from Vortex playlist"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
