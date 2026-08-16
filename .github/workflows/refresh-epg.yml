@@ -24,6 +24,9 @@ jobs:
       - name: Generate XMLTV guide
         env:
           XTREAM_M3U_URL: ${{ secrets.XTREAM_M3U_URL }}
+          ZULIP_SITE: ${{ secrets.ZULIP_SITE }}
+          ZULIP_EMAIL: ${{ secrets.ZULIP_EMAIL }}
+          ZULIP_API_KEY: ${{ secrets.ZULIP_API_KEY }}
         run: python generate_epg.py
 
       - name: Commit updated guide
