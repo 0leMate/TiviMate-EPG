@@ -28,6 +28,8 @@ jobs:
         run: python generate_epg.py
 
       - name: Commit updated guide
+        env:
+          XTREAM_M3U_URL: ${{ secrets.XTREAM_M3U_URL }}
         run: |
           git config user.name "EPG updater"
           git config user.email "actions@users.noreply.github.com"
