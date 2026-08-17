@@ -526,13 +526,21 @@
           "start": "2026-08-18T01:00:00+10:00",
           "stop": "2026-08-18T05:00:00+10:00",
           "title": "Cincinnati: Day 5 WTA 1000"
+        },
+        {
+          "display_title": "3:00 AM Cincinnati: Day 5 WTA 1000",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-08-18T01:00:00+10:00",
+          "stop": "2026-08-18T05:00:00+10:00",
+          "title": "Cincinnati: Day 5 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 616916087,
-      "message_timestamp": 1786959012,
+      "message_id": 616932975,
+      "message_timestamp": 1786964415,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-17T10:08:01.139951+00:00"
+      "updated_at": "2026-08-17T11:44:51.553923+00:00"
     }
   },
   "version": 1
