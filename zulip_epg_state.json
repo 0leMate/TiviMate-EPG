@@ -112,67 +112,51 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "12:20 AM Watford vs Southampton",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-16T08:20:00-04:00",
-          "stop": "2026-08-16T12:20:00-04:00",
-          "title": "Watford vs Southampton"
+          "display_title": "3:50 AM Pisa vs Empoli",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-08-17T11:50:00-04:00",
+          "stop": "2026-08-17T15:50:00-04:00",
+          "title": "Pisa vs Empoli"
         },
         {
-          "display_title": "2:30 AM Burnley vs West Ham United",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-16T10:30:00-04:00",
-          "stop": "2026-08-16T14:30:00-04:00",
-          "title": "Burnley vs West Ham United"
+          "display_title": "4:20 AM Sassuolo vs Cesena",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-08-17T12:20:00-04:00",
+          "stop": "2026-08-17T16:20:00-04:00",
+          "title": "Sassuolo vs Cesena"
         },
         {
-          "display_title": "2:55 AM Rangers vs St. Mirren",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-16T10:55:00-04:00",
-          "stop": "2026-08-16T14:55:00-04:00",
-          "title": "Rangers vs St. Mirren"
+          "display_title": "6:30 AM Cardiff City vs Wrexham",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-08-17T14:30:00-04:00",
+          "stop": "2026-08-17T18:30:00-04:00",
+          "title": "Cardiff City vs Wrexham"
         },
         {
-          "display_title": "3:50 AM Frosinone vs Juve Stabia",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-16T11:50:00-04:00",
-          "stop": "2026-08-16T15:50:00-04:00",
-          "title": "Frosinone vs Juve Stabia"
+          "display_title": "6:35 AM Cremonese vs Sampdoria",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-08-17T14:35:00-04:00",
+          "stop": "2026-08-17T18:35:00-04:00",
+          "title": "Cremonese vs Sampdoria"
         },
         {
-          "display_title": "4:20 AM Genoa vs Ascoli",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-08-16T12:20:00-04:00",
-          "stop": "2026-08-16T16:20:00-04:00",
-          "title": "Genoa vs Ascoli"
-        },
-        {
-          "display_title": "6:35 AM Hellas Verona vs Virtus Entella",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-08-16T14:35:00-04:00",
-          "stop": "2026-08-16T18:35:00-04:00",
-          "title": "Hellas Verona vs Virtus Entella"
-        },
-        {
-          "display_title": "7:05 AM Lazio vs Mantova",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-08-16T15:05:00-04:00",
-          "stop": "2026-08-16T19:05:00-04:00",
-          "title": "Lazio vs Mantova"
+          "display_title": "7:05 AM Palermo vs Lecce",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-08-17T15:05:00-04:00",
+          "stop": "2026-08-17T19:05:00-04:00",
+          "title": "Palermo vs Lecce"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 616777198,
-      "message_timestamp": 1786869016,
+      "message_id": 616863837,
+      "message_timestamp": 1786939223,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-16T09:46:49.253946+00:00"
+      "updated_at": "2026-08-17T06:02:31.469581+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
