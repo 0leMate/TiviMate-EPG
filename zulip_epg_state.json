@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "8:45 AM Weedsport Speedway",
+          "display_title": "9:45 AM Brewerton Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-16T16:45:00-04:00",
-          "stop": "2026-08-16T20:45:00-04:00",
-          "title": "Weedsport Speedway"
+          "start": "2026-08-17T17:45:00-04:00",
+          "stop": "2026-08-17T21:45:00-04:00",
+          "title": "Brewerton Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 616801315,
-      "message_timestamp": 1786888812,
+      "message_id": 617001696,
+      "message_timestamp": 1786984246,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-16T15:00:54.896789+00:00"
+      "updated_at": "2026-08-17T17:51:03.229032+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
