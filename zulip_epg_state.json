@@ -113,50 +113,50 @@
       "events": [
         {
           "display_title": "3:50 AM Pisa vs Empoli",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-17T11:50:00-04:00",
           "stop": "2026-08-17T15:50:00-04:00",
           "title": "Pisa vs Empoli"
         },
         {
           "display_title": "4:20 AM Sassuolo vs Cesena",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-17T12:20:00-04:00",
           "stop": "2026-08-17T16:20:00-04:00",
           "title": "Sassuolo vs Cesena"
         },
         {
           "display_title": "6:30 AM Cardiff City vs Wrexham",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-17T14:30:00-04:00",
           "stop": "2026-08-17T18:30:00-04:00",
           "title": "Cardiff City vs Wrexham"
         },
         {
           "display_title": "6:35 AM Cremonese vs Sampdoria",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-17T14:35:00-04:00",
           "stop": "2026-08-17T18:35:00-04:00",
           "title": "Cremonese vs Sampdoria"
         },
         {
           "display_title": "7:05 AM Palermo vs Lecce",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-08-17T15:05:00-04:00",
           "stop": "2026-08-17T19:05:00-04:00",
           "title": "Palermo vs Lecce"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 616863837,
-      "message_timestamp": 1786939223,
+      "message_id": 616904636,
+      "message_timestamp": 1786955415,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-17T06:02:31.469581+00:00"
+      "updated_at": "2026-08-17T10:07:59.480184+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -520,91 +520,19 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 AM Race Day Part 2: Sweden MXGP 2026",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-08-17T00:00:00+10:00",
-          "stop": "2026-08-17T04:00:00+10:00",
-          "title": "Race Day Part 2: Sweden MXGP 2026"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 4 WTA 1000",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-08-17T01:00:00+10:00",
-          "stop": "2026-08-17T05:00:00+10:00",
-          "title": "Cincinnati: Day 4 WTA 1000"
-        },
-        {
-          "display_title": "4:00 AM Race: Grand Prix of Markham Indycar 2026",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-08-17T02:00:00+10:00",
-          "stop": "2026-08-17T06:00:00+10:00",
-          "title": "Race: Grand Prix of Markham Indycar 2026"
-        },
-        {
-          "display_title": "11:00 AM North Carolina Courage vs Houston Dash NWSL 2026",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-08-17T09:00:00+10:00",
-          "stop": "2026-08-17T13:00:00+10:00",
-          "title": "North Carolina Courage vs Houston Dash NWSL 2026"
-        },
-        {
           "display_title": "3:00 AM Cincinnati: Day 5 WTA 1000",
-          "slot": "AU STAN 012",
-          "slot_norm": "AU STAN 12",
-          "start": "2026-08-18T01:00:00+10:00",
-          "stop": "2026-08-18T05:00:00+10:00",
-          "title": "Cincinnati: Day 5 WTA 1000"
-        },
-        {
-          "display_title": "2:00 AM Race Day Part 2: Sweden MXGP 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-08-18T00:00:00+10:00",
-          "stop": "2026-08-18T04:00:00+10:00",
-          "title": "Race Day Part 2: Sweden MXGP 2026"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 4 WTA 1000",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-08-18T01:00:00+10:00",
-          "stop": "2026-08-18T05:00:00+10:00",
-          "title": "Cincinnati: Day 4 WTA 1000"
-        },
-        {
-          "display_title": "4:00 AM Race: Grand Prix of Markham Indycar 2026",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-08-18T02:00:00+10:00",
-          "stop": "2026-08-18T06:00:00+10:00",
-          "title": "Race: Grand Prix of Markham Indycar 2026"
-        },
-        {
-          "display_title": "11:00 AM North Carolina Courage vs Houston Dash NWSL 2026",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-08-18T09:00:00+10:00",
-          "stop": "2026-08-18T13:00:00+10:00",
-          "title": "North Carolina Courage vs Houston Dash NWSL 2026"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 5 WTA 1000",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-08-18T01:00:00+10:00",
           "stop": "2026-08-18T05:00:00+10:00",
           "title": "Cincinnati: Day 5 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 616801368,
-      "message_timestamp": 1786888823,
+      "message_id": 616916087,
+      "message_timestamp": 1786959012,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-16T15:00:55.348484+00:00"
+      "updated_at": "2026-08-17T10:08:01.139951+00:00"
     }
   },
   "version": 1
