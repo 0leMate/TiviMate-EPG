@@ -6216,12 +6216,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: 20:00 WWE Monday Night RAW 08-17</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02:</display-name>
+    <display-name>PPV2 02: 17:45 Brewerton Speedway 08-17</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
@@ -12259,8 +12259,18 @@
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260818010000 +1000" stop="20260818050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
+  <programme start="20260819010000 +1000" stop="20260819050000 +1000" channel="custom.AU.STAN.AU.STAN.002">
+    <title>3:00 AM Cincinnati: Day 6 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260819010000 +1000" stop="20260819050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
     <title>3:00 AM Cincinnati: Day 5 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260819010000 +1000" stop="20260819050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
+    <title>3:00 AM Cincinnati: Day 6 WTA 1000</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -12519,28 +12529,13 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260816093000 -0400" stop="20260816133000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
-    <title>1:30 AM SOIL Championship Off Road</title>
+  <programme start="20260817200000 -0400" stop="20260818000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>12:00 PM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260816092000 -0400" stop="20260816132000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
-    <title>1:20 AM USAC Road Racing at Road America</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260816180000 -0400" stop="20260816220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
-    <title>10:00 AM USAC NOS Energy Drink National Midgets at Jacksonville</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260816193000 -0400" stop="20260816233000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
-    <title>11:30 AM Go Kart Night at Slinger</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260816164500 -0400" stop="20260816204500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
-    <title>8:45 AM Weedsport Speedway</title>
+  <programme start="20260817174500 -0400" stop="20260817214500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
+    <title>9:45 AM Brewerton Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
