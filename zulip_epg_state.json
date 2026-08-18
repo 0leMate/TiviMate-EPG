@@ -162,59 +162,43 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "2:30 AM USAC Road Racing Road America",
+          "display_title": "11:00 AM Dana White Contender Series S10W02",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-16T10:30:00-04:00",
-          "stop": "2026-08-16T14:30:00-04:00",
-          "title": "USAC Road Racing Road America"
+          "start": "2026-08-17T19:00:00-04:00",
+          "stop": "2026-08-17T23:00:00-04:00",
+          "title": "Dana White Contender Series S10W02"
         },
         {
-          "display_title": "2:30 AM SOIL Championship Off Road",
+          "display_title": "9:45 AM Super DIRTcar Series Land of Legends",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-08-16T10:30:00-04:00",
-          "stop": "2026-08-16T14:30:00-04:00",
-          "title": "SOIL Championship Off Road"
+          "start": "2026-08-17T17:45:00-04:00",
+          "stop": "2026-08-17T21:45:00-04:00",
+          "title": "Super DIRTcar Series Land of Legends"
         },
         {
-          "display_title": "4:00 AM MotoAmerica Superbikes Virginia",
+          "display_title": "10:15 AM Millbridge Sprints",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-08-16T12:00:00-04:00",
-          "stop": "2026-08-16T16:00:00-04:00",
-          "title": "MotoAmerica Superbikes Virginia"
+          "start": "2026-08-17T18:15:00-04:00",
+          "stop": "2026-08-17T22:15:00-04:00",
+          "title": "Millbridge Sprints"
         },
         {
-          "display_title": "11:30 AM GO Kart Night Slinger",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-08-16T19:30:00-04:00",
-          "stop": "2026-08-16T23:30:00-04:00",
-          "title": "GO Kart Night Slinger"
-        },
-        {
-          "display_title": "12:00 PM Anthony Pettis FC 24",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-08-16T20:00:00-04:00",
-          "stop": "2026-08-17T00:00:00-04:00",
-          "title": "Anthony Pettis FC 24"
-        },
-        {
-          "display_title": "1:00 PM Primos Pro Wrestling Sorched Summer 2",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-08-16T21:00:00-04:00",
-          "stop": "2026-08-17T01:00:00-04:00",
-          "title": "Primos Pro Wrestling Sorched Summer 2"
+          "display_title": "10:30 AM FloRacing Night Marshalltown",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-08-17T18:30:00-04:00",
+          "stop": "2026-08-17T22:30:00-04:00",
+          "title": "FloRacing Night Marshalltown"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 616766324,
-      "message_timestamp": 1786858208,
+      "message_id": 617091678,
+      "message_timestamp": 1787022013,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-16T05:37:36.696841+00:00"
+      "updated_at": "2026-08-18T03:24:52.237049+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
