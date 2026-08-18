@@ -2,12 +2,12 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 17:45 Land of Legends Raceway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
     <display-name>DIRT 02</display-name>
-    <display-name>DIRT 02:</display-name>
+    <display-name>DIRT 02: 18:15 Millbridge Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.03">
@@ -13429,8 +13429,13 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260817174500 -0400" stop="20260817214500 -0400" channel="custom.DIRTVISION.DIRT.01">
-    <title>9:45 AM Brewerton Speedway</title>
+  <programme start="20260818174500 -0400" stop="20260818214500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>9:45 AM Land of Legends Raceway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260818181500 -0400" stop="20260818221500 -0400" channel="custom.DIRTVISION.DIRT.02">
+    <title>10:15 AM Millbridge Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
