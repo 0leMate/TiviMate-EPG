@@ -228,27 +228,43 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night RAW",
+          "display_title": "10:30 AM FloRacing Night in America at Marshalltown",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-17T20:00:00-04:00",
-          "stop": "2026-08-18T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
+          "start": "2026-08-18T18:30:00-04:00",
+          "stop": "2026-08-18T22:30:00-04:00",
+          "title": "FloRacing Night in America at Marshalltown"
         },
         {
-          "display_title": "9:45 AM Brewerton Speedway",
+          "display_title": "9:45 AM Land of Legends Raceway",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-17T17:45:00-04:00",
-          "stop": "2026-08-17T21:45:00-04:00",
-          "title": "Brewerton Speedway"
+          "start": "2026-08-18T17:45:00-04:00",
+          "stop": "2026-08-18T21:45:00-04:00",
+          "title": "Land of Legends Raceway"
+        },
+        {
+          "display_title": "10:15 AM Millbridge Speedway",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-08-18T18:15:00-04:00",
+          "stop": "2026-08-18T22:15:00-04:00",
+          "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "1:30 PM DWCS Post Fight Press Conference",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-08-18T21:30:00-04:00",
+          "stop": "2026-08-19T01:30:00-04:00",
+          "title": "DWCS Post Fight Press Conference"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 616955015,
-      "message_timestamp": 1786971626,
+      "message_id": 617186943,
+      "message_timestamp": 1787054417,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-17T14:03:30.361834+00:00"
+      "updated_at": "2026-08-18T14:16:26.824865+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -512,19 +528,35 @@
           "title": "Cincinnati: Day 6 WTA 1000"
         },
         {
+          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-08-20T01:00:00+10:00",
+          "stop": "2026-08-20T05:00:00+10:00",
+          "title": "Cincinnati: Day 7 WTA 1000"
+        },
+        {
           "display_title": "3:00 AM Cincinnati: Day 6 WTA 1000",
           "slot": "AU STAN ALT 001",
           "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-19T01:00:00+10:00",
-          "stop": "2026-08-19T05:00:00+10:00",
+          "start": "2026-08-20T01:00:00+10:00",
+          "stop": "2026-08-20T05:00:00+10:00",
           "title": "Cincinnati: Day 6 WTA 1000"
+        },
+        {
+          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-08-20T01:00:00+10:00",
+          "stop": "2026-08-20T05:00:00+10:00",
+          "title": "Cincinnati: Day 7 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617156149,
-      "message_timestamp": 1787047216,
+      "message_id": 617213374,
+      "message_timestamp": 1787061614,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-18T11:45:15.491582+00:00"
+      "updated_at": "2026-08-18T14:16:26.988598+00:00"
     }
   },
   "version": 1
