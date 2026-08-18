@@ -112,51 +112,75 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "3:50 AM Pisa vs Empoli",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-17T11:50:00-04:00",
-          "stop": "2026-08-17T15:50:00-04:00",
-          "title": "Pisa vs Empoli"
+          "display_title": "6:50 AM Levski Sofia vs AEK Athens",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-08-18T14:50:00-04:00",
+          "stop": "2026-08-18T18:50:00-04:00",
+          "title": "Levski Sofia vs AEK Athens"
         },
         {
-          "display_title": "4:20 AM Sassuolo vs Cesena",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-17T12:20:00-04:00",
-          "stop": "2026-08-17T16:20:00-04:00",
-          "title": "Sassuolo vs Cesena"
+          "display_title": "6:50 AM GNK Dinamo vs Viking",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-08-18T14:50:00-04:00",
+          "stop": "2026-08-18T18:50:00-04:00",
+          "title": "GNK Dinamo vs Viking"
         },
         {
-          "display_title": "6:30 AM Cardiff City vs Wrexham",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-17T14:30:00-04:00",
-          "stop": "2026-08-17T18:30:00-04:00",
-          "title": "Cardiff City vs Wrexham"
+          "display_title": "6:50 AM Fenerbahçe vs Lyon",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-08-18T14:50:00-04:00",
+          "stop": "2026-08-18T18:50:00-04:00",
+          "title": "Fenerbahçe vs Lyon"
         },
         {
-          "display_title": "6:35 AM Cremonese vs Sampdoria",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-17T14:35:00-04:00",
-          "stop": "2026-08-17T18:35:00-04:00",
-          "title": "Cremonese vs Sampdoria"
+          "display_title": "9:55 AM Mount Pleasant FA vs Cibao FC",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-08-18T17:55:00-04:00",
+          "stop": "2026-08-18T21:55:00-04:00",
+          "title": "Mount Pleasant FA vs Cibao FC"
         },
         {
-          "display_title": "7:05 AM Palermo vs Lecce",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-08-17T15:05:00-04:00",
-          "stop": "2026-08-17T19:05:00-04:00",
-          "title": "Palermo vs Lecce"
+          "display_title": "11:00 AM Dana White\\`s Contender Series",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-08-18T19:00:00-04:00",
+          "stop": "2026-08-18T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series"
+        },
+        {
+          "display_title": "12:55 PM CS Cartaginés vs Verdes FC",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-08-18T20:55:00-04:00",
+          "stop": "2026-08-19T00:55:00-04:00",
+          "title": "CS Cartaginés vs Verdes FC"
+        },
+        {
+          "display_title": "2:55 PM Club Xelajú vs Diriangén FC",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-08-18T22:55:00-04:00",
+          "stop": "2026-08-19T02:55:00-04:00",
+          "title": "Club Xelajú vs Diriangén FC"
+        },
+        {
+          "display_title": "2:55 PM Real Estelí vs CS Herediano",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-08-18T22:55:00-04:00",
+          "stop": "2026-08-19T02:55:00-04:00",
+          "title": "Real Estelí vs CS Herediano"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 616904636,
-      "message_timestamp": 1786955415,
+      "message_id": 617097913,
+      "message_timestamp": 1787025629,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-17T10:07:59.480184+00:00"
+      "updated_at": "2026-08-18T05:50:51.485205+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",

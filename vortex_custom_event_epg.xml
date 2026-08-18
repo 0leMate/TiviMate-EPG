@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01: 17:45 Brewerton Speedway</display-name>
+    <display-name>DIRT 01:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -112,7 +112,7 @@
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.14">
     <display-name>DIRT ALT 14</display-name>
-    <display-name>DIRT ALT 14: 17:45 Brewerton Speedway 08-17</display-name>
+    <display-name>DIRT ALT 14:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.15">
@@ -172,142 +172,142 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.001">
     <display-name>ESPN+ 001</display-name>
-    <display-name>ESPN+ 001: 05:00 Soccer: FA Community Shield Highlights Show 08-17</display-name>
+    <display-name>ESPN+ 001:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.002">
     <display-name>ESPN+ 002</display-name>
-    <display-name>ESPN+ 002: 10:00 Soccer: Southern Utah vs The Citadel 08-17</display-name>
+    <display-name>ESPN+ 002:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.003">
     <display-name>ESPN+ 003</display-name>
-    <display-name>ESPN+ 003: 11:00 Soccer: Kent State vs Kentucky 08-17</display-name>
+    <display-name>ESPN+ 003:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.004">
     <display-name>ESPN+ 004</display-name>
-    <display-name>ESPN+ 004: 13:00 MLB: Reds Broadcast 08-17</display-name>
+    <display-name>ESPN+ 004:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.005">
     <display-name>ESPN+ 005</display-name>
-    <display-name>ESPN+ 005: 13:00 MLB: Cardinals Broadcast 08-17</display-name>
+    <display-name>ESPN+ 005:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.006">
     <display-name>ESPN+ 006</display-name>
-    <display-name>ESPN+ 006: 13:00 MLB: Cardinals vs Reds (ESP) 08-17</display-name>
+    <display-name>ESPN+ 006:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.007">
     <display-name>ESPN+ 007</display-name>
-    <display-name>ESPN+ 007: 14:50 Soccer: STL vs CIN • DEP vs. ELC 08-17</display-name>
+    <display-name>ESPN+ 007:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.008">
     <display-name>ESPN+ 008</display-name>
-    <display-name>ESPN+ 008: 14:50 Soccer: Deportivo A Coruña vs Elche 08-17</display-name>
+    <display-name>ESPN+ 008:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.009">
     <display-name>ESPN+ 009</display-name>
-    <display-name>ESPN+ 009: 14:50 Soccer: Deportivo A Coruña vs Elche (ESP) 08-17</display-name>
+    <display-name>ESPN+ 009:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.010">
     <display-name>ESPN+ 010</display-name>
-    <display-name>ESPN+ 010: 15:00 NCAA Football: College Football Live 08-17</display-name>
+    <display-name>ESPN+ 010:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.011">
     <display-name>ESPN+ 011</display-name>
-    <display-name>ESPN+ 011: 15:20 Soccer: Almería vs Eldense 08-17</display-name>
+    <display-name>ESPN+ 011:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.012">
     <display-name>ESPN+ 012</display-name>
-    <display-name>ESPN+ 012: 15:20 Soccer: Almería vs Eldense (ESP) 08-17</display-name>
+    <display-name>ESPN+ 012:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.013">
     <display-name>ESPN+ 013</display-name>
-    <display-name>ESPN+ 013: 16:00 Football: NFL Live 08-17</display-name>
+    <display-name>ESPN+ 013:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.014">
     <display-name>ESPN+ 014</display-name>
-    <display-name>ESPN+ 014: 16:00 NCAA Football: College Gameday Podcast 08-17</display-name>
+    <display-name>ESPN+ 014:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.015">
     <display-name>ESPN+ 015</display-name>
-    <display-name>ESPN+ 015: 16:00 High School Baseball: American Legion World Series 08-17</display-name>
+    <display-name>ESPN+ 015:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.016">
     <display-name>ESPN+ 016</display-name>
-    <display-name>ESPN+ 016: 16:00 Soccer: Towson vs Mount St Marys 08-17</display-name>
+    <display-name>ESPN+ 016:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.017">
     <display-name>ESPN+ 017</display-name>
-    <display-name>ESPN+ 017: 16:00 Big East Conference: St John`s vs Boston College 08-17</display-name>
+    <display-name>ESPN+ 017:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.018">
     <display-name>ESPN+ 018</display-name>
-    <display-name>ESPN+ 018: 17:00 Soccer: Mon 8/17 - ESPN FC 08-17</display-name>
+    <display-name>ESPN+ 018:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.019">
     <display-name>ESPN+ 019</display-name>
-    <display-name>ESPN+ 019: 18:00 Soccer: Generación Futbol 08-17</display-name>
+    <display-name>ESPN+ 019:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.020">
     <display-name>ESPN+ 020</display-name>
-    <display-name>ESPN+ 020: 19:00 NCAA Football: ACC Huddle Road Trip: Wake Forest 08-17</display-name>
+    <display-name>ESPN+ 020:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.021">
     <display-name>ESPN+ 021</display-name>
-    <display-name>ESPN+ 021: 19:00 MLB: Tigers vs Pirates 08-17</display-name>
+    <display-name>ESPN+ 021:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.022">
     <display-name>ESPN+ 022</display-name>
-    <display-name>ESPN+ 022: 19:00 MLB: Tigers vs Pirates (ESP) 08-17</display-name>
+    <display-name>ESPN+ 022:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.023">
     <display-name>ESPN+ 023</display-name>
-    <display-name>ESPN+ 023: 20:00 Football: NFL`s Greatest Game 08-17</display-name>
+    <display-name>ESPN+ 023:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.024">
     <display-name>ESPN+ 024</display-name>
-    <display-name>ESPN+ 024: 20:30 Soccer: Mon 8/17 - Futbol Americas 08-17</display-name>
+    <display-name>ESPN+ 024:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.025">
     <display-name>ESPN+ 025</display-name>
-    <display-name>ESPN+ 025: 21:30 Soccer: Utah vs Utah Valley 08-17</display-name>
+    <display-name>ESPN+ 025:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.026">
     <display-name>ESPN+ 026</display-name>
-    <display-name>ESPN+ 026: 21:30 NCAA Women`s Gymnastics: Oklahoma`s Women`s College Gymnastics 08-17</display-name>
+    <display-name>ESPN+ 026:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.027">
     <display-name>ESPN+ 027</display-name>
-    <display-name>ESPN+ 027: 22:00 NCAA Baseball: Oklahoma Baseball - The Most Improbable 08-17</display-name>
+    <display-name>ESPN+ 027:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.028">
     <display-name>ESPN+ 028</display-name>
-    <display-name>ESPN+ 028: 01:00 Soccer: Fútbol Picante 08-18</display-name>
+    <display-name>ESPN+ 028:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.029">
@@ -3172,137 +3172,137 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.001">
     <display-name>ESPN+ ALT2 001</display-name>
-    <display-name>ESPN+ ALT2 001: 05:00 Soccer: FA Community Shield Highlights Show 08-17</display-name>
+    <display-name>ESPN+ ALT2 001:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.002">
     <display-name>ESPN+ ALT2 002</display-name>
-    <display-name>ESPN+ ALT2 002: 10:00 Soccer: Southern Utah vs The Citadel 08-17</display-name>
+    <display-name>ESPN+ ALT2 002:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.003">
     <display-name>ESPN+ ALT2 003</display-name>
-    <display-name>ESPN+ ALT2 003: 11:00 Soccer: Kent State vs Kentucky 08-17</display-name>
+    <display-name>ESPN+ ALT2 003:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.004">
     <display-name>ESPN+ ALT2 004</display-name>
-    <display-name>ESPN+ ALT2 004: 13:00 MLB: Reds Broadcast 08-17</display-name>
+    <display-name>ESPN+ ALT2 004:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.005">
     <display-name>ESPN+ ALT2 005</display-name>
-    <display-name>ESPN+ ALT2 005: 13:00 MLB: Cardinals Broadcast 08-17</display-name>
+    <display-name>ESPN+ ALT2 005:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.006">
     <display-name>ESPN+ ALT2 006</display-name>
-    <display-name>ESPN+ ALT2 006: 13:00 MLB: Cardinals vs Reds (ESP) 08-17</display-name>
+    <display-name>ESPN+ ALT2 006:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.007">
     <display-name>ESPN+ ALT2 007</display-name>
-    <display-name>ESPN+ ALT2 007: 14:50 Soccer: STL vs CIN • DEP vs. ELC 08-17</display-name>
+    <display-name>ESPN+ ALT2 007:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.008">
     <display-name>ESPN+ ALT2 008</display-name>
-    <display-name>ESPN+ ALT2 008: 14:50 Soccer: Deportivo A Coruña vs Elche 08-17</display-name>
+    <display-name>ESPN+ ALT2 008:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.009">
     <display-name>ESPN+ ALT2 009</display-name>
-    <display-name>ESPN+ ALT2 009: 14:50 Soccer: Deportivo A Coruña vs Elche (ESP) 08-17</display-name>
+    <display-name>ESPN+ ALT2 009:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.010">
     <display-name>ESPN+ ALT2 010</display-name>
-    <display-name>ESPN+ ALT2 010: 15:00 NCAA Football: College Football Live 08-17</display-name>
+    <display-name>ESPN+ ALT2 010:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.011">
     <display-name>ESPN+ ALT2 011</display-name>
-    <display-name>ESPN+ ALT2 011: 15:20 Soccer: Almería vs Eldense 08-17</display-name>
+    <display-name>ESPN+ ALT2 011:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.012">
     <display-name>ESPN+ ALT2 012</display-name>
-    <display-name>ESPN+ ALT2 012: 15:20 Soccer: Almería vs Eldense (ESP) 08-17</display-name>
+    <display-name>ESPN+ ALT2 012:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.013">
     <display-name>ESPN+ ALT2 013</display-name>
-    <display-name>ESPN+ ALT2 013: 16:00 Football: NFL Live 08-17</display-name>
+    <display-name>ESPN+ ALT2 013:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.014">
     <display-name>ESPN+ ALT2 014</display-name>
-    <display-name>ESPN+ ALT2 014: 16:00 NCAA Football: College Gameday Podcast 08-17</display-name>
+    <display-name>ESPN+ ALT2 014:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.015">
     <display-name>ESPN+ ALT2 015</display-name>
-    <display-name>ESPN+ ALT2 015: 16:00 High School Baseball: American Legion World Series 08-17</display-name>
+    <display-name>ESPN+ ALT2 015:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.016">
     <display-name>ESPN+ ALT2 016</display-name>
-    <display-name>ESPN+ ALT2 016: 16:00 Soccer: Towson vs Mount St Marys 08-17</display-name>
+    <display-name>ESPN+ ALT2 016:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.017">
     <display-name>ESPN+ ALT2 017</display-name>
-    <display-name>ESPN+ ALT2 017: 16:00 Big East Conference: St John`s vs Boston College 08-17</display-name>
+    <display-name>ESPN+ ALT2 017:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.018">
     <display-name>ESPN+ ALT2 018</display-name>
-    <display-name>ESPN+ ALT2 018: 17:00 Soccer: Mon 8/17 - ESPN FC 08-17</display-name>
+    <display-name>ESPN+ ALT2 018:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.019">
     <display-name>ESPN+ ALT2 019</display-name>
-    <display-name>ESPN+ ALT2 019: 18:00 Soccer: Generación Futbol 08-17</display-name>
+    <display-name>ESPN+ ALT2 019:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.020">
     <display-name>ESPN+ ALT2 020</display-name>
-    <display-name>ESPN+ ALT2 020: 19:00 NCAA Football: ACC Huddle Road Trip: Wake Forest 08-17</display-name>
+    <display-name>ESPN+ ALT2 020:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.021">
     <display-name>ESPN+ ALT2 021</display-name>
-    <display-name>ESPN+ ALT2 021: 19:00 MLB: Tigers vs Pirates 08-17</display-name>
+    <display-name>ESPN+ ALT2 021:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.022">
     <display-name>ESPN+ ALT2 022</display-name>
-    <display-name>ESPN+ ALT2 022: 19:00 MLB: Tigers vs Pirates (ESP) 08-17</display-name>
+    <display-name>ESPN+ ALT2 022:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.023">
     <display-name>ESPN+ ALT2 023</display-name>
-    <display-name>ESPN+ ALT2 023: 20:00 Football: NFL`s Greatest Game 08-17</display-name>
+    <display-name>ESPN+ ALT2 023:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.024">
     <display-name>ESPN+ ALT2 024</display-name>
-    <display-name>ESPN+ ALT2 024: 20:30 Soccer: Mon 8/17 - Futbol Americas 08-17</display-name>
+    <display-name>ESPN+ ALT2 024:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.025">
     <display-name>ESPN+ ALT2 025</display-name>
-    <display-name>ESPN+ ALT2 025: 21:30 Soccer: Utah vs Utah Valley 08-17</display-name>
+    <display-name>ESPN+ ALT2 025:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.026">
     <display-name>ESPN+ ALT2 026</display-name>
-    <display-name>ESPN+ ALT2 026: 21:30 NCAA Women`s Gymnastics: Oklahoma`s Women`s College Gymnastics 08-17</display-name>
+    <display-name>ESPN+ ALT2 026:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.027">
     <display-name>ESPN+ ALT2 027</display-name>
-    <display-name>ESPN+ ALT2 027: 22:00 NCAA Baseball: Oklahoma Baseball - The Most Improbable 08-17</display-name>
+    <display-name>ESPN+ ALT2 027:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.028">
@@ -3712,37 +3712,37 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.001">
     <display-name>ESPN+ ALT 001</display-name>
-    <display-name>ESPN+ ALT 001: 10:00 The Golics: The Golics 08-17</display-name>
+    <display-name>ESPN+ ALT 001:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.002">
     <display-name>ESPN+ ALT 002</display-name>
-    <display-name>ESPN+ ALT 002: 10:00 NCAA Women&#x27;s Soccer: Southern Utah vs The Citadel 08-17</display-name>
+    <display-name>ESPN+ ALT 002:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.003">
     <display-name>ESPN+ ALT 003</display-name>
-    <display-name>ESPN+ ALT 003: 12:00 The Pat McAfee Show: The Pat McAfee Show 08-17</display-name>
+    <display-name>ESPN+ ALT 003:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.004">
     <display-name>ESPN+ ALT 004</display-name>
-    <display-name>ESPN+ ALT 004: 12:00 The Rich Eisen Show: Mon 8 17 The Rich Eisen Show 08-17</display-name>
+    <display-name>ESPN+ ALT 004:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.005">
     <display-name>ESPN+ ALT 005</display-name>
-    <display-name>ESPN+ ALT 005: 14:50 Spanish LALIGA: Deportivo A Coruña vs Elche CF (Matchday #1) 08-17</display-name>
+    <display-name>ESPN+ ALT 005:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.006">
     <display-name>ESPN+ ALT 006</display-name>
-    <display-name>ESPN+ ALT 006: 14:55 Spanish LALIGA: En Español Deportivo A Coruña vs Elche CF (Jornada 1) 08-17</display-name>
+    <display-name>ESPN+ ALT 006:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.007">
     <display-name>ESPN+ ALT 007</display-name>
-    <display-name>ESPN+ ALT 007: 15:00 Matt &amp; Myron: Matt &amp; Myron 08-17</display-name>
+    <display-name>ESPN+ ALT 007:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.008">
@@ -3757,22 +3757,22 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.010">
     <display-name>ESPN+ ALT 010</display-name>
-    <display-name>ESPN+ ALT 010: 16:00 NCAA Women&#x27;s Soccer: Towson vs Mount St. Marys 08-17</display-name>
+    <display-name>ESPN+ ALT 010:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.011">
     <display-name>ESPN+ ALT 011</display-name>
-    <display-name>ESPN+ ALT 011: 17:00 ESPN FC Daily: Mon 8 17 ESPN FC 08-17</display-name>
+    <display-name>ESPN+ ALT 011:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.012">
     <display-name>ESPN+ ALT 012</display-name>
-    <display-name>ESPN+ ALT 012: 20:30 Fútbol Americas: Mon 8 17 Futbol Americas 08-17</display-name>
+    <display-name>ESPN+ ALT 012:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.013">
     <display-name>ESPN+ ALT 013</display-name>
-    <display-name>ESPN+ ALT 013: 21:30 NCAA Women&#x27;s Soccer: Utah vs Utah Valley 08-17</display-name>
+    <display-name>ESPN+ ALT 013:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.014">
@@ -4962,27 +4962,27 @@
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.001">
     <display-name>PARAMOUNT 001</display-name>
-    <display-name>PARAMOUNT 001: 11:50 Pisa vs Empoli 08-17</display-name>
+    <display-name>PARAMOUNT 001:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.002">
     <display-name>PARAMOUNT 002</display-name>
-    <display-name>PARAMOUNT 002: 12:20 Sassuolo vs Cesena 08-17</display-name>
+    <display-name>PARAMOUNT 002:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.003">
     <display-name>PARAMOUNT 003</display-name>
-    <display-name>PARAMOUNT 003: 14:30 Cardiff City vs Wrexham 08-17</display-name>
+    <display-name>PARAMOUNT 003:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.004">
     <display-name>PARAMOUNT 004</display-name>
-    <display-name>PARAMOUNT 004: 14:35 Cremonese vs Sampdoria 08-17</display-name>
+    <display-name>PARAMOUNT 004:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.005">
     <display-name>PARAMOUNT 005</display-name>
-    <display-name>PARAMOUNT 005: 15:05 Palermo vs Lecce 08-17</display-name>
+    <display-name>PARAMOUNT 005:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.006">
@@ -5462,27 +5462,27 @@
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.01">
     <display-name>PARAMOUNT ALT 01</display-name>
-    <display-name>PARAMOUNT ALT 01: 11:50 Serie A: Pisa vs Empoli 08-17</display-name>
+    <display-name>PARAMOUNT ALT 01:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.02">
     <display-name>PARAMOUNT ALT 02</display-name>
-    <display-name>PARAMOUNT ALT 02: 12:20 Serie A: Sassuolo vs Cesena 08-17</display-name>
+    <display-name>PARAMOUNT ALT 02:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.03">
     <display-name>PARAMOUNT ALT 03</display-name>
-    <display-name>PARAMOUNT ALT 03: 14:30 English Football League: Cardiff City vs Wrexham 08-17</display-name>
+    <display-name>PARAMOUNT ALT 03:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.04">
     <display-name>PARAMOUNT ALT 04</display-name>
-    <display-name>PARAMOUNT ALT 04: 14:35 Serie A: Cremonese vs Sampdoria 08-17</display-name>
+    <display-name>PARAMOUNT ALT 04:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.05">
     <display-name>PARAMOUNT ALT 05</display-name>
-    <display-name>PARAMOUNT ALT 05: 15:05 Serie A: Palermo vs Lecce 08-17</display-name>
+    <display-name>PARAMOUNT ALT 05:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.06">
@@ -6216,12 +6216,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01: 20:00 WWE Monday Night RAW 08-17</display-name>
+    <display-name>PPV2 01:</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02: 17:45 Brewerton Speedway 08-17</display-name>
+    <display-name>PPV2 02:</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
@@ -6566,22 +6566,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 19:00 Dana White Contender Series S10W02</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 17:45 Super DIRTcar Series Land of Legends</display-name>
+    <display-name>PPV 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 18:15 Millbridge Sprints</display-name>
+    <display-name>PPV 03:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 18:30 FloRacing Night Marshalltown</display-name>
+    <display-name>PPV 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
@@ -7746,17 +7746,17 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.001">
     <display-name>CA TSN+ ALT2 001</display-name>
-    <display-name>CA TSN+ ALT2 001: 09:00 SPORTSCENTRE A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 001:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.002">
     <display-name>CA TSN+ ALT2 002</display-name>
-    <display-name>CA TSN+ ALT2 002: 09:00 CFL on TSN: Roughriders vs Tiger-Cats 08-17</display-name>
+    <display-name>CA TSN+ ALT2 002:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.003">
     <display-name>CA TSN+ ALT2 003</display-name>
-    <display-name>CA TSN+ ALT2 003: 10:00 SPORTSCENTRE B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 003:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.004">
@@ -7766,177 +7766,177 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.005">
     <display-name>CA TSN+ ALT2 005</display-name>
-    <display-name>CA TSN+ ALT2 005: 11:00 ATP 1000 Tennis: Cincinnati vs Early Round Coverage Day #5 08-17</display-name>
+    <display-name>CA TSN+ ALT2 005:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.006">
     <display-name>CA TSN+ ALT2 006</display-name>
-    <display-name>CA TSN+ ALT2 006: 11:00 WTA 1000 Tennis: Cincinnati vs Early Round Coverage Day #5 A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 006:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.007">
     <display-name>CA TSN+ ALT2 007</display-name>
-    <display-name>CA TSN+ ALT2 007: 12:00 First Take A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 007:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.008">
     <display-name>CA TSN+ ALT2 008</display-name>
-    <display-name>CA TSN+ ALT2 008: 12:00 SC: July Plays of the Month A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 008:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.009">
     <display-name>CA TSN+ ALT2 009</display-name>
-    <display-name>CA TSN+ ALT2 009: 12:00 SPORTSCENTRE D 08-17</display-name>
+    <display-name>CA TSN+ ALT2 009:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.010">
     <display-name>CA TSN+ ALT2 010</display-name>
-    <display-name>CA TSN+ ALT2 010: 12:30 Motorcycle Experience A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 010:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.011">
     <display-name>CA TSN+ ALT2 011</display-name>
-    <display-name>CA TSN+ ALT2 011: 13:00 Canadian Superbike Championship: Pro Superbike Race 5 of 10 A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 011:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.012">
     <display-name>CA TSN+ ALT2 012</display-name>
-    <display-name>CA TSN+ ALT2 012: 13:00 Amazing Race Canada 08-17</display-name>
+    <display-name>CA TSN+ ALT2 012:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
-  <channel id="custom.CA.TSN.QC.A.08-17.tvg-logo.https">
-    <display-name>QC A 08-17&quot; tvg-logo=&quot;https</display-name>
-    <display-name>QC A 08-17&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27502.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 013: 13:30 NASCAR Canada Series: Le 45 Tours CarGurus vs Trois-Rivieres, QC A 08-17</display-name>
+  <channel id="custom.CA.TSN.CA.TSN.ALT2.013">
+    <display-name>CA TSN+ ALT2 013</display-name>
+    <display-name>CA TSN+ ALT2 013:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.014">
     <display-name>CA TSN+ ALT2 014</display-name>
-    <display-name>CA TSN+ ALT2 014: 14:00 SC: Top 100 Catches of All-Time A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 014:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.015">
     <display-name>CA TSN+ ALT2 015</display-name>
-    <display-name>CA TSN+ ALT2 015: 15:00 BarDown: Shattuck-St. Mary&#x27;s School Tour 08-17</display-name>
+    <display-name>CA TSN+ ALT2 015:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.016">
     <display-name>CA TSN+ ALT2 016</display-name>
-    <display-name>CA TSN+ ALT2 016: 15:00 SC: Top World Junior Moments A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 016:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.017">
     <display-name>CA TSN+ ALT2 017</display-name>
-    <display-name>CA TSN+ ALT2 017: 15:30 SC: Top World Junior Moments B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 017:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.018">
     <display-name>CA TSN+ ALT2 018</display-name>
-    <display-name>CA TSN+ ALT2 018: 15:30 SC: NFL Plays of the Year A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 018:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.019">
     <display-name>CA TSN+ ALT2 019</display-name>
-    <display-name>CA TSN+ ALT2 019: 16:00 OverDrive A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 019:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.020">
     <display-name>CA TSN+ ALT2 020</display-name>
-    <display-name>CA TSN+ ALT2 020: 16:00 SC: Top Moments of the FIFA World Cup A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 020:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.021">
     <display-name>CA TSN+ ALT2 021</display-name>
-    <display-name>CA TSN+ ALT2 021: 16:00 NFL Live A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 021:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.022">
     <display-name>CA TSN+ ALT2 022</display-name>
-    <display-name>CA TSN+ ALT2 022: 16:30 IndyCar Racing: Ontario Honda Dealers Indy at Markham 08-17</display-name>
+    <display-name>CA TSN+ ALT2 022:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.023">
     <display-name>CA TSN+ ALT2 023</display-name>
-    <display-name>CA TSN+ ALT2 023: 17:00 OverDrive B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 023:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.024">
     <display-name>CA TSN+ ALT2 024</display-name>
-    <display-name>CA TSN+ ALT2 024: 17:00 College Football Live A 08-17</display-name>
+    <display-name>CA TSN+ ALT2 024:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.025">
     <display-name>CA TSN+ ALT2 025</display-name>
-    <display-name>CA TSN+ ALT2 025: 17:30 SC: NFL Plays of the Year B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 025:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.026">
     <display-name>CA TSN+ ALT2 026</display-name>
-    <display-name>CA TSN+ ALT2 026: 18:00 SPORTSCENTRE E 08-17</display-name>
+    <display-name>CA TSN+ ALT2 026:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.027">
     <display-name>CA TSN+ ALT2 027</display-name>
-    <display-name>CA TSN+ ALT2 027: 19:00 MLB on TSN: Tigers vs Pirates 08-17</display-name>
+    <display-name>CA TSN+ ALT2 027:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.028">
     <display-name>CA TSN+ ALT2 028</display-name>
-    <display-name>CA TSN+ ALT2 028: 19:00 WTA 1000 Tennis: Cincinnati vs Early Round Coverage Day #5 B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 028:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.029">
     <display-name>CA TSN+ ALT2 029</display-name>
-    <display-name>CA TSN+ ALT2 029: 19:00 SC: Top PWHL Moments 08-17</display-name>
+    <display-name>CA TSN+ ALT2 029:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.030">
     <display-name>CA TSN+ ALT2 030</display-name>
-    <display-name>CA TSN+ ALT2 030: 19:30 Talladega Nights: The Ballad of Ricky Bobby 08-17</display-name>
+    <display-name>CA TSN+ ALT2 030:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.031">
     <display-name>CA TSN+ ALT2 031</display-name>
-    <display-name>CA TSN+ ALT2 031: 21:30 Happy Gilmore 08-17</display-name>
+    <display-name>CA TSN+ ALT2 031:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.032">
     <display-name>CA TSN+ ALT2 032</display-name>
-    <display-name>CA TSN+ ALT2 032: 22:00 SPORTSCENTRE F 08-17</display-name>
+    <display-name>CA TSN+ ALT2 032:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.033">
     <display-name>CA TSN+ ALT2 033</display-name>
-    <display-name>CA TSN+ ALT2 033: 23:00 SPORTSCENTRE G 08-17</display-name>
+    <display-name>CA TSN+ ALT2 033:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.034">
     <display-name>CA TSN+ ALT2 034</display-name>
-    <display-name>CA TSN+ ALT2 034: 23:30 SC: Top Bloopers of All-Time 08-17</display-name>
+    <display-name>CA TSN+ ALT2 034:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.035">
     <display-name>CA TSN+ ALT2 035</display-name>
-    <display-name>CA TSN+ ALT2 035: 23:30 SC: Top Moments of the FIFA World Cup B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 035:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.036">
     <display-name>CA TSN+ ALT2 036</display-name>
-    <display-name>CA TSN+ ALT2 036: 23:30 SC: July Plays of the Month B 08-17</display-name>
+    <display-name>CA TSN+ ALT2 036:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.037">
     <display-name>CA TSN+ ALT2 037</display-name>
-    <display-name>CA TSN+ ALT2 037: 00:00 SPORTSCENTRE H 08-18</display-name>
+    <display-name>CA TSN+ ALT2 037:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.038">
     <display-name>CA TSN+ ALT2 038</display-name>
-    <display-name>CA TSN+ ALT2 038: 00:00 SC: Top 50 CHL Goals A 08-18</display-name>
+    <display-name>CA TSN+ ALT2 038:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.039">
     <display-name>CA TSN+ ALT2 039</display-name>
-    <display-name>CA TSN+ ALT2 039: 00:30 SC: Top 50 World Hockey Championship Goals A 08-18</display-name>
+    <display-name>CA TSN+ ALT2 039:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.040">
@@ -8996,47 +8996,47 @@
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.001">
     <display-name>SN+ 001</display-name>
-    <display-name>SN+ 001: 05:00 Sportsnet Central: August 16 08-17</display-name>
+    <display-name>SN+ 001:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.002">
     <display-name>SN+ 002</display-name>
-    <display-name>SN+ 002: 09:00 The JD Bunkis Podcast: August 17 08-17</display-name>
+    <display-name>SN+ 002:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.003">
     <display-name>SN+ 003</display-name>
-    <display-name>SN+ 003: 10:00 Jays Talk Plus: August 17 08-17</display-name>
+    <display-name>SN+ 003:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.004">
     <display-name>SN+ 004</display-name>
-    <display-name>SN+ 004: 16:00 Blair &amp; Barker: August 17 08-17</display-name>
+    <display-name>SN+ 004:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.005">
     <display-name>SN+ 005</display-name>
-    <display-name>SN+ 005: 18:00 Baltimore vs Tampa Bay 08-17</display-name>
+    <display-name>SN+ 005:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.006">
     <display-name>SN+ 006</display-name>
-    <display-name>SN+ 006: 18:00 The FAN Pregame: August 17 08-17</display-name>
+    <display-name>SN+ 006:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.007">
     <display-name>SN+ 007</display-name>
-    <display-name>SN+ 007: 19:00 Arizona vs Boston 08-17</display-name>
+    <display-name>SN+ 007:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.008">
     <display-name>SN+ 008</display-name>
-    <display-name>SN+ 008: 20:00 Chicago White Sox vs Chicago Cubs 08-17</display-name>
+    <display-name>SN+ 008:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.009">
     <display-name>SN+ 009</display-name>
-    <display-name>SN+ 009: 05:00 Sportsnet Central: August 17 08-18</display-name>
+    <display-name>SN+ 009:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.010">
@@ -9496,47 +9496,47 @@
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.01">
     <display-name>SN+ ALT 01</display-name>
-    <display-name>SN+ ALT 01: 05:00 Sportsnet Central: August 16 08-17</display-name>
+    <display-name>SN+ ALT 01:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.02">
     <display-name>SN+ ALT 02</display-name>
-    <display-name>SN+ ALT 02: 09:00 The JD Bunkis Podcast: August 17 08-17</display-name>
+    <display-name>SN+ ALT 02:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.03">
     <display-name>SN+ ALT 03</display-name>
-    <display-name>SN+ ALT 03: 10:00 Jays Talk Plus: August 17 08-17</display-name>
+    <display-name>SN+ ALT 03:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.04">
     <display-name>SN+ ALT 04</display-name>
-    <display-name>SN+ ALT 04: 16:00 Blair &amp; Barker: August 17 08-17</display-name>
+    <display-name>SN+ ALT 04:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.05">
     <display-name>SN+ ALT 05</display-name>
-    <display-name>SN+ ALT 05: 18:00 Baltimore vs Tampa Bay 08-17</display-name>
+    <display-name>SN+ ALT 05:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.06">
     <display-name>SN+ ALT 06</display-name>
-    <display-name>SN+ ALT 06: 18:00 The FAN Pregame: August 17 08-17</display-name>
+    <display-name>SN+ ALT 06:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.07">
     <display-name>SN+ ALT 07</display-name>
-    <display-name>SN+ ALT 07: 19:00 Arizona vs Boston 08-17</display-name>
+    <display-name>SN+ ALT 07:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.08">
     <display-name>SN+ ALT 08</display-name>
-    <display-name>SN+ ALT 08: 20:00 Chicago White Sox vs Chicago Cubs 08-17</display-name>
+    <display-name>SN+ ALT 08:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.09">
     <display-name>SN+ ALT 09</display-name>
-    <display-name>SN+ ALT 09: 05:00 Sportsnet Central: August 17 08-18</display-name>
+    <display-name>SN+ ALT 09:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.10">
@@ -10646,12 +10646,12 @@
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.001">
     <display-name>AU STAN 001</display-name>
-    <display-name>AU STAN 001: 01:00 Cincinnati: Day 5 WTA 1000 08-18</display-name>
+    <display-name>AU STAN 001:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.002">
     <display-name>AU STAN 002</display-name>
-    <display-name>AU STAN 002: 01:00 Cincinnati: Day 6 WTA 1000 08-19</display-name>
+    <display-name>AU STAN 002:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.003">
@@ -11146,12 +11146,12 @@
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.001">
     <display-name>AU STAN ALT 001</display-name>
-    <display-name>AU STAN ALT 001: 01:00 Cincinnati: Day 5 WTA 1000 08-18</display-name>
+    <display-name>AU STAN ALT 001:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.002">
     <display-name>AU STAN ALT 002</display-name>
-    <display-name>AU STAN ALT 002: 01:00 Cincinnati: Day 6 WTA 1000 08-19</display-name>
+    <display-name>AU STAN ALT 002:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.003">
@@ -12116,22 +12116,22 @@
   </channel>
   <channel id="custom.AU.KAYO.KAYO.095">
     <display-name>KAYO+ 095</display-name>
-    <display-name>KAYO+ 095: 09:00 Pirates vs Tigers 08-18</display-name>
+    <display-name>KAYO+ 095:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.096">
     <display-name>KAYO+ 096</display-name>
-    <display-name>KAYO+ 096: 13:40 Eels vs Broncos 08-30</display-name>
+    <display-name>KAYO+ 096:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.097">
     <display-name>KAYO+ 097</display-name>
-    <display-name>KAYO+ 097: 15:00 Collingwood vs Hawthorn 08-30</display-name>
+    <display-name>KAYO+ 097:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.098">
     <display-name>KAYO+ 098</display-name>
-    <display-name>KAYO+ 098: 15:00 Gold Coast vs Geelong 08-30</display-name>
+    <display-name>KAYO+ 098:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.099">
@@ -12424,26 +12424,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260818090000 +1000" stop="20260818130000 +1000" channel="custom.AU.KAYO.KAYO.095">
-    <title>11:00 AM Pirates vs Tigers</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260830134000 +1000" stop="20260830174000 +1000" channel="custom.AU.KAYO.KAYO.096">
-    <title>3:40 PM Eels vs Broncos</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260830150000 +1000" stop="20260830190000 +1000" channel="custom.AU.KAYO.KAYO.097">
-    <title>5:00 PM Collingwood vs Hawthorn</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260830150000 +1000" stop="20260830190000 +1000" channel="custom.AU.KAYO.KAYO.098">
-    <title>5:00 PM Gold Coast vs Geelong</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
   <programme start="20260830170000 +1000" stop="20260830210000 +1000" channel="custom.AU.KAYO.KAYO.099">
     <title>7:00 PM Fremantle vs Carlton</title>
     <category>Sports</category>
@@ -12473,51 +12453,6 @@
     <title>3:00 AM Cincinnati: Day 6 WTA 1000</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260817050000 -0400" stop="20260817090000 -0400" channel="custom.CA.SPORTSNET.SN.001">
-    <title>9:00 PM Sportsnet Central: August 16</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817090000 -0400" stop="20260817130000 -0400" channel="custom.CA.SPORTSNET.SN.002">
-    <title>1:00 AM The JD Bunkis Podcast: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.CA.SPORTSNET.SN.003">
-    <title>2:00 AM Jays Talk Plus: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.CA.SPORTSNET.SN.004">
-    <title>8:00 AM Blair &amp; Barker: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.CA.SPORTSNET.SN.005">
-    <title>10:00 AM Baltimore vs Tampa Bay</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.CA.SPORTSNET.SN.006">
-    <title>10:00 AM The FAN Pregame: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.CA.SPORTSNET.SN.007">
-    <title>11:00 AM Arizona vs Boston</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817200000 -0400" stop="20260818000000 -0400" channel="custom.CA.SPORTSNET.SN.008">
-    <title>12:00 PM Chicago White Sox vs Chicago Cubs</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260818050000 -0400" stop="20260818090000 -0400" channel="custom.CA.SPORTSNET.SN.009">
-    <title>9:00 PM Sportsnet Central: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
   </programme>
   <programme start="20260818090000 -0400" stop="20260818130000 -0400" channel="custom.CA.SPORTSNET.SN.010">
     <title>1:00 AM The JD Bunkis Podcast: August 18</title>
@@ -12596,51 +12531,6 @@
   </programme>
   <programme start="20260819183000 -0400" stop="20260819223000 -0400" channel="custom.CA.SPORTSNET.SN.025">
     <title>10:30 AM New York Yankees vs Baltimore</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817050000 -0400" stop="20260817090000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.01">
-    <title>9:00 PM Sportsnet Central: August 16</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817090000 -0400" stop="20260817130000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.02">
-    <title>1:00 AM The JD Bunkis Podcast: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.03">
-    <title>2:00 AM Jays Talk Plus: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.04">
-    <title>8:00 AM Blair &amp; Barker: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.05">
-    <title>10:00 AM Baltimore vs Tampa Bay</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.06">
-    <title>10:00 AM The FAN Pregame: August 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.07">
-    <title>11:00 AM Arizona vs Boston</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817200000 -0400" stop="20260818000000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.08">
-    <title>12:00 PM Chicago White Sox vs Chicago Cubs</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260818050000 -0400" stop="20260818090000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.09">
-    <title>9:00 PM Sportsnet Central: August 17</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA SPORTSNET+</desc>
   </programme>
@@ -12723,196 +12613,6 @@
     <title>10:30 AM New York Yankees vs Baltimore</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260817090000 -0400" stop="20260817130000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.001">
-    <title>1:00 AM SPORTSCENTRE A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817090000 -0400" stop="20260817130000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.002">
-    <title>1:00 AM CFL on TSN: Roughriders vs Tiger-Cats</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.003">
-    <title>2:00 AM SPORTSCENTRE B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817110000 -0400" stop="20260817150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.005">
-    <title>3:00 AM ATP 1000 Tennis: Cincinnati vs Early Round Coverage Day #5</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817110000 -0400" stop="20260817150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.006">
-    <title>3:00 AM WTA 1000 Tennis: Cincinnati vs Early Round Coverage Day #5 A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817120000 -0400" stop="20260817160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.007">
-    <title>4:00 AM First Take A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817120000 -0400" stop="20260817160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.008">
-    <title>4:00 AM SC: July Plays of the Month A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817120000 -0400" stop="20260817160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.009">
-    <title>4:00 AM SPORTSCENTRE D</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817123000 -0400" stop="20260817163000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.010">
-    <title>4:30 AM Motorcycle Experience A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.011">
-    <title>5:00 AM Canadian Superbike Championship: Pro Superbike Race 5 of 10 A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.012">
-    <title>5:00 AM azing Race Canada</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817140000 -0400" stop="20260817180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.014">
-    <title>6:00 AM SC: Top 100 Catches of All-Time A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817150000 -0400" stop="20260817190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.015">
-    <title>7:00 AM BarDown: Shattuck-St. Mary&#x27;s School Tour</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817150000 -0400" stop="20260817190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.016">
-    <title>7:00 AM SC: Top World Junior Moments A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817153000 -0400" stop="20260817193000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.017">
-    <title>7:30 AM SC: Top World Junior Moments B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817153000 -0400" stop="20260817193000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.018">
-    <title>7:30 AM SC: NFL Plays of the Year A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.019">
-    <title>8:00 AM OverDrive A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.020">
-    <title>8:00 AM SC: Top Moments of the FIFA World Cup A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.021">
-    <title>8:00 AM NFL Live A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817163000 -0400" stop="20260817203000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.022">
-    <title>8:30 AM IndyCar Racing: Ontario Honda Dealers Indy at Markham</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817170000 -0400" stop="20260817210000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.023">
-    <title>9:00 AM OverDrive B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817170000 -0400" stop="20260817210000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.024">
-    <title>9:00 AM College Football Live A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817173000 -0400" stop="20260817213000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.025">
-    <title>9:30 AM SC: NFL Plays of the Year B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.026">
-    <title>10:00 AM SPORTSCENTRE E</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.027">
-    <title>11:00 AM MLB on TSN: Tigers vs Pirates</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.028">
-    <title>11:00 AM WTA 1000 Tennis: Cincinnati vs Early Round Coverage Day #5 B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.029">
-    <title>11:00 AM SC: Top PWHL Moments</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817193000 -0400" stop="20260817233000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.030">
-    <title>11:30 AM Talladega Nights: The Ballad of Ricky Bobby</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817213000 -0400" stop="20260818013000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.031">
-    <title>1:30 PM Happy Gilmore</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817220000 -0400" stop="20260818020000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.032">
-    <title>2:00 PM SPORTSCENTRE F</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817230000 -0400" stop="20260818030000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.033">
-    <title>3:00 PM SPORTSCENTRE G</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817233000 -0400" stop="20260818033000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.034">
-    <title>3:30 PM SC: Top Bloopers of All-Time</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817233000 -0400" stop="20260818033000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.035">
-    <title>3:30 PM SC: Top Moments of the FIFA World Cup B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817233000 -0400" stop="20260818033000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.036">
-    <title>3:30 PM SC: July Plays of the Month B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260818000000 -0400" stop="20260818040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.037">
-    <title>4:00 PM SPORTSCENTRE H</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260818000000 -0400" stop="20260818040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.038">
-    <title>4:00 PM SC: Top 50 CHL Goals A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260818003000 -0400" stop="20260818043000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.039">
-    <title>4:30 PM SC: Top 50 World Hockey Championship Goals A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260817120000 -0400" stop="20260818000000 -0400" channel="custom.CA.TSN.QC.A.08-17.tvg-logo.https">
-    <title>//image-basket.xyz/logo/live/27502.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 013: 13:30 NASCAR Canada Series: Le 45 Tours CarGurus vs Trois-Rivieres, QC A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20260817174500 -0400" stop="20260817214500 -0400" channel="custom.DIRTVISION.DIRT.01">
     <title>9:45 AM Brewerton Speedway</title>
@@ -13263,146 +12963,6 @@
     <title>12:50 AM Silvaplana | Half Pipe</title>
     <category>Sports</category>
     <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
-  </programme>
-  <programme start="20260817050000 -0400" stop="20260817090000 -0400" channel="custom.US.ESPN.ESPN.001">
-    <title>9:00 PM Soccer: FA Community Shield Highlights Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.US.ESPN.ESPN.002">
-    <title>2:00 AM Soccer: Southern Utah vs The Citadel</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817110000 -0400" stop="20260817150000 -0400" channel="custom.US.ESPN.ESPN.003">
-    <title>3:00 AM Soccer: Kent State vs Kentucky</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.004">
-    <title>5:00 AM MLB: Reds Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.005">
-    <title>5:00 AM MLB: Cardinals Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.006">
-    <title>5:00 AM MLB: Cardinals vs Reds (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.007">
-    <title>6:50 AM Soccer: STL vs CIN • DEP vs. ELC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.008">
-    <title>6:50 AM Soccer: Deportivo A Coruña vs Elche</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.009">
-    <title>6:50 AM Soccer: Deportivo A Coruña vs Elche (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817150000 -0400" stop="20260817190000 -0400" channel="custom.US.ESPN.ESPN.010">
-    <title>7:00 AM NCAA Football: College Football Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817152000 -0400" stop="20260817192000 -0400" channel="custom.US.ESPN.ESPN.011">
-    <title>7:20 AM Soccer: Almería vs Eldense</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817152000 -0400" stop="20260817192000 -0400" channel="custom.US.ESPN.ESPN.012">
-    <title>7:20 AM Soccer: Almería vs Eldense (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.013">
-    <title>8:00 AM Football: NFL Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.014">
-    <title>8:00 AM NCAA Football: College Gameday Podcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.015">
-    <title>8:00 AM High School Baseball: American Legion World Series</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.016">
-    <title>8:00 AM Soccer: Towson vs Mount St Marys</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.017">
-    <title>8:00 AM Big East Conference: St John`s vs Boston College</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817170000 -0400" stop="20260817210000 -0400" channel="custom.US.ESPN.ESPN.018">
-    <title>9:00 AM Soccer: Mon 8/17 - ESPN FC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.US.ESPN.ESPN.019">
-    <title>10:00 AM Soccer: Generación Futbol</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.US.ESPN.ESPN.020">
-    <title>11:00 AM NCAA Football: ACC Huddle Road Trip: Wake Forest</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.US.ESPN.ESPN.021">
-    <title>11:00 AM MLB: Tigers vs Pirates</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.US.ESPN.ESPN.022">
-    <title>11:00 AM MLB: Tigers vs Pirates (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817200000 -0400" stop="20260818000000 -0400" channel="custom.US.ESPN.ESPN.023">
-    <title>12:00 PM Football: NFL`s Greatest Game</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817203000 -0400" stop="20260818003000 -0400" channel="custom.US.ESPN.ESPN.024">
-    <title>12:30 PM Soccer: Mon 8/17 - Futbol Americas</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817213000 -0400" stop="20260818013000 -0400" channel="custom.US.ESPN.ESPN.025">
-    <title>1:30 PM Soccer: Utah vs Utah Valley</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817213000 -0400" stop="20260818013000 -0400" channel="custom.US.ESPN.ESPN.026">
-    <title>1:30 PM NCAA Women`s Gymnastics: Oklahoma`s Women`s College Gymnastics</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817220000 -0400" stop="20260818020000 -0400" channel="custom.US.ESPN.ESPN.027">
-    <title>2:00 PM NCAA Baseball: Oklahoma Baseball - The Most Improbable</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260818010000 -0400" stop="20260818050000 -0400" channel="custom.US.ESPN.ESPN.028">
-    <title>5:00 PM Soccer: Fútbol Picante</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
   </programme>
   <programme start="20260818080000 -0400" stop="20260818120000 -0400" channel="custom.US.ESPN.ESPN.029">
     <title>12:00 AM Soccer: LaLiga al Día</title>
@@ -14519,196 +14079,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.US.ESPN.ESPN.ALT.001">
-    <title>2:00 AM The Golics: The Golics</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.US.ESPN.ESPN.ALT.002">
-    <title>2:00 AM NCAA Women&#x27;s Soccer: Southern Utah vs The Citadel</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817120000 -0400" stop="20260817160000 -0400" channel="custom.US.ESPN.ESPN.ALT.003">
-    <title>4:00 AM The Pat McAfee Show: The Pat McAfee Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817120000 -0400" stop="20260817160000 -0400" channel="custom.US.ESPN.ESPN.ALT.004">
-    <title>4:00 AM The Rich Eisen Show: Mon 8 17 The Rich Eisen Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.ALT.005">
-    <title>6:50 AM Spanish LALIGA: Deportivo A Coruña vs Elche CF (Matchday #1)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145500 -0400" stop="20260817185500 -0400" channel="custom.US.ESPN.ESPN.ALT.006">
-    <title>6:55 AM Spanish LALIGA: En Español Deportivo A Coruña vs Elche CF (Jornada 1)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817150000 -0400" stop="20260817190000 -0400" channel="custom.US.ESPN.ESPN.ALT.007">
-    <title>7:00 AM Matt &amp; Myron: Matt &amp; Myron</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.ALT.010">
-    <title>8:00 AM NCAA Women&#x27;s Soccer: Towson vs Mount St. Marys</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817170000 -0400" stop="20260817210000 -0400" channel="custom.US.ESPN.ESPN.ALT.011">
-    <title>9:00 AM ESPN FC Daily: Mon 8 17 ESPN FC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817203000 -0400" stop="20260818003000 -0400" channel="custom.US.ESPN.ESPN.ALT.012">
-    <title>12:30 PM Fútbol Americas: Mon 8 17 Futbol Americas</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817213000 -0400" stop="20260818013000 -0400" channel="custom.US.ESPN.ESPN.ALT.013">
-    <title>1:30 PM NCAA Women&#x27;s Soccer: Utah vs Utah Valley</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817050000 -0400" stop="20260817090000 -0400" channel="custom.US.ESPN.ESPN.ALT2.001">
-    <title>9:00 PM Soccer: FA Community Shield Highlights Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817100000 -0400" stop="20260817140000 -0400" channel="custom.US.ESPN.ESPN.ALT2.002">
-    <title>2:00 AM Soccer: Southern Utah vs The Citadel</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817110000 -0400" stop="20260817150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.003">
-    <title>3:00 AM Soccer: Kent State vs Kentucky</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.004">
-    <title>5:00 AM MLB: Reds Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.005">
-    <title>5:00 AM MLB: Cardinals Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.006">
-    <title>5:00 AM MLB: Cardinals vs Reds (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.ALT2.007">
-    <title>6:50 AM Soccer: STL vs CIN • DEP vs. ELC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.ALT2.008">
-    <title>6:50 AM Soccer: Deportivo A Coruña vs Elche</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817145000 -0400" stop="20260817185000 -0400" channel="custom.US.ESPN.ESPN.ALT2.009">
-    <title>6:50 AM Soccer: Deportivo A Coruña vs Elche (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817150000 -0400" stop="20260817190000 -0400" channel="custom.US.ESPN.ESPN.ALT2.010">
-    <title>7:00 AM NCAA Football: College Football Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817152000 -0400" stop="20260817192000 -0400" channel="custom.US.ESPN.ESPN.ALT2.011">
-    <title>7:20 AM Soccer: Almería vs Eldense</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817152000 -0400" stop="20260817192000 -0400" channel="custom.US.ESPN.ESPN.ALT2.012">
-    <title>7:20 AM Soccer: Almería vs Eldense (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.ALT2.013">
-    <title>8:00 AM Football: NFL Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.ALT2.014">
-    <title>8:00 AM NCAA Football: College Gameday Podcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.ALT2.015">
-    <title>8:00 AM High School Baseball: American Legion World Series</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.ALT2.016">
-    <title>8:00 AM Soccer: Towson vs Mount St Marys</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817160000 -0400" stop="20260817200000 -0400" channel="custom.US.ESPN.ESPN.ALT2.017">
-    <title>8:00 AM Big East Conference: St John`s vs Boston College</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817170000 -0400" stop="20260817210000 -0400" channel="custom.US.ESPN.ESPN.ALT2.018">
-    <title>9:00 AM Soccer: Mon 8/17 - ESPN FC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817180000 -0400" stop="20260817220000 -0400" channel="custom.US.ESPN.ESPN.ALT2.019">
-    <title>10:00 AM Soccer: Generación Futbol</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.020">
-    <title>11:00 AM NCAA Football: ACC Huddle Road Trip: Wake Forest</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.021">
-    <title>11:00 AM MLB: Tigers vs Pirates</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.022">
-    <title>11:00 AM MLB: Tigers vs Pirates (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817200000 -0400" stop="20260818000000 -0400" channel="custom.US.ESPN.ESPN.ALT2.023">
-    <title>12:00 PM Football: NFL`s Greatest Game</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817203000 -0400" stop="20260818003000 -0400" channel="custom.US.ESPN.ESPN.ALT2.024">
-    <title>12:30 PM Soccer: Mon 8/17 - Futbol Americas</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817213000 -0400" stop="20260818013000 -0400" channel="custom.US.ESPN.ESPN.ALT2.025">
-    <title>1:30 PM Soccer: Utah vs Utah Valley</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817213000 -0400" stop="20260818013000 -0400" channel="custom.US.ESPN.ESPN.ALT2.026">
-    <title>1:30 PM NCAA Women`s Gymnastics: Oklahoma`s Women`s College Gymnastics</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260817220000 -0400" stop="20260818020000 -0400" channel="custom.US.ESPN.ESPN.ALT2.027">
-    <title>2:00 PM NCAA Baseball: Oklahoma Baseball - The Most Improbable</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
   <programme start="20260817130000 -0400" stop="20260817170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.099">
     <title>5:00 AM MLB: Reds Broadcast</title>
     <category>Sports</category>
@@ -14759,28 +14129,43 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
-  <programme start="20260817115000 -0400" stop="20260817155000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.001">
-    <title>3:50 AM Pisa vs Empoli</title>
+  <programme start="20260818145000 -0400" stop="20260818185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.006">
+    <title>6:50 AM Levski Sofia vs AEK Athens</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260817122000 -0400" stop="20260817162000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.002">
-    <title>4:20 AM Sassuolo vs Cesena</title>
+  <programme start="20260818145000 -0400" stop="20260818185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.007">
+    <title>6:50 AM GNK Dinamo vs Viking</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260817143000 -0400" stop="20260817183000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.003">
-    <title>6:30 AM Cardiff City vs Wrexham</title>
+  <programme start="20260818145000 -0400" stop="20260818185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.008">
+    <title>6:50 AM Fenerbahçe vs Lyon</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260817143500 -0400" stop="20260817183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.004">
-    <title>6:35 AM Cremonese vs Sampdoria</title>
+  <programme start="20260818175500 -0400" stop="20260818215500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.009">
+    <title>9:55 AM Mount Pleasant FA vs Cibao FC</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260817150500 -0400" stop="20260817190500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.005">
-    <title>7:05 AM Palermo vs Lecce</title>
+  <programme start="20260818190000 -0400" stop="20260818230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.010">
+    <title>11:00 AM Dana White\`s Contender Series</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260818205500 -0400" stop="20260819005500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.011">
+    <title>12:55 PM CS Cartaginés vs Verdes FC</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260818225500 -0400" stop="20260819025500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.012">
+    <title>2:55 PM Club Xelajú vs Diriangén FC</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260818225500 -0400" stop="20260819025500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.013">
+    <title>2:55 PM Real Estelí vs CS Herediano</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
