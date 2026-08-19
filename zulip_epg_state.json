@@ -542,13 +542,21 @@
           "start": "2026-08-20T01:00:00+10:00",
           "stop": "2026-08-20T05:00:00+10:00",
           "title": "Cincinnati: Day 7 WTA 1000"
+        },
+        {
+          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-08-20T01:00:00+10:00",
+          "stop": "2026-08-20T05:00:00+10:00",
+          "title": "Cincinnati: Day 7 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617400778,
-      "message_timestamp": 1787131808,
+      "message_id": 617418129,
+      "message_timestamp": 1787137213,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-19T09:59:09.828136+00:00"
+      "updated_at": "2026-08-19T11:44:16.210729+00:00"
     }
   },
   "version": 1
