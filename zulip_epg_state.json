@@ -4,27 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "9:45 AM Land of Legends Raceway",
+          "display_title": "9:45 AM Utica-Rome Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-18T17:45:00-04:00",
-          "stop": "2026-08-18T21:45:00-04:00",
-          "title": "Land of Legends Raceway"
-        },
-        {
-          "display_title": "10:15 AM Millbridge Speedway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-08-18T18:15:00-04:00",
-          "stop": "2026-08-18T22:15:00-04:00",
-          "title": "Millbridge Speedway"
+          "start": "2026-08-19T17:45:00-04:00",
+          "stop": "2026-08-19T21:45:00-04:00",
+          "title": "Utica-Rome Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 617289407,
-      "message_timestamp": 1787081413,
+      "message_id": 617473256,
+      "message_timestamp": 1787151624,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-18T19:43:29.698640+00:00"
+      "updated_at": "2026-08-19T15:57:47.986294+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
