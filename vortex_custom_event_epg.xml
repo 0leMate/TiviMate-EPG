@@ -6216,22 +6216,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: 18:45 FloRacing Night in America at Mason City 08-19</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02:</display-name>
+    <display-name>PPV2 02: 17:45 Utica Rome Speedway 08-19</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03:</display-name>
+    <display-name>PPV2 03: 18:15 Millbridge Speedway 08-19</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
     <display-name>PPV2 04</display-name>
-    <display-name>PPV2 04:</display-name>
+    <display-name>PPV2 04: 22:30 Tuff N Uff 156 08-19</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
@@ -12654,8 +12654,28 @@
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260820010000 +1000" stop="20260820050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
+  <programme start="20260820170000 +1000" stop="20260820210000 +1000" channel="custom.AU.STAN.AU.STAN.002">
+    <title>7:00 PM Canterbury vs Northland NPC Round 4 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260821030000 +1000" stop="20260821070000 +1000" channel="custom.AU.STAN.AU.STAN.003">
+    <title>5:00 AM Cincinnati: Day 8: Session 1 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260821010000 +1000" stop="20260821050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
     <title>3:00 AM Cincinnati: Day 7 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260821170000 +1000" stop="20260821210000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
+    <title>7:00 PM Canterbury vs Northland NPC Round 4 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260821030000 +1000" stop="20260821070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
+    <title>5:00 AM Cincinnati: Day 8: Session 1 WTA 1000</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -13429,23 +13449,23 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260818183000 -0400" stop="20260818223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
-    <title>10:30 AM FloRacing Night in America at Marshalltown</title>
+  <programme start="20260819184500 -0400" stop="20260819224500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>10:45 AM FloRacing Night in America at Mason City</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260818174500 -0400" stop="20260818214500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
-    <title>9:45 AM Land of Legends Raceway</title>
+  <programme start="20260819174500 -0400" stop="20260819214500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
+    <title>9:45 AM Utica Rome Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260818181500 -0400" stop="20260818221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+  <programme start="20260819181500 -0400" stop="20260819221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
     <title>10:15 AM Millbridge Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260818213000 -0400" stop="20260819013000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
-    <title>1:30 PM DWCS Post Fight Press Conference</title>
+  <programme start="20260819223000 -0400" stop="20260820023000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+    <title>2:30 PM Tuff N Uff 156</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>

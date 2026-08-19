@@ -244,43 +244,43 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "10:30 AM FloRacing Night in America at Marshalltown",
+          "display_title": "10:45 AM FloRacing Night in America at Mason City",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-18T18:30:00-04:00",
-          "stop": "2026-08-18T22:30:00-04:00",
-          "title": "FloRacing Night in America at Marshalltown"
+          "start": "2026-08-19T18:45:00-04:00",
+          "stop": "2026-08-19T22:45:00-04:00",
+          "title": "FloRacing Night in America at Mason City"
         },
         {
-          "display_title": "9:45 AM Land of Legends Raceway",
+          "display_title": "9:45 AM Utica Rome Speedway",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-18T17:45:00-04:00",
-          "stop": "2026-08-18T21:45:00-04:00",
-          "title": "Land of Legends Raceway"
+          "start": "2026-08-19T17:45:00-04:00",
+          "stop": "2026-08-19T21:45:00-04:00",
+          "title": "Utica Rome Speedway"
         },
         {
           "display_title": "10:15 AM Millbridge Speedway",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-08-18T18:15:00-04:00",
-          "stop": "2026-08-18T22:15:00-04:00",
+          "start": "2026-08-19T18:15:00-04:00",
+          "stop": "2026-08-19T22:15:00-04:00",
           "title": "Millbridge Speedway"
         },
         {
-          "display_title": "1:30 PM DWCS Post Fight Press Conference",
-          "slot": "PPV2 05",
-          "slot_norm": "PPV2 5",
-          "start": "2026-08-18T21:30:00-04:00",
-          "stop": "2026-08-19T01:30:00-04:00",
-          "title": "DWCS Post Fight Press Conference"
+          "display_title": "2:30 PM Tuff N Uff 156",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-08-19T22:30:00-04:00",
+          "stop": "2026-08-20T02:30:00-04:00",
+          "title": "Tuff N Uff 156"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 617186943,
-      "message_timestamp": 1787054417,
+      "message_id": 617428305,
+      "message_timestamp": 1787140815,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-18T14:16:26.824865+00:00"
+      "updated_at": "2026-08-19T14:17:53.048989+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -544,19 +544,51 @@
           "title": "Cincinnati: Day 7 WTA 1000"
         },
         {
+          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-08-20T17:00:00+10:00",
+          "stop": "2026-08-20T21:00:00+10:00",
+          "title": "Canterbury vs Northland NPC Round 4 2026"
+        },
+        {
+          "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-08-21T03:00:00+10:00",
+          "stop": "2026-08-21T07:00:00+10:00",
+          "title": "Cincinnati: Day 8: Session 1 WTA 1000"
+        },
+        {
           "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
           "slot": "AU STAN ALT 001",
           "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-20T01:00:00+10:00",
-          "stop": "2026-08-20T05:00:00+10:00",
+          "start": "2026-08-21T01:00:00+10:00",
+          "stop": "2026-08-21T05:00:00+10:00",
           "title": "Cincinnati: Day 7 WTA 1000"
+        },
+        {
+          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-08-21T17:00:00+10:00",
+          "stop": "2026-08-21T21:00:00+10:00",
+          "title": "Canterbury vs Northland NPC Round 4 2026"
+        },
+        {
+          "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-08-21T03:00:00+10:00",
+          "stop": "2026-08-21T07:00:00+10:00",
+          "title": "Cincinnati: Day 8: Session 1 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617418129,
-      "message_timestamp": 1787137213,
+      "message_id": 617457877,
+      "message_timestamp": 1787148019,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-19T11:44:16.210729+00:00"
+      "updated_at": "2026-08-19T14:17:53.731197+00:00"
     }
   },
   "version": 1
