@@ -6566,27 +6566,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 17:45 Super DIRTcar Series Utica Rome</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 18:15 Millbridge Sprints</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 18:45 FloRacing Night in America Mason City</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04:</display-name>
+    <display-name>PPV 04: 22:30 Tuff-N-UFF 156</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05:</display-name>
+    <display-name>PPV 05: 23:00 Inka MMA 60</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
@@ -8496,37 +8496,37 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.001">
     <display-name>CA TSN+ ALT 001</display-name>
-    <display-name>CA TSN+ ALT 001: 11:00 ATP 1000 Tennis: Cincinnati - Day #6 (Tony Trabert) 08-18</display-name>
+    <display-name>CA TSN+ ALT 001: 10:45 WTA 1000 Tennis: Cincinnati - Early Round Coverage Day #6 08-18</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.002">
     <display-name>CA TSN+ ALT 002</display-name>
-    <display-name>CA TSN+ ALT 002: 11:00 WTA 1000 Tennis: Cincinnati - Early Round Coverage Day #6 08-18</display-name>
+    <display-name>CA TSN+ ALT 002: 10:45 ATP 1000 Tennis: Cincinnati - Day #6 (P&amp;G Stadium) 08-18</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.003">
     <display-name>CA TSN+ ALT 003</display-name>
-    <display-name>CA TSN+ ALT 003: 11:00 ATP 1000 Tennis: Cincinnati - Day #6 (P&amp;G Stadium) 08-18</display-name>
+    <display-name>CA TSN+ ALT 003: 14:15 ATP 1000 Tennis: Cincinnati - Day #6 (Grandstand) 08-18</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.004">
     <display-name>CA TSN+ ALT 004</display-name>
-    <display-name>CA TSN+ ALT 004: 12:00 Pat McAfee Show 08-18</display-name>
+    <display-name>CA TSN+ ALT 004: 16:45 ATP 1000 Tennis: Cincinnati - Day #6 (Champions Court) 08-18</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.005">
     <display-name>CA TSN+ ALT 005</display-name>
-    <display-name>CA TSN+ ALT 005: 12:00 Rich Eisen Show 08-18</display-name>
+    <display-name>CA TSN+ ALT 005:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.006">
     <display-name>CA TSN+ ALT 006</display-name>
-    <display-name>CA TSN+ ALT 006: 13:00 ATP 1000 Tennis: Cincinnati - Day #6 (Grandstand) 08-18</display-name>
+    <display-name>CA TSN+ ALT 006:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.007">
     <display-name>CA TSN+ ALT 007</display-name>
-    <display-name>CA TSN+ ALT 007: 17:00 ATP 1000 Tennis: Cincinnati - Day #6 (Champions Court) 08-18</display-name>
+    <display-name>CA TSN+ ALT 007:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.008">
@@ -12974,38 +12974,23 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260818110000 -0400" stop="20260818150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.001">
-    <title>3:00 AM ATP 1000 Tennis: Cincinnati - Day #6 (Tony Trabert)</title>
+  <programme start="20260818104500 -0400" stop="20260818144500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.001">
+    <title>2:45 AM WTA 1000 Tennis: Cincinnati - Early Round Coverage Day #6</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260818110000 -0400" stop="20260818150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.002">
-    <title>3:00 AM WTA 1000 Tennis: Cincinnati - Early Round Coverage Day #6</title>
+  <programme start="20260818104500 -0400" stop="20260818144500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.002">
+    <title>2:45 AM ATP 1000 Tennis: Cincinnati - Day #6 (P&amp;G Stadium)</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260818110000 -0400" stop="20260818150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.003">
-    <title>3:00 AM ATP 1000 Tennis: Cincinnati - Day #6 (P&amp;G Stadium)</title>
+  <programme start="20260818141500 -0400" stop="20260818181500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.003">
+    <title>6:15 AM ATP 1000 Tennis: Cincinnati - Day #6 (Grandstand)</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260818120000 -0400" stop="20260818160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.004">
-    <title>4:00 AM Pat McAfee Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260818120000 -0400" stop="20260818160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.005">
-    <title>4:00 AM Rich Eisen Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260818130000 -0400" stop="20260818170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.006">
-    <title>5:00 AM ATP 1000 Tennis: Cincinnati - Day #6 (Grandstand)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260818170000 -0400" stop="20260818210000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.007">
-    <title>9:00 AM ATP 1000 Tennis: Cincinnati - Day #6 (Champions Court)</title>
+  <programme start="20260818164500 -0400" stop="20260818204500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.004">
+    <title>8:45 AM ATP 1000 Tennis: Cincinnati - Day #6 (Champions Court)</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
@@ -13444,23 +13429,28 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260817190000 -0400" stop="20260817230000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>11:00 AM Dana White Contender Series S10W02</title>
+  <programme start="20260818174500 -0400" stop="20260818214500 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>9:45 AM Super DIRTcar Series Utica Rome</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260817174500 -0400" stop="20260817214500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>9:45 AM Super DIRTcar Series Land of Legends</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260817181500 -0400" stop="20260817221500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+  <programme start="20260818181500 -0400" stop="20260818221500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>10:15 AM Millbridge Sprints</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260817183000 -0400" stop="20260817223000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>10:30 AM FloRacing Night Marshalltown</title>
+  <programme start="20260818184500 -0400" stop="20260818224500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>10:45 AM FloRacing Night in America Mason City</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260818223000 -0400" stop="20260819023000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
+    <title>2:30 PM Tuff-N-UFF 156</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260818230000 -0400" stop="20260819030000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>3:00 PM Inka MMA 60</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

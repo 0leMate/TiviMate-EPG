@@ -194,43 +194,51 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "11:00 AM Dana White Contender Series S10W02",
+          "display_title": "9:45 AM Super DIRTcar Series Utica Rome",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-17T19:00:00-04:00",
-          "stop": "2026-08-17T23:00:00-04:00",
-          "title": "Dana White Contender Series S10W02"
-        },
-        {
-          "display_title": "9:45 AM Super DIRTcar Series Land of Legends",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-08-17T17:45:00-04:00",
-          "stop": "2026-08-17T21:45:00-04:00",
-          "title": "Super DIRTcar Series Land of Legends"
+          "start": "2026-08-18T17:45:00-04:00",
+          "stop": "2026-08-18T21:45:00-04:00",
+          "title": "Super DIRTcar Series Utica Rome"
         },
         {
           "display_title": "10:15 AM Millbridge Sprints",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-08-17T18:15:00-04:00",
-          "stop": "2026-08-17T22:15:00-04:00",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-18T18:15:00-04:00",
+          "stop": "2026-08-18T22:15:00-04:00",
           "title": "Millbridge Sprints"
         },
         {
-          "display_title": "10:30 AM FloRacing Night Marshalltown",
+          "display_title": "10:45 AM FloRacing Night in America Mason City",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-08-18T18:45:00-04:00",
+          "stop": "2026-08-18T22:45:00-04:00",
+          "title": "FloRacing Night in America Mason City"
+        },
+        {
+          "display_title": "2:30 PM Tuff-N-UFF 156",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-08-17T18:30:00-04:00",
-          "stop": "2026-08-17T22:30:00-04:00",
-          "title": "FloRacing Night Marshalltown"
+          "start": "2026-08-18T22:30:00-04:00",
+          "stop": "2026-08-19T02:30:00-04:00",
+          "title": "Tuff-N-UFF 156"
+        },
+        {
+          "display_title": "3:00 PM Inka MMA 60",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-08-18T23:00:00-04:00",
+          "stop": "2026-08-19T03:00:00-04:00",
+          "title": "Inka MMA 60"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 617091678,
-      "message_timestamp": 1787022013,
+      "message_id": 617341982,
+      "message_timestamp": 1787106611,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-18T03:24:52.237049+00:00"
+      "updated_at": "2026-08-19T03:26:55.847526+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
