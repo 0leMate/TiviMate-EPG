@@ -7271,22 +7271,22 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.006">
     <display-name>CA TSN+ 006</display-name>
-    <display-name>CA TSN+ 006: 11:45 PGA TOUR Live: BMW Championship - On the Range 08-19</display-name>
+    <display-name>CA TSN+ 006: 11:45 Pat McAfee Show 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.007">
     <display-name>CA TSN+ 007</display-name>
-    <display-name>CA TSN+ 007: 11:45 Pat McAfee Show 08-19</display-name>
+    <display-name>CA TSN+ 007: 12:45 ATP 1000 Tennis: Cincinnati - Round of 16 (Grandstand) 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.008">
     <display-name>CA TSN+ 008</display-name>
-    <display-name>CA TSN+ 008:</display-name>
+    <display-name>CA TSN+ 008: 14:15 LaLiga: Atletico Madrid vs Malaga 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.009">
     <display-name>CA TSN+ 009</display-name>
-    <display-name>CA TSN+ 009:</display-name>
+    <display-name>CA TSN+ 009: 14:45 Little League Baseball World Series: Northwest vs Southeast 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.010">
@@ -8521,22 +8521,22 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.006">
     <display-name>CA TSN+ ALT 006</display-name>
-    <display-name>CA TSN+ ALT 006: 11:45 PGA TOUR Live: BMW Championship - On the Range 08-19</display-name>
+    <display-name>CA TSN+ ALT 006: 11:45 Pat McAfee Show 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.007">
     <display-name>CA TSN+ ALT 007</display-name>
-    <display-name>CA TSN+ ALT 007: 11:45 Pat McAfee Show 08-19</display-name>
+    <display-name>CA TSN+ ALT 007: 12:45 ATP 1000 Tennis: Cincinnati - Round of 16 (Grandstand) 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.008">
     <display-name>CA TSN+ ALT 008</display-name>
-    <display-name>CA TSN+ ALT 008:</display-name>
+    <display-name>CA TSN+ ALT 008: 14:15 LaLiga: Atletico Madrid vs Malaga 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.009">
     <display-name>CA TSN+ ALT 009</display-name>
-    <display-name>CA TSN+ ALT 009:</display-name>
+    <display-name>CA TSN+ ALT 009: 14:45 Little League Baseball World Series: Northwest vs Southeast 08-19</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.010">
@@ -12955,12 +12955,22 @@
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20260819114500 -0400" stop="20260819154500 -0400" channel="custom.CA.TSN.CA.TSN.006">
-    <title>3:45 AM PGA TOUR Live: BMW Championship - On the Range</title>
+    <title>3:45 AM Pat McAfee Show</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260819114500 -0400" stop="20260819154500 -0400" channel="custom.CA.TSN.CA.TSN.007">
-    <title>3:45 AM Pat McAfee Show</title>
+  <programme start="20260819124500 -0400" stop="20260819164500 -0400" channel="custom.CA.TSN.CA.TSN.007">
+    <title>4:45 AM ATP 1000 Tennis: Cincinnati - Round of 16 (Grandstand)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260819141500 -0400" stop="20260819181500 -0400" channel="custom.CA.TSN.CA.TSN.008">
+    <title>6:15 AM LaLiga: Atletico Madrid vs Malaga</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260819144500 -0400" stop="20260819184500 -0400" channel="custom.CA.TSN.CA.TSN.009">
+    <title>6:45 AM Little League Baseball World Series: Northwest vs Southeast</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
@@ -12990,12 +13000,22 @@
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20260819114500 -0400" stop="20260819154500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.006">
-    <title>3:45 AM PGA TOUR Live: BMW Championship - On the Range</title>
+    <title>3:45 AM Pat McAfee Show</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260819114500 -0400" stop="20260819154500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.007">
-    <title>3:45 AM Pat McAfee Show</title>
+  <programme start="20260819124500 -0400" stop="20260819164500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.007">
+    <title>4:45 AM ATP 1000 Tennis: Cincinnati - Round of 16 (Grandstand)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260819141500 -0400" stop="20260819181500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.008">
+    <title>6:15 AM LaLiga: Atletico Madrid vs Malaga</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260819144500 -0400" stop="20260819184500 -0400" channel="custom.CA.TSN.CA.TSN.ALT.009">
+    <title>6:45 AM Little League Baseball World Series: Northwest vs Southeast</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
