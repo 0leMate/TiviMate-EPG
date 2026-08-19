@@ -121,74 +121,74 @@
       "events": [
         {
           "display_title": "6:50 AM Slovan Bratislava vs Celje",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-19T14:50:00-04:00",
           "stop": "2026-08-19T18:50:00-04:00",
           "title": "Slovan Bratislava vs Celje"
         },
         {
           "display_title": "6:50 AM Hapoel Beer Sheva vs Sabah",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-19T14:50:00-04:00",
           "stop": "2026-08-19T18:50:00-04:00",
           "title": "Hapoel Beer Sheva vs Sabah"
         },
         {
           "display_title": "6:50 AM NEC Nijmegen vs Bodø/Glimt",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-19T14:50:00-04:00",
           "stop": "2026-08-19T18:50:00-04:00",
           "title": "NEC Nijmegen vs Bodø/Glimt"
         },
         {
           "display_title": "6:50 AM Celtic vs LASK",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-19T14:50:00-04:00",
           "stop": "2026-08-19T18:50:00-04:00",
           "title": "Celtic vs LASK"
         },
         {
           "display_title": "9:55 AM Delfines del Este FC vs Violette AC",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-08-19T17:55:00-04:00",
           "stop": "2026-08-19T21:55:00-04:00",
           "title": "Delfines del Este FC vs Violette AC"
         },
         {
           "display_title": "12:55 PM Deportivo Mixco vs UMECIT FC",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-08-19T20:55:00-04:00",
           "stop": "2026-08-20T00:55:00-04:00",
           "title": "Deportivo Mixco vs UMECIT FC"
         },
         {
           "display_title": "12:55 PM CD Marathon vs Alianza FC \\(SLV\\)",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-08-19T20:55:00-04:00",
           "stop": "2026-08-20T00:55:00-04:00",
           "title": "CD Marathon vs Alianza FC \\(SLV\\)"
         },
         {
           "display_title": "2:55 PM CD FAS vs CSD Municipal",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-08-19T22:55:00-04:00",
           "stop": "2026-08-20T02:55:00-04:00",
           "title": "CD FAS vs CSD Municipal"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 617351941,
-      "message_timestamp": 1787112033,
+      "message_id": 617389241,
+      "message_timestamp": 1787128215,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-19T05:53:45.911930+00:00"
+      "updated_at": "2026-08-19T09:59:07.833700+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -536,43 +536,19 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "3:00 AM Cincinnati: Day 6 WTA 1000",
+          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
           "slot": "AU STAN 001",
           "slot_norm": "AU STAN 1",
-          "start": "2026-08-19T01:00:00+10:00",
-          "stop": "2026-08-19T05:00:00+10:00",
-          "title": "Cincinnati: Day 6 WTA 1000"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-08-20T01:00:00+10:00",
-          "stop": "2026-08-20T05:00:00+10:00",
-          "title": "Cincinnati: Day 7 WTA 1000"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 6 WTA 1000",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-20T01:00:00+10:00",
-          "stop": "2026-08-20T05:00:00+10:00",
-          "title": "Cincinnati: Day 6 WTA 1000"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
           "start": "2026-08-20T01:00:00+10:00",
           "stop": "2026-08-20T05:00:00+10:00",
           "title": "Cincinnati: Day 7 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617213374,
-      "message_timestamp": 1787061614,
+      "message_id": 617400778,
+      "message_timestamp": 1787131808,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-18T14:16:26.988598+00:00"
+      "updated_at": "2026-08-19T09:59:09.828136+00:00"
     }
   },
   "version": 1
