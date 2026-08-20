@@ -6576,7 +6576,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 20:30 High Limit Racing Santa Maria</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -13444,28 +13444,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260818174500 -0400" stop="20260818214500 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>9:45 AM Super DIRTcar Series Utica Rome</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260818181500 -0400" stop="20260818221500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>10:15 AM Millbridge Sprints</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260818184500 -0400" stop="20260818224500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>10:45 AM FloRacing Night in America Mason City</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260818223000 -0400" stop="20260819023000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>2:30 PM Tuff-N-UFF 156</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260818230000 -0400" stop="20260819030000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>3:00 PM Inka MMA 60</title>
+  <programme start="20260819203000 -0400" stop="20260820003000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>12:30 PM High Limit Racing Santa Maria</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
