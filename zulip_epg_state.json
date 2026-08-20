@@ -202,13 +202,21 @@
           "start": "2026-08-20T20:00:00-04:00",
           "stop": "2026-08-21T00:00:00-04:00",
           "title": "UFC BJJ Tackett vs Gracie"
+        },
+        {
+          "display_title": "1:00 PM Joe Verzuz Donell Jones",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-08-20T21:00:00-04:00",
+          "stop": "2026-08-21T01:00:00-04:00",
+          "title": "Joe Verzuz Donell Jones"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 617677201,
-      "message_timestamp": 1787227228,
+      "message_id": 617791081,
+      "message_timestamp": 1787259625,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-20T14:21:20.606563+00:00"
+      "updated_at": "2026-08-20T21:48:45.919142+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
