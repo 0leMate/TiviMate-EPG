@@ -6736,12 +6736,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001:</display-name>
+    <display-name>PPV ALT 001: ONE Friday Fights 167 &amp; The Inner Circle 27 14:30</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
     <display-name>PPV ALT 002</display-name>
-    <display-name>PPV ALT 002:</display-name>
+    <display-name>PPV ALT 002: Henry vs Trinidad 23:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.003">
@@ -7246,17 +7246,17 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.001">
     <display-name>CA TSN+ 001</display-name>
-    <display-name>CA TSN+ 001:</display-name>
+    <display-name>CA TSN+ 001: 09:45 PGA TOUR Live: Main Feed + McIlroy/Schauffele (3pm) 08-20</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.002">
     <display-name>CA TSN+ 002</display-name>
-    <display-name>CA TSN+ 002:</display-name>
+    <display-name>CA TSN+ 002: 10:15 PGA TOUR Live: Featured Groups (Feat. Scott &amp; Kim) 08-20</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.003">
     <display-name>CA TSN+ 003</display-name>
-    <display-name>CA TSN+ 003:</display-name>
+    <display-name>CA TSN+ 003: 10:30 PGA TOUR Live: Marquee Group (Feat. Morikawa &amp; Scheffler) 08-20</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.004">
@@ -12903,6 +12903,21 @@
     <title>1:50 AM St Helens vs Castleford Tigers</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA SPORTSNET+</desc>
+  </programme>
+  <programme start="20260820094500 -0400" stop="20260820134500 -0400" channel="custom.CA.TSN.CA.TSN.001">
+    <title>1:45 AM PGA TOUR Live: Main Feed + McIlroy/Schauffele (3pm)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260820101500 -0400" stop="20260820141500 -0400" channel="custom.CA.TSN.CA.TSN.002">
+    <title>2:15 AM PGA TOUR Live: Featured Groups (Feat. Scott &amp; Kim)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260820103000 -0400" stop="20260820143000 -0400" channel="custom.CA.TSN.CA.TSN.003">
+    <title>2:30 AM PGA TOUR Live: Marquee Group (Feat. Morikawa &amp; Scheffler)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20260820000000 -0400" stop="20260820040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.001">
     <title>4:00 PM SPORTSCENTRE A</title>
