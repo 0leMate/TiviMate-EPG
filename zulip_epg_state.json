@@ -113,50 +113,50 @@
       "events": [
         {
           "display_title": "6:50 AM Sheffield Wednesday vs Bradford City",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-20T14:50:00-04:00",
           "stop": "2026-08-20T18:50:00-04:00",
           "title": "Sheffield Wednesday vs Bradford City"
         },
         {
           "display_title": "9:55 AM Defence Force FC vs SV Broki",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-20T17:55:00-04:00",
           "stop": "2026-08-20T21:55:00-04:00",
           "title": "Defence Force FC vs SV Broki"
         },
         {
           "display_title": "11:55 AM Cavalier FC vs Salcedo FC",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-20T19:55:00-04:00",
           "stop": "2026-08-20T23:55:00-04:00",
           "title": "Cavalier FC vs Salcedo FC"
         },
         {
           "display_title": "12:55 PM Alianza FC \\(PAN\\) vs Club Olimpia",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-20T20:55:00-04:00",
           "stop": "2026-08-21T00:55:00-04:00",
           "title": "Alianza FC \\(PAN\\) vs Club Olimpia"
         },
         {
           "display_title": "2:55 PM LA Firpo vs LD Alajuelense",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-08-20T22:55:00-04:00",
           "stop": "2026-08-21T02:55:00-04:00",
           "title": "LA Firpo vs LD Alajuelense"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 617595224,
-      "message_timestamp": 1787198431,
+      "message_id": 617634940,
+      "message_timestamp": 1787214926,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-20T05:54:40.214427+00:00"
+      "updated_at": "2026-08-20T10:03:02.740954+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -488,59 +488,27 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
+          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
           "slot": "AU STAN 001",
           "slot_norm": "AU STAN 1",
-          "start": "2026-08-20T01:00:00+10:00",
-          "stop": "2026-08-20T05:00:00+10:00",
-          "title": "Cincinnati: Day 7 WTA 1000"
-        },
-        {
-          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
           "start": "2026-08-20T17:00:00+10:00",
           "stop": "2026-08-20T21:00:00+10:00",
           "title": "Canterbury vs Northland NPC Round 4 2026"
         },
         {
           "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-08-21T03:00:00+10:00",
-          "stop": "2026-08-21T07:00:00+10:00",
-          "title": "Cincinnati: Day 8: Session 1 WTA 1000"
-        },
-        {
-          "display_title": "3:00 AM Cincinnati: Day 7 WTA 1000",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-21T01:00:00+10:00",
-          "stop": "2026-08-21T05:00:00+10:00",
-          "title": "Cincinnati: Day 7 WTA 1000"
-        },
-        {
-          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-08-21T17:00:00+10:00",
-          "stop": "2026-08-21T21:00:00+10:00",
-          "title": "Canterbury vs Northland NPC Round 4 2026"
-        },
-        {
-          "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
           "start": "2026-08-21T03:00:00+10:00",
           "stop": "2026-08-21T07:00:00+10:00",
           "title": "Cincinnati: Day 8: Session 1 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617457877,
-      "message_timestamp": 1787148019,
+      "message_id": 617649014,
+      "message_timestamp": 1787218480,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-19T14:17:53.731197+00:00"
+      "updated_at": "2026-08-20T10:03:04.756540+00:00"
     }
   },
   "version": 1
