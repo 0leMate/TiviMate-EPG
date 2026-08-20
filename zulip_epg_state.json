@@ -162,77 +162,53 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "11:00 AM Southern Nationals Toccoa",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-08-19T19:00:00-04:00",
-          "stop": "2026-08-19T23:00:00-04:00",
-          "title": "Southern Nationals Toccoa"
-        },
-        {
-          "display_title": "12:00 PM UFC BJJ 10 Tackett vs Gracie",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-08-19T20:00:00-04:00",
-          "stop": "2026-08-20T00:00:00-04:00",
-          "title": "UFC BJJ 10 Tackett vs Gracie"
-        },
-        {
-          "display_title": "12:30 PM High Limit Racing Santa Maria",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-08-19T20:30:00-04:00",
-          "stop": "2026-08-20T00:30:00-04:00",
-          "title": "High Limit Racing Santa Maria"
+          "display_title": "1:00 PM Primos Pro Wrestling Scorched Summer 2",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-08-20T21:00:00-04:00",
+          "stop": "2026-08-21T01:00:00-04:00",
+          "title": "Primos Pro Wrestling Scorched Summer 2"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 617592542,
-      "message_timestamp": 1787196612,
+      "message_id": 617677210,
+      "message_timestamp": 1787227231,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-20T05:54:40.579613+00:00"
+      "updated_at": "2026-08-20T14:21:20.455970+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "10:45 AM FloRacing Night in America at Mason City",
+          "display_title": "11:00 AM Southern Nationals at Toccoa",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-19T18:45:00-04:00",
-          "stop": "2026-08-19T22:45:00-04:00",
-          "title": "FloRacing Night in America at Mason City"
+          "start": "2026-08-20T19:00:00-04:00",
+          "stop": "2026-08-20T23:00:00-04:00",
+          "title": "Southern Nationals at Toccoa"
         },
         {
-          "display_title": "9:45 AM Utica Rome Speedway",
+          "display_title": "12:30 PM High Limit Racing at Santa Maria",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-19T17:45:00-04:00",
-          "stop": "2026-08-19T21:45:00-04:00",
-          "title": "Utica Rome Speedway"
+          "start": "2026-08-20T20:30:00-04:00",
+          "stop": "2026-08-21T00:30:00-04:00",
+          "title": "High Limit Racing at Santa Maria"
         },
         {
-          "display_title": "10:15 AM Millbridge Speedway",
+          "display_title": "12:00 PM UFC BJJ Tackett vs Gracie",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-08-19T18:15:00-04:00",
-          "stop": "2026-08-19T22:15:00-04:00",
-          "title": "Millbridge Speedway"
-        },
-        {
-          "display_title": "2:30 PM Tuff N Uff 156",
-          "slot": "PPV2 04",
-          "slot_norm": "PPV2 4",
-          "start": "2026-08-19T22:30:00-04:00",
-          "stop": "2026-08-20T02:30:00-04:00",
-          "title": "Tuff N Uff 156"
+          "start": "2026-08-20T20:00:00-04:00",
+          "stop": "2026-08-21T00:00:00-04:00",
+          "title": "UFC BJJ Tackett vs Gracie"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 617428305,
-      "message_timestamp": 1787140815,
+      "message_id": 617677201,
+      "message_timestamp": 1787227228,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-19T14:17:53.048989+00:00"
+      "updated_at": "2026-08-20T14:21:20.606563+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -502,13 +478,29 @@
           "start": "2026-08-21T03:00:00+10:00",
           "stop": "2026-08-21T07:00:00+10:00",
           "title": "Cincinnati: Day 8: Session 1 WTA 1000"
+        },
+        {
+          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-08-21T17:00:00+10:00",
+          "stop": "2026-08-21T21:00:00+10:00",
+          "title": "Canterbury vs Northland NPC Round 4 2026"
+        },
+        {
+          "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-08-21T03:00:00+10:00",
+          "stop": "2026-08-21T07:00:00+10:00",
+          "title": "Cincinnati: Day 8: Session 1 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617649014,
-      "message_timestamp": 1787218480,
+      "message_id": 617677202,
+      "message_timestamp": 1787227229,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-20T10:03:04.756540+00:00"
+      "updated_at": "2026-08-20T14:21:20.782060+00:00"
     }
   },
   "version": 1
