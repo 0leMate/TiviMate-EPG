@@ -112,79 +112,71 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:50 AM Slovan Bratislava vs Celje",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-19T14:50:00-04:00",
-          "stop": "2026-08-19T18:50:00-04:00",
-          "title": "Slovan Bratislava vs Celje"
+          "display_title": "6:50 AM Sheffield Wednesday vs Bradford City",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-08-20T14:50:00-04:00",
+          "stop": "2026-08-20T18:50:00-04:00",
+          "title": "Sheffield Wednesday vs Bradford City"
         },
         {
-          "display_title": "6:50 AM Hapoel Beer Sheva vs Sabah",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-19T14:50:00-04:00",
-          "stop": "2026-08-19T18:50:00-04:00",
-          "title": "Hapoel Beer Sheva vs Sabah"
+          "display_title": "9:55 AM Defence Force FC vs SV Broki",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-08-20T17:55:00-04:00",
+          "stop": "2026-08-20T21:55:00-04:00",
+          "title": "Defence Force FC vs SV Broki"
         },
         {
-          "display_title": "6:50 AM NEC Nijmegen vs Bodø/Glimt",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-19T14:50:00-04:00",
-          "stop": "2026-08-19T18:50:00-04:00",
-          "title": "NEC Nijmegen vs Bodø/Glimt"
+          "display_title": "11:55 AM Cavalier FC vs Salcedo FC",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-08-20T19:55:00-04:00",
+          "stop": "2026-08-20T23:55:00-04:00",
+          "title": "Cavalier FC vs Salcedo FC"
         },
         {
-          "display_title": "6:50 AM Celtic vs LASK",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-19T14:50:00-04:00",
-          "stop": "2026-08-19T18:50:00-04:00",
-          "title": "Celtic vs LASK"
+          "display_title": "12:55 PM Alianza FC \\(PAN\\) vs Club Olimpia",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-08-20T20:55:00-04:00",
+          "stop": "2026-08-21T00:55:00-04:00",
+          "title": "Alianza FC \\(PAN\\) vs Club Olimpia"
         },
         {
-          "display_title": "9:55 AM Delfines del Este FC vs Violette AC",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-08-19T17:55:00-04:00",
-          "stop": "2026-08-19T21:55:00-04:00",
-          "title": "Delfines del Este FC vs Violette AC"
-        },
-        {
-          "display_title": "12:55 PM Deportivo Mixco vs UMECIT FC",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-08-19T20:55:00-04:00",
-          "stop": "2026-08-20T00:55:00-04:00",
-          "title": "Deportivo Mixco vs UMECIT FC"
-        },
-        {
-          "display_title": "12:55 PM CD Marathon vs Alianza FC \\(SLV\\)",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-08-19T20:55:00-04:00",
-          "stop": "2026-08-20T00:55:00-04:00",
-          "title": "CD Marathon vs Alianza FC \\(SLV\\)"
-        },
-        {
-          "display_title": "2:55 PM CD FAS vs CSD Municipal",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-08-19T22:55:00-04:00",
-          "stop": "2026-08-20T02:55:00-04:00",
-          "title": "CD FAS vs CSD Municipal"
+          "display_title": "2:55 PM LA Firpo vs LD Alajuelense",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-08-20T22:55:00-04:00",
+          "stop": "2026-08-21T02:55:00-04:00",
+          "title": "LA Firpo vs LD Alajuelense"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 617389241,
-      "message_timestamp": 1787128215,
+      "message_id": 617595224,
+      "message_timestamp": 1787198431,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-19T09:59:07.833700+00:00"
+      "updated_at": "2026-08-20T05:54:40.214427+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
+        {
+          "display_title": "11:00 AM Southern Nationals Toccoa",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-08-19T19:00:00-04:00",
+          "stop": "2026-08-19T23:00:00-04:00",
+          "title": "Southern Nationals Toccoa"
+        },
+        {
+          "display_title": "12:00 PM UFC BJJ 10 Tackett vs Gracie",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-19T20:00:00-04:00",
+          "stop": "2026-08-20T00:00:00-04:00",
+          "title": "UFC BJJ 10 Tackett vs Gracie"
+        },
         {
           "display_title": "12:30 PM High Limit Racing Santa Maria",
           "slot": "PPV 03",
@@ -195,10 +187,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 617587102,
-      "message_timestamp": 1787193014,
+      "message_id": 617592542,
+      "message_timestamp": 1787196612,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-20T03:26:54.626954+00:00"
+      "updated_at": "2026-08-20T05:54:40.579613+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
