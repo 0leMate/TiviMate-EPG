@@ -694,13 +694,101 @@
           "start": "2026-08-22T04:50:00+10:00",
           "stop": "2026-08-22T08:50:00+10:00",
           "title": "Multi Camera • Arsenal vs Coventry City Premier League 2026/2027"
+        },
+        {
+          "display_title": "10:25 PM FC Tokyo vs Chiba J.League 2026",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-08-22T20:25:00+10:00",
+          "stop": "2026-08-23T00:25:00+10:00",
+          "title": "FC Tokyo vs Chiba J.League 2026"
+        },
+        {
+          "display_title": "11:00 PM PL Welcome to the Weekend: Episode 1 Aug 21",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-08-22T21:00:00+10:00",
+          "stop": "2026-08-23T01:00:00+10:00",
+          "title": "PL Welcome to the Weekend: Episode 1 Aug 21"
+        },
+        {
+          "display_title": "12:55 AM Pumas vs Griquas Currie Cup Round 6 2026",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-08-22T22:55:00+10:00",
+          "stop": "2026-08-23T02:55:00+10:00",
+          "title": "Pumas vs Griquas Currie Cup Round 6 2026"
+        },
+        {
+          "display_title": "3:00 AM Bulls vs Stormers Currie Cup Round 6 2026",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-08-22T01:00:00+10:00",
+          "stop": "2026-08-22T05:00:00+10:00",
+          "title": "Bulls vs Stormers Currie Cup Round 6 2026"
+        },
+        {
+          "display_title": "3:00 AM Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-08-22T01:00:00+10:00",
+          "stop": "2026-08-22T05:00:00+10:00",
+          "title": "Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026"
+        },
+        {
+          "display_title": "5:00 AM Cincinnati: Day 9: Session 1 WTA 1000",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-08-22T03:00:00+10:00",
+          "stop": "2026-08-22T07:00:00+10:00",
+          "title": "Cincinnati: Day 9: Session 1 WTA 1000"
+        },
+        {
+          "display_title": "5:10 AM Sharks vs Lions Currie Cup Round 6 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-08-22T03:10:00+10:00",
+          "stop": "2026-08-22T07:10:00+10:00",
+          "title": "Sharks vs Lions Currie Cup Round 6 2026"
+        },
+        {
+          "display_title": "6:00 AM Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-08-22T04:00:00+10:00",
+          "stop": "2026-08-22T08:00:00+10:00",
+          "title": "Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
+        },
+        {
+          "display_title": "6:50 AM • Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-08-22T04:50:00+10:00",
+          "stop": "2026-08-22T08:50:00+10:00",
+          "title": "• Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
+        },
+        {
+          "display_title": "6:50 AM Player Camera • Arsenal vs Coventry City Premier League 2026/2027",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-08-22T04:50:00+10:00",
+          "stop": "2026-08-22T08:50:00+10:00",
+          "title": "Player Camera • Arsenal vs Coventry City Premier League 2026/2027"
+        },
+        {
+          "display_title": "6:50 AM Multi Camera • Arsenal vs Coventry City Premier League 2026/2027",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-08-22T04:50:00+10:00",
+          "stop": "2026-08-22T08:50:00+10:00",
+          "title": "Multi Camera • Arsenal vs Coventry City Premier League 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617884569,
-      "message_timestamp": 1787304638,
+      "message_id": 617900227,
+      "message_timestamp": 1787310024,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-21T10:03:23.465833+00:00"
+      "updated_at": "2026-08-21T11:47:04.080973+00:00"
     }
   },
   "version": 1
