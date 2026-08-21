@@ -113,34 +113,34 @@
       "events": [
         {
           "display_title": "6:25 AM Inverness Caledonian Thistle vs Partick Thistle",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-21T14:25:00-04:00",
           "stop": "2026-08-21T18:25:00-04:00",
           "title": "Inverness Caledonian Thistle vs Partick Thistle"
         },
         {
           "display_title": "11:00 AM UFC Sacramento Ceremonial Weigh In",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-21T19:00:00-04:00",
           "stop": "2026-08-21T23:00:00-04:00",
           "title": "UFC Sacramento Ceremonial Weigh In"
         },
         {
           "display_title": "12:45 PM PBR Teams: Gambler Days",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-21T20:45:00-04:00",
           "stop": "2026-08-22T00:45:00-04:00",
           "title": "PBR Teams: Gambler Days"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 617836207,
-      "message_timestamp": 1787284829,
+      "message_id": 617873212,
+      "message_timestamp": 1787301036,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-21T05:58:24.303285+00:00"
+      "updated_at": "2026-08-21T10:03:23.101772+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -608,35 +608,99 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "10:25 PM FC Tokyo vs Chiba J.League 2026",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-08-21T20:25:00+10:00",
+          "stop": "2026-08-22T00:25:00+10:00",
+          "title": "FC Tokyo vs Chiba J.League 2026"
+        },
+        {
+          "display_title": "11:00 PM PL Welcome to the Weekend: Episode 1 Aug 21",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-08-21T21:00:00+10:00",
+          "stop": "2026-08-22T01:00:00+10:00",
+          "title": "PL Welcome to the Weekend: Episode 1 Aug 21"
+        },
+        {
+          "display_title": "12:55 AM Pumas vs Griquas Currie Cup Round 6 2026",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-08-21T22:55:00+10:00",
+          "stop": "2026-08-22T02:55:00+10:00",
+          "title": "Pumas vs Griquas Currie Cup Round 6 2026"
+        },
+        {
+          "display_title": "3:00 AM Bulls vs Stormers Currie Cup Round 6 2026",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-08-22T01:00:00+10:00",
+          "stop": "2026-08-22T05:00:00+10:00",
+          "title": "Bulls vs Stormers Currie Cup Round 6 2026"
+        },
+        {
+          "display_title": "3:00 AM Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-08-22T01:00:00+10:00",
+          "stop": "2026-08-22T05:00:00+10:00",
+          "title": "Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026"
+        },
+        {
+          "display_title": "5:00 AM Cincinnati: Day 9: Session 1 WTA 1000",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
+          "start": "2026-08-22T03:00:00+10:00",
+          "stop": "2026-08-22T07:00:00+10:00",
+          "title": "Cincinnati: Day 9: Session 1 WTA 1000"
+        },
+        {
+          "display_title": "5:10 AM Sharks vs Lions Currie Cup Round 6 2026",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-08-22T03:10:00+10:00",
+          "stop": "2026-08-22T07:10:00+10:00",
+          "title": "Sharks vs Lions Currie Cup Round 6 2026"
+        },
+        {
+          "display_title": "6:00 AM Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
+          "start": "2026-08-22T04:00:00+10:00",
+          "stop": "2026-08-22T08:00:00+10:00",
+          "title": "Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
+        },
+        {
           "display_title": "6:50 AM • Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-08-22T04:50:00+10:00",
           "stop": "2026-08-22T08:50:00+10:00",
           "title": "• Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
         },
         {
           "display_title": "6:50 AM Player Camera • Arsenal vs Coventry City Premier League 2026/2027",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
           "start": "2026-08-22T04:50:00+10:00",
           "stop": "2026-08-22T08:50:00+10:00",
           "title": "Player Camera • Arsenal vs Coventry City Premier League 2026/2027"
         },
         {
           "display_title": "6:50 AM Multi Camera • Arsenal vs Coventry City Premier League 2026/2027",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
           "start": "2026-08-22T04:50:00+10:00",
           "stop": "2026-08-22T08:50:00+10:00",
           "title": "Multi Camera • Arsenal vs Coventry City Premier League 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617817304,
-      "message_timestamp": 1787274021,
+      "message_id": 617884569,
+      "message_timestamp": 1787304638,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-21T03:34:47.818947+00:00"
+      "updated_at": "2026-08-21T10:03:23.465833+00:00"
     }
   },
   "version": 1
