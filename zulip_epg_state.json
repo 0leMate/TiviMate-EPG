@@ -162,19 +162,171 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "1:00 PM Primos Pro Wrestling Scorched Summer 2",
+          "display_title": "1:30 AM ONE Friday Fights 167 Dedduanglek vs Kongsuk",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-08-20T09:30:00-04:00",
+          "stop": "2026-08-20T13:30:00-04:00",
+          "title": "ONE Friday Fights 167 Dedduanglek vs Kongsuk"
+        },
+        {
+          "display_title": "11:00 AM 6:15/ Serrano vs Manzur",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-20T19:00:00-04:00",
+          "stop": "2026-08-20T23:00:00-04:00",
+          "title": "6:15/ Serrano vs Manzur"
+        },
+        {
+          "display_title": "10:00 AM BKFC Fight Night Henry vs Trinidad Snake",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-08-20T18:00:00-04:00",
+          "stop": "2026-08-20T22:00:00-04:00",
+          "title": "BKFC Fight Night Henry vs Trinidad Snake"
+        },
+        {
+          "display_title": "10:00 AM Bison Kombat 9",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-08-20T21:00:00-04:00",
-          "stop": "2026-08-21T01:00:00-04:00",
-          "title": "Primos Pro Wrestling Scorched Summer 2"
+          "start": "2026-08-20T18:00:00-04:00",
+          "stop": "2026-08-20T22:00:00-04:00",
+          "title": "Bison Kombat 9"
+        },
+        {
+          "display_title": "10:30 AM Elevate Submission Series 26",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-08-20T18:30:00-04:00",
+          "stop": "2026-08-20T22:30:00-04:00",
+          "title": "Elevate Submission Series 26"
+        },
+        {
+          "display_title": "11:00 AM ROH Death Before Dishonor",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-08-20T19:00:00-04:00",
+          "stop": "2026-08-20T23:00:00-04:00",
+          "title": "ROH Death Before Dishonor"
+        },
+        {
+          "display_title": "8:00 AM Kyle Busch Invitational Bowman",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-08-20T16:00:00-04:00",
+          "stop": "2026-08-20T20:00:00-04:00",
+          "title": "Kyle Busch Invitational Bowman"
+        },
+        {
+          "display_title": "8:45 AM Dirt Duels NHMS",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-08-20T16:45:00-04:00",
+          "stop": "2026-08-20T20:45:00-04:00",
+          "title": "Dirt Duels NHMS"
+        },
+        {
+          "display_title": "9:15 AM Weekly Racing Stafford",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-08-20T17:15:00-04:00",
+          "stop": "2026-08-20T21:15:00-04:00",
+          "title": "Weekly Racing Stafford"
+        },
+        {
+          "display_title": "10:00 AM World Fuel Altered Nationals",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-08-20T18:00:00-04:00",
+          "stop": "2026-08-20T22:00:00-04:00",
+          "title": "World Fuel Altered Nationals"
+        },
+        {
+          "display_title": "10:15 AM Empire Super Sprints Autodrome",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-08-20T18:15:00-04:00",
+          "stop": "2026-08-20T22:15:00-04:00",
+          "title": "Empire Super Sprints Autodrome"
+        },
+        {
+          "display_title": "10:30 AM Attica Sprint Cars",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-08-20T18:30:00-04:00",
+          "stop": "2026-08-20T22:30:00-04:00",
+          "title": "Attica Sprint Cars"
+        },
+        {
+          "display_title": "11:00 AM Albany Saratoga DIRTcar",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-08-20T19:00:00-04:00",
+          "stop": "2026-08-20T23:00:00-04:00",
+          "title": "Albany Saratoga DIRTcar"
+        },
+        {
+          "display_title": "11:00 AM Williams Grove Sprints",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-08-20T19:00:00-04:00",
+          "stop": "2026-08-20T23:00:00-04:00",
+          "title": "Williams Grove Sprints"
+        },
+        {
+          "display_title": "11:15 AM World of Outlaws Sprint Cars Ogilvie",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
+          "start": "2026-08-20T19:15:00-04:00",
+          "stop": "2026-08-20T23:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Ogilvie"
+        },
+        {
+          "display_title": "11:15 AM World of Outlaws Late Models Maquoketa",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-08-20T19:15:00-04:00",
+          "stop": "2026-08-20T23:15:00-04:00",
+          "title": "World of Outlaws Late Models Maquoketa"
+        },
+        {
+          "display_title": "11:15 AM NAPA All Star Sprints I95",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-08-20T19:15:00-04:00",
+          "stop": "2026-08-20T23:15:00-04:00",
+          "title": "NAPA All Star Sprints I95"
+        },
+        {
+          "display_title": "11:30 AM NASCAR Weekly Racing Riverhead",
+          "slot": "PPV 18",
+          "slot_norm": "PPV 18",
+          "start": "2026-08-20T19:30:00-04:00",
+          "stop": "2026-08-20T23:30:00-04:00",
+          "title": "NASCAR Weekly Racing Riverhead"
+        },
+        {
+          "display_title": "11:45 AM KKM Challenge Series Doe Run",
+          "slot": "PPV 19",
+          "slot_norm": "PPV 19",
+          "start": "2026-08-20T19:45:00-04:00",
+          "stop": "2026-08-20T23:45:00-04:00",
+          "title": "KKM Challenge Series Doe Run"
+        },
+        {
+          "display_title": "12:30 PM High Limit Racing Tulare",
+          "slot": "PPV 20",
+          "slot_norm": "PPV 20",
+          "start": "2026-08-20T20:30:00-04:00",
+          "stop": "2026-08-21T00:30:00-04:00",
+          "title": "High Limit Racing Tulare"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 617677210,
-      "message_timestamp": 1787227231,
+      "message_id": 617833223,
+      "message_timestamp": 1787283015,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-20T14:21:20.455970+00:00"
+      "updated_at": "2026-08-21T03:34:47.527757+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -472,43 +624,35 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-08-20T17:00:00+10:00",
-          "stop": "2026-08-20T21:00:00+10:00",
-          "title": "Canterbury vs Northland NPC Round 4 2026"
+          "display_title": "6:50 AM • Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-08-22T04:50:00+10:00",
+          "stop": "2026-08-22T08:50:00+10:00",
+          "title": "• Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
         },
         {
-          "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-08-21T03:00:00+10:00",
-          "stop": "2026-08-21T07:00:00+10:00",
-          "title": "Cincinnati: Day 8: Session 1 WTA 1000"
+          "display_title": "6:50 AM Player Camera • Arsenal vs Coventry City Premier League 2026/2027",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-08-22T04:50:00+10:00",
+          "stop": "2026-08-22T08:50:00+10:00",
+          "title": "Player Camera • Arsenal vs Coventry City Premier League 2026/2027"
         },
         {
-          "display_title": "7:00 PM Canterbury vs Northland NPC Round 4 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-21T17:00:00+10:00",
-          "stop": "2026-08-21T21:00:00+10:00",
-          "title": "Canterbury vs Northland NPC Round 4 2026"
-        },
-        {
-          "display_title": "5:00 AM Cincinnati: Day 8: Session 1 WTA 1000",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-08-21T03:00:00+10:00",
-          "stop": "2026-08-21T07:00:00+10:00",
-          "title": "Cincinnati: Day 8: Session 1 WTA 1000"
+          "display_title": "6:50 AM Multi Camera • Arsenal vs Coventry City Premier League 2026/2027",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-08-22T04:50:00+10:00",
+          "stop": "2026-08-22T08:50:00+10:00",
+          "title": "Multi Camera • Arsenal vs Coventry City Premier League 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617677202,
-      "message_timestamp": 1787227229,
+      "message_id": 617817304,
+      "message_timestamp": 1787274021,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-20T14:21:20.782060+00:00"
+      "updated_at": "2026-08-21T03:34:47.818947+00:00"
     }
   },
   "version": 1
