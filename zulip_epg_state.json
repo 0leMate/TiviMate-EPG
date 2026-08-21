@@ -4,19 +4,51 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "9:45 AM Utica-Rome Speedway",
+          "display_title": "10:30 AM Attica Raceway Park",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-19T17:45:00-04:00",
-          "stop": "2026-08-19T21:45:00-04:00",
-          "title": "Utica-Rome Speedway"
+          "start": "2026-08-21T18:30:00-04:00",
+          "stop": "2026-08-21T22:30:00-04:00",
+          "title": "Attica Raceway Park"
+        },
+        {
+          "display_title": "11:00 AM Williams Grove Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
+          "start": "2026-08-21T19:00:00-04:00",
+          "stop": "2026-08-21T23:00:00-04:00",
+          "title": "Williams Grove Speedway"
+        },
+        {
+          "display_title": "11:15 AM Ogilvie Raceway",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
+          "start": "2026-08-21T19:15:00-04:00",
+          "stop": "2026-08-21T23:15:00-04:00",
+          "title": "Ogilvie Raceway"
+        },
+        {
+          "display_title": "11:15 AM Maquoketa Speedway",
+          "slot": "DIRT 04",
+          "slot_norm": "DIRT 4",
+          "start": "2026-08-21T19:15:00-04:00",
+          "stop": "2026-08-21T23:15:00-04:00",
+          "title": "Maquoketa Speedway"
+        },
+        {
+          "display_title": "11:30 AM DIRT Zone",
+          "slot": "DIRT 05",
+          "slot_norm": "DIRT 5",
+          "start": "2026-08-21T19:30:00-04:00",
+          "stop": "2026-08-21T23:30:00-04:00",
+          "title": "DIRT Zone"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 617473256,
-      "message_timestamp": 1787151624,
+      "message_id": 617916826,
+      "message_timestamp": 1787315411,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-19T15:57:47.986294+00:00"
+      "updated_at": "2026-08-21T14:19:30.490321+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -316,43 +348,131 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "11:00 AM Southern Nationals at Toccoa",
+          "display_title": "8:00 AM Kyle Busch Invitational at Bowman Gray",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-20T19:00:00-04:00",
-          "stop": "2026-08-20T23:00:00-04:00",
-          "title": "Southern Nationals at Toccoa"
+          "start": "2026-08-21T16:00:00-04:00",
+          "stop": "2026-08-21T20:00:00-04:00",
+          "title": "Kyle Busch Invitational at Bowman Gray"
         },
         {
-          "display_title": "12:30 PM High Limit Racing at Santa Maria",
+          "display_title": "8:45 AM Dirt Duels at New Hampshire",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-20T20:30:00-04:00",
-          "stop": "2026-08-21T00:30:00-04:00",
-          "title": "High Limit Racing at Santa Maria"
+          "start": "2026-08-21T16:45:00-04:00",
+          "stop": "2026-08-21T20:45:00-04:00",
+          "title": "Dirt Duels at New Hampshire"
         },
         {
-          "display_title": "12:00 PM UFC BJJ Tackett vs Gracie",
+          "display_title": "9:15 AM Weekly Racing at Stafford",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-08-20T20:00:00-04:00",
-          "stop": "2026-08-21T00:00:00-04:00",
-          "title": "UFC BJJ Tackett vs Gracie"
+          "start": "2026-08-21T17:15:00-04:00",
+          "stop": "2026-08-21T21:15:00-04:00",
+          "title": "Weekly Racing at Stafford"
         },
         {
-          "display_title": "1:00 PM Joe Verzuz Donell Jones",
+          "display_title": "10:00 AM The World Fuel Altered Nationals",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-08-21T18:00:00-04:00",
+          "stop": "2026-08-21T22:00:00-04:00",
+          "title": "The World Fuel Altered Nationals"
+        },
+        {
+          "display_title": "10:15 AM Empire Super Sprints at Autodrome",
           "slot": "PPV2 05",
           "slot_norm": "PPV2 5",
-          "start": "2026-08-20T21:00:00-04:00",
-          "stop": "2026-08-21T01:00:00-04:00",
-          "title": "Joe Verzuz Donell Jones"
+          "start": "2026-08-21T18:15:00-04:00",
+          "stop": "2026-08-21T22:15:00-04:00",
+          "title": "Empire Super Sprints at Autodrome"
+        },
+        {
+          "display_title": "11:15 AM NAPA All Star Circuit of Champions at I96",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-08-21T19:15:00-04:00",
+          "stop": "2026-08-21T23:15:00-04:00",
+          "title": "NAPA All Star Circuit of Champions at I96"
+        },
+        {
+          "display_title": "11:30 AM NASCAR Weekly Racing at Riverhead",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-08-21T19:30:00-04:00",
+          "stop": "2026-08-21T23:30:00-04:00",
+          "title": "NASCAR Weekly Racing at Riverhead"
+        },
+        {
+          "display_title": "11:45 AM KKM Challenge Series at Doe Run",
+          "slot": "PPV2 08",
+          "slot_norm": "PPV2 8",
+          "start": "2026-08-21T19:45:00-04:00",
+          "stop": "2026-08-21T23:45:00-04:00",
+          "title": "KKM Challenge Series at Doe Run"
+        },
+        {
+          "display_title": "12:30 PM High Limit Racing at Tulare Thunderbowl",
+          "slot": "PPV2 09",
+          "slot_norm": "PPV2 9",
+          "start": "2026-08-21T20:30:00-04:00",
+          "stop": "2026-08-22T00:30:00-04:00",
+          "title": "High Limit Racing at Tulare Thunderbowl"
+        },
+        {
+          "display_title": "10:30 AM Attica Raceway Park",
+          "slot": "PPV2 10",
+          "slot_norm": "PPV2 10",
+          "start": "2026-08-21T18:30:00-04:00",
+          "stop": "2026-08-21T22:30:00-04:00",
+          "title": "Attica Raceway Park"
+        },
+        {
+          "display_title": "11:00 AM Williams Grive Speedway",
+          "slot": "PPV2 11",
+          "slot_norm": "PPV2 11",
+          "start": "2026-08-21T19:00:00-04:00",
+          "stop": "2026-08-21T23:00:00-04:00",
+          "title": "Williams Grive Speedway"
+        },
+        {
+          "display_title": "11:00 AM Ogilvie Raceway",
+          "slot": "PPV2 12",
+          "slot_norm": "PPV2 12",
+          "start": "2026-08-21T19:00:00-04:00",
+          "stop": "2026-08-21T23:00:00-04:00",
+          "title": "Ogilvie Raceway"
+        },
+        {
+          "display_title": "11:15 AM Maquoketa Speedway",
+          "slot": "PPV2 13",
+          "slot_norm": "PPV2 13",
+          "start": "2026-08-21T19:15:00-04:00",
+          "stop": "2026-08-21T23:15:00-04:00",
+          "title": "Maquoketa Speedway"
+        },
+        {
+          "display_title": "10:00 AM BKFC Fight Night Mohegan Sun Henry vs Trinidad",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-08-21T18:00:00-04:00",
+          "stop": "2026-08-21T22:00:00-04:00",
+          "title": "BKFC Fight Night Mohegan Sun Henry vs Trinidad"
+        },
+        {
+          "display_title": "11:00 AM ROH Death Before Dishonor",
+          "slot": "PPV2 16",
+          "slot_norm": "PPV2 16",
+          "start": "2026-08-21T19:00:00-04:00",
+          "stop": "2026-08-21T23:00:00-04:00",
+          "title": "ROH Death Before Dishonor"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 617791081,
-      "message_timestamp": 1787259625,
+      "message_id": 617911347,
+      "message_timestamp": 1787313614,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-20T21:48:45.919142+00:00"
+      "updated_at": "2026-08-21T14:19:31.445192+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -608,187 +728,187 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "10:25 PM FC Tokyo vs Chiba J.League 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-08-21T20:25:00+10:00",
-          "stop": "2026-08-22T00:25:00+10:00",
-          "title": "FC Tokyo vs Chiba J.League 2026"
+          "display_title": "1:30 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA First Test 2026",
+          "slot": "AU STAN 029",
+          "slot_norm": "AU STAN 29",
+          "start": "2026-08-23T23:30:00+10:00",
+          "stop": "2026-08-24T03:30:00+10:00",
+          "title": "South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA First Test 2026"
         },
         {
-          "display_title": "11:00 PM PL Welcome to the Weekend: Episode 1 Aug 21",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-08-21T21:00:00+10:00",
-          "stop": "2026-08-22T01:00:00+10:00",
-          "title": "PL Welcome to the Weekend: Episode 1 Aug 21"
+          "display_title": "1:50 AM Goal Rush: Ipswich vs Sunderland • 22 August Premier League 2026/2027",
+          "slot": "AU STAN 030",
+          "slot_norm": "AU STAN 30",
+          "start": "2026-08-23T23:50:00+10:00",
+          "stop": "2026-08-24T03:50:00+10:00",
+          "title": "Goal Rush: Ipswich vs Sunderland • 22 August Premier League 2026/2027"
         },
         {
-          "display_title": "12:55 AM Pumas vs Griquas Currie Cup Round 6 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-08-21T22:55:00+10:00",
-          "stop": "2026-08-22T02:55:00+10:00",
-          "title": "Pumas vs Griquas Currie Cup Round 6 2026"
+          "display_title": "1:50 AM Ipswich Town vs Sunderland Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 031",
+          "slot_norm": "AU STAN 31",
+          "start": "2026-08-23T23:50:00+10:00",
+          "stop": "2026-08-24T03:50:00+10:00",
+          "title": "Ipswich Town vs Sunderland Premier League Matchweek 1 2026/2027"
         },
         {
-          "display_title": "3:00 AM Bulls vs Stormers Currie Cup Round 6 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-08-22T01:00:00+10:00",
-          "stop": "2026-08-22T05:00:00+10:00",
-          "title": "Bulls vs Stormers Currie Cup Round 6 2026"
+          "display_title": "1:50 AM Nottingham Forest vs Leeds United Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 032",
+          "slot_norm": "AU STAN 32",
+          "start": "2026-08-23T23:50:00+10:00",
+          "stop": "2026-08-24T03:50:00+10:00",
+          "title": "Nottingham Forest vs Leeds United Premier League Matchweek 1 2026/2027"
         },
         {
-          "display_title": "3:00 AM Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-08-22T01:00:00+10:00",
-          "stop": "2026-08-22T05:00:00+10:00",
-          "title": "Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026"
+          "display_title": "1:50 AM Everton vs Crystal Palace Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 033",
+          "slot_norm": "AU STAN 33",
+          "start": "2026-08-23T23:50:00+10:00",
+          "stop": "2026-08-24T03:50:00+10:00",
+          "title": "Everton vs Crystal Palace Premier League Matchweek 1 2026/2027"
         },
         {
-          "display_title": "5:00 AM Cincinnati: Day 9: Session 1 WTA 1000",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-08-22T03:00:00+10:00",
-          "stop": "2026-08-22T07:00:00+10:00",
-          "title": "Cincinnati: Day 9: Session 1 WTA 1000"
+          "display_title": "2:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA First Test 2026",
+          "slot": "AU STAN 034",
+          "slot_norm": "AU STAN 34",
+          "start": "2026-08-23T00:00:00+10:00",
+          "stop": "2026-08-23T04:00:00+10:00",
+          "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA First Test 2026"
         },
         {
-          "display_title": "5:10 AM Sharks vs Lions Currie Cup Round 6 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-08-22T03:10:00+10:00",
-          "stop": "2026-08-22T07:10:00+10:00",
-          "title": "Sharks vs Lions Currie Cup Round 6 2026"
+          "display_title": "4:20 AM Studio Coverage: Brentford vs Tottenham Hotspur Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 035",
+          "slot_norm": "AU STAN 35",
+          "start": "2026-08-23T02:20:00+10:00",
+          "stop": "2026-08-23T06:20:00+10:00",
+          "title": "Studio Coverage: Brentford vs Tottenham Hotspur Premier League Matchweek 1 2026/2027"
         },
         {
-          "display_title": "6:00 AM Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-08-22T04:00:00+10:00",
-          "stop": "2026-08-22T08:00:00+10:00",
-          "title": "Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
+          "display_title": "5:00 AM Practice 2: Grand Prix of Washington D.C Indycar 2026",
+          "slot": "AU STAN 036",
+          "slot_norm": "AU STAN 36",
+          "start": "2026-08-23T03:00:00+10:00",
+          "stop": "2026-08-23T07:00:00+10:00",
+          "title": "Practice 2: Grand Prix of Washington D.C Indycar 2026"
         },
         {
-          "display_title": "6:50 AM • Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-08-22T04:50:00+10:00",
-          "stop": "2026-08-22T08:50:00+10:00",
-          "title": "• Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
-        },
-        {
-          "display_title": "6:50 AM Player Camera • Arsenal vs Coventry City Premier League 2026/2027",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-08-22T04:50:00+10:00",
-          "stop": "2026-08-22T08:50:00+10:00",
-          "title": "Player Camera • Arsenal vs Coventry City Premier League 2026/2027"
-        },
-        {
-          "display_title": "6:50 AM Multi Camera • Arsenal vs Coventry City Premier League 2026/2027",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-08-22T04:50:00+10:00",
-          "stop": "2026-08-22T08:50:00+10:00",
-          "title": "Multi Camera • Arsenal vs Coventry City Premier League 2026/2027"
-        },
-        {
-          "display_title": "10:25 PM FC Tokyo vs Chiba J.League 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-22T20:25:00+10:00",
-          "stop": "2026-08-23T00:25:00+10:00",
-          "title": "FC Tokyo vs Chiba J.League 2026"
-        },
-        {
-          "display_title": "11:00 PM PL Welcome to the Weekend: Episode 1 Aug 21",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-08-22T21:00:00+10:00",
-          "stop": "2026-08-23T01:00:00+10:00",
-          "title": "PL Welcome to the Weekend: Episode 1 Aug 21"
-        },
-        {
-          "display_title": "12:55 AM Pumas vs Griquas Currie Cup Round 6 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-08-22T22:55:00+10:00",
-          "stop": "2026-08-23T02:55:00+10:00",
-          "title": "Pumas vs Griquas Currie Cup Round 6 2026"
+          "display_title": "7:00 AM PL Saturday Wrap: Matchweek 1 Aug 23",
+          "slot": "AU STAN 037",
+          "slot_norm": "AU STAN 37",
+          "start": "2026-08-23T05:00:00+10:00",
+          "stop": "2026-08-23T09:00:00+10:00",
+          "title": "PL Saturday Wrap: Matchweek 1 Aug 23"
         },
         {
           "display_title": "3:00 AM Bulls vs Stormers Currie Cup Round 6 2026",
           "slot": "AU STAN ALT 004",
           "slot_norm": "AU STAN ALT 4",
-          "start": "2026-08-22T01:00:00+10:00",
-          "stop": "2026-08-22T05:00:00+10:00",
+          "start": "2026-08-23T01:00:00+10:00",
+          "stop": "2026-08-23T05:00:00+10:00",
           "title": "Bulls vs Stormers Currie Cup Round 6 2026"
         },
         {
           "display_title": "3:00 AM Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026",
           "slot": "AU STAN ALT 005",
           "slot_norm": "AU STAN ALT 5",
-          "start": "2026-08-22T01:00:00+10:00",
-          "stop": "2026-08-22T05:00:00+10:00",
+          "start": "2026-08-23T01:00:00+10:00",
+          "stop": "2026-08-23T05:00:00+10:00",
           "title": "Crosscountry Short Track: Les Gets UCI Mountain Bike World Series 2026"
         },
         {
           "display_title": "5:00 AM Cincinnati: Day 9: Session 1 WTA 1000",
           "slot": "AU STAN ALT 006",
           "slot_norm": "AU STAN ALT 6",
-          "start": "2026-08-22T03:00:00+10:00",
-          "stop": "2026-08-22T07:00:00+10:00",
+          "start": "2026-08-23T03:00:00+10:00",
+          "stop": "2026-08-23T07:00:00+10:00",
           "title": "Cincinnati: Day 9: Session 1 WTA 1000"
         },
         {
           "display_title": "5:10 AM Sharks vs Lions Currie Cup Round 6 2026",
           "slot": "AU STAN ALT 007",
           "slot_norm": "AU STAN ALT 7",
-          "start": "2026-08-22T03:10:00+10:00",
-          "stop": "2026-08-22T07:10:00+10:00",
+          "start": "2026-08-23T03:10:00+10:00",
+          "stop": "2026-08-23T07:10:00+10:00",
           "title": "Sharks vs Lions Currie Cup Round 6 2026"
         },
         {
           "display_title": "6:00 AM Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
           "slot": "AU STAN ALT 008",
           "slot_norm": "AU STAN ALT 8",
-          "start": "2026-08-22T04:00:00+10:00",
-          "stop": "2026-08-22T08:00:00+10:00",
+          "start": "2026-08-23T04:00:00+10:00",
+          "stop": "2026-08-23T08:00:00+10:00",
           "title": "Studio Coverage: Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
         },
         {
           "display_title": "6:50 AM • Arsenal vs Coventry City Premier League Matchweek 1 2026/2027",
           "slot": "AU STAN ALT 009",
           "slot_norm": "AU STAN ALT 9",
-          "start": "2026-08-22T04:50:00+10:00",
-          "stop": "2026-08-22T08:50:00+10:00",
+          "start": "2026-08-23T04:50:00+10:00",
+          "stop": "2026-08-23T08:50:00+10:00",
           "title": "• Arsenal vs Coventry City Premier League Matchweek 1 2026/2027"
         },
         {
           "display_title": "6:50 AM Player Camera • Arsenal vs Coventry City Premier League 2026/2027",
           "slot": "AU STAN ALT 010",
           "slot_norm": "AU STAN ALT 10",
-          "start": "2026-08-22T04:50:00+10:00",
-          "stop": "2026-08-22T08:50:00+10:00",
+          "start": "2026-08-23T04:50:00+10:00",
+          "stop": "2026-08-23T08:50:00+10:00",
           "title": "Player Camera • Arsenal vs Coventry City Premier League 2026/2027"
         },
         {
           "display_title": "6:50 AM Multi Camera • Arsenal vs Coventry City Premier League 2026/2027",
           "slot": "AU STAN ALT 011",
           "slot_norm": "AU STAN ALT 11",
-          "start": "2026-08-22T04:50:00+10:00",
-          "stop": "2026-08-22T08:50:00+10:00",
+          "start": "2026-08-23T04:50:00+10:00",
+          "stop": "2026-08-23T08:50:00+10:00",
           "title": "Multi Camera • Arsenal vs Coventry City Premier League 2026/2027"
+        },
+        {
+          "display_title": "12:30 PM Cincinnati: Day 9: Session 2 WTA 1000",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-08-23T10:30:00+10:00",
+          "stop": "2026-08-23T14:30:00+10:00",
+          "title": "Cincinnati: Day 9: Session 2 WTA 1000"
+        },
+        {
+          "display_title": "1:00 PM Tasman vs Southland NPC Round 4 2026",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-08-23T11:00:00+10:00",
+          "stop": "2026-08-23T15:00:00+10:00",
+          "title": "Tasman vs Southland NPC Round 4 2026"
+        },
+        {
+          "display_title": "2:00 PM San Diego Wave vs Utah Royals NWSL 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-08-23T12:00:00+10:00",
+          "stop": "2026-08-23T16:00:00+10:00",
+          "title": "San Diego Wave vs Utah Royals NWSL 2026"
+        },
+        {
+          "display_title": "2:30 PM New Zealand vs Australia Women\\`s International/O\\`Reilly Cup Final 2026",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-08-23T12:30:00+10:00",
+          "stop": "2026-08-23T16:30:00+10:00",
+          "title": "New Zealand vs Australia Women\\`s International/O\\`Reilly Cup Final 2026"
+        },
+        {
+          "display_title": "5:00 PM Gordon vs Sydney University Shute Shield Quarter Final 2026",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-08-23T15:00:00+10:00",
+          "stop": "2026-08-23T19:00:00+10:00",
+          "title": "Gordon vs Sydney University Shute Shield Quarter Final 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 617900227,
-      "message_timestamp": 1787310024,
+      "message_id": 617937321,
+      "message_timestamp": 1787320822,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-21T11:47:04.080973+00:00"
+      "updated_at": "2026-08-21T14:19:31.867625+00:00"
     }
   },
   "version": 1
