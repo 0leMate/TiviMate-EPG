@@ -4,51 +4,75 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:30 AM Attica Raceway Park",
+          "display_title": "9:30 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-21T18:30:00-04:00",
-          "stop": "2026-08-21T22:30:00-04:00",
-          "title": "Attica Raceway Park"
+          "start": "2026-08-22T17:30:00-04:00",
+          "stop": "2026-08-22T21:30:00-04:00",
+          "title": "Millbridge Speedway"
         },
         {
-          "display_title": "11:00 AM Williams Grove Speedway",
+          "display_title": "10:15 AM Land of Legends Raceway",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-08-21T19:00:00-04:00",
-          "stop": "2026-08-21T23:00:00-04:00",
-          "title": "Williams Grove Speedway"
+          "start": "2026-08-22T18:15:00-04:00",
+          "stop": "2026-08-22T22:15:00-04:00",
+          "title": "Land of Legends Raceway"
         },
         {
-          "display_title": "11:15 AM Ogilvie Raceway",
+          "display_title": "10:15 AM Cedar Lake Speedway",
           "slot": "DIRT 03",
           "slot_norm": "DIRT 3",
-          "start": "2026-08-21T19:15:00-04:00",
-          "stop": "2026-08-21T23:15:00-04:00",
-          "title": "Ogilvie Raceway"
+          "start": "2026-08-22T18:15:00-04:00",
+          "stop": "2026-08-22T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "10:30 AM Sharon Speedway",
+          "slot": "DIRT 04",
+          "slot_norm": "DIRT 4",
+          "start": "2026-08-22T18:30:00-04:00",
+          "stop": "2026-08-22T22:30:00-04:00",
+          "title": "Sharon Speedway"
+        },
+        {
+          "display_title": "11:15 AM Jackson Motorplex",
+          "slot": "DIRT 05",
+          "slot_norm": "DIRT 5",
+          "start": "2026-08-22T19:15:00-04:00",
+          "stop": "2026-08-22T23:15:00-04:00",
+          "title": "Jackson Motorplex"
         },
         {
           "display_title": "11:15 AM Maquoketa Speedway",
-          "slot": "DIRT 04",
-          "slot_norm": "DIRT 4",
-          "start": "2026-08-21T19:15:00-04:00",
-          "stop": "2026-08-21T23:15:00-04:00",
+          "slot": "DIRT 06",
+          "slot_norm": "DIRT 6",
+          "start": "2026-08-22T19:15:00-04:00",
+          "stop": "2026-08-22T23:15:00-04:00",
           "title": "Maquoketa Speedway"
         },
         {
           "display_title": "11:30 AM DIRT Zone",
-          "slot": "DIRT 05",
-          "slot_norm": "DIRT 5",
-          "start": "2026-08-21T19:30:00-04:00",
-          "stop": "2026-08-21T23:30:00-04:00",
+          "slot": "DIRT 07",
+          "slot_norm": "DIRT 7",
+          "start": "2026-08-22T19:30:00-04:00",
+          "stop": "2026-08-22T23:30:00-04:00",
           "title": "DIRT Zone"
+        },
+        {
+          "display_title": "12:15 PM Riverside International Speedway",
+          "slot": "DIRT 08",
+          "slot_norm": "DIRT 8",
+          "start": "2026-08-22T20:15:00-04:00",
+          "stop": "2026-08-23T00:15:00-04:00",
+          "title": "Riverside International Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 617916826,
-      "message_timestamp": 1787315411,
+      "message_id": 618089583,
+      "message_timestamp": 1787401826,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-21T14:19:30.490321+00:00"
+      "updated_at": "2026-08-22T13:47:52.122726+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -308,131 +332,323 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "8:00 AM Kyle Busch Invitational at Bowman Gray",
+          "display_title": "9:00 AM PRELIMS UFC FN",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-21T16:00:00-04:00",
-          "stop": "2026-08-21T20:00:00-04:00",
-          "title": "Kyle Busch Invitational at Bowman Gray"
+          "start": "2026-08-22T17:00:00-04:00",
+          "stop": "2026-08-22T21:00:00-04:00",
+          "title": "PRELIMS UFC FN"
         },
         {
-          "display_title": "8:45 AM Dirt Duels at New Hampshire",
+          "display_title": "9:00 AM PRELIMS UFC FN",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-21T16:45:00-04:00",
-          "stop": "2026-08-21T20:45:00-04:00",
-          "title": "Dirt Duels at New Hampshire"
+          "start": "2026-08-22T17:00:00-04:00",
+          "stop": "2026-08-22T21:00:00-04:00",
+          "title": "PRELIMS UFC FN"
         },
         {
-          "display_title": "9:15 AM Weekly Racing at Stafford",
+          "display_title": "12:00 PM UFC FN Hernandez vs Rodrigues",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-08-21T17:15:00-04:00",
-          "stop": "2026-08-21T21:15:00-04:00",
-          "title": "Weekly Racing at Stafford"
+          "start": "2026-08-22T20:00:00-04:00",
+          "stop": "2026-08-23T00:00:00-04:00",
+          "title": "UFC FN Hernandez vs Rodrigues"
         },
         {
-          "display_title": "10:00 AM The World Fuel Altered Nationals",
+          "display_title": "12:00 PM UFC FN Hernandez vs Rodrigues",
           "slot": "PPV2 04",
           "slot_norm": "PPV2 4",
-          "start": "2026-08-21T18:00:00-04:00",
-          "stop": "2026-08-21T22:00:00-04:00",
+          "start": "2026-08-22T20:00:00-04:00",
+          "stop": "2026-08-23T00:00:00-04:00",
+          "title": "UFC FN Hernandez vs Rodrigues"
+        },
+        {
+          "display_title": "10:00 AM PRELIMS Rolando Romero vs Teofimo Lopez",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-08-22T18:00:00-04:00",
+          "stop": "2026-08-22T22:00:00-04:00",
+          "title": "PRELIMS Rolando Romero vs Teofimo Lopez"
+        },
+        {
+          "display_title": "12:00 PM Rolando Romero vs Teofimo Lopez",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-08-22T20:00:00-04:00",
+          "stop": "2026-08-23T00:00:00-04:00",
+          "title": "Rolando Romero vs Teofimo Lopez"
+        },
+        {
+          "display_title": "8:00 AM HAW Rise From The Ashes IV",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-08-22T16:00:00-04:00",
+          "stop": "2026-08-22T20:00:00-04:00",
+          "title": "HAW Rise From The Ashes IV"
+        },
+        {
+          "display_title": "11:00 AM W Superbowl of Wrestling",
+          "slot": "PPV2 08",
+          "slot_norm": "PPV2 8",
+          "start": "2026-08-22T19:00:00-04:00",
+          "stop": "2026-08-22T23:00:00-04:00",
+          "title": "W Superbowl of Wrestling"
+        },
+        {
+          "display_title": "4:00 AM PRELIMS Liddard vs Morello",
+          "slot": "PPV2 10",
+          "slot_norm": "PPV2 10",
+          "start": "2026-08-22T12:00:00-04:00",
+          "stop": "2026-08-22T16:00:00-04:00",
+          "title": "PRELIMS Liddard vs Morello"
+        },
+        {
+          "display_title": "6:00 AM Liddard vs Morello",
+          "slot": "PPV2 11",
+          "slot_norm": "PPV2 11",
+          "start": "2026-08-22T14:00:00-04:00",
+          "stop": "2026-08-22T18:00:00-04:00",
+          "title": "Liddard vs Morello"
+        },
+        {
+          "display_title": "9:30 AM PRELIMS PFL Tampa",
+          "slot": "PPV2 13",
+          "slot_norm": "PPV2 13",
+          "start": "2026-08-22T17:30:00-04:00",
+          "stop": "2026-08-22T21:30:00-04:00",
+          "title": "PRELIMS PFL Tampa"
+        },
+        {
+          "display_title": "1:00 PM PFL Tampa Cyborg vs Vieira",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-08-22T21:00:00-04:00",
+          "stop": "2026-08-23T01:00:00-04:00",
+          "title": "PFL Tampa Cyborg vs Vieira"
+        },
+        {
+          "display_title": "3:00 AM The World Fuel Altered Nationals",
+          "slot": "PPV2 15",
+          "slot_norm": "PPV2 15",
+          "start": "2026-08-23T11:00:00-04:00",
+          "stop": "2026-08-23T15:00:00-04:00",
           "title": "The World Fuel Altered Nationals"
         },
         {
-          "display_title": "10:15 AM Empire Super Sprints at Autodrome",
-          "slot": "PPV2 05",
-          "slot_norm": "PPV2 5",
-          "start": "2026-08-21T18:15:00-04:00",
-          "stop": "2026-08-21T22:15:00-04:00",
-          "title": "Empire Super Sprints at Autodrome"
+          "display_title": "3:00 AM USAC Bettenhausen 100 at Illinois",
+          "slot": "PPV2 16",
+          "slot_norm": "PPV2 16",
+          "start": "2026-08-23T11:00:00-04:00",
+          "stop": "2026-08-23T15:00:00-04:00",
+          "title": "USAC Bettenhausen 100 at Illinois"
         },
         {
-          "display_title": "11:15 AM NAPA All Star Circuit of Champions at I96",
-          "slot": "PPV2 06",
-          "slot_norm": "PPV2 6",
-          "start": "2026-08-21T19:15:00-04:00",
-          "stop": "2026-08-21T23:15:00-04:00",
-          "title": "NAPA All Star Circuit of Champions at I96"
+          "display_title": "4:25 PM erican Flat Track at Peoria",
+          "slot": "PPV2 17",
+          "slot_norm": "PPV2 17",
+          "start": "2026-08-24T00:25:00-04:00",
+          "stop": "2026-08-24T04:25:00-04:00",
+          "title": "erican Flat Track at Peoria"
         },
         {
-          "display_title": "11:30 AM NASCAR Weekly Racing at Riverhead",
-          "slot": "PPV2 07",
-          "slot_norm": "PPV2 7",
-          "start": "2026-08-21T19:30:00-04:00",
-          "stop": "2026-08-21T23:30:00-04:00",
-          "title": "NASCAR Weekly Racing at Riverhead"
+          "display_title": "8:15 AM NASCAR Whelen Modified Tour at New Hampshire",
+          "slot": "PPV2 18",
+          "slot_norm": "PPV2 18",
+          "start": "2026-08-24T16:15:00-04:00",
+          "stop": "2026-08-24T20:15:00-04:00",
+          "title": "NASCAR Whelen Modified Tour at New Hampshire"
         },
         {
-          "display_title": "11:45 AM KKM Challenge Series at Doe Run",
-          "slot": "PPV2 08",
-          "slot_norm": "PPV2 8",
-          "start": "2026-08-21T19:45:00-04:00",
-          "stop": "2026-08-21T23:45:00-04:00",
-          "title": "KKM Challenge Series at Doe Run"
+          "display_title": "8:30 AM CARS Tour at Anderson",
+          "slot": "PPV2 19",
+          "slot_norm": "PPV2 19",
+          "start": "2026-08-24T16:30:00-04:00",
+          "stop": "2026-08-24T20:30:00-04:00",
+          "title": "CARS Tour at Anderson"
         },
         {
-          "display_title": "12:30 PM High Limit Racing at Tulare Thunderbowl",
-          "slot": "PPV2 09",
-          "slot_norm": "PPV2 9",
-          "start": "2026-08-21T20:30:00-04:00",
-          "stop": "2026-08-22T00:30:00-04:00",
-          "title": "High Limit Racing at Tulare Thunderbowl"
+          "display_title": "9:45 AM NASCAR Weekly Racing at Jennerstown",
+          "slot": "PPV2 20",
+          "slot_norm": "PPV2 20",
+          "start": "2026-08-24T17:45:00-04:00",
+          "stop": "2026-08-24T21:45:00-04:00",
+          "title": "NASCAR Weekly Racing at Jennerstown"
         },
         {
-          "display_title": "10:30 AM Attica Raceway Park",
-          "slot": "PPV2 10",
-          "slot_norm": "PPV2 10",
-          "start": "2026-08-21T18:30:00-04:00",
-          "stop": "2026-08-21T22:30:00-04:00",
-          "title": "Attica Raceway Park"
+          "display_title": "9:50 AM IRA Sprints at Wilmot",
+          "slot": "PPV2 21",
+          "slot_norm": "PPV2 21",
+          "start": "2026-08-24T17:50:00-04:00",
+          "stop": "2026-08-24T21:50:00-04:00",
+          "title": "IRA Sprints at Wilmot"
         },
         {
-          "display_title": "11:00 AM Williams Grive Speedway",
-          "slot": "PPV2 11",
-          "slot_norm": "PPV2 11",
-          "start": "2026-08-21T19:00:00-04:00",
-          "stop": "2026-08-21T23:00:00-04:00",
-          "title": "Williams Grive Speedway"
+          "display_title": "10:00 AM Race of Champions Sportsman at Shangri La II",
+          "slot": "PPV2 22",
+          "slot_norm": "PPV2 22",
+          "start": "2026-08-24T18:00:00-04:00",
+          "stop": "2026-08-24T22:00:00-04:00",
+          "title": "Race of Champions Sportsman at Shangri La II"
         },
         {
-          "display_title": "11:00 AM Ogilvie Raceway",
-          "slot": "PPV2 12",
-          "slot_norm": "PPV2 12",
-          "start": "2026-08-21T19:00:00-04:00",
-          "stop": "2026-08-21T23:00:00-04:00",
-          "title": "Ogilvie Raceway"
+          "display_title": "10:00 AM Living Legends Dream Race at Port Royal",
+          "slot": "PPV2 23",
+          "slot_norm": "PPV2 23",
+          "start": "2026-08-24T18:00:00-04:00",
+          "stop": "2026-08-24T22:00:00-04:00",
+          "title": "Living Legends Dream Race at Port Royal"
+        },
+        {
+          "display_title": "10:00 AM NAPA All Star Circuit of Champions at Butler",
+          "slot": "PPV2 24",
+          "slot_norm": "PPV2 24",
+          "start": "2026-08-24T18:00:00-04:00",
+          "stop": "2026-08-24T22:00:00-04:00",
+          "title": "NAPA All Star Circuit of Champions at Butler"
+        },
+        {
+          "display_title": "10:00 AM NASCAR Weekly Racing at Berlin",
+          "slot": "PPV2 25",
+          "slot_norm": "PPV2 25",
+          "start": "2026-08-24T18:00:00-04:00",
+          "stop": "2026-08-24T22:00:00-04:00",
+          "title": "NASCAR Weekly Racing at Berlin"
+        },
+        {
+          "display_title": "8:30 AM Championship Night at Oswego",
+          "slot": "PPV2 26",
+          "slot_norm": "PPV2 26",
+          "start": "2026-08-24T16:30:00-04:00",
+          "stop": "2026-08-24T20:30:00-04:00",
+          "title": "Championship Night at Oswego"
+        },
+        {
+          "display_title": "10:30 AM NASCAR Weekly Racing at South Boston",
+          "slot": "PPV2 27",
+          "slot_norm": "PPV2 27",
+          "start": "2026-08-24T18:30:00-04:00",
+          "stop": "2026-08-24T22:30:00-04:00",
+          "title": "NASCAR Weekly Racing at South Boston"
+        },
+        {
+          "display_title": "10:45 AM Race for the Million at Colorado National",
+          "slot": "PPV2 28",
+          "slot_norm": "PPV2 28",
+          "start": "2026-08-24T18:45:00-04:00",
+          "stop": "2026-08-24T22:45:00-04:00",
+          "title": "Race for the Million at Colorado National"
+        },
+        {
+          "display_title": "10:55 AM IMCA Weekly Racing at 141",
+          "slot": "PPV2 29",
+          "slot_norm": "PPV2 29",
+          "start": "2026-08-24T18:55:00-04:00",
+          "stop": "2026-08-24T22:55:00-04:00",
+          "title": "IMCA Weekly Racing at 141"
+        },
+        {
+          "display_title": "11:00 AM NASCAR Weekly Racing at Hickory Motor",
+          "slot": "PPV2 30",
+          "slot_norm": "PPV2 30",
+          "start": "2026-08-24T19:00:00-04:00",
+          "stop": "2026-08-24T23:00:00-04:00",
+          "title": "NASCAR Weekly Racing at Hickory Motor"
+        },
+        {
+          "display_title": "11:00 AM NASCAR Weekly Racing at Langley",
+          "slot": "PPV2 31",
+          "slot_norm": "PPV2 31",
+          "start": "2026-08-24T19:00:00-04:00",
+          "stop": "2026-08-24T23:00:00-04:00",
+          "title": "NASCAR Weekly Racing at Langley"
+        },
+        {
+          "display_title": "11:00 AM KKM Challenge Series at Southern Illinois",
+          "slot": "PPV2 32",
+          "slot_norm": "PPV2 32",
+          "start": "2026-08-24T19:00:00-04:00",
+          "stop": "2026-08-24T23:00:00-04:00",
+          "title": "KKM Challenge Series at Southern Illinois"
+        },
+        {
+          "display_title": "11:00 AM Slamfest at Slinger",
+          "slot": "PPV2 33",
+          "slot_norm": "PPV2 33",
+          "start": "2026-08-24T19:00:00-04:00",
+          "stop": "2026-08-24T23:00:00-04:00",
+          "title": "Slamfest at Slinger"
+        },
+        {
+          "display_title": "11:45 AM NASCAR Season Finale at Bowman Gray",
+          "slot": "PPV2 34",
+          "slot_norm": "PPV2 34",
+          "start": "2026-08-24T19:45:00-04:00",
+          "stop": "2026-08-24T23:45:00-04:00",
+          "title": "NASCAR Season Finale at Bowman Gray"
+        },
+        {
+          "display_title": "12:30 PM High Limit Racing at Placerville",
+          "slot": "PPV2 35",
+          "slot_norm": "PPV2 35",
+          "start": "2026-08-24T20:30:00-04:00",
+          "stop": "2026-08-25T00:30:00-04:00",
+          "title": "High Limit Racing at Placerville"
+        },
+        {
+          "display_title": "9:30 AM Millbridge Speedway",
+          "slot": "PPV2 36",
+          "slot_norm": "PPV2 36",
+          "start": "2026-08-24T17:30:00-04:00",
+          "stop": "2026-08-24T21:30:00-04:00",
+          "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "10:15 AM Land of Legends Raceway",
+          "slot": "PPV2 37",
+          "slot_norm": "PPV2 37",
+          "start": "2026-08-24T18:15:00-04:00",
+          "stop": "2026-08-24T22:15:00-04:00",
+          "title": "Land of Legends Raceway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Creek Speedway",
+          "slot": "PPV2 38",
+          "slot_norm": "PPV2 38",
+          "start": "2026-08-24T18:15:00-04:00",
+          "stop": "2026-08-24T22:15:00-04:00",
+          "title": "Cedar Creek Speedway"
+        },
+        {
+          "display_title": "11:15 AM Jackson Motorplex",
+          "slot": "PPV2 39",
+          "slot_norm": "PPV2 39",
+          "start": "2026-08-24T19:15:00-04:00",
+          "stop": "2026-08-24T23:15:00-04:00",
+          "title": "Jackson Motorplex"
         },
         {
           "display_title": "11:15 AM Maquoketa Speedway",
-          "slot": "PPV2 13",
-          "slot_norm": "PPV2 13",
-          "start": "2026-08-21T19:15:00-04:00",
-          "stop": "2026-08-21T23:15:00-04:00",
+          "slot": "PPV2 40",
+          "slot_norm": "PPV2 40",
+          "start": "2026-08-24T19:15:00-04:00",
+          "stop": "2026-08-24T23:15:00-04:00",
           "title": "Maquoketa Speedway"
         },
         {
-          "display_title": "10:00 AM BKFC Fight Night Mohegan Sun Henry vs Trinidad",
-          "slot": "PPV2 14",
-          "slot_norm": "PPV2 14",
-          "start": "2026-08-21T18:00:00-04:00",
-          "stop": "2026-08-21T22:00:00-04:00",
-          "title": "BKFC Fight Night Mohegan Sun Henry vs Trinidad"
-        },
-        {
-          "display_title": "11:00 AM ROH Death Before Dishonor",
-          "slot": "PPV2 16",
-          "slot_norm": "PPV2 16",
-          "start": "2026-08-21T19:00:00-04:00",
-          "stop": "2026-08-21T23:00:00-04:00",
-          "title": "ROH Death Before Dishonor"
+          "display_title": "12:15 PM Riverside International Speedway",
+          "slot": "PPV2 41",
+          "slot_norm": "PPV2 41",
+          "start": "2026-08-24T20:15:00-04:00",
+          "stop": "2026-08-25T00:15:00-04:00",
+          "title": "Riverside International Speedway"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 617911347,
-      "message_timestamp": 1787313614,
+      "message_id": 618091702,
+      "message_timestamp": 1787403620,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-21T14:19:31.445192+00:00"
+      "updated_at": "2026-08-22T13:47:52.500691+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -846,13 +1062,37 @@
           "start": "2026-08-23T05:00:00+10:00",
           "stop": "2026-08-23T09:00:00+10:00",
           "title": "Cincinnati: Day 10 WTA 1000"
+        },
+        {
+          "display_title": "7:30 PM Bay of Plenty vs Taranaki NPC Round 4 2026",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-08-23T17:30:00+10:00",
+          "stop": "2026-08-23T21:30:00+10:00",
+          "title": "Bay of Plenty vs Taranaki NPC Round 4 2026"
+        },
+        {
+          "display_title": "7:35 PM Palmyra vs Wanneroo WA Premier Grade Semi Final 2026",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-08-23T17:35:00+10:00",
+          "stop": "2026-08-23T21:35:00+10:00",
+          "title": "Palmyra vs Wanneroo WA Premier Grade Semi Final 2026"
+        },
+        {
+          "display_title": "9:55 PM Cerezo Osaka vs Shimizu SPulse J.League 2026",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-08-23T19:55:00+10:00",
+          "stop": "2026-08-23T23:55:00+10:00",
+          "title": "Cerezo Osaka vs Shimizu SPulse J.League 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 618077521,
-      "message_timestamp": 1787391027,
+      "message_id": 618085476,
+      "message_timestamp": 1787398227,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-22T09:46:47.624932+00:00"
+      "updated_at": "2026-08-22T13:47:52.658634+00:00"
     }
   },
   "version": 1
