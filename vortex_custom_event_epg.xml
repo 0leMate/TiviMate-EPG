@@ -12294,18 +12294,103 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260824012000 +1000" stop="20260824052000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.011">
+  <programme start="20260824000000 +1000" stop="20260824040000 +1000" channel="custom.AU.STAN.AU.STAN.009">
+    <title>2:00 AM Race Day Part 2: Netherlands MXGP 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260824012000 +1000" stop="20260824052000 +1000" channel="custom.AU.STAN.AU.STAN.010">
+    <title>3:20 AM Studio Coverage: Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260824012000 +1000" stop="20260824052000 +1000" channel="custom.AU.STAN.AU.STAN.011">
     <title>3:20 AM • Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260824013000 +1000" stop="20260824053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.012">
+  <programme start="20260824013000 +1000" stop="20260824053000 +1000" channel="custom.AU.STAN.AU.STAN.012">
     <title>3:30 AM Race: Grand Prix of Washington D.C Indycar 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260824040000 +1000" stop="20260824080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
+  <programme start="20260824040000 +1000" stop="20260824080000 +1000" channel="custom.AU.STAN.AU.STAN.013">
     <title>6:00 AM PL Weekend Wrap: Matchweek 1 Aug 24</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260824060000 +1000" stop="20260824100000 +1000" channel="custom.AU.STAN.AU.STAN.014">
+    <title>8:00 AM Washington Spirit vs Orlando Pride NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260824090000 +1000" stop="20260824130000 +1000" channel="custom.AU.STAN.AU.STAN.015">
+    <title>11:00 AM Cincinnati: Day 11 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260824100000 +1000" stop="20260824140000 +1000" channel="custom.AU.STAN.AU.STAN.016">
+    <title>12:00 PM Angel City FC vs Gotham FC NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260824113000 +1000" stop="20260824153000 +1000" channel="custom.AU.STAN.AU.STAN.017">
+    <title>1:30 PM Monterrey: Day 1 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825040000 +1000" stop="20260825080000 +1000" channel="custom.AU.STAN.AU.STAN.018">
+    <title>6:00 AM Studio Coverage: Fulham vs Chelsea Premier League Matchweek 1 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825000000 +1000" stop="20260825040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.009">
+    <title>2:00 AM Race Day Part 2: Netherlands MXGP 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825012000 +1000" stop="20260825052000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.010">
+    <title>3:20 AM Studio Coverage: Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825012000 +1000" stop="20260825052000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.011">
+    <title>3:20 AM • Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825013000 +1000" stop="20260825053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.012">
+    <title>3:30 AM Race: Grand Prix of Washington D.C Indycar 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825040000 +1000" stop="20260825080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
+    <title>6:00 AM PL Weekend Wrap: Matchweek 1 Aug 24</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825060000 +1000" stop="20260825100000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.014">
+    <title>8:00 AM Washington Spirit vs Orlando Pride NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825090000 +1000" stop="20260825130000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.015">
+    <title>11:00 AM Cincinnati: Day 11 WTA 1000</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825100000 +1000" stop="20260825140000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.016">
+    <title>12:00 PM Angel City FC vs Gotham FC NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825113000 +1000" stop="20260825153000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
+    <title>1:30 PM Monterrey: Day 1 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260825040000 +1000" stop="20260825080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
+    <title>6:00 AM Studio Coverage: Fulham vs Chelsea Premier League Matchweek 1 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>

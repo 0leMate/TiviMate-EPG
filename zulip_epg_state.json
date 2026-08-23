@@ -504,35 +504,171 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "2:00 AM Race Day Part 2: Netherlands MXGP 2026",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
+          "start": "2026-08-24T00:00:00+10:00",
+          "stop": "2026-08-24T04:00:00+10:00",
+          "title": "Race Day Part 2: Netherlands MXGP 2026"
+        },
+        {
+          "display_title": "3:20 AM Studio Coverage: Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
+          "start": "2026-08-24T01:20:00+10:00",
+          "stop": "2026-08-24T05:20:00+10:00",
+          "title": "Studio Coverage: Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027"
+        },
+        {
           "display_title": "3:20 AM • Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
           "start": "2026-08-24T01:20:00+10:00",
           "stop": "2026-08-24T05:20:00+10:00",
           "title": "• Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027"
         },
         {
           "display_title": "3:30 AM Race: Grand Prix of Washington D.C Indycar 2026",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
           "start": "2026-08-24T01:30:00+10:00",
           "stop": "2026-08-24T05:30:00+10:00",
           "title": "Race: Grand Prix of Washington D.C Indycar 2026"
         },
         {
           "display_title": "6:00 AM PL Weekend Wrap: Matchweek 1 Aug 24",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
           "start": "2026-08-24T04:00:00+10:00",
           "stop": "2026-08-24T08:00:00+10:00",
           "title": "PL Weekend Wrap: Matchweek 1 Aug 24"
+        },
+        {
+          "display_title": "8:00 AM Washington Spirit vs Orlando Pride NWSL 2026",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-08-24T06:00:00+10:00",
+          "stop": "2026-08-24T10:00:00+10:00",
+          "title": "Washington Spirit vs Orlando Pride NWSL 2026"
+        },
+        {
+          "display_title": "11:00 AM Cincinnati: Day 11 WTA 1000",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-08-24T09:00:00+10:00",
+          "stop": "2026-08-24T13:00:00+10:00",
+          "title": "Cincinnati: Day 11 WTA 1000"
+        },
+        {
+          "display_title": "12:00 PM Angel City FC vs Gotham FC NWSL 2026",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-08-24T10:00:00+10:00",
+          "stop": "2026-08-24T14:00:00+10:00",
+          "title": "Angel City FC vs Gotham FC NWSL 2026"
+        },
+        {
+          "display_title": "1:30 PM Monterrey: Day 1 WTA 500",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-08-24T11:30:00+10:00",
+          "stop": "2026-08-24T15:30:00+10:00",
+          "title": "Monterrey: Day 1 WTA 500"
+        },
+        {
+          "display_title": "6:00 AM Studio Coverage: Fulham vs Chelsea Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-08-25T04:00:00+10:00",
+          "stop": "2026-08-25T08:00:00+10:00",
+          "title": "Studio Coverage: Fulham vs Chelsea Premier League Matchweek 1 2026/2027"
+        },
+        {
+          "display_title": "2:00 AM Race Day Part 2: Netherlands MXGP 2026",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-08-25T00:00:00+10:00",
+          "stop": "2026-08-25T04:00:00+10:00",
+          "title": "Race Day Part 2: Netherlands MXGP 2026"
+        },
+        {
+          "display_title": "3:20 AM Studio Coverage: Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-08-25T01:20:00+10:00",
+          "stop": "2026-08-25T05:20:00+10:00",
+          "title": "Studio Coverage: Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027"
+        },
+        {
+          "display_title": "3:20 AM • Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-08-25T01:20:00+10:00",
+          "stop": "2026-08-25T05:20:00+10:00",
+          "title": "• Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027"
+        },
+        {
+          "display_title": "3:30 AM Race: Grand Prix of Washington D.C Indycar 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-08-25T01:30:00+10:00",
+          "stop": "2026-08-25T05:30:00+10:00",
+          "title": "Race: Grand Prix of Washington D.C Indycar 2026"
+        },
+        {
+          "display_title": "6:00 AM PL Weekend Wrap: Matchweek 1 Aug 24",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-08-25T04:00:00+10:00",
+          "stop": "2026-08-25T08:00:00+10:00",
+          "title": "PL Weekend Wrap: Matchweek 1 Aug 24"
+        },
+        {
+          "display_title": "8:00 AM Washington Spirit vs Orlando Pride NWSL 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-08-25T06:00:00+10:00",
+          "stop": "2026-08-25T10:00:00+10:00",
+          "title": "Washington Spirit vs Orlando Pride NWSL 2026"
+        },
+        {
+          "display_title": "11:00 AM Cincinnati: Day 11 WTA 1000",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-08-25T09:00:00+10:00",
+          "stop": "2026-08-25T13:00:00+10:00",
+          "title": "Cincinnati: Day 11 WTA 1000"
+        },
+        {
+          "display_title": "12:00 PM Angel City FC vs Gotham FC NWSL 2026",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-08-25T10:00:00+10:00",
+          "stop": "2026-08-25T14:00:00+10:00",
+          "title": "Angel City FC vs Gotham FC NWSL 2026"
+        },
+        {
+          "display_title": "1:30 PM Monterrey: Day 1 WTA 500",
+          "slot": "AU STAN ALT 017",
+          "slot_norm": "AU STAN ALT 17",
+          "start": "2026-08-25T11:30:00+10:00",
+          "stop": "2026-08-25T15:30:00+10:00",
+          "title": "Monterrey: Day 1 WTA 500"
+        },
+        {
+          "display_title": "6:00 AM Studio Coverage: Fulham vs Chelsea Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 018",
+          "slot_norm": "AU STAN ALT 18",
+          "start": "2026-08-25T04:00:00+10:00",
+          "stop": "2026-08-25T08:00:00+10:00",
+          "title": "Studio Coverage: Fulham vs Chelsea Premier League Matchweek 1 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 618185462,
-      "message_timestamp": 1787481011,
+      "message_id": 618198557,
+      "message_timestamp": 1787493619,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-23T11:01:47.222697+00:00"
+      "updated_at": "2026-08-23T15:02:23.115264+00:00"
     }
   },
   "version": 1
