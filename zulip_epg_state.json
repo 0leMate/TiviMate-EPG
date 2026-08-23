@@ -832,19 +832,35 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "3:20 AM • Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-08-24T01:20:00+10:00",
+          "stop": "2026-08-24T05:20:00+10:00",
+          "title": "• Newcastle United vs Liverpool Premier League Matchweek 1 2026/2027"
+        },
+        {
+          "display_title": "3:30 AM Race: Grand Prix of Washington D.C Indycar 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-08-24T01:30:00+10:00",
+          "stop": "2026-08-24T05:30:00+10:00",
+          "title": "Race: Grand Prix of Washington D.C Indycar 2026"
+        },
+        {
           "display_title": "6:00 AM PL Weekend Wrap: Matchweek 1 Aug 24",
-          "slot": "AU STAN ALT 040",
-          "slot_norm": "AU STAN ALT 40",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
           "start": "2026-08-24T04:00:00+10:00",
           "stop": "2026-08-24T08:00:00+10:00",
           "title": "PL Weekend Wrap: Matchweek 1 Aug 24"
         }
       ],
       "group": "AU STAN",
-      "message_id": 618139618,
-      "message_timestamp": 1787443238,
+      "message_id": 618185462,
+      "message_timestamp": 1787481011,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-23T03:34:40.451496+00:00"
+      "updated_at": "2026-08-23T11:01:47.222697+00:00"
     }
   },
   "version": 1
