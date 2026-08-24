@@ -6566,22 +6566,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 14:00 FSC 37</display-name>
+    <display-name>PPV 01: 18:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 17:50 IRA Sprints Angell</display-name>
+    <display-name>PPV 02: 18:15 Wild Thing Kart Series Stafford</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 18:00 TNA Lockdown</display-name>
+    <display-name>PPV 03:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 19:25 Husets Late Models</display-name>
+    <display-name>PPV 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
@@ -14259,23 +14259,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260823140000 -0400" stop="20260823180000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM FSC 37</title>
+  <programme start="20260823180000 -0400" stop="20260823220000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>10:00 AM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260823175000 -0400" stop="20260823215000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>9:50 AM IRA Sprints Angell</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260823180000 -0400" stop="20260823220000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>10:00 AM TNA Lockdown</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260823192500 -0400" stop="20260823232500 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>11:25 AM Husets Late Models</title>
+  <programme start="20260823181500 -0400" stop="20260823221500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>10:15 AM Wild Thing Kart Series Stafford</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

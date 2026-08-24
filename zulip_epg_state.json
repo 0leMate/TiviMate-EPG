@@ -162,43 +162,27 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM FSC 37",
+          "display_title": "10:00 AM WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-23T14:00:00-04:00",
-          "stop": "2026-08-23T18:00:00-04:00",
-          "title": "FSC 37"
-        },
-        {
-          "display_title": "9:50 AM IRA Sprints Angell",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-08-23T17:50:00-04:00",
-          "stop": "2026-08-23T21:50:00-04:00",
-          "title": "IRA Sprints Angell"
-        },
-        {
-          "display_title": "10:00 AM TNA Lockdown",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
           "start": "2026-08-23T18:00:00-04:00",
           "stop": "2026-08-23T22:00:00-04:00",
-          "title": "TNA Lockdown"
+          "title": "WWE Monday Night RAW"
         },
         {
-          "display_title": "11:25 AM Husets Late Models",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-08-23T19:25:00-04:00",
-          "stop": "2026-08-23T23:25:00-04:00",
-          "title": "Husets Late Models"
+          "display_title": "10:15 AM Wild Thing Kart Series Stafford",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-23T18:15:00-04:00",
+          "stop": "2026-08-23T22:15:00-04:00",
+          "title": "Wild Thing Kart Series Stafford"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 618161901,
-      "message_timestamp": 1787463012,
+      "message_id": 618261587,
+      "message_timestamp": 1787542212,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-23T05:51:34.632802+00:00"
+      "updated_at": "2026-08-24T03:39:07.464742+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
