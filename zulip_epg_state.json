@@ -112,51 +112,27 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "10:50 PM West Bromwich Albion vs Burnley",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-23T06:50:00-04:00",
-          "stop": "2026-08-23T10:50:00-04:00",
-          "title": "West Bromwich Albion vs Burnley"
+          "display_title": "4:20 AM Bologna vs Lazio",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-08-24T12:20:00-04:00",
+          "stop": "2026-08-24T16:20:00-04:00",
+          "title": "Bologna vs Lazio"
         },
         {
-          "display_title": "4:00 AM Frosinone vs Juventus",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-23T12:00:00-04:00",
-          "stop": "2026-08-23T16:00:00-04:00",
-          "title": "Frosinone vs Juventus"
-        },
-        {
-          "display_title": "4:00 AM Venezia vs Lecce",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-23T12:00:00-04:00",
-          "stop": "2026-08-23T16:00:00-04:00",
-          "title": "Venezia vs Lecce"
-        },
-        {
-          "display_title": "6:30 AM Atalanta vs Sassuolo",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-23T14:30:00-04:00",
-          "stop": "2026-08-23T18:30:00-04:00",
-          "title": "Atalanta vs Sassuolo"
-        },
-        {
-          "display_title": "6:30 AM Torino vs Milan",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-08-23T14:30:00-04:00",
-          "stop": "2026-08-23T18:30:00-04:00",
-          "title": "Torino vs Milan"
+          "display_title": "6:30 AM Roma vs Fiorentina",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-08-24T14:30:00-04:00",
+          "stop": "2026-08-24T18:30:00-04:00",
+          "title": "Roma vs Fiorentina"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 618174965,
-      "message_timestamp": 1787473820,
+      "message_id": 618264667,
+      "message_timestamp": 1787544039,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-23T09:47:45.997483+00:00"
+      "updated_at": "2026-08-24T06:06:27.916393+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
