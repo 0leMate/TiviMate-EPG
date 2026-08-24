@@ -164,51 +164,19 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "9:50 AM IRA Sprints at Angell Park",
+          "display_title": "10:00 AM WWE Monday Night RAW",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-23T17:50:00-04:00",
-          "stop": "2026-08-23T21:50:00-04:00",
-          "title": "IRA Sprints at Angell Park"
-        },
-        {
-          "display_title": "11:25 AM Husets Speedway",
-          "slot": "PPV2 02",
-          "slot_norm": "PPV2 2",
-          "start": "2026-08-23T19:25:00-04:00",
-          "stop": "2026-08-23T23:25:00-04:00",
-          "title": "Husets Speedway"
-        },
-        {
-          "display_title": "8:00 AM HAW Defiance",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-08-23T16:00:00-04:00",
-          "stop": "2026-08-23T20:00:00-04:00",
-          "title": "HAW Defiance"
-        },
-        {
-          "display_title": "10:00 AM TNA Lockdown",
-          "slot": "PPV2 05",
-          "slot_norm": "PPV2 5",
-          "start": "2026-08-23T18:00:00-04:00",
-          "stop": "2026-08-23T22:00:00-04:00",
-          "title": "TNA Lockdown"
-        },
-        {
-          "display_title": "7:00 AM NASCAR Cup Series Dollar Tree 301",
-          "slot": "PPV2 06",
-          "slot_norm": "PPV2 6",
-          "start": "2026-08-23T15:00:00-04:00",
-          "stop": "2026-08-23T19:00:00-04:00",
-          "title": "NASCAR Cup Series Dollar Tree 301"
+          "start": "2026-08-24T18:00:00-04:00",
+          "stop": "2026-08-24T22:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 618191298,
-      "message_timestamp": 1787486423,
+      "message_id": 618347470,
+      "message_timestamp": 1787574619,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-23T13:49:49.144590+00:00"
+      "updated_at": "2026-08-24T14:28:16.578804+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",

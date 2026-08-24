@@ -6216,7 +6216,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: 18:00 WWE Monday Night RAW 08-24</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
@@ -13839,28 +13839,8 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260823175000 -0400" stop="20260823215000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
-    <title>9:50 AM IRA Sprints at Angell Park</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260823192500 -0400" stop="20260823232500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
-    <title>11:25 AM Husets Speedway</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260823160000 -0400" stop="20260823200000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
-    <title>8:00 AM HAW Defiance</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260823180000 -0400" stop="20260823220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
-    <title>10:00 AM TNA Lockdown</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260823150000 -0400" stop="20260823190000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.06">
-    <title>7:00 AM NASCAR Cup Series Dollar Tree 301</title>
+  <programme start="20260824180000 -0400" stop="20260824220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>10:00 AM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
