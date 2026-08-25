@@ -138,27 +138,35 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "10:00 AM WWE Monday Night RAW",
+          "display_title": "11:00 AM Dana White Contender Series S10W03",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-23T18:00:00-04:00",
-          "stop": "2026-08-23T22:00:00-04:00",
-          "title": "WWE Monday Night RAW"
+          "start": "2026-08-24T19:00:00-04:00",
+          "stop": "2026-08-24T23:00:00-04:00",
+          "title": "Dana White Contender Series S10W03"
         },
         {
-          "display_title": "10:15 AM Wild Thing Kart Series Stafford",
+          "display_title": "10:15 AM Millbridge Sprints",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-08-23T18:15:00-04:00",
-          "stop": "2026-08-23T22:15:00-04:00",
-          "title": "Wild Thing Kart Series Stafford"
+          "start": "2026-08-24T18:15:00-04:00",
+          "stop": "2026-08-24T22:15:00-04:00",
+          "title": "Millbridge Sprints"
+        },
+        {
+          "display_title": "10:30 AM Short Track Super Series Middleford",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-08-24T18:30:00-04:00",
+          "stop": "2026-08-24T22:30:00-04:00",
+          "title": "Short Track Super Series Middleford"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 618261587,
-      "message_timestamp": 1787542212,
+      "message_id": 618704039,
+      "message_timestamp": 1787623211,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-24T03:39:07.464742+00:00"
+      "updated_at": "2026-08-25T03:28:32.809137+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -432,27 +440,51 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "6:00 AM Fulham vs Chelsea Premier League Matchweek 1 2026/2027",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-08-25T04:00:00+10:00",
-          "stop": "2026-08-25T08:00:00+10:00",
-          "title": "Fulham vs Chelsea Premier League Matchweek 1 2026/2027"
+          "display_title": "4:30 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-08-26T02:30:00+10:00",
+          "stop": "2026-08-26T06:30:00+10:00",
+          "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
         },
         {
-          "display_title": "6:00 AM Fulham vs Chelsea Premier League Matchweek 1 2026/2027",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-25T04:00:00+10:00",
-          "stop": "2026-08-25T08:00:00+10:00",
-          "title": "Fulham vs Chelsea Premier League Matchweek 1 2026/2027"
+          "display_title": "5:00 AM Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-08-26T03:00:00+10:00",
+          "stop": "2026-08-26T07:00:00+10:00",
+          "title": "Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:00 AM Bencic/Cobolli vs Townsend/Zverev Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-08-26T04:00:00+10:00",
+          "stop": "2026-08-26T08:00:00+10:00",
+          "title": "Bencic/Cobolli vs Townsend/Zverev Mixed Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-08-26T04:30:00+10:00",
+          "stop": "2026-08-26T08:30:00+10:00",
+          "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
+        },
+        {
+          "display_title": "7:30 AM Williams/Alcaraz vs TBD/TBD Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-08-26T05:30:00+10:00",
+          "stop": "2026-08-26T09:30:00+10:00",
+          "title": "Williams/Alcaraz vs TBD/TBD Mixed Doubles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 618325756,
-      "message_timestamp": 1787567411,
+      "message_id": 618697610,
+      "message_timestamp": 1787619614,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-24T11:48:14.781221+00:00"
+      "updated_at": "2026-08-25T03:28:33.893017+00:00"
     }
   },
   "version": 1
