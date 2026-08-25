@@ -113,122 +113,122 @@
       "events": [
         {
           "display_title": "4:35 AM Sabah vs Hapoel Beer Sheva",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-25T12:35:00-04:00",
           "stop": "2026-08-25T16:35:00-04:00",
           "title": "Sabah vs Hapoel Beer Sheva"
         },
         {
           "display_title": "5:50 AM Cardiff City vs Norwich City",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-25T13:50:00-04:00",
           "stop": "2026-08-25T17:50:00-04:00",
           "title": "Cardiff City vs Norwich City"
         },
         {
           "display_title": "6:00 AM The Golazo Show",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-25T14:00:00-04:00",
           "stop": "2026-08-25T18:00:00-04:00",
           "title": "The Golazo Show"
         },
         {
           "display_title": "6:00 AM Ipswich Town vs Leicester City",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-25T14:00:00-04:00",
           "stop": "2026-08-25T18:00:00-04:00",
           "title": "Ipswich Town vs Leicester City"
         },
         {
           "display_title": "6:00 AM Birmingham City vs Brentford",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-08-25T14:00:00-04:00",
           "stop": "2026-08-25T18:00:00-04:00",
           "title": "Birmingham City vs Brentford"
         },
         {
           "display_title": "6:00 AM Southampton vs West Ham United",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-08-25T14:00:00-04:00",
           "stop": "2026-08-25T18:00:00-04:00",
           "title": "Southampton vs West Ham United"
         },
         {
           "display_title": "6:00 AM Nottingham Forest vs Leeds United",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-08-25T14:00:00-04:00",
           "stop": "2026-08-25T18:00:00-04:00",
           "title": "Nottingham Forest vs Leeds United"
         },
         {
           "display_title": "6:50 AM LASK vs Celtic",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-08-25T14:50:00-04:00",
           "stop": "2026-08-25T18:50:00-04:00",
           "title": "LASK vs Celtic"
         },
         {
           "display_title": "6:50 AM Bodø/Glimt vs NEC Nijmegen",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-08-25T14:50:00-04:00",
           "stop": "2026-08-25T18:50:00-04:00",
           "title": "Bodø/Glimt vs NEC Nijmegen"
         },
         {
           "display_title": "11:00 AM Dana White\\`s Contender Series",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-08-25T19:00:00-04:00",
           "stop": "2026-08-25T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series"
         },
         {
           "display_title": "11:00 AM Dana White\\`s Contender Series em Português",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-08-25T19:00:00-04:00",
           "stop": "2026-08-25T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series em Português"
         },
         {
           "display_title": "11:00 AM Dana White\\`s Contender Series en Español",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
           "start": "2026-08-25T19:00:00-04:00",
           "stop": "2026-08-25T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series en Español"
         },
         {
           "display_title": "2:25 PM CSD Municipal vs FC Motagua",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
           "start": "2026-08-25T22:25:00-04:00",
           "stop": "2026-08-26T02:25:00-04:00",
           "title": "CSD Municipal vs FC Motagua"
         },
         {
           "display_title": "2:25 PM CS Cartaginés vs CD FAS",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
           "start": "2026-08-25T22:25:00-04:00",
           "stop": "2026-08-26T02:25:00-04:00",
           "title": "CS Cartaginés vs CD FAS"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 618920277,
-      "message_timestamp": 1787630429,
+      "message_id": 618958080,
+      "message_timestamp": 1787646616,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-25T05:57:52.915626+00:00"
+      "updated_at": "2026-08-25T10:03:18.081539+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -536,51 +536,107 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "10:25 PM Seoul vs Bucheon K League 2026",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-08-25T20:25:00+10:00",
+          "stop": "2026-08-26T00:25:00+10:00",
+          "title": "Seoul vs Bucheon K League 2026"
+        },
+        {
+          "display_title": "10:25 PM Jeju vs Pohang K League 2026",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-08-25T20:25:00+10:00",
+          "stop": "2026-08-26T00:25:00+10:00",
+          "title": "Jeju vs Pohang K League 2026"
+        },
+        {
+          "display_title": "2:00 AM Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-08-26T00:00:00+10:00",
+          "stop": "2026-08-26T04:00:00+10:00",
+          "title": "Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-08-26T01:00:00+10:00",
+          "stop": "2026-08-26T05:00:00+10:00",
+          "title": "Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:30 AM Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-08-26T01:30:00+10:00",
+          "stop": "2026-08-26T05:30:00+10:00",
+          "title": "Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:00 AM Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
+          "start": "2026-08-26T02:00:00+10:00",
+          "stop": "2026-08-26T06:00:00+10:00",
+          "title": "Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026"
+        },
+        {
+          "display_title": "4:15 AM Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-08-26T02:15:00+10:00",
+          "stop": "2026-08-26T06:15:00+10:00",
+          "title": "Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026"
+        },
+        {
           "display_title": "4:30 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-08-26T02:30:00+10:00",
           "stop": "2026-08-26T06:30:00+10:00",
           "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
         },
         {
           "display_title": "5:00 AM Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-08-26T03:00:00+10:00",
           "stop": "2026-08-26T07:00:00+10:00",
           "title": "Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM Bencic/Cobolli vs Townsend/Zverev Mixed Doubles R1 US Open 2026",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
           "start": "2026-08-26T04:00:00+10:00",
           "stop": "2026-08-26T08:00:00+10:00",
           "title": "Bencic/Cobolli vs Townsend/Zverev Mixed Doubles R1 US Open 2026"
         },
         {
           "display_title": "6:30 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
           "start": "2026-08-26T04:30:00+10:00",
           "stop": "2026-08-26T08:30:00+10:00",
           "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
         },
         {
-          "display_title": "7:30 AM Williams/Alcaraz vs TBD/TBD Mixed Doubles R1 US Open 2026",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
+          "display_title": "7:30 AM Williams/Alcaraz vs Routliffe/Glasspool Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
           "start": "2026-08-26T05:30:00+10:00",
           "stop": "2026-08-26T09:30:00+10:00",
-          "title": "Williams/Alcaraz vs TBD/TBD Mixed Doubles R1 US Open 2026"
+          "title": "Williams/Alcaraz vs Routliffe/Glasspool Mixed Doubles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 618697610,
-      "message_timestamp": 1787619614,
+      "message_id": 618971118,
+      "message_timestamp": 1787650211,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-25T03:28:33.893017+00:00"
+      "updated_at": "2026-08-25T10:03:19.171117+00:00"
     }
   },
   "version": 1
