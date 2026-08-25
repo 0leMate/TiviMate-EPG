@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "11:30 AM Huset's Speedway",
+          "display_title": "10:30 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-23T19:30:00-04:00",
-          "stop": "2026-08-23T23:30:00-04:00",
-          "title": "Huset's Speedway"
+          "start": "2026-08-25T18:30:00-04:00",
+          "stop": "2026-08-25T22:30:00-04:00",
+          "title": "Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 618196706,
-      "message_timestamp": 1787491817,
+      "message_id": 619064949,
+      "message_timestamp": 1787673622,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-23T13:49:48.888332+00:00"
+      "updated_at": "2026-08-25T17:50:56.340097+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
