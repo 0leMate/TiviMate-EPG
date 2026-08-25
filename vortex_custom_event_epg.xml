@@ -6221,17 +6221,17 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02:</display-name>
+    <display-name>PPV2 02: 21:30 Post Fight Conference DWCS 08-25</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03:</display-name>
+    <display-name>PPV2 03: 18:30 Short Track Super Series at Middleford 08-25</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
     <display-name>PPV2 04</display-name>
-    <display-name>PPV2 04:</display-name>
+    <display-name>PPV2 04: 18:15 Millbridge Speedway 08-25</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
@@ -12484,16 +12484,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260825202500 +1000" stop="20260826002500 +1000" channel="custom.AU.STAN.AU.STAN.001">
-    <title>10:25 PM Seoul vs Bucheon K League 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260825202500 +1000" stop="20260826002500 +1000" channel="custom.AU.STAN.AU.STAN.002">
-    <title>10:25 PM Jeju vs Pohang K League 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
   <programme start="20260826000000 +1000" stop="20260826040000 +1000" channel="custom.AU.STAN.AU.STAN.003">
     <title>2:00 AM Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026</title>
     <category>Sports</category>
@@ -12544,48 +12534,63 @@
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
-    <title>10:25 PM Seoul vs Bucheon K League 2026</title>
+  <programme start="20260826060000 +1000" stop="20260826100000 +1000" channel="custom.AU.STAN.AU.STAN.013">
+    <title>8:00 AM Andreeva/Rublev vs Vavassori/Errani Mixed Doubles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
-    <title>10:25 PM Jeju vs Pohang K League 2026</title>
+  <programme start="20260826070000 +1000" stop="20260826110000 +1000" channel="custom.AU.STAN.AU.STAN.014">
+    <title>9:00 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826000000 +1000" stop="20260826040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
+  <programme start="20260826070000 +1000" stop="20260826110000 +1000" channel="custom.AU.STAN.AU.STAN.015">
+    <title>9:00 AM Monterrey: Day 3 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260826073000 +1000" stop="20260826113000 +1000" channel="custom.AU.STAN.AU.STAN.016">
+    <title>9:30 AM Shnaider/Ruud vs Pegula/Fritz Mixed Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260826090000 +1000" stop="20260826130000 +1000" channel="custom.AU.STAN.AU.STAN.017">
+    <title>11:00 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260826100000 +1000" stop="20260826140000 +1000" channel="custom.AU.STAN.AU.STAN.018">
+    <title>12:00 PM Federer Returns to New York US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.019">
+    <title>10:25 PM Daejeon vs Ulsan K League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.020">
+    <title>10:25 PM Anyang vs Incheon K League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260827000000 +1000" stop="20260827040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
     <title>2:00 AM Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826010000 +1000" stop="20260826050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
+  <programme start="20260827010000 +1000" stop="20260827050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
     <title>3:00 AM Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826013000 +1000" stop="20260826053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.005">
+  <programme start="20260827013000 +1000" stop="20260827053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.005">
     <title>3:30 AM Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826020000 +1000" stop="20260826060000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
+  <programme start="20260827020000 +1000" stop="20260827060000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
     <title>4:00 AM Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260826021500 +1000" stop="20260826061500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.007">
-    <title>4:15 AM Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260826023000 +1000" stop="20260826063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.008">
-    <title>4:30 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260826030000 +1000" stop="20260826070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.009">
-    <title>5:00 AM Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14199,8 +14204,18 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260824180000 -0400" stop="20260824220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
-    <title>10:00 AM WWE Monday Night RAW</title>
+  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
+    <title>1:30 PM Post Fight Conference DWCS</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260825183000 -0400" stop="20260825223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+    <title>10:30 AM Short Track Super Series at Middleford</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260825181500 -0400" stop="20260825221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+    <title>10:15 AM Millbridge Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>

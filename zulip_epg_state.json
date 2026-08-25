@@ -268,19 +268,35 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "10:00 AM WWE Monday Night RAW",
-          "slot": "PPV2 01",
-          "slot_norm": "PPV2 1",
-          "start": "2026-08-24T18:00:00-04:00",
-          "stop": "2026-08-24T22:00:00-04:00",
-          "title": "WWE Monday Night RAW"
+          "display_title": "1:30 PM Post Fight Conference DWCS",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-08-25T21:30:00-04:00",
+          "stop": "2026-08-26T01:30:00-04:00",
+          "title": "Post Fight Conference DWCS"
+        },
+        {
+          "display_title": "10:30 AM Short Track Super Series at Middleford",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-08-25T18:30:00-04:00",
+          "stop": "2026-08-25T22:30:00-04:00",
+          "title": "Short Track Super Series at Middleford"
+        },
+        {
+          "display_title": "10:15 AM Millbridge Speedway",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-08-25T18:15:00-04:00",
+          "stop": "2026-08-25T22:15:00-04:00",
+          "title": "Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 618347470,
-      "message_timestamp": 1787574619,
+      "message_id": 619007993,
+      "message_timestamp": 1787661010,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-24T14:28:16.578804+00:00"
+      "updated_at": "2026-08-25T14:31:27.456854+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -536,22 +552,6 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "10:25 PM Seoul vs Bucheon K League 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-08-25T20:25:00+10:00",
-          "stop": "2026-08-26T00:25:00+10:00",
-          "title": "Seoul vs Bucheon K League 2026"
-        },
-        {
-          "display_title": "10:25 PM Jeju vs Pohang K League 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-08-25T20:25:00+10:00",
-          "stop": "2026-08-26T00:25:00+10:00",
-          "title": "Jeju vs Pohang K League 2026"
-        },
-        {
           "display_title": "2:00 AM Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026",
           "slot": "AU STAN 003",
           "slot_norm": "AU STAN 3",
@@ -632,83 +632,107 @@
           "title": "Williams/Alcaraz vs Routliffe/Glasspool Mixed Doubles R1 US Open 2026"
         },
         {
-          "display_title": "10:25 PM Seoul vs Bucheon K League 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-08-26T20:25:00+10:00",
-          "stop": "2026-08-27T00:25:00+10:00",
-          "title": "Seoul vs Bucheon K League 2026"
+          "display_title": "8:00 AM Andreeva/Rublev vs Vavassori/Errani Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-08-26T06:00:00+10:00",
+          "stop": "2026-08-26T10:00:00+10:00",
+          "title": "Andreeva/Rublev vs Vavassori/Errani Mixed Doubles R1 US Open 2026"
         },
         {
-          "display_title": "10:25 PM Jeju vs Pohang K League 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
+          "display_title": "9:00 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-08-26T07:00:00+10:00",
+          "stop": "2026-08-26T11:00:00+10:00",
+          "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
+        },
+        {
+          "display_title": "9:00 AM Monterrey: Day 3 WTA 500",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-08-26T07:00:00+10:00",
+          "stop": "2026-08-26T11:00:00+10:00",
+          "title": "Monterrey: Day 3 WTA 500"
+        },
+        {
+          "display_title": "9:30 AM Shnaider/Ruud vs Pegula/Fritz Mixed Doubles R1 US Open 2026",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-08-26T07:30:00+10:00",
+          "stop": "2026-08-26T11:30:00+10:00",
+          "title": "Shnaider/Ruud vs Pegula/Fritz Mixed Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "11:00 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-08-26T09:00:00+10:00",
+          "stop": "2026-08-26T13:00:00+10:00",
+          "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
+        },
+        {
+          "display_title": "12:00 PM Federer Returns to New York US Open 2026",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-08-26T10:00:00+10:00",
+          "stop": "2026-08-26T14:00:00+10:00",
+          "title": "Federer Returns to New York US Open 2026"
+        },
+        {
+          "display_title": "10:25 PM Daejeon vs Ulsan K League 2026",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
           "start": "2026-08-26T20:25:00+10:00",
           "stop": "2026-08-27T00:25:00+10:00",
-          "title": "Jeju vs Pohang K League 2026"
+          "title": "Daejeon vs Ulsan K League 2026"
+        },
+        {
+          "display_title": "10:25 PM Anyang vs Incheon K League 2026",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-08-26T20:25:00+10:00",
+          "stop": "2026-08-27T00:25:00+10:00",
+          "title": "Anyang vs Incheon K League 2026"
         },
         {
           "display_title": "2:00 AM Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026",
           "slot": "AU STAN ALT 003",
           "slot_norm": "AU STAN ALT 3",
-          "start": "2026-08-26T00:00:00+10:00",
-          "stop": "2026-08-26T04:00:00+10:00",
+          "start": "2026-08-27T00:00:00+10:00",
+          "stop": "2026-08-27T04:00:00+10:00",
           "title": "Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026"
         },
         {
           "display_title": "3:00 AM Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026",
           "slot": "AU STAN ALT 004",
           "slot_norm": "AU STAN ALT 4",
-          "start": "2026-08-26T01:00:00+10:00",
-          "stop": "2026-08-26T05:00:00+10:00",
+          "start": "2026-08-27T01:00:00+10:00",
+          "stop": "2026-08-27T05:00:00+10:00",
           "title": "Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026"
         },
         {
           "display_title": "3:30 AM Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026",
           "slot": "AU STAN ALT 005",
           "slot_norm": "AU STAN ALT 5",
-          "start": "2026-08-26T01:30:00+10:00",
-          "stop": "2026-08-26T05:30:00+10:00",
+          "start": "2026-08-27T01:30:00+10:00",
+          "stop": "2026-08-27T05:30:00+10:00",
           "title": "Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026"
         },
         {
           "display_title": "4:00 AM Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026",
           "slot": "AU STAN ALT 006",
           "slot_norm": "AU STAN ALT 6",
-          "start": "2026-08-26T02:00:00+10:00",
-          "stop": "2026-08-26T06:00:00+10:00",
+          "start": "2026-08-27T02:00:00+10:00",
+          "stop": "2026-08-27T06:00:00+10:00",
           "title": "Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026"
-        },
-        {
-          "display_title": "4:15 AM Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-08-26T02:15:00+10:00",
-          "stop": "2026-08-26T06:15:00+10:00",
-          "title": "Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026"
-        },
-        {
-          "display_title": "4:30 AM TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-08-26T02:30:00+10:00",
-          "stop": "2026-08-26T06:30:00+10:00",
-          "title": "TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-08-26T03:00:00+10:00",
-          "stop": "2026-08-26T07:00:00+10:00",
-          "title": "Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 618983685,
-      "message_timestamp": 1787653850,
+      "message_id": 619031758,
+      "message_timestamp": 1787666443,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-25T11:49:53.726313+00:00"
+      "updated_at": "2026-08-25T14:31:28.042591+00:00"
     }
   },
   "version": 1
