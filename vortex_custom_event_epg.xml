@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01: 18:30 Millbridge Speedway</display-name>
+    <display-name>DIRT 01:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -127,7 +127,7 @@
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.17">
     <display-name>DIRT ALT 17</display-name>
-    <display-name>DIRT ALT 17: 18:15 Millbridge Speedway 08-25</display-name>
+    <display-name>DIRT ALT 17:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.18">
@@ -172,237 +172,237 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.001">
     <display-name>ESPN+ 001</display-name>
-    <display-name>ESPN+ 001: 10:00 US Open: Louis Armstrong Stadium / Mixed Doubles Championship 08-25</display-name>
+    <display-name>ESPN+ 001:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.002">
     <display-name>ESPN+ 002</display-name>
-    <display-name>ESPN+ 002: 10:00 US Open: 2026 US Open Qualifying 08-25</display-name>
+    <display-name>ESPN+ 002:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.003">
     <display-name>ESPN+ 003</display-name>
-    <display-name>ESPN+ 003: 10:00 US Open: 2026 US Open Radio 08-25</display-name>
+    <display-name>ESPN+ 003:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.004">
     <display-name>ESPN+ 004</display-name>
-    <display-name>ESPN+ 004: 11:00 NCAA Football: Hawk Talk with Lance Leipold 08-25</display-name>
+    <display-name>ESPN+ 004:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.005">
     <display-name>ESPN+ 005</display-name>
-    <display-name>ESPN+ 005: 11:00 US Open: Arthur Ashe / Mixed Doubles Championship 08-25</display-name>
+    <display-name>ESPN+ 005:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.006">
     <display-name>ESPN+ 006</display-name>
-    <display-name>ESPN+ 006: 11:00 US Open: Court 10 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 006:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.007">
     <display-name>ESPN+ 007</display-name>
-    <display-name>ESPN+ 007: 11:00 US Open: Court 12 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 007:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.008">
     <display-name>ESPN+ 008</display-name>
-    <display-name>ESPN+ 008: 11:00 US Open: Court 13 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 008:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.009">
     <display-name>ESPN+ 009</display-name>
-    <display-name>ESPN+ 009: 11:00 US Open: Court 5 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 009:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.010">
     <display-name>ESPN+ 010</display-name>
-    <display-name>ESPN+ 010: 11:00 US Open: Court 15 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 010:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.011">
     <display-name>ESPN+ 011</display-name>
-    <display-name>ESPN+ 011: 11:00 US Open: Court 16 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 011:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.012">
     <display-name>ESPN+ 012</display-name>
-    <display-name>ESPN+ 012: 11:00 US Open: Stadium 17 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 012:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.013">
     <display-name>ESPN+ 013</display-name>
-    <display-name>ESPN+ 013: 11:00 US Open: Court 9 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 013:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.014">
     <display-name>ESPN+ 014</display-name>
-    <display-name>ESPN+ 014: 11:00 US Open: Court 14 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 014:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.015">
     <display-name>ESPN+ 015</display-name>
-    <display-name>ESPN+ 015: 11:00 US Open: Court 11 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 015:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.016">
     <display-name>ESPN+ 016</display-name>
-    <display-name>ESPN+ 016: 11:01 US Open: Court 4 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 016:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.017">
     <display-name>ESPN+ 017</display-name>
-    <display-name>ESPN+ 017: 11:01 US Open: Court 8 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 017:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.018">
     <display-name>ESPN+ 018</display-name>
-    <display-name>ESPN+ 018: 11:01 US Open: Court 7 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 018:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.019">
     <display-name>ESPN+ 019</display-name>
-    <display-name>ESPN+ 019: 11:01 US Open: Court 6 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ 019:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.020">
     <display-name>ESPN+ 020</display-name>
-    <display-name>ESPN+ 020: 13:00 Little League Baseball: Little League World Series (ESP) 08-25</display-name>
+    <display-name>ESPN+ 020:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.021">
     <display-name>ESPN+ 021</display-name>
-    <display-name>ESPN+ 021: 13:00 Little League Baseball: Japan vs Baja California 08-25</display-name>
+    <display-name>ESPN+ 021:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.022">
     <display-name>ESPN+ 022</display-name>
-    <display-name>ESPN+ 022: 13:00 Soccer: Tue 8/25 - Futbol W 08-25</display-name>
+    <display-name>ESPN+ 022:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.023">
     <display-name>ESPN+ 023</display-name>
-    <display-name>ESPN+ 023: 14:50 Soccer: Valencia vs Betis 08-25</display-name>
+    <display-name>ESPN+ 023:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.024">
     <display-name>ESPN+ 024</display-name>
-    <display-name>ESPN+ 024: 14:50 Soccer: Valencia vs Betis (ESP) 08-25</display-name>
+    <display-name>ESPN+ 024:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.025">
     <display-name>ESPN+ 025</display-name>
-    <display-name>ESPN+ 025: 15:00 NCAA Football: College Football Live 08-25</display-name>
+    <display-name>ESPN+ 025:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.026">
     <display-name>ESPN+ 026</display-name>
-    <display-name>ESPN+ 026: 15:00 Little League Baseball: Washington vs Alabama 08-25</display-name>
+    <display-name>ESPN+ 026:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.027">
     <display-name>ESPN+ 027</display-name>
-    <display-name>ESPN+ 027: 15:00 Soccer: Washington vs Alabama • VAL vs. BET 08-25</display-name>
+    <display-name>ESPN+ 027:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.028">
     <display-name>ESPN+ 028</display-name>
-    <display-name>ESPN+ 028: 15:00 Surfing: 2026 WSL Championship Tour: Fiji Pro 08-25</display-name>
+    <display-name>ESPN+ 028:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.029">
     <display-name>ESPN+ 029</display-name>
-    <display-name>ESPN+ 029: 15:30 This is Football: This is Football 08-25</display-name>
+    <display-name>ESPN+ 029:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.030">
     <display-name>ESPN+ 030</display-name>
-    <display-name>ESPN+ 030: 16:00 Football: NFL Live 08-25</display-name>
+    <display-name>ESPN+ 030:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.031">
     <display-name>ESPN+ 031</display-name>
-    <display-name>ESPN+ 031: 17:00 Little League Baseball: British Columbia vs South Korea 08-25</display-name>
+    <display-name>ESPN+ 031:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.032">
     <display-name>ESPN+ 032</display-name>
-    <display-name>ESPN+ 032: 17:00 Soccer: Tue 8/25 - ESPN FC 08-25</display-name>
+    <display-name>ESPN+ 032:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.033">
     <display-name>ESPN+ 033</display-name>
-    <display-name>ESPN+ 033: 18:00 Soccer: Generación Futbol 08-25</display-name>
+    <display-name>ESPN+ 033:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.034">
     <display-name>ESPN+ 034</display-name>
-    <display-name>ESPN+ 034: 19:00 NCAA Football: After Further Review 08-25</display-name>
+    <display-name>ESPN+ 034:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.035">
     <display-name>ESPN+ 035</display-name>
-    <display-name>ESPN+ 035: 19:00 NCAA Football: ACC Huddle Special: Justice Haynes 08-25</display-name>
+    <display-name>ESPN+ 035:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.036">
     <display-name>ESPN+ 036</display-name>
-    <display-name>ESPN+ 036: 19:00 Little League Baseball: Ohio vs New Jersey 08-25</display-name>
+    <display-name>ESPN+ 036:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.037">
     <display-name>ESPN+ 037</display-name>
-    <display-name>ESPN+ 037: 19:00 Soccer: #10 Bryant vs Rhode Island 08-25</display-name>
+    <display-name>ESPN+ 037:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.038">
     <display-name>ESPN+ 038</display-name>
-    <display-name>ESPN+ 038: 20:00 Soccer: Es Así y Punto 08-25</display-name>
+    <display-name>ESPN+ 038:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.039">
     <display-name>ESPN+ 039</display-name>
-    <display-name>ESPN+ 039: 20:00 Soccer: Georgia St vs UAB 08-25</display-name>
+    <display-name>ESPN+ 039:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.040">
     <display-name>ESPN+ 040</display-name>
-    <display-name>ESPN+ 040: 20:00 US Open: 2026 US Open: Roger Federer Regresa 08-25</display-name>
+    <display-name>ESPN+ 040:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.041">
     <display-name>ESPN+ 041</display-name>
-    <display-name>ESPN+ 041: 20:00 US Open: 2026 US Open: Roger Federer Returns 08-25</display-name>
+    <display-name>ESPN+ 041:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.042">
     <display-name>ESPN+ 042</display-name>
-    <display-name>ESPN+ 042: 21:00 SportsCenter Special: Fantasy Football Draft 08-25</display-name>
+    <display-name>ESPN+ 042:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.043">
     <display-name>ESPN+ 043</display-name>
-    <display-name>ESPN+ 043: 21:15 MLB: Padres Broadcast 08-25</display-name>
+    <display-name>ESPN+ 043:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.044">
     <display-name>ESPN+ 044</display-name>
-    <display-name>ESPN+ 044: 21:15 MLB: Pirates Broadcast 08-25</display-name>
+    <display-name>ESPN+ 044:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.045">
     <display-name>ESPN+ 045</display-name>
-    <display-name>ESPN+ 045: 21:15 MLB: Pirates vs Padres (ESP) 08-25</display-name>
+    <display-name>ESPN+ 045:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.046">
     <display-name>ESPN+ 046</display-name>
-    <display-name>ESPN+ 046: 00:30 Soccer: Fútbol Picante 08-26</display-name>
+    <display-name>ESPN+ 046:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.047">
     <display-name>ESPN+ 047</display-name>
-    <display-name>ESPN+ 047: 01:00 Banana Ball: Coconuts vs Bananas 08-26</display-name>
+    <display-name>ESPN+ 047:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.048">
@@ -3172,227 +3172,227 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.001">
     <display-name>ESPN+ ALT2 001</display-name>
-    <display-name>ESPN+ ALT2 001: 10:00 US Open: Louis Armstrong Stadium / Mixed Doubles Championship 08-25</display-name>
+    <display-name>ESPN+ ALT2 001:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.002">
     <display-name>ESPN+ ALT2 002</display-name>
-    <display-name>ESPN+ ALT2 002: 10:00 US Open: 2026 US Open Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 002:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.003">
     <display-name>ESPN+ ALT2 003</display-name>
-    <display-name>ESPN+ ALT2 003: 10:00 US Open: 2026 US Open Radio 08-25</display-name>
+    <display-name>ESPN+ ALT2 003:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.004">
     <display-name>ESPN+ ALT2 004</display-name>
-    <display-name>ESPN+ ALT2 004: 11:00 NCAA Football: Hawk Talk with Lance Leipold 08-25</display-name>
+    <display-name>ESPN+ ALT2 004:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.005">
     <display-name>ESPN+ ALT2 005</display-name>
-    <display-name>ESPN+ ALT2 005: 11:00 US Open: Arthur Ashe / Mixed Doubles Championship 08-25</display-name>
+    <display-name>ESPN+ ALT2 005:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.006">
     <display-name>ESPN+ ALT2 006</display-name>
-    <display-name>ESPN+ ALT2 006: 11:00 US Open: Court 10 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 006:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.007">
     <display-name>ESPN+ ALT2 007</display-name>
-    <display-name>ESPN+ ALT2 007: 11:00 US Open: Court 12 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 007:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.008">
     <display-name>ESPN+ ALT2 008</display-name>
-    <display-name>ESPN+ ALT2 008: 11:00 US Open: Court 13 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 008:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.009">
     <display-name>ESPN+ ALT2 009</display-name>
-    <display-name>ESPN+ ALT2 009: 11:00 US Open: Court 5 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 009:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.010">
     <display-name>ESPN+ ALT2 010</display-name>
-    <display-name>ESPN+ ALT2 010: 11:00 US Open: Court 15 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 010:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.011">
     <display-name>ESPN+ ALT2 011</display-name>
-    <display-name>ESPN+ ALT2 011: 11:00 US Open: Court 16 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 011:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.012">
     <display-name>ESPN+ ALT2 012</display-name>
-    <display-name>ESPN+ ALT2 012: 11:00 US Open: Stadium 17 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 012:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.013">
     <display-name>ESPN+ ALT2 013</display-name>
-    <display-name>ESPN+ ALT2 013: 11:00 US Open: Court 9 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 013:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.014">
     <display-name>ESPN+ ALT2 014</display-name>
-    <display-name>ESPN+ ALT2 014: 11:00 US Open: Court 14 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 014:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.015">
     <display-name>ESPN+ ALT2 015</display-name>
-    <display-name>ESPN+ ALT2 015: 11:00 US Open: Court 11 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 015:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.016">
     <display-name>ESPN+ ALT2 016</display-name>
-    <display-name>ESPN+ ALT2 016: 11:01 US Open: Court 4 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 016:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.017">
     <display-name>ESPN+ ALT2 017</display-name>
-    <display-name>ESPN+ ALT2 017: 11:01 US Open: Court 8 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 017:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.018">
     <display-name>ESPN+ ALT2 018</display-name>
-    <display-name>ESPN+ ALT2 018: 11:01 US Open: Court 7 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 018:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.019">
     <display-name>ESPN+ ALT2 019</display-name>
-    <display-name>ESPN+ ALT2 019: 11:01 US Open: Court 6 / Qualifying 08-25</display-name>
+    <display-name>ESPN+ ALT2 019:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.020">
     <display-name>ESPN+ ALT2 020</display-name>
-    <display-name>ESPN+ ALT2 020: 13:00 Little League Baseball: Little League World Series (ESP) 08-25</display-name>
+    <display-name>ESPN+ ALT2 020:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.021">
     <display-name>ESPN+ ALT2 021</display-name>
-    <display-name>ESPN+ ALT2 021: 13:00 Little League Baseball: Japan vs Baja California 08-25</display-name>
+    <display-name>ESPN+ ALT2 021:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.022">
     <display-name>ESPN+ ALT2 022</display-name>
-    <display-name>ESPN+ ALT2 022: 13:00 Soccer: Tue 8/25 - Futbol W 08-25</display-name>
+    <display-name>ESPN+ ALT2 022:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.023">
     <display-name>ESPN+ ALT2 023</display-name>
-    <display-name>ESPN+ ALT2 023: 14:50 Soccer: Valencia vs Betis 08-25</display-name>
+    <display-name>ESPN+ ALT2 023:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.024">
     <display-name>ESPN+ ALT2 024</display-name>
-    <display-name>ESPN+ ALT2 024: 14:50 Soccer: Valencia vs Betis (ESP) 08-25</display-name>
+    <display-name>ESPN+ ALT2 024:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.025">
     <display-name>ESPN+ ALT2 025</display-name>
-    <display-name>ESPN+ ALT2 025: 15:00 NCAA Football: College Football Live 08-25</display-name>
+    <display-name>ESPN+ ALT2 025:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.026">
     <display-name>ESPN+ ALT2 026</display-name>
-    <display-name>ESPN+ ALT2 026: 15:00 Little League Baseball: Washington vs Alabama 08-25</display-name>
+    <display-name>ESPN+ ALT2 026:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.027">
     <display-name>ESPN+ ALT2 027</display-name>
-    <display-name>ESPN+ ALT2 027: 15:00 Soccer: Washington vs Alabama • VAL vs. BET 08-25</display-name>
+    <display-name>ESPN+ ALT2 027:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.028">
     <display-name>ESPN+ ALT2 028</display-name>
-    <display-name>ESPN+ ALT2 028: 15:00 Surfing: 2026 WSL Championship Tour: Fiji Pro 08-25</display-name>
+    <display-name>ESPN+ ALT2 028:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.029">
     <display-name>ESPN+ ALT2 029</display-name>
-    <display-name>ESPN+ ALT2 029: 15:30 This is Football: This is Football 08-25</display-name>
+    <display-name>ESPN+ ALT2 029:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.030">
     <display-name>ESPN+ ALT2 030</display-name>
-    <display-name>ESPN+ ALT2 030: 16:00 Football: NFL Live 08-25</display-name>
+    <display-name>ESPN+ ALT2 030:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.031">
     <display-name>ESPN+ ALT2 031</display-name>
-    <display-name>ESPN+ ALT2 031: 17:00 Little League Baseball: British Columbia vs South Korea 08-25</display-name>
+    <display-name>ESPN+ ALT2 031:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.032">
     <display-name>ESPN+ ALT2 032</display-name>
-    <display-name>ESPN+ ALT2 032: 17:00 Soccer: Tue 8/25 - ESPN FC 08-25</display-name>
+    <display-name>ESPN+ ALT2 032:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.033">
     <display-name>ESPN+ ALT2 033</display-name>
-    <display-name>ESPN+ ALT2 033: 18:00 Soccer: Generación Futbol 08-25</display-name>
+    <display-name>ESPN+ ALT2 033:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.034">
     <display-name>ESPN+ ALT2 034</display-name>
-    <display-name>ESPN+ ALT2 034: 19:00 NCAA Football: After Further Review 08-25</display-name>
+    <display-name>ESPN+ ALT2 034:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.035">
     <display-name>ESPN+ ALT2 035</display-name>
-    <display-name>ESPN+ ALT2 035: 19:00 NCAA Football: ACC Huddle Special: Justice Haynes 08-25</display-name>
+    <display-name>ESPN+ ALT2 035:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.036">
     <display-name>ESPN+ ALT2 036</display-name>
-    <display-name>ESPN+ ALT2 036: 19:00 Little League Baseball: Ohio vs New Jersey 08-25</display-name>
+    <display-name>ESPN+ ALT2 036:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.037">
     <display-name>ESPN+ ALT2 037</display-name>
-    <display-name>ESPN+ ALT2 037: 19:00 Soccer: #10 Bryant vs Rhode Island 08-25</display-name>
+    <display-name>ESPN+ ALT2 037:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.038">
     <display-name>ESPN+ ALT2 038</display-name>
-    <display-name>ESPN+ ALT2 038: 20:00 Soccer: Es Así y Punto 08-25</display-name>
+    <display-name>ESPN+ ALT2 038:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.039">
     <display-name>ESPN+ ALT2 039</display-name>
-    <display-name>ESPN+ ALT2 039: 20:00 Soccer: Georgia St vs UAB 08-25</display-name>
+    <display-name>ESPN+ ALT2 039:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.040">
     <display-name>ESPN+ ALT2 040</display-name>
-    <display-name>ESPN+ ALT2 040: 20:00 US Open: 2026 US Open: Roger Federer Regresa 08-25</display-name>
+    <display-name>ESPN+ ALT2 040:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.041">
     <display-name>ESPN+ ALT2 041</display-name>
-    <display-name>ESPN+ ALT2 041: 20:00 US Open: 2026 US Open: Roger Federer Returns 08-25</display-name>
+    <display-name>ESPN+ ALT2 041:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.042">
     <display-name>ESPN+ ALT2 042</display-name>
-    <display-name>ESPN+ ALT2 042: 21:00 SportsCenter Special: Fantasy Football Draft 08-25</display-name>
+    <display-name>ESPN+ ALT2 042:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.043">
     <display-name>ESPN+ ALT2 043</display-name>
-    <display-name>ESPN+ ALT2 043: 21:15 MLB: Padres Broadcast 08-25</display-name>
+    <display-name>ESPN+ ALT2 043:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.044">
     <display-name>ESPN+ ALT2 044</display-name>
-    <display-name>ESPN+ ALT2 044: 21:15 MLB: Pirates Broadcast 08-25</display-name>
+    <display-name>ESPN+ ALT2 044:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.045">
     <display-name>ESPN+ ALT2 045</display-name>
-    <display-name>ESPN+ ALT2 045: 21:15 MLB: Pirates vs Padres (ESP) 08-25</display-name>
+    <display-name>ESPN+ ALT2 045:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT2.046">
@@ -3712,157 +3712,157 @@
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.001">
     <display-name>ESPN+ ALT 001</display-name>
-    <display-name>ESPN+ ALT 001: 10:00 US Open: Louis Armstrong Stadium Mixed Doubles Championship 08-25</display-name>
+    <display-name>ESPN+ ALT 001:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.002">
     <display-name>ESPN+ ALT 002</display-name>
-    <display-name>ESPN+ ALT 002: 10:00 US Open: 2026 US Open Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 002:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.003">
     <display-name>ESPN+ ALT 003</display-name>
-    <display-name>ESPN+ ALT 003: 10:00 The Golics: The Golics 08-25</display-name>
+    <display-name>ESPN+ ALT 003:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.004">
     <display-name>ESPN+ ALT 004</display-name>
-    <display-name>ESPN+ ALT 004: 11:00 US Open: Court 11 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 004:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.005">
     <display-name>ESPN+ ALT 005</display-name>
-    <display-name>ESPN+ ALT 005: 11:00 US Open: Court 10 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 005:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.006">
     <display-name>ESPN+ ALT 006</display-name>
-    <display-name>ESPN+ ALT 006: 11:00 US Open: Court 12 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 006:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.007">
     <display-name>ESPN+ ALT 007</display-name>
-    <display-name>ESPN+ ALT 007: 11:00 US Open: Court 13 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 007:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.008">
     <display-name>ESPN+ ALT 008</display-name>
-    <display-name>ESPN+ ALT 008: 11:00 US Open: Court 5 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 008:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.009">
     <display-name>ESPN+ ALT 009</display-name>
-    <display-name>ESPN+ ALT 009: 11:00 US Open: Court 15 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 009:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.010">
     <display-name>ESPN+ ALT 010</display-name>
-    <display-name>ESPN+ ALT 010: 11:00 US Open: Court 16 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 010:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.011">
     <display-name>ESPN+ ALT 011</display-name>
-    <display-name>ESPN+ ALT 011: 11:00 US Open: Stadium 17 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 011:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.012">
     <display-name>ESPN+ ALT 012</display-name>
-    <display-name>ESPN+ ALT 012: 11:00 US Open: Court 9 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 012:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.013">
     <display-name>ESPN+ ALT 013</display-name>
-    <display-name>ESPN+ ALT 013: 11:00 US Open: Court 14 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 013:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.014">
     <display-name>ESPN+ ALT 014</display-name>
-    <display-name>ESPN+ ALT 014: 11:00 US Open: Court 6 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 014:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.015">
     <display-name>ESPN+ ALT 015</display-name>
-    <display-name>ESPN+ ALT 015: 11:00 US Open: Court 7 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 015:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.016">
     <display-name>ESPN+ ALT 016</display-name>
-    <display-name>ESPN+ ALT 016: 11:00 US Open: Arthur Ashe Mixed Doubles Championship 08-25</display-name>
+    <display-name>ESPN+ ALT 016:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.017">
     <display-name>ESPN+ ALT 017</display-name>
-    <display-name>ESPN+ ALT 017: 11:00 US Open: Court 4 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 017:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.018">
     <display-name>ESPN+ ALT 018</display-name>
-    <display-name>ESPN+ ALT 018: 11:00 US Open: Court 8 Qualifying (First Round) 08-25</display-name>
+    <display-name>ESPN+ ALT 018:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.019">
     <display-name>ESPN+ ALT 019</display-name>
-    <display-name>ESPN+ ALT 019: 12:00 The Rich Eisen Show: Tue 8 25 The Rich Eisen Show 08-25</display-name>
+    <display-name>ESPN+ ALT 019:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.020">
     <display-name>ESPN+ ALT 020</display-name>
-    <display-name>ESPN+ ALT 020: 12:00 The Pat McAfee Show: The Pat McAfee Show 08-25</display-name>
+    <display-name>ESPN+ ALT 020:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.021">
     <display-name>ESPN+ ALT 021</display-name>
-    <display-name>ESPN+ ALT 021: 12:00 Billiards: 2026 US Open Pool Championship (Double Elimination) 08-25</display-name>
+    <display-name>ESPN+ ALT 021:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.022">
     <display-name>ESPN+ ALT 022</display-name>
-    <display-name>ESPN+ ALT 022: 13:00 Futbol W: Tue 8 25 Futbol W 08-25</display-name>
+    <display-name>ESPN+ ALT 022:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.023">
     <display-name>ESPN+ ALT 023</display-name>
-    <display-name>ESPN+ ALT 023: 14:50 Spanish LALIGA: Valencia CF vs Real Betis (Matchday #1) 08-25</display-name>
+    <display-name>ESPN+ ALT 023:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.024">
     <display-name>ESPN+ ALT 024</display-name>
-    <display-name>ESPN+ ALT 024: 14:55 Spanish LALIGA: En Español Valencia CF vs Real Betis (Jornada 1) 08-25</display-name>
+    <display-name>ESPN+ ALT 024:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.025">
     <display-name>ESPN+ ALT 025</display-name>
-    <display-name>ESPN+ ALT 025: 15:00 World Surf League: 2026 WSL Championship Tour: Fiji Pro 08-25</display-name>
+    <display-name>ESPN+ ALT 025:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.026">
     <display-name>ESPN+ ALT 026</display-name>
-    <display-name>ESPN+ ALT 026: 15:00 Matt &amp; Myron: Matt &amp; Myron 08-25</display-name>
+    <display-name>ESPN+ ALT 026:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.027">
     <display-name>ESPN+ ALT 027</display-name>
-    <display-name>ESPN+ ALT 027: 17:00 ESPN FC Daily: Tue 8 25 ESPN FC 08-25</display-name>
+    <display-name>ESPN+ ALT 027:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.028">
     <display-name>ESPN+ ALT 028</display-name>
-    <display-name>ESPN+ ALT 028: 19:00 NCAA Men&#x27;s Soccer: #10 Bryant vs Rhode Island 08-25</display-name>
+    <display-name>ESPN+ ALT 028:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.029">
     <display-name>ESPN+ ALT 029</display-name>
-    <display-name>ESPN+ ALT 029: 20:00 US Open: En Español 2026 US Open: Roger Federer An Icon Returns to New York (Exhibicion) 08-25</display-name>
+    <display-name>ESPN+ ALT 029:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.030">
     <display-name>ESPN+ ALT 030</display-name>
-    <display-name>ESPN+ ALT 030: 20:00 NCAA Men&#x27;s Soccer: Georgia State vs UAB 08-25</display-name>
+    <display-name>ESPN+ ALT 030:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.031">
     <display-name>ESPN+ ALT 031</display-name>
-    <display-name>ESPN+ ALT 031: 20:00 US Open: 2026 US Open: Roger Federer An Icon Returns to New York 08-25</display-name>
+    <display-name>ESPN+ ALT 031:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.032">
@@ -4962,72 +4962,72 @@
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.001">
     <display-name>PARAMOUNT 001</display-name>
-    <display-name>PARAMOUNT 001: 12:35 Sabah vs Hapoel Beer Sheva 08-25</display-name>
+    <display-name>PARAMOUNT 001:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.002">
     <display-name>PARAMOUNT 002</display-name>
-    <display-name>PARAMOUNT 002: 13:50 Cardiff City vs Norwich City 08-25</display-name>
+    <display-name>PARAMOUNT 002:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.003">
     <display-name>PARAMOUNT 003</display-name>
-    <display-name>PARAMOUNT 003: 14:00 The Golazo Show 08-25</display-name>
+    <display-name>PARAMOUNT 003:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.004">
     <display-name>PARAMOUNT 004</display-name>
-    <display-name>PARAMOUNT 004: 14:00 Ipswich Town vs Leicester City 08-25</display-name>
+    <display-name>PARAMOUNT 004:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.005">
     <display-name>PARAMOUNT 005</display-name>
-    <display-name>PARAMOUNT 005: 14:00 Birmingham City vs Brentford 08-25</display-name>
+    <display-name>PARAMOUNT 005:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.006">
     <display-name>PARAMOUNT 006</display-name>
-    <display-name>PARAMOUNT 006: 14:00 Southampton vs West Ham United 08-25</display-name>
+    <display-name>PARAMOUNT 006:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.007">
     <display-name>PARAMOUNT 007</display-name>
-    <display-name>PARAMOUNT 007: 14:00 Nottingham Forest vs Leeds United 08-25</display-name>
+    <display-name>PARAMOUNT 007:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.008">
     <display-name>PARAMOUNT 008</display-name>
-    <display-name>PARAMOUNT 008: 14:50 LASK vs Celtic 08-25</display-name>
+    <display-name>PARAMOUNT 008:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.009">
     <display-name>PARAMOUNT 009</display-name>
-    <display-name>PARAMOUNT 009: 14:50 Bodø/Glimt vs NEC Nijmegen 08-25</display-name>
+    <display-name>PARAMOUNT 009:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.010">
     <display-name>PARAMOUNT 010</display-name>
-    <display-name>PARAMOUNT 010: 19:00 Dana White`s Contender Series 08-25</display-name>
+    <display-name>PARAMOUNT 010:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.011">
     <display-name>PARAMOUNT 011</display-name>
-    <display-name>PARAMOUNT 011: 19:00 Dana White`s Contender Series em Português 08-25</display-name>
+    <display-name>PARAMOUNT 011:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.012">
     <display-name>PARAMOUNT 012</display-name>
-    <display-name>PARAMOUNT 012: 19:00 Dana White`s Contender Series en Español 08-25</display-name>
+    <display-name>PARAMOUNT 012:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.013">
     <display-name>PARAMOUNT 013</display-name>
-    <display-name>PARAMOUNT 013: 22:25 CSD Municipal vs FC Motagua 08-25</display-name>
+    <display-name>PARAMOUNT 013:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.014">
     <display-name>PARAMOUNT 014</display-name>
-    <display-name>PARAMOUNT 014: 22:25 CS Cartaginés vs CD FAS 08-25</display-name>
+    <display-name>PARAMOUNT 014:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.015">
@@ -5462,72 +5462,72 @@
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.01">
     <display-name>PARAMOUNT ALT 01</display-name>
-    <display-name>PARAMOUNT ALT 01: 12:35 UEFA Champions League: Sabah vs Hapoel Beer Sheva 08-25</display-name>
+    <display-name>PARAMOUNT ALT 01:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.02">
     <display-name>PARAMOUNT ALT 02</display-name>
-    <display-name>PARAMOUNT ALT 02: 13:50 Carabao Cup: Cardiff City vs Norwich City 08-25</display-name>
+    <display-name>PARAMOUNT ALT 02:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.03">
     <display-name>PARAMOUNT ALT 03</display-name>
-    <display-name>PARAMOUNT ALT 03: 14:00 Carabao Cup: The Golazo Show 08-25</display-name>
+    <display-name>PARAMOUNT ALT 03:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.04">
     <display-name>PARAMOUNT ALT 04</display-name>
-    <display-name>PARAMOUNT ALT 04: 14:00 Carabao Cup: Ipswich Town vs Leicester City 08-25</display-name>
+    <display-name>PARAMOUNT ALT 04:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.05">
     <display-name>PARAMOUNT ALT 05</display-name>
-    <display-name>PARAMOUNT ALT 05: 14:00 Carabao Cup: Birmingham City vs Brentford 08-25</display-name>
+    <display-name>PARAMOUNT ALT 05:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.06">
     <display-name>PARAMOUNT ALT 06</display-name>
-    <display-name>PARAMOUNT ALT 06: 14:00 Carabao Cup: Southampton vs West Ham United 08-25</display-name>
+    <display-name>PARAMOUNT ALT 06:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.07">
     <display-name>PARAMOUNT ALT 07</display-name>
-    <display-name>PARAMOUNT ALT 07: 14:00 Carabao Cup: Nottingham Forest vs Leeds United 08-25</display-name>
+    <display-name>PARAMOUNT ALT 07:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.08">
     <display-name>PARAMOUNT ALT 08</display-name>
-    <display-name>PARAMOUNT ALT 08: 14:50 UEFA Champions League: LASK vs Celtic 08-25</display-name>
+    <display-name>PARAMOUNT ALT 08:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.09">
     <display-name>PARAMOUNT ALT 09</display-name>
-    <display-name>PARAMOUNT ALT 09: 14:50 UEFA Champions League: Bodø Glimt vs NEC Nijmegen 08-25</display-name>
+    <display-name>PARAMOUNT ALT 09:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.10">
     <display-name>PARAMOUNT ALT 10</display-name>
-    <display-name>PARAMOUNT ALT 10: 19:00 Dana White&#x27;s Contender Series: Dana Whites Contender Series 08-25</display-name>
+    <display-name>PARAMOUNT ALT 10:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.11">
     <display-name>PARAMOUNT ALT 11</display-name>
-    <display-name>PARAMOUNT ALT 11: 19:00 Dana White&#x27;s Contender Series: Dana Whites Contender Series em Português 08-25</display-name>
+    <display-name>PARAMOUNT ALT 11:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.12">
     <display-name>PARAMOUNT ALT 12</display-name>
-    <display-name>PARAMOUNT ALT 12: 19:00 Dana White&#x27;s Contender Series: Dana Whites Contender Series en Español 08-25</display-name>
+    <display-name>PARAMOUNT ALT 12:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.13">
     <display-name>PARAMOUNT ALT 13</display-name>
-    <display-name>PARAMOUNT ALT 13: 22:25 Concacaf Champions Cup: CSD Municipal vs FC Motagua 08-25</display-name>
+    <display-name>PARAMOUNT ALT 13:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.14">
     <display-name>PARAMOUNT ALT 14</display-name>
-    <display-name>PARAMOUNT ALT 14: 22:25 Concacaf Champions Cup: CS Cartaginés vs CD FAS 08-25</display-name>
+    <display-name>PARAMOUNT ALT 14:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.15">
@@ -5967,7 +5967,7 @@
   </channel>
   <channel id="custom.UFC.UFC.02">
     <display-name>UFC 02</display-name>
-    <display-name>UFC 02: 21:30 W3: POST FIGHT PRESS CONFERENCE 08-25</display-name>
+    <display-name>UFC 02:</display-name>
     <display-name>UFC</display-name>
   </channel>
   <channel id="custom.UFC.UFC.03">
@@ -6216,22 +6216,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: Tszyu vs Mahoney</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02: 21:30 Post Fight Conference DWCS 08-25</display-name>
+    <display-name>PPV2 02:</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03: 18:30 Short Track Super Series at Middleford 08-25</display-name>
+    <display-name>PPV2 03:</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
     <display-name>PPV2 04</display-name>
-    <display-name>PPV2 04: 18:15 Millbridge Speedway 08-25</display-name>
+    <display-name>PPV2 04:</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
@@ -6566,17 +6566,17 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 18:15 Millbridge Sprints</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 19:15 World of Outlaws Late Models Iowa</display-name>
+    <display-name>PPV 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 21:00 HLR Gold Cup Silver Dollar</display-name>
+    <display-name>PPV 03:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -7246,62 +7246,62 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.001">
     <display-name>CA TSN+ 001</display-name>
-    <display-name>CA TSN+ 001: 10:00 US Open: Mixed Doubles - Louis Armstrong (ft. Auger-Aliassime Eala) 08-25</display-name>
+    <display-name>CA TSN+ 001:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.002">
     <display-name>CA TSN+ 002</display-name>
-    <display-name>CA TSN+ 002: 11:00 US Open: Qualifying Day #2 - Court 6 (ft. Draxl) 08-25</display-name>
+    <display-name>CA TSN+ 002:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.003">
     <display-name>CA TSN+ 003</display-name>
-    <display-name>CA TSN+ 003: 11:00 US Open: Mixed Doubles - Arthur Ashe (ft. Djokovic Alcaraz Williams) 08-25</display-name>
+    <display-name>CA TSN+ 003:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.004">
     <display-name>CA TSN+ 004</display-name>
-    <display-name>CA TSN+ 004: 11:00 US Open: Qualifying Day #2 - Court 9 (ft. Sebov) 08-25</display-name>
+    <display-name>CA TSN+ 004:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.005">
     <display-name>CA TSN+ 005</display-name>
-    <display-name>CA TSN+ 005: 11:00 US Open: Qualifying Day #2 - Stadium 17 08-25</display-name>
+    <display-name>CA TSN+ 005:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.006">
     <display-name>CA TSN+ 006</display-name>
-    <display-name>CA TSN+ 006: 11:00 US Open: Qualifying Day #2 - Court 10 08-25</display-name>
+    <display-name>CA TSN+ 006:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.007">
     <display-name>CA TSN+ 007</display-name>
-    <display-name>CA TSN+ 007: 12:00 Rich Eisen Show 08-25</display-name>
+    <display-name>CA TSN+ 007:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.008">
     <display-name>CA TSN+ 008</display-name>
-    <display-name>CA TSN+ 008: 12:00 Pat McAfee Show 08-25</display-name>
+    <display-name>CA TSN+ 008:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.009">
     <display-name>CA TSN+ 009</display-name>
-    <display-name>CA TSN+ 009: 14:00 ATP 250 Tennis: Winston-Salem - Day #3 08-25</display-name>
+    <display-name>CA TSN+ 009:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.010">
     <display-name>CA TSN+ 010</display-name>
-    <display-name>CA TSN+ 010: 14:48 LaLiga: Valencia vs Real Betis 08-25</display-name>
+    <display-name>CA TSN+ 010:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.011">
     <display-name>CA TSN+ 011</display-name>
-    <display-name>CA TSN+ 011: 20:00 US Open Tennis: Roger Federer - An Icon Returns to New York 08-25</display-name>
+    <display-name>CA TSN+ 011:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.012">
     <display-name>CA TSN+ 012</display-name>
-    <display-name>CA TSN+ 012: 21:00 SportsCenter Special: NFL Fantasy Football Draft 08-25</display-name>
+    <display-name>CA TSN+ 012:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.013">
@@ -7746,17 +7746,17 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.001">
     <display-name>CA TSN+ ALT2 001</display-name>
-    <display-name>CA TSN+ ALT2 001: 00:00 SPORTSCENTRE A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 001:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.002">
     <display-name>CA TSN+ ALT2 002</display-name>
-    <display-name>CA TSN+ ALT2 002: 00:00 SC: Top 10 Women’s World Hockey Championship Games A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 002:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.003">
     <display-name>CA TSN+ ALT2 003</display-name>
-    <display-name>CA TSN+ ALT2 003: 00:30 SC: Top 50 World Hockey Championship Goals A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 003:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.004">
@@ -7766,432 +7766,432 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.005">
     <display-name>CA TSN+ ALT2 005</display-name>
-    <display-name>CA TSN+ ALT2 005: 01:00 SC: Top 10 Women’s World Hockey Championship Games B 08-25</display-name>
+    <display-name>CA TSN+ ALT2 005:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.006">
     <display-name>CA TSN+ ALT2 006</display-name>
-    <display-name>CA TSN+ ALT2 006: 01:30 SC: Top 50 World Hockey Championship Goals B 08-25</display-name>
+    <display-name>CA TSN+ ALT2 006:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.007">
     <display-name>CA TSN+ ALT2 007</display-name>
-    <display-name>CA TSN+ ALT2 007: 02:00 SPORTSCENTRE C 08-25</display-name>
+    <display-name>CA TSN+ ALT2 007:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.008">
     <display-name>CA TSN+ ALT2 008</display-name>
-    <display-name>CA TSN+ ALT2 008: 02:00 SC: Top 10 Women’s World Hockey Championship Games C 08-25</display-name>
+    <display-name>CA TSN+ ALT2 008:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.009">
     <display-name>CA TSN+ ALT2 009</display-name>
-    <display-name>CA TSN+ ALT2 009: 02:30 SC: Top 50 World Hockey Championship Goals C 08-25</display-name>
+    <display-name>CA TSN+ ALT2 009:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.010">
     <display-name>CA TSN+ ALT2 010</display-name>
-    <display-name>CA TSN+ ALT2 010: 03:00 SPORTSCENTRE D 08-25</display-name>
+    <display-name>CA TSN+ ALT2 010:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.011">
     <display-name>CA TSN+ ALT2 011</display-name>
-    <display-name>CA TSN+ ALT2 011: 03:00 SC: Top 10 Women’s World Hockey Championship Games D 08-25</display-name>
+    <display-name>CA TSN+ ALT2 011:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.012">
     <display-name>CA TSN+ ALT2 012</display-name>
-    <display-name>CA TSN+ ALT2 012: 03:30 SC: Top 50 World Hockey Championship Goals D 08-25</display-name>
+    <display-name>CA TSN+ ALT2 012:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.013">
     <display-name>CA TSN+ ALT2 013</display-name>
-    <display-name>CA TSN+ ALT2 013: 04:00 SPORTSCENTRE E 08-25</display-name>
+    <display-name>CA TSN+ ALT2 013:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.014">
     <display-name>CA TSN+ ALT2 014</display-name>
-    <display-name>CA TSN+ ALT2 014: 04:00 SC: Top 10 Women’s World Hockey Championship Games E 08-25</display-name>
+    <display-name>CA TSN+ ALT2 014:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.015">
     <display-name>CA TSN+ ALT2 015</display-name>
-    <display-name>CA TSN+ ALT2 015: 04:30 SC: Top 50 World Hockey Championship Goals E 08-25</display-name>
+    <display-name>CA TSN+ ALT2 015:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.016">
     <display-name>CA TSN+ ALT2 016</display-name>
-    <display-name>CA TSN+ ALT2 016: 05:00 SPORTSCENTRE F 08-25</display-name>
+    <display-name>CA TSN+ ALT2 016:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.017">
     <display-name>CA TSN+ ALT2 017</display-name>
-    <display-name>CA TSN+ ALT2 017: 05:00 SC: Top 10 Women’s World Hockey Championship Games F 08-25</display-name>
+    <display-name>CA TSN+ ALT2 017:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.018">
     <display-name>CA TSN+ ALT2 018</display-name>
-    <display-name>CA TSN+ ALT2 018: 05:30 SC: Top 50 World Hockey Championship Goals F 08-25</display-name>
+    <display-name>CA TSN+ ALT2 018:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.019">
     <display-name>CA TSN+ ALT2 019</display-name>
-    <display-name>CA TSN+ ALT2 019: 06:00 SPORTSCENTRE G 08-25</display-name>
+    <display-name>CA TSN+ ALT2 019:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.020">
     <display-name>CA TSN+ ALT2 020</display-name>
-    <display-name>CA TSN+ ALT2 020: 06:00 SC: Top 10 Women’s World Hockey Championship Games G 08-25</display-name>
+    <display-name>CA TSN+ ALT2 020:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.021">
     <display-name>CA TSN+ ALT2 021</display-name>
-    <display-name>CA TSN+ ALT2 021: 06:30 SC: Top 50 World Hockey Championship Goals G 08-25</display-name>
+    <display-name>CA TSN+ ALT2 021:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.022">
     <display-name>CA TSN+ ALT2 022</display-name>
-    <display-name>CA TSN+ ALT2 022: 07:00 SPORTSCENTRE H 08-25</display-name>
+    <display-name>CA TSN+ ALT2 022:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.023">
     <display-name>CA TSN+ ALT2 023</display-name>
-    <display-name>CA TSN+ ALT2 023: 07:00 SC: Top 10 Women’s World Hockey Championship Games H 08-25</display-name>
+    <display-name>CA TSN+ ALT2 023:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.024">
     <display-name>CA TSN+ ALT2 024</display-name>
-    <display-name>CA TSN+ ALT2 024: 07:30 SC: Top 50 World Hockey Championship Goals H 08-25</display-name>
+    <display-name>CA TSN+ ALT2 024:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.025">
     <display-name>CA TSN+ ALT2 025</display-name>
-    <display-name>CA TSN+ ALT2 025: 08:00 SPORTSCENTRE I 08-25</display-name>
+    <display-name>CA TSN+ ALT2 025:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.026">
     <display-name>CA TSN+ ALT2 026</display-name>
-    <display-name>CA TSN+ ALT2 026: 08:00 SC: Top 10 Women’s World Hockey Championship Games I 08-25</display-name>
+    <display-name>CA TSN+ ALT2 026:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.027">
     <display-name>CA TSN+ ALT2 027</display-name>
-    <display-name>CA TSN+ ALT2 027: 08:30 SC: Top 50 World Hockey Championship Goals I 08-25</display-name>
+    <display-name>CA TSN+ ALT2 027:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.028">
     <display-name>CA TSN+ ALT2 028</display-name>
-    <display-name>CA TSN+ ALT2 028: 09:00 SPORTSCENTRE J 08-25</display-name>
+    <display-name>CA TSN+ ALT2 028:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.029">
     <display-name>CA TSN+ ALT2 029</display-name>
-    <display-name>CA TSN+ ALT2 029: 09:00 SC: Top 10 Women’s World Hockey Championship Games J 08-25</display-name>
+    <display-name>CA TSN+ ALT2 029:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.030">
     <display-name>CA TSN+ ALT2 030</display-name>
-    <display-name>CA TSN+ ALT2 030: 09:30 SC: Top 50 World Hockey Championship Goals J 08-25</display-name>
+    <display-name>CA TSN+ ALT2 030:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
-  <channel id="custom.CA.TSN.Eala.08-25.tvg-logo.https">
-    <display-name>Eala) 08-25&quot; tvg-logo=&quot;https</display-name>
-    <display-name>Eala) 08-25&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27520.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 031: 10:00 US Open: Mixed Doubles vs Louis Armstrong (ft. Auger-Aliassime, Eala) 08-25</display-name>
+  <channel id="custom.CA.TSN.CA.TSN.ALT2.031">
+    <display-name>CA TSN+ ALT2 031</display-name>
+    <display-name>CA TSN+ ALT2 031:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.032">
     <display-name>CA TSN+ ALT2 032</display-name>
-    <display-name>CA TSN+ ALT2 032: 10:00 SPORTSCENTRE K 08-25</display-name>
+    <display-name>CA TSN+ ALT2 032:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.033">
     <display-name>CA TSN+ ALT2 033</display-name>
-    <display-name>CA TSN+ ALT2 033: 10:00 SC: Top 10 Women’s World Hockey Championship Games K 08-25</display-name>
+    <display-name>CA TSN+ ALT2 033:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.034">
     <display-name>CA TSN+ ALT2 034</display-name>
-    <display-name>CA TSN+ ALT2 034: 10:30 SC: Top 50 World Hockey Championship Goals K 08-25</display-name>
+    <display-name>CA TSN+ ALT2 034:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
-  <channel id="custom.CA.TSN.Alcaraz.Williams.08-25.tvg-logo.https">
-    <display-name>Alcaraz, Williams) 08-25&quot; tvg-logo=&quot;https</display-name>
-    <display-name>Alcaraz, Williams) 08-25&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27524.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 035: 11:00 US Open: Mixed Doubles vs Arthur Ashe (ft. Djokovic, Alcaraz, Williams) 08-25</display-name>
+  <channel id="custom.CA.TSN.CA.TSN.ALT2.035">
+    <display-name>CA TSN+ ALT2 035</display-name>
+    <display-name>CA TSN+ ALT2 035:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.036">
     <display-name>CA TSN+ ALT2 036</display-name>
-    <display-name>CA TSN+ ALT2 036: 11:00 US Open: Qualifying Day #2 vs Stadium 17 08-25</display-name>
+    <display-name>CA TSN+ ALT2 036:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.037">
     <display-name>CA TSN+ ALT2 037</display-name>
-    <display-name>CA TSN+ ALT2 037: 11:00 US Open: Qualifying Day #2 vs Court 6 (ft. Draxl) 08-25</display-name>
+    <display-name>CA TSN+ ALT2 037:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.038">
     <display-name>CA TSN+ ALT2 038</display-name>
-    <display-name>CA TSN+ ALT2 038: 11:00 US Open: Qualifying Day #2 vs Court 9 (ft. Sebov) 08-25</display-name>
+    <display-name>CA TSN+ ALT2 038:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.039">
     <display-name>CA TSN+ ALT2 039</display-name>
-    <display-name>CA TSN+ ALT2 039: 11:00 SPORTSCENTRE L 08-25</display-name>
+    <display-name>CA TSN+ ALT2 039:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.040">
     <display-name>CA TSN+ ALT2 040</display-name>
-    <display-name>CA TSN+ ALT2 040: 11:00 US Open: Qualifying Day #2 vs Court 10 08-25</display-name>
+    <display-name>CA TSN+ ALT2 040:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.041">
     <display-name>CA TSN+ ALT2 041</display-name>
-    <display-name>CA TSN+ ALT2 041: 11:00 SC: Top 10 Women’s World Hockey Championship Games L 08-25</display-name>
+    <display-name>CA TSN+ ALT2 041:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.042">
     <display-name>CA TSN+ ALT2 042</display-name>
-    <display-name>CA TSN+ ALT2 042: 11:30 SC: Top 50 World Hockey Championship Goals L 08-25</display-name>
+    <display-name>CA TSN+ ALT2 042:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.043">
     <display-name>CA TSN+ ALT2 043</display-name>
-    <display-name>CA TSN+ ALT2 043: 12:00 Pat McAfee Show A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 043:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.044">
     <display-name>CA TSN+ ALT2 044</display-name>
-    <display-name>CA TSN+ ALT2 044: 12:00 Rich Eisen Show A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 044:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.045">
     <display-name>CA TSN+ ALT2 045</display-name>
-    <display-name>CA TSN+ ALT2 045: 12:00 SC: Top Super Bowl Moments 08-25</display-name>
+    <display-name>CA TSN+ ALT2 045:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.046">
     <display-name>CA TSN+ ALT2 046</display-name>
-    <display-name>CA TSN+ ALT2 046: 12:00 First Take A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 046:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.047">
     <display-name>CA TSN+ ALT2 047</display-name>
-    <display-name>CA TSN+ ALT2 047: 12:00 SC: Top Overtime Moments 08-25</display-name>
+    <display-name>CA TSN+ ALT2 047:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.048">
     <display-name>CA TSN+ ALT2 048</display-name>
-    <display-name>CA TSN+ ALT2 048: 12:00 SPORTSCENTRE M 08-25</display-name>
+    <display-name>CA TSN+ ALT2 048:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.049">
     <display-name>CA TSN+ ALT2 049</display-name>
-    <display-name>CA TSN+ ALT2 049: 12:30 SC: Top 50 NBA Buzzer Beaters 08-25</display-name>
+    <display-name>CA TSN+ ALT2 049:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.050">
     <display-name>CA TSN+ ALT2 050</display-name>
-    <display-name>CA TSN+ ALT2 050: 12:30 SC: Wacky CFL Moments 08-25</display-name>
+    <display-name>CA TSN+ ALT2 050:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.051">
     <display-name>CA TSN+ ALT2 051</display-name>
-    <display-name>CA TSN+ ALT2 051: 13:00 SC: Top 10 Grey Cup Games 08-25</display-name>
+    <display-name>CA TSN+ ALT2 051:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.052">
     <display-name>CA TSN+ ALT2 052</display-name>
-    <display-name>CA TSN+ ALT2 052: 13:00 Motorcycle Experience A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 052:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.053">
     <display-name>CA TSN+ ALT2 053</display-name>
-    <display-name>CA TSN+ ALT2 053: 13:00 Little League Baseball World Series: TBA vs TBA A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 053:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.054">
     <display-name>CA TSN+ ALT2 054</display-name>
-    <display-name>CA TSN+ ALT2 054: 13:30 SC: Top 40 Trick Plays of All-Time 08-25</display-name>
+    <display-name>CA TSN+ ALT2 054:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.055">
     <display-name>CA TSN+ ALT2 055</display-name>
-    <display-name>CA TSN+ ALT2 055: 13:30 Canadian Superbike Championship: Pro Superbike Race 6 of 10 A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 055:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.056">
     <display-name>CA TSN+ ALT2 056</display-name>
-    <display-name>CA TSN+ ALT2 056: 14:00 ATP 250 Tennis: Winston-Salem vs Day #3 08-25</display-name>
+    <display-name>CA TSN+ ALT2 056:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.057">
     <display-name>CA TSN+ ALT2 057</display-name>
-    <display-name>CA TSN+ ALT2 057: 14:00 SC: Top 50 CHL Goals 08-25</display-name>
+    <display-name>CA TSN+ ALT2 057:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
-  <channel id="custom.CA.TSN.ON.08-25.tvg-logo.https">
-    <display-name>ON 08-25&quot; tvg-logo=&quot;https</display-name>
-    <display-name>ON 08-25&quot; tvg-logo=&quot;https://image-basket.xyz/logo/live/27547.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 058: 14:00 NASCAR Canada Series: Markham 125 vs Markham, ON 08-25</display-name>
+  <channel id="custom.CA.TSN.CA.TSN.ALT2.058">
+    <display-name>CA TSN+ ALT2 058</display-name>
+    <display-name>CA TSN+ ALT2 058:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.059">
     <display-name>CA TSN+ ALT2 059</display-name>
-    <display-name>CA TSN+ ALT2 059: 14:30 SC: Top Rivalries in Sports 08-25</display-name>
+    <display-name>CA TSN+ ALT2 059:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.060">
     <display-name>CA TSN+ ALT2 060</display-name>
-    <display-name>CA TSN+ ALT2 060: 14:48 LaLiga: Valencia vs Real Betis 08-25</display-name>
+    <display-name>CA TSN+ ALT2 060:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.061">
     <display-name>CA TSN+ ALT2 061</display-name>
-    <display-name>CA TSN+ ALT2 061: 15:00 PGA Tour Highlight Show: BMW Championship A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 061:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.062">
     <display-name>CA TSN+ ALT2 062</display-name>
-    <display-name>CA TSN+ ALT2 062: 15:00 SC: Coaches Gone Wild 08-25</display-name>
+    <display-name>CA TSN+ ALT2 062:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.063">
     <display-name>CA TSN+ ALT2 063</display-name>
-    <display-name>CA TSN+ ALT2 063: 15:00 Little League Baseball World Series: TBA vs TBA B 08-25</display-name>
+    <display-name>CA TSN+ ALT2 063:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.064">
     <display-name>CA TSN+ ALT2 064</display-name>
-    <display-name>CA TSN+ ALT2 064: 15:30 SC: Top 50 Tennis Shots of All-Time 08-25</display-name>
+    <display-name>CA TSN+ ALT2 064:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.065">
     <display-name>CA TSN+ ALT2 065</display-name>
-    <display-name>CA TSN+ ALT2 065: 16:00 OverDrive A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 065:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.066">
     <display-name>CA TSN+ ALT2 066</display-name>
-    <display-name>CA TSN+ ALT2 066: 16:00 NFL Live A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 066:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.067">
     <display-name>CA TSN+ ALT2 067</display-name>
-    <display-name>CA TSN+ ALT2 067: 17:00 SC: Top 50 Curling Shots 08-25</display-name>
+    <display-name>CA TSN+ ALT2 067:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.068">
     <display-name>CA TSN+ ALT2 068</display-name>
-    <display-name>CA TSN+ ALT2 068: 17:00 Little League Baseball World Series: TBA vs TBA C 08-25</display-name>
+    <display-name>CA TSN+ ALT2 068:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.069">
     <display-name>CA TSN+ ALT2 069</display-name>
-    <display-name>CA TSN+ ALT2 069: 17:30 College Football Live A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 069:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.070">
     <display-name>CA TSN+ ALT2 070</display-name>
-    <display-name>CA TSN+ ALT2 070: 18:00 SPORTSCENTRE N 08-25</display-name>
+    <display-name>CA TSN+ ALT2 070:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.071">
     <display-name>CA TSN+ ALT2 071</display-name>
-    <display-name>CA TSN+ ALT2 071: 19:00 Little League Baseball World Series: TBA vs TBA D 08-25</display-name>
+    <display-name>CA TSN+ ALT2 071:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.072">
     <display-name>CA TSN+ ALT2 072</display-name>
-    <display-name>CA TSN+ ALT2 072: 19:00 MLB on TSN: Dodgers vs Braves 08-25</display-name>
+    <display-name>CA TSN+ ALT2 072:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.073">
     <display-name>CA TSN+ ALT2 073</display-name>
-    <display-name>CA TSN+ ALT2 073: 19:30 SC: Top Fan Moments 08-25</display-name>
+    <display-name>CA TSN+ ALT2 073:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.074">
     <display-name>CA TSN+ ALT2 074</display-name>
-    <display-name>CA TSN+ ALT2 074: 19:30 SC: Best and Worst Celebrations 08-25</display-name>
+    <display-name>CA TSN+ ALT2 074:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.075">
     <display-name>CA TSN+ ALT2 075</display-name>
-    <display-name>CA TSN+ ALT2 075: 20:00 US Open Tennis: Roger Federer vs An Icon Returns to New York 08-25</display-name>
+    <display-name>CA TSN+ ALT2 075:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.076">
     <display-name>CA TSN+ ALT2 076</display-name>
-    <display-name>CA TSN+ ALT2 076: 20:00 WNBA on TSN: Fire vs Wings 08-25</display-name>
+    <display-name>CA TSN+ ALT2 076:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.077">
     <display-name>CA TSN+ ALT2 077</display-name>
-    <display-name>CA TSN+ ALT2 077: 20:00 SC: Top OverDrive Moments 08-25</display-name>
+    <display-name>CA TSN+ ALT2 077:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.078">
     <display-name>CA TSN+ ALT2 078</display-name>
-    <display-name>CA TSN+ ALT2 078: 21:00 SportsCenter Special: NFL Fantasy Football Draft 08-25</display-name>
+    <display-name>CA TSN+ ALT2 078:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.079">
     <display-name>CA TSN+ ALT2 079</display-name>
-    <display-name>CA TSN+ ALT2 079: 21:00 SC: Top Moments of the FIFA World Cup 08-25</display-name>
+    <display-name>CA TSN+ ALT2 079:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.080">
     <display-name>CA TSN+ ALT2 080</display-name>
-    <display-name>CA TSN+ ALT2 080: 21:00 SC: Top 50 Saves of All-Time 08-25</display-name>
+    <display-name>CA TSN+ ALT2 080:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.081">
     <display-name>CA TSN+ ALT2 081</display-name>
-    <display-name>CA TSN+ ALT2 081: 21:30 MLB on TSN: Cubs vs Diamondbacks A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 081:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.082">
     <display-name>CA TSN+ ALT2 082</display-name>
-    <display-name>CA TSN+ ALT2 082: 21:30 CFL on TSN: Blue Bombers vs Elks 08-25</display-name>
+    <display-name>CA TSN+ ALT2 082:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.083">
     <display-name>CA TSN+ ALT2 083</display-name>
-    <display-name>CA TSN+ ALT2 083: 22:00 SPORTSCENTRE O 08-25</display-name>
+    <display-name>CA TSN+ ALT2 083:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.084">
     <display-name>CA TSN+ ALT2 084</display-name>
-    <display-name>CA TSN+ ALT2 084: 22:00 MLB on TSN: Cubs vs Diamondbacks B 08-25</display-name>
+    <display-name>CA TSN+ ALT2 084:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.085">
     <display-name>CA TSN+ ALT2 085</display-name>
-    <display-name>CA TSN+ ALT2 085: 23:00 Golf Talk Canada A 08-25</display-name>
+    <display-name>CA TSN+ ALT2 085:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.086">
     <display-name>CA TSN+ ALT2 086</display-name>
-    <display-name>CA TSN+ ALT2 086: 00:00 SPORTSCENTRE P 08-26</display-name>
+    <display-name>CA TSN+ ALT2 086:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.087">
     <display-name>CA TSN+ ALT2 087</display-name>
-    <display-name>CA TSN+ ALT2 087: 00:30 SC: Top Playoff Soundbites A 08-26</display-name>
+    <display-name>CA TSN+ ALT2 087:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.088">
     <display-name>CA TSN+ ALT2 088</display-name>
-    <display-name>CA TSN+ ALT2 088: 01:00 SPORTSCENTRE Q 08-26</display-name>
+    <display-name>CA TSN+ ALT2 088:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.089">
     <display-name>CA TSN+ ALT2 089</display-name>
-    <display-name>CA TSN+ ALT2 089: 01:00 SC: Outrageous NASCAR Moments A 08-26</display-name>
+    <display-name>CA TSN+ ALT2 089:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.090">
     <display-name>CA TSN+ ALT2 090</display-name>
-    <display-name>CA TSN+ ALT2 090: 01:30 SC: Top Playoff Soundbites B 08-26</display-name>
+    <display-name>CA TSN+ ALT2 090:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.091">
@@ -8496,62 +8496,62 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.001">
     <display-name>CA TSN+ ALT 001</display-name>
-    <display-name>CA TSN+ ALT 001: 10:00 US Open: Mixed Doubles - Louis Armstrong (ft. Auger Aliassime Eala) 08-25</display-name>
+    <display-name>CA TSN+ ALT 001:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.002">
     <display-name>CA TSN+ ALT 002</display-name>
-    <display-name>CA TSN+ ALT 002: 11:00 US Open: Qualifying Day #2 - Court 6 (ft. Draxl) 08-25</display-name>
+    <display-name>CA TSN+ ALT 002:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.003">
     <display-name>CA TSN+ ALT 003</display-name>
-    <display-name>CA TSN+ ALT 003: 11:00 US Open: Mixed Doubles - Arthur Ashe (ft. Djokovic Alcaraz Williams) 08-25</display-name>
+    <display-name>CA TSN+ ALT 003:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.004">
     <display-name>CA TSN+ ALT 004</display-name>
-    <display-name>CA TSN+ ALT 004: 11:00 US Open: Qualifying Day #2 - Court 9 (ft. Sebov) 08-25</display-name>
+    <display-name>CA TSN+ ALT 004:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.005">
     <display-name>CA TSN+ ALT 005</display-name>
-    <display-name>CA TSN+ ALT 005: 11:00 US Open: Qualifying Day #2 - Stadium 17 08-25</display-name>
+    <display-name>CA TSN+ ALT 005:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.006">
     <display-name>CA TSN+ ALT 006</display-name>
-    <display-name>CA TSN+ ALT 006: 11:00 US Open: Qualifying Day #2 - Court 10 08-25</display-name>
+    <display-name>CA TSN+ ALT 006:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.007">
     <display-name>CA TSN+ ALT 007</display-name>
-    <display-name>CA TSN+ ALT 007: 12:00 Rich Eisen Show 08-25</display-name>
+    <display-name>CA TSN+ ALT 007:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.008">
     <display-name>CA TSN+ ALT 008</display-name>
-    <display-name>CA TSN+ ALT 008: 12:00 Pat McAfee Show 08-25</display-name>
+    <display-name>CA TSN+ ALT 008:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.009">
     <display-name>CA TSN+ ALT 009</display-name>
-    <display-name>CA TSN+ ALT 009: 14:00 ATP 250 Tennis: Winston Salem - Day #3 08-25</display-name>
+    <display-name>CA TSN+ ALT 009:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.010">
     <display-name>CA TSN+ ALT 010</display-name>
-    <display-name>CA TSN+ ALT 010: 14:48 LaLiga: Valencia vs Real Betis 08-25</display-name>
+    <display-name>CA TSN+ ALT 010:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.011">
     <display-name>CA TSN+ ALT 011</display-name>
-    <display-name>CA TSN+ ALT 011: 20:00 US Open Tennis: Roger Federer - An Icon Returns to New York 08-25</display-name>
+    <display-name>CA TSN+ ALT 011:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.012">
     <display-name>CA TSN+ ALT 012</display-name>
-    <display-name>CA TSN+ ALT 012: 21:00 SportsCenter Special: NFL Fantasy Football Draft 08-25</display-name>
+    <display-name>CA TSN+ ALT 012:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT.013">
@@ -8996,47 +8996,47 @@
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.001">
     <display-name>SN+ 001</display-name>
-    <display-name>SN+ 001: 05:00 Sportsnet Central: August 24 08-25</display-name>
+    <display-name>SN+ 001:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.002">
     <display-name>SN+ 002</display-name>
-    <display-name>SN+ 002: 10:00 Jays Talk Plus: August 25 08-25</display-name>
+    <display-name>SN+ 002:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.003">
     <display-name>SN+ 003</display-name>
-    <display-name>SN+ 003: 16:00 Blair &amp; Barker: August 25 08-25</display-name>
+    <display-name>SN+ 003:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.004">
     <display-name>SN+ 004</display-name>
-    <display-name>SN+ 004: 18:00 The FAN Pregame: August 25 08-25</display-name>
+    <display-name>SN+ 004:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.005">
     <display-name>SN+ 005</display-name>
-    <display-name>SN+ 005: 18:30 Kansas City vs Toronto 08-25</display-name>
+    <display-name>SN+ 005:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.006">
     <display-name>SN+ 006</display-name>
-    <display-name>SN+ 006: 19:00 Dana White`s Contender Series - Episode 3 08-25</display-name>
+    <display-name>SN+ 006:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.007">
     <display-name>SN+ 007</display-name>
-    <display-name>SN+ 007: 19:00 Houston vs New York Yankees 08-25</display-name>
+    <display-name>SN+ 007:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.008">
     <display-name>SN+ 008</display-name>
-    <display-name>SN+ 008: 21:30 Philadelphia vs Seattle 08-25</display-name>
+    <display-name>SN+ 008:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.009">
     <display-name>SN+ 009</display-name>
-    <display-name>SN+ 009: 05:00 Sportsnet Central: August 25 08-26</display-name>
+    <display-name>SN+ 009:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.010">
@@ -9496,47 +9496,47 @@
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.01">
     <display-name>SN+ ALT 01</display-name>
-    <display-name>SN+ ALT 01: 05:00 Sportsnet Central: August 24 08-25</display-name>
+    <display-name>SN+ ALT 01:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.02">
     <display-name>SN+ ALT 02</display-name>
-    <display-name>SN+ ALT 02: 10:00 Jays Talk Plus: August 25 08-25</display-name>
+    <display-name>SN+ ALT 02:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.03">
     <display-name>SN+ ALT 03</display-name>
-    <display-name>SN+ ALT 03: 16:00 Blair &amp; Barker: August 25 08-25</display-name>
+    <display-name>SN+ ALT 03:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.04">
     <display-name>SN+ ALT 04</display-name>
-    <display-name>SN+ ALT 04: 18:00 The FAN Pregame: August 25 08-25</display-name>
+    <display-name>SN+ ALT 04:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.05">
     <display-name>SN+ ALT 05</display-name>
-    <display-name>SN+ ALT 05: 18:30 Kansas City vs Toronto 08-25</display-name>
+    <display-name>SN+ ALT 05:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.06">
     <display-name>SN+ ALT 06</display-name>
-    <display-name>SN+ ALT 06: 19:00 Dana White`s Contender Series - Episode 3 08-25</display-name>
+    <display-name>SN+ ALT 06:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.07">
     <display-name>SN+ ALT 07</display-name>
-    <display-name>SN+ ALT 07: 19:00 Houston vs New York Yankees 08-25</display-name>
+    <display-name>SN+ ALT 07:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.08">
     <display-name>SN+ ALT 08</display-name>
-    <display-name>SN+ ALT 08: 21:30 Philadelphia vs Seattle 08-25</display-name>
+    <display-name>SN+ ALT 08:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.09">
     <display-name>SN+ ALT 09</display-name>
-    <display-name>SN+ ALT 09: 05:00 Sportsnet Central: August 25 08-26</display-name>
+    <display-name>SN+ ALT 09:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.10">
@@ -10646,102 +10646,102 @@
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.001">
     <display-name>AU STAN 001</display-name>
-    <display-name>AU STAN 001: 20:25 Seoul vs Bucheon K League 2026 08-25</display-name>
+    <display-name>AU STAN 001:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.002">
     <display-name>AU STAN 002</display-name>
-    <display-name>AU STAN 002: 20:25 Jeju vs Pohang K League 2026 08-25</display-name>
+    <display-name>AU STAN 002:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.003">
     <display-name>AU STAN 003</display-name>
-    <display-name>AU STAN 003: 00:00 Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 003:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.004">
     <display-name>AU STAN 004</display-name>
-    <display-name>AU STAN 004: 01:00 Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 004:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.005">
     <display-name>AU STAN 005</display-name>
-    <display-name>AU STAN 005: 01:30 Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 005:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.006">
     <display-name>AU STAN 006</display-name>
-    <display-name>AU STAN 006: 02:00 Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026 08-26</display-name>
+    <display-name>AU STAN 006:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.007">
     <display-name>AU STAN 007</display-name>
-    <display-name>AU STAN 007: 02:15 Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026 08-26</display-name>
+    <display-name>AU STAN 007:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.008">
     <display-name>AU STAN 008</display-name>
-    <display-name>AU STAN 008: 02:30 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN 008:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.009">
     <display-name>AU STAN 009</display-name>
-    <display-name>AU STAN 009: 03:00 Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 009:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.010">
     <display-name>AU STAN 010</display-name>
-    <display-name>AU STAN 010: 04:00 Bencic/Cobolli vs Townsend/Zverev Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 010:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.011">
     <display-name>AU STAN 011</display-name>
-    <display-name>AU STAN 011: 04:30 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN 011:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.012">
     <display-name>AU STAN 012</display-name>
-    <display-name>AU STAN 012: 05:30 Williams/Alcaraz vs Routliffe/Glasspool Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 012:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.013">
     <display-name>AU STAN 013</display-name>
-    <display-name>AU STAN 013: 06:00 Andreeva/Rublev vs Vavassori/Errani Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 013:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.014">
     <display-name>AU STAN 014</display-name>
-    <display-name>AU STAN 014: 07:00 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN 014:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.015">
     <display-name>AU STAN 015</display-name>
-    <display-name>AU STAN 015: 07:00 Monterrey: Day 3 WTA 500 08-26</display-name>
+    <display-name>AU STAN 015:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.016">
     <display-name>AU STAN 016</display-name>
-    <display-name>AU STAN 016: 07:30 Shnaider/Ruud vs Pegula/Fritz Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN 016:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.017">
     <display-name>AU STAN 017</display-name>
-    <display-name>AU STAN 017: 09:00 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN 017:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.018">
     <display-name>AU STAN 018</display-name>
-    <display-name>AU STAN 018: 10:00 Federer Returns to New York US Open 2026 08-26</display-name>
+    <display-name>AU STAN 018:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.019">
     <display-name>AU STAN 019</display-name>
-    <display-name>AU STAN 019: 20:25 Daejeon vs Ulsan K League 2026 08-26</display-name>
+    <display-name>AU STAN 019:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.020">
     <display-name>AU STAN 020</display-name>
-    <display-name>AU STAN 020: 20:25 Anyang vs Incheon K League 2026 08-26</display-name>
+    <display-name>AU STAN 020:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.021">
@@ -11146,102 +11146,102 @@
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.001">
     <display-name>AU STAN ALT 001</display-name>
-    <display-name>AU STAN ALT 001: 20:25 Seoul vs Bucheon K League 2026 08-25</display-name>
+    <display-name>AU STAN ALT 001:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.002">
     <display-name>AU STAN ALT 002</display-name>
-    <display-name>AU STAN ALT 002: 20:25 Jeju vs Pohang K League 2026 08-25</display-name>
+    <display-name>AU STAN ALT 002:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.003">
     <display-name>AU STAN ALT 003</display-name>
-    <display-name>AU STAN ALT 003: 00:00 Svitolina/Monfils vs Eala/AugerAliassime Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 003:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.004">
     <display-name>AU STAN ALT 004</display-name>
-    <display-name>AU STAN ALT 004: 01:00 Sabalenka/Djokovic vs Katerina/Patten Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 004:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.005">
     <display-name>AU STAN ALT 005</display-name>
-    <display-name>AU STAN ALT 005: 01:30 Muchova/Mensik vs Mladenovic/Arevalo Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 005:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.006">
     <display-name>AU STAN ALT 006</display-name>
-    <display-name>AU STAN ALT 006: 02:00 Lions vs New Zealand: SuperSport Coverage NZL Tour of RSA Round 4 2026 08-26</display-name>
+    <display-name>AU STAN ALT 006:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.007">
     <display-name>AU STAN ALT 007</display-name>
-    <display-name>AU STAN ALT 007: 02:15 Lions vs New Zealand: Sky NZ Coverage NZL Tour of RSA Round 4 2026 08-26</display-name>
+    <display-name>AU STAN ALT 007:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.008">
     <display-name>AU STAN ALT 008</display-name>
-    <display-name>AU STAN ALT 008: 02:30 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 008:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.009">
     <display-name>AU STAN ALT 009</display-name>
-    <display-name>AU STAN ALT 009: 03:00 Navarro/Paul vs Anisimova/Tien Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 009:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.010">
     <display-name>AU STAN ALT 010</display-name>
-    <display-name>AU STAN ALT 010: 04:00 Bencic/Cobolli vs Townsend/Zverev Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 010:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.011">
     <display-name>AU STAN ALT 011</display-name>
-    <display-name>AU STAN ALT 011: 04:30 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 011:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.012">
     <display-name>AU STAN ALT 012</display-name>
-    <display-name>AU STAN ALT 012: 05:30 Williams/Alcaraz vs Routliffe/Glasspool Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 012:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.013">
     <display-name>AU STAN ALT 013</display-name>
-    <display-name>AU STAN ALT 013: 06:00 Andreeva/Rublev vs Vavassori/Errani Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 013:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.014">
     <display-name>AU STAN ALT 014</display-name>
-    <display-name>AU STAN ALT 014: 07:00 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 014:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.015">
     <display-name>AU STAN ALT 015</display-name>
-    <display-name>AU STAN ALT 015: 07:00 Monterrey: Day 3 WTA 500 08-26</display-name>
+    <display-name>AU STAN ALT 015:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.016">
     <display-name>AU STAN ALT 016</display-name>
-    <display-name>AU STAN ALT 016: 07:30 Shnaider/Ruud vs Pegula/Fritz Mixed Doubles R1 US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 016:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.017">
     <display-name>AU STAN ALT 017</display-name>
-    <display-name>AU STAN ALT 017: 09:00 TBD/TBD vs TBD/TBD Mixed Doubles Quarter Final US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 017:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.018">
     <display-name>AU STAN ALT 018</display-name>
-    <display-name>AU STAN ALT 018: 10:00 Federer Returns to New York US Open 2026 08-26</display-name>
+    <display-name>AU STAN ALT 018:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.019">
     <display-name>AU STAN ALT 019</display-name>
-    <display-name>AU STAN ALT 019: 20:25 Daejeon vs Ulsan K League 2026 08-26</display-name>
+    <display-name>AU STAN ALT 019:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.020">
     <display-name>AU STAN ALT 020</display-name>
-    <display-name>AU STAN ALT 020: 20:25 Anyang vs Incheon K League 2026 08-26</display-name>
+    <display-name>AU STAN ALT 020:</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.ALT.021">
@@ -11671,12 +11671,12 @@
   </channel>
   <channel id="custom.AU.KAYO.KAYO.006">
     <display-name>KAYO+ 006</display-name>
-    <display-name>KAYO+ 006: 09:30 Australia vs Bangladesh Second Test Day 5 08-26</display-name>
+    <display-name>KAYO+ 006:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.007">
     <display-name>KAYO+ 007</display-name>
-    <display-name>KAYO+ 007: 19:00 Tszyu vs Mahoney 08-26</display-name>
+    <display-name>KAYO+ 007:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.008">
@@ -12184,16 +12184,6 @@
     <display-name>UK D+ 010</display-name>
     <display-name>UK DISCOVERY+</display-name>
   </channel>
-  <programme start="20260826093000 +1000" stop="20260826133000 +1000" channel="custom.AU.KAYO.KAYO.006">
-    <title>11:30 AM Australia vs Bangladesh Second Test Day 5</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260826190000 +1000" stop="20260826230000 +1000" channel="custom.AU.KAYO.KAYO.007">
-    <title>9:00 PM Tszyu vs Mahoney</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
   <programme start="20260827090000 +1000" stop="20260827130000 +1000" channel="custom.AU.KAYO.KAYO.008">
     <title>11:00 AM Braves vs Dodgers</title>
     <category>Sports</category>
@@ -12729,51 +12719,6 @@
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260825050000 -0400" stop="20260825090000 -0400" channel="custom.CA.SPORTSNET.SN.001">
-    <title>9:00 PM Sportsnet Central: August 24</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.CA.SPORTSNET.SN.002">
-    <title>2:00 AM Jays Talk Plus: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825160000 -0400" stop="20260825200000 -0400" channel="custom.CA.SPORTSNET.SN.003">
-    <title>8:00 AM Blair &amp; Barker: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825180000 -0400" stop="20260825220000 -0400" channel="custom.CA.SPORTSNET.SN.004">
-    <title>10:00 AM The FAN Pregame: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825183000 -0400" stop="20260825223000 -0400" channel="custom.CA.SPORTSNET.SN.005">
-    <title>10:30 AM Kansas City vs Toronto</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.CA.SPORTSNET.SN.006">
-    <title>11:00 AM Dana White`s Contender Series - Episode 3</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.CA.SPORTSNET.SN.007">
-    <title>11:00 AM Houston vs New York Yankees</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.CA.SPORTSNET.SN.008">
-    <title>1:30 PM Philadelphia vs Seattle</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260826050000 -0400" stop="20260826090000 -0400" channel="custom.CA.SPORTSNET.SN.009">
-    <title>9:00 PM Sportsnet Central: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
   <programme start="20260826100000 -0400" stop="20260826140000 -0400" channel="custom.CA.SPORTSNET.SN.010">
     <title>2:00 AM Jays Talk Plus: August 26</title>
     <category>Sports</category>
@@ -12851,51 +12796,6 @@
   </programme>
   <programme start="20260827210000 -0400" stop="20260828010000 -0400" channel="custom.CA.SPORTSNET.SN.025">
     <title>1:00 PM TNA iMPACT!</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825050000 -0400" stop="20260825090000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.01">
-    <title>9:00 PM Sportsnet Central: August 24</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.02">
-    <title>2:00 AM Jays Talk Plus: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825160000 -0400" stop="20260825200000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.03">
-    <title>8:00 AM Blair &amp; Barker: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825180000 -0400" stop="20260825220000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.04">
-    <title>10:00 AM The FAN Pregame: August 25</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825183000 -0400" stop="20260825223000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.05">
-    <title>10:30 AM Kansas City vs Toronto</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.06">
-    <title>11:00 AM Dana White`s Contender Series - Episode 3</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.07">
-    <title>11:00 AM Houston vs New York Yankees</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.08">
-    <title>1:30 PM Philadelphia vs Seattle</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260826050000 -0400" stop="20260826090000 -0400" channel="custom.CA.SPORTSNET.SN.ALT.09">
-    <title>9:00 PM Sportsnet Central: August 25</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA SPORTSNET+</desc>
   </programme>
@@ -12978,71 +12878,6 @@
     <title>1:00 PM TNA iMPACT!</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA SPORTSNET+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.Alcaraz.Williams.08-25.tvg-logo.https">
-    <title>//image-basket.xyz/logo/live/27524.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 035: 11:00 US Open: Mixed Doubles vs Arthur Ashe (ft. Djokovic, Alcaraz, Williams)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.CA.TSN.CA.TSN.001">
-    <title>2:00 AM US Open: Mixed Doubles - Louis Armstrong (ft. Auger-Aliassime Eala)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.002">
-    <title>3:00 AM US Open: Qualifying Day #2 - Court 6 (ft. Draxl)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.003">
-    <title>3:00 AM US Open: Mixed Doubles - Arthur Ashe (ft. Djokovic Alcaraz Williams)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.004">
-    <title>3:00 AM US Open: Qualifying Day #2 - Court 9 (ft. Sebov)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.005">
-    <title>3:00 AM US Open: Qualifying Day #2 - Stadium 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.006">
-    <title>3:00 AM US Open: Qualifying Day #2 - Court 10</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.007">
-    <title>4:00 AM Rich Eisen Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.008">
-    <title>4:00 AM Pat McAfee Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.CA.TSN.CA.TSN.009">
-    <title>6:00 AM ATP 250 Tennis: Winston-Salem - Day #3</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825144800 -0400" stop="20260825184800 -0400" channel="custom.CA.TSN.CA.TSN.010">
-    <title>6:48 AM LaLiga: Valencia vs Real Betis</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.CA.TSN.011">
-    <title>12:00 PM US Open Tennis: Roger Federer - An Icon Returns to New York</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.CA.TSN.CA.TSN.012">
-    <title>1:00 PM SportsCenter Special: NFL Fantasy Football Draft</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20260826110000 -0400" stop="20260826150000 -0400" channel="custom.CA.TSN.CA.TSN.013">
     <title>3:00 AM US Open: Qualifying Day #3 - Court TBD</title>
@@ -13436,66 +13271,6 @@
   </programme>
   <programme start="20260831131800 -0400" stop="20260831171800 -0400" channel="custom.CA.TSN.CA.TSN.091">
     <title>5:18 AM LaLiga: Osasuna vs Getafe</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.001">
-    <title>2:00 AM US Open: Mixed Doubles - Louis Armstrong (ft. Auger Aliassime Eala)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.002">
-    <title>3:00 AM US Open: Qualifying Day #2 - Court 6 (ft. Draxl)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.003">
-    <title>3:00 AM US Open: Mixed Doubles - Arthur Ashe (ft. Djokovic Alcaraz Williams)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.004">
-    <title>3:00 AM US Open: Qualifying Day #2 - Court 9 (ft. Sebov)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.005">
-    <title>3:00 AM US Open: Qualifying Day #2 - Stadium 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.006">
-    <title>3:00 AM US Open: Qualifying Day #2 - Court 10</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.007">
-    <title>4:00 AM Rich Eisen Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.008">
-    <title>4:00 AM Pat McAfee Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.009">
-    <title>6:00 AM ATP 250 Tennis: Winston Salem - Day #3</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825144800 -0400" stop="20260825184800 -0400" channel="custom.CA.TSN.CA.TSN.ALT.010">
-    <title>6:48 AM LaLiga: Valencia vs Real Betis</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.011">
-    <title>12:00 PM US Open Tennis: Roger Federer - An Icon Returns to New York</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.CA.TSN.CA.TSN.ALT.012">
-    <title>1:00 PM SportsCenter Special: NFL Fantasy Football Draft</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
@@ -13894,446 +13669,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260825000000 -0400" stop="20260825040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.001">
-    <title>4:00 PM SPORTSCENTRE A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825000000 -0400" stop="20260825040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.002">
-    <title>4:00 PM SC: Top 10 Women’s World Hockey Championship Games A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825003000 -0400" stop="20260825043000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.003">
-    <title>4:30 PM SC: Top 50 World Hockey Championship Goals A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825010000 -0400" stop="20260825050000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.005">
-    <title>5:00 PM SC: Top 10 Women’s World Hockey Championship Games B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825013000 -0400" stop="20260825053000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.006">
-    <title>5:30 PM SC: Top 50 World Hockey Championship Goals B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825020000 -0400" stop="20260825060000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.007">
-    <title>6:00 PM SPORTSCENTRE C</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825020000 -0400" stop="20260825060000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.008">
-    <title>6:00 PM SC: Top 10 Women’s World Hockey Championship Games C</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825023000 -0400" stop="20260825063000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.009">
-    <title>6:30 PM SC: Top 50 World Hockey Championship Goals C</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825030000 -0400" stop="20260825070000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.010">
-    <title>7:00 PM SPORTSCENTRE D</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825030000 -0400" stop="20260825070000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.011">
-    <title>7:00 PM SC: Top 10 Women’s World Hockey Championship Games D</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825033000 -0400" stop="20260825073000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.012">
-    <title>7:30 PM SC: Top 50 World Hockey Championship Goals D</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825040000 -0400" stop="20260825080000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.013">
-    <title>8:00 PM SPORTSCENTRE E</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825040000 -0400" stop="20260825080000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.014">
-    <title>8:00 PM SC: Top 10 Women’s World Hockey Championship Games E</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825043000 -0400" stop="20260825083000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.015">
-    <title>8:30 PM SC: Top 50 World Hockey Championship Goals E</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825050000 -0400" stop="20260825090000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.016">
-    <title>9:00 PM SPORTSCENTRE F</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825050000 -0400" stop="20260825090000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.017">
-    <title>9:00 PM SC: Top 10 Women’s World Hockey Championship Games F</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825053000 -0400" stop="20260825093000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.018">
-    <title>9:30 PM SC: Top 50 World Hockey Championship Goals F</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825060000 -0400" stop="20260825100000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.019">
-    <title>10:00 PM SPORTSCENTRE G</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825060000 -0400" stop="20260825100000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.020">
-    <title>10:00 PM SC: Top 10 Women’s World Hockey Championship Games G</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825063000 -0400" stop="20260825103000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.021">
-    <title>10:30 PM SC: Top 50 World Hockey Championship Goals G</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825070000 -0400" stop="20260825110000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.022">
-    <title>11:00 PM SPORTSCENTRE H</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825070000 -0400" stop="20260825110000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.023">
-    <title>11:00 PM SC: Top 10 Women’s World Hockey Championship Games H</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825073000 -0400" stop="20260825113000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.024">
-    <title>11:30 PM SC: Top 50 World Hockey Championship Goals H</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825080000 -0400" stop="20260825120000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.025">
-    <title>12:00 AM SPORTSCENTRE I</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825080000 -0400" stop="20260825120000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.026">
-    <title>12:00 AM SC: Top 10 Women’s World Hockey Championship Games I</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825083000 -0400" stop="20260825123000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.027">
-    <title>12:30 AM SC: Top 50 World Hockey Championship Goals I</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825090000 -0400" stop="20260825130000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.028">
-    <title>1:00 AM SPORTSCENTRE J</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825090000 -0400" stop="20260825130000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.029">
-    <title>1:00 AM SC: Top 10 Women’s World Hockey Championship Games J</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825093000 -0400" stop="20260825133000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.030">
-    <title>1:30 AM SC: Top 50 World Hockey Championship Goals J</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.032">
-    <title>2:00 AM SPORTSCENTRE K</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.033">
-    <title>2:00 AM SC: Top 10 Women’s World Hockey Championship Games K</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825103000 -0400" stop="20260825143000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.034">
-    <title>2:30 AM SC: Top 50 World Hockey Championship Goals K</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.036">
-    <title>3:00 AM US Open: Qualifying Day #2 vs Stadium 17</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.037">
-    <title>3:00 AM US Open: Qualifying Day #2 vs Court 6 (ft. Draxl)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.038">
-    <title>3:00 AM US Open: Qualifying Day #2 vs Court 9 (ft. Sebov)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.039">
-    <title>3:00 AM SPORTSCENTRE L</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.040">
-    <title>3:00 AM US Open: Qualifying Day #2 vs Court 10</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.041">
-    <title>3:00 AM SC: Top 10 Women’s World Hockey Championship Games L</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825113000 -0400" stop="20260825153000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.042">
-    <title>3:30 AM SC: Top 50 World Hockey Championship Goals L</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.043">
-    <title>4:00 AM Pat McAfee Show A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.044">
-    <title>4:00 AM Rich Eisen Show A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.045">
-    <title>4:00 AM SC: Top Super Bowl Moments</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.046">
-    <title>4:00 AM First Take A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.047">
-    <title>4:00 AM SC: Top Overtime Moments</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.048">
-    <title>4:00 AM SPORTSCENTRE M</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825123000 -0400" stop="20260825163000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.049">
-    <title>4:30 AM SC: Top 50 NBA Buzzer Beaters</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825123000 -0400" stop="20260825163000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.050">
-    <title>4:30 AM SC: Wacky CFL Moments</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.051">
-    <title>5:00 AM SC: Top 10 Grey Cup Games</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.052">
-    <title>5:00 AM Motorcycle Experience A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.053">
-    <title>5:00 AM Little League Baseball World Series: TBA vs TBA A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825133000 -0400" stop="20260825173000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.054">
-    <title>5:30 AM SC: Top 40 Trick Plays of All-Time</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825133000 -0400" stop="20260825173000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.055">
-    <title>5:30 AM Canadian Superbike Championship: Pro Superbike Race 6 of 10 A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.056">
-    <title>6:00 AM ATP 250 Tennis: Winston-Salem vs Day #3</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.057">
-    <title>6:00 AM SC: Top 50 CHL Goals</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825143000 -0400" stop="20260825183000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.059">
-    <title>6:30 AM SC: Top Rivalries in Sports</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825144800 -0400" stop="20260825184800 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.060">
-    <title>6:48 AM LaLiga: Valencia vs Real Betis</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.061">
-    <title>7:00 AM PGA Tour Highlight Show: BMW Championship A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.062">
-    <title>7:00 AM SC: Coaches Gone Wild</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.063">
-    <title>7:00 AM Little League Baseball World Series: TBA vs TBA B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825153000 -0400" stop="20260825193000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.064">
-    <title>7:30 AM SC: Top 50 Tennis Shots of All-Time</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825160000 -0400" stop="20260825200000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.065">
-    <title>8:00 AM OverDrive A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825160000 -0400" stop="20260825200000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.066">
-    <title>8:00 AM NFL Live A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.067">
-    <title>9:00 AM SC: Top 50 Curling Shots</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.068">
-    <title>9:00 AM Little League Baseball World Series: TBA vs TBA C</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825173000 -0400" stop="20260825213000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.069">
-    <title>9:30 AM College Football Live A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825180000 -0400" stop="20260825220000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.070">
-    <title>10:00 AM SPORTSCENTRE N</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.071">
-    <title>11:00 AM Little League Baseball World Series: TBA vs TBA D</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.072">
-    <title>11:00 AM MLB on TSN: Dodgers vs Braves</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825193000 -0400" stop="20260825233000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.073">
-    <title>11:30 AM SC: Top Fan Moments</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825193000 -0400" stop="20260825233000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.074">
-    <title>11:30 AM SC: Best and Worst Celebrations</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.075">
-    <title>12:00 PM US Open Tennis: Roger Federer vs An Icon Returns to New York</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.076">
-    <title>12:00 PM WNBA on TSN: Fire vs Wings</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.077">
-    <title>12:00 PM SC: Top OverDrive Moments</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.078">
-    <title>1:00 PM SportsCenter Special: NFL Fantasy Football Draft</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.079">
-    <title>1:00 PM SC: Top Moments of the FIFA World Cup</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.080">
-    <title>1:00 PM SC: Top 50 Saves of All-Time</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.081">
-    <title>1:30 PM MLB on TSN: Cubs vs Diamondbacks A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.082">
-    <title>1:30 PM CFL on TSN: Blue Bombers vs Elks</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825220000 -0400" stop="20260826020000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.083">
-    <title>2:00 PM SPORTSCENTRE O</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825220000 -0400" stop="20260826020000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.084">
-    <title>2:00 PM MLB on TSN: Cubs vs Diamondbacks B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825230000 -0400" stop="20260826030000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.085">
-    <title>3:00 PM Golf Talk Canada A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260826000000 -0400" stop="20260826040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.086">
-    <title>4:00 PM SPORTSCENTRE P</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260826003000 -0400" stop="20260826043000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.087">
-    <title>4:30 PM SC: Top Playoff Soundbites A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260826010000 -0400" stop="20260826050000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.088">
-    <title>5:00 PM SPORTSCENTRE Q</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260826010000 -0400" stop="20260826050000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.089">
-    <title>5:00 PM SC: Outrageous NASCAR Moments A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260826013000 -0400" stop="20260826053000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.090">
-    <title>5:30 PM SC: Top Playoff Soundbites B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.Eala.08-25.tvg-logo.https">
-    <title>//image-basket.xyz/logo/live/27520.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 031: 10:00 US Open: Mixed Doubles vs Louis Armstrong (ft. Auger-Aliassime, Eala)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260826000000 -0400" channel="custom.CA.TSN.ON.08-25.tvg-logo.https">
-    <title>//image-basket.xyz/logo/live/27547.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 058: 14:00 NASCAR Canada Series: Markham 125 vs Markham, ON</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
   <programme start="20260825183000 -0400" stop="20260825223000 -0400" channel="custom.DIRTVISION.DIRT.01">
     <title>10:30 AM Millbridge Speedway</title>
     <category>Sports</category>
@@ -14524,11 +13859,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • UFC</desc>
   </programme>
-  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.UFC.UFC.02">
-    <title>1:30 PM W3: POST FIGHT PRESS CONFERENCE</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • UFC</desc>
-  </programme>
   <programme start="20260827213000 -0400" stop="20260828013000 -0400" channel="custom.UFC.UFC.03">
     <title>1:30 PM BFL 88</title>
     <category>Sports</category>
@@ -14643,241 +13973,6 @@
     <title>12:50 AM Silvaplana | Half Pipe</title>
     <category>Sports</category>
     <desc>Zulip #discovery-plus • UK DISCOVERY+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.001">
-    <title>2:00 AM US Open: Louis Armstrong Stadium / Mixed Doubles Championship</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.002">
-    <title>2:00 AM US Open: 2026 US Open Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.003">
-    <title>2:00 AM US Open: 2026 US Open Radio</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.004">
-    <title>3:00 AM NCAA Football: Hawk Talk with Lance Leipold</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.005">
-    <title>3:00 AM US Open: Arthur Ashe / Mixed Doubles Championship</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.006">
-    <title>3:00 AM US Open: Court 10 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.007">
-    <title>3:00 AM US Open: Court 12 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.008">
-    <title>3:00 AM US Open: Court 13 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.009">
-    <title>3:00 AM US Open: Court 5 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.010">
-    <title>3:00 AM US Open: Court 15 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.011">
-    <title>3:00 AM US Open: Court 16 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.012">
-    <title>3:00 AM US Open: Stadium 17 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.013">
-    <title>3:00 AM US Open: Court 9 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.014">
-    <title>3:00 AM US Open: Court 14 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.015">
-    <title>3:00 AM US Open: Court 11 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.016">
-    <title>3:01 AM US Open: Court 4 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.017">
-    <title>3:01 AM US Open: Court 8 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.018">
-    <title>3:01 AM US Open: Court 7 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.019">
-    <title>3:01 AM US Open: Court 6 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.020">
-    <title>5:00 AM Little League Baseball: Little League World Series (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.021">
-    <title>5:00 AM Little League Baseball: Japan vs Baja California</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.022">
-    <title>5:00 AM Soccer: Tue 8/25 - Futbol W</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.ESPN.ESPN.023">
-    <title>6:50 AM Soccer: Valencia vs Betis</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.ESPN.ESPN.024">
-    <title>6:50 AM Soccer: Valencia vs Betis (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.025">
-    <title>7:00 AM NCAA Football: College Football Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.026">
-    <title>7:00 AM Little League Baseball: Washington vs Alabama</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.027">
-    <title>7:00 AM Soccer: Washington vs Alabama • VAL vs. BET</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.028">
-    <title>7:00 AM Surfing: 2026 WSL Championship Tour: Fiji Pro</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825153000 -0400" stop="20260825193000 -0400" channel="custom.US.ESPN.ESPN.029">
-    <title>7:30 AM This is Football: This is Football</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825160000 -0400" stop="20260825200000 -0400" channel="custom.US.ESPN.ESPN.030">
-    <title>8:00 AM Football: NFL Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.US.ESPN.ESPN.031">
-    <title>9:00 AM Little League Baseball: British Columbia vs South Korea</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.US.ESPN.ESPN.032">
-    <title>9:00 AM Soccer: Tue 8/25 - ESPN FC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825180000 -0400" stop="20260825220000 -0400" channel="custom.US.ESPN.ESPN.033">
-    <title>10:00 AM Soccer: Generación Futbol</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.034">
-    <title>11:00 AM NCAA Football: After Further Review</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.035">
-    <title>11:00 AM NCAA Football: ACC Huddle Special: Justice Haynes</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.036">
-    <title>11:00 AM Little League Baseball: Ohio vs New Jersey</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.037">
-    <title>11:00 AM Soccer: #10 Bryant vs Rhode Island</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.038">
-    <title>12:00 PM Soccer: Es Así y Punto</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.039">
-    <title>12:00 PM Soccer: Georgia St vs UAB</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.040">
-    <title>12:00 PM US Open: 2026 US Open: Roger Federer Regresa</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.041">
-    <title>12:00 PM US Open: 2026 US Open: Roger Federer Returns</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.US.ESPN.ESPN.042">
-    <title>1:00 PM SportsCenter Special: Fantasy Football Draft</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825211500 -0400" stop="20260826011500 -0400" channel="custom.US.ESPN.ESPN.043">
-    <title>1:15 PM MLB: Padres Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825211500 -0400" stop="20260826011500 -0400" channel="custom.US.ESPN.ESPN.044">
-    <title>1:15 PM MLB: Pirates Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825211500 -0400" stop="20260826011500 -0400" channel="custom.US.ESPN.ESPN.045">
-    <title>1:15 PM MLB: Pirates vs Padres (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260826003000 -0400" stop="20260826043000 -0400" channel="custom.US.ESPN.ESPN.046">
-    <title>4:30 PM Soccer: Fútbol Picante</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260826010000 -0400" stop="20260826050000 -0400" channel="custom.US.ESPN.ESPN.047">
-    <title>5:00 PM Banana Ball: Coconuts vs Bananas</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
   </programme>
   <programme start="20260826090000 -0400" stop="20260826130000 -0400" channel="custom.US.ESPN.ESPN.048">
     <title>1:00 AM Fairways of Life: Fairways of Life with Matt Adams</title>
@@ -16794,386 +15889,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.ALT.001">
-    <title>2:00 AM US Open: Louis Armstrong Stadium Mixed Doubles Championship</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.ALT.002">
-    <title>2:00 AM US Open: 2026 US Open Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.ALT.003">
-    <title>2:00 AM The Golics: The Golics</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.004">
-    <title>3:00 AM US Open: Court 11 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.005">
-    <title>3:00 AM US Open: Court 10 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.006">
-    <title>3:00 AM US Open: Court 12 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.007">
-    <title>3:00 AM US Open: Court 13 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.008">
-    <title>3:00 AM US Open: Court 5 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.009">
-    <title>3:00 AM US Open: Court 15 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.010">
-    <title>3:00 AM US Open: Court 16 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.011">
-    <title>3:00 AM US Open: Stadium 17 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.012">
-    <title>3:00 AM US Open: Court 9 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.013">
-    <title>3:00 AM US Open: Court 14 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.014">
-    <title>3:00 AM US Open: Court 6 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.015">
-    <title>3:00 AM US Open: Court 7 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.016">
-    <title>3:00 AM US Open: Arthur Ashe Mixed Doubles Championship</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.017">
-    <title>3:00 AM US Open: Court 4 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT.018">
-    <title>3:00 AM US Open: Court 8 Qualifying (First Round)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.US.ESPN.ESPN.ALT.019">
-    <title>4:00 AM The Rich Eisen Show: Tue 8 25 The Rich Eisen Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.US.ESPN.ESPN.ALT.020">
-    <title>4:00 AM The Pat McAfee Show: The Pat McAfee Show</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825120000 -0400" stop="20260825160000 -0400" channel="custom.US.ESPN.ESPN.ALT.021">
-    <title>4:00 AM Billiards: 2026 US Open Pool Championship (Double Elimination)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.ALT.022">
-    <title>5:00 AM Futbol W: Tue 8 25 Futbol W</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.ESPN.ESPN.ALT.023">
-    <title>6:50 AM Spanish LALIGA: Valencia CF vs Real Betis (Matchday #1)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825145500 -0400" stop="20260825185500 -0400" channel="custom.US.ESPN.ESPN.ALT.024">
-    <title>6:55 AM Spanish LALIGA: En Español Valencia CF vs Real Betis (Jornada 1)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.ALT.025">
-    <title>7:00 AM World Surf League: 2026 WSL Championship Tour: Fiji Pro</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.ALT.026">
-    <title>7:00 AM Matt &amp; Myron: Matt &amp; Myron</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.US.ESPN.ESPN.ALT.027">
-    <title>9:00 AM ESPN FC Daily: Tue 8 25 ESPN FC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.ALT.028">
-    <title>11:00 AM NCAA Men&#x27;s Soccer: #10 Bryant vs Rhode Island</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT.029">
-    <title>12:00 PM US Open: En Español 2026 US Open: Roger Federer An Icon Returns to New York (Exhibicion)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT.030">
-    <title>12:00 PM NCAA Men&#x27;s Soccer: Georgia State vs UAB</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT.031">
-    <title>12:00 PM US Open: 2026 US Open: Roger Federer An Icon Returns to New York</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.ALT2.001">
-    <title>2:00 AM US Open: Louis Armstrong Stadium / Mixed Doubles Championship</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.ALT2.002">
-    <title>2:00 AM US Open: 2026 US Open Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825100000 -0400" stop="20260825140000 -0400" channel="custom.US.ESPN.ESPN.ALT2.003">
-    <title>2:00 AM US Open: 2026 US Open Radio</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.004">
-    <title>3:00 AM NCAA Football: Hawk Talk with Lance Leipold</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.005">
-    <title>3:00 AM US Open: Arthur Ashe / Mixed Doubles Championship</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.006">
-    <title>3:00 AM US Open: Court 10 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.007">
-    <title>3:00 AM US Open: Court 12 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.008">
-    <title>3:00 AM US Open: Court 13 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.009">
-    <title>3:00 AM US Open: Court 5 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.010">
-    <title>3:00 AM US Open: Court 15 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.011">
-    <title>3:00 AM US Open: Court 16 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.012">
-    <title>3:00 AM US Open: Stadium 17 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.013">
-    <title>3:00 AM US Open: Court 9 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.014">
-    <title>3:00 AM US Open: Court 14 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110000 -0400" stop="20260825150000 -0400" channel="custom.US.ESPN.ESPN.ALT2.015">
-    <title>3:00 AM US Open: Court 11 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.ALT2.016">
-    <title>3:01 AM US Open: Court 4 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.ALT2.017">
-    <title>3:01 AM US Open: Court 8 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.ALT2.018">
-    <title>3:01 AM US Open: Court 7 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825110100 -0400" stop="20260825150100 -0400" channel="custom.US.ESPN.ESPN.ALT2.019">
-    <title>3:01 AM US Open: Court 6 / Qualifying</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.020">
-    <title>5:00 AM Little League Baseball: Little League World Series (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.021">
-    <title>5:00 AM Little League Baseball: Japan vs Baja California</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825130000 -0400" stop="20260825170000 -0400" channel="custom.US.ESPN.ESPN.ALT2.022">
-    <title>5:00 AM Soccer: Tue 8/25 - Futbol W</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.ESPN.ESPN.ALT2.023">
-    <title>6:50 AM Soccer: Valencia vs Betis</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.ESPN.ESPN.ALT2.024">
-    <title>6:50 AM Soccer: Valencia vs Betis (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.ALT2.025">
-    <title>7:00 AM NCAA Football: College Football Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.ALT2.026">
-    <title>7:00 AM Little League Baseball: Washington vs Alabama</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.ALT2.027">
-    <title>7:00 AM Soccer: Washington vs Alabama • VAL vs. BET</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825150000 -0400" stop="20260825190000 -0400" channel="custom.US.ESPN.ESPN.ALT2.028">
-    <title>7:00 AM Surfing: 2026 WSL Championship Tour: Fiji Pro</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825153000 -0400" stop="20260825193000 -0400" channel="custom.US.ESPN.ESPN.ALT2.029">
-    <title>7:30 AM This is Football: This is Football</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825160000 -0400" stop="20260825200000 -0400" channel="custom.US.ESPN.ESPN.ALT2.030">
-    <title>8:00 AM Football: NFL Live</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.US.ESPN.ESPN.ALT2.031">
-    <title>9:00 AM Little League Baseball: British Columbia vs South Korea</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825170000 -0400" stop="20260825210000 -0400" channel="custom.US.ESPN.ESPN.ALT2.032">
-    <title>9:00 AM Soccer: Tue 8/25 - ESPN FC</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825180000 -0400" stop="20260825220000 -0400" channel="custom.US.ESPN.ESPN.ALT2.033">
-    <title>10:00 AM Soccer: Generación Futbol</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.034">
-    <title>11:00 AM NCAA Football: After Further Review</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.035">
-    <title>11:00 AM NCAA Football: ACC Huddle Special: Justice Haynes</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.036">
-    <title>11:00 AM Little League Baseball: Ohio vs New Jersey</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.ESPN.ESPN.ALT2.037">
-    <title>11:00 AM Soccer: #10 Bryant vs Rhode Island</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT2.038">
-    <title>12:00 PM Soccer: Es Así y Punto</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT2.039">
-    <title>12:00 PM Soccer: Georgia St vs UAB</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT2.040">
-    <title>12:00 PM US Open: 2026 US Open: Roger Federer Regresa</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825200000 -0400" stop="20260826000000 -0400" channel="custom.US.ESPN.ESPN.ALT2.041">
-    <title>12:00 PM US Open: 2026 US Open: Roger Federer Returns</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.US.ESPN.ESPN.ALT2.042">
-    <title>1:00 PM SportsCenter Special: Fantasy Football Draft</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825211500 -0400" stop="20260826011500 -0400" channel="custom.US.ESPN.ESPN.ALT2.043">
-    <title>1:15 PM MLB: Padres Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825211500 -0400" stop="20260826011500 -0400" channel="custom.US.ESPN.ESPN.ALT2.044">
-    <title>1:15 PM MLB: Pirates Broadcast</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
-  <programme start="20260825211500 -0400" stop="20260826011500 -0400" channel="custom.US.ESPN.ESPN.ALT2.045">
-    <title>1:15 PM MLB: Pirates vs Padres (ESP)</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • US ESPN+</desc>
-  </programme>
   <programme start="20260825000000 -0400" stop="20260825040000 -0400" channel="custom.US.ESPN.ESPN.ALT2.066">
     <title>4:00 PM Soccer: Fútbol Picante</title>
     <category>Sports</category>
@@ -17294,73 +16009,43 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
-  <programme start="20260825123500 -0400" stop="20260825163500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.001">
-    <title>4:35 AM Sabah vs Hapoel Beer Sheva</title>
+  <programme start="20260826140000 -0400" stop="20260826180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.015">
+    <title>6:00 AM Tottenham vs Charlton Athletic</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825135000 -0400" stop="20260825175000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.002">
-    <title>5:50 AM Cardiff City vs Norwich City</title>
+  <programme start="20260826140000 -0400" stop="20260826180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.016">
+    <title>6:00 AM Newcastle United vs West Bromwich Albion</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.003">
-    <title>6:00 AM The Golazo Show</title>
+  <programme start="20260826140000 -0400" stop="20260826180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.017">
+    <title>6:00 AM Bradford City vs Burnley</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.004">
-    <title>6:00 AM Ipswich Town vs Leicester City</title>
+  <programme start="20260826140000 -0400" stop="20260826180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.018">
+    <title>6:00 AM Preston North End vs Everton</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.005">
-    <title>6:00 AM Birmingham City vs Brentford</title>
+  <programme start="20260826145000 -0400" stop="20260826185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.019">
+    <title>6:50 AM Viking vs GNK Dinamo</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.006">
-    <title>6:00 AM Southampton vs West Ham United</title>
+  <programme start="20260826145000 -0400" stop="20260826185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.020">
+    <title>6:50 AM Celje vs Slovan Bratislava</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825140000 -0400" stop="20260825180000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.007">
-    <title>6:00 AM Nottingham Forest vs Leeds United</title>
+  <programme start="20260826145000 -0400" stop="20260826185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.021">
+    <title>6:50 AM Lyon vs Fenerbahçe</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.008">
-    <title>6:50 AM LASK vs Celtic</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260825145000 -0400" stop="20260825185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.009">
-    <title>6:50 AM Bodø/Glimt vs NEC Nijmegen</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.010">
-    <title>11:00 AM Dana White\`s Contender Series</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.011">
-    <title>11:00 AM Dana White\`s Contender Series em Português</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260825190000 -0400" stop="20260825230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.012">
-    <title>11:00 AM Dana White\`s Contender Series en Español</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260825222500 -0400" stop="20260826022500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.013">
-    <title>2:25 PM CSD Municipal vs FC Motagua</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260825222500 -0400" stop="20260826022500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.014">
-    <title>2:25 PM CS Cartaginés vs CD FAS</title>
+  <programme start="20260826145000 -0400" stop="20260826185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.022">
+    <title>6:50 AM AEK Athens vs Levski Sofia</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
