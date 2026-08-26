@@ -6566,17 +6566,17 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 18:15 Millbridge Sprints</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 19:15 World of Outlaws Late Models Iowa</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 21:00 HLR Gold Cup Silver Dollar</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -14354,18 +14354,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260824190000 -0400" stop="20260824230000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>11:00 AM Dana White Contender Series S10W03</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260824181500 -0400" stop="20260824221500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+  <programme start="20260825181500 -0400" stop="20260825221500 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
     <title>10:15 AM Millbridge Sprints</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260824183000 -0400" stop="20260824223000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>10:30 AM Short Track Super Series Middleford</title>
+  <programme start="20260825191500 -0400" stop="20260825231500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>11:15 AM World of Outlaws Late Models Iowa</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260825210000 -0400" stop="20260826010000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>1:00 PM HLR Gold Cup Silver Dollar</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

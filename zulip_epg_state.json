@@ -234,35 +234,35 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "11:00 AM Dana White Contender Series S10W03",
+          "display_title": "10:15 AM Millbridge Sprints",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-24T19:00:00-04:00",
-          "stop": "2026-08-24T23:00:00-04:00",
-          "title": "Dana White Contender Series S10W03"
-        },
-        {
-          "display_title": "10:15 AM Millbridge Sprints",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-08-24T18:15:00-04:00",
-          "stop": "2026-08-24T22:15:00-04:00",
+          "start": "2026-08-25T18:15:00-04:00",
+          "stop": "2026-08-25T22:15:00-04:00",
           "title": "Millbridge Sprints"
         },
         {
-          "display_title": "10:30 AM Short Track Super Series Middleford",
+          "display_title": "11:15 AM World of Outlaws Late Models Iowa",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-25T19:15:00-04:00",
+          "stop": "2026-08-25T23:15:00-04:00",
+          "title": "World of Outlaws Late Models Iowa"
+        },
+        {
+          "display_title": "1:00 PM HLR Gold Cup Silver Dollar",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-08-24T18:30:00-04:00",
-          "stop": "2026-08-24T22:30:00-04:00",
-          "title": "Short Track Super Series Middleford"
+          "start": "2026-08-25T21:00:00-04:00",
+          "stop": "2026-08-26T01:00:00-04:00",
+          "title": "HLR Gold Cup Silver Dollar"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 618704039,
-      "message_timestamp": 1787623211,
+      "message_id": 619167963,
+      "message_timestamp": 1787709612,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-25T03:28:32.809137+00:00"
+      "updated_at": "2026-08-26T03:40:14.001688+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
