@@ -6216,17 +6216,17 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01: Tszyu vs Mahoney</display-name>
+    <display-name>PPV2 01: 21:00 HLR Gold Cup Race of Champions at Silver Dollar 08-26</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02:</display-name>
+    <display-name>PPV2 02: 18:15 Millbridge Speedway 08-26</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03:</display-name>
+    <display-name>PPV2 03: 19:15 Southern Iowa Speedway 08-26</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
@@ -12609,23 +12609,83 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.001">
-    <title>10:25 PM Daejeon vs Ulsan K League 2026</title>
+  <programme start="20260827070000 +1000" stop="20260827110000 +1000" channel="custom.AU.STAN.AU.STAN.003">
+    <title>9:00 AM Monterrey: Day 4 WTA 500</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.002">
-    <title>10:25 PM Anyang vs Incheon K League 2026</title>
+  <programme start="20260827090000 +1000" stop="20260827130000 +1000" channel="custom.AU.STAN.AU.STAN.004">
+    <title>11:00 AM Svitolina/Monfils vs Bencic/Cobolli Mixed Doubles Semi Final US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
-    <title>10:25 PM Daejeon vs Ulsan K League 2026</title>
+  <programme start="20260827103000 +1000" stop="20260827143000 +1000" channel="custom.AU.STAN.AU.STAN.005">
+    <title>12:30 PM Muchova/Mensik vs Andreeva/Rublev Mixed Doubles Semi Final US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260826202500 +1000" stop="20260827002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
-    <title>10:25 PM Anyang vs Incheon K League 2026</title>
+  <programme start="20260827120000 +1000" stop="20260827160000 +1000" channel="custom.AU.STAN.AU.STAN.006">
+    <title>2:00 PM TBD vs TBD Mixed Doubles Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260827170000 +1000" stop="20260827210000 +1000" channel="custom.AU.STAN.AU.STAN.007">
+    <title>7:00 PM Southland vs Hawke\`s Bay NPC Round 5 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828013500 +1000" stop="20260828053500 +1000" channel="custom.AU.STAN.AU.STAN.008">
+    <title>3:35 AM Women\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828020000 +1000" stop="20260828060000 +1000" channel="custom.AU.STAN.AU.STAN.009">
+    <title>4:00 AM League Phase Draw UEFA Champions League 2026/27</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828022000 +1000" stop="20260828062000 +1000" channel="custom.AU.STAN.AU.STAN.010">
+    <title>4:20 AM Men\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828070000 +1000" stop="20260828110000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
+    <title>9:00 AM Monterrey: Day 4 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828090000 +1000" stop="20260828130000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
+    <title>11:00 AM Svitolina/Monfils vs Bencic/Cobolli Mixed Doubles Semi Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828103000 +1000" stop="20260828143000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.005">
+    <title>12:30 PM Muchova/Mensik vs Andreeva/Rublev Mixed Doubles Semi Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828120000 +1000" stop="20260828160000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
+    <title>2:00 PM TBD vs TBD Mixed Doubles Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828170000 +1000" stop="20260828210000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.007">
+    <title>7:00 PM Southland vs Hawke\`s Bay NPC Round 5 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828013500 +1000" stop="20260828053500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.008">
+    <title>3:35 AM Women\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828020000 +1000" stop="20260828060000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.009">
+    <title>4:00 AM League Phase Draw UEFA Champions League 2026/27</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260828022000 +1000" stop="20260828062000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.010">
+    <title>4:20 AM Men\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14289,18 +14349,18 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260825213000 -0400" stop="20260826013000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
-    <title>1:30 PM Post Fight Conference DWCS</title>
+  <programme start="20260826210000 -0400" stop="20260827010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>1:00 PM HLR Gold Cup Race of Champions at Silver Dollar</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260825183000 -0400" stop="20260825223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
-    <title>10:30 AM Short Track Super Series at Middleford</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20260825181500 -0400" stop="20260825221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+  <programme start="20260826181500 -0400" stop="20260826221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
     <title>10:15 AM Millbridge Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260826191500 -0400" stop="20260826231500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+    <title>11:15 AM Southern Iowa Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
