@@ -550,13 +550,29 @@
           "start": "2026-08-26T20:25:00+10:00",
           "stop": "2026-08-27T00:25:00+10:00",
           "title": "Anyang vs Incheon K League 2026"
+        },
+        {
+          "display_title": "10:25 PM Daejeon vs Ulsan K League 2026",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-08-26T20:25:00+10:00",
+          "stop": "2026-08-27T00:25:00+10:00",
+          "title": "Daejeon vs Ulsan K League 2026"
+        },
+        {
+          "display_title": "10:25 PM Anyang vs Incheon K League 2026",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-08-26T20:25:00+10:00",
+          "stop": "2026-08-27T00:25:00+10:00",
+          "title": "Anyang vs Incheon K League 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 619236723,
-      "message_timestamp": 1787736614,
+      "message_id": 619248964,
+      "message_timestamp": 1787740213,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-26T10:18:39.739213+00:00"
+      "updated_at": "2026-08-26T11:54:08.086562+00:00"
     }
   },
   "version": 1
