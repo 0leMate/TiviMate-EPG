@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:30 AM Millbridge Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-08-25T18:30:00-04:00",
-          "stop": "2026-08-25T22:30:00-04:00",
-          "title": "Millbridge Speedway"
+          "display_title": "11:30 AM Southern Iowa Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
+          "start": "2026-08-26T19:30:00-04:00",
+          "stop": "2026-08-26T23:30:00-04:00",
+          "title": "Southern Iowa Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 619064949,
-      "message_timestamp": 1787673622,
+      "message_id": 619323016,
+      "message_timestamp": 1787760015,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-25T17:50:56.340097+00:00"
+      "updated_at": "2026-08-28T01:14:38.094379+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,175 +112,143 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM Tottenham vs Charlton Athletic",
+          "display_title": "6:20 AM Chelsea vs Luton Town",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-26T14:00:00-04:00",
-          "stop": "2026-08-26T18:00:00-04:00",
-          "title": "Tottenham vs Charlton Athletic"
+          "start": "2026-08-27T14:20:00-04:00",
+          "stop": "2026-08-27T18:20:00-04:00",
+          "title": "Chelsea vs Luton Town"
         },
         {
-          "display_title": "6:00 AM Newcastle United vs West Bromwich Albion",
+          "display_title": "6:50 AM Fulham vs AFC Wimbledon",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-26T14:00:00-04:00",
-          "stop": "2026-08-26T18:00:00-04:00",
-          "title": "Newcastle United vs West Bromwich Albion"
+          "start": "2026-08-27T14:50:00-04:00",
+          "stop": "2026-08-27T18:50:00-04:00",
+          "title": "Fulham vs AFC Wimbledon"
         },
         {
-          "display_title": "6:00 AM Preston North End vs Everton",
+          "display_title": "2:20 PM Deportivo Mixco vs Alianza FC \\(PAN\\)",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-26T14:00:00-04:00",
-          "stop": "2026-08-26T18:00:00-04:00",
-          "title": "Preston North End vs Everton"
+          "start": "2026-08-27T22:20:00-04:00",
+          "stop": "2026-08-28T02:20:00-04:00",
+          "title": "Deportivo Mixco vs Alianza FC \\(PAN\\)"
         },
         {
-          "display_title": "6:00 AM Bradford City vs Burnley",
+          "display_title": "2:20 PM Club Olimpia vs Saprissa",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-26T14:00:00-04:00",
-          "stop": "2026-08-26T18:00:00-04:00",
-          "title": "Bradford City vs Burnley"
+          "start": "2026-08-27T22:20:00-04:00",
+          "stop": "2026-08-28T02:20:00-04:00",
+          "title": "Club Olimpia vs Saprissa"
         },
         {
-          "display_title": "6:50 AM Lyon vs Fenerbahçe",
+          "display_title": "3:30 PM UFC Fight Night Preview Show: Nurmagomedov vs Song",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-08-26T14:50:00-04:00",
-          "stop": "2026-08-26T18:50:00-04:00",
-          "title": "Lyon vs Fenerbahçe"
-        },
-        {
-          "display_title": "6:50 AM Celje vs Slovan Bratislava",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-08-26T14:50:00-04:00",
-          "stop": "2026-08-26T18:50:00-04:00",
-          "title": "Celje vs Slovan Bratislava"
-        },
-        {
-          "display_title": "6:50 AM AEK Athens vs Levski Sofia",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-08-26T14:50:00-04:00",
-          "stop": "2026-08-26T18:50:00-04:00",
-          "title": "AEK Athens vs Levski Sofia"
-        },
-        {
-          "display_title": "6:50 AM Viking vs GNK Dinamo",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-08-26T14:50:00-04:00",
-          "stop": "2026-08-26T18:50:00-04:00",
-          "title": "Viking vs GNK Dinamo"
-        },
-        {
-          "display_title": "12:25 PM CS Herediano vs Antigua GFC",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-08-26T20:25:00-04:00",
-          "stop": "2026-08-27T00:25:00-04:00",
-          "title": "CS Herediano vs Antigua GFC"
-        },
-        {
-          "display_title": "12:25 PM CD Marathon vs Real Estelí",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-08-26T20:25:00-04:00",
-          "stop": "2026-08-27T00:25:00-04:00",
-          "title": "CD Marathon vs Real Estelí"
-        },
-        {
-          "display_title": "2:25 PM Club Xelajú vs LA Firpo",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-08-26T22:25:00-04:00",
-          "stop": "2026-08-27T02:25:00-04:00",
-          "title": "Club Xelajú vs LA Firpo"
-        },
-        {
-          "display_title": "2:25 PM LD Alajuelense vs Plaza Amador",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
-          "start": "2026-08-26T22:25:00-04:00",
-          "stop": "2026-08-27T02:25:00-04:00",
-          "title": "LD Alajuelense vs Plaza Amador"
+          "start": "2026-08-27T23:30:00-04:00",
+          "stop": "2026-08-28T03:30:00-04:00",
+          "title": "UFC Fight Night Preview Show: Nurmagomedov vs Song"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619223840,
-      "message_timestamp": 1787733028,
+      "message_id": 619577274,
+      "message_timestamp": 1787844619,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-26T10:18:39.452335+00:00"
+      "updated_at": "2026-08-28T01:14:38.200663+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "10:15 AM Millbridge Sprints",
+          "display_title": "8:00 AM PDRA Drag Wars",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-25T18:15:00-04:00",
-          "stop": "2026-08-25T22:15:00-04:00",
-          "title": "Millbridge Sprints"
+          "start": "2026-08-27T16:00:00-04:00",
+          "stop": "2026-08-27T20:00:00-04:00",
+          "title": "PDRA Drag Wars"
         },
         {
-          "display_title": "11:15 AM World of Outlaws Late Models Iowa",
+          "display_title": "10:15 AM USAC Car Smackdown Kokomo",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-08-25T19:15:00-04:00",
-          "stop": "2026-08-25T23:15:00-04:00",
-          "title": "World of Outlaws Late Models Iowa"
+          "start": "2026-08-27T18:15:00-04:00",
+          "stop": "2026-08-27T22:15:00-04:00",
+          "title": "USAC Car Smackdown Kokomo"
         },
         {
-          "display_title": "1:00 PM HLR Gold Cup Silver Dollar",
+          "display_title": "11:00 AM CANCELLED Run-What-U-Brung Thunder Road",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-08-25T21:00:00-04:00",
-          "stop": "2026-08-26T01:00:00-04:00",
-          "title": "HLR Gold Cup Silver Dollar"
+          "start": "2026-08-27T19:00:00-04:00",
+          "stop": "2026-08-27T23:00:00-04:00",
+          "title": "CANCELLED Run-What-U-Brung Thunder Road"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 619167963,
-      "message_timestamp": 1787709612,
+      "message_id": 619681549,
+      "message_timestamp": 1787878818,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-26T03:40:14.001688+00:00"
+      "updated_at": "2026-08-28T01:14:38.294667+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "1:00 PM HLR Gold Cup Race of Champions at Silver Dollar",
+          "display_title": "1:30 PM HLR Gold Cup Race of Champions at Silver Dollar",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-26T21:00:00-04:00",
-          "stop": "2026-08-27T01:00:00-04:00",
+          "start": "2026-08-27T21:30:00-04:00",
+          "stop": "2026-08-28T01:30:00-04:00",
           "title": "HLR Gold Cup Race of Champions at Silver Dollar"
         },
         {
-          "display_title": "10:15 AM Millbridge Speedway",
+          "display_title": "8:00 AM PDRA Drag Wars",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-26T18:15:00-04:00",
-          "stop": "2026-08-26T22:15:00-04:00",
-          "title": "Millbridge Speedway"
+          "start": "2026-08-27T16:00:00-04:00",
+          "stop": "2026-08-27T20:00:00-04:00",
+          "title": "PDRA Drag Wars"
         },
         {
-          "display_title": "11:15 AM Southern Iowa Speedway",
+          "display_title": "10:15 AM USAC Sprint Car Smackdown at Kokomo",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-08-26T19:15:00-04:00",
-          "stop": "2026-08-26T23:15:00-04:00",
-          "title": "Southern Iowa Speedway"
+          "start": "2026-08-27T18:15:00-04:00",
+          "stop": "2026-08-27T22:15:00-04:00",
+          "title": "USAC Sprint Car Smackdown at Kokomo"
+        },
+        {
+          "display_title": "11:00 AM Run What U Brung at Thunder Road",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-08-27T19:00:00-04:00",
+          "stop": "2026-08-27T23:00:00-04:00",
+          "title": "Run What U Brung at Thunder Road"
+        },
+        {
+          "display_title": "11:00 AM HAW The Fallen",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-08-27T19:00:00-04:00",
+          "stop": "2026-08-27T23:00:00-04:00",
+          "title": "HAW The Fallen"
+        },
+        {
+          "display_title": "1:30 PM BFL 88",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-08-27T21:30:00-04:00",
+          "stop": "2026-08-28T01:30:00-04:00",
+          "title": "BFL 88"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 619265512,
-      "message_timestamp": 1787745618,
+      "message_id": 619521875,
+      "message_timestamp": 1787832012,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-26T14:31:25.218270+00:00"
+      "updated_at": "2026-08-28T01:14:38.434687+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -536,139 +504,19 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "9:00 AM Monterrey: Day 4 WTA 500",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-08-27T07:00:00+10:00",
-          "stop": "2026-08-27T11:00:00+10:00",
-          "title": "Monterrey: Day 4 WTA 500"
-        },
-        {
-          "display_title": "11:00 AM Svitolina/Monfils vs Bencic/Cobolli Mixed Doubles Semi Final US Open 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-08-27T09:00:00+10:00",
-          "stop": "2026-08-27T13:00:00+10:00",
-          "title": "Svitolina/Monfils vs Bencic/Cobolli Mixed Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "12:30 PM Muchova/Mensik vs Andreeva/Rublev Mixed Doubles Semi Final US Open 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-08-27T10:30:00+10:00",
-          "stop": "2026-08-27T14:30:00+10:00",
-          "title": "Muchova/Mensik vs Andreeva/Rublev Mixed Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "2:00 PM TBD vs TBD Mixed Doubles Final US Open 2026",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-08-27T12:00:00+10:00",
-          "stop": "2026-08-27T16:00:00+10:00",
-          "title": "TBD vs TBD Mixed Doubles Final US Open 2026"
-        },
-        {
-          "display_title": "7:00 PM Southland vs Hawke\\`s Bay NPC Round 5 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-08-27T17:00:00+10:00",
-          "stop": "2026-08-27T21:00:00+10:00",
-          "title": "Southland vs Hawke\\`s Bay NPC Round 5 2026"
-        },
-        {
-          "display_title": "3:35 AM Women\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-08-28T01:35:00+10:00",
-          "stop": "2026-08-28T05:35:00+10:00",
-          "title": "Women\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026"
-        },
-        {
-          "display_title": "4:00 AM League Phase Draw UEFA Champions League 2026/27",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-08-28T02:00:00+10:00",
-          "stop": "2026-08-28T06:00:00+10:00",
-          "title": "League Phase Draw UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "4:20 AM Men\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-08-28T02:20:00+10:00",
-          "stop": "2026-08-28T06:20:00+10:00",
-          "title": "Men\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026"
-        },
-        {
-          "display_title": "9:00 AM Monterrey: Day 4 WTA 500",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-08-28T07:00:00+10:00",
-          "stop": "2026-08-28T11:00:00+10:00",
-          "title": "Monterrey: Day 4 WTA 500"
-        },
-        {
-          "display_title": "11:00 AM Svitolina/Monfils vs Bencic/Cobolli Mixed Doubles Semi Final US Open 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-08-28T09:00:00+10:00",
-          "stop": "2026-08-28T13:00:00+10:00",
-          "title": "Svitolina/Monfils vs Bencic/Cobolli Mixed Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "12:30 PM Muchova/Mensik vs Andreeva/Rublev Mixed Doubles Semi Final US Open 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-08-28T10:30:00+10:00",
-          "stop": "2026-08-28T14:30:00+10:00",
-          "title": "Muchova/Mensik vs Andreeva/Rublev Mixed Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "2:00 PM TBD vs TBD Mixed Doubles Final US Open 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-08-28T12:00:00+10:00",
-          "stop": "2026-08-28T16:00:00+10:00",
-          "title": "TBD vs TBD Mixed Doubles Final US Open 2026"
-        },
-        {
-          "display_title": "7:00 PM Southland vs Hawke\\`s Bay NPC Round 5 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-08-28T17:00:00+10:00",
-          "stop": "2026-08-28T21:00:00+10:00",
-          "title": "Southland vs Hawke\\`s Bay NPC Round 5 2026"
-        },
-        {
-          "display_title": "3:35 AM Women\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-08-28T01:35:00+10:00",
-          "stop": "2026-08-28T05:35:00+10:00",
-          "title": "Women\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026"
-        },
-        {
-          "display_title": "4:00 AM League Phase Draw UEFA Champions League 2026/27",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-08-28T02:00:00+10:00",
-          "stop": "2026-08-28T06:00:00+10:00",
-          "title": "League Phase Draw UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "4:20 AM Men\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-08-28T02:20:00+10:00",
-          "stop": "2026-08-28T06:20:00+10:00",
-          "title": "Men\\`s Elite CrossCountry Short Track UCI Mountain Bike World Championships 2026"
+          "display_title": "6:30 AM Crystal Palace vs Manchester City Premier League Matchweek 2 2026/2027",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-08-29T04:30:00+10:00",
+          "stop": "2026-08-29T08:30:00+10:00",
+          "title": "Crystal Palace vs Manchester City Premier League Matchweek 2 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 619293286,
-      "message_timestamp": 1787752820,
+      "message_id": 619552492,
+      "message_timestamp": 1787839221,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-26T14:31:25.325115+00:00"
+      "updated_at": "2026-08-28T01:14:38.578098+00:00"
     }
   },
   "version": 1
