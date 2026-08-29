@@ -201,44 +201,92 @@
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619910079,
-      "message_timestamp": 1787959824,
+      "message_id": 619927183,
+      "message_timestamp": 1787970624,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T00:30:41.291741+00:00"
+      "updated_at": "2026-08-29T02:30:37.681202+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "7:00 PM /6am UFC Fight Night Nurmagomedov vs Song",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-08-28T03:00:00-04:00",
+          "stop": "2026-08-28T07:00:00-04:00",
+          "title": "/6am UFC Fight Night Nurmagomedov vs Song"
+        },
+        {
+          "display_title": "4:00 AM MVPW 06 Mayer vs Cameron",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-28T12:00:00-04:00",
+          "stop": "2026-08-28T16:00:00-04:00",
+          "title": "MVPW 06 Mayer vs Cameron"
+        },
+        {
+          "display_title": "10:00 AM BKFC 92 Stewart vs Gigliotti",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-08-28T18:00:00-04:00",
+          "stop": "2026-08-28T22:00:00-04:00",
+          "title": "BKFC 92 Stewart vs Gigliotti"
+        },
+        {
+          "display_title": "10:00 AM Perry vs Jenkins",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-08-28T18:00:00-04:00",
+          "stop": "2026-08-28T22:00:00-04:00",
+          "title": "Perry vs Jenkins"
+        },
+        {
+          "display_title": "5:00 PM No Turning Back 2026",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-08-29T01:00:00-04:00",
+          "stop": "2026-08-29T05:00:00-04:00",
+          "title": "No Turning Back 2026"
+        },
+        {
+          "display_title": "3:00 AM /2pm Moses vs Hrgovic",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-08-29T11:00:00-04:00",
+          "stop": "2026-08-29T15:00:00-04:00",
+          "title": "/2pm Moses vs Hrgovic"
+        },
+        {
           "display_title": "10:00 AM CANCELLED Volusia Sprint Cars",
           "slot": "PPV 10",
           "slot_norm": "PPV 10",
-          "start": "2026-08-28T18:00:00-04:00",
-          "stop": "2026-08-28T22:00:00-04:00",
+          "start": "2026-08-29T18:00:00-04:00",
+          "stop": "2026-08-29T22:00:00-04:00",
           "title": "CANCELLED Volusia Sprint Cars"
         },
         {
           "display_title": "11:15 AM World of Outlaws Sprint Cars River Cities",
           "slot": "PPV 12",
           "slot_norm": "PPV 12",
-          "start": "2026-08-28T19:15:00-04:00",
-          "stop": "2026-08-28T23:15:00-04:00",
+          "start": "2026-08-29T19:15:00-04:00",
+          "stop": "2026-08-29T23:15:00-04:00",
           "title": "World of Outlaws Sprint Cars River Cities"
         },
         {
           "display_title": "12:15 PM erican Sprint Car Series Big Sky",
           "slot": "PPV 20",
           "slot_norm": "PPV 20",
-          "start": "2026-08-28T20:15:00-04:00",
-          "stop": "2026-08-29T00:15:00-04:00",
+          "start": "2026-08-29T20:15:00-04:00",
+          "stop": "2026-08-30T00:15:00-04:00",
           "title": "erican Sprint Car Series Big Sky"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 619912793,
-      "message_timestamp": 1787961622,
+      "message_id": 619927174,
+      "message_timestamp": 1787970620,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T00:30:41.371036+00:00"
+      "updated_at": "2026-08-29T02:30:38.046824+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
