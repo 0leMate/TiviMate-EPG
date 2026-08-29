@@ -201,220 +201,44 @@
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619766777,
-      "message_timestamp": 1787914847,
+      "message_id": 619910079,
+      "message_timestamp": 1787959824,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-28T21:55:08.393818+00:00"
+      "updated_at": "2026-08-29T00:30:41.291741+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "1:30 AM ONE Friday Fights 168 Wuttikrai vs Habibpour",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-08-27T09:30:00-04:00",
-          "stop": "2026-08-27T13:30:00-04:00",
-          "title": "ONE Friday Fights 168 Wuttikrai vs Habibpour"
-        },
-        {
-          "display_title": "9:00 PM Road to UFC 55 Semifinals",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-08-27T05:00:00-04:00",
-          "stop": "2026-08-27T09:00:00-04:00",
-          "title": "Road to UFC 55 Semifinals"
-        },
-        {
-          "display_title": "11:00 AM Shooto Brazil 139",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-08-27T19:00:00-04:00",
-          "stop": "2026-08-27T23:00:00-04:00",
-          "title": "Shooto Brazil 139"
-        },
-        {
-          "display_title": "11:00 AM Brotherly Love Boxing Price vs Guevara",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-08-27T19:00:00-04:00",
-          "stop": "2026-08-27T23:00:00-04:00",
-          "title": "Brotherly Love Boxing Price vs Guevara"
-        },
-        {
-          "display_title": "1:00 PM 7:30/ Sanders vs Luis Gomez \\(En Esnaol\\)",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-08-27T21:00:00-04:00",
-          "stop": "2026-08-28T01:00:00-04:00",
-          "title": "7:30/ Sanders vs Luis Gomez \\(En Esnaol\\)"
-        },
-        {
-          "display_title": "12:00 PM Marksman vs Barreto",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-08-27T20:00:00-04:00",
-          "stop": "2026-08-28T00:00:00-04:00",
-          "title": "Marksman vs Barreto"
-        },
-        {
-          "display_title": "12:30 AM PDRA Drag Wars",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-08-28T08:30:00-04:00",
-          "stop": "2026-08-28T12:30:00-04:00",
-          "title": "PDRA Drag Wars"
-        },
-        {
-          "display_title": "9:15 AM NWMT Stafford",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-08-28T17:15:00-04:00",
-          "stop": "2026-08-28T21:15:00-04:00",
-          "title": "NWMT Stafford"
-        },
-        {
-          "display_title": "9:45 AM Lucas Oil Late Models Port Royal",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-08-28T17:45:00-04:00",
-          "stop": "2026-08-28T21:45:00-04:00",
-          "title": "Lucas Oil Late Models Port Royal"
-        },
-        {
-          "display_title": "10:00 AM Volusia Sprint Cars",
+          "display_title": "10:00 AM CANCELLED Volusia Sprint Cars",
           "slot": "PPV 10",
           "slot_norm": "PPV 10",
           "start": "2026-08-28T18:00:00-04:00",
           "stop": "2026-08-28T22:00:00-04:00",
-          "title": "Volusia Sprint Cars"
+          "title": "CANCELLED Volusia Sprint Cars"
         },
         {
-          "display_title": "10:00 AM 500 Sprint Car Tour Berlin",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-08-28T18:00:00-04:00",
-          "stop": "2026-08-28T22:00:00-04:00",
-          "title": "500 Sprint Car Tour Berlin"
-        },
-        {
-          "display_title": "10:15 AM World of Outlaws Sprint Cars River Cities",
+          "display_title": "11:15 AM World of Outlaws Sprint Cars River Cities",
           "slot": "PPV 12",
           "slot_norm": "PPV 12",
-          "start": "2026-08-28T18:15:00-04:00",
-          "stop": "2026-08-28T22:15:00-04:00",
+          "start": "2026-08-28T19:15:00-04:00",
+          "stop": "2026-08-28T23:15:00-04:00",
           "title": "World of Outlaws Sprint Cars River Cities"
         },
         {
-          "display_title": "10:15 AM USAC Sprint Car Smackdown Kokomo",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-08-28T18:15:00-04:00",
-          "stop": "2026-08-28T22:15:00-04:00",
-          "title": "USAC Sprint Car Smackdown Kokomo"
-        },
-        {
-          "display_title": "10:15 AM Season Championship Utica-Rome",
-          "slot": "PPV 14",
-          "slot_norm": "PPV 14",
-          "start": "2026-08-28T18:15:00-04:00",
-          "stop": "2026-08-28T22:15:00-04:00",
-          "title": "Season Championship Utica-Rome"
-        },
-        {
-          "display_title": "10:30 AM Attica Sprints",
-          "slot": "PPV 15",
-          "slot_norm": "PPV 15",
-          "start": "2026-08-28T18:30:00-04:00",
-          "stop": "2026-08-28T22:30:00-04:00",
-          "title": "Attica Sprints"
-        },
-        {
-          "display_title": "10:30 AM NAPA All Star Sprints Freedom",
-          "slot": "PPV 16",
-          "slot_norm": "PPV 16",
-          "start": "2026-08-28T18:30:00-04:00",
-          "stop": "2026-08-28T22:30:00-04:00",
-          "title": "NAPA All Star Sprints Freedom"
-        },
-        {
-          "display_title": "10:45 AM KKM Challenge Series U.S. 24",
-          "slot": "PPV 17",
-          "slot_norm": "PPV 17",
-          "start": "2026-08-28T18:45:00-04:00",
-          "stop": "2026-08-28T22:45:00-04:00",
-          "title": "KKM Challenge Series U.S. 24"
-        },
-        {
-          "display_title": "11:00 AM Albany Saratoga 358 Modifieds",
-          "slot": "PPV 18",
-          "slot_norm": "PPV 18",
-          "start": "2026-08-28T19:00:00-04:00",
-          "stop": "2026-08-28T23:00:00-04:00",
-          "title": "Albany Saratoga 358 Modifieds"
-        },
-        {
-          "display_title": "11:00 AM Willims Grove Sprints",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-08-28T19:00:00-04:00",
-          "stop": "2026-08-28T23:00:00-04:00",
-          "title": "Willims Grove Sprints"
-        },
-        {
-          "display_title": "11:15 AM erican Sprint Car Series Big Sky",
+          "display_title": "12:15 PM erican Sprint Car Series Big Sky",
           "slot": "PPV 20",
           "slot_norm": "PPV 20",
-          "start": "2026-08-28T19:15:00-04:00",
-          "stop": "2026-08-28T23:15:00-04:00",
+          "start": "2026-08-28T20:15:00-04:00",
+          "stop": "2026-08-29T00:15:00-04:00",
           "title": "erican Sprint Car Series Big Sky"
-        },
-        {
-          "display_title": "11:15 AM Jacksonville Late Models",
-          "slot": "PPV 21",
-          "slot_norm": "PPV 21",
-          "start": "2026-08-28T19:15:00-04:00",
-          "stop": "2026-08-28T23:15:00-04:00",
-          "title": "Jacksonville Late Models"
-        },
-        {
-          "display_title": "11:15 AM World of Outlaws Late Models Adams",
-          "slot": "PPV 22",
-          "slot_norm": "PPV 22",
-          "start": "2026-08-28T19:15:00-04:00",
-          "stop": "2026-08-28T23:15:00-04:00",
-          "title": "World of Outlaws Late Models Adams"
-        },
-        {
-          "display_title": "11:30 AM RoC Dirt Mods Ohsweken",
-          "slot": "PPV 23",
-          "slot_norm": "PPV 23",
-          "start": "2026-08-28T19:30:00-04:00",
-          "stop": "2026-08-28T23:30:00-04:00",
-          "title": "RoC Dirt Mods Ohsweken"
-        },
-        {
-          "display_title": "11:45 AM USAC MRA Weld Memorial Lakeside",
-          "slot": "PPV 24",
-          "slot_norm": "PPV 24",
-          "start": "2026-08-28T19:45:00-04:00",
-          "stop": "2026-08-28T23:45:00-04:00",
-          "title": "USAC MRA Weld Memorial Lakeside"
-        },
-        {
-          "display_title": "11:45 AM IMCA Weekly Racing Marshalltown",
-          "slot": "PPV 25",
-          "slot_norm": "PPV 25",
-          "start": "2026-08-28T19:45:00-04:00",
-          "stop": "2026-08-28T23:45:00-04:00",
-          "title": "IMCA Weekly Racing Marshalltown"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 619697731,
-      "message_timestamp": 1787887812,
+      "message_id": 619912793,
+      "message_timestamp": 1787961622,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-28T21:55:08.471698+00:00"
+      "updated_at": "2026-08-29T00:30:41.371036+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -524,12 +348,12 @@
           "title": "MARS Late Models at Benton"
         },
         {
-          "display_title": "10:00 AM Volusia Speedway Park",
+          "display_title": "10:00 AM CANCELLED Volusia Speedway Park",
           "slot": "PPV2 16",
           "slot_norm": "PPV2 16",
           "start": "2026-08-28T18:00:00-04:00",
           "stop": "2026-08-28T22:00:00-04:00",
-          "title": "Volusia Speedway Park"
+          "title": "CANCELLED Volusia Speedway Park"
         },
         {
           "display_title": "10:30 AM Attica Raceway Park",
@@ -589,10 +413,10 @@
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 619778771,
-      "message_timestamp": 1787918414,
+      "message_id": 619910068,
+      "message_timestamp": 1787959821,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-28T21:55:08.596966+00:00"
+      "updated_at": "2026-08-29T00:30:41.468066+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
