@@ -201,10 +201,10 @@
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619935498,
-      "message_timestamp": 1787976045,
+      "message_id": 619944525,
+      "message_timestamp": 1787983246,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T04:30:56.503577+00:00"
+      "updated_at": "2026-08-29T06:31:00.187235+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -792,203 +792,43 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "7:00 PM Manawatū vs North Harbour NPC Round 5 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-08-30T17:00:00+10:00",
-          "stop": "2026-08-30T21:00:00+10:00",
-          "title": "Manawatū vs North Harbour NPC Round 5 2026"
+          "display_title": "11:00 PM League Phase Draw UEFA Europa/Conference League 2026/27",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-08-28T21:00:00+10:00",
+          "stop": "2026-08-29T01:00:00+10:00",
+          "title": "League Phase Draw UEFA Europa/Conference League 2026/27"
         },
         {
-          "display_title": "7:25 PM Cottesloe vs Wanneroo WA Premier Grade Grand Final 2026",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-08-30T17:25:00+10:00",
-          "stop": "2026-08-30T21:25:00+10:00",
-          "title": "Cottesloe vs Wanneroo WA Premier Grade Grand Final 2026"
+          "display_title": "3:00 AM Lions vs Stormers Currie Cup Round 7 2026",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-08-29T01:00:00+10:00",
+          "stop": "2026-08-29T05:00:00+10:00",
+          "title": "Lions vs Stormers Currie Cup Round 7 2026"
         },
         {
-          "display_title": "8:30 PM China Day 2: Night Session UIPM Pentathlon World Championships 2026",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-08-30T18:30:00+10:00",
-          "stop": "2026-08-30T22:30:00+10:00",
-          "title": "China Day 2: Night Session UIPM Pentathlon World Championships 2026"
+          "display_title": "5:10 AM Sharks vs Bulls Currie Cup Round 7 2026",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-08-29T03:10:00+10:00",
+          "stop": "2026-08-29T07:10:00+10:00",
+          "title": "Sharks vs Bulls Currie Cup Round 7 2026"
         },
         {
-          "display_title": "8:55 PM Gamba Osaka vs Sanfrecce Hiroshima J.League 2026",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-08-30T18:55:00+10:00",
-          "stop": "2026-08-30T22:55:00+10:00",
-          "title": "Gamba Osaka vs Sanfrecce Hiroshima J.League 2026"
-        },
-        {
-          "display_title": "9:55 PM Kawasaki Frontale vs Chiba J.League 2026",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-08-30T19:55:00+10:00",
-          "stop": "2026-08-30T23:55:00+10:00",
-          "title": "Kawasaki Frontale vs Chiba J.League 2026"
-        },
-        {
-          "display_title": "9:55 PM Urawa Red Diamonds vs Yokohama F. Marinos J.League 2026",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-08-30T19:55:00+10:00",
-          "stop": "2026-08-30T23:55:00+10:00",
-          "title": "Urawa Red Diamonds vs Yokohama F. Marinos J.League 2026"
-        },
-        {
-          "display_title": "9:55 PM Vissel Kobe vs Cerezo Osaka J.League 2026",
-          "slot": "AU STAN ALT 021",
-          "slot_norm": "AU STAN ALT 21",
-          "start": "2026-08-30T19:55:00+10:00",
-          "stop": "2026-08-30T23:55:00+10:00",
-          "title": "Vissel Kobe vs Cerezo Osaka J.League 2026"
-        },
-        {
-          "display_title": "10:25 PM Bucheon vs Anyang K League 2026",
-          "slot": "AU STAN ALT 022",
-          "slot_norm": "AU STAN ALT 22",
-          "start": "2026-08-30T20:25:00+10:00",
-          "stop": "2026-08-31T00:25:00+10:00",
-          "title": "Bucheon vs Anyang K League 2026"
-        },
-        {
-          "display_title": "10:25 PM Ulsan vs Gimcheon K League 2026",
-          "slot": "AU STAN ALT 023",
-          "slot_norm": "AU STAN ALT 23",
-          "start": "2026-08-30T20:25:00+10:00",
-          "stop": "2026-08-31T00:25:00+10:00",
-          "title": "Ulsan vs Gimcheon K League 2026"
-        },
-        {
-          "display_title": "10:30 PM Liverpool vs Nottingham Forest Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN ALT 024",
-          "slot_norm": "AU STAN ALT 24",
-          "start": "2026-08-30T20:30:00+10:00",
-          "stop": "2026-08-31T00:30:00+10:00",
-          "title": "Liverpool vs Nottingham Forest Premier League Matchweek 2 2026/2027"
-        },
-        {
-          "display_title": "11:05 PM Women\\`s Elite Downhill UCI Mountain Bike World Championships 2026",
-          "slot": "AU STAN ALT 025",
-          "slot_norm": "AU STAN ALT 25",
-          "start": "2026-08-30T21:05:00+10:00",
-          "stop": "2026-08-31T01:05:00+10:00",
-          "title": "Women\\`s Elite Downhill UCI Mountain Bike World Championships 2026"
-        },
-        {
-          "display_title": "11:20 PM • Liverpool vs Nottingham Forest Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN ALT 026",
-          "slot_norm": "AU STAN ALT 26",
-          "start": "2026-08-30T21:20:00+10:00",
-          "stop": "2026-08-31T01:20:00+10:00",
-          "title": "• Liverpool vs Nottingham Forest Premier League Matchweek 2 2026/2027"
-        },
-        {
-          "display_title": "11:55 PM Pumas vs Cheetahs Currie Cup Round 7 2026",
-          "slot": "AU STAN ALT 027",
-          "slot_norm": "AU STAN ALT 27",
-          "start": "2026-08-30T21:55:00+10:00",
-          "stop": "2026-08-31T01:55:00+10:00",
-          "title": "Pumas vs Cheetahs Currie Cup Round 7 2026"
-        },
-        {
-          "display_title": "1:00 AM SS11 Hohenau 1 WRC Paraguay 2026",
-          "slot": "AU STAN ALT 028",
-          "slot_norm": "AU STAN ALT 28",
-          "start": "2026-08-30T23:00:00+10:00",
-          "stop": "2026-08-31T03:00:00+10:00",
-          "title": "SS11 Hohenau 1 WRC Paraguay 2026"
-        },
-        {
-          "display_title": "1:30 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Second Test 2026",
-          "slot": "AU STAN ALT 029",
-          "slot_norm": "AU STAN ALT 29",
-          "start": "2026-08-30T23:30:00+10:00",
-          "stop": "2026-08-31T03:30:00+10:00",
-          "title": "South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Second Test 2026"
-        },
-        {
-          "display_title": "1:45 AM Men\\`s Elite Downhill UCI Mountain Bike World Championships 2026",
-          "slot": "AU STAN ALT 030",
-          "slot_norm": "AU STAN ALT 30",
-          "start": "2026-08-30T23:45:00+10:00",
-          "stop": "2026-08-31T03:45:00+10:00",
-          "title": "Men\\`s Elite Downhill UCI Mountain Bike World Championships 2026"
-        },
-        {
-          "display_title": "1:50 AM Coventry City vs Hull City Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN ALT 031",
-          "slot_norm": "AU STAN ALT 31",
-          "start": "2026-08-30T23:50:00+10:00",
-          "stop": "2026-08-31T03:50:00+10:00",
-          "title": "Coventry City vs Hull City Premier League Matchweek 2 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Bournemouth vs Everton Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN ALT 032",
-          "slot_norm": "AU STAN ALT 32",
-          "start": "2026-08-30T23:50:00+10:00",
-          "stop": "2026-08-31T03:50:00+10:00",
-          "title": "Bournemouth vs Everton Premier League Matchweek 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Second Test 2026",
-          "slot": "AU STAN ALT 033",
-          "slot_norm": "AU STAN ALT 33",
-          "start": "2026-08-30T00:00:00+10:00",
-          "stop": "2026-08-30T04:00:00+10:00",
-          "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Second Test 2026"
-        },
-        {
-          "display_title": "3:00 AM Qualifying: Grand Prix of Milwaukee Indycar 2026",
-          "slot": "AU STAN ALT 034",
-          "slot_norm": "AU STAN ALT 34",
-          "start": "2026-08-30T01:00:00+10:00",
-          "stop": "2026-08-30T05:00:00+10:00",
-          "title": "Qualifying: Grand Prix of Milwaukee Indycar 2026"
-        },
-        {
-          "display_title": "4:20 AM Tottenham Hotspur vs Newcastle United Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN ALT 035",
-          "slot_norm": "AU STAN ALT 35",
-          "start": "2026-08-30T02:20:00+10:00",
-          "stop": "2026-08-30T06:20:00+10:00",
-          "title": "Tottenham Hotspur vs Newcastle United Premier League Matchweek 2 2026/2027"
-        },
-        {
-          "display_title": "6:30 AM Argentina vs Australia Men\\`s International 2026",
-          "slot": "AU STAN ALT 036",
-          "slot_norm": "AU STAN ALT 36",
-          "start": "2026-08-30T04:30:00+10:00",
-          "stop": "2026-08-30T08:30:00+10:00",
-          "title": "Argentina vs Australia Men\\`s International 2026"
-        },
-        {
-          "display_title": "6:30 AM Race 1: Grand Prix of Milwaukee Indycar 2026",
-          "slot": "AU STAN ALT 037",
-          "slot_norm": "AU STAN ALT 37",
-          "start": "2026-08-30T04:30:00+10:00",
-          "stop": "2026-08-30T08:30:00+10:00",
-          "title": "Race 1: Grand Prix of Milwaukee Indycar 2026"
-        },
-        {
-          "display_title": "7:00 AM PL Saturday Wrap: Matchweek 2 Aug 30",
-          "slot": "AU STAN ALT 038",
-          "slot_norm": "AU STAN ALT 38",
-          "start": "2026-08-30T05:00:00+10:00",
-          "stop": "2026-08-30T09:00:00+10:00",
-          "title": "PL Saturday Wrap: Matchweek 2 Aug 30"
+          "display_title": "6:30 AM Crystal Palace vs Manchester City Premier League Matchweek 2 2026/2027",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-08-29T04:30:00+10:00",
+          "stop": "2026-08-29T08:30:00+10:00",
+          "title": "Crystal Palace vs Manchester City Premier League Matchweek 2 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 619805817,
-      "message_timestamp": 1787925626,
+      "message_id": 619939975,
+      "message_timestamp": 1787979637,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-28T21:55:08.715423+00:00"
+      "updated_at": "2026-08-29T06:31:01.117844+00:00"
     }
   },
   "version": 1
