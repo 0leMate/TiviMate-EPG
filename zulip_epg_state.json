@@ -153,58 +153,58 @@
       "events": [
         {
           "display_title": "6:25 AM Dunfermline Athletic vs Raith Rovers",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-28T14:25:00-04:00",
           "stop": "2026-08-28T18:25:00-04:00",
           "title": "Dunfermline Athletic vs Raith Rovers"
         },
         {
           "display_title": "6:35 AM Milan vs Venezia",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-28T14:35:00-04:00",
           "stop": "2026-08-28T18:35:00-04:00",
           "title": "Milan vs Venezia"
         },
         {
           "display_title": "6:50 AM Wrexham vs Birmingham City",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-28T14:50:00-04:00",
           "stop": "2026-08-28T18:50:00-04:00",
           "title": "Wrexham vs Birmingham City"
         },
         {
           "display_title": "6:00 PM UFC Fight Night: English",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-29T02:00:00-04:00",
           "stop": "2026-08-29T06:00:00-04:00",
           "title": "UFC Fight Night: English"
         },
         {
           "display_title": "6:00 PM UFC Fight Night em Português",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-08-29T02:00:00-04:00",
           "stop": "2026-08-29T06:00:00-04:00",
           "title": "UFC Fight Night em Português"
         },
         {
           "display_title": "6:00 PM UFC Fight Night en Español",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-08-29T02:00:00-04:00",
           "stop": "2026-08-29T06:00:00-04:00",
           "title": "UFC Fight Night en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619944525,
-      "message_timestamp": 1787983246,
+      "message_id": 619949240,
+      "message_timestamp": 1787986840,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T06:31:00.187235+00:00"
+      "updated_at": "2026-08-29T08:30:42.597072+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
