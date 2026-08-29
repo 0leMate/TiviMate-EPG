@@ -6666,7 +6666,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.21">
     <display-name>PPV 21</display-name>
-    <display-name>PPV 21: 18:00 Cedar Lake Late Models</display-name>
+    <display-name>PPV 21: CANCELLED Cedar Lake Late Models</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.22">
@@ -14476,11 +14476,6 @@
   </programme>
   <programme start="20260829180000 -0400" stop="20260829220000 -0400" channel="custom.PAY.PER.VIEW.PPV.20">
     <title>10:00 AM Land of Legends Late Models</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829180000 -0400" stop="20260829220000 -0400" channel="custom.PAY.PER.VIEW.PPV.21">
-    <title>10:00 AM Cedar Lake Late Models</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

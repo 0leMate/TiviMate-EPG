@@ -298,14 +298,6 @@
           "title": "Land of Legends Late Models"
         },
         {
-          "display_title": "10:00 AM Cedar Lake Late Models",
-          "slot": "PPV 21",
-          "slot_norm": "PPV 21",
-          "start": "2026-08-29T18:00:00-04:00",
-          "stop": "2026-08-29T22:00:00-04:00",
-          "title": "Cedar Lake Late Models"
-        },
-        {
           "display_title": "11:15 AM World of Outlaws Sprint Cars Red River",
           "slot": "PPV 22",
           "slot_norm": "PPV 22",
@@ -339,10 +331,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 619979552,
-      "message_timestamp": 1788006645,
+      "message_id": 620028187,
+      "message_timestamp": 1788039012,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T12:30:52.953749+00:00"
+      "updated_at": "2026-08-29T22:30:54.090601+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
