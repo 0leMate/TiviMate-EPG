@@ -153,58 +153,58 @@
       "events": [
         {
           "display_title": "6:25 AM Dunfermline Athletic vs Raith Rovers",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-08-28T14:25:00-04:00",
           "stop": "2026-08-28T18:25:00-04:00",
           "title": "Dunfermline Athletic vs Raith Rovers"
         },
         {
           "display_title": "6:35 AM Milan vs Venezia",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-08-28T14:35:00-04:00",
           "stop": "2026-08-28T18:35:00-04:00",
           "title": "Milan vs Venezia"
         },
         {
           "display_title": "6:50 AM Wrexham vs Birmingham City",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-08-28T14:50:00-04:00",
           "stop": "2026-08-28T18:50:00-04:00",
           "title": "Wrexham vs Birmingham City"
         },
         {
           "display_title": "6:00 PM UFC Fight Night: English",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-08-29T02:00:00-04:00",
           "stop": "2026-08-29T06:00:00-04:00",
           "title": "UFC Fight Night: English"
         },
         {
           "display_title": "6:00 PM UFC Fight Night em Português",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-08-29T02:00:00-04:00",
           "stop": "2026-08-29T06:00:00-04:00",
           "title": "UFC Fight Night em Português"
         },
         {
           "display_title": "6:00 PM UFC Fight Night en Español",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-08-29T02:00:00-04:00",
           "stop": "2026-08-29T06:00:00-04:00",
           "title": "UFC Fight Night en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619927183,
-      "message_timestamp": 1787970624,
+      "message_id": 619935498,
+      "message_timestamp": 1787976045,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T02:30:37.681202+00:00"
+      "updated_at": "2026-08-29T04:30:56.503577+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -258,35 +258,115 @@
           "title": "/2pm Moses vs Hrgovic"
         },
         {
-          "display_title": "10:00 AM CANCELLED Volusia Sprint Cars",
-          "slot": "PPV 10",
-          "slot_norm": "PPV 10",
-          "start": "2026-08-29T18:00:00-04:00",
-          "stop": "2026-08-29T22:00:00-04:00",
-          "title": "CANCELLED Volusia Sprint Cars"
+          "display_title": "3:00 AM Finishers Summer Bash",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-08-29T11:00:00-04:00",
+          "stop": "2026-08-29T15:00:00-04:00",
+          "title": "Finishers Summer Bash"
         },
         {
-          "display_title": "11:15 AM World of Outlaws Sprint Cars River Cities",
+          "display_title": "3:30 AM APFC IPBL Hyderabad vs Delhi",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-08-29T11:30:00-04:00",
+          "stop": "2026-08-29T15:30:00-04:00",
+          "title": "APFC IPBL Hyderabad vs Delhi"
+        },
+        {
+          "display_title": "6:00 AM True Grit Wrestling New Grit Rising",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-08-29T14:00:00-04:00",
+          "stop": "2026-08-29T18:00:00-04:00",
+          "title": "True Grit Wrestling New Grit Rising"
+        },
+        {
+          "display_title": "9:00 AM Top Level Pro 24 Summer Jam",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-08-29T17:00:00-04:00",
+          "stop": "2026-08-29T21:00:00-04:00",
+          "title": "Top Level Pro 24 Summer Jam"
+        },
+        {
+          "display_title": "12:00 PM Lara vs Ornelas",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
+          "title": "Lara vs Ornelas"
+        },
+        {
+          "display_title": "12:00 PM Lopez vs Cruz \\(En Espanol\\)",
           "slot": "PPV 12",
           "slot_norm": "PPV 12",
-          "start": "2026-08-29T19:15:00-04:00",
-          "stop": "2026-08-29T23:15:00-04:00",
-          "title": "World of Outlaws Sprint Cars River Cities"
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
+          "title": "Lopez vs Cruz \\(En Espanol\\)"
+        },
+        {
+          "display_title": "12:00 PM BKB 58 Trujillo vs Terrill",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
+          "title": "BKB 58 Trujillo vs Terrill"
+        },
+        {
+          "display_title": "12:00 PM HAW Uninvited VI",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
+          "title": "HAW Uninvited VI"
+        },
+        {
+          "display_title": "12:45 AM PDRA Drag Wars",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
+          "start": "2026-08-30T08:45:00-04:00",
+          "stop": "2026-08-30T12:45:00-04:00",
+          "title": "PDRA Drag Wars"
+        },
+        {
+          "display_title": "2:00 AM /1pm AMA Supercross Championship Crawfordsville",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-08-30T10:00:00-04:00",
+          "stop": "2026-08-30T14:00:00-04:00",
+          "title": "/1pm AMA Supercross Championship Crawfordsville"
+        },
+        {
+          "display_title": "8:45 AM INEX Legends Riverhead",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-08-30T16:45:00-04:00",
+          "stop": "2026-08-30T20:45:00-04:00",
+          "title": "INEX Legends Riverhead"
+        },
+        {
+          "display_title": "9:30 AM Millbridge Sprints",
+          "slot": "PPV 18",
+          "slot_norm": "PPV 18",
+          "start": "2026-08-30T17:30:00-04:00",
+          "stop": "2026-08-30T21:30:00-04:00",
+          "title": "Millbridge Sprints"
         },
         {
           "display_title": "12:15 PM erican Sprint Car Series Big Sky",
           "slot": "PPV 20",
           "slot_norm": "PPV 20",
-          "start": "2026-08-29T20:15:00-04:00",
-          "stop": "2026-08-30T00:15:00-04:00",
+          "start": "2026-08-30T20:15:00-04:00",
+          "stop": "2026-08-31T00:15:00-04:00",
           "title": "erican Sprint Car Series Big Sky"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 619927174,
-      "message_timestamp": 1787970620,
+      "message_id": 619932795,
+      "message_timestamp": 1787974255,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T02:30:38.046824+00:00"
+      "updated_at": "2026-08-29T04:30:56.587255+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -300,171 +380,163 @@
           "title": "HLR Gold Cup Race of Champions at Silver Dollar"
         },
         {
-          "display_title": "10:20 AM USAC Sprint Car Smackdown at Kokomo",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-08-28T18:20:00-04:00",
-          "stop": "2026-08-28T22:20:00-04:00",
-          "title": "USAC Sprint Car Smackdown at Kokomo"
-        },
-        {
-          "display_title": "9:15 AM NASCAR Whelen Modified Tour at Stafford",
-          "slot": "PPV2 04",
-          "slot_norm": "PPV2 4",
-          "start": "2026-08-28T17:15:00-04:00",
-          "stop": "2026-08-28T21:15:00-04:00",
-          "title": "NASCAR Whelen Modified Tour at Stafford"
+          "display_title": "7:00 PM PRELIMS UFC FN",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-08-29T03:00:00-04:00",
+          "stop": "2026-08-29T07:00:00-04:00",
+          "title": "PRELIMS UFC FN"
         },
         {
           "display_title": "9:45 AM Lucas Oil Late Model Dirt Series at Port Royal",
           "slot": "PPV2 05",
           "slot_norm": "PPV2 5",
-          "start": "2026-08-28T17:45:00-04:00",
-          "stop": "2026-08-28T21:45:00-04:00",
+          "start": "2026-08-29T17:45:00-04:00",
+          "stop": "2026-08-29T21:45:00-04:00",
           "title": "Lucas Oil Late Model Dirt Series at Port Royal"
         },
         {
           "display_title": "10:00 AM 500 Sprint Car Tour at Berlin",
           "slot": "PPV2 06",
           "slot_norm": "PPV2 6",
-          "start": "2026-08-28T18:00:00-04:00",
-          "stop": "2026-08-28T22:00:00-04:00",
+          "start": "2026-08-29T18:00:00-04:00",
+          "stop": "2026-08-29T22:00:00-04:00",
           "title": "500 Sprint Car Tour at Berlin"
         },
         {
           "display_title": "10:15 AM Season Championship at Utica Rome",
           "slot": "PPV2 07",
           "slot_norm": "PPV2 7",
-          "start": "2026-08-28T18:15:00-04:00",
-          "stop": "2026-08-28T22:15:00-04:00",
+          "start": "2026-08-29T18:15:00-04:00",
+          "stop": "2026-08-29T22:15:00-04:00",
           "title": "Season Championship at Utica Rome"
         },
         {
           "display_title": "10:15 AM NASCAR Weekly Racing at Autodrome",
           "slot": "PPV2 08",
           "slot_norm": "PPV2 8",
-          "start": "2026-08-28T18:15:00-04:00",
-          "stop": "2026-08-28T22:15:00-04:00",
+          "start": "2026-08-29T18:15:00-04:00",
+          "stop": "2026-08-29T22:15:00-04:00",
           "title": "NASCAR Weekly Racing at Autodrome"
         },
         {
           "display_title": "10:30 AM NAPA All Star Circuit of Champions at Freedom Motorsports",
           "slot": "PPV2 09",
           "slot_norm": "PPV2 9",
-          "start": "2026-08-28T18:30:00-04:00",
-          "stop": "2026-08-28T22:30:00-04:00",
+          "start": "2026-08-29T18:30:00-04:00",
+          "stop": "2026-08-29T22:30:00-04:00",
           "title": "NAPA All Star Circuit of Champions at Freedom Motorsports"
         },
         {
           "display_title": "11:30 AM Race of Champions Dirt Modifieds at Ohsweken",
           "slot": "PPV2 11",
           "slot_norm": "PPV2 11",
-          "start": "2026-08-28T19:30:00-04:00",
-          "stop": "2026-08-28T23:30:00-04:00",
+          "start": "2026-08-29T19:30:00-04:00",
+          "stop": "2026-08-29T23:30:00-04:00",
           "title": "Race of Champions Dirt Modifieds at Ohsweken"
         },
         {
           "display_title": "11:45 AM USAC MRA Weld Memorial at Lakeside",
           "slot": "PPV2 12",
           "slot_norm": "PPV2 12",
-          "start": "2026-08-28T19:45:00-04:00",
-          "stop": "2026-08-28T23:45:00-04:00",
+          "start": "2026-08-29T19:45:00-04:00",
+          "stop": "2026-08-29T23:45:00-04:00",
           "title": "USAC MRA Weld Memorial at Lakeside"
         },
         {
           "display_title": "11:45 AM IMCA Weekly Racing at Marshalltown",
           "slot": "PPV2 13",
           "slot_norm": "PPV2 13",
-          "start": "2026-08-28T19:45:00-04:00",
-          "stop": "2026-08-28T23:45:00-04:00",
+          "start": "2026-08-29T19:45:00-04:00",
+          "stop": "2026-08-29T23:45:00-04:00",
           "title": "IMCA Weekly Racing at Marshalltown"
         },
         {
           "display_title": "12:00 PM NASCAR Weekly Racing at Riverhead",
           "slot": "PPV2 14",
           "slot_norm": "PPV2 14",
-          "start": "2026-08-28T20:00:00-04:00",
-          "stop": "2026-08-29T00:00:00-04:00",
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
           "title": "NASCAR Weekly Racing at Riverhead"
         },
         {
           "display_title": "12:00 PM MARS Late Models at Benton",
           "slot": "PPV2 15",
           "slot_norm": "PPV2 15",
-          "start": "2026-08-28T20:00:00-04:00",
-          "stop": "2026-08-29T00:00:00-04:00",
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
           "title": "MARS Late Models at Benton"
         },
         {
           "display_title": "10:00 AM CANCELLED Volusia Speedway Park",
           "slot": "PPV2 16",
           "slot_norm": "PPV2 16",
-          "start": "2026-08-28T18:00:00-04:00",
-          "stop": "2026-08-28T22:00:00-04:00",
+          "start": "2026-08-29T18:00:00-04:00",
+          "stop": "2026-08-29T22:00:00-04:00",
           "title": "CANCELLED Volusia Speedway Park"
         },
         {
           "display_title": "10:30 AM Attica Raceway Park",
           "slot": "PPV2 17",
           "slot_norm": "PPV2 17",
-          "start": "2026-08-28T18:30:00-04:00",
-          "stop": "2026-08-28T22:30:00-04:00",
+          "start": "2026-08-29T18:30:00-04:00",
+          "stop": "2026-08-29T22:30:00-04:00",
           "title": "Attica Raceway Park"
         },
         {
           "display_title": "11:00 AM Williams Grove Speedway",
           "slot": "PPV2 18",
           "slot_norm": "PPV2 18",
-          "start": "2026-08-28T19:00:00-04:00",
-          "stop": "2026-08-28T23:00:00-04:00",
+          "start": "2026-08-29T19:00:00-04:00",
+          "stop": "2026-08-29T23:00:00-04:00",
           "title": "Williams Grove Speedway"
         },
         {
           "display_title": "11:15 AM River Cities Speedway",
           "slot": "PPV2 19",
           "slot_norm": "PPV2 19",
-          "start": "2026-08-28T19:15:00-04:00",
-          "stop": "2026-08-28T23:15:00-04:00",
+          "start": "2026-08-29T19:15:00-04:00",
+          "stop": "2026-08-29T23:15:00-04:00",
           "title": "River Cities Speedway"
         },
         {
           "display_title": "11:15 AM Adams County Speedway",
           "slot": "PPV2 20",
           "slot_norm": "PPV2 20",
-          "start": "2026-08-28T19:15:00-04:00",
-          "stop": "2026-08-28T23:15:00-04:00",
+          "start": "2026-08-29T19:15:00-04:00",
+          "stop": "2026-08-29T23:15:00-04:00",
           "title": "Adams County Speedway"
         },
         {
           "display_title": "11:00 AM Brotherly Love Boxing Price vs Guevara",
           "slot": "PPV2 21",
           "slot_norm": "PPV2 21",
-          "start": "2026-08-28T19:00:00-04:00",
-          "stop": "2026-08-28T23:00:00-04:00",
+          "start": "2026-08-29T19:00:00-04:00",
+          "stop": "2026-08-29T23:00:00-04:00",
           "title": "Brotherly Love Boxing Price vs Guevara"
         },
         {
           "display_title": "11:00 AM Shooto Brazil 139",
           "slot": "PPV2 23",
           "slot_norm": "PPV2 23",
-          "start": "2026-08-28T19:00:00-04:00",
-          "stop": "2026-08-28T23:00:00-04:00",
+          "start": "2026-08-29T19:00:00-04:00",
+          "stop": "2026-08-29T23:00:00-04:00",
           "title": "Shooto Brazil 139"
         },
         {
           "display_title": "12:00 PM Marksman vs Barreto",
           "slot": "PPV2 24",
           "slot_norm": "PPV2 24",
-          "start": "2026-08-28T20:00:00-04:00",
-          "stop": "2026-08-29T00:00:00-04:00",
+          "start": "2026-08-29T20:00:00-04:00",
+          "stop": "2026-08-30T00:00:00-04:00",
           "title": "Marksman vs Barreto"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 619910068,
-      "message_timestamp": 1787959821,
+      "message_id": 619932738,
+      "message_timestamp": 1787974221,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T00:30:41.468066+00:00"
+      "updated_at": "2026-08-29T04:30:56.701662+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
