@@ -145,42 +145,42 @@
       "events": [
         {
           "display_title": "10:55 PM Aberdeen vs Rangers",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-30T06:55:00-04:00",
           "stop": "2026-08-30T10:55:00-04:00",
           "title": "Aberdeen vs Rangers"
         },
         {
           "display_title": "4:00 AM Napoli vs Como",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-30T12:00:00-04:00",
           "stop": "2026-08-30T16:00:00-04:00",
           "title": "Napoli vs Como"
         },
         {
           "display_title": "6:30 AM Cagliari vs Inter",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-08-30T14:30:00-04:00",
           "stop": "2026-08-30T18:30:00-04:00",
           "title": "Cagliari vs Inter"
         },
         {
           "display_title": "6:30 AM Lazio vs Genoa",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-08-30T14:30:00-04:00",
           "stop": "2026-08-30T18:30:00-04:00",
           "title": "Lazio vs Genoa"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 620062727,
-      "message_timestamp": 1788062438,
+      "message_id": 620084514,
+      "message_timestamp": 1788078619,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T04:31:14.026213+00:00"
+      "updated_at": "2026-08-30T08:30:44.674892+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
