@@ -144,139 +144,43 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:59 PM UFC Fight Night em Português",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-29T01:59:00-04:00",
-          "stop": "2026-08-29T05:59:00-04:00",
-          "title": "UFC Fight Night em Português"
+          "display_title": "10:55 PM Aberdeen vs Rangers",
+          "slot": "PARAMOUNT 017",
+          "slot_norm": "PARAMOUNT 17",
+          "start": "2026-08-30T06:55:00-04:00",
+          "stop": "2026-08-30T10:55:00-04:00",
+          "title": "Aberdeen vs Rangers"
         },
         {
-          "display_title": "6:00 PM UFC Fight Night: English",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-29T02:00:00-04:00",
-          "stop": "2026-08-29T06:00:00-04:00",
-          "title": "UFC Fight Night: English"
+          "display_title": "4:00 AM Napoli vs Como",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-08-30T12:00:00-04:00",
+          "stop": "2026-08-30T16:00:00-04:00",
+          "title": "Napoli vs Como"
         },
         {
-          "display_title": "6:00 PM UFC Fight Night en Español",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-29T02:00:00-04:00",
-          "stop": "2026-08-29T06:00:00-04:00",
-          "title": "UFC Fight Night en Español"
+          "display_title": "6:30 AM Cagliari vs Inter",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-08-30T14:30:00-04:00",
+          "stop": "2026-08-30T18:30:00-04:00",
+          "title": "Cagliari vs Inter"
         },
         {
-          "display_title": "10:00 PM UFC Fight Night: Multiview",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-29T06:00:00-04:00",
-          "stop": "2026-08-29T10:00:00-04:00",
-          "title": "UFC Fight Night: Multiview"
-        },
-        {
-          "display_title": "11:20 PM Milton Keynes Dons vs Leicester City",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-08-29T07:20:00-04:00",
-          "stop": "2026-08-29T11:20:00-04:00",
-          "title": "Milton Keynes Dons vs Leicester City"
-        },
-        {
-          "display_title": "11:20 PM Wolves vs Stoke City",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-08-29T07:20:00-04:00",
-          "stop": "2026-08-29T11:20:00-04:00",
-          "title": "Wolves vs Stoke City"
-        },
-        {
-          "display_title": "11:20 PM Middlesbrough vs West Bromwich Albion",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-08-29T07:20:00-04:00",
-          "stop": "2026-08-29T11:20:00-04:00",
-          "title": "Middlesbrough vs West Bromwich Albion"
-        },
-        {
-          "display_title": "1:30 AM Watford vs West Ham United",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-08-29T09:30:00-04:00",
-          "stop": "2026-08-29T13:30:00-04:00",
-          "title": "Watford vs West Ham United"
-        },
-        {
-          "display_title": "1:30 AM Southampton vs Millwall",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-08-29T09:30:00-04:00",
-          "stop": "2026-08-29T13:30:00-04:00",
-          "title": "Southampton vs Millwall"
-        },
-        {
-          "display_title": "1:30 AM Cardiff City vs Sheffield United",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-08-29T09:30:00-04:00",
-          "stop": "2026-08-29T13:30:00-04:00",
-          "title": "Cardiff City vs Sheffield United"
-        },
-        {
-          "display_title": "1:30 AM Shrewsbury Town vs Salford City",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-08-29T09:30:00-04:00",
-          "stop": "2026-08-29T13:30:00-04:00",
-          "title": "Shrewsbury Town vs Salford City"
-        },
-        {
-          "display_title": "1:30 AM Norwich City vs Burnley",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
-          "start": "2026-08-29T09:30:00-04:00",
-          "stop": "2026-08-29T13:30:00-04:00",
-          "title": "Norwich City vs Burnley"
-        },
-        {
-          "display_title": "4:00 AM Monza vs Udinese",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-08-29T12:00:00-04:00",
-          "stop": "2026-08-29T16:00:00-04:00",
-          "title": "Monza vs Udinese"
-        },
-        {
-          "display_title": "4:00 AM Fiorentina vs Frosinone",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-08-29T12:00:00-04:00",
-          "stop": "2026-08-29T16:00:00-04:00",
-          "title": "Fiorentina vs Frosinone"
-        },
-        {
-          "display_title": "4:00 AM Sassuolo vs Torino",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-08-29T12:00:00-04:00",
-          "stop": "2026-08-29T16:00:00-04:00",
-          "title": "Sassuolo vs Torino"
-        },
-        {
-          "display_title": "6:30 AM Juventus vs Parma",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
-          "start": "2026-08-29T14:30:00-04:00",
-          "stop": "2026-08-29T18:30:00-04:00",
-          "title": "Juventus vs Parma"
+          "display_title": "6:30 AM Lazio vs Genoa",
+          "slot": "PARAMOUNT 020",
+          "slot_norm": "PARAMOUNT 20",
+          "start": "2026-08-30T14:30:00-04:00",
+          "stop": "2026-08-30T18:30:00-04:00",
+          "title": "Lazio vs Genoa"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 619979564,
-      "message_timestamp": 1788006653,
+      "message_id": 620062727,
+      "message_timestamp": 1788062438,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T14:30:40.647652+00:00"
+      "updated_at": "2026-08-30T04:31:14.026213+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -288,6 +192,22 @@
           "start": "2026-08-29T13:00:00-04:00",
           "stop": "2026-08-29T17:00:00-04:00",
           "title": "AEW All In London"
+        },
+        {
+          "display_title": "9:20 AM SLM Triple Crown Slinger",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-08-29T17:20:00-04:00",
+          "stop": "2026-08-29T21:20:00-04:00",
+          "title": "SLM Triple Crown Slinger"
+        },
+        {
+          "display_title": "10:30 AM World of Outlaws Sprint Cars Nodak",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-08-29T18:30:00-04:00",
+          "stop": "2026-08-29T22:30:00-04:00",
+          "title": "World of Outlaws Sprint Cars Nodak"
         },
         {
           "display_title": "10:30 AM MARS Late Models Belle Clair",
@@ -336,61 +256,13 @@
           "start": "2026-08-29T21:00:00-04:00",
           "stop": "2026-08-30T01:00:00-04:00",
           "title": "Lara vs Ornelas"
-        },
-        {
-          "display_title": "9:45 AM Lucas Oil Late Models Port Royal",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-08-29T17:45:00-04:00",
-          "stop": "2026-08-29T21:45:00-04:00",
-          "title": "Lucas Oil Late Models Port Royal"
-        },
-        {
-          "display_title": "10:00 AM Land of Legends Late Models",
-          "slot": "PPV 20",
-          "slot_norm": "PPV 20",
-          "start": "2026-08-29T18:00:00-04:00",
-          "stop": "2026-08-29T22:00:00-04:00",
-          "title": "Land of Legends Late Models"
-        },
-        {
-          "display_title": "11:15 AM World of Outlaws Sprint Cars Red River",
-          "slot": "PPV 22",
-          "slot_norm": "PPV 22",
-          "start": "2026-08-29T19:15:00-04:00",
-          "stop": "2026-08-29T23:15:00-04:00",
-          "title": "World of Outlaws Sprint Cars Red River"
-        },
-        {
-          "display_title": "12:15 PM erican Sprint Car Series Big Sky",
-          "slot": "PPV 23",
-          "slot_norm": "PPV 23",
-          "start": "2026-08-29T20:15:00-04:00",
-          "stop": "2026-08-30T00:15:00-04:00",
-          "title": "erican Sprint Car Series Big Sky"
-        },
-        {
-          "display_title": "11:15 AM World of Outlaws Late Models Shelby",
-          "slot": "PPV 24",
-          "slot_norm": "PPV 24",
-          "start": "2026-08-29T19:15:00-04:00",
-          "stop": "2026-08-29T23:15:00-04:00",
-          "title": "World of Outlaws Late Models Shelby"
-        },
-        {
-          "display_title": "11:30 AM Knoxville Sprint Cars",
-          "slot": "PPV 25",
-          "slot_norm": "PPV 25",
-          "start": "2026-08-29T19:30:00-04:00",
-          "stop": "2026-08-29T23:30:00-04:00",
-          "title": "Knoxville Sprint Cars"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620050322,
-      "message_timestamp": 1788053412,
+      "message_id": 620060218,
+      "message_timestamp": 1788060635,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T02:30:59.925307+00:00"
+      "updated_at": "2026-08-30T04:31:14.370873+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
