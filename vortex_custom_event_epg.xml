@@ -6736,12 +6736,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001:</display-name>
+    <display-name>PPV ALT 001: AEW: All In London 2026 - Buy-In 16:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
     <display-name>PPV ALT 002</display-name>
-    <display-name>PPV ALT 002: Moses vs Hrgovic: Prelims 16:00</display-name>
+    <display-name>PPV ALT 002: AEW: All In London 2026 18:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.003">
@@ -6766,22 +6766,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.007">
     <display-name>PPV ALT 007</display-name>
-    <display-name>PPV ALT 007: Mikaela Mayer vs Chantelle Cameron &amp; Caroline Dubois v Amelia Moore 19:00</display-name>
+    <display-name>PPV ALT 007:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.008">
     <display-name>PPV ALT 008</display-name>
-    <display-name>PPV ALT 008: Moses vs Hrgovic 19:00</display-name>
+    <display-name>PPV ALT 008:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.009">
     <display-name>PPV ALT 009</display-name>
-    <display-name>PPV ALT 009: Moses vs Hrgovic 19:00</display-name>
+    <display-name>PPV ALT 009:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.010">
     <display-name>PPV ALT 010</display-name>
-    <display-name>PPV ALT 010: Moses vs Hrgovic 19:00</display-name>
+    <display-name>PPV ALT 010:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.011">
@@ -6791,7 +6791,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.012">
     <display-name>PPV ALT 012</display-name>
-    <display-name>PPV ALT 012: BKB 58 Prelims 23:30</display-name>
+    <display-name>PPV ALT 012: BKB 58 23:30</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.013">
@@ -6821,7 +6821,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.018">
     <display-name>PPV ALT 018</display-name>
-    <display-name>PPV ALT 018: 14:00 /5pm AMA Supercross Championship Crawfordsville</display-name>
+    <display-name>PPV ALT 018:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.019">
@@ -14484,8 +14484,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260829191500 -0400" stop="20260829231500 -0400" channel="custom.PAY.PER.VIEW.PPV.23">
-    <title>11:15 AM erican Sprint Car Series Big Sky</title>
+  <programme start="20260829201500 -0400" stop="20260830001500 -0400" channel="custom.PAY.PER.VIEW.PPV.23">
+    <title>12:15 PM erican Sprint Car Series Big Sky</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

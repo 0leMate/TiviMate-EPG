@@ -306,11 +306,11 @@
           "title": "World of Outlaws Sprint Cars Red River"
         },
         {
-          "display_title": "11:15 AM erican Sprint Car Series Big Sky",
+          "display_title": "12:15 PM erican Sprint Car Series Big Sky",
           "slot": "PPV 23",
           "slot_norm": "PPV 23",
-          "start": "2026-08-29T19:15:00-04:00",
-          "stop": "2026-08-29T23:15:00-04:00",
+          "start": "2026-08-29T20:15:00-04:00",
+          "stop": "2026-08-30T00:15:00-04:00",
           "title": "erican Sprint Car Series Big Sky"
         },
         {
@@ -331,10 +331,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620028187,
-      "message_timestamp": 1788039012,
+      "message_id": 620045824,
+      "message_timestamp": 1788049837,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-29T22:30:54.090601+00:00"
+      "updated_at": "2026-08-30T00:30:46.810726+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
