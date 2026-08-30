@@ -170,83 +170,35 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM AEW All In London",
+          "display_title": "12:00 PM WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-29T13:00:00-04:00",
-          "stop": "2026-08-29T17:00:00-04:00",
-          "title": "AEW All In London"
+          "start": "2026-08-30T20:00:00-04:00",
+          "stop": "2026-08-31T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         },
         {
-          "display_title": "9:20 AM SLM Triple Crown Slinger",
+          "display_title": "10:15 AM Wild Thing Kart Series Stafford",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-08-30T18:15:00-04:00",
+          "stop": "2026-08-30T22:15:00-04:00",
+          "title": "Wild Thing Kart Series Stafford"
+        },
+        {
+          "display_title": "10:20 AM SLM Triple Crown Slinger",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-08-29T17:20:00-04:00",
-          "stop": "2026-08-29T21:20:00-04:00",
+          "start": "2026-08-30T18:20:00-04:00",
+          "stop": "2026-08-30T22:20:00-04:00",
           "title": "SLM Triple Crown Slinger"
-        },
-        {
-          "display_title": "10:30 AM World of Outlaws Sprint Cars Nodak",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-08-29T18:30:00-04:00",
-          "stop": "2026-08-29T22:30:00-04:00",
-          "title": "World of Outlaws Sprint Cars Nodak"
-        },
-        {
-          "display_title": "10:30 AM MARS Late Models Belle Clair",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-08-29T18:30:00-04:00",
-          "stop": "2026-08-29T22:30:00-04:00",
-          "title": "MARS Late Models Belle Clair"
-        },
-        {
-          "display_title": "11:00 AM UWC 59",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-08-29T19:00:00-04:00",
-          "stop": "2026-08-29T23:00:00-04:00",
-          "title": "UWC 59"
-        },
-        {
-          "display_title": "11:25 AM Husets Late Models",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-08-29T19:25:00-04:00",
-          "stop": "2026-08-29T23:25:00-04:00",
-          "title": "Husets Late Models"
-        },
-        {
-          "display_title": "12:00 PM Anthony Pettis FC 25",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-08-29T20:00:00-04:00",
-          "stop": "2026-08-30T00:00:00-04:00",
-          "title": "Anthony Pettis FC 25"
-        },
-        {
-          "display_title": "12:30 PM erican Sprint Car Series Sheridan",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-08-29T20:30:00-04:00",
-          "stop": "2026-08-30T00:30:00-04:00",
-          "title": "erican Sprint Car Series Sheridan"
-        },
-        {
-          "display_title": "1:00 PM Lara vs Ornelas",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-08-29T21:00:00-04:00",
-          "stop": "2026-08-30T01:00:00-04:00",
-          "title": "Lara vs Ornelas"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620060218,
-      "message_timestamp": 1788060635,
+      "message_id": 620160061,
+      "message_timestamp": 1788129012,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T04:31:14.370873+00:00"
+      "updated_at": "2026-08-30T22:30:57.064974+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

@@ -6566,12 +6566,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 20:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: (HD) AEW All In London</display-name>
+    <display-name>PPV 02: 18:15 Wild Thing Kart Series Stafford</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -6736,12 +6736,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001: AEW: All In London 2026 - Buy-In 16:00</display-name>
+    <display-name>PPV ALT 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
     <display-name>PPV ALT 002</display-name>
-    <display-name>PPV ALT 002: AEW: All In London 2026 18:00</display-name>
+    <display-name>PPV ALT 002:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.003">
@@ -14254,48 +14254,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260829130000 -0400" stop="20260829170000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>5:00 AM AEW All In London</title>
+  <programme start="20260830200000 -0400" stop="20260831000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>12:00 PM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260829172000 -0400" stop="20260829212000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>9:20 AM SLM Triple Crown Slinger</title>
+  <programme start="20260830181500 -0400" stop="20260830221500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>10:15 AM Wild Thing Kart Series Stafford</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260829183000 -0400" stop="20260829223000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>10:30 AM World of Outlaws Sprint Cars Nodak</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829183000 -0400" stop="20260829223000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>10:30 AM MARS Late Models Belle Clair</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829190000 -0400" stop="20260829230000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
-    <title>11:00 AM UWC 59</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829192500 -0400" stop="20260829232500 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
-    <title>11:25 AM Husets Late Models</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829200000 -0400" stop="20260830000000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
-    <title>12:00 PM Anthony Pettis FC 25</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829203000 -0400" stop="20260830003000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
-    <title>12:30 PM erican Sprint Car Series Sheridan</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260829210000 -0400" stop="20260830010000 -0400" channel="custom.PAY.PER.VIEW.PPV.11">
-    <title>1:00 PM Lara vs Ornelas</title>
+  <programme start="20260830182000 -0400" stop="20260830222000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>10:20 AM SLM Triple Crown Slinger</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
