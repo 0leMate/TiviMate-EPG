@@ -6566,12 +6566,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 13:00 AEW All In London</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: (HD) AEW All In London</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -6586,27 +6586,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05:</display-name>
+    <display-name>PPV 05: 18:30 MARS Late Models Belle Clair</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
     <display-name>PPV 06</display-name>
-    <display-name>PPV 06:</display-name>
+    <display-name>PPV 06: 19:00 UWC 59</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
     <display-name>PPV 07</display-name>
-    <display-name>PPV 07:</display-name>
+    <display-name>PPV 07: 19:25 Husets Late Models</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
     <display-name>PPV 08</display-name>
-    <display-name>PPV 08:</display-name>
+    <display-name>PPV 08: 20:00 Anthony Pettis FC 25</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.09">
     <display-name>PPV 09</display-name>
-    <display-name>PPV 09:</display-name>
+    <display-name>PPV 09: 20:30 American Sprint Car Series Sheridan</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.10">
@@ -6616,7 +6616,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
     <display-name>PPV 11</display-name>
-    <display-name>PPV 11:</display-name>
+    <display-name>PPV 11: 21:00 Lara vs Ornelas</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.12">
@@ -6666,7 +6666,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.21">
     <display-name>PPV 21</display-name>
-    <display-name>PPV 21: CANCELLED Cedar Lake Late Models</display-name>
+    <display-name>PPV 21:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.22">
@@ -6676,7 +6676,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.23">
     <display-name>PPV 23</display-name>
-    <display-name>PPV 23: 19:15 American Sprint Car Series Big Sky</display-name>
+    <display-name>PPV 23: 20:15 American Sprint Car Series Big Sky</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.24">
@@ -6801,7 +6801,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.014">
     <display-name>PPV ALT 014</display-name>
-    <display-name>PPV ALT 014: Lara vs Ornelas 01:00</display-name>
+    <display-name>PPV ALT 014: Lara vs Ornelas 02:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.015">
@@ -12489,123 +12489,128 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260829172500 +1000" stop="20260829212500 +1000" channel="custom.AU.STAN.AU.STAN.001">
-    <title>7:25 PM Cottesloe vs Wanneroo WA Premier Grade Grand Final 2026</title>
+  <programme start="20260831030000 +1000" stop="20260831070000 +1000" channel="custom.AU.STAN.AU.STAN.066">
+    <title>5:00 AM Race 2: Grand Prix of Milwaukee Indycar 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829185500 +1000" stop="20260829225500 +1000" channel="custom.AU.STAN.AU.STAN.002">
-    <title>8:55 PM Gamba Osaka vs Sanfrecce Hiroshima J.League 2026</title>
+  <programme start="20260831030100 +1000" stop="20260831070100 +1000" channel="custom.AU.STAN.AU.STAN.067">
+    <title>5:01 AM SS22 Encarnacion 2 \(Wolf Power Stage\) WRC Paraguay 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829195500 +1000" stop="20260829235500 +1000" channel="custom.AU.STAN.AU.STAN.003">
-    <title>9:55 PM Kawasaki Frontale vs Chiba J.League 2026</title>
+  <programme start="20260831033000 +1000" stop="20260831073000 +1000" channel="custom.AU.STAN.AU.STAN.068">
+    <title>5:30 AM Medvedev vs Gaston Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829195500 +1000" stop="20260829235500 +1000" channel="custom.AU.STAN.AU.STAN.004">
-    <title>9:55 PM Urawa Red Diamonds vs Yokohama F. Marinos J.League 2026</title>
+  <programme start="20260831040000 +1000" stop="20260831080000 +1000" channel="custom.AU.STAN.AU.STAN.069">
+    <title>6:00 AM Tirante vs Mannarino Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829195500 +1000" stop="20260829235500 +1000" channel="custom.AU.STAN.AU.STAN.005">
-    <title>9:55 PM Vissel Kobe vs Cerezo Osaka J.League 2026</title>
+  <programme start="20260831040000 +1000" stop="20260831080000 +1000" channel="custom.AU.STAN.AU.STAN.070">
+    <title>6:00 AM Faria vs Brooksby Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829202500 +1000" stop="20260830002500 +1000" channel="custom.AU.STAN.AU.STAN.006">
-    <title>10:25 PM Bucheon vs Anyang K League 2026</title>
+  <programme start="20260831040000 +1000" stop="20260831080000 +1000" channel="custom.AU.STAN.AU.STAN.071">
+    <title>6:00 AM PL Weekend Wrap: Matchweek 2 Aug 31</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829202500 +1000" stop="20260830002500 +1000" channel="custom.AU.STAN.AU.STAN.007">
-    <title>10:25 PM Ulsan vs Gimcheon K League 2026</title>
+  <programme start="20260831043000 +1000" stop="20260831083000 +1000" channel="custom.AU.STAN.AU.STAN.072">
+    <title>6:30 AM Lee vs Boulter Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829203000 +1000" stop="20260830003000 +1000" channel="custom.AU.STAN.AU.STAN.008">
-    <title>10:30 PM Liverpool vs Nottingham Forest Premier League Matchweek 2 2026/2027</title>
+  <programme start="20260831043000 +1000" stop="20260831083000 +1000" channel="custom.AU.STAN.AU.STAN.073">
+    <title>6:30 AM Vukic vs Sakamoto Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829210500 +1000" stop="20260830010500 +1000" channel="custom.AU.STAN.AU.STAN.009">
-    <title>11:05 PM Women\`s Elite Downhill UCI Mountain Bike World Championships 2026</title>
+  <programme start="20260831043000 +1000" stop="20260831083000 +1000" channel="custom.AU.STAN.AU.STAN.074">
+    <title>6:30 AM Kessler vs Alexandrova Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829212000 +1000" stop="20260830012000 +1000" channel="custom.AU.STAN.AU.STAN.010">
-    <title>11:20 PM • Liverpool vs Nottingham Forest Premier League Matchweek 2 2026/2027</title>
+  <programme start="20260831043000 +1000" stop="20260831083000 +1000" channel="custom.AU.STAN.AU.STAN.075">
+    <title>6:30 AM Kecmanovic vs Shapovalov Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829215500 +1000" stop="20260830015500 +1000" channel="custom.AU.STAN.AU.STAN.011">
-    <title>11:55 PM Pumas vs Cheetahs Currie Cup Round 7 2026</title>
+  <programme start="20260831050000 +1000" stop="20260831090000 +1000" channel="custom.AU.STAN.AU.STAN.076">
+    <title>7:00 AM Vandewinkel vs Pliskova Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260829230000 +1000" stop="20260830030000 +1000" channel="custom.AU.STAN.AU.STAN.012">
-    <title>1:00 AM SS11 Hohenau 1 WRC Paraguay 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260829233000 +1000" stop="20260830033000 +1000" channel="custom.AU.STAN.AU.STAN.013">
-    <title>1:30 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Second Test 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260829234500 +1000" stop="20260830034500 +1000" channel="custom.AU.STAN.AU.STAN.014">
-    <title>1:45 AM Men\`s Elite Downhill UCI Mountain Bike World Championships 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260829235000 +1000" stop="20260830035000 +1000" channel="custom.AU.STAN.AU.STAN.015">
-    <title>1:50 AM Coventry City vs Hull City Premier League Matchweek 2 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260829235000 +1000" stop="20260830035000 +1000" channel="custom.AU.STAN.AU.STAN.016">
-    <title>1:50 AM Bournemouth vs Everton Premier League Matchweek 2 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260830000000 +1000" stop="20260830040000 +1000" channel="custom.AU.STAN.AU.STAN.017">
+  <programme start="20260831000000 +1000" stop="20260831040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
     <title>2:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Second Test 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830010000 +1000" stop="20260830050000 +1000" channel="custom.AU.STAN.AU.STAN.018">
+  <programme start="20260831010000 +1000" stop="20260831050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
     <title>3:00 AM Qualifying: Grand Prix of Milwaukee Indycar 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830022000 +1000" stop="20260830062000 +1000" channel="custom.AU.STAN.AU.STAN.019">
+  <programme start="20260831022000 +1000" stop="20260831062000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.019">
     <title>4:20 AM Tottenham Hotspur vs Newcastle United Premier League Matchweek 2 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830043000 +1000" stop="20260830083000 +1000" channel="custom.AU.STAN.AU.STAN.020">
+  <programme start="20260831043000 +1000" stop="20260831083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.020">
     <title>6:30 AM Argentina vs Australia Men\`s International 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830043000 +1000" stop="20260830083000 +1000" channel="custom.AU.STAN.AU.STAN.021">
+  <programme start="20260831043000 +1000" stop="20260831083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.021">
     <title>6:30 AM Race 1: Grand Prix of Milwaukee Indycar 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830050000 +1000" stop="20260830090000 +1000" channel="custom.AU.STAN.AU.STAN.022">
+  <programme start="20260831050000 +1000" stop="20260831090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.022">
     <title>7:00 AM PL Saturday Wrap: Matchweek 2 Aug 30</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830050000 +1000" stop="20260830090000 +1000" channel="custom.AU.STAN.AU.STAN.023">
+  <programme start="20260831050000 +1000" stop="20260831090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.023">
     <title>7:00 AM SS15 Hohenau 2 WRC Paraguay 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260830172500 +1000" stop="20260830212500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
-    <title>7:25 PM Cottesloe vs Wanneroo WA Premier Grade Grand Final 2026</title>
+  <programme start="20260831083000 +1000" stop="20260831123000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.024">
+    <title>10:30 AM Roger Federer Hall of Fame 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260831083000 +1000" stop="20260831123000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.025">
+    <title>10:30 AM Kansas City Current vs North Carolina Courage NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260831090000 +1000" stop="20260831130000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.026">
+    <title>11:00 AM Orlando Pride vs Utah Royals NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260831093000 +1000" stop="20260831133000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.027">
+    <title>11:30 AM Monterrey: Day 7 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260831120000 +1000" stop="20260831160000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.028">
+    <title>2:00 PM Wellington vs Counties Manukau NPC Round 5 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260831143000 +1000" stop="20260831183000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.029">
+    <title>4:30 PM Brothers vs Wests Hospital Cup Grand Final 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260831150000 +1000" stop="20260831190000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.030">
+    <title>5:00 PM China Day 3: Afternoon Session UIPM Pentathlon World Championships 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14468,6 +14473,41 @@
     <title>12:15 PM Big Sky Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260829130000 -0400" stop="20260829170000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>5:00 AM AEW All In London</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260829183000 -0400" stop="20260829223000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>10:30 AM MARS Late Models Belle Clair</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260829190000 -0400" stop="20260829230000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
+    <title>11:00 AM UWC 59</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260829192500 -0400" stop="20260829232500 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
+    <title>11:25 AM Husets Late Models</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260829200000 -0400" stop="20260830000000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
+    <title>12:00 PM Anthony Pettis FC 25</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260829203000 -0400" stop="20260830003000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
+    <title>12:30 PM erican Sprint Car Series Sheridan</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260829210000 -0400" stop="20260830010000 -0400" channel="custom.PAY.PER.VIEW.PPV.11">
+    <title>1:00 PM Lara vs Ornelas</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20260829174500 -0400" stop="20260829214500 -0400" channel="custom.PAY.PER.VIEW.PPV.19">
     <title>9:45 AM Lucas Oil Late Models Port Royal</title>
