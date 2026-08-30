@@ -784,211 +784,187 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "5:00 AM Race 2: Grand Prix of Milwaukee Indycar 2026",
-          "slot": "AU STAN 066",
-          "slot_norm": "AU STAN 66",
+          "display_title": "4:00 AM Pegula vs Ruse Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 024",
+          "slot_norm": "AU STAN 24",
+          "start": "2026-08-31T02:00:00+10:00",
+          "stop": "2026-08-31T06:00:00+10:00",
+          "title": "Pegula vs Ruse Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM S.Zhang vs Fernandez Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 025",
+          "slot_norm": "AU STAN 25",
+          "start": "2026-08-31T02:30:00+10:00",
+          "stop": "2026-08-31T06:30:00+10:00",
+          "title": "S.Zhang vs Fernandez Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Wong vs Paul Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 026",
+          "slot_norm": "AU STAN 26",
+          "start": "2026-08-31T02:30:00+10:00",
+          "stop": "2026-08-31T06:30:00+10:00",
+          "title": "Wong vs Paul Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Arango vs Wang Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 027",
+          "slot_norm": "AU STAN 27",
+          "start": "2026-08-31T02:30:00+10:00",
+          "stop": "2026-08-31T06:30:00+10:00",
+          "title": "Arango vs Wang Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Van Assche vs Norrie Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 028",
+          "slot_norm": "AU STAN 28",
+          "start": "2026-08-31T02:30:00+10:00",
+          "stop": "2026-08-31T06:30:00+10:00",
+          "title": "Van Assche vs Norrie Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Kostyuk vs Hunter Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 029",
+          "slot_norm": "AU STAN 29",
           "start": "2026-08-31T03:00:00+10:00",
           "stop": "2026-08-31T07:00:00+10:00",
-          "title": "Race 2: Grand Prix of Milwaukee Indycar 2026"
+          "title": "Kostyuk vs Hunter Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Munar vs Atmane Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 030",
+          "slot_norm": "AU STAN 30",
+          "start": "2026-08-31T03:00:00+10:00",
+          "stop": "2026-08-31T07:00:00+10:00",
+          "title": "Munar vs Atmane Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Stefanini vs Yastremska Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 031",
+          "slot_norm": "AU STAN 31",
+          "start": "2026-08-31T03:00:00+10:00",
+          "stop": "2026-08-31T07:00:00+10:00",
+          "title": "Stefanini vs Yastremska Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Samuel vs Machac Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 032",
+          "slot_norm": "AU STAN 32",
+          "start": "2026-08-31T03:00:00+10:00",
+          "stop": "2026-08-31T07:00:00+10:00",
+          "title": "Samuel vs Machac Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Kalieva vs Tararudee Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 033",
+          "slot_norm": "AU STAN 33",
+          "start": "2026-08-31T03:00:00+10:00",
+          "stop": "2026-08-31T07:00:00+10:00",
+          "title": "Kalieva vs Tararudee Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Harris vs Kennedy Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 034",
+          "slot_norm": "AU STAN 34",
+          "start": "2026-08-31T03:00:00+10:00",
+          "stop": "2026-08-31T07:00:00+10:00",
+          "title": "Harris vs Kennedy Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "5:01 AM SS22 Encarnacion 2 \\(Wolf Power Stage\\) WRC Paraguay 2026",
-          "slot": "AU STAN 067",
-          "slot_norm": "AU STAN 67",
+          "slot": "AU STAN 035",
+          "slot_norm": "AU STAN 35",
           "start": "2026-08-31T03:01:00+10:00",
           "stop": "2026-08-31T07:01:00+10:00",
           "title": "SS22 Encarnacion 2 \\(Wolf Power Stage\\) WRC Paraguay 2026"
         },
         {
+          "display_title": "5:01 AM Race 2: Grand Prix of Milwaukee Indycar 2026",
+          "slot": "AU STAN 036",
+          "slot_norm": "AU STAN 36",
+          "start": "2026-08-31T03:01:00+10:00",
+          "stop": "2026-08-31T07:01:00+10:00",
+          "title": "Race 2: Grand Prix of Milwaukee Indycar 2026"
+        },
+        {
           "display_title": "5:30 AM Medvedev vs Gaston Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 068",
-          "slot_norm": "AU STAN 68",
+          "slot": "AU STAN 037",
+          "slot_norm": "AU STAN 37",
           "start": "2026-08-31T03:30:00+10:00",
           "stop": "2026-08-31T07:30:00+10:00",
           "title": "Medvedev vs Gaston Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM Tirante vs Mannarino Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 069",
-          "slot_norm": "AU STAN 69",
+          "slot": "AU STAN 038",
+          "slot_norm": "AU STAN 38",
           "start": "2026-08-31T04:00:00+10:00",
           "stop": "2026-08-31T08:00:00+10:00",
           "title": "Tirante vs Mannarino Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM Faria vs Brooksby Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 070",
-          "slot_norm": "AU STAN 70",
+          "slot": "AU STAN 039",
+          "slot_norm": "AU STAN 39",
           "start": "2026-08-31T04:00:00+10:00",
           "stop": "2026-08-31T08:00:00+10:00",
           "title": "Faria vs Brooksby Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM PL Weekend Wrap: Matchweek 2 Aug 31",
-          "slot": "AU STAN 071",
-          "slot_norm": "AU STAN 71",
+          "slot": "AU STAN 040",
+          "slot_norm": "AU STAN 40",
           "start": "2026-08-31T04:00:00+10:00",
           "stop": "2026-08-31T08:00:00+10:00",
           "title": "PL Weekend Wrap: Matchweek 2 Aug 31"
         },
         {
-          "display_title": "6:30 AM Lee vs Boulter Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 072",
-          "slot_norm": "AU STAN 72",
-          "start": "2026-08-31T04:30:00+10:00",
-          "stop": "2026-08-31T08:30:00+10:00",
-          "title": "Lee vs Boulter Women\\`s Singles R1 US Open 2026"
-        },
-        {
           "display_title": "6:30 AM Vukic vs Sakamoto Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 073",
-          "slot_norm": "AU STAN 73",
+          "slot": "AU STAN 041",
+          "slot_norm": "AU STAN 41",
           "start": "2026-08-31T04:30:00+10:00",
           "stop": "2026-08-31T08:30:00+10:00",
           "title": "Vukic vs Sakamoto Men\\`s Singles R1 US Open 2026"
         },
         {
+          "display_title": "6:30 AM Lee vs Boulter Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN 042",
+          "slot_norm": "AU STAN 42",
+          "start": "2026-08-31T04:30:00+10:00",
+          "stop": "2026-08-31T08:30:00+10:00",
+          "title": "Lee vs Boulter Women\\`s Singles R1 US Open 2026"
+        },
+        {
           "display_title": "6:30 AM Kessler vs Alexandrova Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 074",
-          "slot_norm": "AU STAN 74",
+          "slot": "AU STAN 043",
+          "slot_norm": "AU STAN 43",
           "start": "2026-08-31T04:30:00+10:00",
           "stop": "2026-08-31T08:30:00+10:00",
           "title": "Kessler vs Alexandrova Women\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:30 AM Kecmanovic vs Shapovalov Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 075",
-          "slot_norm": "AU STAN 75",
+          "slot": "AU STAN 044",
+          "slot_norm": "AU STAN 44",
           "start": "2026-08-31T04:30:00+10:00",
           "stop": "2026-08-31T08:30:00+10:00",
           "title": "Kecmanovic vs Shapovalov Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "7:00 AM Vandewinkel vs Pliskova Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 076",
-          "slot_norm": "AU STAN 76",
+          "slot": "AU STAN 045",
+          "slot_norm": "AU STAN 45",
           "start": "2026-08-31T05:00:00+10:00",
           "stop": "2026-08-31T09:00:00+10:00",
           "title": "Vandewinkel vs Pliskova Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "2:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Second Test 2026",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-08-31T00:00:00+10:00",
-          "stop": "2026-08-31T04:00:00+10:00",
-          "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Second Test 2026"
-        },
-        {
-          "display_title": "3:00 AM Qualifying: Grand Prix of Milwaukee Indycar 2026",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-08-31T01:00:00+10:00",
-          "stop": "2026-08-31T05:00:00+10:00",
-          "title": "Qualifying: Grand Prix of Milwaukee Indycar 2026"
-        },
-        {
-          "display_title": "4:20 AM Tottenham Hotspur vs Newcastle United Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-08-31T02:20:00+10:00",
-          "stop": "2026-08-31T06:20:00+10:00",
-          "title": "Tottenham Hotspur vs Newcastle United Premier League Matchweek 2 2026/2027"
-        },
-        {
-          "display_title": "6:30 AM Argentina vs Australia Men\\`s International 2026",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-08-31T04:30:00+10:00",
-          "stop": "2026-08-31T08:30:00+10:00",
-          "title": "Argentina vs Australia Men\\`s International 2026"
-        },
-        {
-          "display_title": "6:30 AM Race 1: Grand Prix of Milwaukee Indycar 2026",
-          "slot": "AU STAN ALT 021",
-          "slot_norm": "AU STAN ALT 21",
-          "start": "2026-08-31T04:30:00+10:00",
-          "stop": "2026-08-31T08:30:00+10:00",
-          "title": "Race 1: Grand Prix of Milwaukee Indycar 2026"
-        },
-        {
-          "display_title": "7:00 AM PL Saturday Wrap: Matchweek 2 Aug 30",
-          "slot": "AU STAN ALT 022",
-          "slot_norm": "AU STAN ALT 22",
-          "start": "2026-08-31T05:00:00+10:00",
-          "stop": "2026-08-31T09:00:00+10:00",
-          "title": "PL Saturday Wrap: Matchweek 2 Aug 30"
-        },
-        {
-          "display_title": "7:00 AM SS15 Hohenau 2 WRC Paraguay 2026",
-          "slot": "AU STAN ALT 023",
-          "slot_norm": "AU STAN ALT 23",
-          "start": "2026-08-31T05:00:00+10:00",
-          "stop": "2026-08-31T09:00:00+10:00",
-          "title": "SS15 Hohenau 2 WRC Paraguay 2026"
-        },
-        {
-          "display_title": "10:30 AM Roger Federer Hall of Fame 2026",
-          "slot": "AU STAN ALT 024",
-          "slot_norm": "AU STAN ALT 24",
-          "start": "2026-08-31T08:30:00+10:00",
-          "stop": "2026-08-31T12:30:00+10:00",
-          "title": "Roger Federer Hall of Fame 2026"
-        },
-        {
-          "display_title": "10:30 AM Kansas City Current vs North Carolina Courage NWSL 2026",
-          "slot": "AU STAN ALT 025",
-          "slot_norm": "AU STAN ALT 25",
-          "start": "2026-08-31T08:30:00+10:00",
-          "stop": "2026-08-31T12:30:00+10:00",
-          "title": "Kansas City Current vs North Carolina Courage NWSL 2026"
-        },
-        {
-          "display_title": "11:00 AM Orlando Pride vs Utah Royals NWSL 2026",
-          "slot": "AU STAN ALT 026",
-          "slot_norm": "AU STAN ALT 26",
-          "start": "2026-08-31T09:00:00+10:00",
-          "stop": "2026-08-31T13:00:00+10:00",
-          "title": "Orlando Pride vs Utah Royals NWSL 2026"
-        },
-        {
-          "display_title": "11:30 AM Monterrey: Day 7 WTA 500",
-          "slot": "AU STAN ALT 027",
-          "slot_norm": "AU STAN ALT 27",
-          "start": "2026-08-31T09:30:00+10:00",
-          "stop": "2026-08-31T13:30:00+10:00",
-          "title": "Monterrey: Day 7 WTA 500"
-        },
-        {
-          "display_title": "2:00 PM Wellington vs Counties Manukau NPC Round 5 2026",
-          "slot": "AU STAN ALT 028",
-          "slot_norm": "AU STAN ALT 28",
-          "start": "2026-08-31T12:00:00+10:00",
-          "stop": "2026-08-31T16:00:00+10:00",
-          "title": "Wellington vs Counties Manukau NPC Round 5 2026"
-        },
-        {
-          "display_title": "4:30 PM Brothers vs Wests Hospital Cup Grand Final 2026",
-          "slot": "AU STAN ALT 029",
-          "slot_norm": "AU STAN ALT 29",
-          "start": "2026-08-31T14:30:00+10:00",
-          "stop": "2026-08-31T18:30:00+10:00",
-          "title": "Brothers vs Wests Hospital Cup Grand Final 2026"
-        },
-        {
-          "display_title": "5:00 PM China Day 3: Afternoon Session UIPM Pentathlon World Championships 2026",
-          "slot": "AU STAN ALT 030",
-          "slot_norm": "AU STAN ALT 30",
-          "start": "2026-08-31T15:00:00+10:00",
-          "stop": "2026-08-31T19:00:00+10:00",
-          "title": "China Day 3: Afternoon Session UIPM Pentathlon World Championships 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 620048092,
-      "message_timestamp": 1788051632,
+      "message_id": 620090107,
+      "message_timestamp": 1788082228,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-30T02:31:00.633308+00:00"
+      "updated_at": "2026-08-30T10:30:57.475357+00:00"
     }
   },
   "version": 1
