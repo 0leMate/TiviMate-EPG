@@ -154,35 +154,19 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night RAW",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-08-30T20:00:00-04:00",
-          "stop": "2026-08-31T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
-        },
-        {
-          "display_title": "10:15 AM Wild Thing Kart Series Stafford",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-08-30T18:15:00-04:00",
-          "stop": "2026-08-30T22:15:00-04:00",
-          "title": "Wild Thing Kart Series Stafford"
-        },
-        {
-          "display_title": "12:30 PM High Limit Racing Douglas Co",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-08-30T20:30:00-04:00",
-          "stop": "2026-08-31T00:30:00-04:00",
-          "title": "High Limit Racing Douglas Co"
+          "display_title": "11:15 AM World of Outlaws Sprint Cars Nodak",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-08-31T19:15:00-04:00",
+          "stop": "2026-08-31T23:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Nodak"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620190855,
-      "message_timestamp": 1788147035,
+      "message_id": 620439446,
+      "message_timestamp": 1788208247,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-31T04:31:02.137845+00:00"
+      "updated_at": "2026-08-31T20:30:53.572538+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -230,19 +214,179 @@
           "title": "Fulham vs Afc Wimbledon // UK Thu 27 Aug"
         },
         {
-          "display_title": "6:30 AM Chelsea vs Luton Town // UK Thu 27 Aug 7:45pm",
+          "display_title": "6:45 AM Birmingham vs Southampton // UK Tue 1 Sep // ET Tue 1 Sep 2:45pm",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-08-31T19:45:00+01:00",
+          "stop": "2026-08-31T23:45:00+01:00",
+          "title": "Birmingham vs Southampton // UK Tue 1 Sep // ET Tue 1 Sep 2:45pm"
+        },
+        {
+          "display_title": "6:30 AM Portsmouth vs Derby // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
           "start": "2026-08-31T19:30:00+01:00",
           "stop": "2026-08-31T23:30:00+01:00",
-          "title": "Chelsea vs Luton Town // UK Thu 27 Aug 7:45pm"
+          "title": "Portsmouth vs Derby // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Preston vs Bristol C // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Preston vs Bristol C // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Sheff Utd vs Bolton // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Sheff Utd vs Bolton // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Swansea vs Watford // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Swansea vs Watford // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Bradford vs Cambridge U // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Bradford vs Cambridge U // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Bromley vs Leyton Orient // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Bromley vs Leyton Orient // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Doncaster vs Notts County // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Doncaster vs Notts County // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Huddersfield vs Oxford Utd // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Huddersfield vs Oxford Utd // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Leicester vs Plymouth // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Leicester vs Plymouth // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Peterborough vs Stevenage // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Peterborough vs Stevenage // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Wycombe vs Sheff Wed // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Wycombe vs Sheff Wed // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Accrington vs Grimsby // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Accrington vs Grimsby // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Bristol Rovers vs Colchester // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Bristol Rovers vs Colchester // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Cheltenham vs York // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 16",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Cheltenham vs York // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Chesterfield vs Gillingham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 17",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Chesterfield vs Gillingham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Crewe vs Walsall // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 18",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Crewe vs Walsall // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Exeter vs Barnet // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Exeter vs Barnet // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Fleetwood vs Oldham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Fleetwood vs Oldham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Northampton vs Crawley // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Northampton vs Crawley // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Rochdale vs Shrewsbury // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 22",
+          "slot_norm": "SKY SPORTS+ 22",
+          "start": "2026-08-31T19:30:00+01:00",
+          "stop": "2026-08-31T23:30:00+01:00",
+          "title": "Rochdale vs Shrewsbury // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 620336398,
-      "message_timestamp": 1788186642,
+      "message_id": 620416682,
+      "message_timestamp": 1788202812,
       "timezone": "Europe/London",
-      "updated_at": "2026-08-31T14:31:06.025917+00:00"
+      "updated_at": "2026-08-31T20:30:54.571193+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
