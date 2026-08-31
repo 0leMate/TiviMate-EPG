@@ -188,67 +188,35 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "5:00 AM AEW All In London",
+          "display_title": "12:00 PM WWE Monday Night RAW",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-08-30T13:00:00-04:00",
-          "stop": "2026-08-30T17:00:00-04:00",
-          "title": "AEW All In London"
+          "start": "2026-08-31T20:00:00-04:00",
+          "stop": "2026-09-01T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         },
         {
-          "display_title": "5:00 AM LBW AEW All In London",
+          "display_title": "10:15 AM Wild Thing Kart Series at Stafford",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-30T13:00:00-04:00",
-          "stop": "2026-08-30T17:00:00-04:00",
-          "title": "LBW AEW All In London"
+          "start": "2026-08-31T18:15:00-04:00",
+          "stop": "2026-08-31T22:15:00-04:00",
+          "title": "Wild Thing Kart Series at Stafford"
         },
         {
-          "display_title": "9:20 AM SLM Triple Crown at Slinger",
-          "slot": "PPV2 05",
-          "slot_norm": "PPV2 5",
-          "start": "2026-08-30T17:20:00-04:00",
-          "stop": "2026-08-30T21:20:00-04:00",
-          "title": "SLM Triple Crown at Slinger"
-        },
-        {
-          "display_title": "10:30 AM MARS Late Models at Belle Clair",
-          "slot": "PPV2 06",
-          "slot_norm": "PPV2 6",
-          "start": "2026-08-30T18:30:00-04:00",
-          "stop": "2026-08-30T22:30:00-04:00",
-          "title": "MARS Late Models at Belle Clair"
-        },
-        {
-          "display_title": "11:15 AM Nodak Speedway",
-          "slot": "PPV2 07",
-          "slot_norm": "PPV2 7",
-          "start": "2026-08-30T19:15:00-04:00",
-          "stop": "2026-08-30T23:15:00-04:00",
-          "title": "Nodak Speedway"
-        },
-        {
-          "display_title": "11:25 AM Husets Speedway",
-          "slot": "PPV2 08",
-          "slot_norm": "PPV2 8",
-          "start": "2026-08-30T19:25:00-04:00",
-          "stop": "2026-08-30T23:25:00-04:00",
-          "title": "Husets Speedway"
-        },
-        {
-          "display_title": "12:15 PM Sheridan Speedway",
-          "slot": "PPV2 09",
-          "slot_norm": "PPV2 9",
-          "start": "2026-08-30T20:15:00-04:00",
-          "stop": "2026-08-31T00:15:00-04:00",
-          "title": "Sheridan Speedway"
+          "display_title": "1:00 PM High Limit Racing at Douglas County",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-08-31T21:00:00-04:00",
+          "stop": "2026-09-01T01:00:00-04:00",
+          "title": "High Limit Racing at Douglas County"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 620106669,
-      "message_timestamp": 1788093020,
+      "message_id": 620289477,
+      "message_timestamp": 1788177632,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T12:30:49.378219+00:00"
+      "updated_at": "2026-08-31T12:30:50.943214+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -504,155 +472,123 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "5:00 AM Zidansek vs Timofeeva Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-09-01T03:00:00+10:00",
-          "stop": "2026-09-01T07:00:00+10:00",
-          "title": "Zidansek vs Timofeeva Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "5:30 AM Podoroska vs Waltert Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
-          "start": "2026-09-01T03:30:00+10:00",
-          "stop": "2026-09-01T07:30:00+10:00",
-          "title": "Podoroska vs Waltert Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "5:30 AM Snigur vs Shnaider Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
-          "start": "2026-09-01T03:30:00+10:00",
-          "stop": "2026-09-01T07:30:00+10:00",
-          "title": "Snigur vs Shnaider Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "5:30 AM Rodionov vs Mpetshi Perricard Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
-          "start": "2026-09-01T03:30:00+10:00",
-          "stop": "2026-09-01T07:30:00+10:00",
-          "title": "Rodionov vs Mpetshi Perricard Men\\`s Singles R1 US Open 2026"
-        },
-        {
           "display_title": "5:30 AM Chwalinska vs Townsend Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
+          "slot": "AU STAN ALT 029",
+          "slot_norm": "AU STAN ALT 29",
           "start": "2026-09-01T03:30:00+10:00",
           "stop": "2026-09-01T07:30:00+10:00",
           "title": "Chwalinska vs Townsend Women\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM Aston Villa vs Arsenal Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
+          "slot": "AU STAN ALT 030",
+          "slot_norm": "AU STAN ALT 30",
           "start": "2026-09-01T04:00:00+10:00",
           "stop": "2026-09-01T08:00:00+10:00",
           "title": "Aston Villa vs Arsenal Premier League Matchweek 2 2026/2027"
         },
         {
           "display_title": "6:00 AM Nakashima vs Baez Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
+          "slot": "AU STAN ALT 031",
+          "slot_norm": "AU STAN ALT 31",
           "start": "2026-09-01T04:00:00+10:00",
           "stop": "2026-09-01T08:00:00+10:00",
           "title": "Nakashima vs Baez Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM Svrcina vs Royer Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 032",
-          "slot_norm": "AU STAN 32",
+          "slot": "AU STAN ALT 032",
+          "slot_norm": "AU STAN ALT 32",
           "start": "2026-09-01T04:00:00+10:00",
           "stop": "2026-09-01T08:00:00+10:00",
           "title": "Svrcina vs Royer Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:00 AM Dzumhur vs Hurkacz Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 033",
-          "slot_norm": "AU STAN 33",
+          "slot": "AU STAN ALT 033",
+          "slot_norm": "AU STAN ALT 33",
           "start": "2026-09-01T04:00:00+10:00",
           "stop": "2026-09-01T08:00:00+10:00",
           "title": "Dzumhur vs Hurkacz Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:01 AM Darderi vs Wendelken Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 034",
-          "slot_norm": "AU STAN 34",
+          "slot": "AU STAN ALT 034",
+          "slot_norm": "AU STAN ALT 34",
           "start": "2026-09-01T04:01:00+10:00",
           "stop": "2026-09-01T08:01:00+10:00",
           "title": "Darderi vs Wendelken Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:30 AM Koevermans vs McNally Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 035",
-          "slot_norm": "AU STAN 35",
+          "slot": "AU STAN ALT 035",
+          "slot_norm": "AU STAN ALT 35",
           "start": "2026-09-01T04:30:00+10:00",
           "stop": "2026-09-01T08:30:00+10:00",
           "title": "Koevermans vs McNally Women\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "6:50 AM • Aston Villa vs Arsenal Premier League Matchweek 2 2026/2027",
-          "slot": "AU STAN 036",
-          "slot_norm": "AU STAN 36",
+          "slot": "AU STAN ALT 036",
+          "slot_norm": "AU STAN ALT 36",
           "start": "2026-09-01T04:50:00+10:00",
           "stop": "2026-09-01T08:50:00+10:00",
           "title": "• Aston Villa vs Arsenal Premier League Matchweek 2 2026/2027"
         },
         {
           "display_title": "7:00 AM Shang vs Trungelliti Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 037",
-          "slot_norm": "AU STAN 37",
+          "slot": "AU STAN ALT 037",
+          "slot_norm": "AU STAN ALT 37",
           "start": "2026-09-01T05:00:00+10:00",
           "stop": "2026-09-01T09:00:00+10:00",
           "title": "Shang vs Trungelliti Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "7:00 AM Blockx vs Barrios Vera Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 038",
-          "slot_norm": "AU STAN 38",
+          "slot": "AU STAN ALT 038",
+          "slot_norm": "AU STAN ALT 38",
           "start": "2026-09-01T05:00:00+10:00",
           "stop": "2026-09-01T09:00:00+10:00",
           "title": "Blockx vs Barrios Vera Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "7:00 AM Berrettini vs Wawrinka Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 039",
-          "slot_norm": "AU STAN 39",
+          "slot": "AU STAN ALT 039",
+          "slot_norm": "AU STAN ALT 39",
           "start": "2026-09-01T05:00:00+10:00",
           "stop": "2026-09-01T09:00:00+10:00",
           "title": "Berrettini vs Wawrinka Men\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "7:00 AM Grabher vs Cirstea Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 040",
-          "slot_norm": "AU STAN 40",
+          "slot": "AU STAN ALT 040",
+          "slot_norm": "AU STAN ALT 40",
           "start": "2026-09-01T05:00:00+10:00",
           "stop": "2026-09-01T09:00:00+10:00",
           "title": "Grabher vs Cirstea Women\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "7:00 AM Golubic vs Parry Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 041",
-          "slot_norm": "AU STAN 41",
+          "slot": "AU STAN ALT 041",
+          "slot_norm": "AU STAN ALT 41",
           "start": "2026-09-01T05:00:00+10:00",
           "stop": "2026-09-01T09:00:00+10:00",
           "title": "Golubic vs Parry Women\\`s Singles R1 US Open 2026"
         },
         {
           "display_title": "7:30 AM Hanfmann vs Tabilo Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 042",
-          "slot_norm": "AU STAN 42",
+          "slot": "AU STAN ALT 042",
+          "slot_norm": "AU STAN ALT 42",
           "start": "2026-09-01T05:30:00+10:00",
           "stop": "2026-09-01T09:30:00+10:00",
           "title": "Hanfmann vs Tabilo Men\\`s Singles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 620249979,
-      "message_timestamp": 1788168632,
+      "message_id": 620273495,
+      "message_timestamp": 1788174017,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-08-31T10:30:54.769149+00:00"
+      "updated_at": "2026-08-31T12:30:51.650476+00:00"
     }
   },
   "version": 1
