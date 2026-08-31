@@ -129,26 +129,26 @@
       "events": [
         {
           "display_title": "4:20 AM Lecce vs Roma",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-08-31T12:20:00-04:00",
           "stop": "2026-08-31T16:20:00-04:00",
           "title": "Lecce vs Roma"
         },
         {
           "display_title": "6:30 AM Atalanta vs Bologna",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-08-31T14:30:00-04:00",
           "stop": "2026-08-31T18:30:00-04:00",
           "title": "Atalanta vs Bologna"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 620194013,
-      "message_timestamp": 1788148822,
+      "message_id": 620235527,
+      "message_timestamp": 1788165044,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-31T04:31:01.750552+00:00"
+      "updated_at": "2026-08-31T08:30:49.012539+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
