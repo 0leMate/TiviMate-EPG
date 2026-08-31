@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "11:15 AM Nodak Speedway",
+          "display_title": "11:00 AM Nodak Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-30T19:15:00-04:00",
-          "stop": "2026-08-30T23:15:00-04:00",
+          "start": "2026-08-31T19:00:00-04:00",
+          "stop": "2026-08-31T23:00:00-04:00",
           "title": "Nodak Speedway"
-        },
-        {
-          "display_title": "11:25 AM Huset's Speedway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-08-30T19:25:00-04:00",
-          "stop": "2026-08-30T23:25:00-04:00",
-          "title": "Huset's Speedway"
-        },
-        {
-          "display_title": "12:15 PM Sheridan Speedway",
-          "slot": "DIRT 03",
-          "slot_norm": "DIRT 3",
-          "start": "2026-08-30T20:15:00-04:00",
-          "stop": "2026-08-31T00:15:00-04:00",
-          "title": "Sheridan Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 620103786,
-      "message_timestamp": 1788091232,
+      "message_id": 620465535,
+      "message_timestamp": 1788215420,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T12:30:48.784199+00:00"
+      "updated_at": "2026-08-31T22:30:50.608410+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
