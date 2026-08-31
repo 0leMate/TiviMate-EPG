@@ -128,43 +128,27 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "10:55 PM Aberdeen vs Rangers",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-08-30T06:55:00-04:00",
-          "stop": "2026-08-30T10:55:00-04:00",
-          "title": "Aberdeen vs Rangers"
+          "display_title": "4:20 AM Lecce vs Roma",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-08-31T12:20:00-04:00",
+          "stop": "2026-08-31T16:20:00-04:00",
+          "title": "Lecce vs Roma"
         },
         {
-          "display_title": "4:00 AM Napoli vs Como",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-08-30T12:00:00-04:00",
-          "stop": "2026-08-30T16:00:00-04:00",
-          "title": "Napoli vs Como"
-        },
-        {
-          "display_title": "6:30 AM Cagliari vs Inter",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-08-30T14:30:00-04:00",
-          "stop": "2026-08-30T18:30:00-04:00",
-          "title": "Cagliari vs Inter"
-        },
-        {
-          "display_title": "6:30 AM Lazio vs Genoa",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-08-30T14:30:00-04:00",
-          "stop": "2026-08-30T18:30:00-04:00",
-          "title": "Lazio vs Genoa"
+          "display_title": "6:30 AM Atalanta vs Bologna",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-08-31T14:30:00-04:00",
+          "stop": "2026-08-31T18:30:00-04:00",
+          "title": "Atalanta vs Bologna"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 620084514,
-      "message_timestamp": 1788078619,
+      "message_id": 620194013,
+      "message_timestamp": 1788148822,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T08:30:44.674892+00:00"
+      "updated_at": "2026-08-31T04:31:01.750552+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -186,27 +170,19 @@
           "title": "Wild Thing Kart Series Stafford"
         },
         {
-          "display_title": "10:20 AM SLM Triple Crown Slinger",
+          "display_title": "12:30 PM High Limit Racing Douglas Co",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-08-30T18:20:00-04:00",
-          "stop": "2026-08-30T22:20:00-04:00",
-          "title": "SLM Triple Crown Slinger"
-        },
-        {
-          "display_title": "1:00 PM Anthony Pettis FC 25",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-08-30T21:00:00-04:00",
-          "stop": "2026-08-31T01:00:00-04:00",
-          "title": "Anthony Pettis FC 25"
+          "start": "2026-08-30T20:30:00-04:00",
+          "stop": "2026-08-31T00:30:00-04:00",
+          "title": "High Limit Racing Douglas Co"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620172207,
-      "message_timestamp": 1788136219,
+      "message_id": 620190855,
+      "message_timestamp": 1788147035,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-31T00:31:04.444679+00:00"
+      "updated_at": "2026-08-31T04:31:02.137845+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
