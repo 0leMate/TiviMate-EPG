@@ -9996,12 +9996,12 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
     <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+ 01:</display-name>
+    <display-name>SKY SPORTS+ 01: 19:45 Fulham vs Afc Wimbledon // UK Thu 27 Aug</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
     <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+ 02:</display-name>
+    <display-name>SKY SPORTS+ 02: 19:30 Chelsea vs Luton Town // UK Thu 27 Aug 7:45pm</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
@@ -12409,73 +12409,133 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260901033000 +1000" stop="20260901073000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.029">
+  <programme start="20260901033000 +1000" stop="20260901073000 +1000" channel="custom.AU.STAN.AU.STAN.027">
+    <title>5:30 AM Snigur vs Shnaider Women\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901033000 +1000" stop="20260901073000 +1000" channel="custom.AU.STAN.AU.STAN.028">
+    <title>5:30 AM Rodionov vs Mpetshi Perricard Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901033000 +1000" stop="20260901073000 +1000" channel="custom.AU.STAN.AU.STAN.029">
     <title>5:30 AM Chwalinska vs Townsend Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.030">
+  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.030">
     <title>6:00 AM Aston Villa vs Arsenal Premier League Matchweek 2 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.031">
+  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.031">
     <title>6:00 AM Nakashima vs Baez Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.032">
+  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.032">
     <title>6:00 AM Svrcina vs Royer Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.033">
+  <programme start="20260901040000 +1000" stop="20260901080000 +1000" channel="custom.AU.STAN.AU.STAN.033">
     <title>6:00 AM Dzumhur vs Hurkacz Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901040100 +1000" stop="20260901080100 +1000" channel="custom.AU.STAN.AU.STAN.ALT.034">
+  <programme start="20260901040100 +1000" stop="20260901080100 +1000" channel="custom.AU.STAN.AU.STAN.034">
     <title>6:01 AM Darderi vs Wendelken Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901043000 +1000" stop="20260901083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.035">
+  <programme start="20260901043000 +1000" stop="20260901083000 +1000" channel="custom.AU.STAN.AU.STAN.035">
     <title>6:30 AM Koevermans vs McNally Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901045000 +1000" stop="20260901085000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.036">
+  <programme start="20260901045000 +1000" stop="20260901085000 +1000" channel="custom.AU.STAN.AU.STAN.036">
     <title>6:50 AM • Aston Villa vs Arsenal Premier League Matchweek 2 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.037">
+  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.037">
     <title>7:00 AM Shang vs Trungelliti Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.038">
+  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.038">
     <title>7:00 AM Blockx vs Barrios Vera Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.039">
+  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.039">
     <title>7:00 AM Berrettini vs Wawrinka Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.040">
+  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.040">
     <title>7:00 AM Grabher vs Cirstea Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.041">
+  <programme start="20260901050000 +1000" stop="20260901090000 +1000" channel="custom.AU.STAN.AU.STAN.041">
     <title>7:00 AM Golubic vs Parry Women\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260901053000 +1000" stop="20260901093000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.042">
+  <programme start="20260901053000 +1000" stop="20260901093000 +1000" channel="custom.AU.STAN.AU.STAN.042">
     <title>7:30 AM Hanfmann vs Tabilo Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901060000 +1000" stop="20260901100000 +1000" channel="custom.AU.STAN.AU.STAN.043">
+    <title>8:00 AM Mensik vs Mochizuki Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901060000 +1000" stop="20260901100000 +1000" channel="custom.AU.STAN.AU.STAN.044">
+    <title>8:00 AM Li vs Ruzic Women\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901060000 +1000" stop="20260901100000 +1000" channel="custom.AU.STAN.AU.STAN.045">
+    <title>8:00 AM Volynets vs Noskova Women\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901060000 +1000" stop="20260901100000 +1000" channel="custom.AU.STAN.AU.STAN.046">
+    <title>8:00 AM Stephens vs Tauson Women\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901070000 +1000" stop="20260901110000 +1000" channel="custom.AU.STAN.AU.STAN.047">
+    <title>9:00 AM AugerAliassime vs Hijikata Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901070000 +1000" stop="20260901110000 +1000" channel="custom.AU.STAN.AU.STAN.048">
+    <title>9:00 AM Halys vs Diaz Acosta Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901070000 +1000" stop="20260901110000 +1000" channel="custom.AU.STAN.AU.STAN.049">
+    <title>9:00 AM Joint vs Samsonova Women\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901073000 +1000" stop="20260901113000 +1000" channel="custom.AU.STAN.AU.STAN.050">
+    <title>9:30 AM Dimitrov vs Popyrin Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901073000 +1000" stop="20260901113000 +1000" channel="custom.AU.STAN.AU.STAN.051">
+    <title>9:30 AM Burruchaga vs Khachanov Men\`s Singles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260901073000 +1000" stop="20260901113000 +1000" channel="custom.AU.STAN.AU.STAN.052">
+    <title>9:30 AM Borges vs Tien Men\`s Singles R1 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14324,153 +14384,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260227092500 +0000" stop="20260227132500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>10:25 PM ATP Tour: S. Bolelli/A. Vavassori v M. Arevalo/M. Pavic</title>
+  <programme start="20260831194500 +0100" stop="20260831234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
+    <title>6:45 AM Fulham vs Afc Wimbledon // UK Thu 27 Aug</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20260227105500 +0000" stop="20260227145500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>11:55 PM ATP Tour: J. Cash/L. Glasspool v H. Heliovaara/H. Patten</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227125500 +0000" stop="20260227165500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:55 AM ATP Tour: F. Auger Aliassime v D. Medvedev</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227145500 +0000" stop="20260227185500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>3:55 AM ATP Tour: A. Rublev v T. Griekspoor</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227155500 +0000" stop="20260227195500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>4:55 AM ATP Tour: Y. Hanfmann v V. Gaubas</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227175500 +0000" stop="20260227215500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>6:55 AM ATP Tour: F. Cerundolo v E. Nava</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>7:55 AM PGA Tour: Cognizant Classic Featured Hole</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>7:55 AM PGA Tour: Cognizant Classic Featured Hole</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <title>7:55 AM PGA Tour: Cognizant Classic Featured Group 1</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <title>7:55 AM PGA Tour: Cognizant Classic Featured Group 2</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227185500 +0000" stop="20260227225500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.11">
-    <title>7:55 AM WTA Tour: K. Birrell v A. Tomljanovic</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227193000 +0000" stop="20260227233000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.12">
-    <title>8:30 AM EFL: Harrogate v Cheltenham</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227195000 +0000" stop="20260227235000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.13">
-    <title>8:50 AM Betfred Super League: Castleford Tigers v Huddersfield Giants</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227195000 +0000" stop="20260227235000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
-    <title>8:50 AM Betfred Super League: Hull FC v York City Knights</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227195500 +0000" stop="20260227235500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.15">
-    <title>8:55 AM WTA Tour: M. Frech v M. Bouzkova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227202500 +0000" stop="20260228002500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.16">
-    <title>9:25 AM WTA Tour: Chong Eudice Wong/Liang En Shuo v S. Aoyama/E. Shibahara</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227202500 +0000" stop="20260228002500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.17">
-    <title>9:25 AM WTA Tour: R. Masarova v T. Townsend</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227212500 +0000" stop="20260228012500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.18">
-    <title>10:25 AM ATP Tour: A. Pellegrino v L. Darderi</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227212500 +0000" stop="20260228012500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.19">
-    <title>10:25 AM ATP Tour: Z. Sonmez v C. Bucsa</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227215500 +0000" stop="20260228015500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.20">
-    <title>10:55 AM WTA Tour: K. Birrell/C. McNally v C. Harrison/D. Hewitt</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227215500 +0000" stop="20260228015500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.21">
-    <title>10:55 AM WTA Tour: K. Piter/J. Tjen v C. Bucsa/Jiang Xinyu</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227225500 +0000" stop="20260228025500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.22">
-    <title>11:55 AM ATP Tour: A. Tabilo v S. Baez</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227235500 +0000" stop="20260228035500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.23">
-    <title>12:55 PM WTA Tour: O. Selekhmeteva v P. Stearns</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260227235500 +0000" stop="20260228035500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.24">
-    <title>12:55 PM WTA Tour: V. Jimenez Kasintseva v Zhang Shuai</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260228005500 +0000" stop="20260228045500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.25">
-    <title>1:55 PM ATP Tour: M. Kecmanovic v F. Cobolli</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260228005500 +0000" stop="20260228045500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.26">
-    <title>1:55 PM ATP Tour: V. Kirkov/B. Stevens v A. Erler/R. Galloway</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260228012500 +0000" stop="20260228052500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.27">
-    <title>2:25 PM WTA Tour: J. Paolini v K. Boulter</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260228012500 +0000" stop="20260228052500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.28">
-    <title>2:25 PM WTA Tour: Yuan Yue v A. Krueger</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260228022500 +0000" stop="20260228062500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.29">
-    <title>3:25 PM ATP Tour: F. Tiafoe v B. Nakashima</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260228022500 +0000" stop="20260228062500 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.30">
-    <title>3:25 PM ATP Tour: R. Jodar/R. Pacheco Mendez v M. Melo/A. Zverev</title>
+  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
+    <title>6:30 AM Chelsea vs Luton Town // UK Thu 27 Aug 7:45pm</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
