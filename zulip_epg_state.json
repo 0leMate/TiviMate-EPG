@@ -192,13 +192,21 @@
           "start": "2026-08-30T18:20:00-04:00",
           "stop": "2026-08-30T22:20:00-04:00",
           "title": "SLM Triple Crown Slinger"
+        },
+        {
+          "display_title": "1:00 PM Anthony Pettis FC 25",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-08-30T21:00:00-04:00",
+          "stop": "2026-08-31T01:00:00-04:00",
+          "title": "Anthony Pettis FC 25"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620160061,
-      "message_timestamp": 1788129012,
+      "message_id": 620172207,
+      "message_timestamp": 1788136219,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-30T22:30:57.064974+00:00"
+      "updated_at": "2026-08-31T00:31:04.444679+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

@@ -6576,7 +6576,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 18:20 SLM Triple Crown Slinger</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -6601,7 +6601,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
     <display-name>PPV 08</display-name>
-    <display-name>PPV 08:</display-name>
+    <display-name>PPV 08: 21:00 Anthony Pettis FC 25</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.09">
@@ -14266,6 +14266,11 @@
   </programme>
   <programme start="20260830182000 -0400" stop="20260830222000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
     <title>10:20 AM SLM Triple Crown Slinger</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260830210000 -0400" stop="20260831010000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
+    <title>1:00 PM Anthony Pettis FC 25</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
