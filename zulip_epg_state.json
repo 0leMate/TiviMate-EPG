@@ -228,43 +228,27 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night RAW",
-          "slot": "PPV2 01",
-          "slot_norm": "PPV2 1",
-          "start": "2026-08-31T20:00:00-04:00",
-          "stop": "2026-09-01T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
-        },
-        {
-          "display_title": "10:15 AM Wild Thing Kart Series at Stafford",
+          "display_title": "1:30 PM DWCS Post Fight Conference",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-08-31T18:15:00-04:00",
-          "stop": "2026-08-31T22:15:00-04:00",
-          "title": "Wild Thing Kart Series at Stafford"
+          "start": "2026-09-01T21:30:00-04:00",
+          "stop": "2026-09-02T01:30:00-04:00",
+          "title": "DWCS Post Fight Conference"
         },
         {
-          "display_title": "1:00 PM High Limit Racing at Douglas County",
+          "display_title": "12:00 PM Country Box Where Music Meets Boxing",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-08-31T21:00:00-04:00",
-          "stop": "2026-09-01T01:00:00-04:00",
-          "title": "High Limit Racing at Douglas County"
-        },
-        {
-          "display_title": "11:15 AM Nodak Speedway",
-          "slot": "PPV2 05",
-          "slot_norm": "PPV2 5",
-          "start": "2026-08-31T19:15:00-04:00",
-          "stop": "2026-08-31T23:15:00-04:00",
-          "title": "Nodak Speedway"
+          "start": "2026-09-01T20:00:00-04:00",
+          "stop": "2026-09-02T00:00:00-04:00",
+          "title": "Country Box Where Music Meets Boxing"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 620490971,
-      "message_timestamp": 1788224412,
+      "message_id": 620642333,
+      "message_timestamp": 1788265834,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-01T02:34:06.794611+00:00"
+      "updated_at": "2026-09-01T12:39:06.776796+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
