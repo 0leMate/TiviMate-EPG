@@ -288,126 +288,6 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "6:30 AM Jovic vs Frech Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-09-02T04:30:00+10:00",
-          "stop": "2026-09-02T08:30:00+10:00",
-          "title": "Jovic vs Frech Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Quevedo vs Mertens Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
-          "start": "2026-09-02T04:30:00+10:00",
-          "stop": "2026-09-02T08:30:00+10:00",
-          "title": "Quevedo vs Mertens Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Rus vs Jeanjean Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
-          "start": "2026-09-02T04:30:00+10:00",
-          "stop": "2026-09-02T08:30:00+10:00",
-          "title": "Rus vs Jeanjean Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Marozsan vs Zheng Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
-          "start": "2026-09-02T04:30:00+10:00",
-          "stop": "2026-09-02T08:30:00+10:00",
-          "title": "Marozsan vs Zheng Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Svajda vs Altmaier Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
-          "start": "2026-09-02T04:30:00+10:00",
-          "stop": "2026-09-02T08:30:00+10:00",
-          "title": "Svajda vs Altmaier Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Molcan vs Bonzi Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
-          "start": "2026-09-02T04:30:00+10:00",
-          "stop": "2026-09-02T08:30:00+10:00",
-          "title": "Molcan vs Bonzi Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM Bartunkova vs Sherif Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
-          "start": "2026-09-02T05:00:00+10:00",
-          "stop": "2026-09-02T09:00:00+10:00",
-          "title": "Bartunkova vs Sherif Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Sweeny vs Moutet Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Sweeny vs Moutet Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Basavareddy vs Schoolkate Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Basavareddy vs Schoolkate Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Frodin vs Rybakina Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Frodin vs Rybakina Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Putintseva vs Bencic Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Putintseva vs Bencic Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Comesana vs Cobolli Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Comesana vs Cobolli Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Misolic vs Cerundolo Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Misolic vs Cerundolo Men\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Knutson vs Lys Women\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-02T01:00:00+10:00",
-          "stop": "2026-09-02T05:00:00+10:00",
-          "title": "Knutson vs Lys Women\\`s Singles R1 US Open 2026"
-        },
-        {
-          "display_title": "3:01 AM Bellucci vs Piros Men\\`s Singles R1 US Open 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-02T01:01:00+10:00",
-          "stop": "2026-09-02T05:01:00+10:00",
-          "title": "Bellucci vs Piros Men\\`s Singles R1 US Open 2026"
-        },
-        {
           "display_title": "3:01 AM Sakkari vs Montgomery Women\\`s Singles R1 US Open 2026",
           "slot": "AU STAN ALT 009",
           "slot_norm": "AU STAN ALT 9",
@@ -470,13 +350,149 @@
           "start": "2026-09-02T02:30:00+10:00",
           "stop": "2026-09-02T06:30:00+10:00",
           "title": "Ugo Carabelli vs Struff Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Fritz vs Blanch Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 017",
+          "slot_norm": "AU STAN ALT 17",
+          "start": "2026-09-02T03:00:00+10:00",
+          "stop": "2026-09-02T07:00:00+10:00",
+          "title": "Fritz vs Blanch Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Andreeva vs Tjen Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 018",
+          "slot_norm": "AU STAN ALT 18",
+          "start": "2026-09-02T03:00:00+10:00",
+          "stop": "2026-09-02T07:00:00+10:00",
+          "title": "Andreeva vs Tjen Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Potapova vs Valentova Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 019",
+          "slot_norm": "AU STAN ALT 19",
+          "start": "2026-09-02T03:00:00+10:00",
+          "stop": "2026-09-02T07:00:00+10:00",
+          "title": "Potapova vs Valentova Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Vidmanova vs Bouzas Maneiro Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 020",
+          "slot_norm": "AU STAN ALT 20",
+          "start": "2026-09-02T03:00:00+10:00",
+          "stop": "2026-09-02T07:00:00+10:00",
+          "title": "Vidmanova vs Bouzas Maneiro Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM de Jong vs Passaro Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 021",
+          "slot_norm": "AU STAN ALT 21",
+          "start": "2026-09-02T03:00:00+10:00",
+          "stop": "2026-09-02T07:00:00+10:00",
+          "title": "de Jong vs Passaro Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Maria vs Ostapenko Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 022",
+          "slot_norm": "AU STAN ALT 22",
+          "start": "2026-09-02T03:00:00+10:00",
+          "stop": "2026-09-02T07:00:00+10:00",
+          "title": "Maria vs Ostapenko Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:00 AM Jodar vs Kokkinakis Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 023",
+          "slot_norm": "AU STAN ALT 23",
+          "start": "2026-09-02T04:00:00+10:00",
+          "stop": "2026-09-02T08:00:00+10:00",
+          "title": "Jodar vs Kokkinakis Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:00 AM Cerundolo vs Gea Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 024",
+          "slot_norm": "AU STAN ALT 24",
+          "start": "2026-09-02T04:00:00+10:00",
+          "stop": "2026-09-02T08:00:00+10:00",
+          "title": "Cerundolo vs Gea Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM Jovic vs Frech Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 025",
+          "slot_norm": "AU STAN ALT 25",
+          "start": "2026-09-02T04:30:00+10:00",
+          "stop": "2026-09-02T08:30:00+10:00",
+          "title": "Jovic vs Frech Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM Quevedo vs Mertens Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 026",
+          "slot_norm": "AU STAN ALT 26",
+          "start": "2026-09-02T04:30:00+10:00",
+          "stop": "2026-09-02T08:30:00+10:00",
+          "title": "Quevedo vs Mertens Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM Rus vs Jeanjean Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 027",
+          "slot_norm": "AU STAN ALT 27",
+          "start": "2026-09-02T04:30:00+10:00",
+          "stop": "2026-09-02T08:30:00+10:00",
+          "title": "Rus vs Jeanjean Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM Marozsan vs Zheng Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 028",
+          "slot_norm": "AU STAN ALT 28",
+          "start": "2026-09-02T04:30:00+10:00",
+          "stop": "2026-09-02T08:30:00+10:00",
+          "title": "Marozsan vs Zheng Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM Svajda vs Altmaier Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 029",
+          "slot_norm": "AU STAN ALT 29",
+          "start": "2026-09-02T04:30:00+10:00",
+          "stop": "2026-09-02T08:30:00+10:00",
+          "title": "Svajda vs Altmaier Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "6:30 AM Molcan vs Bonzi Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 030",
+          "slot_norm": "AU STAN ALT 30",
+          "start": "2026-09-02T04:30:00+10:00",
+          "stop": "2026-09-02T08:30:00+10:00",
+          "title": "Molcan vs Bonzi Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "7:00 AM Bartunkova vs Sherif Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 031",
+          "slot_norm": "AU STAN ALT 31",
+          "start": "2026-09-02T05:00:00+10:00",
+          "stop": "2026-09-02T09:00:00+10:00",
+          "title": "Bartunkova vs Sherif Women\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "8:00 AM Choinski vs Van De Zandschulp Men\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 032",
+          "slot_norm": "AU STAN ALT 32",
+          "start": "2026-09-02T06:00:00+10:00",
+          "stop": "2026-09-02T10:00:00+10:00",
+          "title": "Choinski vs Van De Zandschulp Men\\`s Singles R1 US Open 2026"
+        },
+        {
+          "display_title": "8:00 AM Linette vs Jones Women\\`s Singles R1 US Open 2026",
+          "slot": "AU STAN ALT 033",
+          "slot_norm": "AU STAN ALT 33",
+          "start": "2026-09-02T06:00:00+10:00",
+          "stop": "2026-09-02T10:00:00+10:00",
+          "title": "Linette vs Jones Women\\`s Singles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 620610041,
-      "message_timestamp": 1788258613,
+      "message_id": 620672345,
+      "message_timestamp": 1788271215,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-01T10:36:33.698841+00:00"
+      "updated_at": "2026-09-01T14:35:23.925331+00:00"
     }
   },
   "version": 1
