@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 19:00 Nodak Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -14639,113 +14639,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260831194500 +0100" stop="20260831234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>6:45 AM Fulham vs Afc Wimbledon // UK Thu 27 Aug</title>
+  <programme start="20260902193000 +0100" stop="20260902233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.23">
+    <title>6:30 AM Salford vs Newport // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20260831194500 +0100" stop="20260831234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>6:45 AM Birmingham vs Southampton // UK Tue 1 Sep // ET Tue 1 Sep 2:45pm</title>
+  <programme start="20260902193000 +0100" stop="20260902233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.24">
+    <title>6:30 AM Swindon vs Port Vale // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>6:30 AM Portsmouth vs Derby // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>6:30 AM Preston vs Bristol C // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>6:30 AM Sheff Utd vs Bolton // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>6:30 AM Swansea vs Watford // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>6:30 AM Bradford vs Cambridge U // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>6:30 AM Bromley vs Leyton Orient // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <title>6:30 AM Doncaster vs Notts County // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <title>6:30 AM Huddersfield vs Oxford Utd // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.11">
-    <title>6:30 AM Leicester vs Plymouth // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.12">
-    <title>6:30 AM Peterborough vs Stevenage // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.13">
-    <title>6:30 AM Wycombe vs Sheff Wed // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
-    <title>6:30 AM Accrington vs Grimsby // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.15">
-    <title>6:30 AM Bristol Rovers vs Colchester // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.16">
-    <title>6:30 AM Cheltenham vs York // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.17">
-    <title>6:30 AM Chesterfield vs Gillingham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.18">
-    <title>6:30 AM Crewe vs Walsall // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.19">
-    <title>6:30 AM Exeter vs Barnet // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.20">
-    <title>6:30 AM Fleetwood vs Oldham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.21">
-    <title>6:30 AM Northampton vs Crawley // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260831193000 +0100" stop="20260831233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.22">
-    <title>6:30 AM Rochdale vs Shrewsbury // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
+  <programme start="20260902193000 +0100" stop="20260902233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.25">
+    <title>6:30 AM Tranmere vs Rotherham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
