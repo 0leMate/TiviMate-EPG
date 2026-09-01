@@ -254,35 +254,67 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "6:30 AM Salford vs Newport // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 23",
-          "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Salford vs Newport // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+          "display_title": "6:30 AM Qpr vs Cardiff // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-09-01T19:30:00+01:00",
+          "stop": "2026-09-01T23:30:00+01:00",
+          "title": "Qpr vs Cardiff // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
         },
         {
-          "display_title": "6:30 AM Swindon vs Port Vale // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 24",
-          "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Swindon vs Port Vale // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+          "display_title": "6:30 AM West Brom vs Charlton // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-09-01T19:30:00+01:00",
+          "stop": "2026-09-01T23:30:00+01:00",
+          "title": "West Brom vs Charlton // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
         },
         {
-          "display_title": "6:30 AM Tranmere vs Rotherham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 25",
-          "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Tranmere vs Rotherham // UK Tue 1 Sep // ET Tue 1 Sep 2:30pm"
+          "display_title": "6:30 AM Barnsley vs Blackpool // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-09-01T19:30:00+01:00",
+          "stop": "2026-09-01T23:30:00+01:00",
+          "title": "Barnsley vs Blackpool // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Burton vs Wimbledon // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-09-01T19:30:00+01:00",
+          "stop": "2026-09-01T23:30:00+01:00",
+          "title": "Burton vs Wimbledon // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Luton vs Stockport // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-09-01T19:30:00+01:00",
+          "stop": "2026-09-01T23:30:00+01:00",
+          "title": "Luton vs Stockport // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:30 AM Wigan vs Mk Dons // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-09-01T19:30:00+01:00",
+          "stop": "2026-09-01T23:30:00+01:00",
+          "title": "Wigan vs Mk Dons // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+        },
+        {
+          "display_title": "6:45 AM Reading vs Mansfield // UK Wed 2 Sep // ET Wed 2 Sep 2:45pm",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-09-01T19:45:00+01:00",
+          "stop": "2026-09-01T23:45:00+01:00",
+          "title": "Reading vs Mansfield // UK Wed 2 Sep // ET Wed 2 Sep 2:45pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 620480884,
-      "message_timestamp": 1788220826,
+      "message_id": 620807727,
+      "message_timestamp": 1788300013,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-01T00:42:39.056994+00:00"
+      "updated_at": "2026-09-01T22:32:45.438870+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
