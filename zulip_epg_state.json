@@ -178,13 +178,21 @@
           "start": "2026-08-31T21:00:00-04:00",
           "stop": "2026-09-01T01:00:00-04:00",
           "title": "High Limit Racing at Douglas County"
+        },
+        {
+          "display_title": "11:15 AM Nodak Speedway",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-08-31T19:15:00-04:00",
+          "stop": "2026-08-31T23:15:00-04:00",
+          "title": "Nodak Speedway"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 620289477,
-      "message_timestamp": 1788177632,
+      "message_id": 620490971,
+      "message_timestamp": 1788224412,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-31T12:30:50.943214+00:00"
+      "updated_at": "2026-09-01T02:34:06.794611+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",

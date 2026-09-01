@@ -6236,7 +6236,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
     <display-name>PPV2 05</display-name>
-    <display-name>PPV2 05:</display-name>
+    <display-name>PPV2 05: 19:15 Nodak Speedway 08-31</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.06">
@@ -14631,6 +14631,11 @@
   </programme>
   <programme start="20260831210000 -0400" stop="20260901010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
     <title>1:00 PM High Limit Racing at Douglas County</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260831191500 -0400" stop="20260831231500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
+    <title>11:15 AM Nodak Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
