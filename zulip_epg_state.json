@@ -113,74 +113,74 @@
       "events": [
         {
           "display_title": "12:50 AM Sassuolo vs Frosinone",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-02T08:50:00-04:00",
           "stop": "2026-09-02T12:50:00-04:00",
           "title": "Sassuolo vs Frosinone"
         },
         {
           "display_title": "3:50 AM Udinese vs Venezia",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-02T11:50:00-04:00",
           "stop": "2026-09-02T15:50:00-04:00",
           "title": "Udinese vs Venezia"
         },
         {
-          "display_title": "6:30 AM Millwall vs Wrexham",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-09-02T14:30:00-04:00",
-          "stop": "2026-09-02T18:30:00-04:00",
+          "display_title": "6:35 AM Millwall vs Wrexham",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-09-02T14:35:00-04:00",
+          "stop": "2026-09-02T18:35:00-04:00",
           "title": "Millwall vs Wrexham"
         },
         {
-          "display_title": "6:30 AM Queens Park Rangers vs Cardiff City",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-09-02T14:30:00-04:00",
-          "stop": "2026-09-02T18:30:00-04:00",
+          "display_title": "6:35 AM Queens Park Rangers vs Cardiff City",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-09-02T14:35:00-04:00",
+          "stop": "2026-09-02T18:35:00-04:00",
           "title": "Queens Park Rangers vs Cardiff City"
         },
         {
-          "display_title": "6:30 AM Burnley vs Middlesbrough",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-09-02T14:30:00-04:00",
-          "stop": "2026-09-02T18:30:00-04:00",
+          "display_title": "6:50 AM Burnley vs Middlesbrough",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-02T14:50:00-04:00",
+          "stop": "2026-09-02T18:50:00-04:00",
           "title": "Burnley vs Middlesbrough"
         },
         {
           "display_title": "6:55 AM Falkirk vs Rangers",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-02T14:55:00-04:00",
           "stop": "2026-09-02T18:55:00-04:00",
           "title": "Falkirk vs Rangers"
         },
         {
           "display_title": "9:50 AM SV Broki vs Delfines del Este FC",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-09-02T17:50:00-04:00",
           "stop": "2026-09-02T21:50:00-04:00",
           "title": "SV Broki vs Delfines del Este FC"
         },
         {
           "display_title": "11:50 AM Salcedo FC vs Mount Pleasant FA",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-09-02T19:50:00-04:00",
           "stop": "2026-09-02T23:50:00-04:00",
           "title": "Salcedo FC vs Mount Pleasant FA"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 620871157,
-      "message_timestamp": 1788321636,
+      "message_id": 620929425,
+      "message_timestamp": 1788337818,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-02T04:34:54.470994+00:00"
+      "updated_at": "2026-09-02T08:34:40.134144+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
