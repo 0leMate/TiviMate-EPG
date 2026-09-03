@@ -154,59 +154,19 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "10:00 AM Valusia Late Models",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-09-02T18:00:00-04:00",
-          "stop": "2026-09-02T22:00:00-04:00",
-          "title": "Valusia Late Models"
-        },
-        {
-          "display_title": "10:00 AM Short Track Super Series Afton",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-09-02T18:00:00-04:00",
-          "stop": "2026-09-02T22:00:00-04:00",
-          "title": "Short Track Super Series Afton"
-        },
-        {
-          "display_title": "11:00 AM Racing4Rider Showdown Coles County",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-02T19:00:00-04:00",
-          "stop": "2026-09-02T23:00:00-04:00",
-          "title": "Racing4Rider Showdown Coles County"
-        },
-        {
-          "display_title": "11:00 AM Weekly Racing Thunder Road",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-09-02T19:00:00-04:00",
-          "stop": "2026-09-02T23:00:00-04:00",
-          "title": "Weekly Racing Thunder Road"
-        },
-        {
-          "display_title": "11:00 AM MARS Illiniois Valley Showdown LaSalle",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-09-02T19:00:00-04:00",
-          "stop": "2026-09-02T23:00:00-04:00",
-          "title": "MARS Illiniois Valley Showdown LaSalle"
-        },
-        {
-          "display_title": "1:00 PM High Limit Racing Skagit",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-09-02T21:00:00-04:00",
-          "stop": "2026-09-03T01:00:00-04:00",
-          "title": "High Limit Racing Skagit"
+          "display_title": "10:30 AM Perez vs Mchunu",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-09-03T18:30:00-04:00",
+          "stop": "2026-09-03T22:30:00-04:00",
+          "title": "Perez vs Mchunu"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621223952,
-      "message_timestamp": 1788404421,
+      "message_id": 621463746,
+      "message_timestamp": 1788456613,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-03T05:14:44.165048+00:00"
+      "updated_at": "2026-09-03T18:36:50.376297+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
