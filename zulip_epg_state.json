@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "11:00 AM Nodak Speedway",
+          "display_title": "11:00 AM Volusia Speedway Park",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-08-31T19:00:00-04:00",
-          "stop": "2026-08-31T23:00:00-04:00",
-          "title": "Nodak Speedway"
+          "start": "2026-09-03T19:00:00-04:00",
+          "stop": "2026-09-03T23:00:00-04:00",
+          "title": "Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 620465535,
-      "message_timestamp": 1788215420,
+      "message_id": 621514134,
+      "message_timestamp": 1788467414,
       "timezone": "America/New_York",
-      "updated_at": "2026-08-31T22:30:50.608410+00:00"
+      "updated_at": "2026-09-03T20:33:55.567178+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
