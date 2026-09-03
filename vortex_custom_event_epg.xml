@@ -12514,76 +12514,6 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.023">
-    <title>5:00 AM Oliynykova vs Eala Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.024">
-    <title>5:00 AM Zheng vs Putintseva Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.025">
-    <title>5:00 AM Blockx vs Trungelliti Men\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904040000 +1000" stop="20260904080000 +1000" channel="custom.AU.STAN.AU.STAN.026">
-    <title>6:00 AM Schoolkate vs Cobolli Men\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904040000 +1000" stop="20260904080000 +1000" channel="custom.AU.STAN.AU.STAN.027">
-    <title>6:00 AM Popyrin vs Tabilo Men\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904040000 +1000" stop="20260904080000 +1000" channel="custom.AU.STAN.AU.STAN.028">
-    <title>6:00 AM Mensik vs Rodionov Men\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904040000 +1000" stop="20260904080000 +1000" channel="custom.AU.STAN.AU.STAN.029">
-    <title>6:00 AM Bucsa vs Sakatsume Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904040000 +1000" stop="20260904080000 +1000" channel="custom.AU.STAN.AU.STAN.030">
-    <title>6:00 AM Piter/Siskova vs Pridankina/Tang Women\`s Doubles R1 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904043000 +1000" stop="20260904083000 +1000" channel="custom.AU.STAN.AU.STAN.031">
-    <title>6:30 AM Andreeva vs Lys Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904043000 +1000" stop="20260904083000 +1000" channel="custom.AU.STAN.AU.STAN.032">
-    <title>6:30 AM Bartunkova vs Maria Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904050000 +1000" stop="20260904090000 +1000" channel="custom.AU.STAN.AU.STAN.033">
-    <title>7:00 AM Sakkari vs Starodubtseva Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260903220000 +1000" stop="20260904020000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
-    <title>12:00 AM China Day 1: 400m OCR UIPM Obstacle World Championships 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904010000 +1000" stop="20260904050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
-    <title>3:00 AM Swiatek vs Podoroska Women\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260904010000 +1000" stop="20260904050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
-    <title>3:00 AM AugerAliassime vs Khachanov Men\`s Singles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
   <programme start="20260904010000 +1000" stop="20260904050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
     <title>3:00 AM Keys vs Bondar Women\`s Singles R2 US Open 2026</title>
     <category>Sports</category>
@@ -12621,6 +12551,81 @@
   </programme>
   <programme start="20260904010100 +1000" stop="20260904050100 +1000" channel="custom.AU.STAN.AU.STAN.ALT.011">
     <title>3:01 AM Fernandez/Tjen vs Haverlag/Radisic Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904010100 +1000" stop="20260904050100 +1000" channel="custom.AU.STAN.AU.STAN.ALT.012">
+    <title>3:01 AM Kostyuk/Ruse vs Udvardy/Pigossi Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904013000 +1000" stop="20260904053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
+    <title>3:30 AM Osaka vs Siniakova Women\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.014">
+    <title>4:30 AM Sweeny vs Musetti Men\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.015">
+    <title>4:30 AM Tagger vs Anisimova Women\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.016">
+    <title>4:30 AM Dart vs Bouzkova Women\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
+    <title>4:30 AM Bennett/Esposito Cogan vs Hunter/Krawczyk Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
+    <title>4:30 AM Perez/Schuurs vs Tikhonova/Zarazua Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.019">
+    <title>4:30 AM Aoyama/Liang vs Neel/Olmos Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023000 +1000" stop="20260904063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.020">
+    <title>4:30 AM Eikeri/Gleason vs Uchijima/Wang Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904023100 +1000" stop="20260904063100 +1000" channel="custom.AU.STAN.AU.STAN.ALT.021">
+    <title>4:31 AM Detiuc/Khromacheva vs Dabrowski/Stefani Women\`s Doubles R1 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.022">
+    <title>5:00 AM Fritz vs Bellucci Men\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.023">
+    <title>5:00 AM Oliynykova vs Eala Women\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.024">
+    <title>5:00 AM Zheng vs Putintseva Women\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904030000 +1000" stop="20260904070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.025">
+    <title>5:00 AM Blockx vs Trungelliti Men\`s Singles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260904040000 +1000" stop="20260904080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.026">
+    <title>6:00 AM Schoolkate vs Cobolli Men\`s Singles R2 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
