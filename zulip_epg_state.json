@@ -112,101 +112,101 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "12:50 AM Sassuolo vs Frosinone",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-02T08:50:00-04:00",
-          "stop": "2026-09-02T12:50:00-04:00",
-          "title": "Sassuolo vs Frosinone"
+          "display_title": "3:50 AM Palermo vs Mantova",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-03T11:50:00-04:00",
+          "stop": "2026-09-03T15:50:00-04:00",
+          "title": "Palermo vs Mantova"
         },
         {
-          "display_title": "3:50 AM Udinese vs Venezia",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-02T11:50:00-04:00",
-          "stop": "2026-09-02T15:50:00-04:00",
-          "title": "Udinese vs Venezia"
+          "display_title": "6:30 AM Hibernian vs Heart of Midlothian",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-03T14:30:00-04:00",
+          "stop": "2026-09-03T18:30:00-04:00",
+          "title": "Hibernian vs Heart of Midlothian"
         },
         {
-          "display_title": "6:35 AM Millwall vs Wrexham",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-02T14:35:00-04:00",
-          "stop": "2026-09-02T18:35:00-04:00",
-          "title": "Millwall vs Wrexham"
+          "display_title": "6:50 AM Cagliari vs Hellas Verona",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-03T14:50:00-04:00",
+          "stop": "2026-09-03T18:50:00-04:00",
+          "title": "Cagliari vs Hellas Verona"
         },
         {
-          "display_title": "6:35 AM Queens Park Rangers vs Cardiff City",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-02T14:35:00-04:00",
-          "stop": "2026-09-02T18:35:00-04:00",
-          "title": "Queens Park Rangers vs Cardiff City"
-        },
-        {
-          "display_title": "6:50 AM Burnley vs Middlesbrough",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-02T14:50:00-04:00",
-          "stop": "2026-09-02T18:50:00-04:00",
-          "title": "Burnley vs Middlesbrough"
-        },
-        {
-          "display_title": "6:55 AM Falkirk vs Rangers",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-02T14:55:00-04:00",
-          "stop": "2026-09-02T18:55:00-04:00",
-          "title": "Falkirk vs Rangers"
-        },
-        {
-          "display_title": "9:50 AM SV Broki vs Delfines del Este FC",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-09-02T17:50:00-04:00",
-          "stop": "2026-09-02T21:50:00-04:00",
-          "title": "SV Broki vs Delfines del Este FC"
-        },
-        {
-          "display_title": "11:50 AM Salcedo FC vs Mount Pleasant FA",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-09-02T19:50:00-04:00",
-          "stop": "2026-09-02T23:50:00-04:00",
-          "title": "Salcedo FC vs Mount Pleasant FA"
+          "display_title": "11:50 AM Cavalier FC vs Portmore United FC",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-03T19:50:00-04:00",
+          "stop": "2026-09-03T23:50:00-04:00",
+          "title": "Cavalier FC vs Portmore United FC"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 620929425,
-      "message_timestamp": 1788337818,
+      "message_id": 621233847,
+      "message_timestamp": 1788408050,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-02T08:34:40.134144+00:00"
+      "updated_at": "2026-09-03T05:14:43.763878+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "11:00 AM Dana White Contender Series S10W04",
+          "display_title": "10:00 AM Valusia Late Models",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-08-31T19:00:00-04:00",
-          "stop": "2026-08-31T23:00:00-04:00",
-          "title": "Dana White Contender Series S10W04"
+          "start": "2026-09-02T18:00:00-04:00",
+          "stop": "2026-09-02T22:00:00-04:00",
+          "title": "Valusia Late Models"
         },
         {
-          "display_title": "12:00 PM Country BOX Where Music Meets Boxing",
+          "display_title": "10:00 AM Short Track Super Series Afton",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-08-31T20:00:00-04:00",
-          "stop": "2026-09-01T00:00:00-04:00",
-          "title": "Country BOX Where Music Meets Boxing"
+          "start": "2026-09-02T18:00:00-04:00",
+          "stop": "2026-09-02T22:00:00-04:00",
+          "title": "Short Track Super Series Afton"
+        },
+        {
+          "display_title": "11:00 AM Racing4Rider Showdown Coles County",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-02T19:00:00-04:00",
+          "stop": "2026-09-02T23:00:00-04:00",
+          "title": "Racing4Rider Showdown Coles County"
+        },
+        {
+          "display_title": "11:00 AM Weekly Racing Thunder Road",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-09-02T19:00:00-04:00",
+          "stop": "2026-09-02T23:00:00-04:00",
+          "title": "Weekly Racing Thunder Road"
+        },
+        {
+          "display_title": "11:00 AM MARS Illiniois Valley Showdown LaSalle",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-09-02T19:00:00-04:00",
+          "stop": "2026-09-02T23:00:00-04:00",
+          "title": "MARS Illiniois Valley Showdown LaSalle"
+        },
+        {
+          "display_title": "1:00 PM High Limit Racing Skagit",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-09-02T21:00:00-04:00",
+          "stop": "2026-09-03T01:00:00-04:00",
+          "title": "High Limit Racing Skagit"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 620514918,
-      "message_timestamp": 1788233413,
+      "message_id": 621223952,
+      "message_timestamp": 1788404421,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-01T04:34:24.757552+00:00"
+      "updated_at": "2026-09-03T05:14:44.165048+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
