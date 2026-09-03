@@ -113,42 +113,42 @@
       "events": [
         {
           "display_title": "3:50 AM Palermo vs Mantova",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-03T11:50:00-04:00",
           "stop": "2026-09-03T15:50:00-04:00",
           "title": "Palermo vs Mantova"
         },
         {
           "display_title": "6:30 AM Hibernian vs Heart of Midlothian",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-03T14:30:00-04:00",
           "stop": "2026-09-03T18:30:00-04:00",
           "title": "Hibernian vs Heart of Midlothian"
         },
         {
           "display_title": "6:50 AM Cagliari vs Hellas Verona",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-03T14:50:00-04:00",
           "stop": "2026-09-03T18:50:00-04:00",
           "title": "Cagliari vs Hellas Verona"
         },
         {
           "display_title": "11:50 AM Cavalier FC vs Portmore United FC",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-03T19:50:00-04:00",
           "stop": "2026-09-03T23:50:00-04:00",
           "title": "Cavalier FC vs Portmore United FC"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 621233847,
-      "message_timestamp": 1788408050,
+      "message_id": 621297257,
+      "message_timestamp": 1788424220,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-03T05:14:43.763878+00:00"
+      "updated_at": "2026-09-03T08:35:48.112104+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
