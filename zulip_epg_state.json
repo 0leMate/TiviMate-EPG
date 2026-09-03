@@ -212,27 +212,51 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "1:30 PM DWCS Post Fight Conference",
-          "slot": "PPV2 02",
-          "slot_norm": "PPV2 2",
-          "start": "2026-09-01T21:30:00-04:00",
-          "stop": "2026-09-02T01:30:00-04:00",
-          "title": "DWCS Post Fight Conference"
+          "display_title": "10:00 AM Short Track Super Series at Afton",
+          "slot": "PPV2 01",
+          "slot_norm": "PPV2 1",
+          "start": "2026-09-03T18:00:00-04:00",
+          "stop": "2026-09-03T22:00:00-04:00",
+          "title": "Short Track Super Series at Afton"
         },
         {
-          "display_title": "12:00 PM Country Box Where Music Meets Boxing",
+          "display_title": "11:00 AM Weekly Racing at Thunder Road",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-09-03T19:00:00-04:00",
+          "stop": "2026-09-03T23:00:00-04:00",
+          "title": "Weekly Racing at Thunder Road"
+        },
+        {
+          "display_title": "11:00 AM MARS Illinois Valley Showdown at LaSalle",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-09-01T20:00:00-04:00",
-          "stop": "2026-09-02T00:00:00-04:00",
-          "title": "Country Box Where Music Meets Boxing"
+          "start": "2026-09-03T19:00:00-04:00",
+          "stop": "2026-09-03T23:00:00-04:00",
+          "title": "MARS Illinois Valley Showdown at LaSalle"
+        },
+        {
+          "display_title": "1:00 PM HLR Skagit Nationals at Skagit",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-09-03T21:00:00-04:00",
+          "stop": "2026-09-04T01:00:00-04:00",
+          "title": "HLR Skagit Nationals at Skagit"
+        },
+        {
+          "display_title": "10:00 AM Volusia Speedway Park",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-09-03T18:00:00-04:00",
+          "stop": "2026-09-03T22:00:00-04:00",
+          "title": "Volusia Speedway Park"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 620642333,
-      "message_timestamp": 1788265834,
+      "message_id": 621359135,
+      "message_timestamp": 1788436817,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-01T12:39:06.776796+00:00"
+      "updated_at": "2026-09-03T12:39:29.353193+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -390,13 +414,101 @@
           "start": "2026-09-04T05:00:00+10:00",
           "stop": "2026-09-04T09:00:00+10:00",
           "title": "Sakkari vs Starodubtseva Women\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "12:00 AM China Day 1: 400m OCR UIPM Obstacle World Championships 2026",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-09-03T22:00:00+10:00",
+          "stop": "2026-09-04T02:00:00+10:00",
+          "title": "China Day 1: 400m OCR UIPM Obstacle World Championships 2026"
+        },
+        {
+          "display_title": "3:00 AM Swiatek vs Podoroska Women\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "Swiatek vs Podoroska Women\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM AugerAliassime vs Khachanov Men\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "AugerAliassime vs Khachanov Men\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Keys vs Bondar Women\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "Keys vs Bondar Women\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Darderi vs Svrcina Men\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "Darderi vs Svrcina Men\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Timofeeva vs Mertens Women\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "Timofeeva vs Mertens Women\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Potapova vs Jeanjean Women\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "Potapova vs Jeanjean Women\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Struff vs Cerundolo Men\\`s Singles R2 US Open 2026",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-09-04T01:00:00+10:00",
+          "stop": "2026-09-04T05:00:00+10:00",
+          "title": "Struff vs Cerundolo Men\\`s Singles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:01 AM Liu/Pareja vs Wang/Xu Women\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-09-04T01:01:00+10:00",
+          "stop": "2026-09-04T05:01:00+10:00",
+          "title": "Liu/Pareja vs Wang/Xu Women\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:01 AM Kozyreva/Ninomiya vs Kempen/Panova Women\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-09-04T01:01:00+10:00",
+          "stop": "2026-09-04T05:01:00+10:00",
+          "title": "Kozyreva/Ninomiya vs Kempen/Panova Women\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:01 AM Fernandez/Tjen vs Haverlag/Radisic Women\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-04T01:01:00+10:00",
+          "stop": "2026-09-04T05:01:00+10:00",
+          "title": "Fernandez/Tjen vs Haverlag/Radisic Women\\`s Doubles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 621315589,
-      "message_timestamp": 1788427812,
+      "message_id": 621343018,
+      "message_timestamp": 1788433227,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-03T10:34:23.502347+00:00"
+      "updated_at": "2026-09-03T12:39:29.662818+00:00"
     }
   },
   "version": 1
