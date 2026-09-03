@@ -6576,7 +6576,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 20:30 Racing4Rider Showdown Coles County</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -6586,7 +6586,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05:</display-name>
+    <display-name>PPV 05: 19:15 MARS Illiniois Valley Showdown LaSalle</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
@@ -14403,6 +14403,16 @@
     <title>10:00 AM Volusia Speedway Park</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260903203000 -0400" stop="20260904003000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>12:30 PM Racing4Rider Showdown Coles County</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260903191500 -0400" stop="20260903231500 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>11:15 AM MARS Illiniois Valley Showdown LaSalle</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20260903183000 -0400" stop="20260903223000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
     <title>10:30 AM Perez vs Mchunu</title>

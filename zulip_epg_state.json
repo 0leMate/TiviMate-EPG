@@ -154,6 +154,22 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "12:30 PM Racing4Rider Showdown Coles County",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-03T20:30:00-04:00",
+          "stop": "2026-09-04T00:30:00-04:00",
+          "title": "Racing4Rider Showdown Coles County"
+        },
+        {
+          "display_title": "11:15 AM MARS Illiniois Valley Showdown LaSalle",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-09-03T19:15:00-04:00",
+          "stop": "2026-09-03T23:15:00-04:00",
+          "title": "MARS Illiniois Valley Showdown LaSalle"
+        },
+        {
           "display_title": "10:30 AM Perez vs Mchunu",
           "slot": "PPV 07",
           "slot_norm": "PPV 7",
@@ -163,10 +179,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621463746,
-      "message_timestamp": 1788456613,
+      "message_id": 621539838,
+      "message_timestamp": 1788474612,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-03T18:36:50.376297+00:00"
+      "updated_at": "2026-09-03T22:32:04.112984+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
