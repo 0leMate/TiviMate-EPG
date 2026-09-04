@@ -113,50 +113,50 @@
       "events": [
         {
           "display_title": "4:00 AM UFC Paris Ceremonial Weigh In",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-04T12:00:00-04:00",
           "stop": "2026-09-04T16:00:00-04:00",
           "title": "UFC Paris Ceremonial Weigh In"
         },
         {
           "display_title": "5:30 AM London City vs Man. United",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-04T13:30:00-04:00",
           "stop": "2026-09-04T17:30:00-04:00",
           "title": "London City vs Man. United"
         },
         {
           "display_title": "6:25 AM Livingston vs Stenhousemuir",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-04T14:25:00-04:00",
           "stop": "2026-09-04T18:25:00-04:00",
           "title": "Livingston vs Stenhousemuir"
         },
         {
           "display_title": "6:35 AM Genoa vs Como",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-04T14:35:00-04:00",
           "stop": "2026-09-04T18:35:00-04:00",
           "title": "Genoa vs Como"
         },
         {
           "display_title": "12:45 PM PBR Teams Series: Ridgedale - Night 1",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-04T20:45:00-04:00",
           "stop": "2026-09-05T00:45:00-04:00",
           "title": "PBR Teams Series: Ridgedale - Night 1"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 621593871,
-      "message_timestamp": 1788494485,
+      "message_id": 621638109,
+      "message_timestamp": 1788510641,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-04T04:34:29.293426+00:00"
+      "updated_at": "2026-09-04T08:35:31.194869+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
