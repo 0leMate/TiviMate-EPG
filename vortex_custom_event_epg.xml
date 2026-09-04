@@ -6421,42 +6421,42 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.006">
     <display-name>PPV ALT 006</display-name>
-    <display-name>PPV ALT 006:</display-name>
+    <display-name>PPV ALT 006: Senshi 33 - Varna 17:30</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.007">
     <display-name>PPV ALT 007</display-name>
-    <display-name>PPV ALT 007:</display-name>
+    <display-name>PPV ALT 007: Brave CF: Croatia 18:30</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.008">
     <display-name>PPV ALT 008</display-name>
-    <display-name>PPV ALT 008:</display-name>
+    <display-name>PPV ALT 008: GLORY 109: Kwasi vs Hristov 19:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.009">
     <display-name>PPV ALT 009</display-name>
-    <display-name>PPV ALT 009:</display-name>
+    <display-name>PPV ALT 009: Taylor vs Pili 19:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.010">
     <display-name>PPV ALT 010</display-name>
-    <display-name>PPV ALT 010:</display-name>
+    <display-name>PPV ALT 010: Taylor vs Pili 19:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.011">
     <display-name>PPV ALT 011</display-name>
-    <display-name>PPV ALT 011:</display-name>
+    <display-name>PPV ALT 011: UFC Fight Night: Hooker vs Parnasse 18:00 ( Prelims in UFC Section )</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.012">
     <display-name>PPV ALT 012</display-name>
-    <display-name>PPV ALT 012:</display-name>
+    <display-name>PPV ALT 012: UFC Fight Night: Hooker vs Parnasse 18:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.013">
     <display-name>PPV ALT 013</display-name>
-    <display-name>PPV ALT 013:</display-name>
+    <display-name>PPV ALT 013: UFC Fight Night: Hooker vs Parnasse 18:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.014">
@@ -7011,7 +7011,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.24">
     <display-name>PPV2 24</display-name>
-    <display-name>PPV2 24: 18:00 Ruiz vs Knyba 09-04</display-name>
+    <display-name>PPV2 24: 19:30 Ruiz vs Knyba 09-04</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.25">
@@ -14619,8 +14619,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260904180000 -0400" stop="20260904220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.24">
-    <title>10:00 AM Ruiz vs Knyba</title>
+  <programme start="20260904193000 -0400" stop="20260904233000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.24">
+    <title>11:30 AM Ruiz vs Knyba</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
