@@ -112,77 +112,109 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "3:50 AM Palermo vs Mantova",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-03T11:50:00-04:00",
-          "stop": "2026-09-03T15:50:00-04:00",
-          "title": "Palermo vs Mantova"
+          "display_title": "4:00 AM UFC Paris Ceremonial Weigh In",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-04T12:00:00-04:00",
+          "stop": "2026-09-04T16:00:00-04:00",
+          "title": "UFC Paris Ceremonial Weigh In"
         },
         {
-          "display_title": "6:30 AM Hibernian vs Heart of Midlothian",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-03T14:30:00-04:00",
-          "stop": "2026-09-03T18:30:00-04:00",
-          "title": "Hibernian vs Heart of Midlothian"
+          "display_title": "5:30 AM London City vs Man. United",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-09-04T13:30:00-04:00",
+          "stop": "2026-09-04T17:30:00-04:00",
+          "title": "London City vs Man. United"
         },
         {
-          "display_title": "6:50 AM Cagliari vs Hellas Verona",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-03T14:50:00-04:00",
-          "stop": "2026-09-03T18:50:00-04:00",
-          "title": "Cagliari vs Hellas Verona"
+          "display_title": "6:25 AM Livingston vs Stenhousemuir",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-09-04T14:25:00-04:00",
+          "stop": "2026-09-04T18:25:00-04:00",
+          "title": "Livingston vs Stenhousemuir"
         },
         {
-          "display_title": "11:50 AM Cavalier FC vs Portmore United FC",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-03T19:50:00-04:00",
-          "stop": "2026-09-03T23:50:00-04:00",
-          "title": "Cavalier FC vs Portmore United FC"
+          "display_title": "6:35 AM Genoa vs Como",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-09-04T14:35:00-04:00",
+          "stop": "2026-09-04T18:35:00-04:00",
+          "title": "Genoa vs Como"
+        },
+        {
+          "display_title": "12:45 PM PBR Teams Series: Ridgedale - Night 1",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-04T20:45:00-04:00",
+          "stop": "2026-09-05T00:45:00-04:00",
+          "title": "PBR Teams Series: Ridgedale - Night 1"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 621297257,
-      "message_timestamp": 1788424220,
+      "message_id": 621593871,
+      "message_timestamp": 1788494485,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-03T08:35:48.112104+00:00"
+      "updated_at": "2026-09-04T04:34:29.293426+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:30 PM Racing4Rider Showdown Coles County",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-03T20:30:00-04:00",
-          "stop": "2026-09-04T00:30:00-04:00",
-          "title": "Racing4Rider Showdown Coles County"
+          "display_title": "1:00 PM Budo Sento Championship 36",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-09-04T21:00:00-04:00",
+          "stop": "2026-09-05T01:00:00-04:00",
+          "title": "Budo Sento Championship 36"
         },
         {
-          "display_title": "11:15 AM MARS Illiniois Valley Showdown LaSalle",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-09-03T19:15:00-04:00",
-          "stop": "2026-09-03T23:15:00-04:00",
-          "title": "MARS Illiniois Valley Showdown LaSalle"
-        },
-        {
-          "display_title": "10:30 AM Perez vs Mchunu",
+          "display_title": "10:00 AM Volusia Sprint Cars",
           "slot": "PPV 07",
           "slot_norm": "PPV 7",
-          "start": "2026-09-03T18:30:00-04:00",
-          "stop": "2026-09-03T22:30:00-04:00",
-          "title": "Perez vs Mchunu"
+          "start": "2026-09-04T18:00:00-04:00",
+          "stop": "2026-09-04T22:00:00-04:00",
+          "title": "Volusia Sprint Cars"
+        },
+        {
+          "display_title": "10:00 AM IRA Sprints Dodge County",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-09-04T18:00:00-04:00",
+          "stop": "2026-09-04T22:00:00-04:00",
+          "title": "IRA Sprints Dodge County"
+        },
+        {
+          "display_title": "10:15 AM ASCOC & Iron-Man Late Models Attica",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-09-04T18:15:00-04:00",
+          "stop": "2026-09-04T22:15:00-04:00",
+          "title": "ASCOC & Iron-Man Late Models Attica"
+        },
+        {
+          "display_title": "11:00 AM Williams Grove Sprint Cars",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-09-04T19:00:00-04:00",
+          "stop": "2026-09-04T23:00:00-04:00",
+          "title": "Williams Grove Sprint Cars"
+        },
+        {
+          "display_title": "11:15 AM World of Outlaws Sprint Cars Husets",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-09-04T19:15:00-04:00",
+          "stop": "2026-09-04T23:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Husets"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621539838,
-      "message_timestamp": 1788474612,
+      "message_id": 621593924,
+      "message_timestamp": 1788494502,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-03T22:32:04.112984+00:00"
+      "updated_at": "2026-09-04T04:34:29.605813+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
