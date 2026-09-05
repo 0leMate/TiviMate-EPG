@@ -418,19 +418,35 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "4:00 AM CANCELLED /2pm Glory 109",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-09-05T12:00:00-04:00",
+          "stop": "2026-09-05T16:00:00-04:00",
+          "title": "CANCELLED /2pm Glory 109"
+        },
+        {
           "display_title": "4:00 AM CANCELLED Real American Freestyle Moscow",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
           "start": "2026-09-05T12:00:00-04:00",
           "stop": "2026-09-05T16:00:00-04:00",
           "title": "CANCELLED Real American Freestyle Moscow"
+        },
+        {
+          "display_title": "10:45 AM Radical Cup COTA",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-09-05T18:45:00-04:00",
+          "stop": "2026-09-05T22:45:00-04:00",
+          "title": "Radical Cup COTA"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621929233,
-      "message_timestamp": 1788627644,
+      "message_id": 621951262,
+      "message_timestamp": 1788640218,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-05T18:35:26.556197+00:00"
+      "updated_at": "2026-09-05T20:32:41.056181+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
