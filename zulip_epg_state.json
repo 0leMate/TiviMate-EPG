@@ -720,179 +720,187 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "5:00 PM Tasman vs Wellington NPC Round 6 2026",
-          "slot": "AU STAN ALT 049",
-          "slot_norm": "AU STAN ALT 49",
-          "start": "2026-09-06T15:00:00+10:00",
-          "stop": "2026-09-06T19:00:00+10:00",
-          "title": "Tasman vs Wellington NPC Round 6 2026"
-        },
-        {
           "display_title": "7:00 PM Waikato vs Canterbury NPC Round 6 2026",
-          "slot": "AU STAN ALT 050",
-          "slot_norm": "AU STAN ALT 50",
-          "start": "2026-09-06T17:00:00+10:00",
-          "stop": "2026-09-06T21:00:00+10:00",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-09-05T17:00:00+10:00",
+          "stop": "2026-09-05T21:00:00+10:00",
           "title": "Waikato vs Canterbury NPC Round 6 2026"
         },
         {
-          "display_title": "9:55 PM Avispa Fukuoka vs Mito J.League 2026",
-          "slot": "AU STAN ALT 051",
-          "slot_norm": "AU STAN ALT 51",
-          "start": "2026-09-06T19:55:00+10:00",
-          "stop": "2026-09-06T23:55:00+10:00",
-          "title": "Avispa Fukuoka vs Mito J.League 2026"
-        },
-        {
-          "display_title": "9:55 PM Seoul vs Incheon K League 2026",
-          "slot": "AU STAN ALT 052",
-          "slot_norm": "AU STAN ALT 52",
-          "start": "2026-09-06T19:55:00+10:00",
-          "stop": "2026-09-06T23:55:00+10:00",
-          "title": "Seoul vs Incheon K League 2026"
-        },
-        {
           "display_title": "9:55 PM Jeonbuk vs Pohang K League 2026",
-          "slot": "AU STAN ALT 053",
-          "slot_norm": "AU STAN ALT 53",
-          "start": "2026-09-06T19:55:00+10:00",
-          "stop": "2026-09-06T23:55:00+10:00",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-09-05T19:55:00+10:00",
+          "stop": "2026-09-05T23:55:00+10:00",
           "title": "Jeonbuk vs Pohang K League 2026"
         },
         {
+          "display_title": "9:55 PM Seoul vs Incheon K League 2026",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-09-05T19:55:00+10:00",
+          "stop": "2026-09-05T23:55:00+10:00",
+          "title": "Seoul vs Incheon K League 2026"
+        },
+        {
+          "display_title": "9:55 PM Avispa Fukuoka vs Mito J.League 2026",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-09-05T19:55:00+10:00",
+          "stop": "2026-09-05T23:55:00+10:00",
+          "title": "Avispa Fukuoka vs Mito J.League 2026"
+        },
+        {
           "display_title": "10:30 PM Newcastle United vs Bournemouth Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 054",
-          "slot_norm": "AU STAN ALT 54",
-          "start": "2026-09-06T20:30:00+10:00",
-          "stop": "2026-09-07T00:30:00+10:00",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-09-05T20:30:00+10:00",
+          "stop": "2026-09-06T00:30:00+10:00",
           "title": "Newcastle United vs Bournemouth Premier League Matchweek 3 2026/2027"
         },
         {
           "display_title": "10:45 PM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA 2026",
-          "slot": "AU STAN ALT 055",
-          "slot_norm": "AU STAN ALT 55",
-          "start": "2026-09-06T20:45:00+10:00",
-          "stop": "2026-09-07T00:45:00+10:00",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
+          "start": "2026-09-05T20:45:00+10:00",
+          "stop": "2026-09-06T00:45:00+10:00",
           "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA 2026"
         },
         {
           "display_title": "11:20 PM Chelsea vs Aston Villa WSL 2026/27",
-          "slot": "AU STAN ALT 056",
-          "slot_norm": "AU STAN ALT 56",
-          "start": "2026-09-06T21:20:00+10:00",
-          "stop": "2026-09-07T01:20:00+10:00",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-09-05T21:20:00+10:00",
+          "stop": "2026-09-06T01:20:00+10:00",
           "title": "Chelsea vs Aston Villa WSL 2026/27"
         },
         {
+          "display_title": "12:00 AM China Day 3: 100m OCR UIPM Obstacle World Championships 2026",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
+          "start": "2026-09-05T22:00:00+10:00",
+          "stop": "2026-09-06T02:00:00+10:00",
+          "title": "China Day 3: 100m OCR UIPM Obstacle World Championships 2026"
+        },
+        {
           "display_title": "1:30 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Third Test 2026",
-          "slot": "AU STAN ALT 057",
-          "slot_norm": "AU STAN ALT 57",
-          "start": "2026-09-06T23:30:00+10:00",
-          "stop": "2026-09-07T03:30:00+10:00",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
+          "start": "2026-09-05T23:30:00+10:00",
+          "stop": "2026-09-06T03:30:00+10:00",
           "title": "South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Third Test 2026"
         },
         {
           "display_title": "1:50 AM Goal Rush: Manchester City vs Coventry City • 5 September Premier League 2026/2027",
-          "slot": "AU STAN ALT 058",
-          "slot_norm": "AU STAN ALT 58",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
+          "start": "2026-09-05T23:50:00+10:00",
+          "stop": "2026-09-06T03:50:00+10:00",
           "title": "Goal Rush: Manchester City vs Coventry City • 5 September Premier League 2026/2027"
         },
         {
           "display_title": "1:50 AM Fulham vs Crystal Palace Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 059",
-          "slot_norm": "AU STAN ALT 59",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
+          "start": "2026-09-05T23:50:00+10:00",
+          "stop": "2026-09-06T03:50:00+10:00",
           "title": "Fulham vs Crystal Palace Premier League Matchweek 3 2026/2027"
         },
         {
           "display_title": "1:50 AM Nottingham Forest vs Tottenham Hotspur Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 060",
-          "slot_norm": "AU STAN ALT 60",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-09-05T23:50:00+10:00",
+          "stop": "2026-09-06T03:50:00+10:00",
           "title": "Nottingham Forest vs Tottenham Hotspur Premier League Matchweek 3 2026/2027"
         },
         {
           "display_title": "1:50 AM Brentford vs Sunderland Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 061",
-          "slot_norm": "AU STAN ALT 61",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-09-05T23:50:00+10:00",
+          "stop": "2026-09-06T03:50:00+10:00",
           "title": "Brentford vs Sunderland Premier League Matchweek 3 2026/2027"
         },
         {
           "display_title": "1:50 AM Brighton & Hove Albion vs Leeds United Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 062",
-          "slot_norm": "AU STAN ALT 62",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-09-05T23:50:00+10:00",
+          "stop": "2026-09-06T03:50:00+10:00",
           "title": "Brighton & Hove Albion vs Leeds United Premier League Matchweek 3 2026/2027"
         },
         {
           "display_title": "1:50 AM Manchester City vs Coventry City Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 063",
-          "slot_norm": "AU STAN ALT 63",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-09-05T23:50:00+10:00",
+          "stop": "2026-09-06T03:50:00+10:00",
           "title": "Manchester City vs Coventry City Premier League Matchweek 3 2026/2027"
         },
         {
           "display_title": "2:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Third Test 2026",
-          "slot": "AU STAN ALT 064",
-          "slot_norm": "AU STAN ALT 64",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
           "start": "2026-09-06T00:00:00+10:00",
           "stop": "2026-09-06T04:00:00+10:00",
           "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Third Test 2026"
         },
         {
-          "display_title": "3:50 AM Free Practice 3: Lone Star Le Mans WEC 2026",
-          "slot": "AU STAN ALT 065",
-          "slot_norm": "AU STAN ALT 65",
-          "start": "2026-09-06T01:50:00+10:00",
-          "stop": "2026-09-06T05:50:00+10:00",
-          "title": "Free Practice 3: Lone Star Le Mans WEC 2026"
+          "display_title": "3:00 AM Potapova vs Anisimova Women\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Potapova vs Anisimova Women\\`s Singles R3 US Open 2026"
         },
         {
-          "display_title": "4:20 AM Hull City vs Aston Villa Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 066",
-          "slot_norm": "AU STAN ALT 66",
-          "start": "2026-09-06T02:20:00+10:00",
-          "stop": "2026-09-06T06:20:00+10:00",
-          "title": "Hull City vs Aston Villa Premier League Matchweek 3 2026/2027"
+          "display_title": "3:00 AM Perez/Schuurs vs Pridankina/Tang Women\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Perez/Schuurs vs Pridankina/Tang Women\\`s Doubles R2 US Open 2026"
         },
         {
-          "display_title": "5:00 AM Practice 2: Grand Prix of Laguna Seca Indycar 2026",
-          "slot": "AU STAN ALT 067",
-          "slot_norm": "AU STAN ALT 67",
-          "start": "2026-09-06T03:00:00+10:00",
-          "stop": "2026-09-06T07:00:00+10:00",
-          "title": "Practice 2: Grand Prix of Laguna Seca Indycar 2026"
+          "display_title": "3:00 AM Keys vs Zheng Women\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Keys vs Zheng Women\\`s Singles R3 US Open 2026"
         },
         {
-          "display_title": "7:00 AM PL Saturday Wrap: Matchweek 3 Sep 6",
-          "slot": "AU STAN ALT 068",
-          "slot_norm": "AU STAN ALT 68",
-          "start": "2026-09-06T05:00:00+10:00",
-          "stop": "2026-09-06T09:00:00+10:00",
-          "title": "PL Saturday Wrap: Matchweek 3 Sep 6"
+          "display_title": "3:00 AM Jebens/ReyesVarela vs Granollers/Zeballos Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Jebens/ReyesVarela vs Granollers/Zeballos Men\\`s Doubles R1 US Open 2026"
         },
         {
-          "display_title": "7:50 AM Qualifying: Lone Star Le Mans WEC 2026",
-          "slot": "AU STAN ALT 069",
-          "slot_norm": "AU STAN ALT 69",
-          "start": "2026-09-06T05:50:00+10:00",
-          "stop": "2026-09-06T09:50:00+10:00",
-          "title": "Qualifying: Lone Star Le Mans WEC 2026"
+          "display_title": "3:00 AM Demoliner/Ho vs Lammons/Withrow Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN 021",
+          "slot_norm": "AU STAN 21",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Demoliner/Ho vs Lammons/Withrow Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Seggerman/Trhac vs Bhambri/Venus Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN 022",
+          "slot_norm": "AU STAN 22",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Seggerman/Trhac vs Bhambri/Venus Men\\`s Doubles R1 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 621720058,
-      "message_timestamp": 1788530444,
+      "message_id": 621886312,
+      "message_timestamp": 1788600642,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-04T14:34:14.202309+00:00"
+      "updated_at": "2026-09-05T10:31:35.317599+00:00"
     }
   },
   "version": 1
