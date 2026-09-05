@@ -186,6 +186,14 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "1:00 PM Cage Fury FC 160",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-04T21:00:00-04:00",
+          "stop": "2026-09-05T01:00:00-04:00",
+          "title": "Cage Fury FC 160"
+        },
+        {
           "display_title": "1:00 PM Budo Sento Championship 36",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
@@ -235,10 +243,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621593924,
-      "message_timestamp": 1788494502,
+      "message_id": 621839262,
+      "message_timestamp": 1788568244,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-04T04:34:29.605813+00:00"
+      "updated_at": "2026-09-05T00:40:27.177661+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -340,12 +348,12 @@
           "title": "Showdown at MoTown at Marshalltown"
         },
         {
-          "display_title": "10:00 AM Volusia Speedway Park",
+          "display_title": "10:00 AM CANCELLED Volusia Speedway Park",
           "slot": "PPV2 15",
           "slot_norm": "PPV2 15",
           "start": "2026-09-04T18:00:00-04:00",
           "stop": "2026-09-04T22:00:00-04:00",
-          "title": "Volusia Speedway Park"
+          "title": "CANCELLED Volusia Speedway Park"
         },
         {
           "display_title": "11:00 AM Williams Grove Speedway",
@@ -397,10 +405,10 @@
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 621823534,
-      "message_timestamp": 1788561023,
+      "message_id": 621833691,
+      "message_timestamp": 1788566419,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-04T22:31:47.928426+00:00"
+      "updated_at": "2026-09-05T00:40:27.753445+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
