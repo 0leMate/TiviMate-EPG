@@ -848,187 +848,187 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "6:00 AM Fery/Paris vs Martin Etcheverry/Ugo Carabelli Men\\`s Doubles R1 US Open 2026",
-          "slot": "AU STAN 045",
-          "slot_norm": "AU STAN 45",
+          "display_title": "3:00 AM Jebens/ReyesVarela vs Granollers/Zeballos Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 020",
+          "slot_norm": "AU STAN ALT 20",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Jebens/ReyesVarela vs Granollers/Zeballos Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Demoliner/Ho vs Lammons/Withrow Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 021",
+          "slot_norm": "AU STAN ALT 21",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Demoliner/Ho vs Lammons/Withrow Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Seggerman/Trhac vs Bhambri/Venus Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 022",
+          "slot_norm": "AU STAN ALT 22",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Seggerman/Trhac vs Bhambri/Venus Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Pieczonka/Stevens vs Krajicek/Mektic Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 023",
+          "slot_norm": "AU STAN ALT 23",
+          "start": "2026-09-06T01:00:00+10:00",
+          "stop": "2026-09-06T05:00:00+10:00",
+          "title": "Pieczonka/Stevens vs Krajicek/Mektic Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "3:01 AM Fernandez/Tjen vs Routliffe/Sutjiadi Women\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 024",
+          "slot_norm": "AU STAN ALT 24",
+          "start": "2026-09-06T01:01:00+10:00",
+          "stop": "2026-09-06T05:01:00+10:00",
+          "title": "Fernandez/Tjen vs Routliffe/Sutjiadi Women\\`s Doubles R2 US Open 2026"
+        },
+        {
+          "display_title": "3:30 AM Fritz vs Cerundolo Men\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 025",
+          "slot_norm": "AU STAN ALT 25",
+          "start": "2026-09-06T01:30:00+10:00",
+          "stop": "2026-09-06T05:30:00+10:00",
+          "title": "Fritz vs Cerundolo Men\\`s Singles R3 US Open 2026"
+        },
+        {
+          "display_title": "3:50 AM Free Practice 3: Lone Star Le Mans WEC 2026",
+          "slot": "AU STAN ALT 026",
+          "slot_norm": "AU STAN ALT 26",
+          "start": "2026-09-06T01:50:00+10:00",
+          "stop": "2026-09-06T05:50:00+10:00",
+          "title": "Free Practice 3: Lone Star Le Mans WEC 2026"
+        },
+        {
+          "display_title": "4:20 AM Hull City vs Aston Villa Premier League Matchweek 3 2026/2027",
+          "slot": "AU STAN ALT 027",
+          "slot_norm": "AU STAN ALT 27",
+          "start": "2026-09-06T02:20:00+10:00",
+          "stop": "2026-09-06T06:20:00+10:00",
+          "title": "Hull City vs Aston Villa Premier League Matchweek 3 2026/2027"
+        },
+        {
+          "display_title": "4:30 AM Swiatek vs Bouzkova Women\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 028",
+          "slot_norm": "AU STAN ALT 28",
+          "start": "2026-09-06T02:30:00+10:00",
+          "stop": "2026-09-06T06:30:00+10:00",
+          "title": "Swiatek vs Bouzkova Women\\`s Singles R3 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Blockx vs Cobolli Men\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 029",
+          "slot_norm": "AU STAN ALT 29",
+          "start": "2026-09-06T02:30:00+10:00",
+          "stop": "2026-09-06T06:30:00+10:00",
+          "title": "Blockx vs Cobolli Men\\`s Singles R3 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Andreeva vs Bartunkova Women\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 030",
+          "slot_norm": "AU STAN ALT 30",
+          "start": "2026-09-06T02:30:00+10:00",
+          "stop": "2026-09-06T06:30:00+10:00",
+          "title": "Andreeva vs Bartunkova Women\\`s Singles R3 US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Chwalinska/Linette vs Bondar/Kalinina Women\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 031",
+          "slot_norm": "AU STAN ALT 31",
+          "start": "2026-09-06T02:30:00+10:00",
+          "stop": "2026-09-06T06:30:00+10:00",
+          "title": "Chwalinska/Linette vs Bondar/Kalinina Women\\`s Doubles R2 US Open 2026"
+        },
+        {
+          "display_title": "4:31 AM Bublik/Shang vs Baez/Marozsan Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 032",
+          "slot_norm": "AU STAN ALT 32",
+          "start": "2026-09-06T02:31:00+10:00",
+          "stop": "2026-09-06T06:31:00+10:00",
+          "title": "Bublik/Shang vs Baez/Marozsan Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:31 AM Siniakova/Townsend vs Wang/Xu Women\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 033",
+          "slot_norm": "AU STAN ALT 33",
+          "start": "2026-09-06T02:31:00+10:00",
+          "stop": "2026-09-06T06:31:00+10:00",
+          "title": "Siniakova/Townsend vs Wang/Xu Women\\`s Doubles R2 US Open 2026"
+        },
+        {
+          "display_title": "4:31 AM Reynolds/Watt vs Andreozzi/Guinard Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 034",
+          "slot_norm": "AU STAN ALT 34",
+          "start": "2026-09-06T02:31:00+10:00",
+          "stop": "2026-09-06T06:31:00+10:00",
+          "title": "Reynolds/Watt vs Andreozzi/Guinard Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "4:31 AM Reymond/Sanchez vs Harrison/Skupski Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 035",
+          "slot_norm": "AU STAN ALT 35",
+          "start": "2026-09-06T02:31:00+10:00",
+          "stop": "2026-09-06T06:31:00+10:00",
+          "title": "Reymond/Sanchez vs Harrison/Skupski Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Alvarez/Johnston vs Schnaitter/Wallner Men\\`s Doubles R1 US Open 2026",
+          "slot": "AU STAN ALT 036",
+          "slot_norm": "AU STAN ALT 36",
+          "start": "2026-09-06T03:00:00+10:00",
+          "stop": "2026-09-06T07:00:00+10:00",
+          "title": "Alvarez/Johnston vs Schnaitter/Wallner Men\\`s Doubles R1 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Neel/Olmos vs Shibahara/Tararudee Women\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 037",
+          "slot_norm": "AU STAN ALT 37",
+          "start": "2026-09-06T03:00:00+10:00",
+          "stop": "2026-09-06T07:00:00+10:00",
+          "title": "Neel/Olmos vs Shibahara/Tararudee Women\\`s Doubles R2 US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Practice 2: Grand Prix of Laguna Seca Indycar 2026",
+          "slot": "AU STAN ALT 038",
+          "slot_norm": "AU STAN ALT 38",
+          "start": "2026-09-06T03:00:00+10:00",
+          "stop": "2026-09-06T07:00:00+10:00",
+          "title": "Practice 2: Grand Prix of Laguna Seca Indycar 2026"
+        },
+        {
+          "display_title": "5:30 AM Bucsa vs Gauff Women\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 039",
+          "slot_norm": "AU STAN ALT 39",
+          "start": "2026-09-06T03:30:00+10:00",
+          "stop": "2026-09-06T07:30:00+10:00",
+          "title": "Bucsa vs Gauff Women\\`s Singles R3 US Open 2026"
+        },
+        {
+          "display_title": "6:00 AM Darderi vs Sweeny Men\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 040",
+          "slot_norm": "AU STAN ALT 40",
           "start": "2026-09-06T04:00:00+10:00",
           "stop": "2026-09-06T08:00:00+10:00",
-          "title": "Fery/Paris vs Martin Etcheverry/Ugo Carabelli Men\\`s Doubles R1 US Open 2026"
+          "title": "Darderi vs Sweeny Men\\`s Singles R3 US Open 2026"
         },
         {
-          "display_title": "6:00 AM Milavsky/Shick vs Cabral/Tracy Men\\`s Doubles R1 US Open 2026",
-          "slot": "AU STAN 046",
-          "slot_norm": "AU STAN 46",
+          "display_title": "6:00 AM Zheng vs Gea Men\\`s Singles R3 US Open 2026",
+          "slot": "AU STAN ALT 041",
+          "slot_norm": "AU STAN ALT 41",
           "start": "2026-09-06T04:00:00+10:00",
           "stop": "2026-09-06T08:00:00+10:00",
-          "title": "Milavsky/Shick vs Cabral/Tracy Men\\`s Doubles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Doumbia/Reboul vs Stevenson/Willis Men\\`s Doubles R1 US Open 2026",
-          "slot": "AU STAN 047",
-          "slot_norm": "AU STAN 47",
-          "start": "2026-09-06T04:30:00+10:00",
-          "stop": "2026-09-06T08:30:00+10:00",
-          "title": "Doumbia/Reboul vs Stevenson/Willis Men\\`s Doubles R1 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Johnson/Zielinski vs Arevalo/Pavic Men\\`s Doubles R1 US Open 2026",
-          "slot": "AU STAN 048",
-          "slot_norm": "AU STAN 48",
-          "start": "2026-09-06T04:30:00+10:00",
-          "stop": "2026-09-06T08:30:00+10:00",
-          "title": "Johnson/Zielinski vs Arevalo/Pavic Men\\`s Doubles R1 US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM PL Saturday Wrap: Matchweek 3 Sep 6",
-          "slot": "AU STAN 049",
-          "slot_norm": "AU STAN 49",
-          "start": "2026-09-06T05:00:00+10:00",
-          "stop": "2026-09-06T09:00:00+10:00",
-          "title": "PL Saturday Wrap: Matchweek 3 Sep 6"
-        },
-        {
-          "display_title": "7:30 AM Brooksby/Giron vs Kiger/Kovacevic Men\\`s Doubles R1 US Open 2026",
-          "slot": "AU STAN 050",
-          "slot_norm": "AU STAN 50",
-          "start": "2026-09-06T05:30:00+10:00",
-          "stop": "2026-09-06T09:30:00+10:00",
-          "title": "Brooksby/Giron vs Kiger/Kovacevic Men\\`s Doubles R1 US Open 2026"
-        },
-        {
-          "display_title": "7:50 AM Qualifying: Lone Star Le Mans WEC 2026",
-          "slot": "AU STAN 051",
-          "slot_norm": "AU STAN 51",
-          "start": "2026-09-06T05:50:00+10:00",
-          "stop": "2026-09-06T09:50:00+10:00",
-          "title": "Qualifying: Lone Star Le Mans WEC 2026"
-        },
-        {
-          "display_title": "7:00 PM Waikato vs Canterbury NPC Round 6 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-06T17:00:00+10:00",
-          "stop": "2026-09-06T21:00:00+10:00",
-          "title": "Waikato vs Canterbury NPC Round 6 2026"
-        },
-        {
-          "display_title": "9:55 PM Jeonbuk vs Pohang K League 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-06T19:55:00+10:00",
-          "stop": "2026-09-06T23:55:00+10:00",
-          "title": "Jeonbuk vs Pohang K League 2026"
-        },
-        {
-          "display_title": "9:55 PM Seoul vs Incheon K League 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-06T19:55:00+10:00",
-          "stop": "2026-09-06T23:55:00+10:00",
-          "title": "Seoul vs Incheon K League 2026"
-        },
-        {
-          "display_title": "9:55 PM Avispa Fukuoka vs Mito J.League 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-06T19:55:00+10:00",
-          "stop": "2026-09-06T23:55:00+10:00",
-          "title": "Avispa Fukuoka vs Mito J.League 2026"
-        },
-        {
-          "display_title": "10:30 PM Newcastle United vs Bournemouth Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-06T20:30:00+10:00",
-          "stop": "2026-09-07T00:30:00+10:00",
-          "title": "Newcastle United vs Bournemouth Premier League Matchweek 3 2026/2027"
-        },
-        {
-          "display_title": "10:45 PM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-06T20:45:00+10:00",
-          "stop": "2026-09-07T00:45:00+10:00",
-          "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA 2026"
-        },
-        {
-          "display_title": "11:20 PM Chelsea vs Aston Villa WSL 2026/27",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-06T21:20:00+10:00",
-          "stop": "2026-09-07T01:20:00+10:00",
-          "title": "Chelsea vs Aston Villa WSL 2026/27"
-        },
-        {
-          "display_title": "12:00 AM China Day 3: 100m OCR UIPM Obstacle World Championships 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-06T22:00:00+10:00",
-          "stop": "2026-09-07T02:00:00+10:00",
-          "title": "China Day 3: 100m OCR UIPM Obstacle World Championships 2026"
-        },
-        {
-          "display_title": "1:30 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Third Test 2026",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-06T23:30:00+10:00",
-          "stop": "2026-09-07T03:30:00+10:00",
-          "title": "South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Third Test 2026"
-        },
-        {
-          "display_title": "1:50 AM Goal Rush: Manchester City vs Coventry City • 5 September Premier League 2026/2027",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
-          "title": "Goal Rush: Manchester City vs Coventry City • 5 September Premier League 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Fulham vs Crystal Palace Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
-          "title": "Fulham vs Crystal Palace Premier League Matchweek 3 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Nottingham Forest vs Tottenham Hotspur Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
-          "title": "Nottingham Forest vs Tottenham Hotspur Premier League Matchweek 3 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Brentford vs Sunderland Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
-          "title": "Brentford vs Sunderland Premier League Matchweek 3 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Brighton & Hove Albion vs Leeds United Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
-          "title": "Brighton & Hove Albion vs Leeds United Premier League Matchweek 3 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Manchester City vs Coventry City Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-06T23:50:00+10:00",
-          "stop": "2026-09-07T03:50:00+10:00",
-          "title": "Manchester City vs Coventry City Premier League Matchweek 3 2026/2027"
+          "title": "Zheng vs Gea Men\\`s Singles R3 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 621897024,
-      "message_timestamp": 1788607834,
+      "message_id": 621911256,
+      "message_timestamp": 1788616860,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-05T12:36:08.703655+00:00"
+      "updated_at": "2026-09-05T14:31:27.035464+00:00"
     }
   },
   "version": 1
