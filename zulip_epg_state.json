@@ -338,163 +338,27 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 PM WWE Sunday Night MAIN EVENT",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-09-05T20:00:00-04:00",
-          "stop": "2026-09-06T00:00:00-04:00",
-          "title": "WWE Sunday Night MAIN EVENT"
-        },
-        {
-          "display_title": "5:00 PM Pancrase 365",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-09-06T01:00:00-04:00",
-          "stop": "2026-09-06T05:00:00-04:00",
-          "title": "Pancrase 365"
-        },
-        {
-          "display_title": "1:40 AM Radical Cup COTA",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-06T09:40:00-04:00",
-          "stop": "2026-09-06T13:40:00-04:00",
-          "title": "Radical Cup COTA"
-        },
-        {
-          "display_title": "2:30 AM erican Flat Track Mile Springfield",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-09-06T10:30:00-04:00",
-          "stop": "2026-09-06T14:30:00-04:00",
-          "title": "erican Flat Track Mile Springfield"
-        },
-        {
-          "display_title": "3:30 AM Budweiser Int'l Classic Oswego",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-09-06T11:30:00-04:00",
-          "stop": "2026-09-06T15:30:00-04:00",
-          "title": "Budweiser Int'l Classic Oswego"
-        },
-        {
-          "display_title": "6:00 AM Zenith Racing Series Homestead-Miami",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-09-06T14:00:00-04:00",
-          "stop": "2026-09-06T18:00:00-04:00",
-          "title": "Zenith Racing Series Homestead-Miami"
-        },
-        {
-          "display_title": "8:00 AM Labor Day Classic Thunder Road",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-09-06T16:00:00-04:00",
-          "stop": "2026-09-06T20:00:00-04:00",
-          "title": "Labor Day Classic Thunder Road"
-        },
-        {
-          "display_title": "9:00 AM Cole Cup Utica-Rome",
+          "display_title": "10:00 AM Cole Cup Utica-Rome",
           "slot": "PPV 08",
           "slot_norm": "PPV 8",
-          "start": "2026-09-06T17:00:00-04:00",
-          "stop": "2026-09-06T21:00:00-04:00",
+          "start": "2026-09-06T18:00:00-04:00",
+          "stop": "2026-09-06T22:00:00-04:00",
           "title": "Cole Cup Utica-Rome"
         },
         {
-          "display_title": "9:20 AM Weekly Racing Slinger",
+          "display_title": "10:20 AM Weekly Racing Slinger",
           "slot": "PPV 09",
           "slot_norm": "PPV 9",
-          "start": "2026-09-06T17:20:00-04:00",
-          "stop": "2026-09-06T21:20:00-04:00",
+          "start": "2026-09-06T18:20:00-04:00",
+          "stop": "2026-09-06T22:20:00-04:00",
           "title": "Weekly Racing Slinger"
-        },
-        {
-          "display_title": "9:45 AM USAC National Midgets Angell Park",
-          "slot": "PPV 10",
-          "slot_norm": "PPV 10",
-          "start": "2026-09-06T17:45:00-04:00",
-          "stop": "2026-09-06T21:45:00-04:00",
-          "title": "USAC National Midgets Angell Park"
-        },
-        {
-          "display_title": "9:45 AM Super DIRTcar Series Weedsport",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-09-06T17:45:00-04:00",
-          "stop": "2026-09-06T21:45:00-04:00",
-          "title": "Super DIRTcar Series Weedsport"
-        },
-        {
-          "display_title": "10:00 AM NAPA All Star Sprints Wayne County",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-09-06T18:00:00-04:00",
-          "stop": "2026-09-06T22:00:00-04:00",
-          "title": "NAPA All Star Sprints Wayne County"
-        },
-        {
-          "display_title": "10:00 AM IRA Sprints The Hill",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-09-06T18:00:00-04:00",
-          "stop": "2026-09-06T22:00:00-04:00",
-          "title": "IRA Sprints The Hill"
-        },
-        {
-          "display_title": "10:00 AM Baltes Classic Eldora",
-          "slot": "PPV 14",
-          "slot_norm": "PPV 14",
-          "start": "2026-09-06T18:00:00-04:00",
-          "stop": "2026-09-06T22:00:00-04:00",
-          "title": "Baltes Classic Eldora"
-        },
-        {
-          "display_title": "10:30 AM Hillbilly 100 WVMS",
-          "slot": "PPV 15",
-          "slot_norm": "PPV 15",
-          "start": "2026-09-06T18:30:00-04:00",
-          "stop": "2026-09-06T22:30:00-04:00",
-          "title": "Hillbilly 100 WVMS"
-        },
-        {
-          "display_title": "11:15 AM World of Outlaws Sprint Cars Husets",
-          "slot": "PPV 16",
-          "slot_norm": "PPV 16",
-          "start": "2026-09-06T19:15:00-04:00",
-          "stop": "2026-09-06T23:15:00-04:00",
-          "title": "World of Outlaws Sprint Cars Husets"
-        },
-        {
-          "display_title": "11:15 AM Porsche Sprint Challenge Laguna Seca",
-          "slot": "PPV 17",
-          "slot_norm": "PPV 17",
-          "start": "2026-09-06T19:15:00-04:00",
-          "stop": "2026-09-06T23:15:00-04:00",
-          "title": "Porsche Sprint Challenge Laguna Seca"
-        },
-        {
-          "display_title": "12:00 PM Louie Vermeil Classic Calistoga",
-          "slot": "PPV 18",
-          "slot_norm": "PPV 18",
-          "start": "2026-09-06T20:00:00-04:00",
-          "stop": "2026-09-07T00:00:00-04:00",
-          "title": "Louie Vermeil Classic Calistoga"
-        },
-        {
-          "display_title": "12:15 PM erican Sprint Car Series Electric City",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-09-06T20:15:00-04:00",
-          "stop": "2026-09-07T00:15:00-04:00",
-          "title": "erican Sprint Car Series Electric City"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621976642,
-      "message_timestamp": 1788658211,
+      "message_id": 622129298,
+      "message_timestamp": 1788732021,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-06T02:33:36.877776+00:00"
+      "updated_at": "2026-09-06T22:32:02.490722+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
