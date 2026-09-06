@@ -129,66 +129,98 @@
       "events": [
         {
           "display_title": "10:50 PM Birmingham City vs Wolves",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-06T06:50:00-04:00",
           "stop": "2026-09-06T10:50:00-04:00",
           "title": "Birmingham City vs Wolves"
         },
         {
           "display_title": "10:50 PM Tottenham vs West Ham United",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-06T06:50:00-04:00",
           "stop": "2026-09-06T10:50:00-04:00",
           "title": "Tottenham vs West Ham United"
         },
         {
           "display_title": "10:50 PM Brighton vs Arsenal",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-06T06:50:00-04:00",
           "stop": "2026-09-06T10:50:00-04:00",
           "title": "Brighton vs Arsenal"
         },
         {
           "display_title": "12:50 AM Parma vs Monza",
-          "slot": "PARAMOUNT 021",
-          "slot_norm": "PARAMOUNT 21",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-06T08:50:00-04:00",
           "stop": "2026-09-06T12:50:00-04:00",
           "title": "Parma vs Monza"
         },
         {
           "display_title": "12:50 AM Frosinone vs Venezia",
-          "slot": "PARAMOUNT 022",
-          "slot_norm": "PARAMOUNT 22",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-06T08:50:00-04:00",
           "stop": "2026-09-06T12:50:00-04:00",
           "title": "Frosinone vs Venezia"
         },
         {
+          "display_title": "12:50 AM Charlton Athletic vs Liverpool",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-09-06T08:50:00-04:00",
+          "stop": "2026-09-06T12:50:00-04:00",
+          "title": "Charlton Athletic vs Liverpool"
+        },
+        {
+          "display_title": "12:50 AM Crystal Palace vs Everton",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-09-06T08:50:00-04:00",
+          "stop": "2026-09-06T12:50:00-04:00",
+          "title": "Crystal Palace vs Everton"
+        },
+        {
+          "display_title": "1:00 AM Man. City vs Birmingham City",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-09-06T09:00:00-04:00",
+          "stop": "2026-09-06T13:00:00-04:00",
+          "title": "Man. City vs Birmingham City"
+        },
+        {
+          "display_title": "1:55 AM St. Johnstone vs Hibernian",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-06T09:55:00-04:00",
+          "stop": "2026-09-06T13:55:00-04:00",
+          "title": "St. Johnstone vs Hibernian"
+        },
+        {
           "display_title": "3:30 AM Bologna vs Sassuolo",
-          "slot": "PARAMOUNT 023",
-          "slot_norm": "PARAMOUNT 23",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-09-06T11:30:00-04:00",
           "stop": "2026-09-06T15:30:00-04:00",
           "title": "Bologna vs Sassuolo"
         },
         {
           "display_title": "6:00 AM Juventus vs Milan",
-          "slot": "PARAMOUNT 024",
-          "slot_norm": "PARAMOUNT 24",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-09-06T14:00:00-04:00",
           "stop": "2026-09-06T18:00:00-04:00",
           "title": "Juventus vs Milan"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 621987461,
-      "message_timestamp": 1788667252,
+      "message_id": 622025736,
+      "message_timestamp": 1788683436,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-06T04:34:09.644872+00:00"
+      "updated_at": "2026-09-06T08:34:37.763721+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
