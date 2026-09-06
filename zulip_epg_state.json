@@ -4,67 +4,35 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:15 AM Land of Legends Raceway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-09-05T18:15:00-04:00",
-          "stop": "2026-09-05T22:15:00-04:00",
-          "title": "Land of Legends Raceway"
+          "display_title": "9:45 AM Weedsport Speedway Sep 6",
+          "slot": "DIRT ALT 12",
+          "slot_norm": "DIRT ALT 12",
+          "start": "2026-09-06T17:45:00-04:00",
+          "stop": "2026-09-06T21:45:00-04:00",
+          "title": "Weedsport Speedway Sep 6"
         },
         {
-          "display_title": "12:15 PM Electric City Speedway",
-          "slot": "DIRT 05",
-          "slot_norm": "DIRT 5",
-          "start": "2026-09-05T20:15:00-04:00",
-          "stop": "2026-09-06T00:15:00-04:00",
-          "title": "Electric City Speedway"
+          "display_title": "11:15 AM Huset's Speedway Sep 6",
+          "slot": "DIRT ALT 13",
+          "slot_norm": "DIRT ALT 13",
+          "start": "2026-09-06T19:15:00-04:00",
+          "stop": "2026-09-06T23:15:00-04:00",
+          "title": "Huset's Speedway Sep 6"
         },
         {
-          "display_title": "10:00 AM Volusia Speedway Park Sep 5",
-          "slot": "DIRT ALT 07",
-          "slot_norm": "DIRT ALT 7",
-          "start": "2026-09-05T18:00:00-04:00",
-          "stop": "2026-09-05T22:00:00-04:00",
-          "title": "Volusia Speedway Park Sep 5"
-        },
-        {
-          "display_title": "10:15 AM Land of Legends Raceway Sep 5",
-          "slot": "DIRT ALT 08",
-          "slot_norm": "DIRT ALT 8",
-          "start": "2026-09-05T18:15:00-04:00",
-          "stop": "2026-09-05T22:15:00-04:00",
-          "title": "Land of Legends Raceway Sep 5"
-        },
-        {
-          "display_title": "11:15 AM Huset's Speedway Sep 5",
-          "slot": "DIRT ALT 09",
-          "slot_norm": "DIRT ALT 9",
-          "start": "2026-09-05T19:15:00-04:00",
-          "stop": "2026-09-05T23:15:00-04:00",
-          "title": "Huset's Speedway Sep 5"
-        },
-        {
-          "display_title": "11:30 AM DIRT Zone Sep 5",
-          "slot": "DIRT ALT 10",
-          "slot_norm": "DIRT ALT 10",
-          "start": "2026-09-05T19:30:00-04:00",
-          "stop": "2026-09-05T23:30:00-04:00",
-          "title": "DIRT Zone Sep 5"
-        },
-        {
-          "display_title": "12:15 PM Electric City Speedway Sep 5",
-          "slot": "DIRT ALT 11",
-          "slot_norm": "DIRT ALT 11",
-          "start": "2026-09-05T20:15:00-04:00",
-          "stop": "2026-09-06T00:15:00-04:00",
-          "title": "Electric City Speedway Sep 5"
+          "display_title": "12:15 PM Electric City Speedway Sep 6",
+          "slot": "DIRT ALT 14",
+          "slot_norm": "DIRT ALT 14",
+          "start": "2026-09-06T20:15:00-04:00",
+          "stop": "2026-09-07T00:15:00-04:00",
+          "title": "Electric City Speedway Sep 6"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 621929115,
-      "message_timestamp": 1788627611,
+      "message_id": 621987367,
+      "message_timestamp": 1788667216,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-05T18:35:25.746036+00:00"
+      "updated_at": "2026-09-06T04:34:09.565517+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -160,259 +128,67 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "11:20 PM Preston North End vs Blackburn Rovers",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-05T07:20:00-04:00",
-          "stop": "2026-09-05T11:20:00-04:00",
-          "title": "Preston North End vs Blackburn Rovers"
+          "display_title": "10:50 PM Birmingham City vs Wolves",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-09-06T06:50:00-04:00",
+          "stop": "2026-09-06T10:50:00-04:00",
+          "title": "Birmingham City vs Wolves"
         },
         {
-          "display_title": "11:20 PM Salford City vs Port Vale",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-05T07:20:00-04:00",
-          "stop": "2026-09-05T11:20:00-04:00",
-          "title": "Salford City vs Port Vale"
+          "display_title": "10:50 PM Tottenham vs West Ham United",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-09-06T06:50:00-04:00",
+          "stop": "2026-09-06T10:50:00-04:00",
+          "title": "Tottenham vs West Ham United"
         },
         {
-          "display_title": "11:20 PM Chelsea vs Aston Villa",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-05T07:20:00-04:00",
-          "stop": "2026-09-05T11:20:00-04:00",
-          "title": "Chelsea vs Aston Villa"
+          "display_title": "10:50 PM Brighton vs Arsenal",
+          "slot": "PARAMOUNT 020",
+          "slot_norm": "PARAMOUNT 20",
+          "start": "2026-09-06T06:50:00-04:00",
+          "stop": "2026-09-06T10:50:00-04:00",
+          "title": "Brighton vs Arsenal"
         },
         {
-          "display_title": "12:50 AM Fiorentina vs Torino",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-05T08:50:00-04:00",
-          "stop": "2026-09-05T12:50:00-04:00",
-          "title": "Fiorentina vs Torino"
-        },
-        {
-          "display_title": "1:30 AM Queens Park Rangers vs Middlesbrough",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-05T09:30:00-04:00",
-          "stop": "2026-09-05T13:30:00-04:00",
-          "title": "Queens Park Rangers vs Middlesbrough"
-        },
-        {
-          "display_title": "1:30 AM West Ham United vs Derby County",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-05T09:30:00-04:00",
-          "stop": "2026-09-05T13:30:00-04:00",
-          "title": "West Ham United vs Derby County"
-        },
-        {
-          "display_title": "1:30 AM West Bromwich Albion vs Watford",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-09-05T09:30:00-04:00",
-          "stop": "2026-09-05T13:30:00-04:00",
-          "title": "West Bromwich Albion vs Watford"
-        },
-        {
-          "display_title": "1:30 AM Burnley vs Bristol City",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-09-05T09:30:00-04:00",
-          "stop": "2026-09-05T13:30:00-04:00",
-          "title": "Burnley vs Bristol City"
-        },
-        {
-          "display_title": "3:00 AM UFC Fight Night: English",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-09-05T11:00:00-04:00",
-          "stop": "2026-09-05T15:00:00-04:00",
-          "title": "UFC Fight Night: English"
-        },
-        {
-          "display_title": "3:00 AM UFC Fight Night em Português",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-09-05T11:00:00-04:00",
-          "stop": "2026-09-05T15:00:00-04:00",
-          "title": "UFC Fight Night em Português"
-        },
-        {
-          "display_title": "3:00 AM UFC Fight Night en Español",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-09-05T11:00:00-04:00",
-          "stop": "2026-09-05T15:00:00-04:00",
-          "title": "UFC Fight Night en Español"
-        },
-        {
-          "display_title": "3:00 AM Inter vs Napoli",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
-          "start": "2026-09-05T11:00:00-04:00",
-          "stop": "2026-09-05T15:00:00-04:00",
-          "title": "Inter vs Napoli"
-        },
-        {
-          "display_title": "6:00 AM Roma vs Atalanta",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-09-05T14:00:00-04:00",
-          "stop": "2026-09-05T18:00:00-04:00",
-          "title": "Roma vs Atalanta"
-        },
-        {
-          "display_title": "6:50 AM Swansea City vs Wrexham",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-09-05T14:50:00-04:00",
-          "stop": "2026-09-05T18:50:00-04:00",
-          "title": "Swansea City vs Wrexham"
-        },
-        {
-          "display_title": "6:55 AM St. Mirren vs Celtic",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-09-05T14:55:00-04:00",
-          "stop": "2026-09-05T18:55:00-04:00",
-          "title": "St. Mirren vs Celtic"
-        },
-        {
-          "display_title": "7:00 AM UFC Fight Night: Multiview",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
-          "start": "2026-09-05T15:00:00-04:00",
-          "stop": "2026-09-05T19:00:00-04:00",
-          "title": "UFC Fight Night: Multiview"
-        },
-        {
-          "display_title": "12:00 PM PBR Teams Series: Ridgedale - Night 2",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
-          "start": "2026-09-05T20:00:00-04:00",
-          "stop": "2026-09-06T00:00:00-04:00",
-          "title": "PBR Teams Series: Ridgedale - Night 2"
-        },
-        {
-          "display_title": "11:20 PM English Football League: Preston North End vs Blackburn Rovers",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-06T07:20:00-04:00",
-          "stop": "2026-09-06T11:20:00-04:00",
-          "title": "English Football League: Preston North End vs Blackburn Rovers"
-        },
-        {
-          "display_title": "11:20 PM English Football League: Salford City vs Port Vale",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-06T07:20:00-04:00",
-          "stop": "2026-09-06T11:20:00-04:00",
-          "title": "English Football League: Salford City vs Port Vale"
-        },
-        {
-          "display_title": "11:20 PM Barclays Women's Super League: Chelsea vs Aston Villa",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-06T07:20:00-04:00",
-          "stop": "2026-09-06T11:20:00-04:00",
-          "title": "Barclays Women's Super League: Chelsea vs Aston Villa"
-        },
-        {
-          "display_title": "12:50 AM Serie A: Fiorentina vs Torino",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
+          "display_title": "12:50 AM Parma vs Monza",
+          "slot": "PARAMOUNT 021",
+          "slot_norm": "PARAMOUNT 21",
           "start": "2026-09-06T08:50:00-04:00",
           "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Serie A: Fiorentina vs Torino"
+          "title": "Parma vs Monza"
         },
         {
-          "display_title": "1:30 AM English Football League: Queens Park Rangers vs Middlesbrough",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-06T09:30:00-04:00",
-          "stop": "2026-09-06T13:30:00-04:00",
-          "title": "English Football League: Queens Park Rangers vs Middlesbrough"
+          "display_title": "12:50 AM Frosinone vs Venezia",
+          "slot": "PARAMOUNT 022",
+          "slot_norm": "PARAMOUNT 22",
+          "start": "2026-09-06T08:50:00-04:00",
+          "stop": "2026-09-06T12:50:00-04:00",
+          "title": "Frosinone vs Venezia"
         },
         {
-          "display_title": "1:30 AM English Football League: West Ham United vs Derby County",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-09-06T09:30:00-04:00",
-          "stop": "2026-09-06T13:30:00-04:00",
-          "title": "English Football League: West Ham United vs Derby County"
+          "display_title": "3:30 AM Bologna vs Sassuolo",
+          "slot": "PARAMOUNT 023",
+          "slot_norm": "PARAMOUNT 23",
+          "start": "2026-09-06T11:30:00-04:00",
+          "stop": "2026-09-06T15:30:00-04:00",
+          "title": "Bologna vs Sassuolo"
         },
         {
-          "display_title": "1:30 AM English Football League: West Bromwich Albion vs Watford",
-          "slot": "PARAMOUNT ALT 07",
-          "slot_norm": "PARAMOUNT ALT 7",
-          "start": "2026-09-06T09:30:00-04:00",
-          "stop": "2026-09-06T13:30:00-04:00",
-          "title": "English Football League: West Bromwich Albion vs Watford"
-        },
-        {
-          "display_title": "1:30 AM English Football League: Burnley vs Bristol City",
-          "slot": "PARAMOUNT ALT 08",
-          "slot_norm": "PARAMOUNT ALT 8",
-          "start": "2026-09-06T09:30:00-04:00",
-          "stop": "2026-09-06T13:30:00-04:00",
-          "title": "English Football League: Burnley vs Bristol City"
-        },
-        {
-          "display_title": "3:00 AM UFC: UFC Fight Night English",
-          "slot": "PARAMOUNT ALT 09",
-          "slot_norm": "PARAMOUNT ALT 9",
-          "start": "2026-09-06T11:00:00-04:00",
-          "stop": "2026-09-06T15:00:00-04:00",
-          "title": "UFC: UFC Fight Night English"
-        },
-        {
-          "display_title": "3:00 AM UFC: UFC Fight Night em Português",
-          "slot": "PARAMOUNT ALT 10",
-          "slot_norm": "PARAMOUNT ALT 10",
-          "start": "2026-09-06T11:00:00-04:00",
-          "stop": "2026-09-06T15:00:00-04:00",
-          "title": "UFC: UFC Fight Night em Português"
-        },
-        {
-          "display_title": "3:00 AM UFC: UFC Fight Night en Español",
-          "slot": "PARAMOUNT ALT 11",
-          "slot_norm": "PARAMOUNT ALT 11",
-          "start": "2026-09-06T11:00:00-04:00",
-          "stop": "2026-09-06T15:00:00-04:00",
-          "title": "UFC: UFC Fight Night en Español"
-        },
-        {
-          "display_title": "3:00 AM Serie A: Inter vs Napoli",
-          "slot": "PARAMOUNT ALT 12",
-          "slot_norm": "PARAMOUNT ALT 12",
-          "start": "2026-09-06T11:00:00-04:00",
-          "stop": "2026-09-06T15:00:00-04:00",
-          "title": "Serie A: Inter vs Napoli"
-        },
-        {
-          "display_title": "6:00 AM Serie A: Roma vs Atalanta",
-          "slot": "PARAMOUNT ALT 13",
-          "slot_norm": "PARAMOUNT ALT 13",
+          "display_title": "6:00 AM Juventus vs Milan",
+          "slot": "PARAMOUNT 024",
+          "slot_norm": "PARAMOUNT 24",
           "start": "2026-09-06T14:00:00-04:00",
           "stop": "2026-09-06T18:00:00-04:00",
-          "title": "Serie A: Roma vs Atalanta"
-        },
-        {
-          "display_title": "6:50 AM English Football League: Swansea City vs Wrexham",
-          "slot": "PARAMOUNT ALT 14",
-          "slot_norm": "PARAMOUNT ALT 14",
-          "start": "2026-09-06T14:50:00-04:00",
-          "stop": "2026-09-06T18:50:00-04:00",
-          "title": "English Football League: Swansea City vs Wrexham"
+          "title": "Juventus vs Milan"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 621929268,
-      "message_timestamp": 1788627656,
+      "message_id": 621987461,
+      "message_timestamp": 1788667252,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-05T18:35:26.138571+00:00"
+      "updated_at": "2026-09-06T04:34:09.644872+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
