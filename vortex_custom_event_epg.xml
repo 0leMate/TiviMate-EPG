@@ -6246,77 +6246,77 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05: 12:00 CANCELLED Real American Freestyle Moscow</display-name>
+    <display-name>PPV 05: 11:30 Budweiser Int&#x27;l Classic Oswego</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
     <display-name>PPV 06</display-name>
-    <display-name>PPV 06:</display-name>
+    <display-name>PPV 06: 14:00 Zenith Racing Series Homestead-Miami</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
     <display-name>PPV 07</display-name>
-    <display-name>PPV 07:</display-name>
+    <display-name>PPV 07: 16:00 Labor Day Classic Thunder Road</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
     <display-name>PPV 08</display-name>
-    <display-name>PPV 08:</display-name>
+    <display-name>PPV 08: 17:00 Cole Cup Utica-Rome</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.09">
     <display-name>PPV 09</display-name>
-    <display-name>PPV 09: 18:45 Radical Cup COTA</display-name>
+    <display-name>PPV 09: 17:20 Weekly Racing Slinger</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.10">
     <display-name>PPV 10</display-name>
-    <display-name>PPV 10:</display-name>
+    <display-name>PPV 10: 17:45 USAC National Midgets Angell Park</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
     <display-name>PPV 11</display-name>
-    <display-name>PPV 11:</display-name>
+    <display-name>PPV 11: 17:45 Super DIRTcar Series Weedsport</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.12">
     <display-name>PPV 12</display-name>
-    <display-name>PPV 12:</display-name>
+    <display-name>PPV 12: 18:00 NAPA All Star Sprints Wayne County</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.13">
     <display-name>PPV 13</display-name>
-    <display-name>PPV 13:</display-name>
+    <display-name>PPV 13: 18:00 IRA Sprints The Hill</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.14">
     <display-name>PPV 14</display-name>
-    <display-name>PPV 14:</display-name>
+    <display-name>PPV 14: 18:00 Baltes Classic Eldora</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.15">
     <display-name>PPV 15</display-name>
-    <display-name>PPV 15:</display-name>
+    <display-name>PPV 15: 18:30 Hillbilly 100 WVMS</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.16">
     <display-name>PPV 16</display-name>
-    <display-name>PPV 16: 18:00 CANCELLED Volusia Sprints</display-name>
+    <display-name>PPV 16: 19:15 World of Outlaws Sprint Cars Husets</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.17">
     <display-name>PPV 17</display-name>
-    <display-name>PPV 17: 18:00 CANCELLED NAPA All Star Sprints Wayne County</display-name>
+    <display-name>PPV 17: 19:15 Porsche Sprint Challenge Laguna Seca</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.18">
     <display-name>PPV 18</display-name>
-    <display-name>PPV 18:</display-name>
+    <display-name>PPV 18: 20:00 Louie Vermeil Classic Calistoga</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.19">
     <display-name>PPV 19</display-name>
-    <display-name>PPV 19:</display-name>
+    <display-name>PPV 19: 20:15 American Sprint Car Series Electric City</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.20">
@@ -14764,23 +14764,78 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260906120000 -0400" stop="20260906160000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>4:00 AM CANCELLED Real American Freestyle Moscow</title>
+  <programme start="20260906113000 -0400" stop="20260906153000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>3:30 AM Budweiser Int&#x27;l Classic Oswego</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260906184500 -0400" stop="20260906224500 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
-    <title>10:45 AM Radical Cup COTA</title>
+  <programme start="20260906140000 -0400" stop="20260906180000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
+    <title>6:00 AM Zenith Racing Series Homestead-Miami</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.16">
-    <title>10:00 AM CANCELLED Volusia Sprints</title>
+  <programme start="20260906160000 -0400" stop="20260906200000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
+    <title>8:00 AM Labor Day Classic Thunder Road</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.17">
-    <title>10:00 AM CANCELLED NAPA All Star Sprints Wayne County</title>
+  <programme start="20260906170000 -0400" stop="20260906210000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
+    <title>9:00 AM Cole Cup Utica-Rome</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906172000 -0400" stop="20260906212000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
+    <title>9:20 AM Weekly Racing Slinger</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906174500 -0400" stop="20260906214500 -0400" channel="custom.PAY.PER.VIEW.PPV.10">
+    <title>9:45 AM USAC National Midgets Angell Park</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906174500 -0400" stop="20260906214500 -0400" channel="custom.PAY.PER.VIEW.PPV.11">
+    <title>9:45 AM Super DIRTcar Series Weedsport</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.12">
+    <title>10:00 AM NAPA All Star Sprints Wayne County</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.13">
+    <title>10:00 AM IRA Sprints The Hill</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.14">
+    <title>10:00 AM Baltes Classic Eldora</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906183000 -0400" stop="20260906223000 -0400" channel="custom.PAY.PER.VIEW.PPV.15">
+    <title>10:30 AM Hillbilly 100 WVMS</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906191500 -0400" stop="20260906231500 -0400" channel="custom.PAY.PER.VIEW.PPV.16">
+    <title>11:15 AM World of Outlaws Sprint Cars Husets</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906191500 -0400" stop="20260906231500 -0400" channel="custom.PAY.PER.VIEW.PPV.17">
+    <title>11:15 AM Porsche Sprint Challenge Laguna Seca</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906200000 -0400" stop="20260907000000 -0400" channel="custom.PAY.PER.VIEW.PPV.18">
+    <title>12:00 PM Louie Vermeil Classic Calistoga</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906201500 -0400" stop="20260907001500 -0400" channel="custom.PAY.PER.VIEW.PPV.19">
+    <title>12:15 PM erican Sprint Car Series Electric City</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
