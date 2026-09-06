@@ -418,35 +418,75 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "4:00 AM CANCELLED /2pm Glory 109",
+          "display_title": "12:00 PM WWE Sunday Night MAIN EVENT",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-09-05T20:00:00-04:00",
+          "stop": "2026-09-06T00:00:00-04:00",
+          "title": "WWE Sunday Night MAIN EVENT"
+        },
+        {
+          "display_title": "5:00 PM Pancrase 365",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-09-06T01:00:00-04:00",
+          "stop": "2026-09-06T05:00:00-04:00",
+          "title": "Pancrase 365"
+        },
+        {
+          "display_title": "1:40 AM Radical Cup COTA",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-06T09:40:00-04:00",
+          "stop": "2026-09-06T13:40:00-04:00",
+          "title": "Radical Cup COTA"
+        },
+        {
+          "display_title": "2:30 AM erican Flat Track Mile Springfield",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-09-05T12:00:00-04:00",
-          "stop": "2026-09-05T16:00:00-04:00",
-          "title": "CANCELLED /2pm Glory 109"
+          "start": "2026-09-06T10:30:00-04:00",
+          "stop": "2026-09-06T14:30:00-04:00",
+          "title": "erican Flat Track Mile Springfield"
         },
         {
           "display_title": "4:00 AM CANCELLED Real American Freestyle Moscow",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
-          "start": "2026-09-05T12:00:00-04:00",
-          "stop": "2026-09-05T16:00:00-04:00",
+          "start": "2026-09-06T12:00:00-04:00",
+          "stop": "2026-09-06T16:00:00-04:00",
           "title": "CANCELLED Real American Freestyle Moscow"
         },
         {
           "display_title": "10:45 AM Radical Cup COTA",
           "slot": "PPV 09",
           "slot_norm": "PPV 9",
-          "start": "2026-09-05T18:45:00-04:00",
-          "stop": "2026-09-05T22:45:00-04:00",
+          "start": "2026-09-06T18:45:00-04:00",
+          "stop": "2026-09-06T22:45:00-04:00",
           "title": "Radical Cup COTA"
+        },
+        {
+          "display_title": "10:00 AM CANCELLED Volusia Sprints",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-09-06T18:00:00-04:00",
+          "stop": "2026-09-06T22:00:00-04:00",
+          "title": "CANCELLED Volusia Sprints"
+        },
+        {
+          "display_title": "10:00 AM CANCELLED NAPA All Star Sprints Wayne County",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-09-06T18:00:00-04:00",
+          "stop": "2026-09-06T22:00:00-04:00",
+          "title": "CANCELLED NAPA All Star Sprints Wayne County"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 621951262,
-      "message_timestamp": 1788640218,
+      "message_id": 621972533,
+      "message_timestamp": 1788654611,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-05T20:32:41.056181+00:00"
+      "updated_at": "2026-09-06T00:43:33.031477+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -716,12 +756,12 @@
           "title": "ARCA West at All American"
         },
         {
-          "display_title": "10:00 AM Volusia Speedway Park",
+          "display_title": "10:00 AM CANCELLED Volusia Speedway Park",
           "slot": "PPV2 36",
           "slot_norm": "PPV2 36",
           "start": "2026-09-05T18:00:00-04:00",
           "stop": "2026-09-05T22:00:00-04:00",
-          "title": "Volusia Speedway Park"
+          "title": "CANCELLED Volusia Speedway Park"
         },
         {
           "display_title": "10:15 AM Land of Legends Raceway",
@@ -749,10 +789,10 @@
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 621902275,
-      "message_timestamp": 1788611418,
+      "message_id": 621966292,
+      "message_timestamp": 1788651019,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-05T12:36:08.114258+00:00"
+      "updated_at": "2026-09-06T00:43:33.168704+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",

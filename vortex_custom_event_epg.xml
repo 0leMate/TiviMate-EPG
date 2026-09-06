@@ -6226,22 +6226,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 20:00 WWE Sunday Night MAIN EVENT</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 01:00 Pancrase 365</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 09:40 Radical Cup COTA</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 12:00 CANCELLED /2pm Glory 109</display-name>
+    <display-name>PPV 04: 10:30 American Flat Track Mile Springfield</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
@@ -6301,12 +6301,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.16">
     <display-name>PPV 16</display-name>
-    <display-name>PPV 16:</display-name>
+    <display-name>PPV 16: 18:00 CANCELLED Volusia Sprints</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.17">
     <display-name>PPV 17</display-name>
-    <display-name>PPV 17:</display-name>
+    <display-name>PPV 17: 18:00 CANCELLED NAPA All Star Sprints Wayne County</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.18">
@@ -7071,7 +7071,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.36">
     <display-name>PPV2 36</display-name>
-    <display-name>PPV2 36: 18:00 Volusia Speedway Park 09-05</display-name>
+    <display-name>PPV2 36: 18:00 CANCELLED Volusia Speedway Park 09-05</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.37">
@@ -14725,7 +14725,7 @@
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
   <programme start="20260905180000 -0400" stop="20260905220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.36">
-    <title>10:00 AM Volusia Speedway Park</title>
+    <title>10:00 AM CANCELLED Volusia Speedway Park</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
@@ -14744,18 +14744,43 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260905120000 -0400" stop="20260905160000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>4:00 AM CANCELLED /2pm Glory 109</title>
+  <programme start="20260905200000 -0400" stop="20260906000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>12:00 PM WWE Sunday Night MAIN EVENT</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260905120000 -0400" stop="20260905160000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+  <programme start="20260906010000 -0400" stop="20260906050000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>5:00 PM Pancrase 365</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906094000 -0400" stop="20260906134000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>1:40 AM Radical Cup COTA</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906103000 -0400" stop="20260906143000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
+    <title>2:30 AM erican Flat Track Mile Springfield</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906120000 -0400" stop="20260906160000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
     <title>4:00 AM CANCELLED Real American Freestyle Moscow</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260905184500 -0400" stop="20260905224500 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
+  <programme start="20260906184500 -0400" stop="20260906224500 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
     <title>10:45 AM Radical Cup COTA</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.16">
+    <title>10:00 AM CANCELLED Volusia Sprints</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260906180000 -0400" stop="20260906220000 -0400" channel="custom.PAY.PER.VIEW.PPV.17">
+    <title>10:00 AM CANCELLED NAPA All Star Sprints Wayne County</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
