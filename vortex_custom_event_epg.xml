@@ -2,17 +2,17 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 17:45 Weedsport Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
     <display-name>DIRT 02</display-name>
-    <display-name>DIRT 02:</display-name>
+    <display-name>DIRT 02: 19:15 Huset&#x27;s Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.03">
     <display-name>DIRT 03</display-name>
-    <display-name>DIRT 03:</display-name>
+    <display-name>DIRT 03: 20:15 Electric City Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.04">
@@ -12399,53 +12399,123 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.032">
+  <programme start="20260907010000 +1000" stop="20260907050000 +1000" channel="custom.AU.STAN.AU.STAN.017">
+    <title>3:00 AM Carpico/Samuel Filin vs Melo/Peers Men\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907010000 +1000" stop="20260907050000 +1000" channel="custom.AU.STAN.AU.STAN.018">
+    <title>3:00 AM Heliovaara/Patten vs Arnaldi/Struff Men\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907010000 +1000" stop="20260907050000 +1000" channel="custom.AU.STAN.AU.STAN.019">
+    <title>3:00 AM Gonzalez/Molteni vs Nouza/Oberleitner Men\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907012000 +1000" stop="20260907052000 +1000" channel="custom.AU.STAN.AU.STAN.020">
+    <title>3:20 AM Arsenal vs Chelsea Premier League Matchweek 3 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907012000 +1000" stop="20260907052000 +1000" channel="custom.AU.STAN.AU.STAN.021">
+    <title>3:20 AM • Arsenal vs Chelsea Premier League Matchweek 3 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907013000 +1000" stop="20260907053000 +1000" channel="custom.AU.STAN.AU.STAN.022">
+    <title>3:30 AM Sabalenka vs Townsend Women\`s Singles R4 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907023000 +1000" stop="20260907063000 +1000" channel="custom.AU.STAN.AU.STAN.023">
+    <title>4:30 AM Kostyuk vs Noskova Women\`s Singles R4 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907023000 +1000" stop="20260907063000 +1000" channel="custom.AU.STAN.AU.STAN.024">
+    <title>4:30 AM Nys/RogerVasselin vs Balaji/King Men\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907023000 +1000" stop="20260907063000 +1000" channel="custom.AU.STAN.AU.STAN.025">
+    <title>4:30 AM Muhammad/Stollar vs Hozumi/Klepac Women\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907023000 +1000" stop="20260907063000 +1000" channel="custom.AU.STAN.AU.STAN.026">
+    <title>4:30 AM Maria/Sonmez vs Danilina/Krunic Women\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907033000 +1000" stop="20260907073000 +1000" channel="custom.AU.STAN.AU.STAN.027">
+    <title>5:30 AM Race: Lone Star Le Mans WEC 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907033000 +1000" stop="20260907073000 +1000" channel="custom.AU.STAN.AU.STAN.028">
+    <title>5:30 AM Dart/Lumsden vs Bucsa/MelicharMartinez Women\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907033000 +1000" stop="20260907073000 +1000" channel="custom.AU.STAN.AU.STAN.029">
+    <title>5:30 AM Hsieh/Ostapenko vs Bouzkova/Sorribes Tormo Women\`s Doubles R2 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.030">
+    <title>6:00 AM Paul vs Alcaraz Men\`s Singles R4 US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.031">
+    <title>6:00 AM PL Weekend Wrap: Matchweek 3 Sep 7</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.032">
     <title>6:00 AM Miedler/Polmans vs Cash/Erler Men\`s Doubles R2 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.033">
+  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.033">
     <title>6:00 AM Pavlasek/Rikl vs Cash/Glasspool Men\`s Doubles R2 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.034">
+  <programme start="20260907040000 +1000" stop="20260907080000 +1000" channel="custom.AU.STAN.AU.STAN.034">
     <title>6:00 AM Denver Summit vs Gotham FC NWSL 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907043000 +1000" stop="20260907083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.035">
+  <programme start="20260907043000 +1000" stop="20260907083000 +1000" channel="custom.AU.STAN.AU.STAN.035">
     <title>6:30 AM Michelsen vs Martin Etcheverry Men\`s Singles R4 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907043000 +1000" stop="20260907083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.036">
+  <programme start="20260907043000 +1000" stop="20260907083000 +1000" channel="custom.AU.STAN.AU.STAN.036">
     <title>6:30 AM Race: Grand Prix of Laguna Seca Indycar 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907050000 +1000" stop="20260907090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.037">
+  <programme start="20260907050000 +1000" stop="20260907090000 +1000" channel="custom.AU.STAN.AU.STAN.037">
     <title>7:00 AM Medvedev vs Tiafoe Men\`s Singles R4 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907050000 +1000" stop="20260907090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.038">
+  <programme start="20260907050000 +1000" stop="20260907090000 +1000" channel="custom.AU.STAN.AU.STAN.038">
     <title>7:00 AM Fossa Huergo/Korpatsch vs Chan/Joint Women\`s Doubles R2 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907050000 +1000" stop="20260907090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.039">
+  <programme start="20260907050000 +1000" stop="20260907090000 +1000" channel="custom.AU.STAN.AU.STAN.039">
     <title>7:00 AM Jiang/Zhang vs Wong Chong/Yang Women\`s Doubles R2 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260907053000 +1000" stop="20260907093000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.040">
+  <programme start="20260907053000 +1000" stop="20260907093000 +1000" channel="custom.AU.STAN.AU.STAN.040">
     <title>7:30 AM Ram/Salisbury vs Arribage/Olivetti Men\`s Doubles R2 US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260907053000 +1000" stop="20260907093000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.041">
-    <title>7:30 AM Kichenok/Kichenok vs Kato/Wu Women\`s Doubles R2 US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14108,6 +14178,21 @@
     <title>//image-basket.xyz/logo/live/27556.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 067: 17:30 PBR Tour Finals: Fort Worth, TX vs Eliminations</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260906174500 -0400" stop="20260906214500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>9:45 AM Weedsport Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260906191500 -0400" stop="20260906231500 -0400" channel="custom.DIRTVISION.DIRT.02">
+    <title>11:15 AM Huset&#x27;s Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260906201500 -0400" stop="20260907001500 -0400" channel="custom.DIRTVISION.DIRT.03">
+    <title>12:15 PM Electric City Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
   <programme start="20260906174500 -0400" stop="20260906214500 -0400" channel="custom.DIRTVISION.DIRT.ALT.12">
     <title>9:45 AM Weedsport Speedway Sep 6</title>
