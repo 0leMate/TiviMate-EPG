@@ -338,6 +338,30 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "5:00 AM Labor Day Classic Port Royal",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-09-06T13:00:00-04:00",
+          "stop": "2026-09-06T17:00:00-04:00",
+          "title": "Labor Day Classic Port Royal"
+        },
+        {
+          "display_title": "10:00 AM STSS Autodrome Granby",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-06T18:00:00-04:00",
+          "stop": "2026-09-06T22:00:00-04:00",
+          "title": "STSS Autodrome Granby"
+        },
+        {
+          "display_title": "10:45 AM USAC National Midgets Coles County",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-09-06T18:45:00-04:00",
+          "stop": "2026-09-06T22:45:00-04:00",
+          "title": "USAC National Midgets Coles County"
+        },
+        {
           "display_title": "10:00 AM Cole Cup Utica-Rome",
           "slot": "PPV 08",
           "slot_norm": "PPV 8",
@@ -355,10 +379,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 622129298,
-      "message_timestamp": 1788732021,
+      "message_id": 622145125,
+      "message_timestamp": 1788741011,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-06T22:32:02.490722+00:00"
+      "updated_at": "2026-09-07T00:43:45.292286+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
