@@ -153,34 +153,34 @@
       "events": [
         {
           "display_title": "4:20 AM Cagliari vs Lecce",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-07T12:20:00-04:00",
           "stop": "2026-09-07T16:20:00-04:00",
           "title": "Cagliari vs Lecce"
         },
         {
           "display_title": "6:35 AM Udinese vs Lazio",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-07T14:35:00-04:00",
           "stop": "2026-09-07T18:35:00-04:00",
           "title": "Udinese vs Lazio"
         },
         {
           "display_title": "6:50 AM Bromley vs AFC Wimbledon",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-07T14:50:00-04:00",
           "stop": "2026-09-07T18:50:00-04:00",
           "title": "Bromley vs AFC Wimbledon"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 622168849,
-      "message_timestamp": 1788753628,
+      "message_id": 622214236,
+      "message_timestamp": 1788769820,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-07T04:36:15.541769+00:00"
+      "updated_at": "2026-09-07T08:37:00.162328+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
