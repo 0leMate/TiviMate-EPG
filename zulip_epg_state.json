@@ -152,187 +152,35 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "10:50 PM Birmingham City vs Wolves",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-06T06:50:00-04:00",
-          "stop": "2026-09-06T10:50:00-04:00",
-          "title": "Birmingham City vs Wolves"
+          "display_title": "4:20 AM Cagliari vs Lecce",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-07T12:20:00-04:00",
+          "stop": "2026-09-07T16:20:00-04:00",
+          "title": "Cagliari vs Lecce"
         },
         {
-          "display_title": "10:50 PM Tottenham vs West Ham United",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-06T06:50:00-04:00",
-          "stop": "2026-09-06T10:50:00-04:00",
-          "title": "Tottenham vs West Ham United"
+          "display_title": "6:35 AM Udinese vs Lazio",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-09-07T14:35:00-04:00",
+          "stop": "2026-09-07T18:35:00-04:00",
+          "title": "Udinese vs Lazio"
         },
         {
-          "display_title": "10:50 PM Brighton vs Arsenal",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-06T06:50:00-04:00",
-          "stop": "2026-09-06T10:50:00-04:00",
-          "title": "Brighton vs Arsenal"
-        },
-        {
-          "display_title": "12:50 AM Parma vs Monza",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Parma vs Monza"
-        },
-        {
-          "display_title": "12:50 AM Frosinone vs Venezia",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Frosinone vs Venezia"
-        },
-        {
-          "display_title": "12:50 AM Charlton Athletic vs Liverpool",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Charlton Athletic vs Liverpool"
-        },
-        {
-          "display_title": "12:50 AM Crystal Palace vs Everton",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Crystal Palace vs Everton"
-        },
-        {
-          "display_title": "1:00 AM Man. City vs Birmingham City",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-09-06T09:00:00-04:00",
-          "stop": "2026-09-06T13:00:00-04:00",
-          "title": "Man. City vs Birmingham City"
-        },
-        {
-          "display_title": "1:55 AM St. Johnstone vs Hibernian",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-09-06T09:55:00-04:00",
-          "stop": "2026-09-06T13:55:00-04:00",
-          "title": "St. Johnstone vs Hibernian"
-        },
-        {
-          "display_title": "3:30 AM Bologna vs Sassuolo",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-09-06T11:30:00-04:00",
-          "stop": "2026-09-06T15:30:00-04:00",
-          "title": "Bologna vs Sassuolo"
-        },
-        {
-          "display_title": "6:00 AM Juventus vs Milan",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-09-06T14:00:00-04:00",
-          "stop": "2026-09-06T18:00:00-04:00",
-          "title": "Juventus vs Milan"
-        },
-        {
-          "display_title": "10:50 PM English Football League: Birmingham City vs Wolves",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-06T06:50:00-04:00",
-          "stop": "2026-09-06T10:50:00-04:00",
-          "title": "English Football League: Birmingham City vs Wolves"
-        },
-        {
-          "display_title": "10:50 PM Barclays Women's Super League: Tottenham vs West Ham United",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-06T06:50:00-04:00",
-          "stop": "2026-09-06T10:50:00-04:00",
-          "title": "Barclays Women's Super League: Tottenham vs West Ham United"
-        },
-        {
-          "display_title": "10:50 PM Barclays Women's Super League: Brighton vs Arsenal",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-06T06:50:00-04:00",
-          "stop": "2026-09-06T10:50:00-04:00",
-          "title": "Barclays Women's Super League: Brighton vs Arsenal"
-        },
-        {
-          "display_title": "12:50 AM Serie A: Parma vs Monza",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Serie A: Parma vs Monza"
-        },
-        {
-          "display_title": "12:50 AM Serie A: Frosinone vs Venezia",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Serie A: Frosinone vs Venezia"
-        },
-        {
-          "display_title": "12:50 AM Barclays Women's Super League: Charlton Athletic vs Liverpool",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Charlton Athletic vs Liverpool"
-        },
-        {
-          "display_title": "12:50 AM Barclays Women's Super League: Crystal Palace vs Everton",
-          "slot": "PARAMOUNT ALT 07",
-          "slot_norm": "PARAMOUNT ALT 7",
-          "start": "2026-09-06T08:50:00-04:00",
-          "stop": "2026-09-06T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Crystal Palace vs Everton"
-        },
-        {
-          "display_title": "1:00 AM Barclays Women's Super League: Man City vs Birmingham City",
-          "slot": "PARAMOUNT ALT 08",
-          "slot_norm": "PARAMOUNT ALT 8",
-          "start": "2026-09-06T09:00:00-04:00",
-          "stop": "2026-09-06T13:00:00-04:00",
-          "title": "Barclays Women's Super League: Man City vs Birmingham City"
-        },
-        {
-          "display_title": "1:55 AM Scottish Professional Football League: St Johnstone vs Hibernian",
-          "slot": "PARAMOUNT ALT 09",
-          "slot_norm": "PARAMOUNT ALT 9",
-          "start": "2026-09-06T09:55:00-04:00",
-          "stop": "2026-09-06T13:55:00-04:00",
-          "title": "Scottish Professional Football League: St Johnstone vs Hibernian"
-        },
-        {
-          "display_title": "3:30 AM Serie A: Bologna vs Sassuolo",
-          "slot": "PARAMOUNT ALT 10",
-          "slot_norm": "PARAMOUNT ALT 10",
-          "start": "2026-09-06T11:30:00-04:00",
-          "stop": "2026-09-06T15:30:00-04:00",
-          "title": "Serie A: Bologna vs Sassuolo"
-        },
-        {
-          "display_title": "6:00 AM Serie A: Juventus vs Milan",
-          "slot": "PARAMOUNT ALT 11",
-          "slot_norm": "PARAMOUNT ALT 11",
-          "start": "2026-09-06T14:00:00-04:00",
-          "stop": "2026-09-06T18:00:00-04:00",
-          "title": "Serie A: Juventus vs Milan"
+          "display_title": "6:50 AM Bromley vs AFC Wimbledon",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-09-07T14:50:00-04:00",
+          "stop": "2026-09-07T18:50:00-04:00",
+          "title": "Bromley vs AFC Wimbledon"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 622049491,
-      "message_timestamp": 1788690633,
+      "message_id": 622168849,
+      "message_timestamp": 1788753628,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-06T10:32:56.202571+00:00"
+      "updated_at": "2026-09-07T04:36:15.541769+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -368,29 +216,13 @@
           "start": "2026-09-06T18:45:00-04:00",
           "stop": "2026-09-06T22:45:00-04:00",
           "title": "USAC National Midgets Coles County"
-        },
-        {
-          "display_title": "10:00 AM Cole Cup Utica-Rome",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-09-06T18:00:00-04:00",
-          "stop": "2026-09-06T22:00:00-04:00",
-          "title": "Cole Cup Utica-Rome"
-        },
-        {
-          "display_title": "10:20 AM Weekly Racing Slinger",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-09-06T18:20:00-04:00",
-          "stop": "2026-09-06T22:20:00-04:00",
-          "title": "Weekly Racing Slinger"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 622158124,
-      "message_timestamp": 1788748215,
+      "message_id": 622163223,
+      "message_timestamp": 1788750011,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-07T02:34:56.324780+00:00"
+      "updated_at": "2026-09-07T04:36:15.605278+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
