@@ -448,203 +448,107 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "3:00 AM Carpico/Samuel Filin vs Melo/Peers Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-09-07T01:00:00+10:00",
-          "stop": "2026-09-07T05:00:00+10:00",
-          "title": "Carpico/Samuel Filin vs Melo/Peers Men\\`s Doubles R2 US Open 2026"
+          "display_title": "4:30 AM Siniakova/Townsend vs Hunter/Krawczyk Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-08T02:30:00+10:00",
+          "stop": "2026-09-08T06:30:00+10:00",
+          "title": "Siniakova/Townsend vs Hunter/Krawczyk Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "3:00 AM Heliovaara/Patten vs Arnaldi/Struff Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 018",
-          "slot_norm": "AU STAN 18",
-          "start": "2026-09-07T01:00:00+10:00",
-          "stop": "2026-09-07T05:00:00+10:00",
-          "title": "Heliovaara/Patten vs Arnaldi/Struff Men\\`s Doubles R2 US Open 2026"
+          "display_title": "4:30 AM Hozumi/Klepac vs Dabrowski/Stefani Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-09-08T02:30:00+10:00",
+          "stop": "2026-09-08T06:30:00+10:00",
+          "title": "Hozumi/Klepac vs Dabrowski/Stefani Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "3:00 AM Gonzalez/Molteni vs Nouza/Oberleitner Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
-          "start": "2026-09-07T01:00:00+10:00",
-          "stop": "2026-09-07T05:00:00+10:00",
-          "title": "Gonzalez/Molteni vs Nouza/Oberleitner Men\\`s Doubles R2 US Open 2026"
+          "display_title": "5:00 AM Cerundolo vs Blockx Men\\`s Singles R4 US Open 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-08T03:00:00+10:00",
+          "stop": "2026-09-08T07:00:00+10:00",
+          "title": "Cerundolo vs Blockx Men\\`s Singles R4 US Open 2026"
         },
         {
-          "display_title": "3:20 AM Arsenal vs Chelsea Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
-          "start": "2026-09-07T01:20:00+10:00",
-          "stop": "2026-09-07T05:20:00+10:00",
-          "title": "Arsenal vs Chelsea Premier League Matchweek 3 2026/2027"
+          "display_title": "5:00 AM Krawietz/Puetz vs Rojer/Winegar Men\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-09-08T03:00:00+10:00",
+          "stop": "2026-09-08T07:00:00+10:00",
+          "title": "Krawietz/Puetz vs Rojer/Winegar Men\\`s Doubles R2 US Open 2026"
         },
         {
-          "display_title": "3:20 AM • Arsenal vs Chelsea Premier League Matchweek 3 2026/2027",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
-          "start": "2026-09-07T01:20:00+10:00",
-          "stop": "2026-09-07T05:20:00+10:00",
-          "title": "• Arsenal vs Chelsea Premier League Matchweek 3 2026/2027"
+          "display_title": "5:00 AM Krueger/Montgomery vs Maria/Sonmez Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-09-08T03:00:00+10:00",
+          "stop": "2026-09-08T07:00:00+10:00",
+          "title": "Krueger/Montgomery vs Maria/Sonmez Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "3:30 AM Sabalenka vs Townsend Women\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
-          "start": "2026-09-07T01:30:00+10:00",
-          "stop": "2026-09-07T05:30:00+10:00",
-          "title": "Sabalenka vs Townsend Women\\`s Singles R4 US Open 2026"
+          "display_title": "6:00 AM Neel/Olmos vs Bucsa/MelicharMartinez Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-09-08T04:00:00+10:00",
+          "stop": "2026-09-08T08:00:00+10:00",
+          "title": "Neel/Olmos vs Bucsa/MelicharMartinez Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "4:30 AM Kostyuk vs Noskova Women\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
-          "start": "2026-09-07T02:30:00+10:00",
-          "stop": "2026-09-07T06:30:00+10:00",
-          "title": "Kostyuk vs Noskova Women\\`s Singles R4 US Open 2026"
+          "display_title": "6:00 AM Choinski/Donski vs Harrison/Skupski Men\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-08T04:00:00+10:00",
+          "stop": "2026-09-08T08:00:00+10:00",
+          "title": "Choinski/Donski vs Harrison/Skupski Men\\`s Doubles R2 US Open 2026"
         },
         {
-          "display_title": "4:30 AM Nys/RogerVasselin vs Balaji/King Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 024",
-          "slot_norm": "AU STAN 24",
-          "start": "2026-09-07T02:30:00+10:00",
-          "stop": "2026-09-07T06:30:00+10:00",
-          "title": "Nys/RogerVasselin vs Balaji/King Men\\`s Doubles R2 US Open 2026"
+          "display_title": "6:00 AM Bondar/Kalinina vs Routliffe/Sutjiadi Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-08T04:00:00+10:00",
+          "stop": "2026-09-08T08:00:00+10:00",
+          "title": "Bondar/Kalinina vs Routliffe/Sutjiadi Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "4:30 AM Muhammad/Stollar vs Hozumi/Klepac Women\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-09-07T02:30:00+10:00",
-          "stop": "2026-09-07T06:30:00+10:00",
-          "title": "Muhammad/Stollar vs Hozumi/Klepac Women\\`s Doubles R2 US Open 2026"
+          "display_title": "6:30 AM Osaka vs Rybakina Women\\`s Singles R4 US Open 2026",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-08T04:30:00+10:00",
+          "stop": "2026-09-08T08:30:00+10:00",
+          "title": "Osaka vs Rybakina Women\\`s Singles R4 US Open 2026"
         },
         {
-          "display_title": "4:30 AM Maria/Sonmez vs Danilina/Krunic Women\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
-          "start": "2026-09-07T02:30:00+10:00",
-          "stop": "2026-09-07T06:30:00+10:00",
-          "title": "Maria/Sonmez vs Danilina/Krunic Women\\`s Doubles R2 US Open 2026"
+          "display_title": "6:30 AM Hsieh/Ostapenko vs Chan/Joint Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-09-08T04:30:00+10:00",
+          "stop": "2026-09-08T08:30:00+10:00",
+          "title": "Hsieh/Ostapenko vs Chan/Joint Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "5:30 AM Race: Lone Star Le Mans WEC 2026",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
-          "start": "2026-09-07T03:30:00+10:00",
-          "stop": "2026-09-07T07:30:00+10:00",
-          "title": "Race: Lone Star Le Mans WEC 2026"
+          "display_title": "6:30 AM Perez/Schuurs vs Mertens/Shnaider Women\\`s Doubles R3 US Open 2026",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-09-08T04:30:00+10:00",
+          "stop": "2026-09-08T08:30:00+10:00",
+          "title": "Perez/Schuurs vs Mertens/Shnaider Women\\`s Doubles R3 US Open 2026"
         },
         {
-          "display_title": "5:30 AM Dart/Lumsden vs Bucsa/MelicharMartinez Women\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
-          "start": "2026-09-07T03:30:00+10:00",
-          "stop": "2026-09-07T07:30:00+10:00",
-          "title": "Dart/Lumsden vs Bucsa/MelicharMartinez Women\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "5:30 AM Hsieh/Ostapenko vs Bouzkova/Sorribes Tormo Women\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
-          "start": "2026-09-07T03:30:00+10:00",
-          "stop": "2026-09-07T07:30:00+10:00",
-          "title": "Hsieh/Ostapenko vs Bouzkova/Sorribes Tormo Women\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM Paul vs Alcaraz Men\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
-          "start": "2026-09-07T04:00:00+10:00",
-          "stop": "2026-09-07T08:00:00+10:00",
-          "title": "Paul vs Alcaraz Men\\`s Singles R4 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM PL Weekend Wrap: Matchweek 3 Sep 7",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
-          "start": "2026-09-07T04:00:00+10:00",
-          "stop": "2026-09-07T08:00:00+10:00",
-          "title": "PL Weekend Wrap: Matchweek 3 Sep 7"
-        },
-        {
-          "display_title": "6:00 AM Miedler/Polmans vs Cash/Erler Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 032",
-          "slot_norm": "AU STAN 32",
-          "start": "2026-09-07T04:00:00+10:00",
-          "stop": "2026-09-07T08:00:00+10:00",
-          "title": "Miedler/Polmans vs Cash/Erler Men\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM Pavlasek/Rikl vs Cash/Glasspool Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 033",
-          "slot_norm": "AU STAN 33",
-          "start": "2026-09-07T04:00:00+10:00",
-          "stop": "2026-09-07T08:00:00+10:00",
-          "title": "Pavlasek/Rikl vs Cash/Glasspool Men\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM Denver Summit vs Gotham FC NWSL 2026",
-          "slot": "AU STAN 034",
-          "slot_norm": "AU STAN 34",
-          "start": "2026-09-07T04:00:00+10:00",
-          "stop": "2026-09-07T08:00:00+10:00",
-          "title": "Denver Summit vs Gotham FC NWSL 2026"
-        },
-        {
-          "display_title": "6:30 AM Michelsen vs Martin Etcheverry Men\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN 035",
-          "slot_norm": "AU STAN 35",
-          "start": "2026-09-07T04:30:00+10:00",
-          "stop": "2026-09-07T08:30:00+10:00",
-          "title": "Michelsen vs Martin Etcheverry Men\\`s Singles R4 US Open 2026"
-        },
-        {
-          "display_title": "6:30 AM Race: Grand Prix of Laguna Seca Indycar 2026",
-          "slot": "AU STAN 036",
-          "slot_norm": "AU STAN 36",
-          "start": "2026-09-07T04:30:00+10:00",
-          "stop": "2026-09-07T08:30:00+10:00",
-          "title": "Race: Grand Prix of Laguna Seca Indycar 2026"
-        },
-        {
-          "display_title": "7:00 AM Medvedev vs Tiafoe Men\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN 037",
-          "slot_norm": "AU STAN 37",
-          "start": "2026-09-07T05:00:00+10:00",
-          "stop": "2026-09-07T09:00:00+10:00",
-          "title": "Medvedev vs Tiafoe Men\\`s Singles R4 US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM Fossa Huergo/Korpatsch vs Chan/Joint Women\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 038",
-          "slot_norm": "AU STAN 38",
-          "start": "2026-09-07T05:00:00+10:00",
-          "stop": "2026-09-07T09:00:00+10:00",
-          "title": "Fossa Huergo/Korpatsch vs Chan/Joint Women\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM Jiang/Zhang vs Wong Chong/Yang Women\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 039",
-          "slot_norm": "AU STAN 39",
-          "start": "2026-09-07T05:00:00+10:00",
-          "stop": "2026-09-07T09:00:00+10:00",
-          "title": "Jiang/Zhang vs Wong Chong/Yang Women\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "7:30 AM Ram/Salisbury vs Arribage/Olivetti Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN 040",
-          "slot_norm": "AU STAN 40",
-          "start": "2026-09-07T05:30:00+10:00",
-          "stop": "2026-09-07T09:30:00+10:00",
-          "title": "Ram/Salisbury vs Arribage/Olivetti Men\\`s Doubles R2 US Open 2026"
+          "display_title": "7:30 AM Seggerman/Trhac vs Krajicek/Mektic Men\\`s Doubles R2 US Open 2026",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-09-08T05:30:00+10:00",
+          "stop": "2026-09-08T09:30:00+10:00",
+          "title": "Seggerman/Trhac vs Krajicek/Mektic Men\\`s Doubles R2 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 622081893,
-      "message_timestamp": 1788703214,
+      "message_id": 622243832,
+      "message_timestamp": 1788777011,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-06T14:32:40.855854+00:00"
+      "updated_at": "2026-09-07T10:35:01.283248+00:00"
     }
   },
   "version": 1
