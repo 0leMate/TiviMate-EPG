@@ -338,6 +338,14 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "12:00 PM WWE Monday Night RAW",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-09-06T20:00:00-04:00",
+          "stop": "2026-09-07T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
+        },
+        {
           "display_title": "5:00 AM Labor Day Classic Port Royal",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
@@ -379,10 +387,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 622145125,
-      "message_timestamp": 1788741011,
+      "message_id": 622158124,
+      "message_timestamp": 1788748215,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-07T00:43:45.292286+00:00"
+      "updated_at": "2026-09-07T02:34:56.324780+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

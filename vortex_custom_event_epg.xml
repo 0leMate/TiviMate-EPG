@@ -6226,7 +6226,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 20:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -14568,6 +14568,11 @@
     <title>12:15 PM Electric City Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260906200000 -0400" stop="20260907000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>12:00 PM WWE Monday Night RAW</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20260906130000 -0400" stop="20260906170000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>5:00 AM Labor Day Classic Port Royal</title>
