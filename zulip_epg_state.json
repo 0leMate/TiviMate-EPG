@@ -238,13 +238,125 @@
           "start": "2026-09-08T19:00:00-04:00",
           "stop": "2026-09-08T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series en Español"
+        },
+        {
+          "display_title": "4:00 AM UEFA Champions League: Club Brugge vs Aston Villa",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-08T12:00:00-04:00",
+          "stop": "2026-09-08T16:00:00-04:00",
+          "title": "UEFA Champions League: Club Brugge vs Aston Villa"
+        },
+        {
+          "display_title": "4:00 AM UEFA Champions League: AEK Athens vs LASK",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-08T12:00:00-04:00",
+          "stop": "2026-09-08T16:00:00-04:00",
+          "title": "UEFA Champions League: AEK Athens vs LASK"
+        },
+        {
+          "display_title": "5:30 AM UEFA Champions League: Lille vs Real Betis",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-08T13:30:00-04:00",
+          "stop": "2026-09-08T17:30:00-04:00",
+          "title": "UEFA Champions League: Lille vs Real Betis"
+        },
+        {
+          "display_title": "5:30 AM UEFA Champions League: The Golazo Show",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-08T13:30:00-04:00",
+          "stop": "2026-09-08T17:30:00-04:00",
+          "title": "UEFA Champions League: The Golazo Show"
+        },
+        {
+          "display_title": "5:30 AM UEFA Champions League: Dortmund vs Villarreal",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-08T13:30:00-04:00",
+          "stop": "2026-09-08T17:30:00-04:00",
+          "title": "UEFA Champions League: Dortmund vs Villarreal"
+        },
+        {
+          "display_title": "5:30 AM UEFA Champions League: Real Madrid vs Inter",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-08T13:30:00-04:00",
+          "stop": "2026-09-08T17:30:00-04:00",
+          "title": "UEFA Champions League: Real Madrid vs Inter"
+        },
+        {
+          "display_title": "5:30 AM UEFA Champions League: Porto vs Man City",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-08T13:30:00-04:00",
+          "stop": "2026-09-08T17:30:00-04:00",
+          "title": "UEFA Champions League: Porto vs Man City"
+        },
+        {
+          "display_title": "6:35 AM English Football League: Wrexham vs Burnley",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-09-08T14:35:00-04:00",
+          "stop": "2026-09-08T18:35:00-04:00",
+          "title": "English Football League: Wrexham vs Burnley"
+        },
+        {
+          "display_title": "6:35 AM Carabao Cup: AFC Bournemouth vs Lincoln City",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-09-08T14:35:00-04:00",
+          "stop": "2026-09-08T18:35:00-04:00",
+          "title": "Carabao Cup: AFC Bournemouth vs Lincoln City"
+        },
+        {
+          "display_title": "6:35 AM Carabao Cup: Sunderland vs Hull City",
+          "slot": "PARAMOUNT ALT 10",
+          "slot_norm": "PARAMOUNT ALT 10",
+          "start": "2026-09-08T14:35:00-04:00",
+          "stop": "2026-09-08T18:35:00-04:00",
+          "title": "Carabao Cup: Sunderland vs Hull City"
+        },
+        {
+          "display_title": "6:50 AM English Football League: Bolton Wanderers vs West Ham United",
+          "slot": "PARAMOUNT ALT 11",
+          "slot_norm": "PARAMOUNT ALT 11",
+          "start": "2026-09-08T14:50:00-04:00",
+          "stop": "2026-09-08T18:50:00-04:00",
+          "title": "English Football League: Bolton Wanderers vs West Ham United"
+        },
+        {
+          "display_title": "6:50 AM Carabao Cup: Millwall vs Newcastle United",
+          "slot": "PARAMOUNT ALT 12",
+          "slot_norm": "PARAMOUNT ALT 12",
+          "start": "2026-09-08T14:50:00-04:00",
+          "stop": "2026-09-08T18:50:00-04:00",
+          "title": "Carabao Cup: Millwall vs Newcastle United"
+        },
+        {
+          "display_title": "10:50 AM Concacaf Champions Cup: Club Sando FC vs Delfines del Este FC",
+          "slot": "PARAMOUNT ALT 13",
+          "slot_norm": "PARAMOUNT ALT 13",
+          "start": "2026-09-08T18:50:00-04:00",
+          "stop": "2026-09-08T22:50:00-04:00",
+          "title": "Concacaf Champions Cup: Club Sando FC vs Delfines del Este FC"
+        },
+        {
+          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series",
+          "slot": "PARAMOUNT ALT 14",
+          "slot_norm": "PARAMOUNT ALT 14",
+          "start": "2026-09-08T19:00:00-04:00",
+          "stop": "2026-09-08T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 622461362,
-      "message_timestamp": 1788856217,
+      "message_id": 622469178,
+      "message_timestamp": 1788858022,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-08T08:36:41.731550+00:00"
+      "updated_at": "2026-09-08T10:35:37.464367+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -416,187 +528,171 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "10:25 PM Ulsan vs Seoul K League 2026",
+          "display_title": "7:00 AM Egberink/Stroud vs Ratzlaff/Cooper Men\\`s Wheelchair Doubles QF US Open 2026",
+          "slot": "AU STAN 022",
+          "slot_norm": "AU STAN 22",
+          "start": "2026-09-09T05:00:00+10:00",
+          "stop": "2026-09-09T09:00:00+10:00",
+          "title": "Egberink/Stroud vs Ratzlaff/Cooper Men\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "7:00 AM Ter Hofte/Caverzaschi vs Fernandez/Oda Men\\`s Wheelchair Doubles QF US Open 2026",
+          "slot": "AU STAN 023",
+          "slot_norm": "AU STAN 23",
+          "start": "2026-09-09T05:00:00+10:00",
+          "stop": "2026-09-09T09:00:00+10:00",
+          "title": "Ter Hofte/Caverzaschi vs Fernandez/Oda Men\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "7:00 AM Lysov/Miki vs De la Puente/Spaargaren Men\\`s Wheelchair Doubles QF US Open 2026",
           "slot": "AU STAN 024",
           "slot_norm": "AU STAN 24",
-          "start": "2026-09-08T20:25:00+10:00",
-          "stop": "2026-09-09T00:25:00+10:00",
+          "start": "2026-09-09T05:00:00+10:00",
+          "stop": "2026-09-09T09:00:00+10:00",
+          "title": "Lysov/Miki vs De la Puente/Spaargaren Men\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "7:00 AM Siniakova/Townsend vs Bucsa/MelicharMartinez Women\\`s Doubles Quarter Final US Open 2026",
+          "slot": "AU STAN 025",
+          "slot_norm": "AU STAN 25",
+          "start": "2026-09-09T05:00:00+10:00",
+          "stop": "2026-09-09T09:00:00+10:00",
+          "title": "Siniakova/Townsend vs Bucsa/MelicharMartinez Women\\`s Doubles Quarter Final US Open 2026"
+        },
+        {
+          "display_title": "10:25 PM Ulsan vs Seoul K League 2026",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-09-09T20:25:00+10:00",
+          "stop": "2026-09-10T00:25:00+10:00",
           "title": "Ulsan vs Seoul K League 2026"
         },
         {
           "display_title": "10:25 PM Incheon vs Bucheon K League 2026",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-09-08T20:25:00+10:00",
-          "stop": "2026-09-09T00:25:00+10:00",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-09-09T20:25:00+10:00",
+          "stop": "2026-09-10T00:25:00+10:00",
           "title": "Incheon vs Bucheon K League 2026"
         },
         {
           "display_title": "1:55 AM Real Madrid U19 vs Internazionale U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
-          "start": "2026-09-08T23:55:00+10:00",
-          "stop": "2026-09-09T03:55:00+10:00",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-09-09T23:55:00+10:00",
+          "stop": "2026-09-10T03:55:00+10:00",
           "title": "Real Madrid U19 vs Internazionale U19 UEFA Youth League 2026/2027"
         },
         {
+          "display_title": "3:00 AM Guo/Ohtani vs Van Koot/De Groot Women\\`s Wheelchair Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-09-09T01:00:00+10:00",
+          "stop": "2026-09-09T05:00:00+10:00",
+          "title": "Guo/Ohtani vs Van Koot/De Groot Women\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Kamiji/Zhu vs Phelps/Czauz Women\\`s Wheelchair Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-09T01:00:00+10:00",
+          "stop": "2026-09-09T05:00:00+10:00",
+          "title": "Kamiji/Zhu vs Phelps/Czauz Women\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Griffioen/Montjane vs Wang/Li Women\\`s Wheelchair Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-09-09T01:00:00+10:00",
+          "stop": "2026-09-09T05:00:00+10:00",
+          "title": "Griffioen/Montjane vs Wang/Li Women\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM De Greef/Bos vs Chasteau/Bernal Women\\`s Wheelchair Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-09T01:00:00+10:00",
+          "stop": "2026-09-09T05:00:00+10:00",
+          "title": "De Greef/Bos vs Chasteau/Bernal Women\\`s Wheelchair Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "3:30 AM Sabalenka vs Noskova Women\\`s Singles Quarter Final US Open 2026",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-09-09T01:30:00+10:00",
+          "stop": "2026-09-09T05:30:00+10:00",
+          "title": "Sabalenka vs Noskova Women\\`s Singles Quarter Final US Open 2026"
+        },
+        {
           "display_title": "4:40 AM Club Brugge vs Aston Villa UEFA Champions League 2026/2027",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
           "start": "2026-09-09T02:40:00+10:00",
           "stop": "2026-09-09T06:40:00+10:00",
           "title": "Club Brugge vs Aston Villa UEFA Champions League 2026/2027"
         },
         {
           "display_title": "4:40 AM AEK Athens vs LASK UEFA Champions League 2026/2027",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
           "start": "2026-09-09T02:40:00+10:00",
           "stop": "2026-09-09T06:40:00+10:00",
           "title": "AEK Athens vs LASK UEFA Champions League 2026/2027"
         },
         {
+          "display_title": "5:00 AM Tiafoe vs Michelsen Men\\`s Singles Quarter Final US Open 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-09T03:00:00+10:00",
+          "stop": "2026-09-09T07:00:00+10:00",
+          "title": "Tiafoe vs Michelsen Men\\`s Singles Quarter Final US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-09T03:00:00+10:00",
+          "stop": "2026-09-09T07:00:00+10:00",
+          "title": "Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-09T03:00:00+10:00",
+          "stop": "2026-09-09T07:00:00+10:00",
+          "title": "Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-09-09T03:00:00+10:00",
+          "stop": "2026-09-09T07:00:00+10:00",
+          "title": "Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026"
+        },
+        {
+          "display_title": "5:00 AM Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-09-09T03:00:00+10:00",
+          "stop": "2026-09-09T07:00:00+10:00",
+          "title": "Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026"
+        },
+        {
           "display_title": "6:40 AM Football Zone: MD1 Wednesday UEFA Champions League 2026/27",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
           "start": "2026-09-09T04:40:00+10:00",
           "stop": "2026-09-09T08:40:00+10:00",
           "title": "Football Zone: MD1 Wednesday UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "6:55 AM Porto vs Manchester City UEFA Champions League 2026/2027",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
-          "start": "2026-09-09T04:55:00+10:00",
-          "stop": "2026-09-09T08:55:00+10:00",
-          "title": "Porto vs Manchester City UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Real Madrid vs Internazionale UEFA Champions League 2026/2027",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
-          "start": "2026-09-09T04:55:00+10:00",
-          "stop": "2026-09-09T08:55:00+10:00",
-          "title": "Real Madrid vs Internazionale UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Borussia Dortmund vs Villarreal UEFA Champions League 2026/2027",
-          "slot": "AU STAN 032",
-          "slot_norm": "AU STAN 32",
-          "start": "2026-09-09T04:55:00+10:00",
-          "stop": "2026-09-09T08:55:00+10:00",
-          "title": "Borussia Dortmund vs Villarreal UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Lille vs Real Betis UEFA Champions League 2026/2027",
-          "slot": "AU STAN 033",
-          "slot_norm": "AU STAN 33",
-          "start": "2026-09-09T04:55:00+10:00",
-          "stop": "2026-09-09T08:55:00+10:00",
-          "title": "Lille vs Real Betis UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "3:00 AM Andreeva vs Potapova Women\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-09T01:00:00+10:00",
-          "stop": "2026-09-09T05:00:00+10:00",
-          "title": "Andreeva vs Potapova Women\\`s Singles R4 US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Lammons/Withrow vs Cabral/Tracy Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-09T01:00:00+10:00",
-          "stop": "2026-09-09T05:00:00+10:00",
-          "title": "Lammons/Withrow vs Cabral/Tracy Men\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "3:30 AM Swiatek vs Zheng Women\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-09T01:30:00+10:00",
-          "stop": "2026-09-09T05:30:00+10:00",
-          "title": "Swiatek vs Zheng Women\\`s Singles R4 US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Kiger/Kovacevic vs Arevalo/Pavic Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-09T02:30:00+10:00",
-          "stop": "2026-09-09T06:30:00+10:00",
-          "title": "Kiger/Kovacevic vs Arevalo/Pavic Men\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Siniakova/Townsend vs Hunter/Krawczyk Women\\`s Doubles R3 US Open 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-09T02:30:00+10:00",
-          "stop": "2026-09-09T06:30:00+10:00",
-          "title": "Siniakova/Townsend vs Hunter/Krawczyk Women\\`s Doubles R3 US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Hozumi/Klepac vs Dabrowski/Stefani Women\\`s Doubles R3 US Open 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-09T02:30:00+10:00",
-          "stop": "2026-09-09T06:30:00+10:00",
-          "title": "Hozumi/Klepac vs Dabrowski/Stefani Women\\`s Doubles R3 US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Cerundolo vs Blockx Men\\`s Singles R4 US Open 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Cerundolo vs Blockx Men\\`s Singles R4 US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Krawietz/Puetz vs Rojer/Winegar Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Krawietz/Puetz vs Rojer/Winegar Men\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Krueger/Montgomery vs Maria/Sonmez Women\\`s Doubles R3 US Open 2026",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Krueger/Montgomery vs Maria/Sonmez Women\\`s Doubles R3 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM Neel/Olmos vs Bucsa/MelicharMartinez Women\\`s Doubles R3 US Open 2026",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-09T04:00:00+10:00",
-          "stop": "2026-09-09T08:00:00+10:00",
-          "title": "Neel/Olmos vs Bucsa/MelicharMartinez Women\\`s Doubles R3 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM Choinski/Donski vs Harrison/Skupski Men\\`s Doubles R2 US Open 2026",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-09T04:00:00+10:00",
-          "stop": "2026-09-09T08:00:00+10:00",
-          "title": "Choinski/Donski vs Harrison/Skupski Men\\`s Doubles R2 US Open 2026"
-        },
-        {
-          "display_title": "6:00 AM Bondar/Kalinina vs Routliffe/Sutjiadi Women\\`s Doubles R3 US Open 2026",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-09T04:00:00+10:00",
-          "stop": "2026-09-09T08:00:00+10:00",
-          "title": "Bondar/Kalinina vs Routliffe/Sutjiadi Women\\`s Doubles R3 US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 622292205,
-      "message_timestamp": 1788789618,
+      "message_id": 622490590,
+      "message_timestamp": 1788863420,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-07T14:35:24.775511+00:00"
+      "updated_at": "2026-09-08T10:35:39.348962+00:00"
     }
   },
   "version": 1
