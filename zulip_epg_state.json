@@ -210,43 +210,19 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night RAW",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-09-06T20:00:00-04:00",
-          "stop": "2026-09-07T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
-        },
-        {
-          "display_title": "5:00 AM Labor Day Classic Port Royal",
+          "display_title": "10:00 AM Short Track Super Series Le RPM",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-06T13:00:00-04:00",
-          "stop": "2026-09-06T17:00:00-04:00",
-          "title": "Labor Day Classic Port Royal"
-        },
-        {
-          "display_title": "10:00 AM STSS Autodrome Granby",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-06T18:00:00-04:00",
-          "stop": "2026-09-06T22:00:00-04:00",
-          "title": "STSS Autodrome Granby"
-        },
-        {
-          "display_title": "10:45 AM USAC National Midgets Coles County",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-09-06T18:45:00-04:00",
-          "stop": "2026-09-06T22:45:00-04:00",
-          "title": "USAC National Midgets Coles County"
+          "start": "2026-09-07T18:00:00-04:00",
+          "stop": "2026-09-07T22:00:00-04:00",
+          "title": "Short Track Super Series Le RPM"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 622163223,
-      "message_timestamp": 1788750011,
+      "message_id": 622386765,
+      "message_timestamp": 1788825614,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-07T04:36:15.605278+00:00"
+      "updated_at": "2026-09-08T00:43:39.710292+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -294,67 +270,83 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "6:30 AM Qpr vs Cardiff // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "display_title": "6:45 AM Blackburn Rovers vs Sheffield United",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "Blackburn Rovers vs Sheffield United"
+        },
+        {
+          "display_title": "6:45 AM Cardiff City vs Stoke City",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "Cardiff City vs Stoke City"
+        },
+        {
+          "display_title": "6:45 AM Southampton vs Swansea City",
           "slot": "SKY SPORTS+ 03",
           "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Qpr vs Cardiff // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "Southampton vs Swansea City"
         },
         {
-          "display_title": "6:30 AM West Brom vs Charlton // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "display_title": "6:45 AM Watford vs Preston North End",
           "slot": "SKY SPORTS+ 04",
           "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "West Brom vs Charlton // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "Watford vs Preston North End"
         },
         {
-          "display_title": "6:30 AM Barnsley vs Blackpool // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "display_title": "6:45 AM AFC Bournemouth vs Lincoln City",
           "slot": "SKY SPORTS+ 05",
           "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Barnsley vs Blackpool // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "AFC Bournemouth vs Lincoln City"
         },
         {
-          "display_title": "6:30 AM Burton vs Wimbledon // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "display_title": "6:45 AM Leyton Orient vs Bradford City",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Burton vs Wimbledon // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "Leyton Orient vs Bradford City"
         },
         {
-          "display_title": "6:30 AM Luton vs Stockport // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
+          "display_title": "6:45 AM Crystal Palace vs Middlesbrough",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Luton vs Stockport // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
+          "start": "2026-09-08T19:45:00+01:00",
+          "stop": "2026-09-08T23:45:00+01:00",
+          "title": "Crystal Palace vs Middlesbrough"
         },
         {
-          "display_title": "6:30 AM Wigan vs Mk Dons // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-09-02T19:30:00+01:00",
-          "stop": "2026-09-02T23:30:00+01:00",
-          "title": "Wigan vs Mk Dons // UK Wed 2 Sep // ET Wed 2 Sep 2:30pm"
-        },
-        {
-          "display_title": "6:45 AM Reading vs Mansfield // UK Wed 2 Sep // ET Wed 2 Sep 2:45pm",
+          "display_title": "6:00 AM Doncaster Rovers vs Huddersfield Town",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-09-02T19:45:00+01:00",
-          "stop": "2026-09-02T23:45:00+01:00",
-          "title": "Reading vs Mansfield // UK Wed 2 Sep // ET Wed 2 Sep 2:45pm"
+          "start": "2026-09-08T19:00:00+01:00",
+          "stop": "2026-09-08T23:00:00+01:00",
+          "title": "Doncaster Rovers vs Huddersfield Town"
+        },
+        {
+          "display_title": "6:00 AM Exeter City vs Tottenham U21",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-09-08T19:00:00+01:00",
+          "stop": "2026-09-08T23:00:00+01:00",
+          "title": "Exeter City vs Tottenham U21"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 620938713,
-      "message_timestamp": 1788339622,
+      "message_id": 622386763,
+      "message_timestamp": 1788825613,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-02T10:34:18.222700+00:00"
+      "updated_at": "2026-09-08T00:43:40.712588+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
