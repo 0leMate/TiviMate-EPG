@@ -4,6 +4,30 @@
       "channel": "dirtvision",
       "events": [
         {
+          "display_title": "9:45 AM Weedsport Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-09-08T17:45:00-04:00",
+          "stop": "2026-09-08T21:45:00-04:00",
+          "title": "Weedsport Speedway"
+        },
+        {
+          "display_title": "11:15 AM Huset's Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
+          "start": "2026-09-08T19:15:00-04:00",
+          "stop": "2026-09-08T23:15:00-04:00",
+          "title": "Huset's Speedway"
+        },
+        {
+          "display_title": "12:15 PM Electric City Speedway",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
+          "start": "2026-09-08T20:15:00-04:00",
+          "stop": "2026-09-09T00:15:00-04:00",
+          "title": "Electric City Speedway"
+        },
+        {
           "display_title": "10:15 AM Millbridge Speedway Sep 8",
           "slot": "DIRT ALT 15",
           "slot_norm": "DIRT ALT 15",
@@ -13,10 +37,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 622414508,
-      "message_timestamp": 1788840021,
+      "message_id": 622551044,
+      "message_timestamp": 1788876050,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-08T04:36:17.322593+00:00"
+      "updated_at": "2026-09-08T14:37:08.934697+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -365,40 +389,40 @@
           "display_title": "11:00 AM Dana White Contender Series S10W05",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-07T19:00:00-04:00",
-          "stop": "2026-09-07T23:00:00-04:00",
+          "start": "2026-09-08T19:00:00-04:00",
+          "stop": "2026-09-08T23:00:00-04:00",
           "title": "Dana White Contender Series S10W05"
         },
         {
           "display_title": "10:00 AM Short Track Super Series Le RPM",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-07T18:00:00-04:00",
-          "stop": "2026-09-07T22:00:00-04:00",
+          "start": "2026-09-08T18:00:00-04:00",
+          "stop": "2026-09-08T22:00:00-04:00",
           "title": "Short Track Super Series Le RPM"
         },
         {
           "display_title": "10:15 AM Millbridge Speedway",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-09-07T18:15:00-04:00",
-          "stop": "2026-09-07T22:15:00-04:00",
+          "start": "2026-09-08T18:15:00-04:00",
+          "stop": "2026-09-08T22:15:00-04:00",
           "title": "Millbridge Speedway"
         },
         {
           "display_title": "2:00 PM Hoodslam Revelations 8:28",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-09-07T22:00:00-04:00",
-          "stop": "2026-09-08T02:00:00-04:00",
+          "start": "2026-09-08T22:00:00-04:00",
+          "stop": "2026-09-09T02:00:00-04:00",
           "title": "Hoodslam Revelations 8:28"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 622407825,
-      "message_timestamp": 1788836410,
+      "message_id": 622550884,
+      "message_timestamp": 1788876013,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-08T04:36:18.134880+00:00"
+      "updated_at": "2026-09-08T14:37:09.774232+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -512,171 +536,35 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "7:00 AM Egberink/Stroud vs Ratzlaff/Cooper Men\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
-          "start": "2026-09-09T05:00:00+10:00",
-          "stop": "2026-09-09T09:00:00+10:00",
-          "title": "Egberink/Stroud vs Ratzlaff/Cooper Men\\`s Wheelchair Doubles QF US Open 2026"
+          "display_title": "6:55 AM Liverpool vs Atlético de Madrid UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 045",
+          "slot_norm": "AU STAN ALT 45",
+          "start": "2026-09-10T04:55:00+10:00",
+          "stop": "2026-09-10T08:55:00+10:00",
+          "title": "Liverpool vs Atlético de Madrid UEFA Champions League 2026/2027"
         },
         {
-          "display_title": "7:00 AM Ter Hofte/Caverzaschi vs Fernandez/Oda Men\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
-          "start": "2026-09-09T05:00:00+10:00",
-          "stop": "2026-09-09T09:00:00+10:00",
-          "title": "Ter Hofte/Caverzaschi vs Fernandez/Oda Men\\`s Wheelchair Doubles QF US Open 2026"
+          "display_title": "6:55 AM Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 046",
+          "slot_norm": "AU STAN ALT 46",
+          "start": "2026-09-10T04:55:00+10:00",
+          "stop": "2026-09-10T08:55:00+10:00",
+          "title": "Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027"
         },
         {
-          "display_title": "7:00 AM Lysov/Miki vs De la Puente/Spaargaren Men\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN 024",
-          "slot_norm": "AU STAN 24",
-          "start": "2026-09-09T05:00:00+10:00",
-          "stop": "2026-09-09T09:00:00+10:00",
-          "title": "Lysov/Miki vs De la Puente/Spaargaren Men\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM Siniakova/Townsend vs Bucsa/MelicharMartinez Women\\`s Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-09-09T05:00:00+10:00",
-          "stop": "2026-09-09T09:00:00+10:00",
-          "title": "Siniakova/Townsend vs Bucsa/MelicharMartinez Women\\`s Doubles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "10:25 PM Ulsan vs Seoul K League 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-09T20:25:00+10:00",
-          "stop": "2026-09-10T00:25:00+10:00",
-          "title": "Ulsan vs Seoul K League 2026"
-        },
-        {
-          "display_title": "10:25 PM Incheon vs Bucheon K League 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-09T20:25:00+10:00",
-          "stop": "2026-09-10T00:25:00+10:00",
-          "title": "Incheon vs Bucheon K League 2026"
-        },
-        {
-          "display_title": "1:55 AM Real Madrid U19 vs Internazionale U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-09T23:55:00+10:00",
-          "stop": "2026-09-10T03:55:00+10:00",
-          "title": "Real Madrid U19 vs Internazionale U19 UEFA Youth League 2026/2027"
-        },
-        {
-          "display_title": "3:00 AM Guo/Ohtani vs Van Koot/De Groot Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-09T01:00:00+10:00",
-          "stop": "2026-09-09T05:00:00+10:00",
-          "title": "Guo/Ohtani vs Van Koot/De Groot Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Kamiji/Zhu vs Phelps/Czauz Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-09T01:00:00+10:00",
-          "stop": "2026-09-09T05:00:00+10:00",
-          "title": "Kamiji/Zhu vs Phelps/Czauz Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Griffioen/Montjane vs Wang/Li Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-09T01:00:00+10:00",
-          "stop": "2026-09-09T05:00:00+10:00",
-          "title": "Griffioen/Montjane vs Wang/Li Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM De Greef/Bos vs Chasteau/Bernal Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-09T01:00:00+10:00",
-          "stop": "2026-09-09T05:00:00+10:00",
-          "title": "De Greef/Bos vs Chasteau/Bernal Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:30 AM Sabalenka vs Noskova Women\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-09T01:30:00+10:00",
-          "stop": "2026-09-09T05:30:00+10:00",
-          "title": "Sabalenka vs Noskova Women\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "4:40 AM Club Brugge vs Aston Villa UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-09T02:40:00+10:00",
-          "stop": "2026-09-09T06:40:00+10:00",
-          "title": "Club Brugge vs Aston Villa UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "4:40 AM AEK Athens vs LASK UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-09T02:40:00+10:00",
-          "stop": "2026-09-09T06:40:00+10:00",
-          "title": "AEK Athens vs LASK UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "5:00 AM Tiafoe vs Michelsen Men\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Tiafoe vs Michelsen Men\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-09T03:00:00+10:00",
-          "stop": "2026-09-09T07:00:00+10:00",
-          "title": "Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "6:40 AM Football Zone: MD1 Wednesday UEFA Champions League 2026/27",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-09-09T04:40:00+10:00",
-          "stop": "2026-09-09T08:40:00+10:00",
-          "title": "Football Zone: MD1 Wednesday UEFA Champions League 2026/27"
+          "display_title": "6:55 AM Sporting CP vs Galatasaray UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 047",
+          "slot_norm": "AU STAN ALT 47",
+          "start": "2026-09-10T04:55:00+10:00",
+          "stop": "2026-09-10T08:55:00+10:00",
+          "title": "Sporting CP vs Galatasaray UEFA Champions League 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 622490590,
-      "message_timestamp": 1788863420,
+      "message_id": 622551037,
+      "message_timestamp": 1788876049,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-08T10:35:39.348962+00:00"
+      "updated_at": "2026-09-08T14:37:11.339108+00:00"
     }
   },
   "version": 1

@@ -2,17 +2,17 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 17:45 Weedsport Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
     <display-name>DIRT 02</display-name>
-    <display-name>DIRT 02:</display-name>
+    <display-name>DIRT 02: 19:15 Huset&#x27;s Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.03">
     <display-name>DIRT 03</display-name>
-    <display-name>DIRT 03:</display-name>
+    <display-name>DIRT 03: 20:15 Electric City Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.04">
@@ -6226,22 +6226,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 19:00 Dana White Contender Series S10W05</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 18:00 Short Track Super Series Le RPM</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 18:15 Millbridge Speedway</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04:</display-name>
+    <display-name>PPV 04: 22:00 Hoodslam Revelations 8:28</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
@@ -9996,37 +9996,37 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
     <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+ 01:</display-name>
+    <display-name>SKY SPORTS+ 01: 19:45 Blackburn Rovers vs Sheffield United</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
     <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+ 02:</display-name>
+    <display-name>SKY SPORTS+ 02: 19:45 Cardiff City vs Stoke City</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
     <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+ 03:</display-name>
+    <display-name>SKY SPORTS+ 03: 19:45 Southampton vs Swansea City</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
     <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+ 04:</display-name>
+    <display-name>SKY SPORTS+ 04: 19:45 Watford vs Preston North End</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
     <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+ 05:</display-name>
+    <display-name>SKY SPORTS+ 05: 19:45 AFC Bournemouth vs Lincoln City</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
     <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+ 06:</display-name>
+    <display-name>SKY SPORTS+ 06: 19:45 Leyton Orient vs Bradford City</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
     <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+ 07:</display-name>
+    <display-name>SKY SPORTS+ 07: 19:45 Crystal Palace vs Middlesbrough</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
@@ -10036,12 +10036,12 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
     <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+ 09:</display-name>
+    <display-name>SKY SPORTS+ 09: 19:00 Doncaster Rovers vs Huddersfield Town</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.10">
     <display-name>SKY SPORTS+ 10</display-name>
-    <display-name>SKY SPORTS+ 10:</display-name>
+    <display-name>SKY SPORTS+ 10: 19:00 Exeter City vs Tottenham U21</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.11">
@@ -12659,103 +12659,18 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260909050000 +1000" stop="20260909090000 +1000" channel="custom.AU.STAN.AU.STAN.022">
-    <title>7:00 AM Egberink/Stroud vs Ratzlaff/Cooper Men\`s Wheelchair Doubles QF US Open 2026</title>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.045">
+    <title>6:55 AM Liverpool vs Atlético de Madrid UEFA Champions League 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260909050000 +1000" stop="20260909090000 +1000" channel="custom.AU.STAN.AU.STAN.023">
-    <title>7:00 AM Ter Hofte/Caverzaschi vs Fernandez/Oda Men\`s Wheelchair Doubles QF US Open 2026</title>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.046">
+    <title>6:55 AM Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260909050000 +1000" stop="20260909090000 +1000" channel="custom.AU.STAN.AU.STAN.024">
-    <title>7:00 AM Lysov/Miki vs De la Puente/Spaargaren Men\`s Wheelchair Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909050000 +1000" stop="20260909090000 +1000" channel="custom.AU.STAN.AU.STAN.025">
-    <title>7:00 AM Siniakova/Townsend vs Bucsa/MelicharMartinez Women\`s Doubles Quarter Final US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909202500 +1000" stop="20260910002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
-    <title>10:25 PM Ulsan vs Seoul K League 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909202500 +1000" stop="20260910002500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
-    <title>10:25 PM Incheon vs Bucheon K League 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909235500 +1000" stop="20260910035500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
-    <title>1:55 AM Real Madrid U19 vs Internazionale U19 UEFA Youth League 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909010000 +1000" stop="20260909050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
-    <title>3:00 AM Guo/Ohtani vs Van Koot/De Groot Women\`s Wheelchair Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909010000 +1000" stop="20260909050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.005">
-    <title>3:00 AM Kamiji/Zhu vs Phelps/Czauz Women\`s Wheelchair Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909010000 +1000" stop="20260909050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
-    <title>3:00 AM Griffioen/Montjane vs Wang/Li Women\`s Wheelchair Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909010000 +1000" stop="20260909050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.007">
-    <title>3:00 AM De Greef/Bos vs Chasteau/Bernal Women\`s Wheelchair Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909013000 +1000" stop="20260909053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.008">
-    <title>3:30 AM Sabalenka vs Noskova Women\`s Singles Quarter Final US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909024000 +1000" stop="20260909064000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.009">
-    <title>4:40 AM Club Brugge vs Aston Villa UEFA Champions League 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909024000 +1000" stop="20260909064000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.010">
-    <title>4:40 AM AEK Athens vs LASK UEFA Champions League 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909030000 +1000" stop="20260909070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.011">
-    <title>5:00 AM Tiafoe vs Michelsen Men\`s Singles Quarter Final US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909030000 +1000" stop="20260909070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.012">
-    <title>5:00 AM Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909030000 +1000" stop="20260909070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
-    <title>5:00 AM Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909030000 +1000" stop="20260909070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.014">
-    <title>5:00 AM Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909030000 +1000" stop="20260909070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.015">
-    <title>5:00 AM Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260909044000 +1000" stop="20260909084000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.016">
-    <title>6:40 AM Football Zone: MD1 Wednesday UEFA Champions League 2026/27</title>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.047">
+    <title>6:55 AM Sporting CP vs Galatasaray UEFA Champions League 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14309,6 +14224,21 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
+  <programme start="20260908174500 -0400" stop="20260908214500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>9:45 AM Weedsport Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260908191500 -0400" stop="20260908231500 -0400" channel="custom.DIRTVISION.DIRT.02">
+    <title>11:15 AM Huset&#x27;s Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260908201500 -0400" stop="20260909001500 -0400" channel="custom.DIRTVISION.DIRT.03">
+    <title>12:15 PM Electric City Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
   <programme start="20260908181500 -0400" stop="20260908221500 -0400" channel="custom.DIRTVISION.DIRT.ALT.15">
     <title>10:15 AM Millbridge Speedway Sep 8</title>
     <category>Sports</category>
@@ -14324,22 +14254,22 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260907190000 -0400" stop="20260907230000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
     <title>11:00 AM Dana White Contender Series S10W05</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260907180000 -0400" stop="20260907220000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+  <programme start="20260908180000 -0400" stop="20260908220000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>10:00 AM Short Track Super Series Le RPM</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260907181500 -0400" stop="20260907221500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+  <programme start="20260908181500 -0400" stop="20260908221500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
     <title>10:15 AM Millbridge Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260907220000 -0400" stop="20260908020000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
+  <programme start="20260908220000 -0400" stop="20260909020000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
     <title>2:00 PM Hoodslam Revelations 8:28</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
