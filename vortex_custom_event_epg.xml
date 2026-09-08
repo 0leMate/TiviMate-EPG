@@ -12684,18 +12684,108 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.045">
-    <title>6:55 AM Liverpool vs Atlético de Madrid UEFA Champions League 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.046">
-    <title>6:55 AM Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.047">
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.047">
     <title>6:55 AM Sporting CP vs Galatasaray UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910010000 +1000" stop="20260910050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
+    <title>3:00 AM Guo/Ohtani vs Van Koot/De Groot Women\`s Wheelchair Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910010000 +1000" stop="20260910050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.005">
+    <title>3:00 AM Kamiji/Zhu vs Phelps/Czauz Women\`s Wheelchair Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910010000 +1000" stop="20260910050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
+    <title>3:00 AM Griffioen/Montjane vs Wang/Li Women\`s Wheelchair Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910010000 +1000" stop="20260910050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.007">
+    <title>3:00 AM De Greef/Bos vs Chasteau/Bernal Women\`s Wheelchair Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910013000 +1000" stop="20260910053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.008">
+    <title>3:30 AM Sabalenka vs Noskova Women\`s Singles Quarter Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910024000 +1000" stop="20260910064000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.009">
+    <title>4:40 AM Club Brugge vs Aston Villa UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910024000 +1000" stop="20260910064000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.010">
+    <title>4:40 AM AEK Athens vs LASK UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910030000 +1000" stop="20260910070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.011">
+    <title>5:00 AM Tiafoe vs Michelsen Men\`s Singles Quarter Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910030000 +1000" stop="20260910070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.012">
+    <title>5:00 AM Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910030000 +1000" stop="20260910070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
+    <title>5:00 AM Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910030000 +1000" stop="20260910070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.014">
+    <title>5:00 AM Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910030000 +1000" stop="20260910070000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.015">
+    <title>5:00 AM Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910044000 +1000" stop="20260910084000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.016">
+    <title>6:40 AM Football Zone: MD1 Wednesday UEFA Champions League 2026/27</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
+    <title>6:55 AM Porto vs Manchester City UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
+    <title>6:55 AM Real Madrid vs Internazionale UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.019">
+    <title>6:55 AM Borussia Dortmund vs Villarreal UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910045500 +1000" stop="20260910085500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.020">
+    <title>6:55 AM Lille vs Real Betis UEFA Champions League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910050000 +1000" stop="20260910090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.021">
+    <title>7:00 AM Hewett/Reid vs Ji/Houdet Men\`s Wheelchair Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910050000 +1000" stop="20260910090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.022">
+    <title>7:00 AM Egberink/Stroud vs Ratzlaff/Cooper Men\`s Wheelchair Doubles QF US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260910050000 +1000" stop="20260910090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.023">
+    <title>7:00 AM Ter Hofte/Caverzaschi vs Fernandez/Oda Men\`s Wheelchair Doubles QF US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -17289,153 +17379,13 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
-  <programme start="20260908120000 -0400" stop="20260908160000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.001">
-    <title>4:00 AM Club Brugge vs Aston Villa</title>
+  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.15">
+    <title>11:00 AM Dana White&#x27;s Contender Series: Dana Whites Contender Series em Português</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20260908120000 -0400" stop="20260908160000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.002">
-    <title>4:00 AM AEK Athens vs LASK</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.003">
-    <title>5:30 AM Lille vs Real Betis</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.004">
-    <title>5:30 AM The Golazo Show</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.005">
-    <title>5:30 AM Dortmund vs Villarreal</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.006">
-    <title>5:30 AM Real Madrid vs Inter</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.007">
-    <title>5:30 AM Porto vs Man. City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908143500 -0400" stop="20260908183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.008">
-    <title>6:35 AM Wrexham vs Burnley</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908143500 -0400" stop="20260908183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.009">
-    <title>6:35 AM AFC Bournemouth vs Lincoln City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908143500 -0400" stop="20260908183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.010">
-    <title>6:35 AM Sunderland vs Hull City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908145000 -0400" stop="20260908185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.011">
-    <title>6:50 AM Bolton Wanderers vs West Ham United</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908145000 -0400" stop="20260908185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.012">
-    <title>6:50 AM Millwall vs Newcastle United</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908185000 -0400" stop="20260908225000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.013">
-    <title>10:50 AM Club Sando FC vs Delfines del Este FC</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.014">
-    <title>11:00 AM Dana White\`s Contender Series</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.015">
-    <title>11:00 AM Dana White\`s Contender Series em Português</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.016">
-    <title>11:00 AM Dana White\`s Contender Series en Español</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908120000 -0400" stop="20260908160000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.01">
-    <title>4:00 AM UEFA Champions League: Club Brugge vs Aston Villa</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908120000 -0400" stop="20260908160000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.02">
-    <title>4:00 AM UEFA Champions League: AEK Athens vs LASK</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.03">
-    <title>5:30 AM UEFA Champions League: Lille vs Real Betis</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.04">
-    <title>5:30 AM UEFA Champions League: The Golazo Show</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.05">
-    <title>5:30 AM UEFA Champions League: Dortmund vs Villarreal</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.06">
-    <title>5:30 AM UEFA Champions League: Real Madrid vs Inter</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908133000 -0400" stop="20260908173000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.07">
-    <title>5:30 AM UEFA Champions League: Porto vs Man City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908143500 -0400" stop="20260908183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.08">
-    <title>6:35 AM English Football League: Wrexham vs Burnley</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908143500 -0400" stop="20260908183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.09">
-    <title>6:35 AM Carabao Cup: AFC Bournemouth vs Lincoln City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908143500 -0400" stop="20260908183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.10">
-    <title>6:35 AM Carabao Cup: Sunderland vs Hull City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908145000 -0400" stop="20260908185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.11">
-    <title>6:50 AM English Football League: Bolton Wanderers vs West Ham United</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908145000 -0400" stop="20260908185000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.12">
-    <title>6:50 AM Carabao Cup: Millwall vs Newcastle United</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908185000 -0400" stop="20260908225000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.13">
-    <title>10:50 AM Concacaf Champions Cup: Club Sando FC vs Delfines del Este FC</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.14">
-    <title>11:00 AM Dana White&#x27;s Contender Series: Dana Whites Contender Series</title>
+  <programme start="20260908190000 -0400" stop="20260908230000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.16">
+    <title>11:00 AM Dana White&#x27;s Contender Series: Dana Whites Contender Series en Español</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
