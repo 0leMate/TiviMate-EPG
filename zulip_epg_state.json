@@ -113,66 +113,194 @@
       "events": [
         {
           "display_title": "4:00 AM Barcelona vs Feyenoord",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-09T12:00:00-04:00",
           "stop": "2026-09-09T16:00:00-04:00",
           "title": "Barcelona vs Feyenoord"
         },
         {
           "display_title": "4:00 AM Stuttgart vs Viking",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-09T12:00:00-04:00",
           "stop": "2026-09-09T16:00:00-04:00",
           "title": "Stuttgart vs Viking"
         },
         {
-          "display_title": "6:00 AM PSG vs Slovan Bratislava",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "display_title": "6:00 AM Liverpool vs Atlético Madrid",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-09T14:00:00-04:00",
           "stop": "2026-09-09T18:00:00-04:00",
-          "title": "PSG vs Slovan Bratislava"
-        },
-        {
-          "display_title": "6:00 AM Sporting CP vs Galatasaray",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
-          "start": "2026-09-09T14:00:00-04:00",
-          "stop": "2026-09-09T18:00:00-04:00",
-          "title": "Sporting CP vs Galatasaray"
+          "title": "Liverpool vs Atlético Madrid"
         },
         {
           "display_title": "6:00 AM Napoli vs Arsenal",
-          "slot": "PARAMOUNT 021",
-          "slot_norm": "PARAMOUNT 21",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-09T14:00:00-04:00",
           "stop": "2026-09-09T18:00:00-04:00",
           "title": "Napoli vs Arsenal"
         },
         {
           "display_title": "6:00 AM The Golazo Show",
-          "slot": "PARAMOUNT 022",
-          "slot_norm": "PARAMOUNT 22",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-09T14:00:00-04:00",
           "stop": "2026-09-09T18:00:00-04:00",
           "title": "The Golazo Show"
         },
         {
-          "display_title": "6:00 AM Liverpool vs Atlético Madrid",
-          "slot": "PARAMOUNT 023",
-          "slot_norm": "PARAMOUNT 23",
+          "display_title": "6:00 AM PSG vs Slovan Bratislava",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-09T14:00:00-04:00",
           "stop": "2026-09-09T18:00:00-04:00",
-          "title": "Liverpool vs Atlético Madrid"
+          "title": "PSG vs Slovan Bratislava"
+        },
+        {
+          "display_title": "6:00 AM Sporting CP vs Galatasaray",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-09-09T14:00:00-04:00",
+          "stop": "2026-09-09T18:00:00-04:00",
+          "title": "Sporting CP vs Galatasaray"
+        },
+        {
+          "display_title": "6:35 AM Norwich City vs Birmingham City",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-09-09T14:35:00-04:00",
+          "stop": "2026-09-09T18:35:00-04:00",
+          "title": "Norwich City vs Birmingham City"
+        },
+        {
+          "display_title": "6:50 AM Charlton Athletic vs Queens Park Rangers",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-09T14:50:00-04:00",
+          "stop": "2026-09-09T18:50:00-04:00",
+          "title": "Charlton Athletic vs Queens Park Rangers"
+        },
+        {
+          "display_title": "6:50 AM Chelsea vs Leeds United",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-09T14:50:00-04:00",
+          "stop": "2026-09-09T18:50:00-04:00",
+          "title": "Chelsea vs Leeds United"
+        },
+        {
+          "display_title": "10:50 AM Portmore United FC vs Mount Pleasant FA",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-09T18:50:00-04:00",
+          "stop": "2026-09-09T22:50:00-04:00",
+          "title": "Portmore United FC vs Mount Pleasant FA"
+        },
+        {
+          "display_title": "10:50 AM SV Broki vs Violette AC",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-09T18:50:00-04:00",
+          "stop": "2026-09-09T22:50:00-04:00",
+          "title": "SV Broki vs Violette AC"
+        },
+        {
+          "display_title": "12:50 PM Saprissa vs CS Cartaginés",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-09-09T20:50:00-04:00",
+          "stop": "2026-09-10T00:50:00-04:00",
+          "title": "Saprissa vs CS Cartaginés"
+        },
+        {
+          "display_title": "2:50 PM FC Motagua vs Alianza FC \\(SLV\\)",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-09-09T22:50:00-04:00",
+          "stop": "2026-09-10T02:50:00-04:00",
+          "title": "FC Motagua vs Alianza FC \\(SLV\\)"
+        },
+        {
+          "display_title": "4:00 AM UEFA Champions League: Barcelona vs Feyenoord",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-10T12:00:00-04:00",
+          "stop": "2026-09-10T16:00:00-04:00",
+          "title": "UEFA Champions League: Barcelona vs Feyenoord"
+        },
+        {
+          "display_title": "4:00 AM UEFA Champions League: Stuttgart vs Viking",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-10T12:00:00-04:00",
+          "stop": "2026-09-10T16:00:00-04:00",
+          "title": "UEFA Champions League: Stuttgart vs Viking"
+        },
+        {
+          "display_title": "6:00 AM UEFA Champions League: Liverpool vs Atlético Madrid",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-10T14:00:00-04:00",
+          "stop": "2026-09-10T18:00:00-04:00",
+          "title": "UEFA Champions League: Liverpool vs Atlético Madrid"
+        },
+        {
+          "display_title": "6:00 AM UEFA Champions League: Napoli vs Arsenal",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-10T14:00:00-04:00",
+          "stop": "2026-09-10T18:00:00-04:00",
+          "title": "UEFA Champions League: Napoli vs Arsenal"
+        },
+        {
+          "display_title": "6:00 AM UEFA Champions League: The Golazo Show",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-10T14:00:00-04:00",
+          "stop": "2026-09-10T18:00:00-04:00",
+          "title": "UEFA Champions League: The Golazo Show"
+        },
+        {
+          "display_title": "6:00 AM UEFA Champions League: PSG vs Slovan Bratislava",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-10T14:00:00-04:00",
+          "stop": "2026-09-10T18:00:00-04:00",
+          "title": "UEFA Champions League: PSG vs Slovan Bratislava"
+        },
+        {
+          "display_title": "6:00 AM UEFA Champions League: Sporting CP vs Galatasaray",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-10T14:00:00-04:00",
+          "stop": "2026-09-10T18:00:00-04:00",
+          "title": "UEFA Champions League: Sporting CP vs Galatasaray"
+        },
+        {
+          "display_title": "6:35 AM English Football League: Norwich City vs Birmingham City",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-09-10T14:35:00-04:00",
+          "stop": "2026-09-10T18:35:00-04:00",
+          "title": "English Football League: Norwich City vs Birmingham City"
+        },
+        {
+          "display_title": "6:50 AM English Football League: Charlton Athletic vs Queens Park Rangers",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-09-10T14:50:00-04:00",
+          "stop": "2026-09-10T18:50:00-04:00",
+          "title": "English Football League: Charlton Athletic vs Queens Park Rangers"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 622717717,
-      "message_timestamp": 1788926444,
+      "message_id": 622787621,
+      "message_timestamp": 1788948044,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-09T04:54:27.398632+00:00"
+      "updated_at": "2026-09-09T11:35:39.855399+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -248,179 +376,27 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "6:55 AM Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-10T04:55:00+10:00",
+          "stop": "2026-09-10T08:55:00+10:00",
+          "title": "Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027"
+        },
+        {
           "display_title": "6:55 AM Sporting CP vs Galatasaray UEFA Champions League 2026/2027",
-          "slot": "AU STAN 047",
-          "slot_norm": "AU STAN 47",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
           "start": "2026-09-10T04:55:00+10:00",
           "stop": "2026-09-10T08:55:00+10:00",
           "title": "Sporting CP vs Galatasaray UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "3:00 AM Guo/Ohtani vs Van Koot/De Groot Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-10T01:00:00+10:00",
-          "stop": "2026-09-10T05:00:00+10:00",
-          "title": "Guo/Ohtani vs Van Koot/De Groot Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Kamiji/Zhu vs Phelps/Czauz Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-10T01:00:00+10:00",
-          "stop": "2026-09-10T05:00:00+10:00",
-          "title": "Kamiji/Zhu vs Phelps/Czauz Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Griffioen/Montjane vs Wang/Li Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-10T01:00:00+10:00",
-          "stop": "2026-09-10T05:00:00+10:00",
-          "title": "Griffioen/Montjane vs Wang/Li Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM De Greef/Bos vs Chasteau/Bernal Women\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-10T01:00:00+10:00",
-          "stop": "2026-09-10T05:00:00+10:00",
-          "title": "De Greef/Bos vs Chasteau/Bernal Women\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "3:30 AM Sabalenka vs Noskova Women\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-10T01:30:00+10:00",
-          "stop": "2026-09-10T05:30:00+10:00",
-          "title": "Sabalenka vs Noskova Women\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "4:40 AM Club Brugge vs Aston Villa UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-10T02:40:00+10:00",
-          "stop": "2026-09-10T06:40:00+10:00",
-          "title": "Club Brugge vs Aston Villa UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "4:40 AM AEK Athens vs LASK UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-10T02:40:00+10:00",
-          "stop": "2026-09-10T06:40:00+10:00",
-          "title": "AEK Athens vs LASK UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "5:00 AM Tiafoe vs Michelsen Men\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-10T03:00:00+10:00",
-          "stop": "2026-09-10T07:00:00+10:00",
-          "title": "Tiafoe vs Michelsen Men\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-10T03:00:00+10:00",
-          "stop": "2026-09-10T07:00:00+10:00",
-          "title": "Vink/Sasson vs Slade/Davidson Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-10T03:00:00+10:00",
-          "stop": "2026-09-10T07:00:00+10:00",
-          "title": "Wagner/Bogdanov vs Lapthorne/Els Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-10T03:00:00+10:00",
-          "stop": "2026-09-10T07:00:00+10:00",
-          "title": "Lazarte/Cayulef vs Kaplan/Wenzel Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "5:00 AM Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-10T03:00:00+10:00",
-          "stop": "2026-09-10T07:00:00+10:00",
-          "title": "Silva/Pena vs Schroder/Woodman Quad WC Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "6:40 AM Football Zone: MD1 Wednesday UEFA Champions League 2026/27",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-09-10T04:40:00+10:00",
-          "stop": "2026-09-10T08:40:00+10:00",
-          "title": "Football Zone: MD1 Wednesday UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "6:55 AM Porto vs Manchester City UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-09-10T04:55:00+10:00",
-          "stop": "2026-09-10T08:55:00+10:00",
-          "title": "Porto vs Manchester City UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Real Madrid vs Internazionale UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-09-10T04:55:00+10:00",
-          "stop": "2026-09-10T08:55:00+10:00",
-          "title": "Real Madrid vs Internazionale UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Borussia Dortmund vs Villarreal UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-09-10T04:55:00+10:00",
-          "stop": "2026-09-10T08:55:00+10:00",
-          "title": "Borussia Dortmund vs Villarreal UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Lille vs Real Betis UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-09-10T04:55:00+10:00",
-          "stop": "2026-09-10T08:55:00+10:00",
-          "title": "Lille vs Real Betis UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "7:00 AM Hewett/Reid vs Ji/Houdet Men\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 021",
-          "slot_norm": "AU STAN ALT 21",
-          "start": "2026-09-10T05:00:00+10:00",
-          "stop": "2026-09-10T09:00:00+10:00",
-          "title": "Hewett/Reid vs Ji/Houdet Men\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM Egberink/Stroud vs Ratzlaff/Cooper Men\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 022",
-          "slot_norm": "AU STAN ALT 22",
-          "start": "2026-09-10T05:00:00+10:00",
-          "stop": "2026-09-10T09:00:00+10:00",
-          "title": "Egberink/Stroud vs Ratzlaff/Cooper Men\\`s Wheelchair Doubles QF US Open 2026"
-        },
-        {
-          "display_title": "7:00 AM Ter Hofte/Caverzaschi vs Fernandez/Oda Men\\`s Wheelchair Doubles QF US Open 2026",
-          "slot": "AU STAN ALT 023",
-          "slot_norm": "AU STAN ALT 23",
-          "start": "2026-09-10T05:00:00+10:00",
-          "stop": "2026-09-10T09:00:00+10:00",
-          "title": "Ter Hofte/Caverzaschi vs Fernandez/Oda Men\\`s Wheelchair Doubles QF US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 622625609,
-      "message_timestamp": 1788892236,
+      "message_id": 622794264,
+      "message_timestamp": 1788949812,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-08T18:38:20.785487+00:00"
+      "updated_at": "2026-09-09T11:35:40.216170+00:00"
     }
   },
   "version": 1
