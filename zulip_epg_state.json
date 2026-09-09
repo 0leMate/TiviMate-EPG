@@ -230,83 +230,27 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "6:45 AM Blackburn Rovers vs Sheffield United",
+          "display_title": "6:30 AM Derby vs West Brom // UK Wed 9 Sep",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "Blackburn Rovers vs Sheffield United"
+          "start": "2026-09-09T19:30:00+01:00",
+          "stop": "2026-09-09T23:30:00+01:00",
+          "title": "Derby vs West Brom // UK Wed 9 Sep"
         },
         {
-          "display_title": "6:45 AM Cardiff City vs Stoke City",
+          "display_title": "6:30 AM Norwich vs Birmingham // UK Wed 9 Sep",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "Cardiff City vs Stoke City"
-        },
-        {
-          "display_title": "6:45 AM Southampton vs Swansea City",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "Southampton vs Swansea City"
-        },
-        {
-          "display_title": "6:45 AM Watford vs Preston North End",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "Watford vs Preston North End"
-        },
-        {
-          "display_title": "6:45 AM AFC Bournemouth vs Lincoln City",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "AFC Bournemouth vs Lincoln City"
-        },
-        {
-          "display_title": "6:45 AM Leyton Orient vs Bradford City",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "Leyton Orient vs Bradford City"
-        },
-        {
-          "display_title": "6:45 AM Crystal Palace vs Middlesbrough",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-09-08T19:45:00+01:00",
-          "stop": "2026-09-08T23:45:00+01:00",
-          "title": "Crystal Palace vs Middlesbrough"
-        },
-        {
-          "display_title": "6:00 AM Doncaster Rovers vs Huddersfield Town",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-09-08T19:00:00+01:00",
-          "stop": "2026-09-08T23:00:00+01:00",
-          "title": "Doncaster Rovers vs Huddersfield Town"
-        },
-        {
-          "display_title": "6:00 AM Exeter City vs Tottenham U21",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-09-08T19:00:00+01:00",
-          "stop": "2026-09-08T23:00:00+01:00",
-          "title": "Exeter City vs Tottenham U21"
+          "start": "2026-09-09T19:30:00+01:00",
+          "stop": "2026-09-09T23:30:00+01:00",
+          "title": "Norwich vs Birmingham // UK Wed 9 Sep"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 622386763,
-      "message_timestamp": 1788825613,
+      "message_id": 622686879,
+      "message_timestamp": 1788912016,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-08T00:43:40.712588+00:00"
+      "updated_at": "2026-09-09T00:22:23.564889+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",

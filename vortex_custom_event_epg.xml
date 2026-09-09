@@ -9996,52 +9996,52 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
     <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+ 01: 19:45 Blackburn Rovers vs Sheffield United</display-name>
+    <display-name>SKY SPORTS+ 01: 19:30 Derby vs West Brom // UK Wed 9 Sep</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
     <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+ 02: 19:45 Cardiff City vs Stoke City</display-name>
+    <display-name>SKY SPORTS+ 02: 19:30 Norwich vs Birmingham // UK Wed 9 Sep</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
     <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+ 03: 19:45 Southampton vs Swansea City</display-name>
+    <display-name>SKY SPORTS+ 03:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
     <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+ 04: 19:45 Watford vs Preston North End</display-name>
+    <display-name>SKY SPORTS+ 04:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
     <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+ 05: 19:45 AFC Bournemouth vs Lincoln City</display-name>
+    <display-name>SKY SPORTS+ 05:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
     <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+ 06: 19:45 Leyton Orient vs Bradford City</display-name>
+    <display-name>SKY SPORTS+ 06:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
     <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+ 07: 19:45 Crystal Palace vs Middlesbrough</display-name>
+    <display-name>SKY SPORTS+ 07:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
     <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+ 08: Sunderland vs Hull City</display-name>
+    <display-name>SKY SPORTS+ 08:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
     <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+ 09: 19:00 Doncaster Rovers vs Huddersfield Town</display-name>
+    <display-name>SKY SPORTS+ 09:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.10">
     <display-name>SKY SPORTS+ 10</display-name>
-    <display-name>SKY SPORTS+ 10: 19:00 Exeter City vs Tottenham U21</display-name>
+    <display-name>SKY SPORTS+ 10:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.11">
@@ -14389,48 +14389,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>6:45 AM Blackburn Rovers vs Sheffield United</title>
+  <programme start="20260909193000 +0100" stop="20260909233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
+    <title>6:30 AM Derby vs West Brom // UK Wed 9 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>6:45 AM Cardiff City vs Stoke City</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>6:45 AM Southampton vs Swansea City</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>6:45 AM Watford vs Preston North End</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>6:45 AM AFC Bournemouth vs Lincoln City</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>6:45 AM Leyton Orient vs Bradford City</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908194500 +0100" stop="20260908234500 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>6:45 AM Crystal Palace vs Middlesbrough</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908190000 +0100" stop="20260908230000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <title>6:00 AM Doncaster Rovers vs Huddersfield Town</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20260908190000 +0100" stop="20260908230000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <title>6:00 AM Exeter City vs Tottenham U21</title>
+  <programme start="20260909193000 +0100" stop="20260909233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
+    <title>6:30 AM Norwich vs Birmingham // UK Wed 9 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
