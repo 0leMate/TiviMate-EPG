@@ -112,67 +112,107 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "4:00 AM PSV vs Shakhtar Donetsk",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-09-10T12:00:00-04:00",
-          "stop": "2026-09-10T16:00:00-04:00",
-          "title": "PSV vs Shakhtar Donetsk"
-        },
-        {
           "display_title": "4:00 AM Fenerbahçe vs Roma",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-10T12:00:00-04:00",
           "stop": "2026-09-10T16:00:00-04:00",
           "title": "Fenerbahçe vs Roma"
         },
         {
+          "display_title": "4:00 AM PSV vs Shakhtar Donetsk",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-09-10T12:00:00-04:00",
+          "stop": "2026-09-10T16:00:00-04:00",
+          "title": "PSV vs Shakhtar Donetsk"
+        },
+        {
           "display_title": "6:00 AM Man. United vs Sabah",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-10T14:00:00-04:00",
           "stop": "2026-09-10T18:00:00-04:00",
           "title": "Man. United vs Sabah"
         },
         {
           "display_title": "6:00 AM Como vs RB Leipzig",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-10T14:00:00-04:00",
           "stop": "2026-09-10T18:00:00-04:00",
           "title": "Como vs RB Leipzig"
         },
         {
           "display_title": "6:00 AM The Golazo Show",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-10T14:00:00-04:00",
           "stop": "2026-09-10T18:00:00-04:00",
           "title": "The Golazo Show"
         },
         {
           "display_title": "6:00 AM Bayern vs Bodø/Glimt",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-10T14:00:00-04:00",
           "stop": "2026-09-10T18:00:00-04:00",
           "title": "Bayern vs Bodø/Glimt"
         },
         {
           "display_title": "6:00 AM Slavia Praha vs Lens",
-          "slot": "PARAMOUNT 021",
-          "slot_norm": "PARAMOUNT 21",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-09-10T14:00:00-04:00",
           "stop": "2026-09-10T18:00:00-04:00",
           "title": "Slavia Praha vs Lens"
+        },
+        {
+          "display_title": "6:50 AM Stevenage vs Luton Town",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-09-10T14:50:00-04:00",
+          "stop": "2026-09-10T18:50:00-04:00",
+          "title": "Stevenage vs Luton Town"
+        },
+        {
+          "display_title": "10:50 AM Salcedo FC vs Cibao FC",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-10T18:50:00-04:00",
+          "stop": "2026-09-10T22:50:00-04:00",
+          "title": "Salcedo FC vs Cibao FC"
+        },
+        {
+          "display_title": "12:00 PM Garcia vs Benn: Press Conference",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-10T20:00:00-04:00",
+          "stop": "2026-09-11T00:00:00-04:00",
+          "title": "Garcia vs Benn: Press Conference"
+        },
+        {
+          "display_title": "12:50 PM CD Marathon vs LD Alajuelense",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-10T20:50:00-04:00",
+          "stop": "2026-09-11T00:50:00-04:00",
+          "title": "CD Marathon vs LD Alajuelense"
+        },
+        {
+          "display_title": "2:50 PM LA Firpo vs Club Olimpia",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-10T22:50:00-04:00",
+          "stop": "2026-09-11T02:50:00-04:00",
+          "title": "LA Firpo vs Club Olimpia"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 623029114,
-      "message_timestamp": 1789012841,
+      "message_id": 623076481,
+      "message_timestamp": 1789029017,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-10T04:56:14.163627+00:00"
+      "updated_at": "2026-09-10T11:32:45.554602+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -272,179 +312,139 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "3:00 AM Chasteau vs Wang Women\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-09-11T01:00:00+10:00",
+          "stop": "2026-09-11T05:00:00+10:00",
+          "title": "Chasteau vs Wang Women\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Bos vs De Groot Women\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-11T01:00:00+10:00",
+          "stop": "2026-09-11T05:00:00+10:00",
+          "title": "Bos vs De Groot Women\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Van Koot vs Zhu Women\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-09-11T01:00:00+10:00",
+          "stop": "2026-09-11T05:00:00+10:00",
+          "title": "Van Koot vs Zhu Women\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "3:00 AM Vink vs Pena Quad Singles QF US Open 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-11T01:00:00+10:00",
+          "stop": "2026-09-11T05:00:00+10:00",
+          "title": "Vink vs Pena Quad Singles QF US Open 2026"
+        },
+        {
+          "display_title": "3:01 AM Kamiji vs Bernal Women\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-09-11T01:01:00+10:00",
+          "stop": "2026-09-11T05:01:00+10:00",
+          "title": "Kamiji vs Bernal Women\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM De La Puente vs Spaargaren Men\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-09-11T02:30:00+10:00",
+          "stop": "2026-09-11T06:30:00+10:00",
+          "title": "De La Puente vs Spaargaren Men\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Oda vs Reid Men\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-09-11T02:30:00+10:00",
+          "stop": "2026-09-11T06:30:00+10:00",
+          "title": "Oda vs Reid Men\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Ji vs Fernandez Men\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-11T02:30:00+10:00",
+          "stop": "2026-09-11T06:30:00+10:00",
+          "title": "Ji vs Fernandez Men\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "4:30 AM Ratzlaff vs Hewett Men\\`s Wheelchair Singles QF US Open 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-11T02:30:00+10:00",
+          "stop": "2026-09-11T06:30:00+10:00",
+          "title": "Ratzlaff vs Hewett Men\\`s Wheelchair Singles QF US Open 2026"
+        },
+        {
+          "display_title": "4:40 AM Fenerbahçe vs Roma UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-11T02:40:00+10:00",
+          "stop": "2026-09-11T06:40:00+10:00",
+          "title": "Fenerbahçe vs Roma UEFA Champions League 2026/2027"
+        },
+        {
+          "display_title": "4:40 AM PSV vs Shakhtar Donetsk UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-09-11T02:40:00+10:00",
+          "stop": "2026-09-11T06:40:00+10:00",
+          "title": "PSV vs Shakhtar Donetsk UEFA Champions League 2026/2027"
+        },
+        {
+          "display_title": "6:40 AM Football Zone: MD1 Friday UEFA Champions League 2026/27",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-09-11T04:40:00+10:00",
+          "stop": "2026-09-11T08:40:00+10:00",
+          "title": "Football Zone: MD1 Friday UEFA Champions League 2026/27"
+        },
+        {
+          "display_title": "6:55 AM Manchester United vs Sabah UEFA Champions League 2026/2027",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-09-11T04:55:00+10:00",
+          "stop": "2026-09-11T08:55:00+10:00",
+          "title": "Manchester United vs Sabah UEFA Champions League 2026/2027"
+        },
+        {
           "display_title": "6:55 AM Bayern München vs Bodø / Glimt UEFA Champions League 2026/2027",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
+          "slot": "AU STAN ALT 017",
+          "slot_norm": "AU STAN ALT 17",
           "start": "2026-09-11T04:55:00+10:00",
           "stop": "2026-09-11T08:55:00+10:00",
           "title": "Bayern München vs Bodø / Glimt UEFA Champions League 2026/2027"
         },
         {
           "display_title": "6:55 AM Como vs RB Leipzig UEFA Champions League 2026/2027",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
+          "slot": "AU STAN ALT 018",
+          "slot_norm": "AU STAN ALT 18",
           "start": "2026-09-11T04:55:00+10:00",
           "stop": "2026-09-11T08:55:00+10:00",
           "title": "Como vs RB Leipzig UEFA Champions League 2026/2027"
         },
         {
           "display_title": "6:55 AM Slavia Praha vs Lens UEFA Champions League 2026/2027",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
+          "slot": "AU STAN ALT 019",
+          "slot_norm": "AU STAN ALT 19",
           "start": "2026-09-11T04:55:00+10:00",
           "stop": "2026-09-11T08:55:00+10:00",
           "title": "Slavia Praha vs Lens UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "3:30 AM Zheng vs Rybakina Women\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-11T01:30:00+10:00",
-          "stop": "2026-09-11T05:30:00+10:00",
-          "title": "Zheng vs Rybakina Women\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Andreeva vs Gauff Women\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-11T02:30:00+10:00",
-          "stop": "2026-09-11T06:30:00+10:00",
-          "title": "Andreeva vs Gauff Women\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "4:40 AM Barcelona vs Feyenoord UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-11T02:40:00+10:00",
-          "stop": "2026-09-11T06:40:00+10:00",
-          "title": "Barcelona vs Feyenoord UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "4:40 AM Stuttgart vs Viking UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-11T02:40:00+10:00",
-          "stop": "2026-09-11T06:40:00+10:00",
-          "title": "Stuttgart vs Viking UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:00 AM Khachanov vs Blockx Men\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-11T04:00:00+10:00",
-          "stop": "2026-09-11T08:00:00+10:00",
-          "title": "Khachanov vs Blockx Men\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "6:40 AM Football Zone: MD1 Thursday UEFA Champions League 2026/27",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-11T04:40:00+10:00",
-          "stop": "2026-09-11T08:40:00+10:00",
-          "title": "Football Zone: MD1 Thursday UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "6:55 AM Napoli vs Arsenal UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Napoli vs Arsenal UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Liverpool vs Atlético de Madrid UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Liverpool vs Atlético de Madrid UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Paris SaintGermain vs Slovan Bratislava UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Sporting CP vs Galatasaray UEFA Champions League 2026/2027",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Sporting CP vs Galatasaray UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "8:00 AM Siniakova/Townsend vs Mertens/Shnaider Women\\`s Doubles Semi Final US Open 2026",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-11T06:00:00+10:00",
-          "stop": "2026-09-11T10:00:00+10:00",
-          "title": "Siniakova/Townsend vs Mertens/Shnaider Women\\`s Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "9:30 AM Krueger/Montgomery vs Dabrowski/Stefani Women\\`s Doubles Semi Final US Open 2026",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-11T07:30:00+10:00",
-          "stop": "2026-09-11T11:30:00+10:00",
-          "title": "Krueger/Montgomery vs Dabrowski/Stefani Women\\`s Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "10:00 AM Ram/Salisbury vs Granollers/Zeballos Men\\`s Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-11T08:00:00+10:00",
-          "stop": "2026-09-11T12:00:00+10:00",
-          "title": "Ram/Salisbury vs Granollers/Zeballos Men\\`s Doubles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "10:00 AM Krawietz/Puetz vs Arevalo/Pavic Men\\`s Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-09-11T08:00:00+10:00",
-          "stop": "2026-09-11T12:00:00+10:00",
-          "title": "Krawietz/Puetz vs Arevalo/Pavic Men\\`s Doubles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "11:00 AM Heliovaara/Patten vs Andreozzi/Guinard Men\\`s Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-09-11T09:00:00+10:00",
-          "stop": "2026-09-11T13:00:00+10:00",
-          "title": "Heliovaara/Patten vs Andreozzi/Guinard Men\\`s Doubles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "11:30 AM Zverev vs Van De Zandschulp Men\\`s Singles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-09-11T09:30:00+10:00",
-          "stop": "2026-09-11T13:30:00+10:00",
-          "title": "Zverev vs Van De Zandschulp Men\\`s Singles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "1:30 PM Harrison/Skupski vs Bolelli/Vavassori Men\\`s Doubles Quarter Final US Open 2026",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-09-11T11:30:00+10:00",
-          "stop": "2026-09-11T15:30:00+10:00",
-          "title": "Harrison/Skupski vs Bolelli/Vavassori Men\\`s Doubles Quarter Final US Open 2026"
-        },
-        {
-          "display_title": "7:00 PM Manawatū vs Taranaki NPC Round 7 2026",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-09-11T17:00:00+10:00",
-          "stop": "2026-09-11T21:00:00+10:00",
-          "title": "Manawatū vs Taranaki NPC Round 7 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 622852656,
-      "message_timestamp": 1788962430,
+      "message_id": 623105402,
+      "message_timestamp": 1789036221,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-09T16:46:19.366714+00:00"
+      "updated_at": "2026-09-10T11:32:45.861939+00:00"
     }
   },
   "version": 1
