@@ -47,7 +47,7 @@
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.01">
     <display-name>DIRT ALT 01</display-name>
-    <display-name>DIRT ALT 01:</display-name>
+    <display-name>DIRT ALT 01: 18:15 | MILLBRIDGE SPEEDWAY</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.02">
@@ -6396,7 +6396,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001:</display-name>
+    <display-name>PPV ALT 001: EFC 137: Jacobs vs Yemba 18:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
@@ -14514,8 +14514,8 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260909181500 -0400" stop="20260909221500 -0400" channel="custom.DIRTVISION.DIRT.ALT.16">
-    <title>10:15 AM Millbridge Speedway Sep 9</title>
+  <programme start="20260909181500 -0400" stop="20260909221500 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
+    <title>10:15 AM \| MILLBRIDGE SPEEDWAY</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
@@ -14529,12 +14529,12 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260909193000 +0100" stop="20260909233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
+  <programme start="20260910193000 +0100" stop="20260910233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
     <title>6:30 AM Derby vs West Brom // UK Wed 9 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20260909193000 +0100" stop="20260909233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
+  <programme start="20260910193000 +0100" stop="20260910233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
     <title>6:30 AM Norwich vs Birmingham // UK Wed 9 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>

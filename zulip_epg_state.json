@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:15 AM Millbridge Speedway Sep 9",
-          "slot": "DIRT ALT 16",
-          "slot_norm": "DIRT ALT 16",
+          "display_title": "10:15 AM \\| MILLBRIDGE SPEEDWAY",
+          "slot": "DIRT ALT 01",
+          "slot_norm": "DIRT ALT 1",
           "start": "2026-09-09T18:15:00-04:00",
           "stop": "2026-09-09T22:15:00-04:00",
-          "title": "Millbridge Speedway Sep 9"
+          "title": "\\| MILLBRIDGE SPEEDWAY"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 622717645,
-      "message_timestamp": 1788926412,
+      "message_id": 622987768,
+      "message_timestamp": 1788993025,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-09T04:54:27.055067+00:00"
+      "updated_at": "2026-09-10T00:20:26.251764+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -345,24 +345,24 @@
           "display_title": "6:30 AM Derby vs West Brom // UK Wed 9 Sep",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-09-09T19:30:00+01:00",
-          "stop": "2026-09-09T23:30:00+01:00",
+          "start": "2026-09-10T19:30:00+01:00",
+          "stop": "2026-09-10T23:30:00+01:00",
           "title": "Derby vs West Brom // UK Wed 9 Sep"
         },
         {
           "display_title": "6:30 AM Norwich vs Birmingham // UK Wed 9 Sep",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-09-09T19:30:00+01:00",
-          "stop": "2026-09-09T23:30:00+01:00",
+          "start": "2026-09-10T19:30:00+01:00",
+          "stop": "2026-09-10T23:30:00+01:00",
           "title": "Norwich vs Birmingham // UK Wed 9 Sep"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 622686879,
-      "message_timestamp": 1788912016,
+      "message_id": 622998827,
+      "message_timestamp": 1788998417,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-09T00:22:23.564889+00:00"
+      "updated_at": "2026-09-10T00:20:27.213651+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
