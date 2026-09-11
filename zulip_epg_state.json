@@ -113,74 +113,130 @@
       "events": [
         {
           "display_title": "6:25 AM Greenock Morton vs Livingston",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-11T14:25:00-04:00",
           "stop": "2026-09-11T18:25:00-04:00",
           "title": "Greenock Morton vs Livingston"
         },
         {
           "display_title": "6:35 AM Venezia vs Fiorentina",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-11T14:35:00-04:00",
           "stop": "2026-09-11T18:35:00-04:00",
           "title": "Venezia vs Fiorentina"
         },
         {
           "display_title": "6:40 AM Stenhousemuir vs Heart of Midlothian",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-11T14:40:00-04:00",
           "stop": "2026-09-11T18:40:00-04:00",
           "title": "Stenhousemuir vs Heart of Midlothian"
         },
         {
           "display_title": "6:50 AM West Ham United vs Wrexham",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-11T14:50:00-04:00",
           "stop": "2026-09-11T18:50:00-04:00",
           "title": "West Ham United vs Wrexham"
         },
         {
           "display_title": "11:00 AM Noche UFC Ceremonial Weigh In",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-11T19:00:00-04:00",
           "stop": "2026-09-11T23:00:00-04:00",
           "title": "Noche UFC Ceremonial Weigh In"
         },
         {
           "display_title": "12:00 PM Garcia vs Benn: Ceremonial Weigh In",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-11T20:00:00-04:00",
           "stop": "2026-09-12T00:00:00-04:00",
           "title": "Garcia vs Benn: Ceremonial Weigh In"
         },
         {
           "display_title": "2:45 PM PBR Teams Series: Anaheim - Night 1",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-09-11T22:45:00-04:00",
           "stop": "2026-09-12T02:45:00-04:00",
           "title": "PBR Teams Series: Anaheim - Night 1"
         },
         {
           "display_title": "9:50 PM Japan vs USA Eagles",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-09-12T05:50:00-04:00",
           "stop": "2026-09-12T09:50:00-04:00",
           "title": "Japan vs USA Eagles"
+        },
+        {
+          "display_title": "6:25 AM Scottish Professional Football League: Greenock Morton vs Livingston",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-12T14:25:00-04:00",
+          "stop": "2026-09-12T18:25:00-04:00",
+          "title": "Scottish Professional Football League: Greenock Morton vs Livingston"
+        },
+        {
+          "display_title": "6:35 AM Serie A: Venezia vs Fiorentina",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-12T14:35:00-04:00",
+          "stop": "2026-09-12T18:35:00-04:00",
+          "title": "Serie A: Venezia vs Fiorentina"
+        },
+        {
+          "display_title": "6:40 AM Scottish Professional Football League: Stenhousemuir vs Heart of Midlothian",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-12T14:40:00-04:00",
+          "stop": "2026-09-12T18:40:00-04:00",
+          "title": "Scottish Professional Football League: Stenhousemuir vs Heart of Midlothian"
+        },
+        {
+          "display_title": "6:50 AM English Football League: West Ham United vs Wrexham",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-12T14:50:00-04:00",
+          "stop": "2026-09-12T18:50:00-04:00",
+          "title": "English Football League: West Ham United vs Wrexham"
+        },
+        {
+          "display_title": "11:00 AM UFC: Noche UFC Ceremonial Weigh In",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-12T19:00:00-04:00",
+          "stop": "2026-09-12T23:00:00-04:00",
+          "title": "UFC: Noche UFC Ceremonial Weigh In"
+        },
+        {
+          "display_title": "12:00 PM Zuffa Boxing: Garcia vs Benn Ceremonial Weigh In",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-12T20:00:00-04:00",
+          "stop": "2026-09-13T00:00:00-04:00",
+          "title": "Zuffa Boxing: Garcia vs Benn Ceremonial Weigh In"
+        },
+        {
+          "display_title": "2:45 PM PBR Team Series: PBR Teams Series Anaheim Night 1",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-12T22:45:00-04:00",
+          "stop": "2026-09-13T02:45:00-04:00",
+          "title": "PBR Team Series: PBR Teams Series Anaheim Night 1"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 623326897,
-      "message_timestamp": 1789099284,
+      "message_id": 623491428,
+      "message_timestamp": 1789117242,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-11T04:53:06.157095+00:00"
+      "updated_at": "2026-09-11T11:34:09.408659+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -392,195 +448,59 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "3:00 AM Wenzel vs Schroder Quad Singles QF US Open 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Wenzel vs Schroder Quad Singles QF US Open 2026"
+          "display_title": "6:00 AM Miguel vs Behrmann Junior Boys Singles Semi Final US Open 2026",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-09-12T04:00:00+10:00",
+          "stop": "2026-09-12T08:00:00+10:00",
+          "title": "Miguel vs Behrmann Junior Boys Singles Semi Final US Open 2026"
         },
         {
-          "display_title": "3:00 AM Sasson vs Els Quad Singles QF US Open 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Sasson vs Els Quad Singles QF US Open 2026"
+          "display_title": "6:00 AM Chasteau vs De Groot Women\\`s WC Singles Semi Final US Open 2026",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-09-12T04:00:00+10:00",
+          "stop": "2026-09-12T08:00:00+10:00",
+          "title": "Chasteau vs De Groot Women\\`s WC Singles Semi Final US Open 2026"
         },
         {
-          "display_title": "3:00 AM Lazarte vs Kaplan Quad Singles QF US Open 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Lazarte vs Kaplan Quad Singles QF US Open 2026"
+          "display_title": "6:00 AM Oda vs De La Puente Men\\`s WC Singles Semi Final US Open 2026",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-09-12T04:00:00+10:00",
+          "stop": "2026-09-12T08:00:00+10:00",
+          "title": "Oda vs De La Puente Men\\`s WC Singles Semi Final US Open 2026"
         },
         {
-          "display_title": "3:00 AM Chasteau vs Wang Women\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Chasteau vs Wang Women\\`s Wheelchair Singles QF US Open 2026"
+          "display_title": "6:00 AM Kamji vs Van Koot Women\\`s WC Singles Semi Final US Open 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-12T04:00:00+10:00",
+          "stop": "2026-09-12T08:00:00+10:00",
+          "title": "Kamji vs Van Koot Women\\`s WC Singles Semi Final US Open 2026"
         },
         {
-          "display_title": "3:00 AM Bos vs De Groot Women\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Bos vs De Groot Women\\`s Wheelchair Singles QF US Open 2026"
+          "display_title": "6:00 AM Fernandez vs Hewett Men\\`s WC Singles Semi Final US Open 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-12T04:00:00+10:00",
+          "stop": "2026-09-12T08:00:00+10:00",
+          "title": "Fernandez vs Hewett Men\\`s WC Singles Semi Final US Open 2026"
         },
         {
-          "display_title": "3:00 AM Van Koot vs Zhu Women\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Van Koot vs Zhu Women\\`s Wheelchair Singles QF US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Vink vs Pena Quad Singles QF US Open 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-09-11T01:00:00+10:00",
-          "stop": "2026-09-11T05:00:00+10:00",
-          "title": "Vink vs Pena Quad Singles QF US Open 2026"
-        },
-        {
-          "display_title": "3:01 AM Kamiji vs Bernal Women\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-09-11T01:01:00+10:00",
-          "stop": "2026-09-11T05:01:00+10:00",
-          "title": "Kamiji vs Bernal Women\\`s Wheelchair Singles QF US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM De La Puente vs Spaargaren Men\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-09-11T02:30:00+10:00",
-          "stop": "2026-09-11T06:30:00+10:00",
-          "title": "De La Puente vs Spaargaren Men\\`s Wheelchair Singles QF US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Oda vs Reid Men\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-09-11T02:30:00+10:00",
-          "stop": "2026-09-11T06:30:00+10:00",
-          "title": "Oda vs Reid Men\\`s Wheelchair Singles QF US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Ji vs Fernandez Men\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-09-11T02:30:00+10:00",
-          "stop": "2026-09-11T06:30:00+10:00",
-          "title": "Ji vs Fernandez Men\\`s Wheelchair Singles QF US Open 2026"
-        },
-        {
-          "display_title": "4:30 AM Ratzlaff vs Hewett Men\\`s Wheelchair Singles QF US Open 2026",
-          "slot": "AU STAN 012",
-          "slot_norm": "AU STAN 12",
-          "start": "2026-09-11T02:30:00+10:00",
-          "stop": "2026-09-11T06:30:00+10:00",
-          "title": "Ratzlaff vs Hewett Men\\`s Wheelchair Singles QF US Open 2026"
-        },
-        {
-          "display_title": "4:40 AM Fenerbahçe vs Roma UEFA Champions League 2026/2027",
-          "slot": "AU STAN 013",
-          "slot_norm": "AU STAN 13",
-          "start": "2026-09-11T02:40:00+10:00",
-          "stop": "2026-09-11T06:40:00+10:00",
-          "title": "Fenerbahçe vs Roma UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "4:40 AM PSV vs Shakhtar Donetsk UEFA Champions League 2026/2027",
-          "slot": "AU STAN 014",
-          "slot_norm": "AU STAN 14",
-          "start": "2026-09-11T02:40:00+10:00",
-          "stop": "2026-09-11T06:40:00+10:00",
-          "title": "PSV vs Shakhtar Donetsk UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:40 AM Football Zone: MD1 Friday UEFA Champions League 2026/27",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
-          "start": "2026-09-11T04:40:00+10:00",
-          "stop": "2026-09-11T08:40:00+10:00",
-          "title": "Football Zone: MD1 Friday UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "6:55 AM Manchester United vs Sabah UEFA Champions League 2026/2027",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Manchester United vs Sabah UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Bayern München vs Bodø / Glimt UEFA Champions League 2026/2027",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Bayern München vs Bodø / Glimt UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Como vs RB Leipzig UEFA Champions League 2026/2027",
-          "slot": "AU STAN 018",
-          "slot_norm": "AU STAN 18",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Como vs RB Leipzig UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "6:55 AM Slavia Praha vs Lens UEFA Champions League 2026/2027",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
-          "start": "2026-09-11T04:55:00+10:00",
-          "stop": "2026-09-11T08:55:00+10:00",
-          "title": "Slavia Praha vs Lens UEFA Champions League 2026/2027"
-        },
-        {
-          "display_title": "8:00 AM Krawietz/Puetz vs Ram/Salisbury Men\\`s Doubles Semi Final US Open 2026",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
-          "start": "2026-09-11T06:00:00+10:00",
-          "stop": "2026-09-11T10:00:00+10:00",
-          "title": "Krawietz/Puetz vs Ram/Salisbury Men\\`s Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "9:30 AM Heliovaara/Patten vs Harrison/Skupski Men\\`s Doubles Semi Final US Open 2026",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
-          "start": "2026-09-11T07:30:00+10:00",
-          "stop": "2026-09-11T11:30:00+10:00",
-          "title": "Heliovaara/Patten vs Harrison/Skupski Men\\`s Doubles Semi Final US Open 2026"
-        },
-        {
-          "display_title": "10:00 AM Sasson/Vink vs Cayulef/Lazarte Quad WC Doubles SF US Open 2026",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
-          "start": "2026-09-11T08:00:00+10:00",
-          "stop": "2026-09-11T12:00:00+10:00",
-          "title": "Sasson/Vink vs Cayulef/Lazarte Quad WC Doubles SF US Open 2026"
-        },
-        {
-          "display_title": "10:00 AM Hewett/Reid vs Fernandez/Oda Men\\`s Wheelchair Doubles SF US Open 2026",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
-          "start": "2026-09-11T08:00:00+10:00",
-          "stop": "2026-09-11T12:00:00+10:00",
-          "title": "Hewett/Reid vs Fernandez/Oda Men\\`s Wheelchair Doubles SF US Open 2026"
+          "display_title": "7:00 AM Zverev vs Khachanov Men\\`s Singles Semi Final US Open 2026",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-12T05:00:00+10:00",
+          "stop": "2026-09-12T09:00:00+10:00",
+          "title": "Zverev vs Khachanov Men\\`s Singles Semi Final US Open 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 623160171,
-      "message_timestamp": 1789048833,
+      "message_id": 623512681,
+      "message_timestamp": 1789122633,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-10T16:33:16.471015+00:00"
+      "updated_at": "2026-09-11T11:34:10.815545+00:00"
     }
   },
   "version": 1
