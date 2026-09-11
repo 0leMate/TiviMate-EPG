@@ -6226,7 +6226,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 09:30 ONE Friday Fights 170 Yodlekpet vs Pompet</display-name>
+    <display-name>PPV 01: 22:00 GCW Mind Your Business 26</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -14729,8 +14729,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260911093000 -0400" stop="20260911133000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>1:30 AM ONE Friday Fights 170 Yodlekpet vs Pompet</title>
+  <programme start="20260911220000 -0400" stop="20260912020000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>2:00 PM GCW Mind Your Business 26</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
