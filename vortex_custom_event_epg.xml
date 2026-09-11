@@ -2,22 +2,22 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01: Millbridge Speedway</display-name>
+    <display-name>DIRT 01: 18:30 Sharon Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
     <display-name>DIRT 02</display-name>
-    <display-name>DIRT 02:</display-name>
+    <display-name>DIRT 02: 18:30 Attica Raceway Park</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.03">
     <display-name>DIRT 03</display-name>
-    <display-name>DIRT 03:</display-name>
+    <display-name>DIRT 03: 19:15 Jacksonville Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.04">
     <display-name>DIRT 04</display-name>
-    <display-name>DIRT 04:</display-name>
+    <display-name>DIRT 04: 19:30 DIRT Zone</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.05">
@@ -47,22 +47,22 @@
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.01">
     <display-name>DIRT ALT 01</display-name>
-    <display-name>DIRT ALT 01: 18:15 | MILLBRIDGE SPEEDWAY</display-name>
+    <display-name>DIRT ALT 01: 18:30 Sharon Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.02">
     <display-name>DIRT ALT 02</display-name>
-    <display-name>DIRT ALT 02:</display-name>
+    <display-name>DIRT ALT 02: 18:30 Attica Raceway Park</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.03">
     <display-name>DIRT ALT 03</display-name>
-    <display-name>DIRT ALT 03:</display-name>
+    <display-name>DIRT ALT 03: 19:15 Jacksonville Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.04">
     <display-name>DIRT ALT 04</display-name>
-    <display-name>DIRT ALT 04:</display-name>
+    <display-name>DIRT ALT 04: 19:30 DIRT Zone</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.05">
@@ -6406,7 +6406,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.003">
     <display-name>PPV ALT 003</display-name>
-    <display-name>PPV ALT 003: Perdomo vs Hill 00:00</display-name>
+    <display-name>PPV ALT 003: BKFC: Perdomo vs Hill 00:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.004">
@@ -6896,7 +6896,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: 20:00 BKFC 93 Hollywood Perdomo vs Garrett 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
@@ -6906,27 +6906,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03:</display-name>
+    <display-name>PPV2 03: 22:00 GCW Mind Your Business 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
     <display-name>PPV2 04</display-name>
-    <display-name>PPV2 04:</display-name>
+    <display-name>PPV2 04: 20:30 Cage Fury FC 161 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
     <display-name>PPV2 05</display-name>
-    <display-name>PPV2 05:</display-name>
+    <display-name>PPV2 05: 20:00 Marquez vs Sanchez 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.06">
     <display-name>PPV2 06</display-name>
-    <display-name>PPV2 06:</display-name>
+    <display-name>PPV2 06: 14:00 Powell vs Shepherd 09-01</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.07">
     <display-name>PPV2 07</display-name>
-    <display-name>PPV2 07:</display-name>
+    <display-name>PPV2 07: 17:30 World 100 at Eldora 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.08">
@@ -6936,7 +6936,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.09">
     <display-name>PPV2 09</display-name>
-    <display-name>PPV2 09:</display-name>
+    <display-name>PPV2 09: 09:15 USAC Road Racing at Road Atlanta 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.10">
@@ -6946,37 +6946,37 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.11">
     <display-name>PPV2 11</display-name>
-    <display-name>PPV2 11:</display-name>
+    <display-name>PPV2 11: 18:15 USAC Commonwealth Clash at Lernerville 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.12">
     <display-name>PPV2 12</display-name>
-    <display-name>PPV2 12:</display-name>
+    <display-name>PPV2 12: 18:15 Rebel Night at Autodrome 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.13">
     <display-name>PPV2 13</display-name>
-    <display-name>PPV2 13:</display-name>
+    <display-name>PPV2 13: 19:00 Race of Champions Weekend at Lake Erie 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.14">
     <display-name>PPV2 14</display-name>
-    <display-name>PPV2 14:</display-name>
+    <display-name>PPV2 14: 19:00 Cup Time STL Short Track Classic at Belle Clair 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.15">
     <display-name>PPV2 15</display-name>
-    <display-name>PPV2 15:</display-name>
+    <display-name>PPV2 15: 18:30 Sharon Speedway 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.16">
     <display-name>PPV2 16</display-name>
-    <display-name>PPV2 16:</display-name>
+    <display-name>PPV2 16: 18:30 Attica Raceway Park 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.17">
     <display-name>PPV2 17</display-name>
-    <display-name>PPV2 17:</display-name>
+    <display-name>PPV2 17: 19:15 Jacksonville Speedway 09-11</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.18">
@@ -11646,502 +11646,502 @@
   </channel>
   <channel id="custom.AU.KAYO.KAYO.001">
     <display-name>KAYO+ 001</display-name>
-    <display-name>KAYO+ 001:</display-name>
+    <display-name>KAYO+ 001: 15:30 Solheim Cup Day 1 (HEVC) 09-11</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.002">
     <display-name>KAYO+ 002</display-name>
-    <display-name>KAYO+ 002:</display-name>
+    <display-name>KAYO+ 002: 19:15 England vs Pakistan Third Test Day 3 (HEVC) 09-11</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.003">
     <display-name>KAYO+ 003</display-name>
-    <display-name>KAYO+ 003:</display-name>
+    <display-name>KAYO+ 003: 23:10 Dublin vs Edinburgh 09-11</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.004">
     <display-name>KAYO+ 004</display-name>
-    <display-name>KAYO+ 004:</display-name>
+    <display-name>KAYO+ 004: 23:30 ONE Friday Fights: 170 (HEVC) 09-11</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.005">
     <display-name>KAYO+ 005</display-name>
-    <display-name>KAYO+ 005:</display-name>
+    <display-name>KAYO+ 005: 00:30 Trestles Day 1 (HEVC) 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.006">
     <display-name>KAYO+ 006</display-name>
-    <display-name>KAYO+ 006:</display-name>
+    <display-name>KAYO+ 006: 00:45 F1 Spain Practice 2 (HEVC UHD) 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.007">
     <display-name>KAYO+ 007</display-name>
-    <display-name>KAYO+ 007:</display-name>
+    <display-name>KAYO+ 007: 02:00 Irish Open Round 2 Part 2 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.008">
     <display-name>KAYO+ 008</display-name>
-    <display-name>KAYO+ 008:</display-name>
+    <display-name>KAYO+ 008: 02:23 Spain Qualifying 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.009">
     <display-name>KAYO+ 009</display-name>
-    <display-name>KAYO+ 009:</display-name>
+    <display-name>KAYO+ 009: 04:00 Wigan vs Catalans 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.010">
     <display-name>KAYO+ 010</display-name>
-    <display-name>KAYO+ 010:</display-name>
+    <display-name>KAYO+ 010: 04:00 Sanford International Round 1 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.011">
     <display-name>KAYO+ 011</display-name>
-    <display-name>KAYO+ 011:</display-name>
+    <display-name>KAYO+ 011: 04:30 Leeds vs Hull FC 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.012">
     <display-name>KAYO+ 012</display-name>
-    <display-name>KAYO+ 012:</display-name>
+    <display-name>KAYO+ 012: 04:55 St Helens vs Hull KR 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.013">
     <display-name>KAYO+ 013</display-name>
-    <display-name>KAYO+ 013:</display-name>
+    <display-name>KAYO+ 013: 04:55 Warrington vs Toulouse 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.014">
     <display-name>KAYO+ 014</display-name>
-    <display-name>KAYO+ 014:</display-name>
+    <display-name>KAYO+ 014: 04:55 Leigh vs Wakefield 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.015">
     <display-name>KAYO+ 015</display-name>
-    <display-name>KAYO+ 015:</display-name>
+    <display-name>KAYO+ 015: 07:00 Simmons Bank Open Round 2 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.016">
     <display-name>KAYO+ 016</display-name>
-    <display-name>KAYO+ 016:</display-name>
+    <display-name>KAYO+ 016: 08:55 Amazon Warriors vs Knight Riders 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.017">
     <display-name>KAYO+ 017</display-name>
-    <display-name>KAYO+ 017:</display-name>
+    <display-name>KAYO+ 017: 09:00 Yankees vs Mets 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.018">
     <display-name>KAYO+ 018</display-name>
-    <display-name>KAYO+ 018:</display-name>
+    <display-name>KAYO+ 018: 09:00 Boston College vs Rutgers 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.019">
     <display-name>KAYO+ 019</display-name>
-    <display-name>KAYO+ 019:</display-name>
+    <display-name>KAYO+ 019: 09:00 BKFC 93: Hollywood 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.020">
     <display-name>KAYO+ 020</display-name>
-    <display-name>KAYO+ 020:</display-name>
+    <display-name>KAYO+ 020: 09:45 Supercars The Bend Practice &amp; Supports 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.021">
     <display-name>KAYO+ 021</display-name>
-    <display-name>KAYO+ 021:</display-name>
+    <display-name>KAYO+ 021: 11:55 Eels vs Cowboys 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.022">
     <display-name>KAYO+ 022</display-name>
-    <display-name>KAYO+ 022:</display-name>
+    <display-name>KAYO+ 022: 13:00 Hawthorn vs Western Bulldogs 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.023">
     <display-name>KAYO+ 023</display-name>
-    <display-name>KAYO+ 023:</display-name>
+    <display-name>KAYO+ 023: 14:00 Bears vs Blackhawks Semi Final 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.024">
     <display-name>KAYO+ 024</display-name>
-    <display-name>KAYO+ 024:</display-name>
+    <display-name>KAYO+ 024: 14:30 Gold Coast vs Collingwood 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.025">
     <display-name>KAYO+ 025</display-name>
-    <display-name>KAYO+ 025:</display-name>
+    <display-name>KAYO+ 025: 14:30 Warriors vs Dolphins Qualifying Final 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.026">
     <display-name>KAYO+ 026</display-name>
-    <display-name>KAYO+ 026:</display-name>
+    <display-name>KAYO+ 026: 14:55 Supercars The Bend Qualifying &amp; Supports 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.027">
     <display-name>KAYO+ 027</display-name>
-    <display-name>KAYO+ 027:</display-name>
+    <display-name>KAYO+ 027: 15:00 Adelaide vs Geelong 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.028">
     <display-name>KAYO+ 028</display-name>
-    <display-name>KAYO+ 028:</display-name>
+    <display-name>KAYO+ 028: 15:30 Solheim Cup Day 2 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.029">
     <display-name>KAYO+ 029</display-name>
-    <display-name>KAYO+ 029:</display-name>
+    <display-name>KAYO+ 029: 16:05 Bears vs Cutters Semi Final 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.030">
     <display-name>KAYO+ 030</display-name>
-    <display-name>KAYO+ 030:</display-name>
+    <display-name>KAYO+ 030: 16:30 West Coast vs Brisbane 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.031">
     <display-name>KAYO+ 031</display-name>
-    <display-name>KAYO+ 031:</display-name>
+    <display-name>KAYO+ 031: 16:35 Moto3 San Marino Practice 3 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.032">
     <display-name>KAYO+ 032</display-name>
-    <display-name>KAYO+ 032:</display-name>
+    <display-name>KAYO+ 032: 17:05 Sharks vs Dragons 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.033">
     <display-name>KAYO+ 033</display-name>
-    <display-name>KAYO+ 033:</display-name>
+    <display-name>KAYO+ 033: 17:15 Moto2 San Marino Practice 3 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.034">
     <display-name>KAYO+ 034</display-name>
-    <display-name>KAYO+ 034:</display-name>
+    <display-name>KAYO+ 034: 17:15 Supercars The Bend Top 10 Shootout 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.035">
     <display-name>KAYO+ 035</display-name>
-    <display-name>KAYO+ 035:</display-name>
+    <display-name>KAYO+ 035: 18:00 MotoGP San Marino Practice 3 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.036">
     <display-name>KAYO+ 036</display-name>
-    <display-name>KAYO+ 036:</display-name>
+    <display-name>KAYO+ 036: 18:00 Sharks vs Cowboys Elimination Final 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.037">
     <display-name>KAYO+ 037</display-name>
-    <display-name>KAYO+ 037:</display-name>
+    <display-name>KAYO+ 037: 18:30 Brisbane vs Adelaide Semi Final 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.038">
     <display-name>KAYO+ 038</display-name>
-    <display-name>KAYO+ 038: 07:00 Simmons Bank Open Round 2 09-12</display-name>
+    <display-name>KAYO+ 038: 18:45 MotoGP San Marino Qualifying 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.039">
     <display-name>KAYO+ 039</display-name>
-    <display-name>KAYO+ 039: 08:55 Amazon Warriors vs Knight Riders 09-12</display-name>
+    <display-name>KAYO+ 039: 19:00 Belfast vs Rotterdam 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.040">
     <display-name>KAYO+ 040</display-name>
-    <display-name>KAYO+ 040: 09:00 Yankees vs Mets 09-12</display-name>
+    <display-name>KAYO+ 040: 19:00 Spain Sprint Race 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.041">
     <display-name>KAYO+ 041</display-name>
-    <display-name>KAYO+ 041: 09:00 Boston College vs Rutgers 09-12</display-name>
+    <display-name>KAYO+ 041: 19:15 England vs Pakistan Third Test Day 4 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.042">
     <display-name>KAYO+ 042</display-name>
-    <display-name>KAYO+ 042: 09:00 BKFC 93: Hollywood 09-12</display-name>
+    <display-name>KAYO+ 042: 20:00 F1 Spain Practice 3 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.043">
     <display-name>KAYO+ 043</display-name>
-    <display-name>KAYO+ 043: 09:45 Supercars The Bend Practice &amp; Supports 09-12</display-name>
+    <display-name>KAYO+ 043: 20:40 Moto3 San Marino Qualifying 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.044">
     <display-name>KAYO+ 044</display-name>
-    <display-name>KAYO+ 044: 11:55 Eels vs Cowboys 09-12</display-name>
+    <display-name>KAYO+ 044: 21:35 Moto2 San Marino Qualifying 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.045">
     <display-name>KAYO+ 045</display-name>
-    <display-name>KAYO+ 045: 13:00 Hawthorn vs Western Bulldogs 09-12</display-name>
+    <display-name>KAYO+ 045: 22:10 Spain Sprint Race 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.046">
     <display-name>KAYO+ 046</display-name>
-    <display-name>KAYO+ 046: 14:00 Bears vs Blackhawks Semi Final 09-12</display-name>
+    <display-name>KAYO+ 046: 22:30 MotoGP San Marino Sprint Race 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.047">
     <display-name>KAYO+ 047</display-name>
-    <display-name>KAYO+ 047: 14:30 Gold Coast vs Collingwood 09-12</display-name>
+    <display-name>KAYO+ 047: 23:10 Dublin vs Glasgow 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.048">
     <display-name>KAYO+ 048</display-name>
-    <display-name>KAYO+ 048: 14:30 Warriors vs Dolphins Qualifying Final 09-12</display-name>
+    <display-name>KAYO+ 048: 23:15 F1 Spain Qualifying 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.049">
     <display-name>KAYO+ 049</display-name>
-    <display-name>KAYO+ 049: 14:55 Supercars The Bend Qualifying &amp; Supports 09-12</display-name>
+    <display-name>KAYO+ 049: 23:30 Irish Open Round 3 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.050">
     <display-name>KAYO+ 050</display-name>
-    <display-name>KAYO+ 050: 15:00 Adelaide vs Geelong 09-12</display-name>
+    <display-name>KAYO+ 050: 23:55 Huddersfield vs Castleford 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.051">
     <display-name>KAYO+ 051</display-name>
-    <display-name>KAYO+ 051: 15:30 Solheim Cup Day 2 09-12</display-name>
+    <display-name>KAYO+ 051: 23:55 Amazon Warriors vs Knight Riders 09-12</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.052">
     <display-name>KAYO+ 052</display-name>
-    <display-name>KAYO+ 052: 16:05 Bears vs Cutters Semi Final 09-12</display-name>
+    <display-name>KAYO+ 052: 00:00 San Marino Race 1 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.053">
     <display-name>KAYO+ 053</display-name>
-    <display-name>KAYO+ 053: 16:30 West Coast vs Brisbane 09-12</display-name>
+    <display-name>KAYO+ 053: 00:20 Germany vs France 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.054">
     <display-name>KAYO+ 054</display-name>
-    <display-name>KAYO+ 054: 17:05 Sharks vs Dragons 09-12</display-name>
+    <display-name>KAYO+ 054: 01:00 Trestles Day 2 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.055">
     <display-name>KAYO+ 055</display-name>
-    <display-name>KAYO+ 055: 17:15 Moto2 San Marino Practice 3 09-12</display-name>
+    <display-name>KAYO+ 055: 01:55 Spain Race 1 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.056">
     <display-name>KAYO+ 056</display-name>
-    <display-name>KAYO+ 056: 17:15 Supercars The Bend Top 10 Shootout 09-12</display-name>
+    <display-name>KAYO+ 056: 02:00 Texas A&amp;M vs Arizona State 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.057">
     <display-name>KAYO+ 057</display-name>
-    <display-name>KAYO+ 057: 18:00 MotoGP San Marino Practice 3 09-12</display-name>
+    <display-name>KAYO+ 057: 02:40 Round 9 Denmark 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.058">
     <display-name>KAYO+ 058</display-name>
-    <display-name>KAYO+ 058: 18:00 Sharks vs Cowboys Elimination Final 09-12</display-name>
+    <display-name>KAYO+ 058: 03:50 Spain vs USA 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.059">
     <display-name>KAYO+ 059</display-name>
-    <display-name>KAYO+ 059: 18:30 Brisbane vs Adelaide Semi Final 09-12</display-name>
+    <display-name>KAYO+ 059: 03:55 Brazil vs China 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.060">
     <display-name>KAYO+ 060</display-name>
-    <display-name>KAYO+ 060: 18:45 MotoGP San Marino Qualifying 09-12</display-name>
+    <display-name>KAYO+ 060: 04:00 Sanford International Round 2 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.061">
     <display-name>KAYO+ 061</display-name>
-    <display-name>KAYO+ 061: 19:00 Belfast vs Rotterdam 09-12</display-name>
+    <display-name>KAYO+ 061: 04:55 Tridents vs Empress 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.062">
     <display-name>KAYO+ 062</display-name>
-    <display-name>KAYO+ 062: 19:15 England vs Pakistan Third Test Day 4 09-12</display-name>
+    <display-name>KAYO+ 062: 05:30 Kentucky vs Alabama 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.063">
     <display-name>KAYO+ 063</display-name>
-    <display-name>KAYO+ 063: 20:00 F1 Spain Practice 3 09-12</display-name>
+    <display-name>KAYO+ 063: 06:00 Pittsburgh vs UCF 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.064">
     <display-name>KAYO+ 064</display-name>
-    <display-name>KAYO+ 064: 20:40 Moto3 San Marino Qualifying 09-12</display-name>
+    <display-name>KAYO+ 064: 06:55 New Zealand vs Netherlands 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.065">
     <display-name>KAYO+ 065</display-name>
-    <display-name>KAYO+ 065: 21:35 Moto2 San Marino Qualifying 09-12</display-name>
+    <display-name>KAYO+ 065: 07:00 Simmons Bank Open Round 3 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.066">
     <display-name>KAYO+ 066</display-name>
-    <display-name>KAYO+ 066: 22:30 MotoGP San Marino Sprint Race 09-12</display-name>
+    <display-name>KAYO+ 066: 08:30 Supercars The Bend Supports 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.067">
     <display-name>KAYO+ 067</display-name>
-    <display-name>KAYO+ 067: 23:10 Dublin vs Glasgow 09-12</display-name>
+    <display-name>KAYO+ 067: 09:00 NASCAR The Chase Illinois 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.068">
     <display-name>KAYO+ 068</display-name>
-    <display-name>KAYO+ 068: 23:30 Irish Open Round 3 09-12</display-name>
+    <display-name>KAYO+ 068: 09:00 Georgia Tech vs Tennessee 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.069">
     <display-name>KAYO+ 069</display-name>
-    <display-name>KAYO+ 069: 23:55 Huddersfield vs Castleford 09-12</display-name>
+    <display-name>KAYO+ 069: 09:30 Texas vs Ohio State 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.070">
     <display-name>KAYO+ 070</display-name>
-    <display-name>KAYO+ 070: 23:55 Amazon Warriors vs Knight Riders 09-12</display-name>
+    <display-name>KAYO+ 070: 09:55 Tridents vs Kingsmen 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.071">
     <display-name>KAYO+ 071</display-name>
-    <display-name>KAYO+ 071: 00:00 San Marino Race 1 09-13</display-name>
+    <display-name>KAYO+ 071: 10:25 Mexico vs USA 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.072">
     <display-name>KAYO+ 072</display-name>
-    <display-name>KAYO+ 072: 01:00 Trestles Day 2 09-13</display-name>
+    <display-name>KAYO+ 072: 10:30 Supercars The Bend Warm Up 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.073">
     <display-name>KAYO+ 073</display-name>
-    <display-name>KAYO+ 073: 02:00 Texas A&amp;M vs Arizona State 09-13</display-name>
+    <display-name>KAYO+ 073: 11:15 Supercars The Bend Supports 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.074">
     <display-name>KAYO+ 074</display-name>
-    <display-name>KAYO+ 074: 04:00 Sanford International Round 2 09-13</display-name>
+    <display-name>KAYO+ 074: 11:55 Broncos vs Warriors 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.075">
     <display-name>KAYO+ 075</display-name>
-    <display-name>KAYO+ 075: 04:55 Tridents vs Empress 09-13</display-name>
+    <display-name>KAYO+ 075: 12:00 Magpies vs Jets Semi Final 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.076">
     <display-name>KAYO+ 076</display-name>
-    <display-name>KAYO+ 076: 05:30 Kentucky vs Alabama 09-13</display-name>
+    <display-name>KAYO+ 076: 12:15 Utah vs Arkansas 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.077">
     <display-name>KAYO+ 077</display-name>
-    <display-name>KAYO+ 077: 06:00 Pittsburgh vs UCF 09-13</display-name>
+    <display-name>KAYO+ 077: 12:30 Melbourne vs Port Adelaide 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.078">
     <display-name>KAYO+ 078</display-name>
-    <display-name>KAYO+ 078: 07:00 Simmons Bank Open Round 3 09-13</display-name>
+    <display-name>KAYO+ 078: 13:00 Richmond vs St Kilda 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.079">
     <display-name>KAYO+ 079</display-name>
-    <display-name>KAYO+ 079: 09:00 NASCAR The Chase Illinois 09-13</display-name>
+    <display-name>KAYO+ 079: 13:30 Supercars The Bend 500 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.080">
     <display-name>KAYO+ 080</display-name>
-    <display-name>KAYO+ 080: 09:00 Georgia Tech vs Tennessee 09-13</display-name>
+    <display-name>KAYO+ 080: 13:40 Knights vs Titans 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.081">
     <display-name>KAYO+ 081</display-name>
-    <display-name>KAYO+ 081: 09:30 Texas vs Ohio State 09-13</display-name>
+    <display-name>KAYO+ 081: 14:00 Capras vs Jets Semi Final 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.082">
     <display-name>KAYO+ 082</display-name>
-    <display-name>KAYO+ 082: 09:55 Tridents vs Kingsmen 09-13</display-name>
+    <display-name>KAYO+ 082: 14:30 Sydney vs GWS 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.083">
     <display-name>KAYO+ 083</display-name>
-    <display-name>KAYO+ 083: 11:55 Broncos vs Warriors 09-13</display-name>
+    <display-name>KAYO+ 083: 14:30 Panthers vs Roosters Qualifying Final 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.084">
     <display-name>KAYO+ 084</display-name>
-    <display-name>KAYO+ 084: 12:00 Magpies vs Jets Semi Final 09-13</display-name>
+    <display-name>KAYO+ 084: 15:00 North Melbourne vs Carlton 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.085">
     <display-name>KAYO+ 085</display-name>
-    <display-name>KAYO+ 085: 12:15 Utah vs Arkansas 09-13</display-name>
+    <display-name>KAYO+ 085: 16:35 San Marino Race 2 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.086">
     <display-name>KAYO+ 086</display-name>
-    <display-name>KAYO+ 086: 12:30 Melbourne vs Port Adelaide 09-13</display-name>
+    <display-name>KAYO+ 086: 17:00 Fremantle vs Essendon 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.087">
     <display-name>KAYO+ 087</display-name>
-    <display-name>KAYO+ 087: 13:00 Richmond vs St Kilda 09-13</display-name>
+    <display-name>KAYO+ 087: 17:35 MotoGP San Marino Warm Up 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.088">
     <display-name>KAYO+ 088</display-name>
-    <display-name>KAYO+ 088: 13:40 Knights vs Titans 09-13</display-name>
+    <display-name>KAYO+ 088: 17:40 Spain Race 2 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.089">
     <display-name>KAYO+ 089</display-name>
-    <display-name>KAYO+ 089: 14:00 Capras vs Jets Semi Final 09-13</display-name>
+    <display-name>KAYO+ 089: 18:45 Moto3 San Marino Race 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.090">
     <display-name>KAYO+ 090</display-name>
-    <display-name>KAYO+ 090: 14:30 Sydney vs GWS 09-13</display-name>
+    <display-name>KAYO+ 090: 19:00 Solheim Cup Final Day 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.091">
     <display-name>KAYO+ 091</display-name>
-    <display-name>KAYO+ 091: 14:30 Panthers vs Roosters Qualifying Final 09-13</display-name>
+    <display-name>KAYO+ 091: 19:15 England vs Pakistan Third Test Day 5 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.092">
     <display-name>KAYO+ 092</display-name>
-    <display-name>KAYO+ 092: 15:00 North Melbourne vs Carlton 09-13</display-name>
+    <display-name>KAYO+ 092: 19:20 Spain Race 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.093">
     <display-name>KAYO+ 093</display-name>
-    <display-name>KAYO+ 093: 16:35 San Marino Race 2 09-13</display-name>
+    <display-name>KAYO+ 093: 19:25 Edinburgh vs Amsterdam 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.094">
     <display-name>KAYO+ 094</display-name>
-    <display-name>KAYO+ 094: 17:00 Fremantle vs Essendon 09-13</display-name>
+    <display-name>KAYO+ 094: 20:00 Moto2 San Marino Race 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.095">
     <display-name>KAYO+ 095</display-name>
-    <display-name>KAYO+ 095: 17:35 MotoGP San Marino Warm Up 09-13</display-name>
+    <display-name>KAYO+ 095: 21:15 MotoGP San Marino Race 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.096">
     <display-name>KAYO+ 096</display-name>
-    <display-name>KAYO+ 096: 19:00 Solheim Cup Final Day 09-13</display-name>
+    <display-name>KAYO+ 096: 21:30 F1 Spain Race 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.097">
     <display-name>KAYO+ 097</display-name>
-    <display-name>KAYO+ 097: 19:15 England vs Pakistan Third Test Day 5 09-13</display-name>
+    <display-name>KAYO+ 097: 22:30 Irish Open Final Round 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.098">
     <display-name>KAYO+ 098</display-name>
-    <display-name>KAYO+ 098: 19:25 Edinburgh vs Amsterdam 09-13</display-name>
+    <display-name>KAYO+ 098: 22:55 Spain Pit Lane 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.099">
     <display-name>KAYO+ 099</display-name>
-    <display-name>KAYO+ 099: 22:30 Irish Open Final Round 09-13</display-name>
+    <display-name>KAYO+ 099: 22:55 Spain Co Pilot 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.100">
     <display-name>KAYO+ 100</display-name>
-    <display-name>KAYO+ 100: 23:10 Belfast vs Glasgow 09-13</display-name>
+    <display-name>KAYO+ 100: 22:55 KidsCast Spain 09-13</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.UK.DISCOVERY.UK.D.001">
@@ -12184,320 +12184,515 @@
     <display-name>UK D+ 010</display-name>
     <display-name>UK DISCOVERY+</display-name>
   </channel>
-  <programme start="20260912070000 +1000" stop="20260912110000 +1000" channel="custom.AU.KAYO.KAYO.038">
+  <programme start="20260911153000 +1000" stop="20260911193000 +1000" channel="custom.AU.KAYO.KAYO.001">
+    <title>5:30 PM Solheim Cup Day 1 (HEVC)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260911191500 +1000" stop="20260911231500 +1000" channel="custom.AU.KAYO.KAYO.002">
+    <title>9:15 PM England vs Pakistan Third Test Day 3 (HEVC)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260911231000 +1000" stop="20260912031000 +1000" channel="custom.AU.KAYO.KAYO.003">
+    <title>1:10 AM Dublin vs Edinburgh</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260911233000 +1000" stop="20260912033000 +1000" channel="custom.AU.KAYO.KAYO.004">
+    <title>1:30 AM ONE Friday Fights: 170 (HEVC)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912003000 +1000" stop="20260912043000 +1000" channel="custom.AU.KAYO.KAYO.005">
+    <title>2:30 AM Trestles Day 1 (HEVC)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912004500 +1000" stop="20260912044500 +1000" channel="custom.AU.KAYO.KAYO.006">
+    <title>2:45 AM F1 Spain Practice 2 (HEVC UHD)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912020000 +1000" stop="20260912060000 +1000" channel="custom.AU.KAYO.KAYO.007">
+    <title>4:00 AM Irish Open Round 2 Part 2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912022300 +1000" stop="20260912062300 +1000" channel="custom.AU.KAYO.KAYO.008">
+    <title>4:23 AM Spain Qualifying</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912040000 +1000" stop="20260912080000 +1000" channel="custom.AU.KAYO.KAYO.009">
+    <title>6:00 AM Wigan vs Catalans</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912040000 +1000" stop="20260912080000 +1000" channel="custom.AU.KAYO.KAYO.010">
+    <title>6:00 AM Sanford International Round 1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912043000 +1000" stop="20260912083000 +1000" channel="custom.AU.KAYO.KAYO.011">
+    <title>6:30 AM Leeds vs Hull FC</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912045500 +1000" stop="20260912085500 +1000" channel="custom.AU.KAYO.KAYO.012">
+    <title>6:55 AM St Helens vs Hull KR</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912045500 +1000" stop="20260912085500 +1000" channel="custom.AU.KAYO.KAYO.013">
+    <title>6:55 AM Warrington vs Toulouse</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912045500 +1000" stop="20260912085500 +1000" channel="custom.AU.KAYO.KAYO.014">
+    <title>6:55 AM Leigh vs Wakefield</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912070000 +1000" stop="20260912110000 +1000" channel="custom.AU.KAYO.KAYO.015">
     <title>9:00 AM Simmons Bank Open Round 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912085500 +1000" stop="20260912125500 +1000" channel="custom.AU.KAYO.KAYO.039">
+  <programme start="20260912085500 +1000" stop="20260912125500 +1000" channel="custom.AU.KAYO.KAYO.016">
     <title>10:55 AM azon Warriors vs Knight Riders</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.KAYO.KAYO.040">
+  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.KAYO.KAYO.017">
     <title>11:00 AM Yankees vs Mets</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.KAYO.KAYO.041">
+  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.KAYO.KAYO.018">
     <title>11:00 AM Boston College vs Rutgers</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.KAYO.KAYO.042">
+  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.KAYO.KAYO.019">
     <title>11:00 AM BKFC 93: Hollywood</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912094500 +1000" stop="20260912134500 +1000" channel="custom.AU.KAYO.KAYO.043">
+  <programme start="20260912094500 +1000" stop="20260912134500 +1000" channel="custom.AU.KAYO.KAYO.020">
     <title>11:45 AM Supercars The Bend Practice &amp; Supports</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912115500 +1000" stop="20260912155500 +1000" channel="custom.AU.KAYO.KAYO.044">
+  <programme start="20260912115500 +1000" stop="20260912155500 +1000" channel="custom.AU.KAYO.KAYO.021">
     <title>1:55 PM Eels vs Cowboys</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912130000 +1000" stop="20260912170000 +1000" channel="custom.AU.KAYO.KAYO.045">
+  <programme start="20260912130000 +1000" stop="20260912170000 +1000" channel="custom.AU.KAYO.KAYO.022">
     <title>3:00 PM Hawthorn vs Western Bulldogs</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912140000 +1000" stop="20260912180000 +1000" channel="custom.AU.KAYO.KAYO.046">
+  <programme start="20260912140000 +1000" stop="20260912180000 +1000" channel="custom.AU.KAYO.KAYO.023">
     <title>4:00 PM Bears vs Blackhawks Semi Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912143000 +1000" stop="20260912183000 +1000" channel="custom.AU.KAYO.KAYO.047">
+  <programme start="20260912143000 +1000" stop="20260912183000 +1000" channel="custom.AU.KAYO.KAYO.024">
     <title>4:30 PM Gold Coast vs Collingwood</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912143000 +1000" stop="20260912183000 +1000" channel="custom.AU.KAYO.KAYO.048">
+  <programme start="20260912143000 +1000" stop="20260912183000 +1000" channel="custom.AU.KAYO.KAYO.025">
     <title>4:30 PM Warriors vs Dolphins Qualifying Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912145500 +1000" stop="20260912185500 +1000" channel="custom.AU.KAYO.KAYO.049">
+  <programme start="20260912145500 +1000" stop="20260912185500 +1000" channel="custom.AU.KAYO.KAYO.026">
     <title>4:55 PM Supercars The Bend Qualifying &amp; Supports</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912150000 +1000" stop="20260912190000 +1000" channel="custom.AU.KAYO.KAYO.050">
+  <programme start="20260912150000 +1000" stop="20260912190000 +1000" channel="custom.AU.KAYO.KAYO.027">
     <title>5:00 PM Adelaide vs Geelong</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912153000 +1000" stop="20260912193000 +1000" channel="custom.AU.KAYO.KAYO.051">
+  <programme start="20260912153000 +1000" stop="20260912193000 +1000" channel="custom.AU.KAYO.KAYO.028">
     <title>5:30 PM Solheim Cup Day 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912160500 +1000" stop="20260912200500 +1000" channel="custom.AU.KAYO.KAYO.052">
+  <programme start="20260912160500 +1000" stop="20260912200500 +1000" channel="custom.AU.KAYO.KAYO.029">
     <title>6:05 PM Bears vs Cutters Semi Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912163000 +1000" stop="20260912203000 +1000" channel="custom.AU.KAYO.KAYO.053">
+  <programme start="20260912163000 +1000" stop="20260912203000 +1000" channel="custom.AU.KAYO.KAYO.030">
     <title>6:30 PM West Coast vs Brisbane</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912170500 +1000" stop="20260912210500 +1000" channel="custom.AU.KAYO.KAYO.054">
+  <programme start="20260912163500 +1000" stop="20260912203500 +1000" channel="custom.AU.KAYO.KAYO.031">
+    <title>6:35 PM Moto3 San Marino Practice 3</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912170500 +1000" stop="20260912210500 +1000" channel="custom.AU.KAYO.KAYO.032">
     <title>7:05 PM Sharks vs Dragons</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912171500 +1000" stop="20260912211500 +1000" channel="custom.AU.KAYO.KAYO.055">
+  <programme start="20260912171500 +1000" stop="20260912211500 +1000" channel="custom.AU.KAYO.KAYO.033">
     <title>7:15 PM Moto2 San Marino Practice 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912171500 +1000" stop="20260912211500 +1000" channel="custom.AU.KAYO.KAYO.056">
+  <programme start="20260912171500 +1000" stop="20260912211500 +1000" channel="custom.AU.KAYO.KAYO.034">
     <title>7:15 PM Supercars The Bend Top 10 Shootout</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912180000 +1000" stop="20260912220000 +1000" channel="custom.AU.KAYO.KAYO.057">
+  <programme start="20260912180000 +1000" stop="20260912220000 +1000" channel="custom.AU.KAYO.KAYO.035">
     <title>8:00 PM MotoGP San Marino Practice 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912180000 +1000" stop="20260912220000 +1000" channel="custom.AU.KAYO.KAYO.058">
+  <programme start="20260912180000 +1000" stop="20260912220000 +1000" channel="custom.AU.KAYO.KAYO.036">
     <title>8:00 PM Sharks vs Cowboys Elimination Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912183000 +1000" stop="20260912223000 +1000" channel="custom.AU.KAYO.KAYO.059">
+  <programme start="20260912183000 +1000" stop="20260912223000 +1000" channel="custom.AU.KAYO.KAYO.037">
     <title>8:30 PM Brisbane vs Adelaide Semi Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912184500 +1000" stop="20260912224500 +1000" channel="custom.AU.KAYO.KAYO.060">
+  <programme start="20260912184500 +1000" stop="20260912224500 +1000" channel="custom.AU.KAYO.KAYO.038">
     <title>8:45 PM MotoGP San Marino Qualifying</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912190000 +1000" stop="20260912230000 +1000" channel="custom.AU.KAYO.KAYO.061">
+  <programme start="20260912190000 +1000" stop="20260912230000 +1000" channel="custom.AU.KAYO.KAYO.039">
     <title>9:00 PM Belfast vs Rotterdam</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912191500 +1000" stop="20260912231500 +1000" channel="custom.AU.KAYO.KAYO.062">
+  <programme start="20260912190000 +1000" stop="20260912230000 +1000" channel="custom.AU.KAYO.KAYO.040">
+    <title>9:00 PM Spain Sprint Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912191500 +1000" stop="20260912231500 +1000" channel="custom.AU.KAYO.KAYO.041">
     <title>9:15 PM England vs Pakistan Third Test Day 4</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912200000 +1000" stop="20260913000000 +1000" channel="custom.AU.KAYO.KAYO.063">
+  <programme start="20260912200000 +1000" stop="20260913000000 +1000" channel="custom.AU.KAYO.KAYO.042">
     <title>10:00 PM F1 Spain Practice 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912204000 +1000" stop="20260913004000 +1000" channel="custom.AU.KAYO.KAYO.064">
+  <programme start="20260912204000 +1000" stop="20260913004000 +1000" channel="custom.AU.KAYO.KAYO.043">
     <title>10:40 PM Moto3 San Marino Qualifying</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912213500 +1000" stop="20260913013500 +1000" channel="custom.AU.KAYO.KAYO.065">
+  <programme start="20260912213500 +1000" stop="20260913013500 +1000" channel="custom.AU.KAYO.KAYO.044">
     <title>11:35 PM Moto2 San Marino Qualifying</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912223000 +1000" stop="20260913023000 +1000" channel="custom.AU.KAYO.KAYO.066">
+  <programme start="20260912221000 +1000" stop="20260913021000 +1000" channel="custom.AU.KAYO.KAYO.045">
+    <title>12:10 AM Spain Sprint Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912223000 +1000" stop="20260913023000 +1000" channel="custom.AU.KAYO.KAYO.046">
     <title>12:30 AM MotoGP San Marino Sprint Race</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912231000 +1000" stop="20260913031000 +1000" channel="custom.AU.KAYO.KAYO.067">
+  <programme start="20260912231000 +1000" stop="20260913031000 +1000" channel="custom.AU.KAYO.KAYO.047">
     <title>1:10 AM Dublin vs Glasgow</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912233000 +1000" stop="20260913033000 +1000" channel="custom.AU.KAYO.KAYO.068">
+  <programme start="20260912231500 +1000" stop="20260913031500 +1000" channel="custom.AU.KAYO.KAYO.048">
+    <title>1:15 AM F1 Spain Qualifying</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912233000 +1000" stop="20260913033000 +1000" channel="custom.AU.KAYO.KAYO.049">
     <title>1:30 AM Irish Open Round 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912235500 +1000" stop="20260913035500 +1000" channel="custom.AU.KAYO.KAYO.069">
+  <programme start="20260912235500 +1000" stop="20260913035500 +1000" channel="custom.AU.KAYO.KAYO.050">
     <title>1:55 AM Huddersfield vs Castleford</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260912235500 +1000" stop="20260913035500 +1000" channel="custom.AU.KAYO.KAYO.070">
+  <programme start="20260912235500 +1000" stop="20260913035500 +1000" channel="custom.AU.KAYO.KAYO.051">
     <title>1:55 AM azon Warriors vs Knight Riders</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913000000 +1000" stop="20260913040000 +1000" channel="custom.AU.KAYO.KAYO.071">
+  <programme start="20260913000000 +1000" stop="20260913040000 +1000" channel="custom.AU.KAYO.KAYO.052">
     <title>2:00 AM San Marino Race 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913010000 +1000" stop="20260913050000 +1000" channel="custom.AU.KAYO.KAYO.072">
+  <programme start="20260913002000 +1000" stop="20260913042000 +1000" channel="custom.AU.KAYO.KAYO.053">
+    <title>2:20 AM Germany vs France</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913010000 +1000" stop="20260913050000 +1000" channel="custom.AU.KAYO.KAYO.054">
     <title>3:00 AM Trestles Day 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913020000 +1000" stop="20260913060000 +1000" channel="custom.AU.KAYO.KAYO.073">
+  <programme start="20260913015500 +1000" stop="20260913055500 +1000" channel="custom.AU.KAYO.KAYO.055">
+    <title>3:55 AM Spain Race 1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913020000 +1000" stop="20260913060000 +1000" channel="custom.AU.KAYO.KAYO.056">
     <title>4:00 AM Texas A&amp;M vs Arizona State</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913040000 +1000" stop="20260913080000 +1000" channel="custom.AU.KAYO.KAYO.074">
+  <programme start="20260913024000 +1000" stop="20260913064000 +1000" channel="custom.AU.KAYO.KAYO.057">
+    <title>4:40 AM Round 9 Denmark</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913035000 +1000" stop="20260913075000 +1000" channel="custom.AU.KAYO.KAYO.058">
+    <title>5:50 AM Spain vs USA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913035500 +1000" stop="20260913075500 +1000" channel="custom.AU.KAYO.KAYO.059">
+    <title>5:55 AM Brazil vs China</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913040000 +1000" stop="20260913080000 +1000" channel="custom.AU.KAYO.KAYO.060">
     <title>6:00 AM Sanford International Round 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913045500 +1000" stop="20260913085500 +1000" channel="custom.AU.KAYO.KAYO.075">
+  <programme start="20260913045500 +1000" stop="20260913085500 +1000" channel="custom.AU.KAYO.KAYO.061">
     <title>6:55 AM Tridents vs Empress</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913053000 +1000" stop="20260913093000 +1000" channel="custom.AU.KAYO.KAYO.076">
+  <programme start="20260913053000 +1000" stop="20260913093000 +1000" channel="custom.AU.KAYO.KAYO.062">
     <title>7:30 AM Kentucky vs Alabama</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913060000 +1000" stop="20260913100000 +1000" channel="custom.AU.KAYO.KAYO.077">
+  <programme start="20260913060000 +1000" stop="20260913100000 +1000" channel="custom.AU.KAYO.KAYO.063">
     <title>8:00 AM Pittsburgh vs UCF</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913070000 +1000" stop="20260913110000 +1000" channel="custom.AU.KAYO.KAYO.078">
+  <programme start="20260913065500 +1000" stop="20260913105500 +1000" channel="custom.AU.KAYO.KAYO.064">
+    <title>8:55 AM New Zealand vs Netherlands</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913070000 +1000" stop="20260913110000 +1000" channel="custom.AU.KAYO.KAYO.065">
     <title>9:00 AM Simmons Bank Open Round 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913090000 +1000" stop="20260913130000 +1000" channel="custom.AU.KAYO.KAYO.079">
+  <programme start="20260913083000 +1000" stop="20260913123000 +1000" channel="custom.AU.KAYO.KAYO.066">
+    <title>10:30 AM Supercars The Bend Supports</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913090000 +1000" stop="20260913130000 +1000" channel="custom.AU.KAYO.KAYO.067">
     <title>11:00 AM NASCAR The Chase Illinois</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913090000 +1000" stop="20260913130000 +1000" channel="custom.AU.KAYO.KAYO.080">
+  <programme start="20260913090000 +1000" stop="20260913130000 +1000" channel="custom.AU.KAYO.KAYO.068">
     <title>11:00 AM Georgia Tech vs Tennessee</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913093000 +1000" stop="20260913133000 +1000" channel="custom.AU.KAYO.KAYO.081">
+  <programme start="20260913093000 +1000" stop="20260913133000 +1000" channel="custom.AU.KAYO.KAYO.069">
     <title>11:30 AM Texas vs Ohio State</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913095500 +1000" stop="20260913135500 +1000" channel="custom.AU.KAYO.KAYO.082">
+  <programme start="20260913095500 +1000" stop="20260913135500 +1000" channel="custom.AU.KAYO.KAYO.070">
     <title>11:55 AM Tridents vs Kingsmen</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913115500 +1000" stop="20260913155500 +1000" channel="custom.AU.KAYO.KAYO.083">
+  <programme start="20260913102500 +1000" stop="20260913142500 +1000" channel="custom.AU.KAYO.KAYO.071">
+    <title>12:25 PM Mexico vs USA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913103000 +1000" stop="20260913143000 +1000" channel="custom.AU.KAYO.KAYO.072">
+    <title>12:30 PM Supercars The Bend Warm Up</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913111500 +1000" stop="20260913151500 +1000" channel="custom.AU.KAYO.KAYO.073">
+    <title>1:15 PM Supercars The Bend Supports</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913115500 +1000" stop="20260913155500 +1000" channel="custom.AU.KAYO.KAYO.074">
     <title>1:55 PM Broncos vs Warriors</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913120000 +1000" stop="20260913160000 +1000" channel="custom.AU.KAYO.KAYO.084">
+  <programme start="20260913120000 +1000" stop="20260913160000 +1000" channel="custom.AU.KAYO.KAYO.075">
     <title>2:00 PM Magpies vs Jets Semi Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913121500 +1000" stop="20260913161500 +1000" channel="custom.AU.KAYO.KAYO.085">
+  <programme start="20260913121500 +1000" stop="20260913161500 +1000" channel="custom.AU.KAYO.KAYO.076">
     <title>2:15 PM Utah vs Arkansas</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913123000 +1000" stop="20260913163000 +1000" channel="custom.AU.KAYO.KAYO.086">
+  <programme start="20260913123000 +1000" stop="20260913163000 +1000" channel="custom.AU.KAYO.KAYO.077">
     <title>2:30 PM Melbourne vs Port Adelaide</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913130000 +1000" stop="20260913170000 +1000" channel="custom.AU.KAYO.KAYO.087">
+  <programme start="20260913130000 +1000" stop="20260913170000 +1000" channel="custom.AU.KAYO.KAYO.078">
     <title>3:00 PM Richmond vs St Kilda</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913134000 +1000" stop="20260913174000 +1000" channel="custom.AU.KAYO.KAYO.088">
+  <programme start="20260913133000 +1000" stop="20260913173000 +1000" channel="custom.AU.KAYO.KAYO.079">
+    <title>3:30 PM Supercars The Bend 500</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913134000 +1000" stop="20260913174000 +1000" channel="custom.AU.KAYO.KAYO.080">
     <title>3:40 PM Knights vs Titans</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913140000 +1000" stop="20260913180000 +1000" channel="custom.AU.KAYO.KAYO.089">
+  <programme start="20260913140000 +1000" stop="20260913180000 +1000" channel="custom.AU.KAYO.KAYO.081">
     <title>4:00 PM Capras vs Jets Semi Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913143000 +1000" stop="20260913183000 +1000" channel="custom.AU.KAYO.KAYO.090">
+  <programme start="20260913143000 +1000" stop="20260913183000 +1000" channel="custom.AU.KAYO.KAYO.082">
     <title>4:30 PM Sydney vs GWS</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913143000 +1000" stop="20260913183000 +1000" channel="custom.AU.KAYO.KAYO.091">
+  <programme start="20260913143000 +1000" stop="20260913183000 +1000" channel="custom.AU.KAYO.KAYO.083">
     <title>4:30 PM Panthers vs Roosters Qualifying Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913150000 +1000" stop="20260913190000 +1000" channel="custom.AU.KAYO.KAYO.092">
+  <programme start="20260913150000 +1000" stop="20260913190000 +1000" channel="custom.AU.KAYO.KAYO.084">
     <title>5:00 PM North Melbourne vs Carlton</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913163500 +1000" stop="20260913203500 +1000" channel="custom.AU.KAYO.KAYO.093">
+  <programme start="20260913163500 +1000" stop="20260913203500 +1000" channel="custom.AU.KAYO.KAYO.085">
     <title>6:35 PM San Marino Race 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913170000 +1000" stop="20260913210000 +1000" channel="custom.AU.KAYO.KAYO.094">
+  <programme start="20260913170000 +1000" stop="20260913210000 +1000" channel="custom.AU.KAYO.KAYO.086">
     <title>7:00 PM Fremantle vs Essendon</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913173500 +1000" stop="20260913213500 +1000" channel="custom.AU.KAYO.KAYO.095">
+  <programme start="20260913173500 +1000" stop="20260913213500 +1000" channel="custom.AU.KAYO.KAYO.087">
     <title>7:35 PM MotoGP San Marino Warm Up</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913190000 +1000" stop="20260913230000 +1000" channel="custom.AU.KAYO.KAYO.096">
+  <programme start="20260913174000 +1000" stop="20260913214000 +1000" channel="custom.AU.KAYO.KAYO.088">
+    <title>7:40 PM Spain Race 2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913184500 +1000" stop="20260913224500 +1000" channel="custom.AU.KAYO.KAYO.089">
+    <title>8:45 PM Moto3 San Marino Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913190000 +1000" stop="20260913230000 +1000" channel="custom.AU.KAYO.KAYO.090">
     <title>9:00 PM Solheim Cup Final Day</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913191500 +1000" stop="20260913231500 +1000" channel="custom.AU.KAYO.KAYO.097">
+  <programme start="20260913191500 +1000" stop="20260913231500 +1000" channel="custom.AU.KAYO.KAYO.091">
     <title>9:15 PM England vs Pakistan Third Test Day 5</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913192500 +1000" stop="20260913232500 +1000" channel="custom.AU.KAYO.KAYO.098">
+  <programme start="20260913192000 +1000" stop="20260913232000 +1000" channel="custom.AU.KAYO.KAYO.092">
+    <title>9:20 PM Spain Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913192500 +1000" stop="20260913232500 +1000" channel="custom.AU.KAYO.KAYO.093">
     <title>9:25 PM Edinburgh vs Amsterdam</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913223000 +1000" stop="20260914023000 +1000" channel="custom.AU.KAYO.KAYO.099">
+  <programme start="20260913200000 +1000" stop="20260914000000 +1000" channel="custom.AU.KAYO.KAYO.094">
+    <title>10:00 PM Moto2 San Marino Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913211500 +1000" stop="20260914011500 +1000" channel="custom.AU.KAYO.KAYO.095">
+    <title>11:15 PM MotoGP San Marino Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913213000 +1000" stop="20260914013000 +1000" channel="custom.AU.KAYO.KAYO.096">
+    <title>11:30 PM F1 Spain Race</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913223000 +1000" stop="20260914023000 +1000" channel="custom.AU.KAYO.KAYO.097">
     <title>12:30 AM Irish Open Final Round</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913231000 +1000" stop="20260914031000 +1000" channel="custom.AU.KAYO.KAYO.100">
-    <title>1:10 AM Belfast vs Glasgow</title>
+  <programme start="20260913225500 +1000" stop="20260914025500 +1000" channel="custom.AU.KAYO.KAYO.098">
+    <title>12:55 AM Spain Pit Lane</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913225500 +1000" stop="20260914025500 +1000" channel="custom.AU.KAYO.KAYO.099">
+    <title>12:55 AM Spain Co Pilot</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260913225500 +1000" stop="20260914025500 +1000" channel="custom.AU.KAYO.KAYO.100">
+    <title>12:55 AM KidsCast Spain</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260912020000 +1000" stop="20260912060000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
+    <title>4:00 AM Kaplan vs Schroder Quad Singles Semi Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912020000 +1000" stop="20260912060000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.007">
+    <title>4:00 AM Siniakova/Townsend vs Krueger/Montgomery Women\`s Doubles Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
   <programme start="20260912040000 +1000" stop="20260912080000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.008">
     <title>6:00 AM Miguel vs Behrmann Junior Boys Singles Semi Final US Open 2026</title>
@@ -12526,6 +12721,91 @@
   </programme>
   <programme start="20260912050000 +1000" stop="20260912090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
     <title>7:00 AM Zverev vs Khachanov Men\`s Singles Semi Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912060000 +1000" stop="20260912100000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.014">
+    <title>8:00 AM Sasson/Vink vs Schroder/Woodman Quad Doubles Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912080000 +1000" stop="20260912120000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.015">
+    <title>10:00 AM Hewett/Reid vs De La Puente/Spaargaren Men\`s WC Doubles Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912080000 +1000" stop="20260912120000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.016">
+    <title>10:00 AM Kamiji/Zhu vs Guo/Ohtani Women\`s WC Doubles Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912083000 +1000" stop="20260912123000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
+    <title>10:30 AM Racing Louisville vs Gotham FC NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912090000 +1000" stop="20260912130000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
+    <title>11:00 AM Tiafoe vs Shelton Men\`s Singles Semi Final US Open 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912093000 +1000" stop="20260912133000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.019">
+    <title>11:30 AM Auckland vs Counties Manukau Farah Palmer Cup Round 3 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912120000 +1000" stop="20260912160000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.020">
+    <title>2:00 PM Auckland vs Counties Manukau NPC Round 7 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912130000 +1000" stop="20260912170000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.021">
+    <title>3:00 PM Reds vs Force Super Rugby AUS Round 1 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912150000 +1000" stop="20260912190000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.022">
+    <title>5:00 PM Northland vs Waikato NPC Round 7 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912165000 +1000" stop="20260912205000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.023">
+    <title>6:50 PM Fiji vs Canada Pacific Nations Cup Semi Final 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912170000 +1000" stop="20260912210000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.024">
+    <title>7:00 PM Canterbury vs Wellington NPC Round 7 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912172500 +1000" stop="20260912212500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.025">
+    <title>7:25 PM Jeonbuk vs Seoul K League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912172500 +1000" stop="20260912212500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.026">
+    <title>7:25 PM Ulsan vs Incheon K League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912195000 +1000" stop="20260912235000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.027">
+    <title>9:50 PM Japan vs USA Pacific Nations Cup Semi Final 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912195500 +1000" stop="20260912235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.028">
+    <title>9:55 PM Sanfrecce Hiroshima vs Cerezo Osaka J.League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912195500 +1000" stop="20260912235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.029">
+    <title>9:55 PM Gamba Osaka vs FC Tokyo J.League 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260912195500 +1000" stop="20260912235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.030">
+    <title>9:55 PM Machida Zelvia vs Yokohama F. Marinos J.League 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14344,23 +14624,108 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260911181500 -0400" stop="20260911221500 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
-    <title>10:15 AM \| MILLBRIDGE SPEEDWAY</title>
+  <programme start="20260911183000 -0400" stop="20260911223000 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>10:30 AM Sharon Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260910173000 -0400" stop="20260910213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+  <programme start="20260911183000 -0400" stop="20260911223000 -0400" channel="custom.DIRTVISION.DIRT.02">
+    <title>10:30 AM Attica Raceway Park</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911191500 -0400" stop="20260911231500 -0400" channel="custom.DIRTVISION.DIRT.03">
+    <title>11:15 AM Jacksonville Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911193000 -0400" stop="20260911233000 -0400" channel="custom.DIRTVISION.DIRT.04">
+    <title>11:30 AM DIRT Zone</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911183000 -0400" stop="20260911223000 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
+    <title>10:30 AM Sharon Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911183000 -0400" stop="20260911223000 -0400" channel="custom.DIRTVISION.DIRT.ALT.02">
+    <title>10:30 AM Attica Raceway Park</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911191500 -0400" stop="20260911231500 -0400" channel="custom.DIRTVISION.DIRT.ALT.03">
+    <title>11:15 AM Jacksonville Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911193000 -0400" stop="20260911233000 -0400" channel="custom.DIRTVISION.DIRT.ALT.04">
+    <title>11:30 AM DIRT Zone</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260911200000 -0400" stop="20260912000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>12:00 PM BKFC 93 Hollywood Perdomo vs Garrett</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260911220000 -0400" stop="20260912020000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+    <title>2:00 PM GCW Mind Your Business</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260911203000 -0400" stop="20260912003000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+    <title>12:30 PM Cage Fury FC 161</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260911200000 -0400" stop="20260912000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
+    <title>12:00 PM Marquez vs Sanchez</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260911173000 -0400" stop="20260911213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.07">
     <title>9:30 AM World 100 at Eldora</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260910190000 -0400" stop="20260910230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
-    <title>11:00 AM Run What U Brung at Thunder Road</title>
+  <programme start="20260912091500 -0400" stop="20260912131500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.09">
+    <title>1:15 AM USAC Road Racing at Road Atlanta</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260910193000 -0400" stop="20260910233000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
-    <title>11:30 AM IWR Aftermath</title>
+  <programme start="20260912181500 -0400" stop="20260912221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.11">
+    <title>10:15 AM USAC Commonwealth Clash at Lernerville</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912181500 -0400" stop="20260912221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.12">
+    <title>10:15 AM Rebel Night at Autodrome</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912190000 -0400" stop="20260912230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.13">
+    <title>11:00 AM Race of Champions Weekend at Lake Erie</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912190000 -0400" stop="20260912230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.14">
+    <title>11:00 AM Cup Time STL Short Track Classic at Belle Clair</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.15">
+    <title>10:30 AM Sharon Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.16">
+    <title>10:30 AM Attica Raceway Park</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912191500 -0400" stop="20260912231500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.17">
+    <title>11:15 AM Jacksonville Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
