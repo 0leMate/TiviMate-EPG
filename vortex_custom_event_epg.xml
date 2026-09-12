@@ -6411,7 +6411,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.004">
     <display-name>PPV ALT 004</display-name>
-    <display-name>PPV ALT 004: Marquez vs Sanchez 01:00</display-name>
+    <display-name>PPV ALT 004: Marquez vs Sanchez 02:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.005">
@@ -14814,12 +14814,12 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260911193000 +0100" stop="20260911233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
+  <programme start="20260912193000 +0100" stop="20260912233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
     <title>6:30 AM Derby vs West Brom // UK Wed 9 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20260911193000 +0100" stop="20260911233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
+  <programme start="20260912193000 +0100" stop="20260912233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
     <title>6:30 AM Norwich vs Birmingham // UK Wed 9 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>

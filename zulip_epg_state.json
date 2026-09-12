@@ -561,24 +561,24 @@
           "display_title": "6:30 AM Derby vs West Brom // UK Wed 9 Sep",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-09-11T19:30:00+01:00",
-          "stop": "2026-09-11T23:30:00+01:00",
+          "start": "2026-09-12T19:30:00+01:00",
+          "stop": "2026-09-12T23:30:00+01:00",
           "title": "Derby vs West Brom // UK Wed 9 Sep"
         },
         {
           "display_title": "6:30 AM Norwich vs Birmingham // UK Wed 9 Sep",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-09-11T19:30:00+01:00",
-          "stop": "2026-09-11T23:30:00+01:00",
+          "start": "2026-09-12T19:30:00+01:00",
+          "stop": "2026-09-12T23:30:00+01:00",
           "title": "Norwich vs Birmingham // UK Wed 9 Sep"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 623293749,
-      "message_timestamp": 1789084873,
+      "message_id": 623676221,
+      "message_timestamp": 1789171245,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-11T00:16:21.555910+00:00"
+      "updated_at": "2026-09-12T00:23:27.731862+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
