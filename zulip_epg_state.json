@@ -902,46 +902,6 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "11:15 PM Bolton vs Cardiff // UK Sat 12 Sep",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-09-12T12:15:00+01:00",
-          "stop": "2026-09-12T16:15:00+01:00",
-          "title": "Bolton vs Cardiff // UK Sat 12 Sep"
-        },
-        {
-          "display_title": "11:15 PM Leyton Orient vs Wycombe // UK Sat 12 Sep",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-09-12T12:15:00+01:00",
-          "stop": "2026-09-12T16:15:00+01:00",
-          "title": "Leyton Orient vs Wycombe // UK Sat 12 Sep"
-        },
-        {
-          "display_title": "11:15 PM Notts County vs Bradford // UK Sat 12 Sep",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-09-12T12:15:00+01:00",
-          "stop": "2026-09-12T16:15:00+01:00",
-          "title": "Notts County vs Bradford // UK Sat 12 Sep"
-        },
-        {
-          "display_title": "11:15 PM Crawley vs Cheltenham // UK Sat 12 Sep",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-09-12T12:15:00+01:00",
-          "stop": "2026-09-12T16:15:00+01:00",
-          "title": "Crawley vs Cheltenham // UK Sat 12 Sep"
-        },
-        {
-          "display_title": "11:15 PM Grimsby vs Bristol Rovers // UK Sat 12 Sep",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-09-12T12:15:00+01:00",
-          "stop": "2026-09-12T16:15:00+01:00",
-          "title": "Grimsby vs Bristol Rovers // UK Sat 12 Sep"
-        },
-        {
           "display_title": "1:50 AM Huddersfield Giants vs Castleford Tigers // UK Sat 12 Sep",
           "slot": "SKY SPORTS+ 14",
           "slot_norm": "SKY SPORTS+ 14",
@@ -951,10 +911,10 @@
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 623716238,
-      "message_timestamp": 1789200059,
+      "message_id": 623760939,
+      "message_timestamp": 1789232431,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-12T10:58:39.580817+00:00"
+      "updated_at": "2026-09-12T18:30:40.204902+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
