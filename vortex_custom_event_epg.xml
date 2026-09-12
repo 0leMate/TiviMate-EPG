@@ -2,32 +2,32 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01: 18:30 Sharon Speedway</display-name>
+    <display-name>DIRT 01: 17:45 Can Am Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
     <display-name>DIRT 02</display-name>
-    <display-name>DIRT 02: 18:30 Attica Raceway Park</display-name>
+    <display-name>DIRT 02: 18:15 Cedar Lake Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.03">
     <display-name>DIRT 03</display-name>
-    <display-name>DIRT 03: 19:15 Jacksonville Speedway</display-name>
+    <display-name>DIRT 03: 18:30 Sharon Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.04">
     <display-name>DIRT 04</display-name>
-    <display-name>DIRT 04: 19:30 DIRT Zone</display-name>
+    <display-name>DIRT 04: 19:15 Dodge City Raceway Park</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.05">
     <display-name>DIRT 05</display-name>
-    <display-name>DIRT 05:</display-name>
+    <display-name>DIRT 05: 19:30 DIRT Zone</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.06">
     <display-name>DIRT 06</display-name>
-    <display-name>DIRT 06:</display-name>
+    <display-name>DIRT 06: 19:45 Moberly Motorsports Park</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.07">
@@ -47,32 +47,32 @@
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.01">
     <display-name>DIRT ALT 01</display-name>
-    <display-name>DIRT ALT 01: 18:30 Sharon Speedway</display-name>
+    <display-name>DIRT ALT 01: 17:45 Can Am Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.02">
     <display-name>DIRT ALT 02</display-name>
-    <display-name>DIRT ALT 02: 18:30 Attica Raceway Park</display-name>
+    <display-name>DIRT ALT 02: 18:15 Cedar Lake Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.03">
     <display-name>DIRT ALT 03</display-name>
-    <display-name>DIRT ALT 03: 19:15 Jacksonville Speedway</display-name>
+    <display-name>DIRT ALT 03: 18:30 Sharon Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.04">
     <display-name>DIRT ALT 04</display-name>
-    <display-name>DIRT ALT 04: 19:30 DIRT Zone</display-name>
+    <display-name>DIRT ALT 04: 19:15 Dodge City Raceway Park</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.05">
     <display-name>DIRT ALT 05</display-name>
-    <display-name>DIRT ALT 05:</display-name>
+    <display-name>DIRT ALT 05: 19:30 DIRT Zone</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.06">
     <display-name>DIRT ALT 06</display-name>
-    <display-name>DIRT ALT 06:</display-name>
+    <display-name>DIRT ALT 06: 19:45 Moberly Motorsports Park</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.07">
@@ -6396,7 +6396,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001: One Samurai 3: 09:30</display-name>
+    <display-name>PPV ALT 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
@@ -6896,27 +6896,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: 14:00 PRELIMS Noche UFC 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02:</display-name>
+    <display-name>PPV2 02: 14:00 PRELIMS Noche UFC 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03:</display-name>
+    <display-name>PPV2 03: 17:00 Noche UFC Silva vs Delgado 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
     <display-name>PPV2 04</display-name>
-    <display-name>PPV2 04:</display-name>
+    <display-name>PPV2 04: 17:00 Noche UFC Silva vs Delgado 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
     <display-name>PPV2 05</display-name>
-    <display-name>PPV2 05:</display-name>
+    <display-name>PPV2 05: 20:00 Zuffa Boxing Garcia vs Benn 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.06">
@@ -6926,7 +6926,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.07">
     <display-name>PPV2 07</display-name>
-    <display-name>PPV2 07:</display-name>
+    <display-name>PPV2 07: 18:00 FLEX Wrestling Hangar Havoc 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.08">
@@ -6946,12 +6946,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.11">
     <display-name>PPV2 11</display-name>
-    <display-name>PPV2 11:</display-name>
+    <display-name>PPV2 11: 17:00 Fight to Win 324 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.12">
     <display-name>PPV2 12</display-name>
-    <display-name>PPV2 12:</display-name>
+    <display-name>PPV2 12: 17:30 World 100 at Eldora 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.13">
@@ -6961,27 +6961,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.14">
     <display-name>PPV2 14</display-name>
-    <display-name>PPV2 14:</display-name>
+    <display-name>PPV2 14: 09:00 USAC Road Racing at Road Atlanta 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.15">
     <display-name>PPV2 15</display-name>
-    <display-name>PPV2 15:</display-name>
+    <display-name>PPV2 15: 18:45 USAC Commonwealth Clash at Lernerville 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.16">
     <display-name>PPV2 16</display-name>
-    <display-name>PPV2 16:</display-name>
+    <display-name>PPV2 16: 18:00 Race of Champions Weekend at Lake Erie 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.17">
     <display-name>PPV2 17</display-name>
-    <display-name>PPV2 17:</display-name>
+    <display-name>PPV2 17: 11:30 NASCAR Youth Series at American QMA 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.18">
     <display-name>PPV2 18</display-name>
-    <display-name>PPV2 18:</display-name>
+    <display-name>PPV2 18: 16:30 CARS Tour at Tri County 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.19">
@@ -6991,57 +6991,57 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.20">
     <display-name>PPV2 20</display-name>
-    <display-name>PPV2 20:</display-name>
+    <display-name>PPV2 20: 17:00 Super Late Models at Berlin 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.21">
     <display-name>PPV2 21</display-name>
-    <display-name>PPV2 21:</display-name>
+    <display-name>PPV2 21: 18:00 Championship Night at South Boston 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.22">
     <display-name>PPV2 22</display-name>
-    <display-name>PPV2 22:</display-name>
+    <display-name>PPV2 22: 19:00 USAC Avanti Western States Midgets at Ventura 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.23">
     <display-name>PPV2 23</display-name>
-    <display-name>PPV2 23:</display-name>
+    <display-name>PPV2 23: 19:00 Virginia Sprint Cars at Langley 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.24">
     <display-name>PPV2 24</display-name>
-    <display-name>PPV2 24:</display-name>
+    <display-name>PPV2 24: 20:45 NARC 410 Sprints at Antioch 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.25">
     <display-name>PPV2 25</display-name>
-    <display-name>PPV2 25:</display-name>
+    <display-name>PPV2 25: 21:45 CARS Tour West at Orange Show 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.26">
     <display-name>PPV2 26</display-name>
-    <display-name>PPV2 26:</display-name>
+    <display-name>PPV2 26: 17:45 Can Am Speedway 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.27">
     <display-name>PPV2 27</display-name>
-    <display-name>PPV2 27:</display-name>
+    <display-name>PPV2 27: 18:15 Cedar Lake Speedway 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.28">
     <display-name>PPV2 28</display-name>
-    <display-name>PPV2 28:</display-name>
+    <display-name>PPV2 28: 18:30 Sharon Speedway 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.29">
     <display-name>PPV2 29</display-name>
-    <display-name>PPV2 29:</display-name>
+    <display-name>PPV2 29: 19:15 Dodge City Raceway Park 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.30">
     <display-name>PPV2 30</display-name>
-    <display-name>PPV2 30:</display-name>
+    <display-name>PPV2 30: 19:45 Moberly Motorsports Park 09-12</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.31">
@@ -12374,128 +12374,138 @@
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260913022000 +1000" stop="20260913062000 +1000" channel="custom.AU.STAN.AU.STAN.028">
+  <programme start="20260913022000 +1000" stop="20260913062000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.028">
     <title>4:20 AM Tottenham Hotspur vs Everton Premier League Matchweek 4 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913023000 +1000" stop="20260913063000 +1000" channel="custom.AU.STAN.AU.STAN.029">
+  <programme start="20260913023000 +1000" stop="20260913063000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.029">
     <title>4:30 AM Konduri/Latak vs Gabet/GonzalezGalino Junior Boys\` Doubles Final US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913045000 +1000" stop="20260913085000 +1000" channel="custom.AU.STAN.AU.STAN.030">
+  <programme start="20260913045000 +1000" stop="20260913085000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.030">
     <title>6:50 AM Sunderland vs Arsenal Premier League Matchweek 4 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913045000 +1000" stop="20260913085000 +1000" channel="custom.AU.STAN.AU.STAN.031">
+  <programme start="20260913045000 +1000" stop="20260913085000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.031">
     <title>6:50 AM • Sunderland vs Arsenal Premier League Matchweek 4 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913170000 +1000" stop="20260913210000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
-    <title>7:00 PM Canterbury vs Wellington NPC Round 7 2026</title>
+  <programme start="20260913060000 +1000" stop="20260913100000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.032">
+    <title>8:00 AM Sabalenka vs Rybakina Women\`s Singles Final US Open 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913172300 +1000" stop="20260913212300 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
-    <title>7:23 PM Ulsan vs Incheon K League 2026</title>
+  <programme start="20260913060000 +1000" stop="20260913100000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.033">
+    <title>8:00 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Fourth Test 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913172500 +1000" stop="20260913212500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
-    <title>7:25 PM Jeonbuk vs Seoul K League 2026</title>
+  <programme start="20260913060000 +1000" stop="20260913100000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.034">
+    <title>8:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Fourth Test 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913195000 +1000" stop="20260913235000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.004">
-    <title>9:50 PM Japan vs USA Pacific Nations Cup Semi Final 2026</title>
+  <programme start="20260913060100 +1000" stop="20260913100100 +1000" channel="custom.AU.STAN.AU.STAN.ALT.035">
+    <title>8:01 AM SS12 Maria las Cruces 2 WRC Chile 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913195500 +1000" stop="20260913235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.005">
-    <title>9:55 PM Sanfrecce Hiroshima vs Cerezo Osaka J.League 2026</title>
+  <programme start="20260913073000 +1000" stop="20260913113000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.036">
+    <title>9:30 AM PL Saturday Wrap: Matchweek 4 Sep 13</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913195500 +1000" stop="20260913235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.006">
-    <title>9:55 PM Gamba Osaka vs FC Tokyo J.League 2026</title>
+  <programme start="20260913083000 +1000" stop="20260913123000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.037">
+    <title>10:30 AM San Diego Wave vs North Carolina Courage NWSL 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913195500 +1000" stop="20260913235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.007">
-    <title>9:55 PM Machida Zelvia vs Yokohama F. Marinos J.League 2026</title>
+  <programme start="20260913093000 +1000" stop="20260913133000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.038">
+    <title>11:30 AM Hawke\`s Bay vs Wellington Farah Palmer Cup Round 3 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913213500 +1000" stop="20260914013500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.008">
-    <title>11:35 PM West Ham United vs London City Lionesses WSL 2026/27</title>
+  <programme start="20260913100000 +1000" stop="20260913140000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.039">
+    <title>12:00 PM Seattle Reign vs Bay FC NWSL 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913225000 +1000" stop="20260914025000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.009">
-    <title>12:50 AM Griquas vs Pumas Currie Cup Final 2026</title>
+  <programme start="20260913120000 +1000" stop="20260913160000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.040">
+    <title>2:00 PM Hawke\`s Bay vs North Harbour NPC Round 7 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913230000 +1000" stop="20260914030000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.010">
-    <title>1:00 AM Goal Rush: Liverpool vs Fulham • 12 September Premier League 2026/2027</title>
+  <programme start="20260913140000 +1000" stop="20260913180000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.041">
+    <title>4:00 PM Brumbies vs Waratahs Super Rugby AUS Round 1 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913235000 +1000" stop="20260914035000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.011">
-    <title>1:50 AM Chelsea vs Hull City Premier League Matchweek 4 2026/2027</title>
+  <programme start="20260913140000 +1000" stop="20260913180000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.042">
+    <title>4:00 PM Race Day Part 1: China MXGP 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913235000 +1000" stop="20260914035000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.012">
-    <title>1:50 AM Liverpool vs Fulham Premier League Matchweek 4 2026/2027</title>
+  <programme start="20260913150000 +1000" stop="20260913190000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.043">
+    <title>5:00 PM Southland vs Bay of Plenty NPC Round 7 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913235000 +1000" stop="20260914035000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.013">
-    <title>1:50 AM England vs Australia WXV 2026</title>
+  <programme start="20260913170000 +1000" stop="20260913210000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.044">
+    <title>7:00 PM Race Day Part 2: China MXGP 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913235000 +1000" stop="20260914035000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.014">
-    <title>1:50 AM Aston Villa vs Nottingham Forest Premier League Matchweek 4 2026/2027</title>
+  <programme start="20260913172500 +1000" stop="20260913212500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.045">
+    <title>7:25 PM Gimcheon vs Gangwon K League 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913235000 +1000" stop="20260914035000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.015">
-    <title>1:50 AM Bournemouth vs Brentford Premier League Matchweek 4 2026/2027</title>
+  <programme start="20260913192500 +1000" stop="20260913232500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.046">
+    <title>9:25 PM Urawa Red Diamonds vs Fagiano Okayama J.League 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913235000 +1000" stop="20260914035000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.016">
-    <title>1:50 AM Crystal Palace vs Ipswich Town Premier League Matchweek 4 2026/2027</title>
+  <programme start="20260913195500 +1000" stop="20260913235500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.047">
+    <title>9:55 PM Gwangju vs Anyang K League 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913000000 +1000" stop="20260913040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.017">
-    <title>2:00 AM Cardiff Ultimate Sevens Round 1 2026</title>
+  <programme start="20260913205000 +1000" stop="20260914005000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.048">
+    <title>10:50 PM Manchester United vs Chelsea WSL 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913000000 +1000" stop="20260913040000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.018">
-    <title>2:00 AM SS9 Maria las Cruces 1 WRC Chile 2026</title>
+  <programme start="20260913220000 +1000" stop="20260914020000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.049">
+    <title>12:00 AM Coventry City vs Brighton &amp; Hove Albion Premier League Matchweek 4 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913010000 +1000" stop="20260913050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.019">
-    <title>3:00 AM Kamiji vs De Groot Women\`s WC Singles Final US Open 2026</title>
+  <programme start="20260913225000 +1000" stop="20260914025000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.050">
+    <title>12:50 AM Everton vs Charlton Athletic WSL 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913010000 +1000" stop="20260913050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.020">
-    <title>3:00 AM Oda vs Hewett Men\`s WC Singles Final US Open 2026</title>
+  <programme start="20260913225000 +1000" stop="20260914025000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.051">
+    <title>12:50 AM Liverpool vs Tottenham Hotspur WSL 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260913010000 +1000" stop="20260913050000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.021">
-    <title>3:00 AM Vink vs Schroder Quad WC Final US Open 2026</title>
+  <programme start="20260913225000 +1000" stop="20260914025000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.052">
+    <title>12:50 AM Birmingham City vs Brighton &amp; Hove Albion WSL 2026/27</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260913230000 +1000" stop="20260914030000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.053">
+    <title>1:00 AM SS14 BioBio 1 WRC Chile 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260913233500 +1000" stop="20260914033500 +1000" channel="custom.AU.STAN.AU.STAN.ALT.054">
+    <title>1:35 AM Arsenal vs Crystal Palace WSL 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14074,108 +14084,183 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.DIRTVISION.DIRT.01">
+  <programme start="20260912174500 -0400" stop="20260912214500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>9:45 AM Can Am Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260912181500 -0400" stop="20260912221500 -0400" channel="custom.DIRTVISION.DIRT.02">
+    <title>10:15 AM Cedar Lake Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.DIRTVISION.DIRT.03">
     <title>10:30 AM Sharon Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.DIRTVISION.DIRT.02">
-    <title>10:30 AM Attica Raceway Park</title>
+  <programme start="20260912191500 -0400" stop="20260912231500 -0400" channel="custom.DIRTVISION.DIRT.04">
+    <title>11:15 AM Dodge City Raceway Park</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260912191500 -0400" stop="20260912231500 -0400" channel="custom.DIRTVISION.DIRT.03">
-    <title>11:15 AM Jacksonville Speedway</title>
-    <category>Sports</category>
-    <desc>Zulip #dirtvision • DIRTVISION</desc>
-  </programme>
-  <programme start="20260912193000 -0400" stop="20260912233000 -0400" channel="custom.DIRTVISION.DIRT.04">
+  <programme start="20260912193000 -0400" stop="20260912233000 -0400" channel="custom.DIRTVISION.DIRT.05">
     <title>11:30 AM DIRT Zone</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
+  <programme start="20260912194500 -0400" stop="20260912234500 -0400" channel="custom.DIRTVISION.DIRT.06">
+    <title>11:45 AM Moberly Motorsports Park</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260912174500 -0400" stop="20260912214500 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
+    <title>9:45 AM Can Am Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260912181500 -0400" stop="20260912221500 -0400" channel="custom.DIRTVISION.DIRT.ALT.02">
+    <title>10:15 AM Cedar Lake Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.DIRTVISION.DIRT.ALT.03">
     <title>10:30 AM Sharon Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.DIRTVISION.DIRT.ALT.02">
-    <title>10:30 AM Attica Raceway Park</title>
+  <programme start="20260912191500 -0400" stop="20260912231500 -0400" channel="custom.DIRTVISION.DIRT.ALT.04">
+    <title>11:15 AM Dodge City Raceway Park</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260912191500 -0400" stop="20260912231500 -0400" channel="custom.DIRTVISION.DIRT.ALT.03">
-    <title>11:15 AM Jacksonville Speedway</title>
-    <category>Sports</category>
-    <desc>Zulip #dirtvision • DIRTVISION</desc>
-  </programme>
-  <programme start="20260912193000 -0400" stop="20260912233000 -0400" channel="custom.DIRTVISION.DIRT.ALT.04">
+  <programme start="20260912193000 -0400" stop="20260912233000 -0400" channel="custom.DIRTVISION.DIRT.ALT.05">
     <title>11:30 AM DIRT Zone</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20260911200000 -0400" stop="20260912000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
-    <title>12:00 PM BKFC 93 Hollywood Perdomo vs Garrett</title>
+  <programme start="20260912194500 -0400" stop="20260912234500 -0400" channel="custom.DIRTVISION.DIRT.ALT.06">
+    <title>11:45 AM Moberly Motorsports Park</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20260912140000 -0400" stop="20260912180000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+    <title>6:00 AM PRELIMS Noche UFC</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260911220000 -0400" stop="20260912020000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
-    <title>2:00 PM GCW Mind Your Business</title>
+  <programme start="20260912140000 -0400" stop="20260912180000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
+    <title>6:00 AM PRELIMS Noche UFC</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260911203000 -0400" stop="20260912003000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
-    <title>12:30 PM Cage Fury FC 161</title>
+  <programme start="20260912170000 -0400" stop="20260912210000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+    <title>9:00 AM Noche UFC Silva vs Delgado</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260911200000 -0400" stop="20260912000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
-    <title>12:00 PM Marquez vs Sanchez</title>
+  <programme start="20260912170000 -0400" stop="20260912210000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+    <title>9:00 AM Noche UFC Silva vs Delgado</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260911173000 -0400" stop="20260911213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.07">
+  <programme start="20260912200000 -0400" stop="20260913000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
+    <title>12:00 PM Zuffa Boxing Garcia vs Benn</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912180000 -0400" stop="20260912220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.07">
+    <title>10:00 AM FLEX Wrestling Hangar Havoc</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912170000 -0400" stop="20260912210000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.11">
+    <title>9:00 AM Fight to Win 324</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260912173000 -0400" stop="20260912213000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.12">
     <title>9:30 AM World 100 at Eldora</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912091500 -0400" stop="20260912131500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.09">
-    <title>1:15 AM USAC Road Racing at Road Atlanta</title>
+  <programme start="20260913090000 -0400" stop="20260913130000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.14">
+    <title>1:00 AM USAC Road Racing at Road Atlanta</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912181500 -0400" stop="20260912221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.11">
-    <title>10:15 AM USAC Commonwealth Clash at Lernerville</title>
+  <programme start="20260913184500 -0400" stop="20260913224500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.15">
+    <title>10:45 AM USAC Commonwealth Clash at Lernerville</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912181500 -0400" stop="20260912221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.12">
-    <title>10:15 AM Rebel Night at Autodrome</title>
+  <programme start="20260913180000 -0400" stop="20260913220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.16">
+    <title>10:00 AM Race of Champions Weekend at Lake Erie</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912190000 -0400" stop="20260912230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.13">
-    <title>11:00 AM Race of Champions Weekend at Lake Erie</title>
+  <programme start="20260913113000 -0400" stop="20260913153000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.17">
+    <title>3:30 AM NASCAR Youth Series at American QMA</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912190000 -0400" stop="20260912230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.14">
-    <title>11:00 AM Cup Time STL Short Track Classic at Belle Clair</title>
+  <programme start="20260913163000 -0400" stop="20260913203000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.18">
+    <title>8:30 AM CARS Tour at Tri County</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.15">
+  <programme start="20260913170000 -0400" stop="20260913210000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.20">
+    <title>9:00 AM Super Late Models at Berlin</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913180000 -0400" stop="20260913220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.21">
+    <title>10:00 AM Championship Night at South Boston</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913190000 -0400" stop="20260913230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.22">
+    <title>11:00 AM USAC Avanti Western States Midgets at Ventura</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913190000 -0400" stop="20260913230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.23">
+    <title>11:00 AM Virginia Sprint Cars at Langley</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913204500 -0400" stop="20260914004500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.24">
+    <title>12:45 PM NARC 410 Sprints at Antioch</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913214500 -0400" stop="20260914014500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.25">
+    <title>1:45 PM CARS Tour West at Orange Show</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913174500 -0400" stop="20260913214500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.26">
+    <title>9:45 AM Can Am Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913181500 -0400" stop="20260913221500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.27">
+    <title>10:15 AM Cedar Lake Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20260913183000 -0400" stop="20260913223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.28">
     <title>10:30 AM Sharon Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912183000 -0400" stop="20260912223000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.16">
-    <title>10:30 AM Attica Raceway Park</title>
+  <programme start="20260913191500 -0400" stop="20260913231500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.29">
+    <title>11:15 AM Dodge City Raceway Park</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260912191500 -0400" stop="20260912231500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.17">
-    <title>11:15 AM Jacksonville Speedway</title>
+  <programme start="20260913194500 -0400" stop="20260913234500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.30">
+    <title>11:45 AM Moberly Motorsports Park</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
@@ -14301,11 +14386,6 @@
   </programme>
   <programme start="20260914191500 -0400" stop="20260914231500 -0400" channel="custom.PAY.PER.VIEW.PPV.25">
     <title>11:15 AM World of Outlaws Sprint Cars Dodge City</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260914120000 -0400" stop="20260915000000 -0400" channel="custom.PAY.PER.VIEW.PPV.ALT.001">
-    <title>4:00 AM One Samurai 3: 09:30</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

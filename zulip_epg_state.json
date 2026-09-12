@@ -4,75 +4,107 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:30 AM Sharon Speedway",
+          "display_title": "9:45 AM Can Am Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
-          "title": "Sharon Speedway"
+          "start": "2026-09-12T17:45:00-04:00",
+          "stop": "2026-09-12T21:45:00-04:00",
+          "title": "Can Am Speedway"
         },
         {
-          "display_title": "10:30 AM Attica Raceway Park",
+          "display_title": "10:15 AM Cedar Lake Speedway",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
-          "title": "Attica Raceway Park"
-        },
-        {
-          "display_title": "11:15 AM Jacksonville Speedway",
-          "slot": "DIRT 03",
-          "slot_norm": "DIRT 3",
-          "start": "2026-09-12T19:15:00-04:00",
-          "stop": "2026-09-12T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
-        },
-        {
-          "display_title": "11:30 AM DIRT Zone",
-          "slot": "DIRT 04",
-          "slot_norm": "DIRT 4",
-          "start": "2026-09-12T19:30:00-04:00",
-          "stop": "2026-09-12T23:30:00-04:00",
-          "title": "DIRT Zone"
+          "start": "2026-09-12T18:15:00-04:00",
+          "stop": "2026-09-12T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
         },
         {
           "display_title": "10:30 AM Sharon Speedway",
-          "slot": "DIRT ALT 01",
-          "slot_norm": "DIRT ALT 1",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
           "start": "2026-09-12T18:30:00-04:00",
           "stop": "2026-09-12T22:30:00-04:00",
           "title": "Sharon Speedway"
         },
         {
-          "display_title": "10:30 AM Attica Raceway Park",
-          "slot": "DIRT ALT 02",
-          "slot_norm": "DIRT ALT 2",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
-          "title": "Attica Raceway Park"
-        },
-        {
-          "display_title": "11:15 AM Jacksonville Speedway",
-          "slot": "DIRT ALT 03",
-          "slot_norm": "DIRT ALT 3",
+          "display_title": "11:15 AM Dodge City Raceway Park",
+          "slot": "DIRT 04",
+          "slot_norm": "DIRT 4",
           "start": "2026-09-12T19:15:00-04:00",
           "stop": "2026-09-12T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
+          "title": "Dodge City Raceway Park"
         },
         {
           "display_title": "11:30 AM DIRT Zone",
-          "slot": "DIRT ALT 04",
-          "slot_norm": "DIRT ALT 4",
+          "slot": "DIRT 05",
+          "slot_norm": "DIRT 5",
           "start": "2026-09-12T19:30:00-04:00",
           "stop": "2026-09-12T23:30:00-04:00",
           "title": "DIRT Zone"
+        },
+        {
+          "display_title": "11:45 AM Moberly Motorsports Park",
+          "slot": "DIRT 06",
+          "slot_norm": "DIRT 6",
+          "start": "2026-09-12T19:45:00-04:00",
+          "stop": "2026-09-12T23:45:00-04:00",
+          "title": "Moberly Motorsports Park"
+        },
+        {
+          "display_title": "9:45 AM Can Am Speedway",
+          "slot": "DIRT ALT 01",
+          "slot_norm": "DIRT ALT 1",
+          "start": "2026-09-12T17:45:00-04:00",
+          "stop": "2026-09-12T21:45:00-04:00",
+          "title": "Can Am Speedway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "DIRT ALT 02",
+          "slot_norm": "DIRT ALT 2",
+          "start": "2026-09-12T18:15:00-04:00",
+          "stop": "2026-09-12T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "10:30 AM Sharon Speedway",
+          "slot": "DIRT ALT 03",
+          "slot_norm": "DIRT ALT 3",
+          "start": "2026-09-12T18:30:00-04:00",
+          "stop": "2026-09-12T22:30:00-04:00",
+          "title": "Sharon Speedway"
+        },
+        {
+          "display_title": "11:15 AM Dodge City Raceway Park",
+          "slot": "DIRT ALT 04",
+          "slot_norm": "DIRT ALT 4",
+          "start": "2026-09-12T19:15:00-04:00",
+          "stop": "2026-09-12T23:15:00-04:00",
+          "title": "Dodge City Raceway Park"
+        },
+        {
+          "display_title": "11:30 AM DIRT Zone",
+          "slot": "DIRT ALT 05",
+          "slot_norm": "DIRT ALT 5",
+          "start": "2026-09-12T19:30:00-04:00",
+          "stop": "2026-09-12T23:30:00-04:00",
+          "title": "DIRT Zone"
+        },
+        {
+          "display_title": "11:45 AM Moberly Motorsports Park",
+          "slot": "DIRT ALT 06",
+          "slot_norm": "DIRT ALT 6",
+          "start": "2026-09-12T19:45:00-04:00",
+          "stop": "2026-09-12T23:45:00-04:00",
+          "title": "Moberly Motorsports Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 623694796,
-      "message_timestamp": 1789185634,
+      "message_id": 623740365,
+      "message_timestamp": 1789216235,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-12T04:45:49.034682+00:00"
+      "updated_at": "2026-09-12T15:38:44.219826+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -656,135 +688,215 @@
           "start": "2026-09-14T19:15:00-04:00",
           "stop": "2026-09-14T23:15:00-04:00",
           "title": "World of Outlaws Sprint Cars Dodge City"
-        },
-        {
-          "display_title": "4:00 AM One Samurai 3: 09:30",
-          "slot": "PPV ALT 001",
-          "slot_norm": "PPV ALT 1",
-          "start": "2026-09-14T12:00:00-04:00",
-          "stop": "2026-09-15T00:00:00-04:00",
-          "title": "One Samurai 3: 09:30"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 623716293,
-      "message_timestamp": 1789200093,
+      "message_id": 623745396,
+      "message_timestamp": 1789219835,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-12T10:58:39.390067+00:00"
+      "updated_at": "2026-09-12T15:38:44.357355+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "12:00 PM BKFC 93 Hollywood Perdomo vs Garrett",
+          "display_title": "6:00 AM PRELIMS Noche UFC",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-11T20:00:00-04:00",
-          "stop": "2026-09-12T00:00:00-04:00",
-          "title": "BKFC 93 Hollywood Perdomo vs Garrett"
+          "start": "2026-09-12T14:00:00-04:00",
+          "stop": "2026-09-12T18:00:00-04:00",
+          "title": "PRELIMS Noche UFC"
         },
         {
-          "display_title": "2:00 PM GCW Mind Your Business",
+          "display_title": "6:00 AM PRELIMS Noche UFC",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-09-12T14:00:00-04:00",
+          "stop": "2026-09-12T18:00:00-04:00",
+          "title": "PRELIMS Noche UFC"
+        },
+        {
+          "display_title": "9:00 AM Noche UFC Silva vs Delgado",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-09-11T22:00:00-04:00",
-          "stop": "2026-09-12T02:00:00-04:00",
-          "title": "GCW Mind Your Business"
+          "start": "2026-09-12T17:00:00-04:00",
+          "stop": "2026-09-12T21:00:00-04:00",
+          "title": "Noche UFC Silva vs Delgado"
         },
         {
-          "display_title": "12:30 PM Cage Fury FC 161",
+          "display_title": "9:00 AM Noche UFC Silva vs Delgado",
           "slot": "PPV2 04",
           "slot_norm": "PPV2 4",
-          "start": "2026-09-11T20:30:00-04:00",
-          "stop": "2026-09-12T00:30:00-04:00",
-          "title": "Cage Fury FC 161"
+          "start": "2026-09-12T17:00:00-04:00",
+          "stop": "2026-09-12T21:00:00-04:00",
+          "title": "Noche UFC Silva vs Delgado"
         },
         {
-          "display_title": "12:00 PM Marquez vs Sanchez",
+          "display_title": "12:00 PM Zuffa Boxing Garcia vs Benn",
           "slot": "PPV2 05",
           "slot_norm": "PPV2 5",
-          "start": "2026-09-11T20:00:00-04:00",
-          "stop": "2026-09-12T00:00:00-04:00",
-          "title": "Marquez vs Sanchez"
+          "start": "2026-09-12T20:00:00-04:00",
+          "stop": "2026-09-13T00:00:00-04:00",
+          "title": "Zuffa Boxing Garcia vs Benn"
+        },
+        {
+          "display_title": "10:00 AM FLEX Wrestling Hangar Havoc",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-09-12T18:00:00-04:00",
+          "stop": "2026-09-12T22:00:00-04:00",
+          "title": "FLEX Wrestling Hangar Havoc"
+        },
+        {
+          "display_title": "9:00 AM Fight to Win 324",
+          "slot": "PPV2 11",
+          "slot_norm": "PPV2 11",
+          "start": "2026-09-12T17:00:00-04:00",
+          "stop": "2026-09-12T21:00:00-04:00",
+          "title": "Fight to Win 324"
         },
         {
           "display_title": "9:30 AM World 100 at Eldora",
-          "slot": "PPV2 07",
-          "slot_norm": "PPV2 7",
-          "start": "2026-09-11T17:30:00-04:00",
-          "stop": "2026-09-11T21:30:00-04:00",
+          "slot": "PPV2 12",
+          "slot_norm": "PPV2 12",
+          "start": "2026-09-12T17:30:00-04:00",
+          "stop": "2026-09-12T21:30:00-04:00",
           "title": "World 100 at Eldora"
         },
         {
-          "display_title": "1:15 AM USAC Road Racing at Road Atlanta",
-          "slot": "PPV2 09",
-          "slot_norm": "PPV2 9",
-          "start": "2026-09-12T09:15:00-04:00",
-          "stop": "2026-09-12T13:15:00-04:00",
+          "display_title": "1:00 AM USAC Road Racing at Road Atlanta",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-09-13T09:00:00-04:00",
+          "stop": "2026-09-13T13:00:00-04:00",
           "title": "USAC Road Racing at Road Atlanta"
         },
         {
-          "display_title": "10:15 AM USAC Commonwealth Clash at Lernerville",
-          "slot": "PPV2 11",
-          "slot_norm": "PPV2 11",
-          "start": "2026-09-12T18:15:00-04:00",
-          "stop": "2026-09-12T22:15:00-04:00",
+          "display_title": "10:45 AM USAC Commonwealth Clash at Lernerville",
+          "slot": "PPV2 15",
+          "slot_norm": "PPV2 15",
+          "start": "2026-09-13T18:45:00-04:00",
+          "stop": "2026-09-13T22:45:00-04:00",
           "title": "USAC Commonwealth Clash at Lernerville"
         },
         {
-          "display_title": "10:15 AM Rebel Night at Autodrome",
-          "slot": "PPV2 12",
-          "slot_norm": "PPV2 12",
-          "start": "2026-09-12T18:15:00-04:00",
-          "stop": "2026-09-12T22:15:00-04:00",
-          "title": "Rebel Night at Autodrome"
-        },
-        {
-          "display_title": "11:00 AM Race of Champions Weekend at Lake Erie",
-          "slot": "PPV2 13",
-          "slot_norm": "PPV2 13",
-          "start": "2026-09-12T19:00:00-04:00",
-          "stop": "2026-09-12T23:00:00-04:00",
+          "display_title": "10:00 AM Race of Champions Weekend at Lake Erie",
+          "slot": "PPV2 16",
+          "slot_norm": "PPV2 16",
+          "start": "2026-09-13T18:00:00-04:00",
+          "stop": "2026-09-13T22:00:00-04:00",
           "title": "Race of Champions Weekend at Lake Erie"
         },
         {
-          "display_title": "11:00 AM Cup Time STL Short Track Classic at Belle Clair",
-          "slot": "PPV2 14",
-          "slot_norm": "PPV2 14",
-          "start": "2026-09-12T19:00:00-04:00",
-          "stop": "2026-09-12T23:00:00-04:00",
-          "title": "Cup Time STL Short Track Classic at Belle Clair"
+          "display_title": "3:30 AM NASCAR Youth Series at American QMA",
+          "slot": "PPV2 17",
+          "slot_norm": "PPV2 17",
+          "start": "2026-09-13T11:30:00-04:00",
+          "stop": "2026-09-13T15:30:00-04:00",
+          "title": "NASCAR Youth Series at American QMA"
+        },
+        {
+          "display_title": "8:30 AM CARS Tour at Tri County",
+          "slot": "PPV2 18",
+          "slot_norm": "PPV2 18",
+          "start": "2026-09-13T16:30:00-04:00",
+          "stop": "2026-09-13T20:30:00-04:00",
+          "title": "CARS Tour at Tri County"
+        },
+        {
+          "display_title": "9:00 AM Super Late Models at Berlin",
+          "slot": "PPV2 20",
+          "slot_norm": "PPV2 20",
+          "start": "2026-09-13T17:00:00-04:00",
+          "stop": "2026-09-13T21:00:00-04:00",
+          "title": "Super Late Models at Berlin"
+        },
+        {
+          "display_title": "10:00 AM Championship Night at South Boston",
+          "slot": "PPV2 21",
+          "slot_norm": "PPV2 21",
+          "start": "2026-09-13T18:00:00-04:00",
+          "stop": "2026-09-13T22:00:00-04:00",
+          "title": "Championship Night at South Boston"
+        },
+        {
+          "display_title": "11:00 AM USAC Avanti Western States Midgets at Ventura",
+          "slot": "PPV2 22",
+          "slot_norm": "PPV2 22",
+          "start": "2026-09-13T19:00:00-04:00",
+          "stop": "2026-09-13T23:00:00-04:00",
+          "title": "USAC Avanti Western States Midgets at Ventura"
+        },
+        {
+          "display_title": "11:00 AM Virginia Sprint Cars at Langley",
+          "slot": "PPV2 23",
+          "slot_norm": "PPV2 23",
+          "start": "2026-09-13T19:00:00-04:00",
+          "stop": "2026-09-13T23:00:00-04:00",
+          "title": "Virginia Sprint Cars at Langley"
+        },
+        {
+          "display_title": "12:45 PM NARC 410 Sprints at Antioch",
+          "slot": "PPV2 24",
+          "slot_norm": "PPV2 24",
+          "start": "2026-09-13T20:45:00-04:00",
+          "stop": "2026-09-14T00:45:00-04:00",
+          "title": "NARC 410 Sprints at Antioch"
+        },
+        {
+          "display_title": "1:45 PM CARS Tour West at Orange Show",
+          "slot": "PPV2 25",
+          "slot_norm": "PPV2 25",
+          "start": "2026-09-13T21:45:00-04:00",
+          "stop": "2026-09-14T01:45:00-04:00",
+          "title": "CARS Tour West at Orange Show"
+        },
+        {
+          "display_title": "9:45 AM Can Am Speedway",
+          "slot": "PPV2 26",
+          "slot_norm": "PPV2 26",
+          "start": "2026-09-13T17:45:00-04:00",
+          "stop": "2026-09-13T21:45:00-04:00",
+          "title": "Can Am Speedway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "PPV2 27",
+          "slot_norm": "PPV2 27",
+          "start": "2026-09-13T18:15:00-04:00",
+          "stop": "2026-09-13T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
         },
         {
           "display_title": "10:30 AM Sharon Speedway",
-          "slot": "PPV2 15",
-          "slot_norm": "PPV2 15",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
+          "slot": "PPV2 28",
+          "slot_norm": "PPV2 28",
+          "start": "2026-09-13T18:30:00-04:00",
+          "stop": "2026-09-13T22:30:00-04:00",
           "title": "Sharon Speedway"
         },
         {
-          "display_title": "10:30 AM Attica Raceway Park",
-          "slot": "PPV2 16",
-          "slot_norm": "PPV2 16",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
-          "title": "Attica Raceway Park"
+          "display_title": "11:15 AM Dodge City Raceway Park",
+          "slot": "PPV2 29",
+          "slot_norm": "PPV2 29",
+          "start": "2026-09-13T19:15:00-04:00",
+          "stop": "2026-09-13T23:15:00-04:00",
+          "title": "Dodge City Raceway Park"
         },
         {
-          "display_title": "11:15 AM Jacksonville Speedway",
-          "slot": "PPV2 17",
-          "slot_norm": "PPV2 17",
-          "start": "2026-09-12T19:15:00-04:00",
-          "stop": "2026-09-12T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
+          "display_title": "11:45 AM Moberly Motorsports Park",
+          "slot": "PPV2 30",
+          "slot_norm": "PPV2 30",
+          "start": "2026-09-13T19:45:00-04:00",
+          "stop": "2026-09-13T23:45:00-04:00",
+          "title": "Moberly Motorsports Park"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 623539890,
-      "message_timestamp": 1789129865,
+      "message_id": 623743062,
+      "message_timestamp": 1789218041,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-11T16:37:19.454866+00:00"
+      "updated_at": "2026-09-12T15:38:44.455321+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -849,210 +961,226 @@
       "events": [
         {
           "display_title": "4:20 AM Tottenham Hotspur vs Everton Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
+          "slot": "AU STAN ALT 028",
+          "slot_norm": "AU STAN ALT 28",
           "start": "2026-09-13T02:20:00+10:00",
           "stop": "2026-09-13T06:20:00+10:00",
           "title": "Tottenham Hotspur vs Everton Premier League Matchweek 4 2026/2027"
         },
         {
           "display_title": "4:30 AM Konduri/Latak vs Gabet/GonzalezGalino Junior Boys\\` Doubles Final US Open 2026",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
+          "slot": "AU STAN ALT 029",
+          "slot_norm": "AU STAN ALT 29",
           "start": "2026-09-13T02:30:00+10:00",
           "stop": "2026-09-13T06:30:00+10:00",
           "title": "Konduri/Latak vs Gabet/GonzalezGalino Junior Boys\\` Doubles Final US Open 2026"
         },
         {
           "display_title": "6:50 AM Sunderland vs Arsenal Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
+          "slot": "AU STAN ALT 030",
+          "slot_norm": "AU STAN ALT 30",
           "start": "2026-09-13T04:50:00+10:00",
           "stop": "2026-09-13T08:50:00+10:00",
           "title": "Sunderland vs Arsenal Premier League Matchweek 4 2026/2027"
         },
         {
           "display_title": "6:50 AM • Sunderland vs Arsenal Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
+          "slot": "AU STAN ALT 031",
+          "slot_norm": "AU STAN ALT 31",
           "start": "2026-09-13T04:50:00+10:00",
           "stop": "2026-09-13T08:50:00+10:00",
           "title": "• Sunderland vs Arsenal Premier League Matchweek 4 2026/2027"
         },
         {
-          "display_title": "7:00 PM Canterbury vs Wellington NPC Round 7 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
+          "display_title": "8:00 AM Sabalenka vs Rybakina Women\\`s Singles Final US Open 2026",
+          "slot": "AU STAN ALT 032",
+          "slot_norm": "AU STAN ALT 32",
+          "start": "2026-09-13T06:00:00+10:00",
+          "stop": "2026-09-13T10:00:00+10:00",
+          "title": "Sabalenka vs Rybakina Women\\`s Singles Final US Open 2026"
+        },
+        {
+          "display_title": "8:00 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Fourth Test 2026",
+          "slot": "AU STAN ALT 033",
+          "slot_norm": "AU STAN ALT 33",
+          "start": "2026-09-13T06:00:00+10:00",
+          "stop": "2026-09-13T10:00:00+10:00",
+          "title": "South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Fourth Test 2026"
+        },
+        {
+          "display_title": "8:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Fourth Test 2026",
+          "slot": "AU STAN ALT 034",
+          "slot_norm": "AU STAN ALT 34",
+          "start": "2026-09-13T06:00:00+10:00",
+          "stop": "2026-09-13T10:00:00+10:00",
+          "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Fourth Test 2026"
+        },
+        {
+          "display_title": "8:01 AM SS12 Maria las Cruces 2 WRC Chile 2026",
+          "slot": "AU STAN ALT 035",
+          "slot_norm": "AU STAN ALT 35",
+          "start": "2026-09-13T06:01:00+10:00",
+          "stop": "2026-09-13T10:01:00+10:00",
+          "title": "SS12 Maria las Cruces 2 WRC Chile 2026"
+        },
+        {
+          "display_title": "9:30 AM PL Saturday Wrap: Matchweek 4 Sep 13",
+          "slot": "AU STAN ALT 036",
+          "slot_norm": "AU STAN ALT 36",
+          "start": "2026-09-13T07:30:00+10:00",
+          "stop": "2026-09-13T11:30:00+10:00",
+          "title": "PL Saturday Wrap: Matchweek 4 Sep 13"
+        },
+        {
+          "display_title": "10:30 AM San Diego Wave vs North Carolina Courage NWSL 2026",
+          "slot": "AU STAN ALT 037",
+          "slot_norm": "AU STAN ALT 37",
+          "start": "2026-09-13T08:30:00+10:00",
+          "stop": "2026-09-13T12:30:00+10:00",
+          "title": "San Diego Wave vs North Carolina Courage NWSL 2026"
+        },
+        {
+          "display_title": "11:30 AM Hawke\\`s Bay vs Wellington Farah Palmer Cup Round 3 2026",
+          "slot": "AU STAN ALT 038",
+          "slot_norm": "AU STAN ALT 38",
+          "start": "2026-09-13T09:30:00+10:00",
+          "stop": "2026-09-13T13:30:00+10:00",
+          "title": "Hawke\\`s Bay vs Wellington Farah Palmer Cup Round 3 2026"
+        },
+        {
+          "display_title": "12:00 PM Seattle Reign vs Bay FC NWSL 2026",
+          "slot": "AU STAN ALT 039",
+          "slot_norm": "AU STAN ALT 39",
+          "start": "2026-09-13T10:00:00+10:00",
+          "stop": "2026-09-13T14:00:00+10:00",
+          "title": "Seattle Reign vs Bay FC NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM Hawke\\`s Bay vs North Harbour NPC Round 7 2026",
+          "slot": "AU STAN ALT 040",
+          "slot_norm": "AU STAN ALT 40",
+          "start": "2026-09-13T12:00:00+10:00",
+          "stop": "2026-09-13T16:00:00+10:00",
+          "title": "Hawke\\`s Bay vs North Harbour NPC Round 7 2026"
+        },
+        {
+          "display_title": "4:00 PM Brumbies vs Waratahs Super Rugby AUS Round 1 2026",
+          "slot": "AU STAN ALT 041",
+          "slot_norm": "AU STAN ALT 41",
+          "start": "2026-09-13T14:00:00+10:00",
+          "stop": "2026-09-13T18:00:00+10:00",
+          "title": "Brumbies vs Waratahs Super Rugby AUS Round 1 2026"
+        },
+        {
+          "display_title": "4:00 PM Race Day Part 1: China MXGP 2026",
+          "slot": "AU STAN ALT 042",
+          "slot_norm": "AU STAN ALT 42",
+          "start": "2026-09-13T14:00:00+10:00",
+          "stop": "2026-09-13T18:00:00+10:00",
+          "title": "Race Day Part 1: China MXGP 2026"
+        },
+        {
+          "display_title": "5:00 PM Southland vs Bay of Plenty NPC Round 7 2026",
+          "slot": "AU STAN ALT 043",
+          "slot_norm": "AU STAN ALT 43",
+          "start": "2026-09-13T15:00:00+10:00",
+          "stop": "2026-09-13T19:00:00+10:00",
+          "title": "Southland vs Bay of Plenty NPC Round 7 2026"
+        },
+        {
+          "display_title": "7:00 PM Race Day Part 2: China MXGP 2026",
+          "slot": "AU STAN ALT 044",
+          "slot_norm": "AU STAN ALT 44",
           "start": "2026-09-13T17:00:00+10:00",
           "stop": "2026-09-13T21:00:00+10:00",
-          "title": "Canterbury vs Wellington NPC Round 7 2026"
+          "title": "Race Day Part 2: China MXGP 2026"
         },
         {
-          "display_title": "7:23 PM Ulsan vs Incheon K League 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-13T17:23:00+10:00",
-          "stop": "2026-09-13T21:23:00+10:00",
-          "title": "Ulsan vs Incheon K League 2026"
-        },
-        {
-          "display_title": "7:25 PM Jeonbuk vs Seoul K League 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
+          "display_title": "7:25 PM Gimcheon vs Gangwon K League 2026",
+          "slot": "AU STAN ALT 045",
+          "slot_norm": "AU STAN ALT 45",
           "start": "2026-09-13T17:25:00+10:00",
           "stop": "2026-09-13T21:25:00+10:00",
-          "title": "Jeonbuk vs Seoul K League 2026"
+          "title": "Gimcheon vs Gangwon K League 2026"
         },
         {
-          "display_title": "9:50 PM Japan vs USA Pacific Nations Cup Semi Final 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-13T19:50:00+10:00",
-          "stop": "2026-09-13T23:50:00+10:00",
-          "title": "Japan vs USA Pacific Nations Cup Semi Final 2026"
+          "display_title": "9:25 PM Urawa Red Diamonds vs Fagiano Okayama J.League 2026",
+          "slot": "AU STAN ALT 046",
+          "slot_norm": "AU STAN ALT 46",
+          "start": "2026-09-13T19:25:00+10:00",
+          "stop": "2026-09-13T23:25:00+10:00",
+          "title": "Urawa Red Diamonds vs Fagiano Okayama J.League 2026"
         },
         {
-          "display_title": "9:55 PM Sanfrecce Hiroshima vs Cerezo Osaka J.League 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
+          "display_title": "9:55 PM Gwangju vs Anyang K League 2026",
+          "slot": "AU STAN ALT 047",
+          "slot_norm": "AU STAN ALT 47",
           "start": "2026-09-13T19:55:00+10:00",
           "stop": "2026-09-13T23:55:00+10:00",
-          "title": "Sanfrecce Hiroshima vs Cerezo Osaka J.League 2026"
+          "title": "Gwangju vs Anyang K League 2026"
         },
         {
-          "display_title": "9:55 PM Gamba Osaka vs FC Tokyo J.League 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-13T19:55:00+10:00",
-          "stop": "2026-09-13T23:55:00+10:00",
-          "title": "Gamba Osaka vs FC Tokyo J.League 2026"
+          "display_title": "10:50 PM Manchester United vs Chelsea WSL 2026/27",
+          "slot": "AU STAN ALT 048",
+          "slot_norm": "AU STAN ALT 48",
+          "start": "2026-09-13T20:50:00+10:00",
+          "stop": "2026-09-14T00:50:00+10:00",
+          "title": "Manchester United vs Chelsea WSL 2026/27"
         },
         {
-          "display_title": "9:55 PM Machida Zelvia vs Yokohama F. Marinos J.League 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-13T19:55:00+10:00",
-          "stop": "2026-09-13T23:55:00+10:00",
-          "title": "Machida Zelvia vs Yokohama F. Marinos J.League 2026"
+          "display_title": "12:00 AM Coventry City vs Brighton & Hove Albion Premier League Matchweek 4 2026/2027",
+          "slot": "AU STAN ALT 049",
+          "slot_norm": "AU STAN ALT 49",
+          "start": "2026-09-13T22:00:00+10:00",
+          "stop": "2026-09-14T02:00:00+10:00",
+          "title": "Coventry City vs Brighton & Hove Albion Premier League Matchweek 4 2026/2027"
         },
         {
-          "display_title": "11:35 PM West Ham United vs London City Lionesses WSL 2026/27",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-13T21:35:00+10:00",
-          "stop": "2026-09-14T01:35:00+10:00",
-          "title": "West Ham United vs London City Lionesses WSL 2026/27"
-        },
-        {
-          "display_title": "12:50 AM Griquas vs Pumas Currie Cup Final 2026",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
+          "display_title": "12:50 AM Everton vs Charlton Athletic WSL 2026/27",
+          "slot": "AU STAN ALT 050",
+          "slot_norm": "AU STAN ALT 50",
           "start": "2026-09-13T22:50:00+10:00",
           "stop": "2026-09-14T02:50:00+10:00",
-          "title": "Griquas vs Pumas Currie Cup Final 2026"
+          "title": "Everton vs Charlton Athletic WSL 2026/27"
         },
         {
-          "display_title": "1:00 AM Goal Rush: Liverpool vs Fulham • 12 September Premier League 2026/2027",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
+          "display_title": "12:50 AM Liverpool vs Tottenham Hotspur WSL 2026/27",
+          "slot": "AU STAN ALT 051",
+          "slot_norm": "AU STAN ALT 51",
+          "start": "2026-09-13T22:50:00+10:00",
+          "stop": "2026-09-14T02:50:00+10:00",
+          "title": "Liverpool vs Tottenham Hotspur WSL 2026/27"
+        },
+        {
+          "display_title": "12:50 AM Birmingham City vs Brighton & Hove Albion WSL 2026/27",
+          "slot": "AU STAN ALT 052",
+          "slot_norm": "AU STAN ALT 52",
+          "start": "2026-09-13T22:50:00+10:00",
+          "stop": "2026-09-14T02:50:00+10:00",
+          "title": "Birmingham City vs Brighton & Hove Albion WSL 2026/27"
+        },
+        {
+          "display_title": "1:00 AM SS14 BioBio 1 WRC Chile 2026",
+          "slot": "AU STAN ALT 053",
+          "slot_norm": "AU STAN ALT 53",
           "start": "2026-09-13T23:00:00+10:00",
           "stop": "2026-09-14T03:00:00+10:00",
-          "title": "Goal Rush: Liverpool vs Fulham • 12 September Premier League 2026/2027"
+          "title": "SS14 BioBio 1 WRC Chile 2026"
         },
         {
-          "display_title": "1:50 AM Chelsea vs Hull City Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-13T23:50:00+10:00",
-          "stop": "2026-09-14T03:50:00+10:00",
-          "title": "Chelsea vs Hull City Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Liverpool vs Fulham Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-13T23:50:00+10:00",
-          "stop": "2026-09-14T03:50:00+10:00",
-          "title": "Liverpool vs Fulham Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM England vs Australia WXV 2026",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-13T23:50:00+10:00",
-          "stop": "2026-09-14T03:50:00+10:00",
-          "title": "England vs Australia WXV 2026"
-        },
-        {
-          "display_title": "1:50 AM Aston Villa vs Nottingham Forest Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-13T23:50:00+10:00",
-          "stop": "2026-09-14T03:50:00+10:00",
-          "title": "Aston Villa vs Nottingham Forest Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Bournemouth vs Brentford Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-13T23:50:00+10:00",
-          "stop": "2026-09-14T03:50:00+10:00",
-          "title": "Bournemouth vs Brentford Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Crystal Palace vs Ipswich Town Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-09-13T23:50:00+10:00",
-          "stop": "2026-09-14T03:50:00+10:00",
-          "title": "Crystal Palace vs Ipswich Town Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "2:00 AM Cardiff Ultimate Sevens Round 1 2026",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-09-13T00:00:00+10:00",
-          "stop": "2026-09-13T04:00:00+10:00",
-          "title": "Cardiff Ultimate Sevens Round 1 2026"
-        },
-        {
-          "display_title": "2:00 AM SS9 Maria las Cruces 1 WRC Chile 2026",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-09-13T00:00:00+10:00",
-          "stop": "2026-09-13T04:00:00+10:00",
-          "title": "SS9 Maria las Cruces 1 WRC Chile 2026"
-        },
-        {
-          "display_title": "3:00 AM Kamiji vs De Groot Women\\`s WC Singles Final US Open 2026",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-09-13T01:00:00+10:00",
-          "stop": "2026-09-13T05:00:00+10:00",
-          "title": "Kamiji vs De Groot Women\\`s WC Singles Final US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Oda vs Hewett Men\\`s WC Singles Final US Open 2026",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-09-13T01:00:00+10:00",
-          "stop": "2026-09-13T05:00:00+10:00",
-          "title": "Oda vs Hewett Men\\`s WC Singles Final US Open 2026"
-        },
-        {
-          "display_title": "3:00 AM Vink vs Schroder Quad WC Final US Open 2026",
-          "slot": "AU STAN ALT 021",
-          "slot_norm": "AU STAN ALT 21",
-          "start": "2026-09-13T01:00:00+10:00",
-          "stop": "2026-09-13T05:00:00+10:00",
-          "title": "Vink vs Schroder Quad WC Final US Open 2026"
+          "display_title": "1:35 AM Arsenal vs Crystal Palace WSL 2026/27",
+          "slot": "AU STAN ALT 054",
+          "slot_norm": "AU STAN ALT 54",
+          "start": "2026-09-13T23:35:00+10:00",
+          "stop": "2026-09-14T03:35:00+10:00",
+          "title": "Arsenal vs Crystal Palace WSL 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 623726828,
-      "message_timestamp": 1789209032,
+      "message_id": 623747767,
+      "message_timestamp": 1789221671,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-12T10:58:39.688637+00:00"
+      "updated_at": "2026-09-12T15:38:44.584323+00:00"
     }
   },
   "version": 1
