@@ -7,72 +7,72 @@
           "display_title": "10:30 AM Sharon Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-11T18:30:00-04:00",
-          "stop": "2026-09-11T22:30:00-04:00",
+          "start": "2026-09-12T18:30:00-04:00",
+          "stop": "2026-09-12T22:30:00-04:00",
           "title": "Sharon Speedway"
         },
         {
           "display_title": "10:30 AM Attica Raceway Park",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-09-11T18:30:00-04:00",
-          "stop": "2026-09-11T22:30:00-04:00",
+          "start": "2026-09-12T18:30:00-04:00",
+          "stop": "2026-09-12T22:30:00-04:00",
           "title": "Attica Raceway Park"
         },
         {
           "display_title": "11:15 AM Jacksonville Speedway",
           "slot": "DIRT 03",
           "slot_norm": "DIRT 3",
-          "start": "2026-09-11T19:15:00-04:00",
-          "stop": "2026-09-11T23:15:00-04:00",
+          "start": "2026-09-12T19:15:00-04:00",
+          "stop": "2026-09-12T23:15:00-04:00",
           "title": "Jacksonville Speedway"
         },
         {
           "display_title": "11:30 AM DIRT Zone",
           "slot": "DIRT 04",
           "slot_norm": "DIRT 4",
-          "start": "2026-09-11T19:30:00-04:00",
-          "stop": "2026-09-11T23:30:00-04:00",
+          "start": "2026-09-12T19:30:00-04:00",
+          "stop": "2026-09-12T23:30:00-04:00",
           "title": "DIRT Zone"
         },
         {
           "display_title": "10:30 AM Sharon Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-11T18:30:00-04:00",
-          "stop": "2026-09-11T22:30:00-04:00",
+          "start": "2026-09-12T18:30:00-04:00",
+          "stop": "2026-09-12T22:30:00-04:00",
           "title": "Sharon Speedway"
         },
         {
           "display_title": "10:30 AM Attica Raceway Park",
           "slot": "DIRT ALT 02",
           "slot_norm": "DIRT ALT 2",
-          "start": "2026-09-11T18:30:00-04:00",
-          "stop": "2026-09-11T22:30:00-04:00",
+          "start": "2026-09-12T18:30:00-04:00",
+          "stop": "2026-09-12T22:30:00-04:00",
           "title": "Attica Raceway Park"
         },
         {
           "display_title": "11:15 AM Jacksonville Speedway",
           "slot": "DIRT ALT 03",
           "slot_norm": "DIRT ALT 3",
-          "start": "2026-09-11T19:15:00-04:00",
-          "stop": "2026-09-11T23:15:00-04:00",
+          "start": "2026-09-12T19:15:00-04:00",
+          "stop": "2026-09-12T23:15:00-04:00",
           "title": "Jacksonville Speedway"
         },
         {
           "display_title": "11:30 AM DIRT Zone",
           "slot": "DIRT ALT 04",
           "slot_norm": "DIRT ALT 4",
-          "start": "2026-09-11T19:30:00-04:00",
-          "stop": "2026-09-11T23:30:00-04:00",
+          "start": "2026-09-12T19:30:00-04:00",
+          "stop": "2026-09-12T23:30:00-04:00",
           "title": "DIRT Zone"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 623557480,
-      "message_timestamp": 1789134167,
+      "message_id": 623694796,
+      "message_timestamp": 1789185634,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-11T16:37:18.666929+00:00"
+      "updated_at": "2026-09-12T04:45:49.034682+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -168,277 +168,341 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:25 AM Greenock Morton vs Livingston",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-11T14:25:00-04:00",
-          "stop": "2026-09-11T18:25:00-04:00",
-          "title": "Greenock Morton vs Livingston"
+          "display_title": "11:20 PM West Bromwich Albion vs Queens Park Rangers",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-12T07:20:00-04:00",
+          "stop": "2026-09-12T11:20:00-04:00",
+          "title": "West Bromwich Albion vs Queens Park Rangers"
         },
         {
-          "display_title": "6:35 AM Venezia vs Fiorentina",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-11T14:35:00-04:00",
-          "stop": "2026-09-11T18:35:00-04:00",
-          "title": "Venezia vs Fiorentina"
+          "display_title": "11:20 PM Derby County vs Birmingham City",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-12T07:20:00-04:00",
+          "stop": "2026-09-12T11:20:00-04:00",
+          "title": "Derby County vs Birmingham City"
         },
         {
-          "display_title": "6:40 AM Stenhousemuir vs Heart of Midlothian",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-11T14:40:00-04:00",
-          "stop": "2026-09-11T18:40:00-04:00",
-          "title": "Stenhousemuir vs Heart of Midlothian"
+          "display_title": "11:35 PM West Ham United vs London City",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-12T07:35:00-04:00",
+          "stop": "2026-09-12T11:35:00-04:00",
+          "title": "West Ham United vs London City"
         },
         {
-          "display_title": "6:50 AM West Ham United vs Wrexham",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-11T14:50:00-04:00",
-          "stop": "2026-09-11T18:50:00-04:00",
-          "title": "West Ham United vs Wrexham"
+          "display_title": "12:50 AM Genoa vs Frosinone",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-12T08:50:00-04:00",
+          "stop": "2026-09-12T12:50:00-04:00",
+          "title": "Genoa vs Frosinone"
         },
         {
-          "display_title": "11:00 AM Noche UFC Ceremonial Weigh In",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-11T19:00:00-04:00",
-          "stop": "2026-09-11T23:00:00-04:00",
-          "title": "Noche UFC Ceremonial Weigh In"
+          "display_title": "1:30 AM Watford vs Stoke City",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-09-12T09:30:00-04:00",
+          "stop": "2026-09-12T13:30:00-04:00",
+          "title": "Watford vs Stoke City"
         },
         {
-          "display_title": "12:00 PM Garcia vs Benn: Ceremonial Weigh In",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-11T20:00:00-04:00",
-          "stop": "2026-09-12T00:00:00-04:00",
-          "title": "Garcia vs Benn: Ceremonial Weigh In"
+          "display_title": "1:30 AM Swansea City vs Burnley",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-09-12T09:30:00-04:00",
+          "stop": "2026-09-12T13:30:00-04:00",
+          "title": "Swansea City vs Burnley"
         },
         {
-          "display_title": "2:45 PM PBR Teams Series: Anaheim - Night 1",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-09-11T22:45:00-04:00",
-          "stop": "2026-09-12T02:45:00-04:00",
-          "title": "PBR Teams Series: Anaheim - Night 1"
+          "display_title": "1:50 AM England vs Australia",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
+          "start": "2026-09-12T09:50:00-04:00",
+          "stop": "2026-09-12T13:50:00-04:00",
+          "title": "England vs Australia"
         },
         {
-          "display_title": "9:50 PM Japan vs USA Eagles",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-09-12T05:50:00-04:00",
-          "stop": "2026-09-12T09:50:00-04:00",
-          "title": "Japan vs USA Eagles"
+          "display_title": "3:00 AM Scotland vs Canada",
+          "slot": "PARAMOUNT 016",
+          "slot_norm": "PARAMOUNT 16",
+          "start": "2026-09-12T11:00:00-04:00",
+          "stop": "2026-09-12T15:00:00-04:00",
+          "title": "Scotland vs Canada"
         },
         {
-          "display_title": "6:25 AM Scottish Professional Football League: Greenock Morton vs Livingston",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-12T14:25:00-04:00",
-          "stop": "2026-09-12T18:25:00-04:00",
-          "title": "Scottish Professional Football League: Greenock Morton vs Livingston"
+          "display_title": "3:50 AM Lazio vs Milan",
+          "slot": "PARAMOUNT 017",
+          "slot_norm": "PARAMOUNT 17",
+          "start": "2026-09-12T11:50:00-04:00",
+          "stop": "2026-09-12T15:50:00-04:00",
+          "title": "Lazio vs Milan"
         },
         {
-          "display_title": "6:35 AM Serie A: Venezia vs Fiorentina",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-12T14:35:00-04:00",
-          "stop": "2026-09-12T18:35:00-04:00",
-          "title": "Serie A: Venezia vs Fiorentina"
+          "display_title": "4:40 AM Kilmarnock vs Aberdeen",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-09-12T12:40:00-04:00",
+          "stop": "2026-09-12T16:40:00-04:00",
+          "title": "Kilmarnock vs Aberdeen"
         },
         {
-          "display_title": "6:40 AM Scottish Professional Football League: Stenhousemuir vs Heart of Midlothian",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-12T14:40:00-04:00",
-          "stop": "2026-09-12T18:40:00-04:00",
-          "title": "Scottish Professional Football League: Stenhousemuir vs Heart of Midlothian"
+          "display_title": "5:00 AM Noche UFC: English",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-09-12T13:00:00-04:00",
+          "stop": "2026-09-12T17:00:00-04:00",
+          "title": "Noche UFC: English"
         },
         {
-          "display_title": "6:50 AM English Football League: West Ham United vs Wrexham",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-12T14:50:00-04:00",
-          "stop": "2026-09-12T18:50:00-04:00",
-          "title": "English Football League: West Ham United vs Wrexham"
+          "display_title": "5:00 AM Noche UFC em Português",
+          "slot": "PARAMOUNT 020",
+          "slot_norm": "PARAMOUNT 20",
+          "start": "2026-09-12T13:00:00-04:00",
+          "stop": "2026-09-12T17:00:00-04:00",
+          "title": "Noche UFC em Português"
         },
         {
-          "display_title": "11:00 AM UFC: Noche UFC Ceremonial Weigh In",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-12T19:00:00-04:00",
-          "stop": "2026-09-12T23:00:00-04:00",
-          "title": "UFC: Noche UFC Ceremonial Weigh In"
+          "display_title": "5:00 AM Noche UFC en Español",
+          "slot": "PARAMOUNT 021",
+          "slot_norm": "PARAMOUNT 21",
+          "start": "2026-09-12T13:00:00-04:00",
+          "stop": "2026-09-12T17:00:00-04:00",
+          "title": "Noche UFC en Español"
         },
         {
-          "display_title": "12:00 PM Zuffa Boxing: Garcia vs Benn Ceremonial Weigh In",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-09-12T20:00:00-04:00",
-          "stop": "2026-09-13T00:00:00-04:00",
-          "title": "Zuffa Boxing: Garcia vs Benn Ceremonial Weigh In"
+          "display_title": "6:00 AM Atalanta vs Cagliari",
+          "slot": "PARAMOUNT 022",
+          "slot_norm": "PARAMOUNT 22",
+          "start": "2026-09-12T14:00:00-04:00",
+          "stop": "2026-09-12T18:00:00-04:00",
+          "title": "Atalanta vs Cagliari"
         },
         {
-          "display_title": "2:45 PM PBR Team Series: PBR Teams Series Anaheim Night 1",
-          "slot": "PARAMOUNT ALT 07",
-          "slot_norm": "PARAMOUNT ALT 7",
-          "start": "2026-09-12T22:45:00-04:00",
-          "stop": "2026-09-13T02:45:00-04:00",
-          "title": "PBR Team Series: PBR Teams Series Anaheim Night 1"
+          "display_title": "9:00 AM Noche UFC: Multiview",
+          "slot": "PARAMOUNT 023",
+          "slot_norm": "PARAMOUNT 23",
+          "start": "2026-09-12T17:00:00-04:00",
+          "stop": "2026-09-12T21:00:00-04:00",
+          "title": "Noche UFC: Multiview"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 623491428,
-      "message_timestamp": 1789117242,
+      "message_id": 623694883,
+      "message_timestamp": 1789185685,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-11T11:34:09.408659+00:00"
+      "updated_at": "2026-09-12T04:45:49.124618+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "2:00 PM GCW Mind Your Business 26",
+          "display_title": "6:00 AM Noche UFC Silva vs Delgado",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-11T22:00:00-04:00",
-          "stop": "2026-09-12T02:00:00-04:00",
-          "title": "GCW Mind Your Business 26"
+          "start": "2026-09-12T14:00:00-04:00",
+          "stop": "2026-09-12T18:00:00-04:00",
+          "title": "Noche UFC Silva vs Delgado"
         },
         {
-          "display_title": "6:00 AM Powell vs Shepard",
+          "display_title": "9:00 AM Garcia vs Benn",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-11T14:00:00-04:00",
-          "stop": "2026-09-11T18:00:00-04:00",
-          "title": "Powell vs Shepard"
+          "start": "2026-09-12T17:00:00-04:00",
+          "stop": "2026-09-12T21:00:00-04:00",
+          "title": "Garcia vs Benn"
         },
         {
-          "display_title": "11:00 AM BKFC 93 Perdomo vs Hill",
+          "display_title": "10:00 PM Eternal MMA 110",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-09-11T19:00:00-04:00",
-          "stop": "2026-09-11T23:00:00-04:00",
-          "title": "BKFC 93 Perdomo vs Hill"
+          "start": "2026-09-13T06:00:00-04:00",
+          "stop": "2026-09-13T10:00:00-04:00",
+          "title": "Eternal MMA 110"
         },
         {
-          "display_title": "12:00 PM Marquez vs Sanchez",
+          "display_title": "1:00 AM ACA 207 Goncharov vs Almeida",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-09-11T20:00:00-04:00",
-          "stop": "2026-09-12T00:00:00-04:00",
-          "title": "Marquez vs Sanchez"
+          "start": "2026-09-13T09:00:00-04:00",
+          "stop": "2026-09-13T13:00:00-04:00",
+          "title": "ACA 207 Goncharov vs Almeida"
         },
         {
-          "display_title": "12:30 PM Cage Fury FC 161",
+          "display_title": "4:00 AM Fight Club Rush 30",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
-          "start": "2026-09-11T20:30:00-04:00",
-          "stop": "2026-09-12T00:30:00-04:00",
-          "title": "Cage Fury FC 161"
+          "start": "2026-09-13T12:00:00-04:00",
+          "stop": "2026-09-13T16:00:00-04:00",
+          "title": "Fight Club Rush 30"
         },
         {
-          "display_title": "12:25 AM USAC Road Racing Road Atlanta",
+          "display_title": "4:00 AM Gamebred FC",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
-          "start": "2026-09-12T08:25:00-04:00",
-          "stop": "2026-09-12T12:25:00-04:00",
-          "title": "USAC Road Racing Road Atlanta"
+          "start": "2026-09-13T12:00:00-04:00",
+          "stop": "2026-09-13T16:00:00-04:00",
+          "title": "Gamebred FC"
+        },
+        {
+          "display_title": "4:00 AM Oktagon 93 Rousal vs Magard",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-09-13T12:00:00-04:00",
+          "stop": "2026-09-13T16:00:00-04:00",
+          "title": "Oktagon 93 Rousal vs Magard"
+        },
+        {
+          "display_title": "5:00 AM McCann vs Big Stacks",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-09-13T13:00:00-04:00",
+          "stop": "2026-09-13T17:00:00-04:00",
+          "title": "McCann vs Big Stacks"
+        },
+        {
+          "display_title": "6:00 AM Toman vs Dilshad",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-09-13T14:00:00-04:00",
+          "stop": "2026-09-13T18:00:00-04:00",
+          "title": "Toman vs Dilshad"
+        },
+        {
+          "display_title": "10:00 AM FLEX Hangar Havoc",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-09-13T18:00:00-04:00",
+          "stop": "2026-09-13T22:00:00-04:00",
+          "title": "FLEX Hangar Havoc"
+        },
+        {
+          "display_title": "3:00 PM GCW No Signal in the Hills 5",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-09-13T23:00:00-04:00",
+          "stop": "2026-09-14T03:00:00-04:00",
+          "title": "GCW No Signal in the Hills 5"
+        },
+        {
+          "display_title": "12:25 AM USAC Road Racing at Road Atlanta",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-09-14T08:25:00-04:00",
+          "stop": "2026-09-14T12:25:00-04:00",
+          "title": "USAC Road Racing at Road Atlanta"
+        },
+        {
+          "display_title": "1:00 AM /3pm AMA Supercross Championship Columbus",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-09-14T09:00:00-04:00",
+          "stop": "2026-09-14T13:00:00-04:00",
+          "title": "/3pm AMA Supercross Championship Columbus"
         },
         {
           "display_title": "4:00 AM MotoAmerica Superbikes Texas",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-09-12T12:00:00-04:00",
-          "stop": "2026-09-12T16:00:00-04:00",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-09-14T12:00:00-04:00",
+          "stop": "2026-09-14T16:00:00-04:00",
           "title": "MotoAmerica Superbikes Texas"
         },
         {
-          "display_title": "6:00 AM IMCA Super Nationals Day 5",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-09-12T14:00:00-04:00",
-          "stop": "2026-09-12T18:00:00-04:00",
-          "title": "IMCA Super Nationals Day 5"
-        },
-        {
-          "display_title": "9:15 AM TC 13 Shootout Stafford",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-09-12T17:15:00-04:00",
-          "stop": "2026-09-12T21:15:00-04:00",
-          "title": "TC 13 Shootout Stafford"
-        },
-        {
-          "display_title": "9:30 AM World 100 Eldora",
-          "slot": "PPV 10",
-          "slot_norm": "PPV 10",
-          "start": "2026-09-12T17:30:00-04:00",
-          "stop": "2026-09-12T21:30:00-04:00",
-          "title": "World 100 Eldora"
-        },
-        {
-          "display_title": "10:00 AM HLR Tuscarora 50 Port Royal",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-09-12T18:00:00-04:00",
-          "stop": "2026-09-12T22:00:00-04:00",
-          "title": "HLR Tuscarora 50 Port Royal"
-        },
-        {
-          "display_title": "10:15 AM USAC Commonwealth Clash Lernerville",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-09-12T18:15:00-04:00",
-          "stop": "2026-09-12T22:15:00-04:00",
-          "title": "USAC Commonwealth Clash Lernerville"
-        },
-        {
-          "display_title": "10:15 AM Rebel Night Autodrome Granby",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-09-12T18:15:00-04:00",
-          "stop": "2026-09-12T22:15:00-04:00",
-          "title": "Rebel Night Autodrome Granby"
-        },
-        {
-          "display_title": "10:30 AM Sharon Late Models",
-          "slot": "PPV 14",
-          "slot_norm": "PPV 14",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
-          "title": "Sharon Late Models"
-        },
-        {
-          "display_title": "10:30 AM Attica Sprints",
+          "display_title": "7:00 AM IMCA Super Nationals Championship Day",
           "slot": "PPV 15",
           "slot_norm": "PPV 15",
-          "start": "2026-09-12T18:30:00-04:00",
-          "stop": "2026-09-12T22:30:00-04:00",
-          "title": "Attica Sprints"
+          "start": "2026-09-14T15:00:00-04:00",
+          "stop": "2026-09-14T19:00:00-04:00",
+          "title": "IMCA Super Nationals Championship Day"
         },
         {
-          "display_title": "11:00 AM Race of Champions Lake Erie",
+          "display_title": "8:30 AM CARS Tour at Tri-County",
           "slot": "PPV 16",
           "slot_norm": "PPV 16",
-          "start": "2026-09-12T19:00:00-04:00",
-          "stop": "2026-09-12T23:00:00-04:00",
-          "title": "Race of Champions Lake Erie"
+          "start": "2026-09-14T16:30:00-04:00",
+          "stop": "2026-09-14T20:30:00-04:00",
+          "title": "CARS Tour at Tri-County"
         },
         {
-          "display_title": "11:15 AM Jacksonville Sprints",
+          "display_title": "9:00 AM Super Late Models at Berlin",
           "slot": "PPV 17",
           "slot_norm": "PPV 17",
-          "start": "2026-09-12T19:15:00-04:00",
-          "stop": "2026-09-12T23:15:00-04:00",
-          "title": "Jacksonville Sprints"
+          "start": "2026-09-14T17:00:00-04:00",
+          "stop": "2026-09-14T21:00:00-04:00",
+          "title": "Super Late Models at Berlin"
+        },
+        {
+          "display_title": "9:30 AM World 100 at Eldora",
+          "slot": "PPV 18",
+          "slot_norm": "PPV 18",
+          "start": "2026-09-14T17:30:00-04:00",
+          "stop": "2026-09-14T21:30:00-04:00",
+          "title": "World 100 at Eldora"
+        },
+        {
+          "display_title": "9:30 AM Cecil Palm Tree 66 at Riverhead",
+          "slot": "PPV 19",
+          "slot_norm": "PPV 19",
+          "start": "2026-09-14T17:30:00-04:00",
+          "stop": "2026-09-14T21:30:00-04:00",
+          "title": "Cecil Palm Tree 66 at Riverhead"
+        },
+        {
+          "display_title": "9:45 AM Super DIRTcar Series Can Am",
+          "slot": "PPV 20",
+          "slot_norm": "PPV 20",
+          "start": "2026-09-14T17:45:00-04:00",
+          "stop": "2026-09-14T21:45:00-04:00",
+          "title": "Super DIRTcar Series Can Am"
+        },
+        {
+          "display_title": "9:45 AM Championship Night at Jennerstown",
+          "slot": "PPV 21",
+          "slot_norm": "PPV 21",
+          "start": "2026-09-14T17:45:00-04:00",
+          "stop": "2026-09-14T21:45:00-04:00",
+          "title": "Championship Night at Jennerstown"
+        },
+        {
+          "display_title": "10:00 AM Race of Champions at Lake Erie",
+          "slot": "PPV 22",
+          "slot_norm": "PPV 22",
+          "start": "2026-09-14T18:00:00-04:00",
+          "stop": "2026-09-14T22:00:00-04:00",
+          "title": "Race of Champions at Lake Erie"
+        },
+        {
+          "display_title": "10:15 AM HLR Tuscarora 50 at Port Royal",
+          "slot": "PPV 23",
+          "slot_norm": "PPV 23",
+          "start": "2026-09-14T18:15:00-04:00",
+          "stop": "2026-09-14T22:15:00-04:00",
+          "title": "HLR Tuscarora 50 at Port Royal"
+        },
+        {
+          "display_title": "10:15 AM USAC Commonwealth Clash at Lernerville",
+          "slot": "PPV 24",
+          "slot_norm": "PPV 24",
+          "start": "2026-09-14T18:15:00-04:00",
+          "stop": "2026-09-14T22:15:00-04:00",
+          "title": "USAC Commonwealth Clash at Lernerville"
+        },
+        {
+          "display_title": "11:15 AM World of Outlaws Sprint Cars Dodge City",
+          "slot": "PPV 25",
+          "slot_norm": "PPV 25",
+          "start": "2026-09-14T19:15:00-04:00",
+          "stop": "2026-09-14T23:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Dodge City"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 623649158,
-      "message_timestamp": 1789156833,
+      "message_id": 623694864,
+      "message_timestamp": 1789185677,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-11T21:04:35.617029+00:00"
+      "updated_at": "2026-09-12T04:45:49.187977+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
