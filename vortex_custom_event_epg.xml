@@ -6266,7 +6266,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.09">
     <display-name>PPV 09</display-name>
-    <display-name>PPV 09: 14:00 Toman vs Dilshad</display-name>
+    <display-name>PPV 09: 13:30 Westside Fighting Challenge 9n</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.10">
@@ -6326,7 +6326,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.21">
     <display-name>PPV 21</display-name>
-    <display-name>PPV 21: 17:45 Championship Night at Jennerstown</display-name>
+    <display-name>PPV 21:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.22">
@@ -6341,7 +6341,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.24">
     <display-name>PPV 24</display-name>
-    <display-name>PPV 24: 18:15 USAC Commonwealth Clash at Lernerville</display-name>
+    <display-name>PPV 24:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.25">
@@ -6426,7 +6426,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.007">
     <display-name>PPV ALT 007</display-name>
-    <display-name>PPV ALT 007: Jordan McCann vs Big Stacks 18:00</display-name>
+    <display-name>PPV ALT 007:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.008">
@@ -6466,12 +6466,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.015">
     <display-name>PPV ALT 015</display-name>
-    <display-name>PPV ALT 015: Jordan McCann vs Big Stacks 18:00</display-name>
+    <display-name>PPV ALT 015: Zuffa Boxing: Garcia vs Benn 21:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.016">
     <display-name>PPV ALT 016</display-name>
-    <display-name>PPV ALT 016:</display-name>
+    <display-name>PPV ALT 016: Zuffa Boxing: Garcia vs Benn 21:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.017">
@@ -14614,8 +14614,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260913140000 -0400" stop="20260913180000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
-    <title>6:00 AM Toman vs Dilshad</title>
+  <programme start="20260913133000 -0400" stop="20260913173000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
+    <title>5:30 AM Westside Fighting Challenge 9n</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14674,11 +14674,6 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260914174500 -0400" stop="20260914214500 -0400" channel="custom.PAY.PER.VIEW.PPV.21">
-    <title>9:45 AM Championship Night at Jennerstown</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20260914180000 -0400" stop="20260914220000 -0400" channel="custom.PAY.PER.VIEW.PPV.22">
     <title>10:00 AM Race of Champions at Lake Erie</title>
     <category>Sports</category>
@@ -14689,17 +14684,12 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260914181500 -0400" stop="20260914221500 -0400" channel="custom.PAY.PER.VIEW.PPV.24">
-    <title>10:15 AM USAC Commonwealth Clash at Lernerville</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20260914191500 -0400" stop="20260914231500 -0400" channel="custom.PAY.PER.VIEW.PPV.25">
     <title>11:15 AM World of Outlaws Sprint Cars Dodge City</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260912145000 +0100" stop="20260912185000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
+  <programme start="20260913145000 +0100" stop="20260913185000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
     <title>1:50 AM Huddersfield Giants vs Castleford Tigers // UK Sat 12 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
