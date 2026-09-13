@@ -52,59 +52,19 @@
           "title": "Moberly Motorsports Park"
         },
         {
-          "display_title": "9:45 AM Can Am Speedway",
+          "display_title": "11:15 AM Eagle Raceway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-13T17:45:00-04:00",
-          "stop": "2026-09-13T21:45:00-04:00",
-          "title": "Can Am Speedway"
-        },
-        {
-          "display_title": "10:15 AM Cedar Lake Speedway",
-          "slot": "DIRT ALT 02",
-          "slot_norm": "DIRT ALT 2",
-          "start": "2026-09-13T18:15:00-04:00",
-          "stop": "2026-09-13T22:15:00-04:00",
-          "title": "Cedar Lake Speedway"
-        },
-        {
-          "display_title": "10:30 AM Sharon Speedway",
-          "slot": "DIRT ALT 03",
-          "slot_norm": "DIRT ALT 3",
-          "start": "2026-09-13T18:30:00-04:00",
-          "stop": "2026-09-13T22:30:00-04:00",
-          "title": "Sharon Speedway"
-        },
-        {
-          "display_title": "11:15 AM Dodge City Raceway Park",
-          "slot": "DIRT ALT 04",
-          "slot_norm": "DIRT ALT 4",
           "start": "2026-09-13T19:15:00-04:00",
           "stop": "2026-09-13T23:15:00-04:00",
-          "title": "Dodge City Raceway Park"
-        },
-        {
-          "display_title": "11:30 AM DIRT Zone",
-          "slot": "DIRT ALT 05",
-          "slot_norm": "DIRT ALT 5",
-          "start": "2026-09-13T19:30:00-04:00",
-          "stop": "2026-09-13T23:30:00-04:00",
-          "title": "DIRT Zone"
-        },
-        {
-          "display_title": "11:45 AM Moberly Motorsports Park",
-          "slot": "DIRT ALT 06",
-          "slot_norm": "DIRT ALT 6",
-          "start": "2026-09-13T19:45:00-04:00",
-          "stop": "2026-09-13T23:45:00-04:00",
-          "title": "Moberly Motorsports Park"
+          "title": "Eagle Raceway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 623816018,
-      "message_timestamp": 1789272042,
+      "message_id": 623856079,
+      "message_timestamp": 1789299040,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-13T05:00:20.895317+00:00"
+      "updated_at": "2026-09-13T12:07:32.696148+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -200,35 +160,187 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "10:50 PM Sheffield United vs Wolves",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-09-13T06:50:00-04:00",
+          "stop": "2026-09-13T10:50:00-04:00",
+          "title": "Sheffield United vs Wolves"
+        },
+        {
+          "display_title": "10:50 PM Man. United vs Chelsea",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-09-13T06:50:00-04:00",
+          "stop": "2026-09-13T10:50:00-04:00",
+          "title": "Man. United vs Chelsea"
+        },
+        {
+          "display_title": "10:55 PM Rangers vs Celtic",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-09-13T06:55:00-04:00",
+          "stop": "2026-09-13T10:55:00-04:00",
+          "title": "Rangers vs Celtic"
+        },
+        {
           "display_title": "12:50 AM Lecce vs Monza",
-          "slot": "PARAMOUNT 021",
-          "slot_norm": "PARAMOUNT 21",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-13T08:50:00-04:00",
           "stop": "2026-09-13T12:50:00-04:00",
           "title": "Lecce vs Monza"
         },
         {
+          "display_title": "12:50 AM Birmingham City vs Brighton",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Birmingham City vs Brighton"
+        },
+        {
+          "display_title": "12:50 AM Everton vs Charlton Athletic",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Everton vs Charlton Athletic"
+        },
+        {
+          "display_title": "12:50 AM Liverpool vs Tottenham",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Liverpool vs Tottenham"
+        },
+        {
+          "display_title": "1:00 AM Arsenal vs Crystal Palace",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-09-13T09:00:00-04:00",
+          "stop": "2026-09-13T13:00:00-04:00",
+          "title": "Arsenal vs Crystal Palace"
+        },
+        {
+          "display_title": "3:45 AM Aston Villa vs Man. City",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-13T11:45:00-04:00",
+          "stop": "2026-09-13T15:45:00-04:00",
+          "title": "Aston Villa vs Man. City"
+        },
+        {
           "display_title": "3:50 AM Napoli vs Bologna",
-          "slot": "PARAMOUNT 022",
-          "slot_norm": "PARAMOUNT 22",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-09-13T11:50:00-04:00",
           "stop": "2026-09-13T15:50:00-04:00",
           "title": "Napoli vs Bologna"
         },
         {
           "display_title": "6:00 AM Sassuolo vs Juventus",
-          "slot": "PARAMOUNT 023",
-          "slot_norm": "PARAMOUNT 23",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-09-13T14:00:00-04:00",
           "stop": "2026-09-13T18:00:00-04:00",
           "title": "Sassuolo vs Juventus"
+        },
+        {
+          "display_title": "10:50 PM English Football League: Sheffield United vs Wolves",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-13T06:50:00-04:00",
+          "stop": "2026-09-13T10:50:00-04:00",
+          "title": "English Football League: Sheffield United vs Wolves"
+        },
+        {
+          "display_title": "10:50 PM Barclays Women's Super League: Man United vs Chelsea",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-13T06:50:00-04:00",
+          "stop": "2026-09-13T10:50:00-04:00",
+          "title": "Barclays Women's Super League: Man United vs Chelsea"
+        },
+        {
+          "display_title": "10:55 PM Scottish Professional Football League: Rangers vs Celtic",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-13T06:55:00-04:00",
+          "stop": "2026-09-13T10:55:00-04:00",
+          "title": "Scottish Professional Football League: Rangers vs Celtic"
+        },
+        {
+          "display_title": "12:50 AM Serie A: Lecce vs Monza",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Serie A: Lecce vs Monza"
+        },
+        {
+          "display_title": "12:50 AM Barclays Women's Super League: Birmingham City vs Brighton",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Barclays Women's Super League: Birmingham City vs Brighton"
+        },
+        {
+          "display_title": "12:50 AM Barclays Women's Super League: Everton vs Charlton Athletic",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Barclays Women's Super League: Everton vs Charlton Athletic"
+        },
+        {
+          "display_title": "12:50 AM Barclays Women's Super League: Liverpool vs Tottenham",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-13T08:50:00-04:00",
+          "stop": "2026-09-13T12:50:00-04:00",
+          "title": "Barclays Women's Super League: Liverpool vs Tottenham"
+        },
+        {
+          "display_title": "1:00 AM Barclays Women's Super League: Arsenal vs Crystal Palace",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-09-13T09:00:00-04:00",
+          "stop": "2026-09-13T13:00:00-04:00",
+          "title": "Barclays Women's Super League: Arsenal vs Crystal Palace"
+        },
+        {
+          "display_title": "3:45 AM Barclays Women's Super League: Aston Villa vs Man City",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-09-13T11:45:00-04:00",
+          "stop": "2026-09-13T15:45:00-04:00",
+          "title": "Barclays Women's Super League: Aston Villa vs Man City"
+        },
+        {
+          "display_title": "3:50 AM Serie A: Napoli vs Bologna",
+          "slot": "PARAMOUNT ALT 10",
+          "slot_norm": "PARAMOUNT ALT 10",
+          "start": "2026-09-13T11:50:00-04:00",
+          "stop": "2026-09-13T15:50:00-04:00",
+          "title": "Serie A: Napoli vs Bologna"
+        },
+        {
+          "display_title": "6:00 AM Serie A: Sassuolo vs Juventus",
+          "slot": "PARAMOUNT ALT 11",
+          "slot_norm": "PARAMOUNT ALT 11",
+          "start": "2026-09-13T14:00:00-04:00",
+          "stop": "2026-09-13T18:00:00-04:00",
+          "title": "Serie A: Sassuolo vs Juventus"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 623816126,
-      "message_timestamp": 1789272075,
+      "message_id": 623844422,
+      "message_timestamp": 1789290041,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-13T05:00:21.082324+00:00"
+      "updated_at": "2026-09-13T12:07:33.151073+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -288,21 +400,13 @@
           "start": "2026-09-13T19:00:00-04:00",
           "stop": "2026-09-13T23:00:00-04:00",
           "title": "AAA Triplemania 34"
-        },
-        {
-          "display_title": "3:00 PM GCW No Signal in the Hills 5",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-09-13T23:00:00-04:00",
-          "stop": "2026-09-14T03:00:00-04:00",
-          "title": "GCW No Signal in the Hills 5"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 623816091,
-      "message_timestamp": 1789272064,
+      "message_id": 623853594,
+      "message_timestamp": 1789297246,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-13T05:00:21.255927+00:00"
+      "updated_at": "2026-09-13T12:07:33.618683+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -528,227 +632,75 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "4:20 AM Tottenham Hotspur vs Everton Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 028",
-          "slot_norm": "AU STAN ALT 28",
-          "start": "2026-09-13T02:20:00+10:00",
-          "stop": "2026-09-13T06:20:00+10:00",
-          "title": "Tottenham Hotspur vs Everton Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "4:30 AM Konduri/Latak vs Gabet/GonzalezGalino Junior Boys\\` Doubles Final US Open 2026",
-          "slot": "AU STAN ALT 029",
-          "slot_norm": "AU STAN ALT 29",
-          "start": "2026-09-13T02:30:00+10:00",
-          "stop": "2026-09-13T06:30:00+10:00",
-          "title": "Konduri/Latak vs Gabet/GonzalezGalino Junior Boys\\` Doubles Final US Open 2026"
-        },
-        {
-          "display_title": "6:50 AM Sunderland vs Arsenal Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 030",
-          "slot_norm": "AU STAN ALT 30",
-          "start": "2026-09-13T04:50:00+10:00",
-          "stop": "2026-09-13T08:50:00+10:00",
-          "title": "Sunderland vs Arsenal Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "6:50 AM • Sunderland vs Arsenal Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 031",
-          "slot_norm": "AU STAN ALT 31",
-          "start": "2026-09-13T04:50:00+10:00",
-          "stop": "2026-09-13T08:50:00+10:00",
-          "title": "• Sunderland vs Arsenal Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "8:00 AM Sabalenka vs Rybakina Women\\`s Singles Final US Open 2026",
-          "slot": "AU STAN ALT 032",
-          "slot_norm": "AU STAN ALT 32",
-          "start": "2026-09-13T06:00:00+10:00",
-          "stop": "2026-09-13T10:00:00+10:00",
-          "title": "Sabalenka vs Rybakina Women\\`s Singles Final US Open 2026"
-        },
-        {
-          "display_title": "8:00 AM South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Fourth Test 2026",
-          "slot": "AU STAN ALT 033",
-          "slot_norm": "AU STAN ALT 33",
-          "start": "2026-09-13T06:00:00+10:00",
-          "stop": "2026-09-13T10:00:00+10:00",
-          "title": "South Africa vs New Zealand: SuperSport Coverage NZL Tour of RSA Fourth Test 2026"
-        },
-        {
-          "display_title": "8:00 AM South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Fourth Test 2026",
-          "slot": "AU STAN ALT 034",
-          "slot_norm": "AU STAN ALT 34",
-          "start": "2026-09-13T06:00:00+10:00",
-          "stop": "2026-09-13T10:00:00+10:00",
-          "title": "South Africa vs New Zealand: Sky NZ Coverage NZL Tour of RSA Fourth Test 2026"
-        },
-        {
-          "display_title": "8:01 AM SS12 Maria las Cruces 2 WRC Chile 2026",
-          "slot": "AU STAN ALT 035",
-          "slot_norm": "AU STAN ALT 35",
-          "start": "2026-09-13T06:01:00+10:00",
-          "stop": "2026-09-13T10:01:00+10:00",
-          "title": "SS12 Maria las Cruces 2 WRC Chile 2026"
-        },
-        {
-          "display_title": "9:30 AM PL Saturday Wrap: Matchweek 4 Sep 13",
-          "slot": "AU STAN ALT 036",
-          "slot_norm": "AU STAN ALT 36",
-          "start": "2026-09-13T07:30:00+10:00",
-          "stop": "2026-09-13T11:30:00+10:00",
-          "title": "PL Saturday Wrap: Matchweek 4 Sep 13"
-        },
-        {
-          "display_title": "10:30 AM San Diego Wave vs North Carolina Courage NWSL 2026",
-          "slot": "AU STAN ALT 037",
-          "slot_norm": "AU STAN ALT 37",
-          "start": "2026-09-13T08:30:00+10:00",
-          "stop": "2026-09-13T12:30:00+10:00",
-          "title": "San Diego Wave vs North Carolina Courage NWSL 2026"
-        },
-        {
-          "display_title": "11:30 AM Hawke\\`s Bay vs Wellington Farah Palmer Cup Round 3 2026",
-          "slot": "AU STAN ALT 038",
-          "slot_norm": "AU STAN ALT 38",
-          "start": "2026-09-13T09:30:00+10:00",
-          "stop": "2026-09-13T13:30:00+10:00",
-          "title": "Hawke\\`s Bay vs Wellington Farah Palmer Cup Round 3 2026"
-        },
-        {
-          "display_title": "12:00 PM Seattle Reign vs Bay FC NWSL 2026",
-          "slot": "AU STAN ALT 039",
-          "slot_norm": "AU STAN ALT 39",
-          "start": "2026-09-13T10:00:00+10:00",
-          "stop": "2026-09-13T14:00:00+10:00",
-          "title": "Seattle Reign vs Bay FC NWSL 2026"
-        },
-        {
-          "display_title": "2:00 PM Hawke\\`s Bay vs North Harbour NPC Round 7 2026",
-          "slot": "AU STAN ALT 040",
-          "slot_norm": "AU STAN ALT 40",
-          "start": "2026-09-13T12:00:00+10:00",
-          "stop": "2026-09-13T16:00:00+10:00",
-          "title": "Hawke\\`s Bay vs North Harbour NPC Round 7 2026"
-        },
-        {
-          "display_title": "4:00 PM Brumbies vs Waratahs Super Rugby AUS Round 1 2026",
-          "slot": "AU STAN ALT 041",
-          "slot_norm": "AU STAN ALT 41",
-          "start": "2026-09-13T14:00:00+10:00",
-          "stop": "2026-09-13T18:00:00+10:00",
-          "title": "Brumbies vs Waratahs Super Rugby AUS Round 1 2026"
-        },
-        {
-          "display_title": "4:00 PM Race Day Part 1: China MXGP 2026",
-          "slot": "AU STAN ALT 042",
-          "slot_norm": "AU STAN ALT 42",
-          "start": "2026-09-13T14:00:00+10:00",
-          "stop": "2026-09-13T18:00:00+10:00",
-          "title": "Race Day Part 1: China MXGP 2026"
-        },
-        {
-          "display_title": "5:00 PM Southland vs Bay of Plenty NPC Round 7 2026",
-          "slot": "AU STAN ALT 043",
-          "slot_norm": "AU STAN ALT 43",
-          "start": "2026-09-13T15:00:00+10:00",
-          "stop": "2026-09-13T19:00:00+10:00",
-          "title": "Southland vs Bay of Plenty NPC Round 7 2026"
-        },
-        {
-          "display_title": "7:00 PM Race Day Part 2: China MXGP 2026",
-          "slot": "AU STAN ALT 044",
-          "slot_norm": "AU STAN ALT 44",
-          "start": "2026-09-13T17:00:00+10:00",
-          "stop": "2026-09-13T21:00:00+10:00",
-          "title": "Race Day Part 2: China MXGP 2026"
-        },
-        {
-          "display_title": "7:25 PM Gimcheon vs Gangwon K League 2026",
-          "slot": "AU STAN ALT 045",
-          "slot_norm": "AU STAN ALT 45",
-          "start": "2026-09-13T17:25:00+10:00",
-          "stop": "2026-09-13T21:25:00+10:00",
-          "title": "Gimcheon vs Gangwon K League 2026"
-        },
-        {
-          "display_title": "9:25 PM Urawa Red Diamonds vs Fagiano Okayama J.League 2026",
-          "slot": "AU STAN ALT 046",
-          "slot_norm": "AU STAN ALT 46",
-          "start": "2026-09-13T19:25:00+10:00",
-          "stop": "2026-09-13T23:25:00+10:00",
-          "title": "Urawa Red Diamonds vs Fagiano Okayama J.League 2026"
-        },
-        {
-          "display_title": "9:55 PM Gwangju vs Anyang K League 2026",
-          "slot": "AU STAN ALT 047",
-          "slot_norm": "AU STAN ALT 47",
-          "start": "2026-09-13T19:55:00+10:00",
-          "stop": "2026-09-13T23:55:00+10:00",
-          "title": "Gwangju vs Anyang K League 2026"
-        },
-        {
-          "display_title": "10:50 PM Manchester United vs Chelsea WSL 2026/27",
-          "slot": "AU STAN ALT 048",
-          "slot_norm": "AU STAN ALT 48",
-          "start": "2026-09-13T20:50:00+10:00",
-          "stop": "2026-09-14T00:50:00+10:00",
-          "title": "Manchester United vs Chelsea WSL 2026/27"
-        },
-        {
-          "display_title": "12:00 AM Coventry City vs Brighton & Hove Albion Premier League Matchweek 4 2026/2027",
-          "slot": "AU STAN ALT 049",
-          "slot_norm": "AU STAN ALT 49",
-          "start": "2026-09-13T22:00:00+10:00",
-          "stop": "2026-09-14T02:00:00+10:00",
-          "title": "Coventry City vs Brighton & Hove Albion Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "12:50 AM Everton vs Charlton Athletic WSL 2026/27",
-          "slot": "AU STAN ALT 050",
-          "slot_norm": "AU STAN ALT 50",
-          "start": "2026-09-13T22:50:00+10:00",
-          "stop": "2026-09-14T02:50:00+10:00",
-          "title": "Everton vs Charlton Athletic WSL 2026/27"
-        },
-        {
-          "display_title": "12:50 AM Liverpool vs Tottenham Hotspur WSL 2026/27",
-          "slot": "AU STAN ALT 051",
-          "slot_norm": "AU STAN ALT 51",
-          "start": "2026-09-13T22:50:00+10:00",
-          "stop": "2026-09-14T02:50:00+10:00",
-          "title": "Liverpool vs Tottenham Hotspur WSL 2026/27"
-        },
-        {
-          "display_title": "12:50 AM Birmingham City vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN ALT 052",
-          "slot_norm": "AU STAN ALT 52",
-          "start": "2026-09-13T22:50:00+10:00",
-          "stop": "2026-09-14T02:50:00+10:00",
-          "title": "Birmingham City vs Brighton & Hove Albion WSL 2026/27"
-        },
-        {
-          "display_title": "1:00 AM SS14 BioBio 1 WRC Chile 2026",
-          "slot": "AU STAN ALT 053",
-          "slot_norm": "AU STAN ALT 53",
-          "start": "2026-09-13T23:00:00+10:00",
-          "stop": "2026-09-14T03:00:00+10:00",
-          "title": "SS14 BioBio 1 WRC Chile 2026"
-        },
-        {
           "display_title": "1:35 AM Arsenal vs Crystal Palace WSL 2026/27",
-          "slot": "AU STAN ALT 054",
-          "slot_norm": "AU STAN ALT 54",
-          "start": "2026-09-13T23:35:00+10:00",
-          "stop": "2026-09-14T03:35:00+10:00",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-14T23:35:00+10:00",
+          "stop": "2026-09-15T03:35:00+10:00",
           "title": "Arsenal vs Crystal Palace WSL 2026/27"
+        },
+        {
+          "display_title": "3:20 AM Manchester United vs Manchester City Premier League Matchweek 4 2026/2027",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-14T01:20:00+10:00",
+          "stop": "2026-09-14T05:20:00+10:00",
+          "title": "Manchester United vs Manchester City Premier League Matchweek 4 2026/2027"
+        },
+        {
+          "display_title": "3:20 AM • Manchester United vs Manchester City Premier League Matchweek 4 2026/2027",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-14T01:20:00+10:00",
+          "stop": "2026-09-14T05:20:00+10:00",
+          "title": "• Manchester United vs Manchester City Premier League Matchweek 4 2026/2027"
+        },
+        {
+          "display_title": "4:00 AM SS16 BioBio 2 (Wolf Power Stage) WRC Chile 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-09-14T02:00:00+10:00",
+          "stop": "2026-09-14T06:00:00+10:00",
+          "title": "SS16 BioBio 2 (Wolf Power Stage) WRC Chile 2026"
+        },
+        {
+          "display_title": "5:20 AM Aston Villa vs Manchester City WSL 2026/27",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-09-14T03:20:00+10:00",
+          "stop": "2026-09-14T07:20:00+10:00",
+          "title": "Aston Villa vs Manchester City WSL 2026/27"
+        },
+        {
+          "display_title": "6:00 AM Zverev vs Shelton Men\\`s Singles Final US Open 2026",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-09-14T04:00:00+10:00",
+          "stop": "2026-09-14T08:00:00+10:00",
+          "title": "Zverev vs Shelton Men\\`s Singles Final US Open 2026"
+        },
+        {
+          "display_title": "6:00 AM PL Weekend Wrap: Matchweek 4 Sep 14",
+          "slot": "AU STAN ALT 017",
+          "slot_norm": "AU STAN ALT 17",
+          "start": "2026-09-14T04:00:00+10:00",
+          "stop": "2026-09-14T08:00:00+10:00",
+          "title": "PL Weekend Wrap: Matchweek 4 Sep 14"
+        },
+        {
+          "display_title": "7:00 AM Guadalajara: Day 1 WTA 500",
+          "slot": "AU STAN ALT 018",
+          "slot_norm": "AU STAN ALT 18",
+          "start": "2026-09-14T05:00:00+10:00",
+          "stop": "2026-09-14T09:00:00+10:00",
+          "title": "Guadalajara: Day 1 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 623747767,
-      "message_timestamp": 1789221671,
+      "message_id": 623851054,
+      "message_timestamp": 1789295440,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-12T15:38:44.584323+00:00"
+      "updated_at": "2026-09-13T12:07:35.057896+00:00"
     }
   },
   "version": 1
