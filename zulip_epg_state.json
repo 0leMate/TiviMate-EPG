@@ -4,54 +4,6 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "9:45 AM Can Am Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-09-13T17:45:00-04:00",
-          "stop": "2026-09-13T21:45:00-04:00",
-          "title": "Can Am Speedway"
-        },
-        {
-          "display_title": "10:15 AM Cedar Lake Speedway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-09-13T18:15:00-04:00",
-          "stop": "2026-09-13T22:15:00-04:00",
-          "title": "Cedar Lake Speedway"
-        },
-        {
-          "display_title": "10:30 AM Sharon Speedway",
-          "slot": "DIRT 03",
-          "slot_norm": "DIRT 3",
-          "start": "2026-09-13T18:30:00-04:00",
-          "stop": "2026-09-13T22:30:00-04:00",
-          "title": "Sharon Speedway"
-        },
-        {
-          "display_title": "11:15 AM Dodge City Raceway Park",
-          "slot": "DIRT 04",
-          "slot_norm": "DIRT 4",
-          "start": "2026-09-13T19:15:00-04:00",
-          "stop": "2026-09-13T23:15:00-04:00",
-          "title": "Dodge City Raceway Park"
-        },
-        {
-          "display_title": "11:30 AM DIRT Zone",
-          "slot": "DIRT 05",
-          "slot_norm": "DIRT 5",
-          "start": "2026-09-13T19:30:00-04:00",
-          "stop": "2026-09-13T23:30:00-04:00",
-          "title": "DIRT Zone"
-        },
-        {
-          "display_title": "11:45 AM Moberly Motorsports Park",
-          "slot": "DIRT 06",
-          "slot_norm": "DIRT 6",
-          "start": "2026-09-13T19:45:00-04:00",
-          "stop": "2026-09-13T23:45:00-04:00",
-          "title": "Moberly Motorsports Park"
-        },
-        {
           "display_title": "11:15 AM Eagle Raceway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
@@ -61,10 +13,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 623856079,
-      "message_timestamp": 1789299040,
+      "message_id": 623898080,
+      "message_timestamp": 1789324229,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-13T12:07:32.696148+00:00"
+      "updated_at": "2026-09-13T18:51:55.779018+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
