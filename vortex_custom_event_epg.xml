@@ -6226,22 +6226,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 08:25 USAC Road Racing Road Atlanta</display-name>
+    <display-name>PPV 01: 20:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 12:00 MotoAmerica Superbikes Texas</display-name>
+    <display-name>PPV 02: 20:15 World of Outlaws Sprints El Paso</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 13:00 Championship Night South Boston</display-name>
+    <display-name>PPV 03:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 13:45 Championship Night Jennerstown</display-name>
+    <display-name>PPV 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
@@ -6251,7 +6251,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
     <display-name>PPV 06</display-name>
-    <display-name>PPV 06: 18:15 Wild Thing Kart Series Stafford</display-name>
+    <display-name>PPV 06:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
@@ -14039,23 +14039,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260913082500 -0400" stop="20260913122500 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>12:25 AM USAC Road Racing Road Atlanta</title>
+  <programme start="20260913200000 -0400" stop="20260914000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>12:00 PM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260913120000 -0400" stop="20260913160000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>4:00 AM MotoAmerica Superbikes Texas</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260913130000 -0400" stop="20260913170000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>5:00 AM Championship Night South Boston</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20260913134500 -0400" stop="20260913174500 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>5:45 AM Championship Night Jennerstown</title>
+  <programme start="20260913201500 -0400" stop="20260914001500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>12:15 PM World of Outlaws Sprints El Paso</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14064,17 +14054,12 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260913181500 -0400" stop="20260913221500 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
-    <title>10:15 AM Wild Thing Kart Series Stafford</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20260913190000 -0400" stop="20260913230000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
     <title>11:00 AM AAA Triplemania 34</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260913145000 +0100" stop="20260913185000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
+  <programme start="20260914145000 +0100" stop="20260914185000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
     <title>1:50 AM Huddersfield Giants vs Castleford Tigers // UK Sat 12 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
