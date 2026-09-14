@@ -5,6 +5,14 @@
       "events": [
         {
           "display_title": "12:15 PM El Paso County Raceway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-09-14T20:15:00-04:00",
+          "stop": "2026-09-15T00:15:00-04:00",
+          "title": "El Paso County Raceway"
+        },
+        {
+          "display_title": "12:15 PM El Paso County Raceway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
           "start": "2026-09-14T20:15:00-04:00",
@@ -13,10 +21,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 624033449,
-      "message_timestamp": 1789385440,
+      "message_id": 624086503,
+      "message_timestamp": 1789398044,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-14T13:04:20.915937+00:00"
+      "updated_at": "2026-09-14T19:29:44.729085+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -134,13 +142,37 @@
           "start": "2026-09-14T14:35:00-04:00",
           "stop": "2026-09-14T18:35:00-04:00",
           "title": "Inter vs Udinese"
+        },
+        {
+          "display_title": "4:20 AM Serie A: Como vs Parma",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-14T12:20:00-04:00",
+          "stop": "2026-09-14T16:20:00-04:00",
+          "title": "Serie A: Como vs Parma"
+        },
+        {
+          "display_title": "4:20 AM Serie A: Torino vs Roma",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-14T12:20:00-04:00",
+          "stop": "2026-09-14T16:20:00-04:00",
+          "title": "Serie A: Torino vs Roma"
+        },
+        {
+          "display_title": "6:35 AM Serie A: Inter vs Udinese",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-14T14:35:00-04:00",
+          "stop": "2026-09-14T18:35:00-04:00",
+          "title": "Serie A: Inter vs Udinese"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 623994551,
-      "message_timestamp": 1789374643,
+      "message_id": 624096887,
+      "message_timestamp": 1789399840,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-14T13:04:21.264145+00:00"
+      "updated_at": "2026-09-14T19:29:45.090550+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -160,13 +192,21 @@
           "start": "2026-09-14T20:15:00-04:00",
           "stop": "2026-09-15T00:15:00-04:00",
           "title": "World of Outlaws Sprints El Paso"
+        },
+        {
+          "display_title": "5:00 PM WWE Monday Night RAW",
+          "slot": "PPV ALT 001",
+          "slot_norm": "PPV ALT 1",
+          "start": "2026-09-15T01:00:00-04:00",
+          "stop": "2026-09-15T05:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 624053039,
-      "message_timestamp": 1789390844,
+      "message_id": 624112822,
+      "message_timestamp": 1789403440,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-14T13:04:21.619272+00:00"
+      "updated_at": "2026-09-14T19:29:45.445286+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -232,27 +272,43 @@
           "title": "Guadalajara: Day 2 WTA 500"
         },
         {
+          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-09-16T05:00:00+10:00",
+          "stop": "2026-09-16T09:00:00+10:00",
+          "title": "Guadalajara: Day 3 WTA 500"
+        },
+        {
           "display_title": "6:30 AM Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027",
           "slot": "AU STAN ALT 001",
           "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-15T04:30:00+10:00",
-          "stop": "2026-09-15T08:30:00+10:00",
+          "start": "2026-09-16T04:30:00+10:00",
+          "stop": "2026-09-16T08:30:00+10:00",
           "title": "Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027"
         },
         {
           "display_title": "7:00 AM Guadalajara: Day 2 WTA 500",
           "slot": "AU STAN ALT 002",
           "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-15T05:00:00+10:00",
-          "stop": "2026-09-15T09:00:00+10:00",
+          "start": "2026-09-16T05:00:00+10:00",
+          "stop": "2026-09-16T09:00:00+10:00",
           "title": "Guadalajara: Day 2 WTA 500"
+        },
+        {
+          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-09-16T05:00:00+10:00",
+          "stop": "2026-09-16T09:00:00+10:00",
+          "title": "Guadalajara: Day 3 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 624021542,
-      "message_timestamp": 1789381838,
+      "message_id": 624069107,
+      "message_timestamp": 1789394455,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-14T13:04:22.857030+00:00"
+      "updated_at": "2026-09-14T19:29:46.597424+00:00"
     }
   },
   "version": 1

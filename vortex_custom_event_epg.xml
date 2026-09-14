@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 20:15 El Paso County Raceway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -5462,17 +5462,17 @@
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.01">
     <display-name>PARAMOUNT ALT 01</display-name>
-    <display-name>PARAMOUNT ALT 01:</display-name>
+    <display-name>PARAMOUNT ALT 01: 12:20 Serie A: Como vs Parma 09-14</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.02">
     <display-name>PARAMOUNT ALT 02</display-name>
-    <display-name>PARAMOUNT ALT 02:</display-name>
+    <display-name>PARAMOUNT ALT 02: 12:20 Serie A: Torino vs Roma 09-14</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.03">
     <display-name>PARAMOUNT ALT 03</display-name>
-    <display-name>PARAMOUNT ALT 03:</display-name>
+    <display-name>PARAMOUNT ALT 03: 14:35 Serie A: Inter vs Udinese 09-14</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.04">
@@ -6396,7 +6396,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001:</display-name>
+    <display-name>PPV ALT 001: 01:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
@@ -8246,17 +8246,17 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.001">
     <display-name>CA TSN+ ALT2 001</display-name>
-    <display-name>CA TSN+ ALT2 001:</display-name>
+    <display-name>CA TSN+ ALT2 001: 00:00 Formula 1: Spanish Grand Prix A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.002">
     <display-name>CA TSN+ ALT2 002</display-name>
-    <display-name>CA TSN+ ALT2 002:</display-name>
+    <display-name>CA TSN+ ALT2 002: 01:00 SPORTSCENTRE A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.003">
     <display-name>CA TSN+ ALT2 003</display-name>
-    <display-name>CA TSN+ ALT2 003:</display-name>
+    <display-name>CA TSN+ ALT2 003: 02:00 SPORTSCENTRE B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.004">
@@ -8266,387 +8266,387 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.005">
     <display-name>CA TSN+ ALT2 005</display-name>
-    <display-name>CA TSN+ ALT2 005:</display-name>
+    <display-name>CA TSN+ ALT2 005: 02:30 SC: NFL Plays of the Year A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.006">
     <display-name>CA TSN+ ALT2 006</display-name>
-    <display-name>CA TSN+ ALT2 006:</display-name>
+    <display-name>CA TSN+ ALT2 006: 03:00 SC with Jay Onrait B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.007">
     <display-name>CA TSN+ ALT2 007</display-name>
-    <display-name>CA TSN+ ALT2 007:</display-name>
+    <display-name>CA TSN+ ALT2 007: 03:00 SPORTSCENTRE C 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.008">
     <display-name>CA TSN+ ALT2 008</display-name>
-    <display-name>CA TSN+ ALT2 008:</display-name>
+    <display-name>CA TSN+ ALT2 008: 03:00 SC: August Plays of the Month B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.009">
     <display-name>CA TSN+ ALT2 009</display-name>
-    <display-name>CA TSN+ ALT2 009:</display-name>
+    <display-name>CA TSN+ ALT2 009: 03:30 SPORTSCENTRE D 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.010">
     <display-name>CA TSN+ ALT2 010</display-name>
-    <display-name>CA TSN+ ALT2 010:</display-name>
+    <display-name>CA TSN+ ALT2 010: 03:30 SC: NFL Plays of the Year B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.011">
     <display-name>CA TSN+ ALT2 011</display-name>
-    <display-name>CA TSN+ ALT2 011:</display-name>
+    <display-name>CA TSN+ ALT2 011: 04:00 SC with Jay Onrait C 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.012">
     <display-name>CA TSN+ ALT2 012</display-name>
-    <display-name>CA TSN+ ALT2 012:</display-name>
+    <display-name>CA TSN+ ALT2 012: 04:00 SC: August Plays of the Month C 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.013">
     <display-name>CA TSN+ ALT2 013</display-name>
-    <display-name>CA TSN+ ALT2 013:</display-name>
+    <display-name>CA TSN+ ALT2 013: 04:30 SPORTSCENTRE E 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.014">
     <display-name>CA TSN+ ALT2 014</display-name>
-    <display-name>CA TSN+ ALT2 014:</display-name>
+    <display-name>CA TSN+ ALT2 014: 04:30 SC: NFL Plays of the Year C 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.015">
     <display-name>CA TSN+ ALT2 015</display-name>
-    <display-name>CA TSN+ ALT2 015:</display-name>
+    <display-name>CA TSN+ ALT2 015: 05:00 SC with Jay Onrait D 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.016">
     <display-name>CA TSN+ ALT2 016</display-name>
-    <display-name>CA TSN+ ALT2 016:</display-name>
+    <display-name>CA TSN+ ALT2 016: 05:00 SC: August Plays of the Month D 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.017">
     <display-name>CA TSN+ ALT2 017</display-name>
-    <display-name>CA TSN+ ALT2 017:</display-name>
+    <display-name>CA TSN+ ALT2 017: 05:30 SPORTSCENTRE F 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.018">
     <display-name>CA TSN+ ALT2 018</display-name>
-    <display-name>CA TSN+ ALT2 018:</display-name>
+    <display-name>CA TSN+ ALT2 018: 05:30 SC: NFL Plays of the Year D 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.019">
     <display-name>CA TSN+ ALT2 019</display-name>
-    <display-name>CA TSN+ ALT2 019:</display-name>
+    <display-name>CA TSN+ ALT2 019: 06:00 SC with Jay Onrait E 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.020">
     <display-name>CA TSN+ ALT2 020</display-name>
-    <display-name>CA TSN+ ALT2 020:</display-name>
+    <display-name>CA TSN+ ALT2 020: 06:00 SC: August Plays of the Month E 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.021">
     <display-name>CA TSN+ ALT2 021</display-name>
-    <display-name>CA TSN+ ALT2 021:</display-name>
+    <display-name>CA TSN+ ALT2 021: 06:30 SPORTSCENTRE G 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.022">
     <display-name>CA TSN+ ALT2 022</display-name>
-    <display-name>CA TSN+ ALT2 022:</display-name>
+    <display-name>CA TSN+ ALT2 022: 06:30 SC: NFL Plays of the Year E 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.023">
     <display-name>CA TSN+ ALT2 023</display-name>
-    <display-name>CA TSN+ ALT2 023:</display-name>
+    <display-name>CA TSN+ ALT2 023: 07:00 SC with Jay Onrait F 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.024">
     <display-name>CA TSN+ ALT2 024</display-name>
-    <display-name>CA TSN+ ALT2 024:</display-name>
+    <display-name>CA TSN+ ALT2 024: 07:00 SC: August Plays of the Month F 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.025">
     <display-name>CA TSN+ ALT2 025</display-name>
-    <display-name>CA TSN+ ALT2 025:</display-name>
+    <display-name>CA TSN+ ALT2 025: 07:30 SPORTSCENTRE H 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.026">
     <display-name>CA TSN+ ALT2 026</display-name>
-    <display-name>CA TSN+ ALT2 026:</display-name>
+    <display-name>CA TSN+ ALT2 026: 07:30 SC: NFL Plays of the Year F 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.027">
     <display-name>CA TSN+ ALT2 027</display-name>
-    <display-name>CA TSN+ ALT2 027:</display-name>
+    <display-name>CA TSN+ ALT2 027: 08:00 SC with Jay Onrait G 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.028">
     <display-name>CA TSN+ ALT2 028</display-name>
-    <display-name>CA TSN+ ALT2 028:</display-name>
+    <display-name>CA TSN+ ALT2 028: 08:00 SC: August Plays of the Month G 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.029">
     <display-name>CA TSN+ ALT2 029</display-name>
-    <display-name>CA TSN+ ALT2 029:</display-name>
+    <display-name>CA TSN+ ALT2 029: 08:30 SPORTSCENTRE I 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.030">
     <display-name>CA TSN+ ALT2 030</display-name>
-    <display-name>CA TSN+ ALT2 030:</display-name>
+    <display-name>CA TSN+ ALT2 030: 08:30 SC: NFL Plays of the Year G 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.031">
     <display-name>CA TSN+ ALT2 031</display-name>
-    <display-name>CA TSN+ ALT2 031:</display-name>
+    <display-name>CA TSN+ ALT2 031: 09:00 SC with Jay Onrait H 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.032">
     <display-name>CA TSN+ ALT2 032</display-name>
-    <display-name>CA TSN+ ALT2 032:</display-name>
+    <display-name>CA TSN+ ALT2 032: 09:00 SC: August Plays of the Month H 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.033">
     <display-name>CA TSN+ ALT2 033</display-name>
-    <display-name>CA TSN+ ALT2 033:</display-name>
+    <display-name>CA TSN+ ALT2 033: 09:30 SPORTSCENTRE J 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.034">
     <display-name>CA TSN+ ALT2 034</display-name>
-    <display-name>CA TSN+ ALT2 034:</display-name>
+    <display-name>CA TSN+ ALT2 034: 09:30 SC: NFL Plays of the Year H 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.035">
     <display-name>CA TSN+ ALT2 035</display-name>
-    <display-name>CA TSN+ ALT2 035:</display-name>
+    <display-name>CA TSN+ ALT2 035: 10:00 SC with Jay Onrait I 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.036">
     <display-name>CA TSN+ ALT2 036</display-name>
-    <display-name>CA TSN+ ALT2 036:</display-name>
+    <display-name>CA TSN+ ALT2 036: 10:00 SC: August Plays of the Month I 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.037">
     <display-name>CA TSN+ ALT2 037</display-name>
-    <display-name>CA TSN+ ALT2 037:</display-name>
+    <display-name>CA TSN+ ALT2 037: 10:30 SPORTSCENTRE K 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.038">
     <display-name>CA TSN+ ALT2 038</display-name>
-    <display-name>CA TSN+ ALT2 038:</display-name>
+    <display-name>CA TSN+ ALT2 038: 10:30 SC: NFL Plays of the Year I 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.039">
     <display-name>CA TSN+ ALT2 039</display-name>
-    <display-name>CA TSN+ ALT2 039:</display-name>
+    <display-name>CA TSN+ ALT2 039: 11:00 SC with Jay Onrait J 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.040">
     <display-name>CA TSN+ ALT2 040</display-name>
-    <display-name>CA TSN+ ALT2 040:</display-name>
+    <display-name>CA TSN+ ALT2 040: 11:00 SC: August Plays of the Month J 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.041">
     <display-name>CA TSN+ ALT2 041</display-name>
-    <display-name>CA TSN+ ALT2 041:</display-name>
+    <display-name>CA TSN+ ALT2 041: 11:30 SPORTSCENTRE L 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.042">
     <display-name>CA TSN+ ALT2 042</display-name>
-    <display-name>CA TSN+ ALT2 042:</display-name>
+    <display-name>CA TSN+ ALT2 042: 11:30 SC: NFL Plays of the Year J 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.043">
     <display-name>CA TSN+ ALT2 043</display-name>
-    <display-name>CA TSN+ ALT2 043:</display-name>
+    <display-name>CA TSN+ ALT2 043: 12:00 Pat McAfee Show A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.044">
     <display-name>CA TSN+ ALT2 044</display-name>
-    <display-name>CA TSN+ ALT2 044:</display-name>
+    <display-name>CA TSN+ ALT2 044: 12:00 Rich Eisen Show A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.045">
     <display-name>CA TSN+ ALT2 045</display-name>
-    <display-name>CA TSN+ ALT2 045:</display-name>
+    <display-name>CA TSN+ ALT2 045: 12:00 SC: Top 50 NBA Circus Shots A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.046">
     <display-name>CA TSN+ ALT2 046</display-name>
-    <display-name>CA TSN+ ALT2 046:</display-name>
+    <display-name>CA TSN+ ALT2 046: 12:00 First Take A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.047">
     <display-name>CA TSN+ ALT2 047</display-name>
-    <display-name>CA TSN+ ALT2 047:</display-name>
+    <display-name>CA TSN+ ALT2 047: 12:00 SC: Top 40 Hail Marys A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.048">
     <display-name>CA TSN+ ALT2 048</display-name>
-    <display-name>CA TSN+ ALT2 048:</display-name>
+    <display-name>CA TSN+ ALT2 048: 12:30 SC: NBA Plays of the Year 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.049">
     <display-name>CA TSN+ ALT2 049</display-name>
-    <display-name>CA TSN+ ALT2 049:</display-name>
+    <display-name>CA TSN+ ALT2 049: 12:30 SC: Coaches Gone Wild 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.050">
     <display-name>CA TSN+ ALT2 050</display-name>
-    <display-name>CA TSN+ ALT2 050:</display-name>
+    <display-name>CA TSN+ ALT2 050: 12:30 SPORTSCENTRE M 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.051">
     <display-name>CA TSN+ ALT2 051</display-name>
-    <display-name>CA TSN+ ALT2 051:</display-name>
+    <display-name>CA TSN+ ALT2 051: 13:00 Formula 1: Spanish Grand Prix B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.052">
     <display-name>CA TSN+ ALT2 052</display-name>
-    <display-name>CA TSN+ ALT2 052:</display-name>
+    <display-name>CA TSN+ ALT2 052: 13:00 BarDown: Shattuck-St. Mary&#x27;s School Tour 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.053">
     <display-name>CA TSN+ ALT2 053</display-name>
-    <display-name>CA TSN+ ALT2 053:</display-name>
+    <display-name>CA TSN+ ALT2 053: 13:00 SC: Top Fan Moments 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.054">
     <display-name>CA TSN+ ALT2 054</display-name>
-    <display-name>CA TSN+ ALT2 054:</display-name>
+    <display-name>CA TSN+ ALT2 054: 13:30 TSN&#x27;s Pre-Season Draft Ranking Show A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.055">
     <display-name>CA TSN+ ALT2 055</display-name>
-    <display-name>CA TSN+ ALT2 055:</display-name>
+    <display-name>CA TSN+ ALT2 055: 13:30 SC: Top 50 Saves of All-Time 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.056">
     <display-name>CA TSN+ ALT2 056</display-name>
-    <display-name>CA TSN+ ALT2 056:</display-name>
+    <display-name>CA TSN+ ALT2 056: 14:00 Motorcycle Experience A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.057">
     <display-name>CA TSN+ ALT2 057</display-name>
-    <display-name>CA TSN+ ALT2 057:</display-name>
+    <display-name>CA TSN+ ALT2 057: 14:00 Big Day with Peter Schrager A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.058">
     <display-name>CA TSN+ ALT2 058</display-name>
-    <display-name>CA TSN+ ALT2 058:</display-name>
+    <display-name>CA TSN+ ALT2 058: 14:00 SC: Top OverDrive Moments 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.059">
     <display-name>CA TSN+ ALT2 059</display-name>
-    <display-name>CA TSN+ ALT2 059:</display-name>
+    <display-name>CA TSN+ ALT2 059: 14:30 Canadian Superbike Championship: Pro Supersport Race 5 of 8 A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.060">
     <display-name>CA TSN+ ALT2 060</display-name>
-    <display-name>CA TSN+ ALT2 060:</display-name>
+    <display-name>CA TSN+ ALT2 060: 14:48 LaLiga: Villarreal vs Real Betis 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.061">
     <display-name>CA TSN+ ALT2 061</display-name>
-    <display-name>CA TSN+ ALT2 061:</display-name>
+    <display-name>CA TSN+ ALT2 061: 15:00 NBA Today A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.062">
     <display-name>CA TSN+ ALT2 062</display-name>
-    <display-name>CA TSN+ ALT2 062:</display-name>
+    <display-name>CA TSN+ ALT2 062: 15:00 NFL Live A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.063">
     <display-name>CA TSN+ ALT2 063</display-name>
-    <display-name>CA TSN+ ALT2 063:</display-name>
+    <display-name>CA TSN+ ALT2 063: 15:00 Amazing Race Canada 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.064">
     <display-name>CA TSN+ ALT2 064</display-name>
-    <display-name>CA TSN+ ALT2 064:</display-name>
+    <display-name>CA TSN+ ALT2 064: 16:00 OverDrive A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT2.065">
-    <display-name>CA TSN+ ALT2 065</display-name>
-    <display-name>CA TSN+ ALT2 065:</display-name>
+  <channel id="custom.CA.TSN.ON.A.09-14.tvg-logo.https">
+    <display-name>ON A 09-14&quot; tvg-logo=&quot;https</display-name>
+    <display-name>ON A 09-14&quot; tvg-logo=&quot;https://image-basket.xyz/logo/family/tsn.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 065: 16:00 NASCAR Canada Series: WeatherTech 200 vs Bowmanville, ON A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.066">
     <display-name>CA TSN+ ALT2 066</display-name>
-    <display-name>CA TSN+ ALT2 066:</display-name>
+    <display-name>CA TSN+ ALT2 066: 17:00 SC: Top Moments of the FIFA World Cup 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.067">
     <display-name>CA TSN+ ALT2 067</display-name>
-    <display-name>CA TSN+ ALT2 067:</display-name>
+    <display-name>CA TSN+ ALT2 067: 17:30 Pardon The Interruption A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.068">
     <display-name>CA TSN+ ALT2 068</display-name>
-    <display-name>CA TSN+ ALT2 068:</display-name>
+    <display-name>CA TSN+ ALT2 068: 17:30 SC: Top Playoff Soundbites 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.069">
     <display-name>CA TSN+ ALT2 069</display-name>
-    <display-name>CA TSN+ ALT2 069:</display-name>
+    <display-name>CA TSN+ ALT2 069: 18:00 SPORTSCENTRE N 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.070">
     <display-name>CA TSN+ ALT2 070</display-name>
-    <display-name>CA TSN+ ALT2 070:</display-name>
+    <display-name>CA TSN+ ALT2 070: 18:00 NFL Monday Night Countdown A 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.071">
     <display-name>CA TSN+ ALT2 071</display-name>
-    <display-name>CA TSN+ ALT2 071:</display-name>
+    <display-name>CA TSN+ ALT2 071: 18:00 SC: Outrageous NASCAR Moments 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.072">
     <display-name>CA TSN+ ALT2 072</display-name>
-    <display-name>CA TSN+ ALT2 072:</display-name>
+    <display-name>CA TSN+ ALT2 072: 18:30 SC: Top 50 Curling Shots 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.073">
     <display-name>CA TSN+ ALT2 073</display-name>
-    <display-name>CA TSN+ ALT2 073:</display-name>
+    <display-name>CA TSN+ ALT2 073: 19:00 SC: Top 50 Tennis Shots of All-Time 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.074">
     <display-name>CA TSN+ ALT2 074</display-name>
-    <display-name>CA TSN+ ALT2 074:</display-name>
+    <display-name>CA TSN+ ALT2 074: 19:30 NFL Monday Night Countdown B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.075">
     <display-name>CA TSN+ ALT2 075</display-name>
-    <display-name>CA TSN+ ALT2 075:</display-name>
+    <display-name>CA TSN+ ALT2 075: 19:30 US Open Tennis: Men&#x27;s Final 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.076">
     <display-name>CA TSN+ ALT2 076</display-name>
-    <display-name>CA TSN+ ALT2 076:</display-name>
+    <display-name>CA TSN+ ALT2 076: 20:15 Monday Night Football with Peyton and Eli: Broncos vs Chiefs 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.077">
     <display-name>CA TSN+ ALT2 077</display-name>
-    <display-name>CA TSN+ ALT2 077:</display-name>
+    <display-name>CA TSN+ ALT2 077: 20:15 NFL Monday Night Football: Broncos vs Chiefs 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.078">
     <display-name>CA TSN+ ALT2 078</display-name>
-    <display-name>CA TSN+ ALT2 078:</display-name>
+    <display-name>CA TSN+ ALT2 078: 23:00 TSN&#x27;s Pre-Season Draft Ranking Show B 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.079">
     <display-name>CA TSN+ ALT2 079</display-name>
-    <display-name>CA TSN+ ALT2 079:</display-name>
+    <display-name>CA TSN+ ALT2 079: 23:30 SC with Jay Onrait K 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.080">
     <display-name>CA TSN+ ALT2 080</display-name>
-    <display-name>CA TSN+ ALT2 080:</display-name>
+    <display-name>CA TSN+ ALT2 080: 23:30 SC: Top World Junior Moments 09-14</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.081">
     <display-name>CA TSN+ ALT2 081</display-name>
-    <display-name>CA TSN+ ALT2 081:</display-name>
+    <display-name>CA TSN+ ALT2 081: 00:00 SC: Top 10 Women&#x27;s World Hockey Championship Games 09-15</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.082">
@@ -11646,502 +11646,502 @@
   </channel>
   <channel id="custom.AU.KAYO.KAYO.001">
     <display-name>KAYO+ 001</display-name>
-    <display-name>KAYO+ 001:</display-name>
+    <display-name>KAYO+ 001: 00:55 Mexico vs Brazil (HEVC) 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.002">
     <display-name>KAYO+ 002</display-name>
-    <display-name>KAYO+ 002:</display-name>
+    <display-name>KAYO+ 002: 03:00 NxtGen Week 2 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.003">
     <display-name>KAYO+ 003</display-name>
-    <display-name>KAYO+ 003:</display-name>
+    <display-name>KAYO+ 003: 03:55 China vs Netherlands 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.004">
     <display-name>KAYO+ 004</display-name>
-    <display-name>KAYO+ 004:</display-name>
+    <display-name>KAYO+ 004: 06:55 NZ vs Mexico 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.005">
     <display-name>KAYO+ 005</display-name>
-    <display-name>KAYO+ 005:</display-name>
+    <display-name>KAYO+ 005: 09:30 Cubs vs Braves 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.006">
     <display-name>KAYO+ 006</display-name>
-    <display-name>KAYO+ 006:</display-name>
+    <display-name>KAYO+ 006: 09:55 USA vs NZ 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.007">
     <display-name>KAYO+ 007</display-name>
-    <display-name>KAYO+ 007:</display-name>
+    <display-name>KAYO+ 007: 10:00 Chiefs vs Broncos 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.008">
     <display-name>KAYO+ 008</display-name>
-    <display-name>KAYO+ 008:</display-name>
+    <display-name>KAYO+ 008: 19:00 Amsterdam vs Dublin 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.009">
     <display-name>KAYO+ 009</display-name>
-    <display-name>KAYO+ 009:</display-name>
+    <display-name>KAYO+ 009: 23:10 Edinburgh vs Rotterdam 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.010">
     <display-name>KAYO+ 010</display-name>
-    <display-name>KAYO+ 010:</display-name>
+    <display-name>KAYO+ 010: 23:50 Afghanistan vs India G2 09-15</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.011">
     <display-name>KAYO+ 011</display-name>
-    <display-name>KAYO+ 011:</display-name>
+    <display-name>KAYO+ 011: 00:55 Brazil vs Netherlands 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.012">
     <display-name>KAYO+ 012</display-name>
-    <display-name>KAYO+ 012:</display-name>
+    <display-name>KAYO+ 012: 01:00 Trestles Day 5 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.013">
     <display-name>KAYO+ 013</display-name>
-    <display-name>KAYO+ 013:</display-name>
+    <display-name>KAYO+ 013: 03:00 England vs Sri Lanka G1 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.014">
     <display-name>KAYO+ 014</display-name>
-    <display-name>KAYO+ 014:</display-name>
+    <display-name>KAYO+ 014: 03:55 Mexico vs China 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.015">
     <display-name>KAYO+ 015</display-name>
-    <display-name>KAYO+ 015:</display-name>
+    <display-name>KAYO+ 015: 06:55 NZ vs Brazil 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.016">
     <display-name>KAYO+ 016</display-name>
-    <display-name>KAYO+ 016:</display-name>
+    <display-name>KAYO+ 016: 09:55 China vs USA 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.017">
     <display-name>KAYO+ 017</display-name>
-    <display-name>KAYO+ 017:</display-name>
+    <display-name>KAYO+ 017: 10:00 Rangers vs Red Sox 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.018">
     <display-name>KAYO+ 018</display-name>
-    <display-name>KAYO+ 018:</display-name>
+    <display-name>KAYO+ 018: 22:45 Glasgow vs Amsterdam 09-16</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.019">
     <display-name>KAYO+ 019</display-name>
-    <display-name>KAYO+ 019:</display-name>
+    <display-name>KAYO+ 019: 01:00 Trestles Day 6 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.020">
     <display-name>KAYO+ 020</display-name>
-    <display-name>KAYO+ 020:</display-name>
+    <display-name>KAYO+ 020: 03:55 Playoff Tridents vs Amazon Warriors 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.021">
     <display-name>KAYO+ 021</display-name>
-    <display-name>KAYO+ 021:</display-name>
+    <display-name>KAYO+ 021: 09:55 Eliminator Tridents vs Kingsmen 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.022">
     <display-name>KAYO+ 022</display-name>
-    <display-name>KAYO+ 022:</display-name>
+    <display-name>KAYO+ 022: 16:30 PGA Championship Round 1 Featured Groups 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.023">
     <display-name>KAYO+ 023</display-name>
-    <display-name>KAYO+ 023:</display-name>
+    <display-name>KAYO+ 023: 17:30 PGA Championship Round 1 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.024">
     <display-name>KAYO+ 024</display-name>
-    <display-name>KAYO+ 024:</display-name>
+    <display-name>KAYO+ 024: 19:00 Edinburgh vs Belfast 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.025">
     <display-name>KAYO+ 025</display-name>
-    <display-name>KAYO+ 025: 06:55 NZ vs Mexico 09-15</display-name>
+    <display-name>KAYO+ 025: 21:00 Biltmore Championship Round 1 Featured Groups 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.026">
     <display-name>KAYO+ 026</display-name>
-    <display-name>KAYO+ 026: 09:30 Cubs vs Braves 09-15</display-name>
+    <display-name>KAYO+ 026: 23:10 Rotterdam vs Dublin 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.027">
     <display-name>KAYO+ 027</display-name>
-    <display-name>KAYO+ 027: 09:55 USA vs NZ 09-15</display-name>
+    <display-name>KAYO+ 027: 23:50 Afghanistan vs India G3 09-17</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.028">
     <display-name>KAYO+ 028</display-name>
-    <display-name>KAYO+ 028: 10:00 Chiefs vs Broncos 09-15</display-name>
+    <display-name>KAYO+ 028: 01:00 Trestles Day 7 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.029">
     <display-name>KAYO+ 029</display-name>
-    <display-name>KAYO+ 029: 19:00 Amsterdam vs Dublin 09-15</display-name>
+    <display-name>KAYO+ 029: 01:00 La Sella Open Round 1 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.030">
     <display-name>KAYO+ 030</display-name>
-    <display-name>KAYO+ 030: 23:10 Edinburgh vs Rotterdam 09-15</display-name>
+    <display-name>KAYO+ 030: 03:00 World Series Finals Day 1 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.031">
     <display-name>KAYO+ 031</display-name>
-    <display-name>KAYO+ 031: 23:50 Afghanistan vs India G2 09-15</display-name>
+    <display-name>KAYO+ 031: 03:00 England vs Sri Lanka G2 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.032">
     <display-name>KAYO+ 032</display-name>
-    <display-name>KAYO+ 032: 00:55 Brazil vs Netherlands 09-16</display-name>
+    <display-name>KAYO+ 032: 03:55 Final 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.033">
     <display-name>KAYO+ 033</display-name>
-    <display-name>KAYO+ 033: 01:00 Trestles Day 5 09-16</display-name>
+    <display-name>KAYO+ 033: 05:00 Biltmore Championship Round 1 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.034">
     <display-name>KAYO+ 034</display-name>
-    <display-name>KAYO+ 034: 02:00 England vs Sri Lanka G1 09-16</display-name>
+    <display-name>KAYO+ 034: 09:55 Qualifier 1 Falcons vs Amazon Warriors 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.035">
     <display-name>KAYO+ 035</display-name>
-    <display-name>KAYO+ 035: 03:55 Mexico vs China 09-16</display-name>
+    <display-name>KAYO+ 035: 10:00 NSW Open Qualifiers Catalina 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.036">
     <display-name>KAYO+ 036</display-name>
-    <display-name>KAYO+ 036: 06:55 NZ vs Brazil 09-16</display-name>
+    <display-name>KAYO+ 036: 15:55 WA vs SA 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.037">
     <display-name>KAYO+ 037</display-name>
-    <display-name>KAYO+ 037: 09:55 China vs USA 09-16</display-name>
+    <display-name>KAYO+ 037: 16:30 PGA Championship Round 2 Featured Groups 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.038">
     <display-name>KAYO+ 038</display-name>
-    <display-name>KAYO+ 038: 10:00 Rangers vs Red Sox 09-16</display-name>
+    <display-name>KAYO+ 038: 16:55 Austria Practice 1 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.039">
     <display-name>KAYO+ 039</display-name>
-    <display-name>KAYO+ 039: 22:45 Glasgow vs Amsterdam 09-16</display-name>
+    <display-name>KAYO+ 039: 17:30 Hawthorn vs North Melbourne 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.040">
     <display-name>KAYO+ 040</display-name>
-    <display-name>KAYO+ 040: 01:00 Trestles Day 6 09-17</display-name>
+    <display-name>KAYO+ 040: 17:30 PGA Championship Round 2 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.041">
     <display-name>KAYO+ 041</display-name>
-    <display-name>KAYO+ 041: 03:55 Qualifier 09-17</display-name>
+    <display-name>KAYO+ 041: 17:40 Austria Practice 1 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.042">
     <display-name>KAYO+ 042</display-name>
-    <display-name>KAYO+ 042: 09:55 Eliminator 09-17</display-name>
+    <display-name>KAYO+ 042: 21:00 Biltmore Championship Round 2 Featured Groups 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.043">
     <display-name>KAYO+ 043</display-name>
-    <display-name>KAYO+ 043: 16:30 PGA Championship Round 1 Featured Groups 09-17</display-name>
+    <display-name>KAYO+ 043: 21:10 Austria Practice 2 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.044">
     <display-name>KAYO+ 044</display-name>
-    <display-name>KAYO+ 044: 17:30 PGA Championship Round 1 09-17</display-name>
+    <display-name>KAYO+ 044: 21:55 Austria Practice 2 09-18</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.045">
     <display-name>KAYO+ 045</display-name>
-    <display-name>KAYO+ 045: 19:00 Edinburgh vs Belfast 09-17</display-name>
+    <display-name>KAYO+ 045: 01:00 Trestles Day 8 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.046">
     <display-name>KAYO+ 046</display-name>
-    <display-name>KAYO+ 046: 21:00 Biltmore Championship Round 1 Featured Groups 09-17</display-name>
+    <display-name>KAYO+ 046: 01:00 La Sella Open Round 2 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.047">
     <display-name>KAYO+ 047</display-name>
-    <display-name>KAYO+ 047: 23:10 Rotterdam vs Dublin 09-17</display-name>
+    <display-name>KAYO+ 047: 03:00 World Series Finals Day 2 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.048">
     <display-name>KAYO+ 048</display-name>
-    <display-name>KAYO+ 048: 23:50 Afghanistan vs India G3 09-17</display-name>
+    <display-name>KAYO+ 048: 05:00 Biltmore Championship Round 2 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.049">
     <display-name>KAYO+ 049</display-name>
-    <display-name>KAYO+ 049: 01:00 Trestles Day 7 09-18</display-name>
+    <display-name>KAYO+ 049: 08:00 Pure Insurance Championship Round 1 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.050">
     <display-name>KAYO+ 050</display-name>
-    <display-name>KAYO+ 050: 01:00 La Sella Open Round 1 09-18</display-name>
+    <display-name>KAYO+ 050: 08:55 Qualifier 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.051">
     <display-name>KAYO+ 051</display-name>
-    <display-name>KAYO+ 051: 03:00 World Series Finals Day 1 09-18</display-name>
+    <display-name>KAYO+ 051: 12:30 Collingwood vs Geelong 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.052">
     <display-name>KAYO+ 052</display-name>
-    <display-name>KAYO+ 052: 03:00 England vs Sri Lanka G2 09-18</display-name>
+    <display-name>KAYO+ 052: 13:00 Melbourne vs Carlton 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.053">
     <display-name>KAYO+ 053</display-name>
-    <display-name>KAYO+ 053: 03:55 Final 09-18</display-name>
+    <display-name>KAYO+ 053: 13:55 QLD vs VIC 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.054">
     <display-name>KAYO+ 054</display-name>
-    <display-name>KAYO+ 054: 05:00 Biltmore Championship Round 1 09-18</display-name>
+    <display-name>KAYO+ 054: 14:30 Port Adelaide vs Sydney 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.055">
     <display-name>KAYO+ 055</display-name>
-    <display-name>KAYO+ 055: 09:55 Qualifier 1 09-18</display-name>
+    <display-name>KAYO+ 055: 15:00 Fremantle vs Western Bulldogs 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.056">
     <display-name>KAYO+ 056</display-name>
-    <display-name>KAYO+ 056: 10:00 NSW Open Qualifiers Catalina 09-18</display-name>
+    <display-name>KAYO+ 056: 16:00 T100 France 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.057">
     <display-name>KAYO+ 057</display-name>
-    <display-name>KAYO+ 057: 16:30 PGA Championship Round 2 Featured Groups 09-18</display-name>
+    <display-name>KAYO+ 057: 18:00 PGA Championship Round 3 Featured Coverage 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.058">
     <display-name>KAYO+ 058</display-name>
-    <display-name>KAYO+ 058: 16:55 Austria Practice 1 09-18</display-name>
+    <display-name>KAYO+ 058: 18:05 Italy Qualifying 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.059">
     <display-name>KAYO+ 059</display-name>
-    <display-name>KAYO+ 059: 17:30 Hawthorn vs North Melbourne 09-18</display-name>
+    <display-name>KAYO+ 059: 21:00 World Series Finals Final Day 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.060">
     <display-name>KAYO+ 060</display-name>
-    <display-name>KAYO+ 060: 17:30 PGA Championship Round 2 09-18</display-name>
+    <display-name>KAYO+ 060: 21:00 PGA Championship Round 3 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.061">
     <display-name>KAYO+ 061</display-name>
-    <display-name>KAYO+ 061: 17:40 Austria Practice 1 09-18</display-name>
+    <display-name>KAYO+ 061: 22:25 Italy V8GP Race 1 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.062">
     <display-name>KAYO+ 062</display-name>
-    <display-name>KAYO+ 062: 21:00 Biltmore Championship Round 2 Featured Groups 09-18</display-name>
+    <display-name>KAYO+ 062: 23:00 England vs Sri Lanka G3 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.063">
     <display-name>KAYO+ 063</display-name>
-    <display-name>KAYO+ 063: 21:10 Austria Practice 2 09-18</display-name>
+    <display-name>KAYO+ 063: 23:00 La Sella Open Round 3 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.064">
     <display-name>KAYO+ 064</display-name>
-    <display-name>KAYO+ 064: 21:55 Austria Practice 2 09-18</display-name>
+    <display-name>KAYO+ 064: 23:10 Qualifier 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.065">
     <display-name>KAYO+ 065</display-name>
-    <display-name>KAYO+ 065: 01:00 Trestles Day 8 09-19</display-name>
+    <display-name>KAYO+ 065: 23:30 Geneva Day 1 09-19</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.066">
     <display-name>KAYO+ 066</display-name>
-    <display-name>KAYO+ 066: 01:00 La Sella Open Round 2 09-19</display-name>
+    <display-name>KAYO+ 066: 01:00 Trestles Day 9 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.067">
     <display-name>KAYO+ 067</display-name>
-    <display-name>KAYO+ 067: 03:00 World Series Finals Day 2 09-19</display-name>
+    <display-name>KAYO+ 067: 03:00 Biltmore Championship Round 3 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.068">
     <display-name>KAYO+ 068</display-name>
-    <display-name>KAYO+ 068: 05:00 Biltmore Championship Round 2 09-19</display-name>
+    <display-name>KAYO+ 068: 06:00 NCH Championship Round 3 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.069">
     <display-name>KAYO+ 069</display-name>
-    <display-name>KAYO+ 069: 08:00 Pure Insurance Championship Round 1 09-19</display-name>
+    <display-name>KAYO+ 069: 08:00 Pure Insurance Championship Round 2 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.070">
     <display-name>KAYO+ 070</display-name>
-    <display-name>KAYO+ 070: 08:55 Qualifier 09-19</display-name>
+    <display-name>KAYO+ 070: 11:00 UFC 331: Van vs Pantoja II 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.071">
     <display-name>KAYO+ 071</display-name>
-    <display-name>KAYO+ 071: 12:30 Collingwood vs Geelong 09-19</display-name>
+    <display-name>KAYO+ 071: 12:30 GWS vs Richmond 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.072">
     <display-name>KAYO+ 072</display-name>
-    <display-name>KAYO+ 072: 13:00 Melbourne vs Carlton 09-19</display-name>
+    <display-name>KAYO+ 072: 13:00 Essendon vs Gold Coast 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.073">
     <display-name>KAYO+ 073</display-name>
-    <display-name>KAYO+ 073: 14:30 Port Adelaide vs Sydney 09-19</display-name>
+    <display-name>KAYO+ 073: 15:00 St Kilda vs West Coast 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.074">
     <display-name>KAYO+ 074</display-name>
-    <display-name>KAYO+ 074: 15:00 Fremantle vs Western Bulldogs 09-19</display-name>
+    <display-name>KAYO+ 074: 17:00 Brisbane vs Adelaide 09-20</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.075">
     <display-name>KAYO+ 075</display-name>
-    <display-name>KAYO+ 075: 16:00 T100 France 09-19</display-name>
+    <display-name>KAYO+ 075: 19:00 IBC 05: Hardman vs Camilleri 09-23</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.076">
     <display-name>KAYO+ 076</display-name>
-    <display-name>KAYO+ 076: 18:00 PGA Championship Round 3 Featured Coverage 09-19</display-name>
+    <display-name>KAYO+ 076: 19:00 Geelong vs Hawthorn 09-24</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.077">
     <display-name>KAYO+ 077</display-name>
-    <display-name>KAYO+ 077: 21:00 World Series Finals Final Day 09-19</display-name>
+    <display-name>KAYO+ 077: 12:00 Essendon vs West Coast 09-25</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.078">
     <display-name>KAYO+ 078</display-name>
-    <display-name>KAYO+ 078: 21:00 PGA Championship Round 3 09-19</display-name>
+    <display-name>KAYO+ 078: 14:00 Western Bulldogs vs Port Adelaide 09-25</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.079">
     <display-name>KAYO+ 079</display-name>
-    <display-name>KAYO+ 079: 23:00 England vs Sri Lanka G3 09-19</display-name>
+    <display-name>KAYO+ 079: 16:00 Carlton vs Richmond 09-25</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.080">
     <display-name>KAYO+ 080</display-name>
-    <display-name>KAYO+ 080: 23:10 Qualifier 09-19</display-name>
+    <display-name>KAYO+ 080: 19:00 Melbourne vs North Melbourne 09-25</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.081">
     <display-name>KAYO+ 081</display-name>
-    <display-name>KAYO+ 081: 23:30 Geneva Day 1 09-19</display-name>
+    <display-name>KAYO+ 081: 13:00 Collingwood vs GWS 09-26</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.082">
     <display-name>KAYO+ 082</display-name>
-    <display-name>KAYO+ 082: 01:00 La Sella Open Round 3 09-20</display-name>
+    <display-name>KAYO+ 082: 13:00 Adelaide vs Fremantle 09-26</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.083">
     <display-name>KAYO+ 083</display-name>
-    <display-name>KAYO+ 083: 03:00 Biltmore Championship Round 3 09-20</display-name>
+    <display-name>KAYO+ 083: 15:00 Sydney vs Brisbane 09-26</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.084">
     <display-name>KAYO+ 084</display-name>
-    <display-name>KAYO+ 084: 08:00 Pure Insurance Championship Round 2 09-20</display-name>
+    <display-name>KAYO+ 084: 17:00 Gold Coast vs St Kilda 09-26</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.085">
     <display-name>KAYO+ 085</display-name>
-    <display-name>KAYO+ 085: 11:00 UFC 331: Van vs Pantoja II 09-20</display-name>
+    <display-name>KAYO+ 085: 10:00 AEW All Out 09-27</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.086">
     <display-name>KAYO+ 086</display-name>
-    <display-name>KAYO+ 086: 12:30 GWS vs Richmond 09-20</display-name>
+    <display-name>KAYO+ 086: 19:00 Carlton vs Hawthorn 10-01</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.087">
     <display-name>KAYO+ 087</display-name>
-    <display-name>KAYO+ 087: 13:00 Essendon vs Gold Coast 09-20</display-name>
+    <display-name>KAYO+ 087: 19:00 Richmond vs Geelong 10-02</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.088">
     <display-name>KAYO+ 088</display-name>
-    <display-name>KAYO+ 088: 15:00 St Kilda vs West Coast 09-20</display-name>
+    <display-name>KAYO+ 088: 13:00 GWS vs Essendon 10-03</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.089">
     <display-name>KAYO+ 089</display-name>
-    <display-name>KAYO+ 089: 17:00 Brisbane vs Adelaide 09-20</display-name>
+    <display-name>KAYO+ 089: 15:00 Western Bulldogs vs St Kilda 10-03</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.090">
     <display-name>KAYO+ 090</display-name>
-    <display-name>KAYO+ 090: 18:00 PGA Championship Final Round 09-20</display-name>
+    <display-name>KAYO+ 090: 17:00 Brisbane vs Gold Coast 10-03</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.091">
     <display-name>KAYO+ 091</display-name>
-    <display-name>KAYO+ 091: 18:00 PGA Championship Final Round Featured Coverage 09-20</display-name>
+    <display-name>KAYO+ 091: 19:00 Port Adelaide vs Adelaide 10-03</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.092">
     <display-name>KAYO+ 092</display-name>
-    <display-name>KAYO+ 092: 23:10 Final 09-20</display-name>
+    <display-name>KAYO+ 092:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.093">
     <display-name>KAYO+ 093</display-name>
-    <display-name>KAYO+ 093: 01:00 La Sella Open Final Round 09-21</display-name>
+    <display-name>KAYO+ 093:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.094">
     <display-name>KAYO+ 094</display-name>
-    <display-name>KAYO+ 094: 03:00 Biltmore Championship Final Round 09-21</display-name>
+    <display-name>KAYO+ 094:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.095">
     <display-name>KAYO+ 095</display-name>
-    <display-name>KAYO+ 095: 08:00 Pure Insurance Championship Final Round 09-21</display-name>
+    <display-name>KAYO+ 095:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.096">
     <display-name>KAYO+ 096</display-name>
-    <display-name>KAYO+ 096: 19:00 IBC 05: Hardman vs Camilleri 09-23</display-name>
+    <display-name>KAYO+ 096:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.097">
     <display-name>KAYO+ 097</display-name>
-    <display-name>KAYO+ 097: 19:00 Geelong vs Hawthorn 09-24</display-name>
+    <display-name>KAYO+ 097:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.098">
     <display-name>KAYO+ 098</display-name>
-    <display-name>KAYO+ 098: 12:00 Essendon vs West Coast 09-25</display-name>
+    <display-name>KAYO+ 098:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.099">
     <display-name>KAYO+ 099</display-name>
-    <display-name>KAYO+ 099: 14:00 Western Bulldogs vs Port Adelaide 09-25</display-name>
+    <display-name>KAYO+ 099:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.AU.KAYO.KAYO.100">
     <display-name>KAYO+ 100</display-name>
-    <display-name>KAYO+ 100: 16:00 Carlton vs Richmond 09-25</display-name>
+    <display-name>KAYO+ 100:</display-name>
     <display-name>AU KAYO+</display-name>
   </channel>
   <channel id="custom.UK.DISCOVERY.UK.D.001">
@@ -12184,383 +12184,458 @@
     <display-name>UK D+ 010</display-name>
     <display-name>UK DISCOVERY+</display-name>
   </channel>
-  <programme start="20260915065500 +1000" stop="20260915105500 +1000" channel="custom.AU.KAYO.KAYO.025">
+  <programme start="20260915005500 +1000" stop="20260915045500 +1000" channel="custom.AU.KAYO.KAYO.001">
+    <title>2:55 AM Mexico vs Brazil (HEVC)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260915030000 +1000" stop="20260915070000 +1000" channel="custom.AU.KAYO.KAYO.002">
+    <title>5:00 AM NxtGen Week 2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260915035500 +1000" stop="20260915075500 +1000" channel="custom.AU.KAYO.KAYO.003">
+    <title>5:55 AM China vs Netherlands</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260915065500 +1000" stop="20260915105500 +1000" channel="custom.AU.KAYO.KAYO.004">
     <title>8:55 AM NZ vs Mexico</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260915093000 +1000" stop="20260915133000 +1000" channel="custom.AU.KAYO.KAYO.026">
+  <programme start="20260915093000 +1000" stop="20260915133000 +1000" channel="custom.AU.KAYO.KAYO.005">
     <title>11:30 AM Cubs vs Braves</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260915095500 +1000" stop="20260915135500 +1000" channel="custom.AU.KAYO.KAYO.027">
+  <programme start="20260915095500 +1000" stop="20260915135500 +1000" channel="custom.AU.KAYO.KAYO.006">
     <title>11:55 AM USA vs NZ</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260915100000 +1000" stop="20260915140000 +1000" channel="custom.AU.KAYO.KAYO.028">
+  <programme start="20260915100000 +1000" stop="20260915140000 +1000" channel="custom.AU.KAYO.KAYO.007">
     <title>12:00 PM Chiefs vs Broncos</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260915190000 +1000" stop="20260915230000 +1000" channel="custom.AU.KAYO.KAYO.029">
+  <programme start="20260915190000 +1000" stop="20260915230000 +1000" channel="custom.AU.KAYO.KAYO.008">
     <title>9:00 PM sterdam vs Dublin</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260915231000 +1000" stop="20260916031000 +1000" channel="custom.AU.KAYO.KAYO.030">
+  <programme start="20260915231000 +1000" stop="20260916031000 +1000" channel="custom.AU.KAYO.KAYO.009">
     <title>1:10 AM Edinburgh vs Rotterdam</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260915235000 +1000" stop="20260916035000 +1000" channel="custom.AU.KAYO.KAYO.031">
+  <programme start="20260915235000 +1000" stop="20260916035000 +1000" channel="custom.AU.KAYO.KAYO.010">
     <title>1:50 AM Afghanistan vs India G2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916005500 +1000" stop="20260916045500 +1000" channel="custom.AU.KAYO.KAYO.032">
+  <programme start="20260916005500 +1000" stop="20260916045500 +1000" channel="custom.AU.KAYO.KAYO.011">
     <title>2:55 AM Brazil vs Netherlands</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916010000 +1000" stop="20260916050000 +1000" channel="custom.AU.KAYO.KAYO.033">
+  <programme start="20260916010000 +1000" stop="20260916050000 +1000" channel="custom.AU.KAYO.KAYO.012">
     <title>3:00 AM Trestles Day 5</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916020000 +1000" stop="20260916060000 +1000" channel="custom.AU.KAYO.KAYO.034">
-    <title>4:00 AM England vs Sri Lanka G1</title>
+  <programme start="20260916030000 +1000" stop="20260916070000 +1000" channel="custom.AU.KAYO.KAYO.013">
+    <title>5:00 AM England vs Sri Lanka G1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916035500 +1000" stop="20260916075500 +1000" channel="custom.AU.KAYO.KAYO.035">
+  <programme start="20260916035500 +1000" stop="20260916075500 +1000" channel="custom.AU.KAYO.KAYO.014">
     <title>5:55 AM Mexico vs China</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916065500 +1000" stop="20260916105500 +1000" channel="custom.AU.KAYO.KAYO.036">
+  <programme start="20260916065500 +1000" stop="20260916105500 +1000" channel="custom.AU.KAYO.KAYO.015">
     <title>8:55 AM NZ vs Brazil</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916095500 +1000" stop="20260916135500 +1000" channel="custom.AU.KAYO.KAYO.037">
+  <programme start="20260916095500 +1000" stop="20260916135500 +1000" channel="custom.AU.KAYO.KAYO.016">
     <title>11:55 AM China vs USA</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916100000 +1000" stop="20260916140000 +1000" channel="custom.AU.KAYO.KAYO.038">
+  <programme start="20260916100000 +1000" stop="20260916140000 +1000" channel="custom.AU.KAYO.KAYO.017">
     <title>12:00 PM Rangers vs Red Sox</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260916224500 +1000" stop="20260917024500 +1000" channel="custom.AU.KAYO.KAYO.039">
+  <programme start="20260916224500 +1000" stop="20260917024500 +1000" channel="custom.AU.KAYO.KAYO.018">
     <title>12:45 AM Glasgow vs Amsterdam</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917010000 +1000" stop="20260917050000 +1000" channel="custom.AU.KAYO.KAYO.040">
+  <programme start="20260917010000 +1000" stop="20260917050000 +1000" channel="custom.AU.KAYO.KAYO.019">
     <title>3:00 AM Trestles Day 6</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917035500 +1000" stop="20260917075500 +1000" channel="custom.AU.KAYO.KAYO.041">
-    <title>5:55 AM Qualifier</title>
+  <programme start="20260917035500 +1000" stop="20260917075500 +1000" channel="custom.AU.KAYO.KAYO.020">
+    <title>5:55 AM Playoff Tridents vs Amazon Warriors</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917095500 +1000" stop="20260917135500 +1000" channel="custom.AU.KAYO.KAYO.042">
-    <title>11:55 AM Eliminator</title>
+  <programme start="20260917095500 +1000" stop="20260917135500 +1000" channel="custom.AU.KAYO.KAYO.021">
+    <title>11:55 AM Eliminator Tridents vs Kingsmen</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917163000 +1000" stop="20260917203000 +1000" channel="custom.AU.KAYO.KAYO.043">
+  <programme start="20260917163000 +1000" stop="20260917203000 +1000" channel="custom.AU.KAYO.KAYO.022">
     <title>6:30 PM PGA Championship Round 1 Featured Groups</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917173000 +1000" stop="20260917213000 +1000" channel="custom.AU.KAYO.KAYO.044">
+  <programme start="20260917173000 +1000" stop="20260917213000 +1000" channel="custom.AU.KAYO.KAYO.023">
     <title>7:30 PM PGA Championship Round 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917190000 +1000" stop="20260917230000 +1000" channel="custom.AU.KAYO.KAYO.045">
+  <programme start="20260917190000 +1000" stop="20260917230000 +1000" channel="custom.AU.KAYO.KAYO.024">
     <title>9:00 PM Edinburgh vs Belfast</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917210000 +1000" stop="20260918010000 +1000" channel="custom.AU.KAYO.KAYO.046">
+  <programme start="20260917210000 +1000" stop="20260918010000 +1000" channel="custom.AU.KAYO.KAYO.025">
     <title>11:00 PM Biltmore Championship Round 1 Featured Groups</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917231000 +1000" stop="20260918031000 +1000" channel="custom.AU.KAYO.KAYO.047">
+  <programme start="20260917231000 +1000" stop="20260918031000 +1000" channel="custom.AU.KAYO.KAYO.026">
     <title>1:10 AM Rotterdam vs Dublin</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260917235000 +1000" stop="20260918035000 +1000" channel="custom.AU.KAYO.KAYO.048">
+  <programme start="20260917235000 +1000" stop="20260918035000 +1000" channel="custom.AU.KAYO.KAYO.027">
     <title>1:50 AM Afghanistan vs India G3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918010000 +1000" stop="20260918050000 +1000" channel="custom.AU.KAYO.KAYO.049">
+  <programme start="20260918010000 +1000" stop="20260918050000 +1000" channel="custom.AU.KAYO.KAYO.028">
     <title>3:00 AM Trestles Day 7</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918010000 +1000" stop="20260918050000 +1000" channel="custom.AU.KAYO.KAYO.050">
+  <programme start="20260918010000 +1000" stop="20260918050000 +1000" channel="custom.AU.KAYO.KAYO.029">
     <title>3:00 AM La Sella Open Round 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918030000 +1000" stop="20260918070000 +1000" channel="custom.AU.KAYO.KAYO.051">
+  <programme start="20260918030000 +1000" stop="20260918070000 +1000" channel="custom.AU.KAYO.KAYO.030">
     <title>5:00 AM World Series Finals Day 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918030000 +1000" stop="20260918070000 +1000" channel="custom.AU.KAYO.KAYO.052">
+  <programme start="20260918030000 +1000" stop="20260918070000 +1000" channel="custom.AU.KAYO.KAYO.031">
     <title>5:00 AM England vs Sri Lanka G2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918035500 +1000" stop="20260918075500 +1000" channel="custom.AU.KAYO.KAYO.053">
+  <programme start="20260918035500 +1000" stop="20260918075500 +1000" channel="custom.AU.KAYO.KAYO.032">
     <title>5:55 AM Final</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918050000 +1000" stop="20260918090000 +1000" channel="custom.AU.KAYO.KAYO.054">
+  <programme start="20260918050000 +1000" stop="20260918090000 +1000" channel="custom.AU.KAYO.KAYO.033">
     <title>7:00 AM Biltmore Championship Round 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918095500 +1000" stop="20260918135500 +1000" channel="custom.AU.KAYO.KAYO.055">
-    <title>11:55 AM Qualifier 1</title>
+  <programme start="20260918095500 +1000" stop="20260918135500 +1000" channel="custom.AU.KAYO.KAYO.034">
+    <title>11:55 AM Qualifier 1 Falcons vs Amazon Warriors</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918100000 +1000" stop="20260918140000 +1000" channel="custom.AU.KAYO.KAYO.056">
+  <programme start="20260918100000 +1000" stop="20260918140000 +1000" channel="custom.AU.KAYO.KAYO.035">
     <title>12:00 PM NSW Open Qualifiers Catalina</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918163000 +1000" stop="20260918203000 +1000" channel="custom.AU.KAYO.KAYO.057">
+  <programme start="20260918155500 +1000" stop="20260918195500 +1000" channel="custom.AU.KAYO.KAYO.036">
+    <title>5:55 PM WA vs SA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260918163000 +1000" stop="20260918203000 +1000" channel="custom.AU.KAYO.KAYO.037">
     <title>6:30 PM PGA Championship Round 2 Featured Groups</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918165500 +1000" stop="20260918205500 +1000" channel="custom.AU.KAYO.KAYO.058">
+  <programme start="20260918165500 +1000" stop="20260918205500 +1000" channel="custom.AU.KAYO.KAYO.038">
     <title>6:55 PM Austria Practice 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918173000 +1000" stop="20260918213000 +1000" channel="custom.AU.KAYO.KAYO.059">
+  <programme start="20260918173000 +1000" stop="20260918213000 +1000" channel="custom.AU.KAYO.KAYO.039">
     <title>7:30 PM Hawthorn vs North Melbourne</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918173000 +1000" stop="20260918213000 +1000" channel="custom.AU.KAYO.KAYO.060">
+  <programme start="20260918173000 +1000" stop="20260918213000 +1000" channel="custom.AU.KAYO.KAYO.040">
     <title>7:30 PM PGA Championship Round 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918174000 +1000" stop="20260918214000 +1000" channel="custom.AU.KAYO.KAYO.061">
+  <programme start="20260918174000 +1000" stop="20260918214000 +1000" channel="custom.AU.KAYO.KAYO.041">
     <title>7:40 PM Austria Practice 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918210000 +1000" stop="20260919010000 +1000" channel="custom.AU.KAYO.KAYO.062">
+  <programme start="20260918210000 +1000" stop="20260919010000 +1000" channel="custom.AU.KAYO.KAYO.042">
     <title>11:00 PM Biltmore Championship Round 2 Featured Groups</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918211000 +1000" stop="20260919011000 +1000" channel="custom.AU.KAYO.KAYO.063">
+  <programme start="20260918211000 +1000" stop="20260919011000 +1000" channel="custom.AU.KAYO.KAYO.043">
     <title>11:10 PM Austria Practice 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260918215500 +1000" stop="20260919015500 +1000" channel="custom.AU.KAYO.KAYO.064">
+  <programme start="20260918215500 +1000" stop="20260919015500 +1000" channel="custom.AU.KAYO.KAYO.044">
     <title>11:55 PM Austria Practice 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919010000 +1000" stop="20260919050000 +1000" channel="custom.AU.KAYO.KAYO.065">
+  <programme start="20260919010000 +1000" stop="20260919050000 +1000" channel="custom.AU.KAYO.KAYO.045">
     <title>3:00 AM Trestles Day 8</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919010000 +1000" stop="20260919050000 +1000" channel="custom.AU.KAYO.KAYO.066">
+  <programme start="20260919010000 +1000" stop="20260919050000 +1000" channel="custom.AU.KAYO.KAYO.046">
     <title>3:00 AM La Sella Open Round 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919030000 +1000" stop="20260919070000 +1000" channel="custom.AU.KAYO.KAYO.067">
+  <programme start="20260919030000 +1000" stop="20260919070000 +1000" channel="custom.AU.KAYO.KAYO.047">
     <title>5:00 AM World Series Finals Day 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919050000 +1000" stop="20260919090000 +1000" channel="custom.AU.KAYO.KAYO.068">
+  <programme start="20260919050000 +1000" stop="20260919090000 +1000" channel="custom.AU.KAYO.KAYO.048">
     <title>7:00 AM Biltmore Championship Round 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919080000 +1000" stop="20260919120000 +1000" channel="custom.AU.KAYO.KAYO.069">
+  <programme start="20260919080000 +1000" stop="20260919120000 +1000" channel="custom.AU.KAYO.KAYO.049">
     <title>10:00 AM Pure Insurance Championship Round 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919085500 +1000" stop="20260919125500 +1000" channel="custom.AU.KAYO.KAYO.070">
+  <programme start="20260919085500 +1000" stop="20260919125500 +1000" channel="custom.AU.KAYO.KAYO.050">
     <title>10:55 AM Qualifier</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919123000 +1000" stop="20260919163000 +1000" channel="custom.AU.KAYO.KAYO.071">
+  <programme start="20260919123000 +1000" stop="20260919163000 +1000" channel="custom.AU.KAYO.KAYO.051">
     <title>2:30 PM Collingwood vs Geelong</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919130000 +1000" stop="20260919170000 +1000" channel="custom.AU.KAYO.KAYO.072">
+  <programme start="20260919130000 +1000" stop="20260919170000 +1000" channel="custom.AU.KAYO.KAYO.052">
     <title>3:00 PM Melbourne vs Carlton</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919143000 +1000" stop="20260919183000 +1000" channel="custom.AU.KAYO.KAYO.073">
+  <programme start="20260919135500 +1000" stop="20260919175500 +1000" channel="custom.AU.KAYO.KAYO.053">
+    <title>3:55 PM QLD vs VIC</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260919143000 +1000" stop="20260919183000 +1000" channel="custom.AU.KAYO.KAYO.054">
     <title>4:30 PM Port Adelaide vs Sydney</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919150000 +1000" stop="20260919190000 +1000" channel="custom.AU.KAYO.KAYO.074">
+  <programme start="20260919150000 +1000" stop="20260919190000 +1000" channel="custom.AU.KAYO.KAYO.055">
     <title>5:00 PM Fremantle vs Western Bulldogs</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919160000 +1000" stop="20260919200000 +1000" channel="custom.AU.KAYO.KAYO.075">
+  <programme start="20260919160000 +1000" stop="20260919200000 +1000" channel="custom.AU.KAYO.KAYO.056">
     <title>6:00 PM T100 France</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919180000 +1000" stop="20260919220000 +1000" channel="custom.AU.KAYO.KAYO.076">
+  <programme start="20260919180000 +1000" stop="20260919220000 +1000" channel="custom.AU.KAYO.KAYO.057">
     <title>8:00 PM PGA Championship Round 3 Featured Coverage</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919210000 +1000" stop="20260920010000 +1000" channel="custom.AU.KAYO.KAYO.077">
+  <programme start="20260919180500 +1000" stop="20260919220500 +1000" channel="custom.AU.KAYO.KAYO.058">
+    <title>8:05 PM Italy Qualifying</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260919210000 +1000" stop="20260920010000 +1000" channel="custom.AU.KAYO.KAYO.059">
     <title>11:00 PM World Series Finals Final Day</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919210000 +1000" stop="20260920010000 +1000" channel="custom.AU.KAYO.KAYO.078">
+  <programme start="20260919210000 +1000" stop="20260920010000 +1000" channel="custom.AU.KAYO.KAYO.060">
     <title>11:00 PM PGA Championship Round 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919230000 +1000" stop="20260920030000 +1000" channel="custom.AU.KAYO.KAYO.079">
+  <programme start="20260919222500 +1000" stop="20260920022500 +1000" channel="custom.AU.KAYO.KAYO.061">
+    <title>12:25 AM Italy V8GP Race 1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260919230000 +1000" stop="20260920030000 +1000" channel="custom.AU.KAYO.KAYO.062">
     <title>1:00 AM England vs Sri Lanka G3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919231000 +1000" stop="20260920031000 +1000" channel="custom.AU.KAYO.KAYO.080">
+  <programme start="20260919230000 +1000" stop="20260920030000 +1000" channel="custom.AU.KAYO.KAYO.063">
+    <title>1:00 AM La Sella Open Round 3</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260919231000 +1000" stop="20260920031000 +1000" channel="custom.AU.KAYO.KAYO.064">
     <title>1:10 AM Qualifier</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260919233000 +1000" stop="20260920033000 +1000" channel="custom.AU.KAYO.KAYO.081">
+  <programme start="20260919233000 +1000" stop="20260920033000 +1000" channel="custom.AU.KAYO.KAYO.065">
     <title>1:30 AM Geneva Day 1</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920010000 +1000" stop="20260920050000 +1000" channel="custom.AU.KAYO.KAYO.082">
-    <title>3:00 AM La Sella Open Round 3</title>
+  <programme start="20260920010000 +1000" stop="20260920050000 +1000" channel="custom.AU.KAYO.KAYO.066">
+    <title>3:00 AM Trestles Day 9</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920030000 +1000" stop="20260920070000 +1000" channel="custom.AU.KAYO.KAYO.083">
+  <programme start="20260920030000 +1000" stop="20260920070000 +1000" channel="custom.AU.KAYO.KAYO.067">
     <title>5:00 AM Biltmore Championship Round 3</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920080000 +1000" stop="20260920120000 +1000" channel="custom.AU.KAYO.KAYO.084">
+  <programme start="20260920060000 +1000" stop="20260920100000 +1000" channel="custom.AU.KAYO.KAYO.068">
+    <title>8:00 AM NCH Championship Round 3</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260920080000 +1000" stop="20260920120000 +1000" channel="custom.AU.KAYO.KAYO.069">
     <title>10:00 AM Pure Insurance Championship Round 2</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920110000 +1000" stop="20260920150000 +1000" channel="custom.AU.KAYO.KAYO.085">
+  <programme start="20260920110000 +1000" stop="20260920150000 +1000" channel="custom.AU.KAYO.KAYO.070">
     <title>1:00 PM UFC 331: Van vs Pantoja II</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920123000 +1000" stop="20260920163000 +1000" channel="custom.AU.KAYO.KAYO.086">
+  <programme start="20260920123000 +1000" stop="20260920163000 +1000" channel="custom.AU.KAYO.KAYO.071">
     <title>2:30 PM GWS vs Richmond</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920130000 +1000" stop="20260920170000 +1000" channel="custom.AU.KAYO.KAYO.087">
+  <programme start="20260920130000 +1000" stop="20260920170000 +1000" channel="custom.AU.KAYO.KAYO.072">
     <title>3:00 PM Essendon vs Gold Coast</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920150000 +1000" stop="20260920190000 +1000" channel="custom.AU.KAYO.KAYO.088">
+  <programme start="20260920150000 +1000" stop="20260920190000 +1000" channel="custom.AU.KAYO.KAYO.073">
     <title>5:00 PM St Kilda vs West Coast</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920170000 +1000" stop="20260920210000 +1000" channel="custom.AU.KAYO.KAYO.089">
+  <programme start="20260920170000 +1000" stop="20260920210000 +1000" channel="custom.AU.KAYO.KAYO.074">
     <title>7:00 PM Brisbane vs Adelaide</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260920180000 +1000" stop="20260920220000 +1000" channel="custom.AU.KAYO.KAYO.090">
-    <title>8:00 PM PGA Championship Final Round</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260920180000 +1000" stop="20260920220000 +1000" channel="custom.AU.KAYO.KAYO.091">
-    <title>8:00 PM PGA Championship Final Round Featured Coverage</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260920231000 +1000" stop="20260921031000 +1000" channel="custom.AU.KAYO.KAYO.092">
-    <title>1:10 AM Final</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260921010000 +1000" stop="20260921050000 +1000" channel="custom.AU.KAYO.KAYO.093">
-    <title>3:00 AM La Sella Open Final Round</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260921030000 +1000" stop="20260921070000 +1000" channel="custom.AU.KAYO.KAYO.094">
-    <title>5:00 AM Biltmore Championship Final Round</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260921080000 +1000" stop="20260921120000 +1000" channel="custom.AU.KAYO.KAYO.095">
-    <title>10:00 AM Pure Insurance Championship Final Round</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • AU KAYO+</desc>
-  </programme>
-  <programme start="20260923190000 +1000" stop="20260923230000 +1000" channel="custom.AU.KAYO.KAYO.096">
+  <programme start="20260923190000 +1000" stop="20260923230000 +1000" channel="custom.AU.KAYO.KAYO.075">
     <title>9:00 PM IBC 05: Hardman vs Camilleri</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260924190000 +1000" stop="20260924230000 +1000" channel="custom.AU.KAYO.KAYO.097">
+  <programme start="20260924190000 +1000" stop="20260924230000 +1000" channel="custom.AU.KAYO.KAYO.076">
     <title>9:00 PM Geelong vs Hawthorn</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260925120000 +1000" stop="20260925160000 +1000" channel="custom.AU.KAYO.KAYO.098">
+  <programme start="20260925120000 +1000" stop="20260925160000 +1000" channel="custom.AU.KAYO.KAYO.077">
     <title>2:00 PM Essendon vs West Coast</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260925140000 +1000" stop="20260925180000 +1000" channel="custom.AU.KAYO.KAYO.099">
+  <programme start="20260925140000 +1000" stop="20260925180000 +1000" channel="custom.AU.KAYO.KAYO.078">
     <title>4:00 PM Western Bulldogs vs Port Adelaide</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
-  <programme start="20260925160000 +1000" stop="20260925200000 +1000" channel="custom.AU.KAYO.KAYO.100">
+  <programme start="20260925160000 +1000" stop="20260925200000 +1000" channel="custom.AU.KAYO.KAYO.079">
     <title>6:00 PM Carlton vs Richmond</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260925190000 +1000" stop="20260925230000 +1000" channel="custom.AU.KAYO.KAYO.080">
+    <title>9:00 PM Melbourne vs North Melbourne</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260926130000 +1000" stop="20260926170000 +1000" channel="custom.AU.KAYO.KAYO.081">
+    <title>3:00 PM Collingwood vs GWS</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260926130000 +1000" stop="20260926170000 +1000" channel="custom.AU.KAYO.KAYO.082">
+    <title>3:00 PM Adelaide vs Fremantle</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260926150000 +1000" stop="20260926190000 +1000" channel="custom.AU.KAYO.KAYO.083">
+    <title>5:00 PM Sydney vs Brisbane</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260926170000 +1000" stop="20260926210000 +1000" channel="custom.AU.KAYO.KAYO.084">
+    <title>7:00 PM Gold Coast vs St Kilda</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20260927100000 +1000" stop="20260927140000 +1000" channel="custom.AU.KAYO.KAYO.085">
+    <title>1:00 PM AEW All Out</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20261001190000 +1000" stop="20261001230000 +1000" channel="custom.AU.KAYO.KAYO.086">
+    <title>10:00 PM Carlton vs Hawthorn</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20261002190000 +1000" stop="20261002230000 +1000" channel="custom.AU.KAYO.KAYO.087">
+    <title>10:00 PM Richmond vs Geelong</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20261003130000 +1000" stop="20261003170000 +1000" channel="custom.AU.KAYO.KAYO.088">
+    <title>4:00 PM GWS vs Essendon</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20261003150000 +1000" stop="20261003190000 +1000" channel="custom.AU.KAYO.KAYO.089">
+    <title>6:00 PM Western Bulldogs vs St Kilda</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20261003170000 +1000" stop="20261003210000 +1000" channel="custom.AU.KAYO.KAYO.090">
+    <title>8:00 PM Brisbane vs Gold Coast</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • AU KAYO+</desc>
+  </programme>
+  <programme start="20261003190000 +1000" stop="20261003230000 +1000" channel="custom.AU.KAYO.KAYO.091">
+    <title>10:00 PM Port Adelaide vs Adelaide</title>
     <category>Sports</category>
     <desc>Vortex M3U • AU KAYO+</desc>
   </programme>
@@ -12574,13 +12649,23 @@
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260915043000 +1000" stop="20260915083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
+  <programme start="20260916050000 +1000" stop="20260916090000 +1000" channel="custom.AU.STAN.AU.STAN.003">
+    <title>7:00 AM Guadalajara: Day 3 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260916043000 +1000" stop="20260916083000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.001">
     <title>6:30 AM Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20260915050000 +1000" stop="20260915090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
+  <programme start="20260916050000 +1000" stop="20260916090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
     <title>7:00 AM Guadalajara: Day 2 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20260916050000 +1000" stop="20260916090000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
+    <title>7:00 AM Guadalajara: Day 3 WTA 500</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -13294,6 +13379,411 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
+  <programme start="20260914000000 -0400" stop="20260914040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.001">
+    <title>4:00 PM Formula 1: Spanish Grand Prix A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914010000 -0400" stop="20260914050000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.002">
+    <title>5:00 PM SPORTSCENTRE A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914020000 -0400" stop="20260914060000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.003">
+    <title>6:00 PM SPORTSCENTRE B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914023000 -0400" stop="20260914063000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.005">
+    <title>6:30 PM SC: NFL Plays of the Year A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914030000 -0400" stop="20260914070000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.006">
+    <title>7:00 PM SC with Jay Onrait B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914030000 -0400" stop="20260914070000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.007">
+    <title>7:00 PM SPORTSCENTRE C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914030000 -0400" stop="20260914070000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.008">
+    <title>7:00 PM SC: August Plays of the Month B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914033000 -0400" stop="20260914073000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.009">
+    <title>7:30 PM SPORTSCENTRE D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914033000 -0400" stop="20260914073000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.010">
+    <title>7:30 PM SC: NFL Plays of the Year B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914040000 -0400" stop="20260914080000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.011">
+    <title>8:00 PM SC with Jay Onrait C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914040000 -0400" stop="20260914080000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.012">
+    <title>8:00 PM SC: August Plays of the Month C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914043000 -0400" stop="20260914083000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.013">
+    <title>8:30 PM SPORTSCENTRE E</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914043000 -0400" stop="20260914083000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.014">
+    <title>8:30 PM SC: NFL Plays of the Year C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914050000 -0400" stop="20260914090000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.015">
+    <title>9:00 PM SC with Jay Onrait D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914050000 -0400" stop="20260914090000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.016">
+    <title>9:00 PM SC: August Plays of the Month D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914053000 -0400" stop="20260914093000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.017">
+    <title>9:30 PM SPORTSCENTRE F</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914053000 -0400" stop="20260914093000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.018">
+    <title>9:30 PM SC: NFL Plays of the Year D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914060000 -0400" stop="20260914100000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.019">
+    <title>10:00 PM SC with Jay Onrait E</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914060000 -0400" stop="20260914100000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.020">
+    <title>10:00 PM SC: August Plays of the Month E</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914063000 -0400" stop="20260914103000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.021">
+    <title>10:30 PM SPORTSCENTRE G</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914063000 -0400" stop="20260914103000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.022">
+    <title>10:30 PM SC: NFL Plays of the Year E</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914070000 -0400" stop="20260914110000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.023">
+    <title>11:00 PM SC with Jay Onrait F</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914070000 -0400" stop="20260914110000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.024">
+    <title>11:00 PM SC: August Plays of the Month F</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914073000 -0400" stop="20260914113000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.025">
+    <title>11:30 PM SPORTSCENTRE H</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914073000 -0400" stop="20260914113000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.026">
+    <title>11:30 PM SC: NFL Plays of the Year F</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914080000 -0400" stop="20260914120000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.027">
+    <title>12:00 AM SC with Jay Onrait G</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914080000 -0400" stop="20260914120000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.028">
+    <title>12:00 AM SC: August Plays of the Month G</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914083000 -0400" stop="20260914123000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.029">
+    <title>12:30 AM SPORTSCENTRE I</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914083000 -0400" stop="20260914123000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.030">
+    <title>12:30 AM SC: NFL Plays of the Year G</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914090000 -0400" stop="20260914130000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.031">
+    <title>1:00 AM SC with Jay Onrait H</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914090000 -0400" stop="20260914130000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.032">
+    <title>1:00 AM SC: August Plays of the Month H</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914093000 -0400" stop="20260914133000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.033">
+    <title>1:30 AM SPORTSCENTRE J</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914093000 -0400" stop="20260914133000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.034">
+    <title>1:30 AM SC: NFL Plays of the Year H</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914100000 -0400" stop="20260914140000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.035">
+    <title>2:00 AM SC with Jay Onrait I</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914100000 -0400" stop="20260914140000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.036">
+    <title>2:00 AM SC: August Plays of the Month I</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914103000 -0400" stop="20260914143000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.037">
+    <title>2:30 AM SPORTSCENTRE K</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914103000 -0400" stop="20260914143000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.038">
+    <title>2:30 AM SC: NFL Plays of the Year I</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914110000 -0400" stop="20260914150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.039">
+    <title>3:00 AM SC with Jay Onrait J</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914110000 -0400" stop="20260914150000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.040">
+    <title>3:00 AM SC: August Plays of the Month J</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914113000 -0400" stop="20260914153000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.041">
+    <title>3:30 AM SPORTSCENTRE L</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914113000 -0400" stop="20260914153000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.042">
+    <title>3:30 AM SC: NFL Plays of the Year J</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.043">
+    <title>4:00 AM Pat McAfee Show A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.044">
+    <title>4:00 AM Rich Eisen Show A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.045">
+    <title>4:00 AM SC: Top 50 NBA Circus Shots A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.046">
+    <title>4:00 AM First Take A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260914160000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.047">
+    <title>4:00 AM SC: Top 40 Hail Marys A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914123000 -0400" stop="20260914163000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.048">
+    <title>4:30 AM SC: NBA Plays of the Year</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914123000 -0400" stop="20260914163000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.049">
+    <title>4:30 AM SC: Coaches Gone Wild</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914123000 -0400" stop="20260914163000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.050">
+    <title>4:30 AM SPORTSCENTRE M</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914130000 -0400" stop="20260914170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.051">
+    <title>5:00 AM Formula 1: Spanish Grand Prix B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914130000 -0400" stop="20260914170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.052">
+    <title>5:00 AM BarDown: Shattuck-St. Mary&#x27;s School Tour</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914130000 -0400" stop="20260914170000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.053">
+    <title>5:00 AM SC: Top Fan Moments</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914133000 -0400" stop="20260914173000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.054">
+    <title>5:30 AM TSN&#x27;s Pre-Season Draft Ranking Show A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914133000 -0400" stop="20260914173000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.055">
+    <title>5:30 AM SC: Top 50 Saves of All-Time</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914140000 -0400" stop="20260914180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.056">
+    <title>6:00 AM Motorcycle Experience A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914140000 -0400" stop="20260914180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.057">
+    <title>6:00 AM Big Day with Peter Schrager A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914140000 -0400" stop="20260914180000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.058">
+    <title>6:00 AM SC: Top OverDrive Moments</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914143000 -0400" stop="20260914183000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.059">
+    <title>6:30 AM Canadian Superbike Championship: Pro Supersport Race 5 of 8 A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914144800 -0400" stop="20260914184800 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.060">
+    <title>6:48 AM LaLiga: Villarreal vs Real Betis</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914150000 -0400" stop="20260914190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.061">
+    <title>7:00 AM NBA Today A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914150000 -0400" stop="20260914190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.062">
+    <title>7:00 AM NFL Live A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914150000 -0400" stop="20260914190000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.063">
+    <title>7:00 AM azing Race Canada</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914160000 -0400" stop="20260914200000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.064">
+    <title>8:00 AM OverDrive A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914170000 -0400" stop="20260914210000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.066">
+    <title>9:00 AM SC: Top Moments of the FIFA World Cup</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914173000 -0400" stop="20260914213000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.067">
+    <title>9:30 AM Pardon The Interruption A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914173000 -0400" stop="20260914213000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.068">
+    <title>9:30 AM SC: Top Playoff Soundbites</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914180000 -0400" stop="20260914220000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.069">
+    <title>10:00 AM SPORTSCENTRE N</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914180000 -0400" stop="20260914220000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.070">
+    <title>10:00 AM NFL Monday Night Countdown A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914180000 -0400" stop="20260914220000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.071">
+    <title>10:00 AM SC: Outrageous NASCAR Moments</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914183000 -0400" stop="20260914223000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.072">
+    <title>10:30 AM SC: Top 50 Curling Shots</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914190000 -0400" stop="20260914230000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.073">
+    <title>11:00 AM SC: Top 50 Tennis Shots of All-Time</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914193000 -0400" stop="20260914233000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.074">
+    <title>11:30 AM NFL Monday Night Countdown B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914193000 -0400" stop="20260914233000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.075">
+    <title>11:30 AM US Open Tennis: Men&#x27;s Final</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914201500 -0400" stop="20260915001500 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.076">
+    <title>12:15 PM Monday Night Football with Peyton and Eli: Broncos vs Chiefs</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914201500 -0400" stop="20260915001500 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.077">
+    <title>12:15 PM NFL Monday Night Football: Broncos vs Chiefs</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914230000 -0400" stop="20260915030000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.078">
+    <title>3:00 PM TSN&#x27;s Pre-Season Draft Ranking Show B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914233000 -0400" stop="20260915033000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.079">
+    <title>3:30 PM SC with Jay Onrait K</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914233000 -0400" stop="20260915033000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.080">
+    <title>3:30 PM SC: Top World Junior Moments</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260915000000 -0400" stop="20260915040000 -0400" channel="custom.CA.TSN.CA.TSN.ALT2.081">
+    <title>4:00 PM SC: Top 10 Women&#x27;s World Hockey Championship Games</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914120000 -0400" stop="20260915000000 -0400" channel="custom.CA.TSN.ON.A.09-14.tvg-logo.https">
+    <title>//image-basket.xyz/logo/family/tsn.png&quot; group-title=&quot;CA TSN+&quot;,CA TSN+ ALT2 065: 16:00 NASCAR Canada Series: WeatherTech 200 vs Bowmanville, ON A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260914201500 -0400" stop="20260915001500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>12:15 PM El Paso County Raceway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
   <programme start="20260914201500 -0400" stop="20260915001500 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
     <title>12:15 PM El Paso County Raceway</title>
     <category>Sports</category>
@@ -13316,6 +13806,11 @@
   </programme>
   <programme start="20260914201500 -0400" stop="20260915001500 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>12:15 PM World of Outlaws Sprints El Paso</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260915010000 -0400" stop="20260915050000 -0400" channel="custom.PAY.PER.VIEW.PPV.ALT.001">
+    <title>5:00 PM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -15261,6 +15756,21 @@
   </programme>
   <programme start="20260914143500 -0400" stop="20260914183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.003">
     <title>6:35 AM Inter vs Udinese</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260914122000 -0400" stop="20260914162000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.01">
+    <title>4:20 AM Serie A: Como vs Parma</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260914122000 -0400" stop="20260914162000 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.02">
+    <title>4:20 AM Serie A: Torino vs Roma</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20260914143500 -0400" stop="20260914183500 -0400" channel="custom.US.PARAMOUNT.PARAMOUNT.ALT.03">
+    <title>6:35 AM Serie A: Inter vs Udinese</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
