@@ -340,27 +340,27 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night RAW",
-          "slot": "PPV2 01",
-          "slot_norm": "PPV2 1",
-          "start": "2026-09-14T20:00:00-04:00",
-          "stop": "2026-09-15T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
-        },
-        {
-          "display_title": "12:15 PM El Paso County Raceway",
+          "display_title": "1:30 PM DWCS Post Fight Conference",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-09-14T20:15:00-04:00",
-          "stop": "2026-09-15T00:15:00-04:00",
-          "title": "El Paso County Raceway"
+          "start": "2026-09-15T21:30:00-04:00",
+          "stop": "2026-09-16T01:30:00-04:00",
+          "title": "DWCS Post Fight Conference"
+        },
+        {
+          "display_title": "10:15 AM Millbridge Speedway",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-09-15T18:15:00-04:00",
+          "stop": "2026-09-15T22:15:00-04:00",
+          "title": "Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 624039446,
-      "message_timestamp": 1789387243,
+      "message_id": 624331039,
+      "message_timestamp": 1789475443,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-14T13:04:22.183712+00:00"
+      "updated_at": "2026-09-15T17:09:20.069325+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
