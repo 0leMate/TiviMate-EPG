@@ -4,12 +4,12 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "12:15 PM El Paso County Raceway",
+          "display_title": "10:15 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-15T20:15:00-04:00",
-          "stop": "2026-09-16T00:15:00-04:00",
-          "title": "El Paso County Raceway"
+          "start": "2026-09-15T18:15:00-04:00",
+          "stop": "2026-09-15T22:15:00-04:00",
+          "title": "Millbridge Speedway"
         },
         {
           "display_title": "10:15 AM Millbridge Speedway",
@@ -21,10 +21,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 624317272,
-      "message_timestamp": 1789471847,
+      "message_id": 624458092,
+      "message_timestamp": 1789504213,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-15T11:54:31.090713+00:00"
+      "updated_at": "2026-09-15T21:31:59.156648+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
