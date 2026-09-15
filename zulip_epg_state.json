@@ -12,19 +12,19 @@
           "title": "El Paso County Raceway"
         },
         {
-          "display_title": "12:15 PM El Paso County Raceway",
+          "display_title": "10:15 AM Millbridge Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-15T20:15:00-04:00",
-          "stop": "2026-09-16T00:15:00-04:00",
-          "title": "El Paso County Raceway"
+          "start": "2026-09-15T18:15:00-04:00",
+          "stop": "2026-09-15T22:15:00-04:00",
+          "title": "Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 624233344,
-      "message_timestamp": 1789444848,
+      "message_id": 624317272,
+      "message_timestamp": 1789471847,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-15T05:03:55.011474+00:00"
+      "updated_at": "2026-09-15T11:54:31.090713+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -121,98 +121,186 @@
       "events": [
         {
           "display_title": "3:50 AM Genoa vs Südtirol",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-15T11:50:00-04:00",
           "stop": "2026-09-15T15:50:00-04:00",
           "title": "Genoa vs Südtirol"
         },
         {
           "display_title": "6:00 AM Liverpool vs Tottenham",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-15T14:00:00-04:00",
           "stop": "2026-09-15T18:00:00-04:00",
           "title": "Liverpool vs Tottenham"
         },
         {
           "display_title": "6:00 AM West Ham United vs Fulham",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-15T14:00:00-04:00",
           "stop": "2026-09-15T18:00:00-04:00",
           "title": "West Ham United vs Fulham"
         },
         {
           "display_title": "6:00 AM Ipswich Town vs Arsenal",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-15T14:00:00-04:00",
           "stop": "2026-09-15T18:00:00-04:00",
           "title": "Ipswich Town vs Arsenal"
         },
         {
           "display_title": "6:35 AM Middlesbrough vs Millwall",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-15T14:35:00-04:00",
           "stop": "2026-09-15T18:35:00-04:00",
           "title": "Middlesbrough vs Millwall"
         },
         {
           "display_title": "6:50 AM Fiorentina vs Pisa",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-15T14:50:00-04:00",
           "stop": "2026-09-15T18:50:00-04:00",
           "title": "Fiorentina vs Pisa"
         },
         {
           "display_title": "10:50 AM Violette AC vs Club Sando FC",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-09-15T18:50:00-04:00",
           "stop": "2026-09-15T22:50:00-04:00",
           "title": "Violette AC vs Club Sando FC"
         },
         {
           "display_title": "10:50 AM Delfines del Este FC vs Defence Force FC",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-09-15T18:50:00-04:00",
           "stop": "2026-09-15T22:50:00-04:00",
           "title": "Delfines del Este FC vs Defence Force FC"
         },
         {
           "display_title": "11:00 AM Dana White\\`s Contender Series",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-09-15T19:00:00-04:00",
           "stop": "2026-09-15T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series"
         },
         {
           "display_title": "11:00 AM Dana White\\`s Contender Series em Português",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-09-15T19:00:00-04:00",
           "stop": "2026-09-15T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series em Português"
         },
         {
           "display_title": "11:00 AM Dana White\\`s Contender Series en Español",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-09-15T19:00:00-04:00",
           "stop": "2026-09-15T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series en Español"
+        },
+        {
+          "display_title": "3:50 AM Serie A: Genoa vs Südtirol",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-15T11:50:00-04:00",
+          "stop": "2026-09-15T15:50:00-04:00",
+          "title": "Serie A: Genoa vs Südtirol"
+        },
+        {
+          "display_title": "6:00 AM Carabao Cup: Liverpool vs Tottenham",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-15T14:00:00-04:00",
+          "stop": "2026-09-15T18:00:00-04:00",
+          "title": "Carabao Cup: Liverpool vs Tottenham"
+        },
+        {
+          "display_title": "6:00 AM Carabao Cup: West Ham United vs Fulham",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-15T14:00:00-04:00",
+          "stop": "2026-09-15T18:00:00-04:00",
+          "title": "Carabao Cup: West Ham United vs Fulham"
+        },
+        {
+          "display_title": "6:00 AM Carabao Cup: Ipswich Town vs Arsenal",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-15T14:00:00-04:00",
+          "stop": "2026-09-15T18:00:00-04:00",
+          "title": "Carabao Cup: Ipswich Town vs Arsenal"
+        },
+        {
+          "display_title": "6:35 AM English Football League: Middlesbrough vs Millwall",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-15T14:35:00-04:00",
+          "stop": "2026-09-15T18:35:00-04:00",
+          "title": "English Football League: Middlesbrough vs Millwall"
+        },
+        {
+          "display_title": "6:50 AM Serie A: Fiorentina vs Pisa",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-15T14:50:00-04:00",
+          "stop": "2026-09-15T18:50:00-04:00",
+          "title": "Serie A: Fiorentina vs Pisa"
+        },
+        {
+          "display_title": "10:50 AM Concacaf Champions Cup: Violette AC vs Club Sando FC",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-15T18:50:00-04:00",
+          "stop": "2026-09-15T22:50:00-04:00",
+          "title": "Concacaf Champions Cup: Violette AC vs Club Sando FC"
+        },
+        {
+          "display_title": "10:50 AM Concacaf Champions Cup: Delfines del Este FC vs Defence Force FC",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-09-15T18:50:00-04:00",
+          "stop": "2026-09-15T22:50:00-04:00",
+          "title": "Concacaf Champions Cup: Delfines del Este FC vs Defence Force FC"
+        },
+        {
+          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-09-15T19:00:00-04:00",
+          "stop": "2026-09-15T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series"
+        },
+        {
+          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series em Português",
+          "slot": "PARAMOUNT ALT 10",
+          "slot_norm": "PARAMOUNT ALT 10",
+          "start": "2026-09-15T19:00:00-04:00",
+          "stop": "2026-09-15T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series em Português"
+        },
+        {
+          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series en Español",
+          "slot": "PARAMOUNT ALT 11",
+          "slot_norm": "PARAMOUNT ALT 11",
+          "start": "2026-09-15T19:00:00-04:00",
+          "stop": "2026-09-15T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 624233410,
-      "message_timestamp": 1789444876,
+      "message_id": 624305013,
+      "message_timestamp": 1789468242,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-15T05:03:55.222748+00:00"
+      "updated_at": "2026-09-15T11:54:31.175228+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -388,71 +476,47 @@
           "start": "2026-09-15T20:00:00+01:00",
           "stop": "2026-09-16T00:00:00+01:00",
           "title": "Ipswich Town vs Arsenal // UK Tue 15 Sep // ET Tue 15 Sep 3:00pm"
+        },
+        {
+          "display_title": "7:00 AM Liverpool vs Tottenham Hotspur",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-09-15T20:00:00+01:00",
+          "stop": "2026-09-16T00:00:00+01:00",
+          "title": "Liverpool vs Tottenham Hotspur"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 624203984,
-      "message_timestamp": 1789430450,
+      "message_id": 624317247,
+      "message_timestamp": 1789471839,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-15T05:03:56.030228+00:00"
+      "updated_at": "2026-09-15T11:54:31.425164+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "6:30 AM Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027",
+          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
           "slot": "AU STAN 001",
           "slot_norm": "AU STAN 1",
-          "start": "2026-09-15T04:30:00+10:00",
-          "stop": "2026-09-15T08:30:00+10:00",
-          "title": "Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "7:00 AM Guadalajara: Day 2 WTA 500",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-09-15T05:00:00+10:00",
-          "stop": "2026-09-15T09:00:00+10:00",
-          "title": "Guadalajara: Day 2 WTA 500"
-        },
-        {
-          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
           "start": "2026-09-16T05:00:00+10:00",
           "stop": "2026-09-16T09:00:00+10:00",
           "title": "Guadalajara: Day 3 WTA 500"
         },
         {
-          "display_title": "6:30 AM Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027",
+          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
           "slot": "AU STAN ALT 001",
           "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-16T04:30:00+10:00",
-          "stop": "2026-09-16T08:30:00+10:00",
-          "title": "Leeds United vs Newcastle United Premier League Matchweek 4 2026/2027"
-        },
-        {
-          "display_title": "7:00 AM Guadalajara: Day 2 WTA 500",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-16T05:00:00+10:00",
-          "stop": "2026-09-16T09:00:00+10:00",
-          "title": "Guadalajara: Day 2 WTA 500"
-        },
-        {
-          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
           "start": "2026-09-16T05:00:00+10:00",
           "stop": "2026-09-16T09:00:00+10:00",
           "title": "Guadalajara: Day 3 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 624069107,
-      "message_timestamp": 1789394455,
+      "message_id": 624305045,
+      "message_timestamp": 1789468250,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-14T19:29:46.597424+00:00"
+      "updated_at": "2026-09-15T11:54:31.513699+00:00"
     }
   },
   "version": 1
