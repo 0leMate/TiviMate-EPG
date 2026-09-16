@@ -320,21 +320,13 @@
           "start": "2026-09-15T18:15:00-04:00",
           "stop": "2026-09-15T22:15:00-04:00",
           "title": "Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 PM WWE Monday Night RAW",
-          "slot": "PPV ALT 001",
-          "slot_norm": "PPV ALT 1",
-          "start": "2026-09-16T01:00:00-04:00",
-          "stop": "2026-09-16T05:00:00-04:00",
-          "title": "WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 624233380,
-      "message_timestamp": 1789444861,
+      "message_id": 624484986,
+      "message_timestamp": 1789513212,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-15T05:03:55.469845+00:00"
+      "updated_at": "2026-09-16T00:32:27.467517+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -366,131 +358,35 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "6:30 AM Bristol City vs Lincoln // UK Tue 15 Sep // ET Tue 15 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-09-15T19:30:00+01:00",
-          "stop": "2026-09-15T23:30:00+01:00",
-          "title": "Bristol City vs Lincoln // UK Tue 15 Sep // ET Tue 15 Sep 2:30pm"
-        },
-        {
-          "display_title": "6:30 AM Middlesbrough vs Millwall // UK Tue 15 Sep // ET Tue 15 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-09-15T19:30:00+01:00",
-          "stop": "2026-09-15T23:30:00+01:00",
-          "title": "Middlesbrough vs Millwall // UK Tue 15 Sep // ET Tue 15 Sep 2:30pm"
-        },
-        {
-          "display_title": "11:15 PM Burton vs Mansfield // UK Sat 19 Sep // ET Sat 19 Sep 7:15am",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-09-15T12:15:00+01:00",
-          "stop": "2026-09-15T16:15:00+01:00",
-          "title": "Burton vs Mansfield // UK Sat 19 Sep // ET Sat 19 Sep 7:15am"
-        },
-        {
-          "display_title": "11:15 PM Rochdale vs Oldham // UK Sat 19 Sep // ET Sat 19 Sep 7:15am",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-09-15T12:15:00+01:00",
-          "stop": "2026-09-15T16:15:00+01:00",
-          "title": "Rochdale vs Oldham // UK Sat 19 Sep // ET Sat 19 Sep 7:15am"
-        },
-        {
-          "display_title": "11:15 PM Walsall vs Port Vale // UK Sat 19 Sep // ET Sat 19 Sep 7:15am",
+          "display_title": "7:00 AM Coventry City vs Aston Villa // UK Wed 16 Sep // ET Wed 16 Sep 3:00pm",
           "slot": "SKY SPORTS+ 05",
           "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-09-15T12:15:00+01:00",
-          "stop": "2026-09-15T16:15:00+01:00",
-          "title": "Walsall vs Port Vale // UK Sat 19 Sep // ET Sat 19 Sep 7:15am"
+          "start": "2026-09-16T20:00:00+01:00",
+          "stop": "2026-09-17T00:00:00+01:00",
+          "title": "Coventry City vs Aston Villa // UK Wed 16 Sep // ET Wed 16 Sep 3:00pm"
         },
         {
-          "display_title": "6:15 AM Peterborough vs Barnsley // UK Tue 15 Sep // ET Tue 15 Sep 2:15pm",
+          "display_title": "6:30 AM Everton vs Wolves // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-09-15T19:15:00+01:00",
-          "stop": "2026-09-15T23:15:00+01:00",
-          "title": "Peterborough vs Barnsley // UK Tue 15 Sep // ET Tue 15 Sep 2:15pm"
+          "start": "2026-09-16T19:30:00+01:00",
+          "stop": "2026-09-16T23:30:00+01:00",
+          "title": "Everton vs Wolves // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm"
         },
         {
-          "display_title": "6:30 AM West Ham vs Fulham // UK Tue 15 Sep // ET Tue 15 Sep 2:30pm",
+          "display_title": "6:30 AM Fleetwood vs Sheff Utd // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-09-15T19:30:00+01:00",
-          "stop": "2026-09-15T23:30:00+01:00",
-          "title": "West Ham vs Fulham // UK Tue 15 Sep // ET Tue 15 Sep 2:30pm"
-        },
-        {
-          "display_title": "6:45 AM Reading vs Brentford // UK Tue 15 Sep // ET Tue 15 Sep 2:45pm",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-09-15T19:45:00+01:00",
-          "stop": "2026-09-15T23:45:00+01:00",
-          "title": "Reading vs Brentford // UK Tue 15 Sep // ET Tue 15 Sep 2:45pm"
-        },
-        {
-          "display_title": "5:45 AM Chesterfield vs Man City U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-09-15T18:45:00+01:00",
-          "stop": "2026-09-15T22:45:00+01:00",
-          "title": "Chesterfield vs Man City U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Leyton Orient vs Arsenal U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-09-15T18:45:00+01:00",
-          "stop": "2026-09-15T22:45:00+01:00",
-          "title": "Leyton Orient vs Arsenal U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Swindon vs Crystal Palace U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-09-15T18:45:00+01:00",
-          "stop": "2026-09-15T22:45:00+01:00",
-          "title": "Swindon vs Crystal Palace U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Wycombe vs Chelsea U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-09-15T18:45:00+01:00",
-          "stop": "2026-09-15T22:45:00+01:00",
-          "title": "Wycombe vs Chelsea U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM York vs Newcastle U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-09-15T18:45:00+01:00",
-          "stop": "2026-09-15T22:45:00+01:00",
-          "title": "York vs Newcastle U21 // UK Tue 15 Sep // ET Tue 15 Sep 1:45pm"
-        },
-        {
-          "display_title": "7:00 AM Ipswich Town vs Arsenal // UK Tue 15 Sep // ET Tue 15 Sep 3:00pm",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-09-15T20:00:00+01:00",
-          "stop": "2026-09-16T00:00:00+01:00",
-          "title": "Ipswich Town vs Arsenal // UK Tue 15 Sep // ET Tue 15 Sep 3:00pm"
-        },
-        {
-          "display_title": "7:00 AM Liverpool vs Tottenham Hotspur",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-09-15T20:00:00+01:00",
-          "stop": "2026-09-16T00:00:00+01:00",
-          "title": "Liverpool vs Tottenham Hotspur"
+          "start": "2026-09-16T19:30:00+01:00",
+          "stop": "2026-09-16T23:30:00+01:00",
+          "title": "Fleetwood vs Sheff Utd // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 624317247,
-      "message_timestamp": 1789471839,
+      "message_id": 624492334,
+      "message_timestamp": 1789516814,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-15T11:54:31.425164+00:00"
+      "updated_at": "2026-09-16T00:32:28.421966+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
