@@ -120,91 +120,27 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "4:00 AM Omonia vs Celta Vigo",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
-          "start": "2026-09-16T12:00:00-04:00",
-          "stop": "2026-09-16T16:00:00-04:00",
-          "title": "Omonia vs Celta Vigo"
+          "display_title": "1:00 PM Lamar Hunt U.S. Open Cup: Colorado Rapids vs St Louis CITY SC",
+          "slot": "PARAMOUNT ALT 16",
+          "slot_norm": "PARAMOUNT ALT 16",
+          "start": "2026-09-16T21:00:00-04:00",
+          "stop": "2026-09-17T01:00:00-04:00",
+          "title": "Lamar Hunt U.S. Open Cup: Colorado Rapids vs St Louis CITY SC"
         },
         {
-          "display_title": "4:00 AM Ararat Armenia vs Sparta Praha",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-09-16T12:00:00-04:00",
-          "stop": "2026-09-16T16:00:00-04:00",
-          "title": "Ararat Armenia vs Sparta Praha"
-        },
-        {
-          "display_title": "6:00 AM Milan vs Benfica",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Milan vs Benfica"
-        },
-        {
-          "display_title": "6:00 AM The Golazo Show",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "The Golazo Show"
-        },
-        {
-          "display_title": "6:00 AM Anderlecht vs Lyon",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Anderlecht vs Lyon"
-        },
-        {
-          "display_title": "6:00 AM Sturm Graz vs Rennes",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Sturm Graz vs Rennes"
-        },
-        {
-          "display_title": "6:00 AM Sunderland vs AZ Alkmaar",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Sunderland vs AZ Alkmaar"
-        },
-        {
-          "display_title": "6:00 AM Bayer Leverkusen vs Celje",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Bayer Leverkusen vs Celje"
-        },
-        {
-          "display_title": "6:00 AM Hapoel Beer Sheva vs Dinamo Zagreb",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Hapoel Beer Sheva vs Dinamo Zagreb"
-        },
-        {
-          "display_title": "6:00 AM Olympiacos vs Jagiellonia Białystok",
-          "slot": "PARAMOUNT 021",
-          "slot_norm": "PARAMOUNT 21",
-          "start": "2026-09-16T14:00:00-04:00",
-          "stop": "2026-09-16T18:00:00-04:00",
-          "title": "Olympiacos vs Jagiellonia Białystok"
+          "display_title": "3:05 PM Concacaf Champions Cup: Alianza FC SLV vs FC Motagua",
+          "slot": "PARAMOUNT ALT 17",
+          "slot_norm": "PARAMOUNT ALT 17",
+          "start": "2026-09-16T23:05:00-04:00",
+          "stop": "2026-09-17T03:05:00-04:00",
+          "title": "Concacaf Champions Cup: Alianza FC SLV vs FC Motagua"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 624522542,
-      "message_timestamp": 1789531237,
+      "message_id": 624648367,
+      "message_timestamp": 1789565420,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-16T07:46:40.120312+00:00"
+      "updated_at": "2026-09-16T13:35:19.909049+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -228,27 +164,19 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "1:30 PM DWCS Post Fight Conference",
-          "slot": "PPV2 02",
-          "slot_norm": "PPV2 2",
-          "start": "2026-09-15T21:30:00-04:00",
-          "stop": "2026-09-16T01:30:00-04:00",
-          "title": "DWCS Post Fight Conference"
-        },
-        {
           "display_title": "10:15 AM Millbridge Speedway",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-09-15T18:15:00-04:00",
-          "stop": "2026-09-15T22:15:00-04:00",
+          "slot": "PPV2 01",
+          "slot_norm": "PPV2 1",
+          "start": "2026-09-16T18:15:00-04:00",
+          "stop": "2026-09-16T22:15:00-04:00",
           "title": "Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 624331039,
-      "message_timestamp": 1789475443,
+      "message_id": 624631387,
+      "message_timestamp": 1789561812,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-15T17:09:20.069325+00:00"
+      "updated_at": "2026-09-16T13:35:20.101035+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
