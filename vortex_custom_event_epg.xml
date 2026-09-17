@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01: 18:15 Millbridge Speedway</display-name>
+    <display-name>DIRT 01: 18:15 Cedar Lake Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -13985,7 +13985,7 @@
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20260917181500 -0400" stop="20260917221500 -0400" channel="custom.DIRTVISION.DIRT.01">
-    <title>10:15 AM Millbridge Speedway</title>
+    <title>10:15 AM Cedar Lake Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>

@@ -4,12 +4,12 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:15 AM Millbridge Speedway",
+          "display_title": "10:15 AM Cedar Lake Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
           "start": "2026-09-17T18:15:00-04:00",
           "stop": "2026-09-17T22:15:00-04:00",
-          "title": "Millbridge Speedway"
+          "title": "Cedar Lake Speedway"
         },
         {
           "display_title": "10:15 AM Cedar Lake Speedway",
@@ -21,10 +21,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 624931891,
-      "message_timestamp": 1789646415,
+      "message_id": 625059557,
+      "message_timestamp": 1789671628,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-17T13:36:57.699237+00:00"
+      "updated_at": "2026-09-17T21:31:42.146778+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
