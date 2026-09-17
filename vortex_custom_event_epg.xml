@@ -6231,22 +6231,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 16:30 PDRA Brian Olson World Finals</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 18:15 STSS Fonda 200</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04:</display-name>
+    <display-name>PPV 04: 18:15 Legendary 100 Cedar Lake</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05:</display-name>
+    <display-name>PPV 05: 19:00 High Limit Racing Lucas Oil Speedway</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
@@ -10016,17 +10016,17 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
     <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+ 05: 20:00 Coventry City vs Aston Villa // UK Wed 16 Sep // ET Wed 16 Sep 3:00pm</display-name>
+    <display-name>SKY SPORTS+ 05:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
     <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+ 06: 19:30 Everton vs Wolves // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm</display-name>
+    <display-name>SKY SPORTS+ 06: 19:30 Man City vs Norwich // UK Thu 17 Sep</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
     <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+ 07: 19:30 Fleetwood vs Sheff Utd // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm</display-name>
+    <display-name>SKY SPORTS+ 07:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
@@ -13939,18 +13939,28 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260916200000 +0100" stop="20260917000000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>7:00 AM Coventry City vs Aston Villa // UK Wed 16 Sep // ET Wed 16 Sep 3:00pm</title>
+  <programme start="20260916163000 -0400" stop="20260916203000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>8:30 AM PDRA Brian Olson World Finals</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260916193000 +0100" stop="20260916233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>6:30 AM Everton vs Wolves // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm</title>
+  <programme start="20260916181500 -0400" stop="20260916221500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>10:15 AM STSS Fonda 200</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20260916193000 +0100" stop="20260916233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>6:30 AM Fleetwood vs Sheff Utd // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm</title>
+  <programme start="20260916181500 -0400" stop="20260916221500 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
+    <title>10:15 AM Legendary 100 Cedar Lake</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260916190000 -0400" stop="20260916230000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>11:00 AM High Limit Racing Lucas Oil Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260917193000 +0100" stop="20260917233000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
+    <title>6:30 AM Man City vs Norwich // UK Thu 17 Sep</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>

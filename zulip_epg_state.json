@@ -152,13 +152,45 @@
           "start": "2026-09-16T18:15:00-04:00",
           "stop": "2026-09-16T22:15:00-04:00",
           "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "8:30 AM PDRA Brian Olson World Finals",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-09-16T16:30:00-04:00",
+          "stop": "2026-09-16T20:30:00-04:00",
+          "title": "PDRA Brian Olson World Finals"
+        },
+        {
+          "display_title": "10:15 AM STSS Fonda 200",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-16T18:15:00-04:00",
+          "stop": "2026-09-16T22:15:00-04:00",
+          "title": "STSS Fonda 200"
+        },
+        {
+          "display_title": "10:15 AM Legendary 100 Cedar Lake",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-09-16T18:15:00-04:00",
+          "stop": "2026-09-16T22:15:00-04:00",
+          "title": "Legendary 100 Cedar Lake"
+        },
+        {
+          "display_title": "11:00 AM High Limit Racing Lucas Oil Speedway",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-09-16T19:00:00-04:00",
+          "stop": "2026-09-16T23:00:00-04:00",
+          "title": "High Limit Racing Lucas Oil Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 624522533,
-      "message_timestamp": 1789531235,
+      "message_id": 624801674,
+      "message_timestamp": 1789605019,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-16T07:46:40.498005+00:00"
+      "updated_at": "2026-09-17T00:40:39.227206+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -182,35 +214,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "7:00 AM Coventry City vs Aston Villa // UK Wed 16 Sep // ET Wed 16 Sep 3:00pm",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-09-16T20:00:00+01:00",
-          "stop": "2026-09-17T00:00:00+01:00",
-          "title": "Coventry City vs Aston Villa // UK Wed 16 Sep // ET Wed 16 Sep 3:00pm"
-        },
-        {
-          "display_title": "6:30 AM Everton vs Wolves // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm",
+          "display_title": "6:30 AM Man City vs Norwich // UK Thu 17 Sep",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-09-16T19:30:00+01:00",
-          "stop": "2026-09-16T23:30:00+01:00",
-          "title": "Everton vs Wolves // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm"
-        },
-        {
-          "display_title": "6:30 AM Fleetwood vs Sheff Utd // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-09-16T19:30:00+01:00",
-          "stop": "2026-09-16T23:30:00+01:00",
-          "title": "Fleetwood vs Sheff Utd // UK Wed 16 Sep // ET Wed 16 Sep 2:30pm"
+          "start": "2026-09-17T19:30:00+01:00",
+          "stop": "2026-09-17T23:30:00+01:00",
+          "title": "Man City vs Norwich // UK Thu 17 Sep"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 624492334,
-      "message_timestamp": 1789516814,
+      "message_id": 624795534,
+      "message_timestamp": 1789603218,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-16T00:32:28.421966+00:00"
+      "updated_at": "2026-09-17T00:40:39.801947+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
