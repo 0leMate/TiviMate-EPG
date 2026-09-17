@@ -7,24 +7,24 @@
           "display_title": "10:15 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-16T18:15:00-04:00",
-          "stop": "2026-09-16T22:15:00-04:00",
+          "start": "2026-09-17T18:15:00-04:00",
+          "stop": "2026-09-17T22:15:00-04:00",
           "title": "Millbridge Speedway"
         },
         {
           "display_title": "10:15 AM Millbridge Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-16T18:15:00-04:00",
-          "stop": "2026-09-16T22:15:00-04:00",
+          "start": "2026-09-17T18:15:00-04:00",
+          "stop": "2026-09-17T22:15:00-04:00",
           "title": "Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 624522500,
-      "message_timestamp": 1789531222,
+      "message_id": 624824817,
+      "message_timestamp": 1789617614,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-16T07:46:39.732046+00:00"
+      "updated_at": "2026-09-17T07:49:46.844665+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,77 +120,157 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "1:00 PM Lamar Hunt U.S. Open Cup: Colorado Rapids vs St Louis CITY SC",
-          "slot": "PARAMOUNT ALT 16",
-          "slot_norm": "PARAMOUNT ALT 16",
-          "start": "2026-09-16T21:00:00-04:00",
-          "stop": "2026-09-17T01:00:00-04:00",
-          "title": "Lamar Hunt U.S. Open Cup: Colorado Rapids vs St Louis CITY SC"
+          "display_title": "4:00 AM OFI Crete vs Hoffenheim",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-09-17T12:00:00-04:00",
+          "stop": "2026-09-17T16:00:00-04:00",
+          "title": "OFI Crete vs Hoffenheim"
         },
         {
-          "display_title": "3:05 PM Concacaf Champions Cup: Alianza FC SLV vs FC Motagua",
-          "slot": "PARAMOUNT ALT 17",
-          "slot_norm": "PARAMOUNT ALT 17",
-          "start": "2026-09-16T23:05:00-04:00",
-          "stop": "2026-09-17T03:05:00-04:00",
-          "title": "Concacaf Champions Cup: Alianza FC SLV vs FC Motagua"
+          "display_title": "4:00 AM Levski Sofia vs RB Salzburg",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-09-17T12:00:00-04:00",
+          "stop": "2026-09-17T16:00:00-04:00",
+          "title": "Levski Sofia vs RB Salzburg"
+        },
+        {
+          "display_title": "6:00 AM Real Sociedad vs AFC Bournemouth",
+          "slot": "PARAMOUNT 020",
+          "slot_norm": "PARAMOUNT 20",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Real Sociedad vs AFC Bournemouth"
+        },
+        {
+          "display_title": "6:00 AM The Golazo Show",
+          "slot": "PARAMOUNT 021",
+          "slot_norm": "PARAMOUNT 21",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "The Golazo Show"
+        },
+        {
+          "display_title": "6:00 AM Lillestrøm vs Torreense",
+          "slot": "PARAMOUNT 022",
+          "slot_norm": "PARAMOUNT 22",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Lillestrøm vs Torreense"
+        },
+        {
+          "display_title": "6:00 AM Viktoria Plzeň vs Union Saint Gilloise",
+          "slot": "PARAMOUNT 023",
+          "slot_norm": "PARAMOUNT 23",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Viktoria Plzeň vs Union Saint Gilloise"
+        },
+        {
+          "display_title": "6:00 AM Crystal Palace vs Lech Poznań",
+          "slot": "PARAMOUNT 024",
+          "slot_norm": "PARAMOUNT 24",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Crystal Palace vs Lech Poznań"
+        },
+        {
+          "display_title": "6:00 AM Celtic vs Ferencváros",
+          "slot": "PARAMOUNT 025",
+          "slot_norm": "PARAMOUNT 25",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Celtic vs Ferencváros"
+        },
+        {
+          "display_title": "6:00 AM Juventus vs NEC Nijmegen",
+          "slot": "PARAMOUNT 026",
+          "slot_norm": "PARAMOUNT 26",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Juventus vs NEC Nijmegen"
+        },
+        {
+          "display_title": "6:00 AM Beşiktaş vs Marseille",
+          "slot": "PARAMOUNT 027",
+          "slot_norm": "PARAMOUNT 27",
+          "start": "2026-09-17T14:00:00-04:00",
+          "stop": "2026-09-17T18:00:00-04:00",
+          "title": "Beşiktaş vs Marseille"
+        },
+        {
+          "display_title": "12:00 PM UFC 331: Press Conference",
+          "slot": "PARAMOUNT 028",
+          "slot_norm": "PARAMOUNT 28",
+          "start": "2026-09-17T20:00:00-04:00",
+          "stop": "2026-09-18T00:00:00-04:00",
+          "title": "UFC 331: Press Conference"
+        },
+        {
+          "display_title": "12:00 PM UFC 331: Press Conference em Português",
+          "slot": "PARAMOUNT 029",
+          "slot_norm": "PARAMOUNT 29",
+          "start": "2026-09-17T20:00:00-04:00",
+          "stop": "2026-09-18T00:00:00-04:00",
+          "title": "UFC 331: Press Conference em Português"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 624648367,
-      "message_timestamp": 1789565420,
+      "message_id": 624824864,
+      "message_timestamp": 1789617635,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-16T13:35:19.909049+00:00"
+      "updated_at": "2026-09-17T07:49:46.959198+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "10:15 AM Millbridge Speedway",
+          "display_title": "12:00 PM Power Slap 23",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-16T18:15:00-04:00",
-          "stop": "2026-09-16T22:15:00-04:00",
-          "title": "Millbridge Speedway"
+          "start": "2026-09-17T20:00:00-04:00",
+          "stop": "2026-09-18T00:00:00-04:00",
+          "title": "Power Slap 23"
         },
         {
           "display_title": "8:30 AM PDRA Brian Olson World Finals",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-16T16:30:00-04:00",
-          "stop": "2026-09-16T20:30:00-04:00",
+          "start": "2026-09-17T16:30:00-04:00",
+          "stop": "2026-09-17T20:30:00-04:00",
           "title": "PDRA Brian Olson World Finals"
         },
         {
           "display_title": "10:15 AM STSS Fonda 200",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-09-16T18:15:00-04:00",
-          "stop": "2026-09-16T22:15:00-04:00",
+          "start": "2026-09-17T18:15:00-04:00",
+          "stop": "2026-09-17T22:15:00-04:00",
           "title": "STSS Fonda 200"
         },
         {
           "display_title": "10:15 AM Legendary 100 Cedar Lake",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-09-16T18:15:00-04:00",
-          "stop": "2026-09-16T22:15:00-04:00",
+          "start": "2026-09-17T18:15:00-04:00",
+          "stop": "2026-09-17T22:15:00-04:00",
           "title": "Legendary 100 Cedar Lake"
         },
         {
           "display_title": "11:00 AM High Limit Racing Lucas Oil Speedway",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
-          "start": "2026-09-16T19:00:00-04:00",
-          "stop": "2026-09-16T23:00:00-04:00",
+          "start": "2026-09-17T19:00:00-04:00",
+          "stop": "2026-09-17T23:00:00-04:00",
           "title": "High Limit Racing Lucas Oil Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 624801674,
-      "message_timestamp": 1789605019,
+      "message_id": 624824916,
+      "message_timestamp": 1789617656,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-17T00:40:39.227206+00:00"
+      "updated_at": "2026-09-17T07:49:47.052385+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -232,187 +312,187 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-09-16T05:00:00+10:00",
-          "stop": "2026-09-16T09:00:00+10:00",
-          "title": "Guadalajara: Day 3 WTA 500"
+          "display_title": "7:00 PM Counties Manukau vs Otago NPC Round 8 2026",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-09-17T17:00:00+10:00",
+          "stop": "2026-09-17T21:00:00+10:00",
+          "title": "Counties Manukau vs Otago NPC Round 8 2026"
         },
         {
-          "display_title": "4:40 AM AraratArmenia vs Sparta Praha UEFA Europa League 2026/2027",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-09-17T02:40:00+10:00",
-          "stop": "2026-09-17T06:40:00+10:00",
-          "title": "AraratArmenia vs Sparta Praha UEFA Europa League 2026/2027"
+          "display_title": "4:40 AM OFI vs Hoffenheim UEFA Europa League 2026/2027",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-09-18T02:40:00+10:00",
+          "stop": "2026-09-18T06:40:00+10:00",
+          "title": "OFI vs Hoffenheim UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "4:40 AM Omonia Nicosia vs Celta de Vigo UEFA Europa League 2026/2027",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-09-17T02:40:00+10:00",
-          "stop": "2026-09-17T06:40:00+10:00",
-          "title": "Omonia Nicosia vs Celta de Vigo UEFA Europa League 2026/2027"
+          "display_title": "4:40 AM Levski Sofia vs Salzburg UEFA Europa League 2026/2027",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-09-18T02:40:00+10:00",
+          "stop": "2026-09-18T06:40:00+10:00",
+          "title": "Levski Sofia vs Salzburg UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Milan vs Benfica UEFA Europa League 2026/2027",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Milan vs Benfica UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Real Sociedad vs Bournemouth UEFA Europa League 2026/2027",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Real Sociedad vs Bournemouth UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Sunderland vs AZ UEFA Europa League 2026/2027",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Sunderland vs AZ UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Crystal Palace vs Lech Poznań UEFA Europa League 2026/2027",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Crystal Palace vs Lech Poznań UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Olympiakos Piraeus vs Jagiellonia Białystok UEFA Europa League 2026/2027",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Olympiakos Piraeus vs Jagiellonia Białystok UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Lillestrøm vs Torreense UEFA Europa League 2026/2027",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Lillestrøm vs Torreense UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Sturm Graz vs Rennes UEFA Europa League 2026/2027",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Sturm Graz vs Rennes UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Viktoria Plzeň vs Union SaintGilloise UEFA Europa League 2026/2027",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Viktoria Plzeň vs Union SaintGilloise UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Anderlecht vs Olympique Lyonnais UEFA Europa League 2026/2027",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Anderlecht vs Olympique Lyonnais UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Celtic vs Ferencváros UEFA Europa League 2026/2027",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Celtic vs Ferencváros UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Bayer 04 Leverkusen vs Celje UEFA Europa League 2026/2027",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Bayer 04 Leverkusen vs Celje UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Beşiktaş vs Olympique Marseille UEFA Europa League 2026/2027",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Beşiktaş vs Olympique Marseille UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Hapoel Be\\`er Sheva vs Dinamo Zagreb UEFA Europa League 2026/2027",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Hapoel Be\\`er Sheva vs Dinamo Zagreb UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Juventus vs NEC UEFA Europa League 2026/2027",
+          "slot": "AU STAN 021",
+          "slot_norm": "AU STAN 21",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Juventus vs NEC UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "7:00 AM Guadalajara: Day 4 WTA 500",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-09-17T05:00:00+10:00",
-          "stop": "2026-09-17T09:00:00+10:00",
-          "title": "Guadalajara: Day 4 WTA 500"
+          "display_title": "7:00 AM Guadalajara: Day 5 WTA 500",
+          "slot": "AU STAN 022",
+          "slot_norm": "AU STAN 22",
+          "start": "2026-09-18T05:00:00+10:00",
+          "stop": "2026-09-18T09:00:00+10:00",
+          "title": "Guadalajara: Day 5 WTA 500"
         },
         {
-          "display_title": "7:00 AM Guadalajara: Day 3 WTA 500",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-17T05:00:00+10:00",
-          "stop": "2026-09-17T09:00:00+10:00",
-          "title": "Guadalajara: Day 3 WTA 500"
+          "display_title": "7:00 PM Counties Manukau vs Otago NPC Round 8 2026",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-18T17:00:00+10:00",
+          "stop": "2026-09-18T21:00:00+10:00",
+          "title": "Counties Manukau vs Otago NPC Round 8 2026"
         },
         {
-          "display_title": "4:40 AM AraratArmenia vs Sparta Praha UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-17T02:40:00+10:00",
-          "stop": "2026-09-17T06:40:00+10:00",
-          "title": "AraratArmenia vs Sparta Praha UEFA Europa League 2026/2027"
+          "display_title": "4:40 AM OFI vs Hoffenheim UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-18T02:40:00+10:00",
+          "stop": "2026-09-18T06:40:00+10:00",
+          "title": "OFI vs Hoffenheim UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "4:40 AM Omonia Nicosia vs Celta de Vigo UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-17T02:40:00+10:00",
-          "stop": "2026-09-17T06:40:00+10:00",
-          "title": "Omonia Nicosia vs Celta de Vigo UEFA Europa League 2026/2027"
+          "display_title": "4:40 AM Levski Sofia vs Salzburg UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-09-18T02:40:00+10:00",
+          "stop": "2026-09-18T06:40:00+10:00",
+          "title": "Levski Sofia vs Salzburg UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Milan vs Benfica UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Milan vs Benfica UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Real Sociedad vs Bournemouth UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Real Sociedad vs Bournemouth UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Sunderland vs AZ UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Sunderland vs AZ UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Crystal Palace vs Lech Poznań UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Crystal Palace vs Lech Poznań UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Olympiakos Piraeus vs Jagiellonia Białystok UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Olympiakos Piraeus vs Jagiellonia Białystok UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Lillestrøm vs Torreense UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 017",
+          "slot_norm": "AU STAN ALT 17",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Lillestrøm vs Torreense UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Sturm Graz vs Rennes UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Sturm Graz vs Rennes UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Viktoria Plzeň vs Union SaintGilloise UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 018",
+          "slot_norm": "AU STAN ALT 18",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Viktoria Plzeň vs Union SaintGilloise UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Anderlecht vs Olympique Lyonnais UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Anderlecht vs Olympique Lyonnais UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Celtic vs Ferencváros UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 019",
+          "slot_norm": "AU STAN ALT 19",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Celtic vs Ferencváros UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Bayer 04 Leverkusen vs Celje UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Bayer 04 Leverkusen vs Celje UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Beşiktaş vs Olympique Marseille UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 020",
+          "slot_norm": "AU STAN ALT 20",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Beşiktaş vs Olympique Marseille UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "6:55 AM Hapoel Be\\`er Sheva vs Dinamo Zagreb UEFA Europa League 2026/2027",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-17T04:55:00+10:00",
-          "stop": "2026-09-17T08:55:00+10:00",
-          "title": "Hapoel Be\\`er Sheva vs Dinamo Zagreb UEFA Europa League 2026/2027"
+          "display_title": "6:55 AM Juventus vs NEC UEFA Europa League 2026/2027",
+          "slot": "AU STAN ALT 021",
+          "slot_norm": "AU STAN ALT 21",
+          "start": "2026-09-18T04:55:00+10:00",
+          "stop": "2026-09-18T08:55:00+10:00",
+          "title": "Juventus vs NEC UEFA Europa League 2026/2027"
         },
         {
-          "display_title": "7:00 AM Guadalajara: Day 4 WTA 500",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-17T05:00:00+10:00",
-          "stop": "2026-09-17T09:00:00+10:00",
-          "title": "Guadalajara: Day 4 WTA 500"
+          "display_title": "7:00 AM Guadalajara: Day 5 WTA 500",
+          "slot": "AU STAN ALT 022",
+          "slot_norm": "AU STAN ALT 22",
+          "start": "2026-09-18T05:00:00+10:00",
+          "stop": "2026-09-18T09:00:00+10:00",
+          "title": "Guadalajara: Day 5 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 624500889,
-      "message_timestamp": 1789520410,
+      "message_id": 624804773,
+      "message_timestamp": 1789606817,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-16T07:46:41.774269+00:00"
+      "updated_at": "2026-09-17T07:49:47.357944+00:00"
     }
   },
   "version": 1
