@@ -4,12 +4,36 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:15 AM Cedar Lake Speedway",
+          "display_title": "10:00 AM Land of Legends Raceway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
+          "start": "2026-09-18T18:00:00-04:00",
+          "stop": "2026-09-18T22:00:00-04:00",
+          "title": "Land of Legends Raceway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
           "start": "2026-09-18T18:15:00-04:00",
           "stop": "2026-09-18T22:15:00-04:00",
           "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "11:00 AM Williams Grove Speedway",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
+          "start": "2026-09-18T19:00:00-04:00",
+          "stop": "2026-09-18T23:00:00-04:00",
+          "title": "Williams Grove Speedway"
+        },
+        {
+          "display_title": "1:15 PM Stockton Dirt Track",
+          "slot": "DIRT 04",
+          "slot_norm": "DIRT 4",
+          "start": "2026-09-18T21:15:00-04:00",
+          "stop": "2026-09-19T01:15:00-04:00",
+          "title": "Stockton Dirt Track"
         },
         {
           "display_title": "10:00 AM Land of Legends Raceway",
@@ -53,10 +77,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 625197344,
-      "message_timestamp": 1789725621,
+      "message_id": 625258938,
+      "message_timestamp": 1789741811,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-18T11:29:45.495815+00:00"
+      "updated_at": "2026-09-18T16:34:12.282691+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -460,43 +484,115 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "8:30 AM PDRA Brian Olson Memorial World Finals",
+          "display_title": "12:55 AM PDRA Brian Olson Memorial World Finals",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-17T16:30:00-04:00",
-          "stop": "2026-09-17T20:30:00-04:00",
+          "start": "2026-09-18T08:55:00-04:00",
+          "stop": "2026-09-18T12:55:00-04:00",
           "title": "PDRA Brian Olson Memorial World Finals"
         },
         {
-          "display_title": "10:15 AM STSS Fonda 200 at Fonda",
+          "display_title": "10:00 AM STSS Fonda 200 at Fonda",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-09-17T18:15:00-04:00",
-          "stop": "2026-09-17T22:15:00-04:00",
+          "start": "2026-09-18T18:00:00-04:00",
+          "stop": "2026-09-18T22:00:00-04:00",
           "title": "STSS Fonda 200 at Fonda"
         },
         {
           "display_title": "11:00 AM HLR Hockett McMillin Memorial at Lucas Oil",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-09-17T19:00:00-04:00",
-          "stop": "2026-09-17T23:00:00-04:00",
+          "start": "2026-09-18T19:00:00-04:00",
+          "stop": "2026-09-18T23:00:00-04:00",
           "title": "HLR Hockett McMillin Memorial at Lucas Oil"
         },
         {
-          "display_title": "10:15 AM Cedar Lake Speedway",
+          "display_title": "9:00 AM Maxxis Midwest Max Daddy Race at Fairbury",
           "slot": "PPV2 04",
           "slot_norm": "PPV2 4",
-          "start": "2026-09-17T18:15:00-04:00",
-          "stop": "2026-09-17T22:15:00-04:00",
+          "start": "2026-09-18T17:00:00-04:00",
+          "stop": "2026-09-18T21:00:00-04:00",
+          "title": "Maxxis Midwest Max Daddy Race at Fairbury"
+        },
+        {
+          "display_title": "10:10 AM USAC AMSOIL National Sprint Cars at Circle City",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-09-18T18:10:00-04:00",
+          "stop": "2026-09-18T22:10:00-04:00",
+          "title": "USAC AMSOIL National Sprint Cars at Circle City"
+        },
+        {
+          "display_title": "10:30 AM NAPA All Star Circuit of Champions at Fremont",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-09-18T18:30:00-04:00",
+          "stop": "2026-09-18T22:30:00-04:00",
+          "title": "NAPA All Star Circuit of Champions at Fremont"
+        },
+        {
+          "display_title": "11:30 AM IRA Sprints at Jackson Motorplex",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-09-18T19:30:00-04:00",
+          "stop": "2026-09-18T23:30:00-04:00",
+          "title": "IRA Sprints at Jackson Motorplex"
+        },
+        {
+          "display_title": "11:45 AM Pink Lady Classic at Meridian",
+          "slot": "PPV2 08",
+          "slot_norm": "PPV2 8",
+          "start": "2026-09-18T19:45:00-04:00",
+          "stop": "2026-09-18T23:45:00-04:00",
+          "title": "Pink Lady Classic at Meridian"
+        },
+        {
+          "display_title": "10:00 AM Land of Legends Raceway",
+          "slot": "PPV2 09",
+          "slot_norm": "PPV2 9",
+          "start": "2026-09-18T18:00:00-04:00",
+          "stop": "2026-09-18T22:00:00-04:00",
+          "title": "Land of Legends Raceway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "PPV2 10",
+          "slot_norm": "PPV2 10",
+          "start": "2026-09-18T18:15:00-04:00",
+          "stop": "2026-09-18T22:15:00-04:00",
           "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "11:00 AM Williams Grove Speedway",
+          "slot": "PPV2 11",
+          "slot_norm": "PPV2 11",
+          "start": "2026-09-18T19:00:00-04:00",
+          "stop": "2026-09-18T23:00:00-04:00",
+          "title": "Williams Grove Speedway"
+        },
+        {
+          "display_title": "1:15 PM Stockton Dirt Track",
+          "slot": "PPV2 12",
+          "slot_norm": "PPV2 12",
+          "start": "2026-09-18T21:15:00-04:00",
+          "stop": "2026-09-19T01:15:00-04:00",
+          "title": "Stockton Dirt Track"
+        },
+        {
+          "display_title": "12:00 PM Cotton Pickin 100 Prelim Night",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-09-18T20:00:00-04:00",
+          "stop": "2026-09-19T00:00:00-04:00",
+          "title": "Cotton Pickin 100 Prelim Night"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 624931928,
-      "message_timestamp": 1789646423,
+      "message_id": 625228354,
+      "message_timestamp": 1789734615,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-17T13:36:58.470209+00:00"
+      "updated_at": "2026-09-18T16:34:13.457597+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -528,51 +624,235 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "4:00 AM São Paulo: Day 5 WTA 250",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-19T02:00:00+10:00",
-          "stop": "2026-09-19T06:00:00+10:00",
-          "title": "São Paulo: Day 5 WTA 250"
+          "display_title": "11:00 AM Guadalajara: Day 6 WTA 500",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-09-19T09:00:00+10:00",
+          "stop": "2026-09-19T13:00:00+10:00",
+          "title": "Guadalajara: Day 6 WTA 500"
         },
         {
-          "display_title": "4:30 AM Biarritz Ultimate Sevens Round 2 2026",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-19T02:30:00+10:00",
-          "stop": "2026-09-19T06:30:00+10:00",
-          "title": "Biarritz Ultimate Sevens Round 2 2026"
+          "display_title": "11:30 AM Bay of Plenty vs Auckland Farah Palmer Cup Round 4 2026",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-09-19T09:30:00+10:00",
+          "stop": "2026-09-19T13:30:00+10:00",
+          "title": "Bay of Plenty vs Auckland Farah Palmer Cup Round 4 2026"
         },
         {
-          "display_title": "5:50 AM Manchester City vs Liverpool WSL 2026/27",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-19T03:50:00+10:00",
-          "stop": "2026-09-19T07:50:00+10:00",
-          "title": "Manchester City vs Liverpool WSL 2026/27"
+          "display_title": "2:00 PM Bay of Plenty vs Hawke\\`s Bay NPC Round 8 2026",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
+          "start": "2026-09-19T12:00:00+10:00",
+          "stop": "2026-09-19T16:00:00+10:00",
+          "title": "Bay of Plenty vs Hawke\\`s Bay NPC Round 8 2026"
         },
         {
-          "display_title": "6:05 AM Wales vs South Africa WXV 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-19T04:05:00+10:00",
-          "stop": "2026-09-19T08:05:00+10:00",
-          "title": "Wales vs South Africa WXV 2026"
+          "display_title": "4:30 PM Wellington vs Northland Farah Palmer Cup Round 4 2026",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-09-19T14:30:00+10:00",
+          "stop": "2026-09-19T18:30:00+10:00",
+          "title": "Wellington vs Northland Farah Palmer Cup Round 4 2026"
         },
         {
-          "display_title": "6:30 AM Brentford vs Chelsea Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-09-19T04:30:00+10:00",
-          "stop": "2026-09-19T08:30:00+10:00",
-          "title": "Brentford vs Chelsea Premier League Matchweek 5 2026/2027"
+          "display_title": "5:00 PM Waikato vs Manawatū NPC Round 8 2026",
+          "slot": "AU STAN 021",
+          "slot_norm": "AU STAN 21",
+          "start": "2026-09-19T15:00:00+10:00",
+          "stop": "2026-09-19T19:00:00+10:00",
+          "title": "Waikato vs Manawatū NPC Round 8 2026"
+        },
+        {
+          "display_title": "6:50 PM Canada vs USA Pacific Nations Cup 3rd Place Playoffs 2026",
+          "slot": "AU STAN 022",
+          "slot_norm": "AU STAN 22",
+          "start": "2026-09-19T16:50:00+10:00",
+          "stop": "2026-09-19T20:50:00+10:00",
+          "title": "Canada vs USA Pacific Nations Cup 3rd Place Playoffs 2026"
+        },
+        {
+          "display_title": "7:00 PM Wellington vs Northland NPC Round 8 2026",
+          "slot": "AU STAN 023",
+          "slot_norm": "AU STAN 23",
+          "start": "2026-09-19T17:00:00+10:00",
+          "stop": "2026-09-19T21:00:00+10:00",
+          "title": "Wellington vs Northland NPC Round 8 2026"
+        },
+        {
+          "display_title": "7:25 PM Bucheon vs Gimcheon K League 2026",
+          "slot": "AU STAN 024",
+          "slot_norm": "AU STAN 24",
+          "start": "2026-09-19T17:25:00+10:00",
+          "stop": "2026-09-19T21:25:00+10:00",
+          "title": "Bucheon vs Gimcheon K League 2026"
+        },
+        {
+          "display_title": "7:40 PM Reds vs Waratahs Super Rugby AUS Round 2 2026",
+          "slot": "AU STAN 025",
+          "slot_norm": "AU STAN 25",
+          "start": "2026-09-19T17:40:00+10:00",
+          "stop": "2026-09-19T21:40:00+10:00",
+          "title": "Reds vs Waratahs Super Rugby AUS Round 2 2026"
+        },
+        {
+          "display_title": "8:55 PM Avispa Fukuoka vs Sanfrecce Hiroshima J.League 2026",
+          "slot": "AU STAN 026",
+          "slot_norm": "AU STAN 26",
+          "start": "2026-09-19T18:55:00+10:00",
+          "stop": "2026-09-19T22:55:00+10:00",
+          "title": "Avispa Fukuoka vs Sanfrecce Hiroshima J.League 2026"
+        },
+        {
+          "display_title": "9:25 PM Nagasaki vs Cerezo Osaka J.League 2026",
+          "slot": "AU STAN 027",
+          "slot_norm": "AU STAN 27",
+          "start": "2026-09-19T19:25:00+10:00",
+          "stop": "2026-09-19T23:25:00+10:00",
+          "title": "Nagasaki vs Cerezo Osaka J.League 2026"
+        },
+        {
+          "display_title": "9:55 PM Fiji vs Japan Pacific Nations Cup Final 2026",
+          "slot": "AU STAN 028",
+          "slot_norm": "AU STAN 28",
+          "start": "2026-09-19T19:55:00+10:00",
+          "stop": "2026-09-19T23:55:00+10:00",
+          "title": "Fiji vs Japan Pacific Nations Cup Final 2026"
+        },
+        {
+          "display_title": "9:55 PM Anyang vs Ulsan K League 2026",
+          "slot": "AU STAN 029",
+          "slot_norm": "AU STAN 29",
+          "start": "2026-09-19T19:55:00+10:00",
+          "stop": "2026-09-19T23:55:00+10:00",
+          "title": "Anyang vs Ulsan K League 2026"
+        },
+        {
+          "display_title": "9:55 PM FC Tokyo vs Nagoya Grampus J.League 2026",
+          "slot": "AU STAN 030",
+          "slot_norm": "AU STAN 30",
+          "start": "2026-09-19T19:55:00+10:00",
+          "stop": "2026-09-19T23:55:00+10:00",
+          "title": "FC Tokyo vs Nagoya Grampus J.League 2026"
+        },
+        {
+          "display_title": "10:30 PM Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027",
+          "slot": "AU STAN 031",
+          "slot_norm": "AU STAN 31",
+          "start": "2026-09-19T20:30:00+10:00",
+          "stop": "2026-09-20T00:30:00+10:00",
+          "title": "Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027"
+        },
+        {
+          "display_title": "11:20 PM Charlton Athletic vs London City Lionesses WSL 2026/27",
+          "slot": "AU STAN 032",
+          "slot_norm": "AU STAN 32",
+          "start": "2026-09-19T21:20:00+10:00",
+          "stop": "2026-09-20T01:20:00+10:00",
+          "title": "Charlton Athletic vs London City Lionesses WSL 2026/27"
+        },
+        {
+          "display_title": "11:20 PM • Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027",
+          "slot": "AU STAN 033",
+          "slot_norm": "AU STAN 33",
+          "start": "2026-09-19T21:20:00+10:00",
+          "stop": "2026-09-20T01:20:00+10:00",
+          "title": "• Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027"
+        },
+        {
+          "display_title": "11:35 PM Chelsea vs Birmingham City WSL 2026/27",
+          "slot": "AU STAN 034",
+          "slot_norm": "AU STAN 34",
+          "start": "2026-09-19T21:35:00+10:00",
+          "stop": "2026-09-20T01:35:00+10:00",
+          "title": "Chelsea vs Birmingham City WSL 2026/27"
+        },
+        {
+          "display_title": "12:20 AM Italy vs Japan WXV 2026",
+          "slot": "AU STAN 035",
+          "slot_norm": "AU STAN 35",
+          "start": "2026-09-19T22:20:00+10:00",
+          "stop": "2026-09-20T02:20:00+10:00",
+          "title": "Italy vs Japan WXV 2026"
+        },
+        {
+          "display_title": "1:50 AM Brighton & Hove Albion vs Arsenal Premier League Matchweek 5 2026/2027",
+          "slot": "AU STAN 036",
+          "slot_norm": "AU STAN 36",
+          "start": "2026-09-19T23:50:00+10:00",
+          "stop": "2026-09-20T03:50:00+10:00",
+          "title": "Brighton & Hove Albion vs Arsenal Premier League Matchweek 5 2026/2027"
+        },
+        {
+          "display_title": "1:50 AM Goal Rush: Brighton & Hove Albion vs Arsenal • 19 September Premier League 2026/2027",
+          "slot": "AU STAN 037",
+          "slot_norm": "AU STAN 37",
+          "start": "2026-09-19T23:50:00+10:00",
+          "stop": "2026-09-20T03:50:00+10:00",
+          "title": "Goal Rush: Brighton & Hove Albion vs Arsenal • 19 September Premier League 2026/2027"
+        },
+        {
+          "display_title": "1:50 AM Newcastle United vs Hull City Premier League Matchweek 5 2026/2027",
+          "slot": "AU STAN 038",
+          "slot_norm": "AU STAN 38",
+          "start": "2026-09-19T23:50:00+10:00",
+          "stop": "2026-09-20T03:50:00+10:00",
+          "title": "Newcastle United vs Hull City Premier League Matchweek 5 2026/2027"
+        },
+        {
+          "display_title": "1:50 AM Everton vs Ipswich Town Premier League Matchweek 5 2026/2027",
+          "slot": "AU STAN 039",
+          "slot_norm": "AU STAN 39",
+          "start": "2026-09-19T23:50:00+10:00",
+          "stop": "2026-09-20T03:50:00+10:00",
+          "title": "Everton vs Ipswich Town Premier League Matchweek 5 2026/2027"
+        },
+        {
+          "display_title": "1:51 AM England vs Canada WXV 2026",
+          "slot": "AU STAN 040",
+          "slot_norm": "AU STAN 40",
+          "start": "2026-09-19T23:51:00+10:00",
+          "stop": "2026-09-20T03:51:00+10:00",
+          "title": "England vs Canada WXV 2026"
+        },
+        {
+          "display_title": "3:35 AM France vs Australia WXV 2026",
+          "slot": "AU STAN 041",
+          "slot_norm": "AU STAN 41",
+          "start": "2026-09-20T01:35:00+10:00",
+          "stop": "2026-09-20T05:35:00+10:00",
+          "title": "France vs Australia WXV 2026"
+        },
+        {
+          "display_title": "4:00 AM Scotland vs New Zealand WXV 2026",
+          "slot": "AU STAN 042",
+          "slot_norm": "AU STAN 42",
+          "start": "2026-09-20T02:00:00+10:00",
+          "stop": "2026-09-20T06:00:00+10:00",
+          "title": "Scotland vs New Zealand WXV 2026"
+        },
+        {
+          "display_title": "4:20 AM Nottingham Forest vs Coventry City Premier League Matchweek 5 2026/2027",
+          "slot": "AU STAN 043",
+          "slot_norm": "AU STAN 43",
+          "start": "2026-09-20T02:20:00+10:00",
+          "stop": "2026-09-20T06:20:00+10:00",
+          "title": "Nottingham Forest vs Coventry City Premier League Matchweek 5 2026/2027"
+        },
+        {
+          "display_title": "4:20 AM Arsenal vs Manchester United WSL 2026/27",
+          "slot": "AU STAN 044",
+          "slot_norm": "AU STAN 44",
+          "start": "2026-09-20T02:20:00+10:00",
+          "stop": "2026-09-20T06:20:00+10:00",
+          "title": "Arsenal vs Manchester United WSL 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 624983638,
-      "message_timestamp": 1789653617,
+      "message_id": 625251077,
+      "message_timestamp": 1789740061,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-17T18:21:48.904445+00:00"
+      "updated_at": "2026-09-18T16:34:14.058712+00:00"
     }
   },
   "version": 1
