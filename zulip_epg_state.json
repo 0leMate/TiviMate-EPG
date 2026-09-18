@@ -346,14 +346,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "1:30 AM ONE Friday Fights 171 Klarob vs Sornsueknoi",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-09-18T09:30:00-04:00",
-          "stop": "2026-09-18T13:30:00-04:00",
-          "title": "ONE Friday Fights 171 Klarob vs Sornsueknoi"
-        },
-        {
           "display_title": "12:00 PM RAF 13 Convington vs Muhammad",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
@@ -402,12 +394,12 @@
           "title": "USAC National Sprints Circle City"
         },
         {
-          "display_title": "10:15 AM Cedar Lake Late Models",
+          "display_title": "10:15 AM CANCELLED Cedar Lake Late Models",
           "slot": "PPV 08",
           "slot_norm": "PPV 8",
           "start": "2026-09-19T18:15:00-04:00",
           "stop": "2026-09-19T22:15:00-04:00",
-          "title": "Cedar Lake Late Models"
+          "title": "CANCELLED Cedar Lake Late Models"
         },
         {
           "display_title": "10:30 AM NAPA All Star Sprints Fremont",
@@ -442,12 +434,12 @@
           "title": "High Limit Racing Lucas Oil"
         },
         {
-          "display_title": "11:30 AM Jackson Sprints",
+          "display_title": "11:30 AM CANCELLED Jackson Sprints",
           "slot": "PPV 13",
           "slot_norm": "PPV 13",
           "start": "2026-09-19T19:30:00-04:00",
           "stop": "2026-09-19T23:30:00-04:00",
-          "title": "Jackson Sprints"
+          "title": "CANCELLED Jackson Sprints"
         },
         {
           "display_title": "11:30 AM IRA Sprints Jackson",
@@ -475,10 +467,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 625134843,
-      "message_timestamp": 1789704063,
+      "message_id": 625313603,
+      "message_timestamp": 1789756212,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-18T04:59:53.532495+00:00"
+      "updated_at": "2026-09-18T21:01:50.736013+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -624,235 +616,83 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "11:00 AM Guadalajara: Day 6 WTA 500",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-09-19T09:00:00+10:00",
-          "stop": "2026-09-19T13:00:00+10:00",
-          "title": "Guadalajara: Day 6 WTA 500"
-        },
-        {
-          "display_title": "11:30 AM Bay of Plenty vs Auckland Farah Palmer Cup Round 4 2026",
-          "slot": "AU STAN 018",
-          "slot_norm": "AU STAN 18",
-          "start": "2026-09-19T09:30:00+10:00",
-          "stop": "2026-09-19T13:30:00+10:00",
-          "title": "Bay of Plenty vs Auckland Farah Palmer Cup Round 4 2026"
-        },
-        {
-          "display_title": "2:00 PM Bay of Plenty vs Hawke\\`s Bay NPC Round 8 2026",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
-          "start": "2026-09-19T12:00:00+10:00",
-          "stop": "2026-09-19T16:00:00+10:00",
-          "title": "Bay of Plenty vs Hawke\\`s Bay NPC Round 8 2026"
-        },
-        {
-          "display_title": "4:30 PM Wellington vs Northland Farah Palmer Cup Round 4 2026",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
-          "start": "2026-09-19T14:30:00+10:00",
-          "stop": "2026-09-19T18:30:00+10:00",
-          "title": "Wellington vs Northland Farah Palmer Cup Round 4 2026"
-        },
-        {
-          "display_title": "5:00 PM Waikato vs Manawatū NPC Round 8 2026",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
-          "start": "2026-09-19T15:00:00+10:00",
-          "stop": "2026-09-19T19:00:00+10:00",
-          "title": "Waikato vs Manawatū NPC Round 8 2026"
-        },
-        {
-          "display_title": "6:50 PM Canada vs USA Pacific Nations Cup 3rd Place Playoffs 2026",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
-          "start": "2026-09-19T16:50:00+10:00",
-          "stop": "2026-09-19T20:50:00+10:00",
-          "title": "Canada vs USA Pacific Nations Cup 3rd Place Playoffs 2026"
-        },
-        {
-          "display_title": "7:00 PM Wellington vs Northland NPC Round 8 2026",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
-          "start": "2026-09-19T17:00:00+10:00",
-          "stop": "2026-09-19T21:00:00+10:00",
-          "title": "Wellington vs Northland NPC Round 8 2026"
-        },
-        {
-          "display_title": "7:25 PM Bucheon vs Gimcheon K League 2026",
-          "slot": "AU STAN 024",
-          "slot_norm": "AU STAN 24",
-          "start": "2026-09-19T17:25:00+10:00",
-          "stop": "2026-09-19T21:25:00+10:00",
-          "title": "Bucheon vs Gimcheon K League 2026"
-        },
-        {
-          "display_title": "7:40 PM Reds vs Waratahs Super Rugby AUS Round 2 2026",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-09-19T17:40:00+10:00",
-          "stop": "2026-09-19T21:40:00+10:00",
-          "title": "Reds vs Waratahs Super Rugby AUS Round 2 2026"
-        },
-        {
-          "display_title": "8:55 PM Avispa Fukuoka vs Sanfrecce Hiroshima J.League 2026",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
-          "start": "2026-09-19T18:55:00+10:00",
-          "stop": "2026-09-19T22:55:00+10:00",
-          "title": "Avispa Fukuoka vs Sanfrecce Hiroshima J.League 2026"
-        },
-        {
-          "display_title": "9:25 PM Nagasaki vs Cerezo Osaka J.League 2026",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
-          "start": "2026-09-19T19:25:00+10:00",
-          "stop": "2026-09-19T23:25:00+10:00",
-          "title": "Nagasaki vs Cerezo Osaka J.League 2026"
-        },
-        {
-          "display_title": "9:55 PM Fiji vs Japan Pacific Nations Cup Final 2026",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
-          "start": "2026-09-19T19:55:00+10:00",
-          "stop": "2026-09-19T23:55:00+10:00",
-          "title": "Fiji vs Japan Pacific Nations Cup Final 2026"
-        },
-        {
-          "display_title": "9:55 PM Anyang vs Ulsan K League 2026",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
-          "start": "2026-09-19T19:55:00+10:00",
-          "stop": "2026-09-19T23:55:00+10:00",
-          "title": "Anyang vs Ulsan K League 2026"
-        },
-        {
-          "display_title": "9:55 PM FC Tokyo vs Nagoya Grampus J.League 2026",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
-          "start": "2026-09-19T19:55:00+10:00",
-          "stop": "2026-09-19T23:55:00+10:00",
-          "title": "FC Tokyo vs Nagoya Grampus J.League 2026"
-        },
-        {
-          "display_title": "10:30 PM Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
-          "start": "2026-09-19T20:30:00+10:00",
-          "stop": "2026-09-20T00:30:00+10:00",
-          "title": "Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "11:20 PM Charlton Athletic vs London City Lionesses WSL 2026/27",
-          "slot": "AU STAN 032",
-          "slot_norm": "AU STAN 32",
-          "start": "2026-09-19T21:20:00+10:00",
-          "stop": "2026-09-20T01:20:00+10:00",
-          "title": "Charlton Athletic vs London City Lionesses WSL 2026/27"
-        },
-        {
-          "display_title": "11:20 PM • Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 033",
-          "slot_norm": "AU STAN 33",
-          "start": "2026-09-19T21:20:00+10:00",
-          "stop": "2026-09-20T01:20:00+10:00",
-          "title": "• Tottenham Hotspur vs Aston Villa Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "11:35 PM Chelsea vs Birmingham City WSL 2026/27",
-          "slot": "AU STAN 034",
-          "slot_norm": "AU STAN 34",
-          "start": "2026-09-19T21:35:00+10:00",
-          "stop": "2026-09-20T01:35:00+10:00",
-          "title": "Chelsea vs Birmingham City WSL 2026/27"
-        },
-        {
-          "display_title": "12:20 AM Italy vs Japan WXV 2026",
-          "slot": "AU STAN 035",
-          "slot_norm": "AU STAN 35",
-          "start": "2026-09-19T22:20:00+10:00",
-          "stop": "2026-09-20T02:20:00+10:00",
-          "title": "Italy vs Japan WXV 2026"
-        },
-        {
-          "display_title": "1:50 AM Brighton & Hove Albion vs Arsenal Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 036",
-          "slot_norm": "AU STAN 36",
-          "start": "2026-09-19T23:50:00+10:00",
-          "stop": "2026-09-20T03:50:00+10:00",
-          "title": "Brighton & Hove Albion vs Arsenal Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "1:50 AM Goal Rush: Brighton & Hove Albion vs Arsenal • 19 September Premier League 2026/2027",
-          "slot": "AU STAN 037",
-          "slot_norm": "AU STAN 37",
-          "start": "2026-09-19T23:50:00+10:00",
-          "stop": "2026-09-20T03:50:00+10:00",
-          "title": "Goal Rush: Brighton & Hove Albion vs Arsenal • 19 September Premier League 2026/2027"
-        },
-        {
           "display_title": "1:50 AM Newcastle United vs Hull City Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 038",
-          "slot_norm": "AU STAN 38",
-          "start": "2026-09-19T23:50:00+10:00",
-          "stop": "2026-09-20T03:50:00+10:00",
+          "slot": "AU STAN ALT 038",
+          "slot_norm": "AU STAN ALT 38",
+          "start": "2026-09-20T23:50:00+10:00",
+          "stop": "2026-09-21T03:50:00+10:00",
           "title": "Newcastle United vs Hull City Premier League Matchweek 5 2026/2027"
         },
         {
           "display_title": "1:50 AM Everton vs Ipswich Town Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 039",
-          "slot_norm": "AU STAN 39",
-          "start": "2026-09-19T23:50:00+10:00",
-          "stop": "2026-09-20T03:50:00+10:00",
+          "slot": "AU STAN ALT 039",
+          "slot_norm": "AU STAN ALT 39",
+          "start": "2026-09-20T23:50:00+10:00",
+          "stop": "2026-09-21T03:50:00+10:00",
           "title": "Everton vs Ipswich Town Premier League Matchweek 5 2026/2027"
         },
         {
           "display_title": "1:51 AM England vs Canada WXV 2026",
-          "slot": "AU STAN 040",
-          "slot_norm": "AU STAN 40",
-          "start": "2026-09-19T23:51:00+10:00",
-          "stop": "2026-09-20T03:51:00+10:00",
+          "slot": "AU STAN ALT 040",
+          "slot_norm": "AU STAN ALT 40",
+          "start": "2026-09-20T23:51:00+10:00",
+          "stop": "2026-09-21T03:51:00+10:00",
           "title": "England vs Canada WXV 2026"
         },
         {
           "display_title": "3:35 AM France vs Australia WXV 2026",
-          "slot": "AU STAN 041",
-          "slot_norm": "AU STAN 41",
+          "slot": "AU STAN ALT 041",
+          "slot_norm": "AU STAN ALT 41",
           "start": "2026-09-20T01:35:00+10:00",
           "stop": "2026-09-20T05:35:00+10:00",
           "title": "France vs Australia WXV 2026"
         },
         {
           "display_title": "4:00 AM Scotland vs New Zealand WXV 2026",
-          "slot": "AU STAN 042",
-          "slot_norm": "AU STAN 42",
+          "slot": "AU STAN ALT 042",
+          "slot_norm": "AU STAN ALT 42",
           "start": "2026-09-20T02:00:00+10:00",
           "stop": "2026-09-20T06:00:00+10:00",
           "title": "Scotland vs New Zealand WXV 2026"
         },
         {
           "display_title": "4:20 AM Nottingham Forest vs Coventry City Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 043",
-          "slot_norm": "AU STAN 43",
+          "slot": "AU STAN ALT 043",
+          "slot_norm": "AU STAN ALT 43",
           "start": "2026-09-20T02:20:00+10:00",
           "stop": "2026-09-20T06:20:00+10:00",
           "title": "Nottingham Forest vs Coventry City Premier League Matchweek 5 2026/2027"
         },
         {
           "display_title": "4:20 AM Arsenal vs Manchester United WSL 2026/27",
-          "slot": "AU STAN 044",
-          "slot_norm": "AU STAN 44",
+          "slot": "AU STAN ALT 044",
+          "slot_norm": "AU STAN ALT 44",
           "start": "2026-09-20T02:20:00+10:00",
           "stop": "2026-09-20T06:20:00+10:00",
           "title": "Arsenal vs Manchester United WSL 2026/27"
+        },
+        {
+          "display_title": "6:45 AM Crosscountry Olympic: Soldier Hollow UCI Mountain Bike World Series 2026",
+          "slot": "AU STAN ALT 045",
+          "slot_norm": "AU STAN ALT 45",
+          "start": "2026-09-20T04:45:00+10:00",
+          "stop": "2026-09-20T08:45:00+10:00",
+          "title": "Crosscountry Olympic: Soldier Hollow UCI Mountain Bike World Series 2026"
+        },
+        {
+          "display_title": "7:00 AM PL Saturday Wrap: Matchweek 5 Sep 20",
+          "slot": "AU STAN ALT 046",
+          "slot_norm": "AU STAN ALT 46",
+          "start": "2026-09-20T05:00:00+10:00",
+          "stop": "2026-09-20T09:00:00+10:00",
+          "title": "PL Saturday Wrap: Matchweek 5 Sep 20"
         }
       ],
       "group": "AU STAN",
-      "message_id": 625251077,
-      "message_timestamp": 1789740061,
+      "message_id": 625341584,
+      "message_timestamp": 1789765221,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-18T16:34:14.058712+00:00"
+      "updated_at": "2026-09-18T21:01:50.978695+00:00"
     }
   },
   "version": 1
