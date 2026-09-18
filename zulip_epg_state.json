@@ -12,19 +12,51 @@
           "title": "Cedar Lake Speedway"
         },
         {
-          "display_title": "10:15 AM Cedar Lake Speedway",
+          "display_title": "10:00 AM Land of Legends Raceway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
+          "start": "2026-09-18T18:00:00-04:00",
+          "stop": "2026-09-18T22:00:00-04:00",
+          "title": "Land of Legends Raceway"
+        },
+        {
+          "display_title": "10:15 AM Cedar Lake Speedway",
+          "slot": "DIRT ALT 02",
+          "slot_norm": "DIRT ALT 2",
           "start": "2026-09-18T18:15:00-04:00",
           "stop": "2026-09-18T22:15:00-04:00",
           "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "11:00 AM Williams Grove Speedway",
+          "slot": "DIRT ALT 03",
+          "slot_norm": "DIRT ALT 3",
+          "start": "2026-09-18T19:00:00-04:00",
+          "stop": "2026-09-18T23:00:00-04:00",
+          "title": "Williams Grove Speedway"
+        },
+        {
+          "display_title": "11:30 AM Jackson Motorplex",
+          "slot": "DIRT ALT 04",
+          "slot_norm": "DIRT ALT 4",
+          "start": "2026-09-18T19:30:00-04:00",
+          "stop": "2026-09-18T23:30:00-04:00",
+          "title": "Jackson Motorplex"
+        },
+        {
+          "display_title": "1:15 PM Stockton Dirt Track",
+          "slot": "DIRT ALT 05",
+          "slot_norm": "DIRT ALT 5",
+          "start": "2026-09-18T21:15:00-04:00",
+          "stop": "2026-09-19T01:15:00-04:00",
+          "title": "Stockton Dirt Track"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 625134765,
-      "message_timestamp": 1789704025,
+      "message_id": 625197344,
+      "message_timestamp": 1789725621,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-18T04:59:53.332369+00:00"
+      "updated_at": "2026-09-18T11:29:45.495815+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -121,66 +153,170 @@
       "events": [
         {
           "display_title": "3:50 AM UFC 331: Weigh In Desk Show",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-18T11:50:00-04:00",
           "stop": "2026-09-18T15:50:00-04:00",
           "title": "UFC 331: Weigh In Desk Show"
         },
         {
           "display_title": "5:50 AM Man. City vs Liverpool",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-18T13:50:00-04:00",
           "stop": "2026-09-18T17:50:00-04:00",
           "title": "Man. City vs Liverpool"
         },
         {
           "display_title": "6:05 AM Wales vs South Africa",
-          "slot": "PARAMOUNT 020",
-          "slot_norm": "PARAMOUNT 20",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-18T14:05:00-04:00",
           "stop": "2026-09-18T18:05:00-04:00",
           "title": "Wales vs South Africa"
         },
         {
           "display_title": "6:35 AM Monza vs Sassuolo",
-          "slot": "PARAMOUNT 021",
-          "slot_norm": "PARAMOUNT 21",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-18T14:35:00-04:00",
           "stop": "2026-09-18T18:35:00-04:00",
           "title": "Monza vs Sassuolo"
         },
         {
+          "display_title": "6:50 AM Bristol City vs Watford",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-18T14:50:00-04:00",
+          "stop": "2026-09-18T18:50:00-04:00",
+          "title": "Bristol City vs Watford"
+        },
+        {
           "display_title": "11:00 AM UFC 333 Press Conference",
-          "slot": "PARAMOUNT 022",
-          "slot_norm": "PARAMOUNT 22",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-18T19:00:00-04:00",
           "stop": "2026-09-18T23:00:00-04:00",
           "title": "UFC 333 Press Conference"
         },
         {
+          "display_title": "11:45 AM PBR Teams: Cowboy Days",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-09-18T19:45:00-04:00",
+          "stop": "2026-09-18T23:45:00-04:00",
+          "title": "PBR Teams: Cowboy Days"
+        },
+        {
           "display_title": "12:00 PM UFC 331: Ceremonial Weigh In",
-          "slot": "PARAMOUNT 023",
-          "slot_norm": "PARAMOUNT 23",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-09-18T20:00:00-04:00",
           "stop": "2026-09-19T00:00:00-04:00",
           "title": "UFC 331: Ceremonial Weigh In"
         },
         {
           "display_title": "12:00 PM UFC 331: Ceremonial Weigh In em Português",
-          "slot": "PARAMOUNT 024",
-          "slot_norm": "PARAMOUNT 24",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-09-18T20:00:00-04:00",
           "stop": "2026-09-19T00:00:00-04:00",
           "title": "UFC 331: Ceremonial Weigh In em Português"
+        },
+        {
+          "display_title": "6:50 PM Canada vs USA Eagles",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-19T02:50:00-04:00",
+          "stop": "2026-09-19T06:50:00-04:00",
+          "title": "Canada vs USA Eagles"
+        },
+        {
+          "display_title": "9:50 PM Fiji vs Japan",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-19T05:50:00-04:00",
+          "stop": "2026-09-19T09:50:00-04:00",
+          "title": "Fiji vs Japan"
+        },
+        {
+          "display_title": "3:50 AM UFC: UFC 331 Weigh In Desk Show",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-19T11:50:00-04:00",
+          "stop": "2026-09-19T15:50:00-04:00",
+          "title": "UFC: UFC 331 Weigh In Desk Show"
+        },
+        {
+          "display_title": "5:50 AM Barclays Women's Super League: Man City vs Liverpool",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-19T13:50:00-04:00",
+          "stop": "2026-09-19T17:50:00-04:00",
+          "title": "Barclays Women's Super League: Man City vs Liverpool"
+        },
+        {
+          "display_title": "6:05 AM World Rugby: Wales vs South Africa",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-19T14:05:00-04:00",
+          "stop": "2026-09-19T18:05:00-04:00",
+          "title": "World Rugby: Wales vs South Africa"
+        },
+        {
+          "display_title": "6:35 AM Serie A: Monza vs Sassuolo",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-19T14:35:00-04:00",
+          "stop": "2026-09-19T18:35:00-04:00",
+          "title": "Serie A: Monza vs Sassuolo"
+        },
+        {
+          "display_title": "6:50 AM English Football League: Bristol City vs Watford",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-19T14:50:00-04:00",
+          "stop": "2026-09-19T18:50:00-04:00",
+          "title": "English Football League: Bristol City vs Watford"
+        },
+        {
+          "display_title": "11:00 AM UFC: UFC 333 Press Conference",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-19T19:00:00-04:00",
+          "stop": "2026-09-19T23:00:00-04:00",
+          "title": "UFC: UFC 333 Press Conference"
+        },
+        {
+          "display_title": "11:45 AM PBR Team Series: PBR Teams Cowboy Days",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-19T19:45:00-04:00",
+          "stop": "2026-09-19T23:45:00-04:00",
+          "title": "PBR Team Series: PBR Teams Cowboy Days"
+        },
+        {
+          "display_title": "12:00 PM UFC: UFC 331 Ceremonial Weigh In",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-09-19T20:00:00-04:00",
+          "stop": "2026-09-20T00:00:00-04:00",
+          "title": "UFC: UFC 331 Ceremonial Weigh In"
+        },
+        {
+          "display_title": "12:00 PM UFC: UFC 331 Ceremonial Weigh In em Português",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-09-19T20:00:00-04:00",
+          "stop": "2026-09-20T00:00:00-04:00",
+          "title": "UFC: UFC 331 Ceremonial Weigh In em Português"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 625134852,
-      "message_timestamp": 1789704066,
+      "message_id": 625184828,
+      "message_timestamp": 1789722029,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-18T04:59:53.432467+00:00"
+      "updated_at": "2026-09-18T11:29:45.574679+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
