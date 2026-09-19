@@ -6271,7 +6271,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.10">
     <display-name>PPV 10</display-name>
-    <display-name>PPV 10: 15:00 Maxxis Midwest Max Daddy Fairbury</display-name>
+    <display-name>PPV 10: 15:00 CANCELLED Maxxis Midwest Max Daddy Fairbury</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
@@ -6311,7 +6311,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.18">
     <display-name>PPV 18</display-name>
-    <display-name>PPV 18: 18:15 NAPA All Star Sprints Fremont</display-name>
+    <display-name>PPV 18: 18:15 CANCELLED NAPA All Star Sprints Fremont</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.19">
@@ -7071,7 +7071,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.36">
     <display-name>PPV2 36</display-name>
-    <display-name>PPV2 36:</display-name>
+    <display-name>PPV2 36: 18:05 Chrisean Rock vs Kuâ€™Shiyah Williams 09-19</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.37">
@@ -14039,6 +14039,11 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
+  <programme start="20260922180500 -0400" stop="20260922220500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.36">
+    <title>10:05 AM Chrisean Rock vs Kuâ€™Shiyah Williams</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
   <programme start="20260919170000 -0400" stop="20260919210000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
     <title>9:00 AM Prelims UFC 331</title>
     <category>Sports</category>
@@ -14085,7 +14090,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20260921150000 -0400" stop="20260921190000 -0400" channel="custom.PAY.PER.VIEW.PPV.10">
-    <title>7:00 AM Maxxis Midwest Max Daddy Fairbury</title>
+    <title>7:00 AM CANCELLED Maxxis Midwest Max Daddy Fairbury</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14125,7 +14130,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20260921181500 -0400" stop="20260921221500 -0400" channel="custom.PAY.PER.VIEW.PPV.18">
-    <title>10:15 AM NAPA All Star Sprints Fremont</title>
+    <title>10:15 AM CANCELLED NAPA All Star Sprints Fremont</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

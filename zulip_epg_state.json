@@ -346,12 +346,12 @@
           "title": "1/ AMA Supercross Championship Carson"
         },
         {
-          "display_title": "7:00 AM Maxxis Midwest Max Daddy Fairbury",
+          "display_title": "7:00 AM CANCELLED Maxxis Midwest Max Daddy Fairbury",
           "slot": "PPV 10",
           "slot_norm": "PPV 10",
           "start": "2026-09-21T15:00:00-04:00",
           "stop": "2026-09-21T19:00:00-04:00",
-          "title": "Maxxis Midwest Max Daddy Fairbury"
+          "title": "CANCELLED Maxxis Midwest Max Daddy Fairbury"
         },
         {
           "display_title": "9:00 AM NWMT Riverhead",
@@ -410,12 +410,12 @@
           "title": "SMART Modifieds Orange County"
         },
         {
-          "display_title": "10:15 AM NAPA All Star Sprints Fremont",
+          "display_title": "10:15 AM CANCELLED NAPA All Star Sprints Fremont",
           "slot": "PPV 18",
           "slot_norm": "PPV 18",
           "start": "2026-09-21T18:15:00-04:00",
           "stop": "2026-09-21T22:15:00-04:00",
-          "title": "NAPA All Star Sprints Fremont"
+          "title": "CANCELLED NAPA All Star Sprints Fremont"
         },
         {
           "display_title": "10:55 AM IMCA Wittkopf Memorial 141 Speedway",
@@ -475,10 +475,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 625380274,
-      "message_timestamp": 1789790451,
+      "message_id": 625466873,
+      "message_timestamp": 1789851639,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-19T04:47:20.752747+00:00"
+      "updated_at": "2026-09-19T22:21:39.053853+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -722,13 +722,21 @@
           "start": "2026-09-22T20:00:00-04:00",
           "stop": "2026-09-23T00:00:00-04:00",
           "title": "Cotton Pickin 100 Final Night"
+        },
+        {
+          "display_title": "10:05 AM Chrisean Rock vs Kuâ€™Shiyah Williams",
+          "slot": "PPV2 36",
+          "slot_norm": "PPV2 36",
+          "start": "2026-09-22T18:05:00-04:00",
+          "stop": "2026-09-22T22:05:00-04:00",
+          "title": "Chrisean Rock vs Kuâ€™Shiyah Williams"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 625417560,
-      "message_timestamp": 1789821018,
+      "message_id": 625468942,
+      "message_timestamp": 1789853423,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-19T15:58:11.064940+00:00"
+      "updated_at": "2026-09-19T22:21:39.438582+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
