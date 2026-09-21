@@ -340,35 +340,19 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "12:00 AM The John Penton GNCC at Sunday Creek",
+          "display_title": "12:00 PM WWE Monday Night Raw",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-20T08:00:00-04:00",
-          "stop": "2026-09-20T12:00:00-04:00",
-          "title": "The John Penton GNCC at Sunday Creek"
-        },
-        {
-          "display_title": "1:25 AM PDRA Brian Olson Memorial",
-          "slot": "PPV2 02",
-          "slot_norm": "PPV2 2",
-          "start": "2026-09-20T09:25:00-04:00",
-          "stop": "2026-09-20T13:25:00-04:00",
-          "title": "PDRA Brian Olson Memorial"
-        },
-        {
-          "display_title": "9:30 AM FURY FC 124",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-09-20T17:30:00-04:00",
-          "stop": "2026-09-20T21:30:00-04:00",
-          "title": "FURY FC 124"
+          "start": "2026-09-21T20:00:00-04:00",
+          "stop": "2026-09-22T00:00:00-04:00",
+          "title": "WWE Monday Night Raw"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 625543654,
-      "message_timestamp": 1789907434,
+      "message_id": 625723402,
+      "message_timestamp": 1789993822,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-20T16:18:25.588192+00:00"
+      "updated_at": "2026-09-21T13:02:50.544694+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -392,171 +376,59 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "3:20 AM Fulham vs Manchester United Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 013",
-          "slot_norm": "AU STAN 13",
-          "start": "2026-09-21T01:20:00+10:00",
-          "stop": "2026-09-21T05:20:00+10:00",
-          "title": "Fulham vs Manchester United Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "3:20 AM • Fulham vs Manchester United Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN 014",
-          "slot_norm": "AU STAN 14",
-          "start": "2026-09-21T01:20:00+10:00",
-          "stop": "2026-09-21T05:20:00+10:00",
-          "title": "• Fulham vs Manchester United Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "4:35 AM Men Elite Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
-          "start": "2026-09-21T02:35:00+10:00",
-          "stop": "2026-09-21T06:35:00+10:00",
-          "title": "Men Elite Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "6:00 AM PL Weekend Wrap: Matchweek 5 Sep 21",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
-          "start": "2026-09-21T04:00:00+10:00",
-          "stop": "2026-09-21T08:00:00+10:00",
-          "title": "PL Weekend Wrap: Matchweek 5 Sep 21"
-        },
-        {
-          "display_title": "6:30 AM São Paulo: Day 7 WTA 250",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-09-21T04:30:00+10:00",
-          "stop": "2026-09-21T08:30:00+10:00",
-          "title": "São Paulo: Day 7 WTA 250"
-        },
-        {
-          "display_title": "7:15 AM Crosscountry Short Track: Soldier Hollow UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN 018",
-          "slot_norm": "AU STAN 18",
-          "start": "2026-09-21T05:15:00+10:00",
-          "stop": "2026-09-21T09:15:00+10:00",
-          "title": "Crosscountry Short Track: Soldier Hollow UCI Mountain Bike World Series 2026"
-        },
-        {
-          "display_title": "9:00 AM Chicago Stars vs Washington Spirit NWSL 2026",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
-          "start": "2026-09-21T07:00:00+10:00",
-          "stop": "2026-09-21T11:00:00+10:00",
-          "title": "Chicago Stars vs Washington Spirit NWSL 2026"
-        },
-        {
-          "display_title": "11:00 AM Utah Royals vs Angel City FC NWSL 2026",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
-          "start": "2026-09-21T09:00:00+10:00",
-          "stop": "2026-09-21T13:00:00+10:00",
-          "title": "Utah Royals vs Angel City FC NWSL 2026"
-        },
-        {
           "display_title": "12:50 AM Women U23 Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-09-21T22:50:00+10:00",
           "stop": "2026-09-22T02:50:00+10:00",
           "title": "Women U23 Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
+          "display_title": "2:00 AM São Paulo: Day 7 WTA 250",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-09-22T00:00:00+10:00",
+          "stop": "2026-09-22T04:00:00+10:00",
+          "title": "São Paulo: Day 7 WTA 250"
+        },
+        {
           "display_title": "3:50 AM Men U23 Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-09-22T01:50:00+10:00",
           "stop": "2026-09-22T05:50:00+10:00",
           "title": "Men U23 Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
-          "display_title": "3:20 AM Fulham vs Manchester United Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN ALT 013",
-          "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-22T01:20:00+10:00",
-          "stop": "2026-09-22T05:20:00+10:00",
-          "title": "Fulham vs Manchester United Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "3:20 AM • Fulham vs Manchester United Premier League Matchweek 5 2026/2027",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
-          "start": "2026-09-22T01:20:00+10:00",
-          "stop": "2026-09-22T05:20:00+10:00",
-          "title": "• Fulham vs Manchester United Premier League Matchweek 5 2026/2027"
-        },
-        {
-          "display_title": "4:35 AM Men Elite Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
-          "start": "2026-09-22T02:35:00+10:00",
-          "stop": "2026-09-22T06:35:00+10:00",
-          "title": "Men Elite Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "6:00 AM PL Weekend Wrap: Matchweek 5 Sep 21",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
-          "start": "2026-09-22T04:00:00+10:00",
-          "stop": "2026-09-22T08:00:00+10:00",
-          "title": "PL Weekend Wrap: Matchweek 5 Sep 21"
-        },
-        {
-          "display_title": "6:30 AM São Paulo: Day 7 WTA 250",
-          "slot": "AU STAN ALT 017",
-          "slot_norm": "AU STAN ALT 17",
-          "start": "2026-09-22T04:30:00+10:00",
-          "stop": "2026-09-22T08:30:00+10:00",
-          "title": "São Paulo: Day 7 WTA 250"
-        },
-        {
-          "display_title": "7:15 AM Crosscountry Short Track: Soldier Hollow UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN ALT 018",
-          "slot_norm": "AU STAN ALT 18",
-          "start": "2026-09-22T05:15:00+10:00",
-          "stop": "2026-09-22T09:15:00+10:00",
-          "title": "Crosscountry Short Track: Soldier Hollow UCI Mountain Bike World Series 2026"
-        },
-        {
-          "display_title": "9:00 AM Chicago Stars vs Washington Spirit NWSL 2026",
-          "slot": "AU STAN ALT 019",
-          "slot_norm": "AU STAN ALT 19",
-          "start": "2026-09-22T07:00:00+10:00",
-          "stop": "2026-09-22T11:00:00+10:00",
-          "title": "Chicago Stars vs Washington Spirit NWSL 2026"
-        },
-        {
-          "display_title": "11:00 AM Utah Royals vs Angel City FC NWSL 2026",
-          "slot": "AU STAN ALT 020",
-          "slot_norm": "AU STAN ALT 20",
-          "start": "2026-09-22T09:00:00+10:00",
-          "stop": "2026-09-22T13:00:00+10:00",
-          "title": "Utah Royals vs Angel City FC NWSL 2026"
-        },
-        {
           "display_title": "12:50 AM Women U23 Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 021",
-          "slot_norm": "AU STAN ALT 21",
-          "start": "2026-09-22T22:50:00+10:00",
-          "stop": "2026-09-23T02:50:00+10:00",
+          "slot": "AU STAN ALT 001",
+          "slot_norm": "AU STAN ALT 1",
+          "start": "2026-09-21T22:50:00+10:00",
+          "stop": "2026-09-22T02:50:00+10:00",
           "title": "Women U23 Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
+          "display_title": "2:00 AM São Paulo: Day 7 WTA 250",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-09-22T00:00:00+10:00",
+          "stop": "2026-09-22T04:00:00+10:00",
+          "title": "São Paulo: Day 7 WTA 250"
+        },
+        {
           "display_title": "3:50 AM Men U23 Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 022",
-          "slot_norm": "AU STAN ALT 22",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
           "start": "2026-09-22T01:50:00+10:00",
           "stop": "2026-09-22T05:50:00+10:00",
           "title": "Men U23 Individual Time Trial UCI Road World Championships Montreal 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 625551472,
-      "message_timestamp": 1789912866,
+      "message_id": 625698110,
+      "message_timestamp": 1789986610,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-20T16:18:26.208066+00:00"
+      "updated_at": "2026-09-21T13:02:50.732514+00:00"
     }
   },
   "version": 1
