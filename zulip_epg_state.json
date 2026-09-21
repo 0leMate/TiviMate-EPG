@@ -358,31 +358,151 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:15 AM Norwich vs Bolton // UK Sun 20 Sep // ET Sun 20 Sep 8:15am",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-09-21T13:15:00+01:00",
-          "stop": "2026-09-21T17:15:00+01:00",
-          "title": "Norwich vs Bolton // UK Sun 20 Sep // ET Sun 20 Sep 8:15am"
+          "display_title": "5:45 AM Accrington vs Sunderland U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Accrington vs Sunderland U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Barnsley vs Leeds U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Barnsley vs Leeds U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Burton vs Nottm Forest U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 16",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Burton vs Nottm Forest U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Chesterfield vs Port Vale // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 17",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Chesterfield vs Port Vale // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Crewe vs Aston Villa U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 18",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Crewe vs Aston Villa U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Gillingham vs Cambridge U // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Gillingham vs Cambridge U // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Leicester vs Fulham U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Leicester vs Fulham U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Luton vs Ipswich U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Luton vs Ipswich U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Mk Dons vs Crawley // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 22",
+          "slot_norm": "SKY SPORTS+ 22",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Mk Dons vs Crawley // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Notts County vs Grimsby // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 23",
+          "slot_norm": "SKY SPORTS+ 23",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Notts County vs Grimsby // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Oldham vs Fleetwood // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 24",
+          "slot_norm": "SKY SPORTS+ 24",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Oldham vs Fleetwood // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Peterborough vs Colchester // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 25",
+          "slot_norm": "SKY SPORTS+ 25",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Peterborough vs Colchester // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Plymouth vs Crystal Palace U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 26",
+          "slot_norm": "SKY SPORTS+ 26",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Plymouth vs Crystal Palace U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Rochdale vs Liverpool U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 27",
+          "slot_norm": "SKY SPORTS+ 27",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Rochdale vs Liverpool U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Swindon vs Newport // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 28",
+          "slot_norm": "SKY SPORTS+ 28",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Swindon vs Newport // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Tranmere vs Shrewsbury // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 29",
+          "slot_norm": "SKY SPORTS+ 29",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Tranmere vs Shrewsbury // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+        },
+        {
+          "display_title": "5:45 AM Wigan vs Blackpool // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "slot": "SKY SPORTS+ 31",
+          "slot_norm": "SKY SPORTS+ 31",
+          "start": "2026-09-21T18:45:00+01:00",
+          "stop": "2026-09-21T22:45:00+01:00",
+          "title": "Wigan vs Blackpool // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 625606338,
-      "message_timestamp": 1789948836,
+      "message_id": 625832005,
+      "message_timestamp": 1790017221,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-21T05:09:21.154282+00:00"
+      "updated_at": "2026-09-21T19:36:03.186696+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
-        {
-          "display_title": "12:50 AM Women U23 Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-09-21T22:50:00+10:00",
-          "stop": "2026-09-22T02:50:00+10:00",
-          "title": "Women U23 Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
         {
           "display_title": "2:00 AM São Paulo: Day 7 WTA 250",
           "slot": "AU STAN 002",
@@ -400,35 +520,91 @@
           "title": "Men U23 Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
-          "display_title": "12:50 AM Women U23 Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 001",
-          "slot_norm": "AU STAN ALT 1",
-          "start": "2026-09-21T22:50:00+10:00",
-          "stop": "2026-09-22T02:50:00+10:00",
-          "title": "Women U23 Individual Time Trial UCI Road World Championships Montreal 2026"
+          "display_title": "3:00 PM Singapore: Day 2 WTA 500",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-09-22T13:00:00+10:00",
+          "stop": "2026-09-22T17:00:00+10:00",
+          "title": "Singapore: Day 2 WTA 500"
+        },
+        {
+          "display_title": "12:20 AM Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-09-22T22:20:00+10:00",
+          "stop": "2026-09-23T02:20:00+10:00",
+          "title": "Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "4:05 AM Men Junior Individual Time Trial UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
+          "start": "2026-09-23T02:05:00+10:00",
+          "stop": "2026-09-23T06:05:00+10:00",
+          "title": "Men Junior Individual Time Trial UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "7:05 AM Women Junior Individual Time Trial UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-09-23T05:05:00+10:00",
+          "stop": "2026-09-23T09:05:00+10:00",
+          "title": "Women Junior Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "2:00 AM São Paulo: Day 7 WTA 250",
           "slot": "AU STAN ALT 002",
           "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-22T00:00:00+10:00",
-          "stop": "2026-09-22T04:00:00+10:00",
+          "start": "2026-09-23T00:00:00+10:00",
+          "stop": "2026-09-23T04:00:00+10:00",
           "title": "São Paulo: Day 7 WTA 250"
         },
         {
           "display_title": "3:50 AM Men U23 Individual Time Trial UCI Road World Championships Montreal 2026",
           "slot": "AU STAN ALT 003",
           "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-22T01:50:00+10:00",
-          "stop": "2026-09-22T05:50:00+10:00",
+          "start": "2026-09-23T01:50:00+10:00",
+          "stop": "2026-09-23T05:50:00+10:00",
           "title": "Men U23 Individual Time Trial UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "3:00 PM Singapore: Day 2 WTA 500",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-09-23T13:00:00+10:00",
+          "stop": "2026-09-23T17:00:00+10:00",
+          "title": "Singapore: Day 2 WTA 500"
+        },
+        {
+          "display_title": "12:20 AM Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-23T22:20:00+10:00",
+          "stop": "2026-09-24T02:20:00+10:00",
+          "title": "Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "4:05 AM Men Junior Individual Time Trial UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-09-23T02:05:00+10:00",
+          "stop": "2026-09-23T06:05:00+10:00",
+          "title": "Men Junior Individual Time Trial UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "7:05 AM Women Junior Individual Time Trial UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-23T05:05:00+10:00",
+          "stop": "2026-09-23T09:05:00+10:00",
+          "title": "Women Junior Individual Time Trial UCI Road World Championships Montreal 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 625698110,
-      "message_timestamp": 1789986610,
+      "message_id": 625746824,
+      "message_timestamp": 1789999226,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-21T13:02:50.732514+00:00"
+      "updated_at": "2026-09-21T19:36:03.285601+00:00"
     }
   },
   "version": 1
