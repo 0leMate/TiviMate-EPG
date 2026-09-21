@@ -322,35 +322,19 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 AM The John Penton GNCC Sunday Creek",
+          "display_title": "12:00 PM WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-20T08:00:00-04:00",
-          "stop": "2026-09-20T12:00:00-04:00",
-          "title": "The John Penton GNCC Sunday Creek"
-        },
-        {
-          "display_title": "1:00 AM PDRA Brian Olson World Finals",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-09-20T09:00:00-04:00",
-          "stop": "2026-09-20T13:00:00-04:00",
-          "title": "PDRA Brian Olson World Finals"
-        },
-        {
-          "display_title": "9:30 AM Fury FC 124",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-20T17:30:00-04:00",
-          "stop": "2026-09-20T21:30:00-04:00",
-          "title": "Fury FC 124"
+          "start": "2026-09-21T20:00:00-04:00",
+          "stop": "2026-09-22T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 625503309,
-      "message_timestamp": 1789878618,
+      "message_id": 625630053,
+      "message_timestamp": 1789963244,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-20T05:03:26.883953+00:00"
+      "updated_at": "2026-09-21T05:09:20.339809+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -393,16 +377,16 @@
           "display_title": "12:15 AM Norwich vs Bolton // UK Sun 20 Sep // ET Sun 20 Sep 8:15am",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-09-20T13:15:00+01:00",
-          "stop": "2026-09-20T17:15:00+01:00",
+          "start": "2026-09-21T13:15:00+01:00",
+          "stop": "2026-09-21T17:15:00+01:00",
           "title": "Norwich vs Bolton // UK Sun 20 Sep // ET Sun 20 Sep 8:15am"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 625529288,
-      "message_timestamp": 1789896819,
+      "message_id": 625606338,
+      "message_timestamp": 1789948836,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-20T11:37:43.415393+00:00"
+      "updated_at": "2026-09-21T05:09:21.154282+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
