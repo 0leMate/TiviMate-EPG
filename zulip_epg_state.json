@@ -136,205 +136,101 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "10:20 PM Fiorentina vs Napoli",
+          "display_title": "4:00 AM Bayern vs Man. City",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-20T06:20:00-04:00",
-          "stop": "2026-09-20T10:20:00-04:00",
-          "title": "Fiorentina vs Napoli"
+          "start": "2026-09-22T12:00:00-04:00",
+          "stop": "2026-09-22T16:00:00-04:00",
+          "title": "Bayern vs Man. City"
         },
         {
-          "display_title": "10:45 PM Celtic vs Rangers",
+          "display_title": "4:00 AM Inter vs BK Häcken",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-20T06:45:00-04:00",
-          "stop": "2026-09-20T10:45:00-04:00",
-          "title": "Celtic vs Rangers"
+          "start": "2026-09-22T12:00:00-04:00",
+          "stop": "2026-09-22T16:00:00-04:00",
+          "title": "Inter vs BK Häcken"
         },
         {
-          "display_title": "10:50 PM Wolves vs West Bromwich Albion",
+          "display_title": "6:45 AM Real Madrid vs PSG",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-20T06:50:00-04:00",
-          "stop": "2026-09-20T10:50:00-04:00",
-          "title": "Wolves vs West Bromwich Albion"
+          "start": "2026-09-22T14:45:00-04:00",
+          "stop": "2026-09-22T18:45:00-04:00",
+          "title": "Real Madrid vs PSG"
         },
         {
-          "display_title": "12:35 AM Ireland vs USA",
+          "display_title": "6:45 AM Juventus vs Benfica",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-20T08:35:00-04:00",
-          "stop": "2026-09-20T12:35:00-04:00",
-          "title": "Ireland vs USA"
+          "start": "2026-09-22T14:45:00-04:00",
+          "stop": "2026-09-22T18:45:00-04:00",
+          "title": "Juventus vs Benfica"
         },
         {
-          "display_title": "12:50 AM Frosinone vs Como",
+          "display_title": "6:45 AM Arsenal vs HB Køge",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Frosinone vs Como"
+          "start": "2026-09-22T14:45:00-04:00",
+          "stop": "2026-09-22T18:45:00-04:00",
+          "title": "Arsenal vs HB Køge"
         },
         {
-          "display_title": "12:50 AM Parma vs Genoa",
+          "display_title": "11:00 AM Dana White\\`s Contender Series",
           "slot": "PARAMOUNT 006",
           "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Parma vs Genoa"
+          "start": "2026-09-22T19:00:00-04:00",
+          "stop": "2026-09-22T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series"
         },
         {
-          "display_title": "12:50 AM Crystal Palace vs Tottenham",
+          "display_title": "11:00 AM Dana White\\`s Contender Series em Português",
           "slot": "PARAMOUNT 007",
           "slot_norm": "PARAMOUNT 7",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Crystal Palace vs Tottenham"
+          "start": "2026-09-22T19:00:00-04:00",
+          "stop": "2026-09-22T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series em Português"
         },
         {
-          "display_title": "12:50 AM Brighton vs Aston Villa",
+          "display_title": "11:00 AM Dana White\\`s Contender Series en Español",
           "slot": "PARAMOUNT 008",
           "slot_norm": "PARAMOUNT 8",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Brighton vs Aston Villa"
-        },
-        {
-          "display_title": "12:50 AM West Ham United vs Everton",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "West Ham United vs Everton"
-        },
-        {
-          "display_title": "3:00 AM Juventus vs Atalanta",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-09-20T11:00:00-04:00",
-          "stop": "2026-09-20T15:00:00-04:00",
-          "title": "Juventus vs Atalanta"
-        },
-        {
-          "display_title": "6:00 AM Milan vs Lecce",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-09-20T14:00:00-04:00",
-          "stop": "2026-09-20T18:00:00-04:00",
-          "title": "Milan vs Lecce"
-        },
-        {
-          "display_title": "10:20 PM Serie A: Fiorentina vs Napoli",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-20T06:20:00-04:00",
-          "stop": "2026-09-20T10:20:00-04:00",
-          "title": "Serie A: Fiorentina vs Napoli"
-        },
-        {
-          "display_title": "10:45 PM Scottish Professional Football League: Celtic vs Rangers",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-20T06:45:00-04:00",
-          "stop": "2026-09-20T10:45:00-04:00",
-          "title": "Scottish Professional Football League: Celtic vs Rangers"
-        },
-        {
-          "display_title": "10:50 PM English Football League: Wolves vs West Bromwich Albion",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-20T06:50:00-04:00",
-          "stop": "2026-09-20T10:50:00-04:00",
-          "title": "English Football League: Wolves vs West Bromwich Albion"
-        },
-        {
-          "display_title": "12:35 AM World Rugby: Ireland vs USA",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-20T08:35:00-04:00",
-          "stop": "2026-09-20T12:35:00-04:00",
-          "title": "World Rugby: Ireland vs USA"
-        },
-        {
-          "display_title": "12:50 AM Serie A: Frosinone vs Como",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Serie A: Frosinone vs Como"
-        },
-        {
-          "display_title": "12:50 AM Serie A: Parma vs Genoa",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Serie A: Parma vs Genoa"
-        },
-        {
-          "display_title": "12:50 AM Barclays Women's Super League: Crystal Palace vs Tottenham",
-          "slot": "PARAMOUNT ALT 07",
-          "slot_norm": "PARAMOUNT ALT 7",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Crystal Palace vs Tottenham"
-        },
-        {
-          "display_title": "12:50 AM Barclays Women's Super League: Brighton vs Aston Villa",
-          "slot": "PARAMOUNT ALT 08",
-          "slot_norm": "PARAMOUNT ALT 8",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Brighton vs Aston Villa"
-        },
-        {
-          "display_title": "12:50 AM Barclays Women's Super League: West Ham United vs Everton",
-          "slot": "PARAMOUNT ALT 09",
-          "slot_norm": "PARAMOUNT ALT 9",
-          "start": "2026-09-20T08:50:00-04:00",
-          "stop": "2026-09-20T12:50:00-04:00",
-          "title": "Barclays Women's Super League: West Ham United vs Everton"
-        },
-        {
-          "display_title": "3:00 AM Serie A: Juventus vs Atalanta",
-          "slot": "PARAMOUNT ALT 10",
-          "slot_norm": "PARAMOUNT ALT 10",
-          "start": "2026-09-20T11:00:00-04:00",
-          "stop": "2026-09-20T15:00:00-04:00",
-          "title": "Serie A: Juventus vs Atalanta"
-        },
-        {
-          "display_title": "6:00 AM Serie A: Milan vs Lecce",
-          "slot": "PARAMOUNT ALT 11",
-          "slot_norm": "PARAMOUNT ALT 11",
-          "start": "2026-09-20T14:00:00-04:00",
-          "stop": "2026-09-20T18:00:00-04:00",
-          "title": "Serie A: Milan vs Lecce"
+          "start": "2026-09-22T19:00:00-04:00",
+          "stop": "2026-09-22T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 625531596,
-      "message_timestamp": 1789898491,
+      "message_id": 625912868,
+      "message_timestamp": 1790049649,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-20T11:37:42.424163+00:00"
+      "updated_at": "2026-09-22T05:10:24.085368+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night RAW",
+          "display_title": "11:00 AM Dana White Contender Series S10W07",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-21T20:00:00-04:00",
-          "stop": "2026-09-22T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
+          "start": "2026-09-22T19:00:00-04:00",
+          "stop": "2026-09-22T23:00:00-04:00",
+          "title": "Dana White Contender Series S10W07"
+        },
+        {
+          "display_title": "1:15 PM World of Outlaws Sprints Kings Speedway",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-09-22T21:15:00-04:00",
+          "stop": "2026-09-23T01:15:00-04:00",
+          "title": "World of Outlaws Sprints Kings Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 625630053,
-      "message_timestamp": 1789963244,
+      "message_id": 625912854,
+      "message_timestamp": 1790049638,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-21T05:09:20.339809+00:00"
+      "updated_at": "2026-09-22T05:10:24.165030+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -361,144 +257,144 @@
           "display_title": "5:45 AM Accrington vs Sunderland U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 14",
           "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Accrington vs Sunderland U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Barnsley vs Leeds U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 15",
           "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Barnsley vs Leeds U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Burton vs Nottm Forest U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 16",
           "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Burton vs Nottm Forest U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Chesterfield vs Port Vale // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 17",
           "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Chesterfield vs Port Vale // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Crewe vs Aston Villa U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 18",
           "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Crewe vs Aston Villa U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Gillingham vs Cambridge U // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 19",
           "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Gillingham vs Cambridge U // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Leicester vs Fulham U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 20",
           "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Leicester vs Fulham U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Luton vs Ipswich U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 21",
           "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Luton vs Ipswich U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Mk Dons vs Crawley // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 22",
           "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Mk Dons vs Crawley // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Notts County vs Grimsby // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 23",
           "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Notts County vs Grimsby // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Oldham vs Fleetwood // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 24",
           "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Oldham vs Fleetwood // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Peterborough vs Colchester // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 25",
           "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Peterborough vs Colchester // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Plymouth vs Crystal Palace U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 26",
           "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Plymouth vs Crystal Palace U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Rochdale vs Liverpool U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 27",
           "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Rochdale vs Liverpool U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Swindon vs Newport // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 28",
           "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Swindon vs Newport // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Tranmere vs Shrewsbury // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 29",
           "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Tranmere vs Shrewsbury // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         },
         {
           "display_title": "5:45 AM Wigan vs Blackpool // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
           "slot": "SKY SPORTS+ 31",
           "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-09-21T18:45:00+01:00",
-          "stop": "2026-09-21T22:45:00+01:00",
+          "start": "2026-09-22T18:45:00+01:00",
+          "stop": "2026-09-22T22:45:00+01:00",
           "title": "Wigan vs Blackpool // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 625832005,
-      "message_timestamp": 1790017221,
+      "message_id": 625880265,
+      "message_timestamp": 1790035257,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-21T19:36:03.186696+00:00"
+      "updated_at": "2026-09-22T05:10:24.315936+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
