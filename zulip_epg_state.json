@@ -4,43 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "9:30 AM Millbridge Speedway",
+          "display_title": "1:15 PM Kings Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-20T17:30:00-04:00",
-          "stop": "2026-09-20T21:30:00-04:00",
-          "title": "Millbridge Speedway"
-        },
-        {
-          "display_title": "10:00 AM Volusia Speedway Park",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-09-20T18:00:00-04:00",
-          "stop": "2026-09-20T22:00:00-04:00",
-          "title": "Volusia Speedway Park"
-        },
-        {
-          "display_title": "10:00 AM Land of Legends Raceway",
-          "slot": "DIRT 03",
-          "slot_norm": "DIRT 3",
-          "start": "2026-09-20T18:00:00-04:00",
-          "stop": "2026-09-20T22:00:00-04:00",
-          "title": "Land of Legends Raceway"
-        },
-        {
-          "display_title": "1:15 PM Stockton Dirt Track",
-          "slot": "DIRT 04",
-          "slot_norm": "DIRT 4",
-          "start": "2026-09-20T21:15:00-04:00",
-          "stop": "2026-09-21T01:15:00-04:00",
-          "title": "Stockton Dirt Track"
+          "start": "2026-09-22T21:15:00-04:00",
+          "stop": "2026-09-23T01:15:00-04:00",
+          "title": "Kings Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 625531615,
-      "message_timestamp": 1789898512,
+      "message_id": 626143961,
+      "message_timestamp": 1790109014,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-20T11:37:42.060799+00:00"
+      "updated_at": "2026-09-22T21:30:05.283304+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",

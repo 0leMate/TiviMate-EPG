@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 21:15 Kings Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -3170,6 +3170,546 @@
     <display-name>ESPN+ 600:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.001">
+    <display-name>ESPN+ ALT2 001</display-name>
+    <display-name>ESPN+ ALT2 001: 08:00 Soccer: LaLiga al Día 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.002">
+    <display-name>ESPN+ ALT2 002</display-name>
+    <display-name>ESPN+ ALT2 002: 11:45 NCAA Football: Florida Atlantic Weekly Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.003">
+    <display-name>ESPN+ ALT2 003</display-name>
+    <display-name>ESPN+ ALT2 003: 12:00 NCAA Football: Oklahoma Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.004">
+    <display-name>ESPN+ ALT2 004</display-name>
+    <display-name>ESPN+ ALT2 004: 12:00 NCAA Football: Cincinnati Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.005">
+    <display-name>ESPN+ ALT2 005</display-name>
+    <display-name>ESPN+ ALT2 005: 12:00 Soccer: Tue 9/22 - LALIGA Highlight Show 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.006">
+    <display-name>ESPN+ ALT2 006</display-name>
+    <display-name>ESPN+ ALT2 006: 12:25 Soccer: FC Bayern vs Man City (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.007">
+    <display-name>ESPN+ ALT2 007</display-name>
+    <display-name>ESPN+ ALT2 007: 12:30 Soccer: Inter Milan vs BK Hacken FF (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.008">
+    <display-name>ESPN+ ALT2 008</display-name>
+    <display-name>ESPN+ ALT2 008: 12:55 NCAA Football: Iowa State Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.009">
+    <display-name>ESPN+ ALT2 009</display-name>
+    <display-name>ESPN+ ALT2 009: 13:00 NCAA Football: Deion Sanders Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.010">
+    <display-name>ESPN+ ALT2 010</display-name>
+    <display-name>ESPN+ ALT2 010: 13:00 NCAA Football: North Texas Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.011">
+    <display-name>ESPN+ ALT2 011</display-name>
+    <display-name>ESPN+ ALT2 011: 13:00 NCAA Football: Missouri Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.012">
+    <display-name>ESPN+ ALT2 012</display-name>
+    <display-name>ESPN+ ALT2 012: 13:00 NCAA Football: South Carolina Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.013">
+    <display-name>ESPN+ ALT2 013</display-name>
+    <display-name>ESPN+ ALT2 013: 13:00 NCAA Football: SEC Now: Open Mic 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.014">
+    <display-name>ESPN+ ALT2 014</display-name>
+    <display-name>ESPN+ ALT2 014: 13:00 MLB: Yankees Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.015">
+    <display-name>ESPN+ ALT2 015</display-name>
+    <display-name>ESPN+ ALT2 015: 13:00 MLB: Rays Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.016">
+    <display-name>ESPN+ ALT2 016</display-name>
+    <display-name>ESPN+ ALT2 016: 13:00 MLB: Rays vs Yankees (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.017">
+    <display-name>ESPN+ ALT2 017</display-name>
+    <display-name>ESPN+ ALT2 017: 14:00 NCAA Football: College Football Live 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.018">
+    <display-name>ESPN+ ALT2 018</display-name>
+    <display-name>ESPN+ ALT2 018: 14:00 NCAA Football: California Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.019">
+    <display-name>ESPN+ ALT2 019</display-name>
+    <display-name>ESPN+ ALT2 019: 14:00 NCAA Football: Vanderbilt Football Press Conference 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.020">
+    <display-name>ESPN+ ALT2 020</display-name>
+    <display-name>ESPN+ ALT2 020: 14:30 Soccer: Arsenal vs HB Koge Women (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.021">
+    <display-name>ESPN+ ALT2 021</display-name>
+    <display-name>ESPN+ ALT2 021: 14:40 Soccer: Juventus vs Benfica (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.022">
+    <display-name>ESPN+ ALT2 022</display-name>
+    <display-name>ESPN+ ALT2 022: 14:40 Soccer: Real Madrid vs PSG (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.023">
+    <display-name>ESPN+ ALT2 023</display-name>
+    <display-name>ESPN+ ALT2 023: 15:00 NBA Today: NBA Today 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.024">
+    <display-name>ESPN+ ALT2 024</display-name>
+    <display-name>ESPN+ ALT2 024: 15:00 Magic City Jai Alai: Fireballs vs Warriors 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.025">
+    <display-name>ESPN+ ALT2 025</display-name>
+    <display-name>ESPN+ ALT2 025: 16:00 NCAA Football: Always College Football 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.026">
+    <display-name>ESPN+ ALT2 026</display-name>
+    <display-name>ESPN+ ALT2 026: 16:00 Football: NFL Live 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.027">
+    <display-name>ESPN+ ALT2 027</display-name>
+    <display-name>ESPN+ ALT2 027: 16:00 Big East Conference: Drexel vs Villanova 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.028">
+    <display-name>ESPN+ ALT2 028</display-name>
+    <display-name>ESPN+ ALT2 028: 16:00 NCAA Women`s Field Hockey: Merrimack vs Vermont 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.029">
+    <display-name>ESPN+ ALT2 029</display-name>
+    <display-name>ESPN+ ALT2 029: 17:00 Soccer: Tue 9/22 - ESPN FC 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.030">
+    <display-name>ESPN+ ALT2 030</display-name>
+    <display-name>ESPN+ ALT2 030: 18:00 This is Football: This is Football 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.031">
+    <display-name>ESPN+ ALT2 031</display-name>
+    <display-name>ESPN+ ALT2 031: 18:00 Soccer: Generación Futbol 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.032">
+    <display-name>ESPN+ ALT2 032</display-name>
+    <display-name>ESPN+ ALT2 032: 18:00 Soccer: Queens vs Virginia Tech 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.033">
+    <display-name>ESPN+ ALT2 033</display-name>
+    <display-name>ESPN+ ALT2 033: 18:00 Soccer: New Haven vs Yale 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.034">
+    <display-name>ESPN+ ALT2 034</display-name>
+    <display-name>ESPN+ ALT2 034: 18:00 Soccer: Hofstra vs Loyola MD 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.035">
+    <display-name>ESPN+ ALT2 035</display-name>
+    <display-name>ESPN+ ALT2 035: 18:00 Soccer: William &amp; Mary vs #13 Old Dominion 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.036">
+    <display-name>ESPN+ ALT2 036</display-name>
+    <display-name>ESPN+ ALT2 036: 18:00 Soccer: Cleveland St vs St Bonaventure 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.037">
+    <display-name>ESPN+ ALT2 037</display-name>
+    <display-name>ESPN+ ALT2 037: 18:00 Soccer: Coastal vs Wofford 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.038">
+    <display-name>ESPN+ ALT2 038</display-name>
+    <display-name>ESPN+ ALT2 038: 18:00 Soccer: Presbyterian vs ETSU 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.039">
+    <display-name>ESPN+ ALT2 039</display-name>
+    <display-name>ESPN+ ALT2 039: 18:00 Southern Conference: Wofford vs Gardner Webb 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.040">
+    <display-name>ESPN+ ALT2 040</display-name>
+    <display-name>ESPN+ ALT2 040: 18:00 Volleyball: Youngstown St vs Robert Morris 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.041">
+    <display-name>ESPN+ ALT2 041</display-name>
+    <display-name>ESPN+ ALT2 041: 18:00 Atlantic Sun Conference: Tenn Tech vs Lipscomb 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.042">
+    <display-name>ESPN+ ALT2 042</display-name>
+    <display-name>ESPN+ ALT2 042: 18:01 Atlantic Sun Conference: Queens vs UNC Asheville 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.043">
+    <display-name>ESPN+ ALT2 043</display-name>
+    <display-name>ESPN+ ALT2 043: 18:30 Volleyball: E Michigan vs C Michigan 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.044">
+    <display-name>ESPN+ ALT2 044</display-name>
+    <display-name>ESPN+ ALT2 044: 19:00 NCAA Football: After Further Review 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.045">
+    <display-name>ESPN+ ALT2 045</display-name>
+    <display-name>ESPN+ ALT2 045: 19:00 Baseball: Los Angeles vs San Francisco 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.046">
+    <display-name>ESPN+ ALT2 046</display-name>
+    <display-name>ESPN+ ALT2 046: 19:00 NHL: Penguins Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.047">
+    <display-name>ESPN+ ALT2 047</display-name>
+    <display-name>ESPN+ ALT2 047: 19:00 NHL: Red Wings Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.048">
+    <display-name>ESPN+ ALT2 048</display-name>
+    <display-name>ESPN+ ALT2 048: 19:00 NHL: Bruins Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.049">
+    <display-name>ESPN+ ALT2 049</display-name>
+    <display-name>ESPN+ ALT2 049: 19:00 NHL: Flyers Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.050">
+    <display-name>ESPN+ ALT2 050</display-name>
+    <display-name>ESPN+ ALT2 050: 19:00 NHL: Rangers Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.051">
+    <display-name>ESPN+ ALT2 051</display-name>
+    <display-name>ESPN+ ALT2 051: 19:00 NHL: Islanders Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.052">
+    <display-name>ESPN+ ALT2 052</display-name>
+    <display-name>ESPN+ ALT2 052: 19:00 NHL: PHI vs BOS • NYI vs. NYR 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.053">
+    <display-name>ESPN+ ALT2 053</display-name>
+    <display-name>ESPN+ ALT2 053: 19:00 Soccer: N Kentucky vs Dayton 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.054">
+    <display-name>ESPN+ ALT2 054</display-name>
+    <display-name>ESPN+ ALT2 054: 19:00 Big East Conference: Milwaukee vs Marquette 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.055">
+    <display-name>ESPN+ ALT2 055</display-name>
+    <display-name>ESPN+ ALT2 055: 19:00 Big East Conference: Brown vs Providence 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.056">
+    <display-name>ESPN+ ALT2 056</display-name>
+    <display-name>ESPN+ ALT2 056: 19:01 Soccer: Elon vs Davidson 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.057">
+    <display-name>ESPN+ ALT2 057</display-name>
+    <display-name>ESPN+ ALT2 057: 19:01 Big East Conference: Robert Morris vs #6 Akron 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.058">
+    <display-name>ESPN+ ALT2 058</display-name>
+    <display-name>ESPN+ ALT2 058: 19:01 Soccer: UCF vs Stetson 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.059">
+    <display-name>ESPN+ ALT2 059</display-name>
+    <display-name>ESPN+ ALT2 059: 19:01 Soccer: Duquesne vs West Virginia 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.060">
+    <display-name>ESPN+ ALT2 060</display-name>
+    <display-name>ESPN+ ALT2 060: 19:01 Soccer: Howard vs Duke 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.061">
+    <display-name>ESPN+ ALT2 061</display-name>
+    <display-name>ESPN+ ALT2 061: 19:01 Soccer: Binghamton vs #17 Cornell 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.062">
+    <display-name>ESPN+ ALT2 062</display-name>
+    <display-name>ESPN+ ALT2 062: 19:01 Soccer: Navy vs UMBC 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.063">
+    <display-name>ESPN+ ALT2 063</display-name>
+    <display-name>ESPN+ ALT2 063: 19:01 Soccer: Bucknell vs Saint Joseph`s 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.064">
+    <display-name>ESPN+ ALT2 064</display-name>
+    <display-name>ESPN+ ALT2 064: 19:01 Soccer: Trinity (Jax) vs North Florida 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.065">
+    <display-name>ESPN+ ALT2 065</display-name>
+    <display-name>ESPN+ ALT2 065: 19:01 Soccer: Liberty vs James Madison 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.066">
+    <display-name>ESPN+ ALT2 066</display-name>
+    <display-name>ESPN+ ALT2 066: 19:01 Big East Conference: Seton Hall vs #11 Princeton 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.067">
+    <display-name>ESPN+ ALT2 067</display-name>
+    <display-name>ESPN+ ALT2 067: 19:01 Soccer: Lehigh vs Columbia 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.068">
+    <display-name>ESPN+ ALT2 068</display-name>
+    <display-name>ESPN+ ALT2 068: 19:02 Soccer: Harvard vs Boston U 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.069">
+    <display-name>ESPN+ ALT2 069</display-name>
+    <display-name>ESPN+ ALT2 069: 19:02 Soccer: Kentucky vs Lipscomb 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.070">
+    <display-name>ESPN+ ALT2 070</display-name>
+    <display-name>ESPN+ ALT2 070: 19:02 United Athletic Conference: UT Arlington vs Tarleton St 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.071">
+    <display-name>ESPN+ ALT2 071</display-name>
+    <display-name>ESPN+ ALT2 071: 19:02 Missouri Valley Conference: Northern Iowa vs Drake 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.072">
+    <display-name>ESPN+ ALT2 072</display-name>
+    <display-name>ESPN+ ALT2 072: 19:02 American Conference: Rice vs #16 Texas A&amp;M 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.073">
+    <display-name>ESPN+ ALT2 073</display-name>
+    <display-name>ESPN+ ALT2 073: 19:10 Soccer: E Illinois vs Marshall 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.074">
+    <display-name>ESPN+ ALT2 074</display-name>
+    <display-name>ESPN+ ALT2 074: 19:30 WNBA Countdown: WNBA Countdown 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.075">
+    <display-name>ESPN+ ALT2 075</display-name>
+    <display-name>ESPN+ ALT2 075: 20:00 Football: NFL`s Greatest Game 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.076">
+    <display-name>ESPN+ ALT2 076</display-name>
+    <display-name>ESPN+ ALT2 076: 20:00 NCAA Football: SEC Inside: Auburn vs Florida 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.077">
+    <display-name>ESPN+ ALT2 077</display-name>
+    <display-name>ESPN+ ALT2 077: 20:00 The Pulse: The Pulse: Texas A&amp;M Football - Ep. 5 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.078">
+    <display-name>ESPN+ ALT2 078</display-name>
+    <display-name>ESPN+ ALT2 078: 20:00 NHL: Predators Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.079">
+    <display-name>ESPN+ ALT2 079</display-name>
+    <display-name>ESPN+ ALT2 079: 20:00 NHL: Lightning Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.080">
+    <display-name>ESPN+ ALT2 080</display-name>
+    <display-name>ESPN+ ALT2 080: 20:00 NHL: Jets Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.081">
+    <display-name>ESPN+ ALT2 081</display-name>
+    <display-name>ESPN+ ALT2 081: 20:00 NHL: EDM vs WPG • TB vs. NSH 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.082">
+    <display-name>ESPN+ ALT2 082</display-name>
+    <display-name>ESPN+ ALT2 082: 20:00 Basketball: Lynx vs Fever 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.083">
+    <display-name>ESPN+ ALT2 083</display-name>
+    <display-name>ESPN+ ALT2 083: 20:00 Basketball: Lynx vs Fever (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.084">
+    <display-name>ESPN+ ALT2 084</display-name>
+    <display-name>ESPN+ ALT2 084: 20:00 Big East Conference: #14 Creighton vs Denver 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.085">
+    <display-name>ESPN+ ALT2 085</display-name>
+    <display-name>ESPN+ ALT2 085: 20:30 NCAA Football: SEC Inside: Tennessee 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.086">
+    <display-name>ESPN+ ALT2 086</display-name>
+    <display-name>ESPN+ ALT2 086: 20:30 NCAA Football: Sooner Sports Pad 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.087">
+    <display-name>ESPN+ ALT2 087</display-name>
+    <display-name>ESPN+ ALT2 087: 20:30 Soccer: Tue 9/22 - Futbol W 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.088">
+    <display-name>ESPN+ ALT2 088</display-name>
+    <display-name>ESPN+ ALT2 088: 21:00 Mountain West Conference: UC Davis vs Stanford 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.089">
+    <display-name>ESPN+ ALT2 089</display-name>
+    <display-name>ESPN+ ALT2 089: 21:00 Big Sky Conference: Montana St vs Montana 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.090">
+    <display-name>ESPN+ ALT2 090</display-name>
+    <display-name>ESPN+ ALT2 090: 22:00 NHL: Mammoth Broadcast 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.091">
+    <display-name>ESPN+ ALT2 091</display-name>
+    <display-name>ESPN+ ALT2 091: 22:00 Basketball: Sparks vs Aces 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.092">
+    <display-name>ESPN+ ALT2 092</display-name>
+    <display-name>ESPN+ ALT2 092: 22:00 Basketball: Sparks vs Aces (ESP) 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.093">
+    <display-name>ESPN+ ALT2 093</display-name>
+    <display-name>ESPN+ ALT2 093: 18:00 Soccer: Hofstra vs Loyola MD 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.094">
+    <display-name>ESPN+ ALT2 094</display-name>
+    <display-name>ESPN+ ALT2 094: 18:00 Soccer: William &amp; Mary vs #13 Old Dominion 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.095">
+    <display-name>ESPN+ ALT2 095</display-name>
+    <display-name>ESPN+ ALT2 095: 18:00 Soccer: Cleveland St vs St Bonaventure 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.096">
+    <display-name>ESPN+ ALT2 096</display-name>
+    <display-name>ESPN+ ALT2 096: 18:00 Soccer: Coastal vs Wofford 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.097">
+    <display-name>ESPN+ ALT2 097</display-name>
+    <display-name>ESPN+ ALT2 097: 18:00 Soccer: Presbyterian vs ETSU 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.098">
+    <display-name>ESPN+ ALT2 098</display-name>
+    <display-name>ESPN+ ALT2 098: 18:00 Southern Conference: Wofford vs Gardner Webb 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.099">
+    <display-name>ESPN+ ALT2 099</display-name>
+    <display-name>ESPN+ ALT2 099: 18:00 Volleyball: Youngstown St vs Robert Morris 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.100">
+    <display-name>ESPN+ ALT2 100</display-name>
+    <display-name>ESPN+ ALT2 100: 18:00 Atlantic Sun Conference: Tenn Tech vs Lipscomb 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.101">
+    <display-name>ESPN+ ALT2 101</display-name>
+    <display-name>ESPN+ ALT2 101: 18:00 Atlantic Sun Conference: Queens vs UNC Asheville 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.102">
+    <display-name>ESPN+ ALT2 102</display-name>
+    <display-name>ESPN+ ALT2 102: 18:30 Volleyball: E Michigan vs C Michigan 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.103">
+    <display-name>ESPN+ ALT2 103</display-name>
+    <display-name>ESPN+ ALT2 103: 19:00 NCAA Football: After Further Review 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.104">
+    <display-name>ESPN+ ALT2 104</display-name>
+    <display-name>ESPN+ ALT2 104: 19:00 Baseball: Los Angeles vs San Francisco 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.105">
+    <display-name>ESPN+ ALT2 105</display-name>
+    <display-name>ESPN+ ALT2 105: 19:00 Soccer: N Kentucky vs Dayton 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.106">
+    <display-name>ESPN+ ALT2 106</display-name>
+    <display-name>ESPN+ ALT2 106: 19:00 Big East Conference: Milwaukee vs Marquette 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.107">
+    <display-name>ESPN+ ALT2 107</display-name>
+    <display-name>ESPN+ ALT2 107: 19:00 Big East Conference: Brown vs Providence 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.ALT2.108">
+    <display-name>ESPN+ ALT2 108</display-name>
+    <display-name>ESPN+ ALT2 108: 19:00 Soccer: Elon vs Davidson 09-22</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
   <channel id="custom.US.ESPN.ESPN.ALT.001">
     <display-name>ESPN+ ALT 001</display-name>
     <display-name>ESPN+ ALT 001: 09:00 Fairways of Life: Fairways of Life with Matt Adams 09-09</display-name>
@@ -4420,546 +4960,6 @@
     <display-name>ESPN+ ALT 250:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.001">
-    <display-name>ESPN+ ALT2 001</display-name>
-    <display-name>ESPN+ ALT2 001: 08:00 Soccer: LaLiga al Día 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.002">
-    <display-name>ESPN+ ALT2 002</display-name>
-    <display-name>ESPN+ ALT2 002: 11:45 NCAA Football: Florida Atlantic Weekly Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.003">
-    <display-name>ESPN+ ALT2 003</display-name>
-    <display-name>ESPN+ ALT2 003: 12:00 NCAA Football: Oklahoma Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.004">
-    <display-name>ESPN+ ALT2 004</display-name>
-    <display-name>ESPN+ ALT2 004: 12:00 NCAA Football: Cincinnati Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.005">
-    <display-name>ESPN+ ALT2 005</display-name>
-    <display-name>ESPN+ ALT2 005: 12:00 Soccer: Tue 9/22 - LALIGA Highlight Show 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.006">
-    <display-name>ESPN+ ALT2 006</display-name>
-    <display-name>ESPN+ ALT2 006: 12:25 Soccer: FC Bayern vs Man City (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.007">
-    <display-name>ESPN+ ALT2 007</display-name>
-    <display-name>ESPN+ ALT2 007: 12:30 Soccer: Inter Milan vs BK Hacken FF (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.008">
-    <display-name>ESPN+ ALT2 008</display-name>
-    <display-name>ESPN+ ALT2 008: 12:55 NCAA Football: Iowa State Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.009">
-    <display-name>ESPN+ ALT2 009</display-name>
-    <display-name>ESPN+ ALT2 009: 13:00 NCAA Football: Deion Sanders Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.010">
-    <display-name>ESPN+ ALT2 010</display-name>
-    <display-name>ESPN+ ALT2 010: 13:00 NCAA Football: North Texas Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.011">
-    <display-name>ESPN+ ALT2 011</display-name>
-    <display-name>ESPN+ ALT2 011: 13:00 NCAA Football: Missouri Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.012">
-    <display-name>ESPN+ ALT2 012</display-name>
-    <display-name>ESPN+ ALT2 012: 13:00 NCAA Football: South Carolina Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.013">
-    <display-name>ESPN+ ALT2 013</display-name>
-    <display-name>ESPN+ ALT2 013: 13:00 NCAA Football: SEC Now: Open Mic 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.014">
-    <display-name>ESPN+ ALT2 014</display-name>
-    <display-name>ESPN+ ALT2 014: 13:00 MLB: Yankees Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.015">
-    <display-name>ESPN+ ALT2 015</display-name>
-    <display-name>ESPN+ ALT2 015: 13:00 MLB: Rays Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.016">
-    <display-name>ESPN+ ALT2 016</display-name>
-    <display-name>ESPN+ ALT2 016: 13:00 MLB: Rays vs Yankees (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.017">
-    <display-name>ESPN+ ALT2 017</display-name>
-    <display-name>ESPN+ ALT2 017: 14:00 NCAA Football: College Football Live 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.018">
-    <display-name>ESPN+ ALT2 018</display-name>
-    <display-name>ESPN+ ALT2 018: 14:00 NCAA Football: California Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.019">
-    <display-name>ESPN+ ALT2 019</display-name>
-    <display-name>ESPN+ ALT2 019: 14:00 NCAA Football: Vanderbilt Football Press Conference 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.020">
-    <display-name>ESPN+ ALT2 020</display-name>
-    <display-name>ESPN+ ALT2 020: 14:30 Soccer: Arsenal vs HB Koge Women (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.021">
-    <display-name>ESPN+ ALT2 021</display-name>
-    <display-name>ESPN+ ALT2 021: 14:40 Soccer: Juventus vs Benfica (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.022">
-    <display-name>ESPN+ ALT2 022</display-name>
-    <display-name>ESPN+ ALT2 022: 14:40 Soccer: Real Madrid vs PSG (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.023">
-    <display-name>ESPN+ ALT2 023</display-name>
-    <display-name>ESPN+ ALT2 023: 15:00 NBA Today: NBA Today 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.024">
-    <display-name>ESPN+ ALT2 024</display-name>
-    <display-name>ESPN+ ALT2 024: 15:00 Magic City Jai Alai: Fireballs vs Warriors 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.025">
-    <display-name>ESPN+ ALT2 025</display-name>
-    <display-name>ESPN+ ALT2 025: 16:00 NCAA Football: Always College Football 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.026">
-    <display-name>ESPN+ ALT2 026</display-name>
-    <display-name>ESPN+ ALT2 026: 16:00 Football: NFL Live 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.027">
-    <display-name>ESPN+ ALT2 027</display-name>
-    <display-name>ESPN+ ALT2 027: 16:00 Big East Conference: Drexel vs Villanova 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.028">
-    <display-name>ESPN+ ALT2 028</display-name>
-    <display-name>ESPN+ ALT2 028: 16:00 NCAA Women`s Field Hockey: Merrimack vs Vermont 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.029">
-    <display-name>ESPN+ ALT2 029</display-name>
-    <display-name>ESPN+ ALT2 029: 17:00 Soccer: Tue 9/22 - ESPN FC 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.030">
-    <display-name>ESPN+ ALT2 030</display-name>
-    <display-name>ESPN+ ALT2 030: 18:00 This is Football: This is Football 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.031">
-    <display-name>ESPN+ ALT2 031</display-name>
-    <display-name>ESPN+ ALT2 031: 18:00 Soccer: Generación Futbol 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.032">
-    <display-name>ESPN+ ALT2 032</display-name>
-    <display-name>ESPN+ ALT2 032: 18:00 Soccer: Queens vs Virginia Tech 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.033">
-    <display-name>ESPN+ ALT2 033</display-name>
-    <display-name>ESPN+ ALT2 033: 18:00 Soccer: New Haven vs Yale 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.034">
-    <display-name>ESPN+ ALT2 034</display-name>
-    <display-name>ESPN+ ALT2 034: 18:00 Soccer: Hofstra vs Loyola MD 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.035">
-    <display-name>ESPN+ ALT2 035</display-name>
-    <display-name>ESPN+ ALT2 035: 18:00 Soccer: William &amp; Mary vs #13 Old Dominion 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.036">
-    <display-name>ESPN+ ALT2 036</display-name>
-    <display-name>ESPN+ ALT2 036: 18:00 Soccer: Cleveland St vs St Bonaventure 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.037">
-    <display-name>ESPN+ ALT2 037</display-name>
-    <display-name>ESPN+ ALT2 037: 18:00 Soccer: Coastal vs Wofford 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.038">
-    <display-name>ESPN+ ALT2 038</display-name>
-    <display-name>ESPN+ ALT2 038: 18:00 Soccer: Presbyterian vs ETSU 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.039">
-    <display-name>ESPN+ ALT2 039</display-name>
-    <display-name>ESPN+ ALT2 039: 18:00 Southern Conference: Wofford vs Gardner Webb 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.040">
-    <display-name>ESPN+ ALT2 040</display-name>
-    <display-name>ESPN+ ALT2 040: 18:00 Volleyball: Youngstown St vs Robert Morris 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.041">
-    <display-name>ESPN+ ALT2 041</display-name>
-    <display-name>ESPN+ ALT2 041: 18:00 Atlantic Sun Conference: Tenn Tech vs Lipscomb 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.042">
-    <display-name>ESPN+ ALT2 042</display-name>
-    <display-name>ESPN+ ALT2 042: 18:01 Atlantic Sun Conference: Queens vs UNC Asheville 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.043">
-    <display-name>ESPN+ ALT2 043</display-name>
-    <display-name>ESPN+ ALT2 043: 18:30 Volleyball: E Michigan vs C Michigan 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.044">
-    <display-name>ESPN+ ALT2 044</display-name>
-    <display-name>ESPN+ ALT2 044: 19:00 NCAA Football: After Further Review 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.045">
-    <display-name>ESPN+ ALT2 045</display-name>
-    <display-name>ESPN+ ALT2 045: 19:00 Baseball: Los Angeles vs San Francisco 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.046">
-    <display-name>ESPN+ ALT2 046</display-name>
-    <display-name>ESPN+ ALT2 046: 19:00 NHL: Penguins Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.047">
-    <display-name>ESPN+ ALT2 047</display-name>
-    <display-name>ESPN+ ALT2 047: 19:00 NHL: Red Wings Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.048">
-    <display-name>ESPN+ ALT2 048</display-name>
-    <display-name>ESPN+ ALT2 048: 19:00 NHL: Bruins Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.049">
-    <display-name>ESPN+ ALT2 049</display-name>
-    <display-name>ESPN+ ALT2 049: 19:00 NHL: Flyers Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.050">
-    <display-name>ESPN+ ALT2 050</display-name>
-    <display-name>ESPN+ ALT2 050: 19:00 NHL: Rangers Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.051">
-    <display-name>ESPN+ ALT2 051</display-name>
-    <display-name>ESPN+ ALT2 051: 19:00 NHL: Islanders Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.052">
-    <display-name>ESPN+ ALT2 052</display-name>
-    <display-name>ESPN+ ALT2 052: 19:00 NHL: PHI vs BOS • NYI vs. NYR 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.053">
-    <display-name>ESPN+ ALT2 053</display-name>
-    <display-name>ESPN+ ALT2 053: 19:00 Soccer: N Kentucky vs Dayton 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.054">
-    <display-name>ESPN+ ALT2 054</display-name>
-    <display-name>ESPN+ ALT2 054: 19:00 Big East Conference: Milwaukee vs Marquette 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.055">
-    <display-name>ESPN+ ALT2 055</display-name>
-    <display-name>ESPN+ ALT2 055: 19:00 Big East Conference: Brown vs Providence 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.056">
-    <display-name>ESPN+ ALT2 056</display-name>
-    <display-name>ESPN+ ALT2 056: 19:01 Soccer: Elon vs Davidson 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.057">
-    <display-name>ESPN+ ALT2 057</display-name>
-    <display-name>ESPN+ ALT2 057: 19:01 Big East Conference: Robert Morris vs #6 Akron 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.058">
-    <display-name>ESPN+ ALT2 058</display-name>
-    <display-name>ESPN+ ALT2 058: 19:01 Soccer: UCF vs Stetson 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.059">
-    <display-name>ESPN+ ALT2 059</display-name>
-    <display-name>ESPN+ ALT2 059: 19:01 Soccer: Duquesne vs West Virginia 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.060">
-    <display-name>ESPN+ ALT2 060</display-name>
-    <display-name>ESPN+ ALT2 060: 19:01 Soccer: Howard vs Duke 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.061">
-    <display-name>ESPN+ ALT2 061</display-name>
-    <display-name>ESPN+ ALT2 061: 19:01 Soccer: Binghamton vs #17 Cornell 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.062">
-    <display-name>ESPN+ ALT2 062</display-name>
-    <display-name>ESPN+ ALT2 062: 19:01 Soccer: Navy vs UMBC 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.063">
-    <display-name>ESPN+ ALT2 063</display-name>
-    <display-name>ESPN+ ALT2 063: 19:01 Soccer: Bucknell vs Saint Joseph`s 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.064">
-    <display-name>ESPN+ ALT2 064</display-name>
-    <display-name>ESPN+ ALT2 064: 19:01 Soccer: Trinity (Jax) vs North Florida 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.065">
-    <display-name>ESPN+ ALT2 065</display-name>
-    <display-name>ESPN+ ALT2 065: 19:01 Soccer: Liberty vs James Madison 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.066">
-    <display-name>ESPN+ ALT2 066</display-name>
-    <display-name>ESPN+ ALT2 066: 19:01 Big East Conference: Seton Hall vs #11 Princeton 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.067">
-    <display-name>ESPN+ ALT2 067</display-name>
-    <display-name>ESPN+ ALT2 067: 19:01 Soccer: Lehigh vs Columbia 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.068">
-    <display-name>ESPN+ ALT2 068</display-name>
-    <display-name>ESPN+ ALT2 068: 19:02 Soccer: Harvard vs Boston U 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.069">
-    <display-name>ESPN+ ALT2 069</display-name>
-    <display-name>ESPN+ ALT2 069: 19:02 Soccer: Kentucky vs Lipscomb 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.070">
-    <display-name>ESPN+ ALT2 070</display-name>
-    <display-name>ESPN+ ALT2 070: 19:02 United Athletic Conference: UT Arlington vs Tarleton St 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.071">
-    <display-name>ESPN+ ALT2 071</display-name>
-    <display-name>ESPN+ ALT2 071: 19:02 Missouri Valley Conference: Northern Iowa vs Drake 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.072">
-    <display-name>ESPN+ ALT2 072</display-name>
-    <display-name>ESPN+ ALT2 072: 19:02 American Conference: Rice vs #16 Texas A&amp;M 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.073">
-    <display-name>ESPN+ ALT2 073</display-name>
-    <display-name>ESPN+ ALT2 073: 19:10 Soccer: E Illinois vs Marshall 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.074">
-    <display-name>ESPN+ ALT2 074</display-name>
-    <display-name>ESPN+ ALT2 074: 19:30 WNBA Countdown: WNBA Countdown 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.075">
-    <display-name>ESPN+ ALT2 075</display-name>
-    <display-name>ESPN+ ALT2 075: 20:00 Football: NFL`s Greatest Game 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.076">
-    <display-name>ESPN+ ALT2 076</display-name>
-    <display-name>ESPN+ ALT2 076: 20:00 NCAA Football: SEC Inside: Auburn vs Florida 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.077">
-    <display-name>ESPN+ ALT2 077</display-name>
-    <display-name>ESPN+ ALT2 077: 20:00 The Pulse: The Pulse: Texas A&amp;M Football - Ep. 5 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.078">
-    <display-name>ESPN+ ALT2 078</display-name>
-    <display-name>ESPN+ ALT2 078: 20:00 NHL: Predators Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.079">
-    <display-name>ESPN+ ALT2 079</display-name>
-    <display-name>ESPN+ ALT2 079: 20:00 NHL: Lightning Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.080">
-    <display-name>ESPN+ ALT2 080</display-name>
-    <display-name>ESPN+ ALT2 080: 20:00 NHL: Jets Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.081">
-    <display-name>ESPN+ ALT2 081</display-name>
-    <display-name>ESPN+ ALT2 081: 20:00 NHL: EDM vs WPG • TB vs. NSH 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.082">
-    <display-name>ESPN+ ALT2 082</display-name>
-    <display-name>ESPN+ ALT2 082: 20:00 Basketball: Lynx vs Fever 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.083">
-    <display-name>ESPN+ ALT2 083</display-name>
-    <display-name>ESPN+ ALT2 083: 20:00 Basketball: Lynx vs Fever (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.084">
-    <display-name>ESPN+ ALT2 084</display-name>
-    <display-name>ESPN+ ALT2 084: 20:00 Big East Conference: #14 Creighton vs Denver 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.085">
-    <display-name>ESPN+ ALT2 085</display-name>
-    <display-name>ESPN+ ALT2 085: 20:30 NCAA Football: SEC Inside: Tennessee 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.086">
-    <display-name>ESPN+ ALT2 086</display-name>
-    <display-name>ESPN+ ALT2 086: 20:30 NCAA Football: Sooner Sports Pad 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.087">
-    <display-name>ESPN+ ALT2 087</display-name>
-    <display-name>ESPN+ ALT2 087: 20:30 Soccer: Tue 9/22 - Futbol W 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.088">
-    <display-name>ESPN+ ALT2 088</display-name>
-    <display-name>ESPN+ ALT2 088: 21:00 Mountain West Conference: UC Davis vs Stanford 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.089">
-    <display-name>ESPN+ ALT2 089</display-name>
-    <display-name>ESPN+ ALT2 089: 21:00 Big Sky Conference: Montana St vs Montana 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.090">
-    <display-name>ESPN+ ALT2 090</display-name>
-    <display-name>ESPN+ ALT2 090: 22:00 NHL: Mammoth Broadcast 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.091">
-    <display-name>ESPN+ ALT2 091</display-name>
-    <display-name>ESPN+ ALT2 091: 22:00 Basketball: Sparks vs Aces 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.092">
-    <display-name>ESPN+ ALT2 092</display-name>
-    <display-name>ESPN+ ALT2 092: 22:00 Basketball: Sparks vs Aces (ESP) 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.093">
-    <display-name>ESPN+ ALT2 093</display-name>
-    <display-name>ESPN+ ALT2 093: 18:00 Soccer: Hofstra vs Loyola MD 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.094">
-    <display-name>ESPN+ ALT2 094</display-name>
-    <display-name>ESPN+ ALT2 094: 18:00 Soccer: William &amp; Mary vs #13 Old Dominion 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.095">
-    <display-name>ESPN+ ALT2 095</display-name>
-    <display-name>ESPN+ ALT2 095: 18:00 Soccer: Cleveland St vs St Bonaventure 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.096">
-    <display-name>ESPN+ ALT2 096</display-name>
-    <display-name>ESPN+ ALT2 096: 18:00 Soccer: Coastal vs Wofford 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.097">
-    <display-name>ESPN+ ALT2 097</display-name>
-    <display-name>ESPN+ ALT2 097: 18:00 Soccer: Presbyterian vs ETSU 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.098">
-    <display-name>ESPN+ ALT2 098</display-name>
-    <display-name>ESPN+ ALT2 098: 18:00 Southern Conference: Wofford vs Gardner Webb 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.099">
-    <display-name>ESPN+ ALT2 099</display-name>
-    <display-name>ESPN+ ALT2 099: 18:00 Volleyball: Youngstown St vs Robert Morris 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.100">
-    <display-name>ESPN+ ALT2 100</display-name>
-    <display-name>ESPN+ ALT2 100: 18:00 Atlantic Sun Conference: Tenn Tech vs Lipscomb 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.101">
-    <display-name>ESPN+ ALT2 101</display-name>
-    <display-name>ESPN+ ALT2 101: 18:00 Atlantic Sun Conference: Queens vs UNC Asheville 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.102">
-    <display-name>ESPN+ ALT2 102</display-name>
-    <display-name>ESPN+ ALT2 102: 18:30 Volleyball: E Michigan vs C Michigan 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.103">
-    <display-name>ESPN+ ALT2 103</display-name>
-    <display-name>ESPN+ ALT2 103: 19:00 NCAA Football: After Further Review 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.104">
-    <display-name>ESPN+ ALT2 104</display-name>
-    <display-name>ESPN+ ALT2 104: 19:00 Baseball: Los Angeles vs San Francisco 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.105">
-    <display-name>ESPN+ ALT2 105</display-name>
-    <display-name>ESPN+ ALT2 105: 19:00 Soccer: N Kentucky vs Dayton 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.106">
-    <display-name>ESPN+ ALT2 106</display-name>
-    <display-name>ESPN+ ALT2 106: 19:00 Big East Conference: Milwaukee vs Marquette 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.107">
-    <display-name>ESPN+ ALT2 107</display-name>
-    <display-name>ESPN+ ALT2 107: 19:00 Big East Conference: Brown vs Providence 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
-  <channel id="custom.US.ESPN.ESPN.ALT2.108">
-    <display-name>ESPN+ ALT2 108</display-name>
-    <display-name>ESPN+ ALT2 108: 19:00 Soccer: Elon vs Davidson 09-22</display-name>
-    <display-name>US ESPN+</display-name>
-  </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.001">
     <display-name>PARAMOUNT 001</display-name>
     <display-name>PARAMOUNT 001: 12:00 Bayern vs Man. City 09-22</display-name>
@@ -5505,11 +5505,6 @@
     <display-name>PARAMOUNT ALT 09:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
-  <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.100">
-    <display-name>PARAMOUNT ALT 100</display-name>
-    <display-name>PARAMOUNT ALT 100:</display-name>
-    <display-name>US PARAMOUNT</display-name>
-  </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.10">
     <display-name>PARAMOUNT ALT 10</display-name>
     <display-name>PARAMOUNT ALT 10:</display-name>
@@ -5958,6 +5953,11 @@
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.99">
     <display-name>PARAMOUNT ALT 99</display-name>
     <display-name>PARAMOUNT ALT 99:</display-name>
+    <display-name>US PARAMOUNT</display-name>
+  </channel>
+  <channel id="custom.US.PARAMOUNT.PARAMOUNT.ALT.100">
+    <display-name>PARAMOUNT ALT 100</display-name>
+    <display-name>PARAMOUNT ALT 100:</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.UFC.UFC.01">
@@ -7744,506 +7744,6 @@
     <display-name>CA TSN+ 100:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.001">
-    <display-name>CA TSN+ ALT 001</display-name>
-    <display-name>CA TSN+ ALT 001: 12:00 Pat McAfee Show 09-22</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.002">
-    <display-name>CA TSN+ ALT 002</display-name>
-    <display-name>CA TSN+ ALT 002: 12:00 Rich Eisen Show 09-22</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.003">
-    <display-name>CA TSN+ ALT 003</display-name>
-    <display-name>CA TSN+ ALT 003: 01:00 ATP 250 Tennis: Chengdu - Day #1 09-23</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.004">
-    <display-name>CA TSN+ ALT 004</display-name>
-    <display-name>CA TSN+ ALT 004: 02:00 ATP 250 Tennis: Hangzhou - Day #1 09-23</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.005">
-    <display-name>CA TSN+ ALT 005</display-name>
-    <display-name>CA TSN+ ALT 005: 12:00 Rich Eisen Show 09-23</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.006">
-    <display-name>CA TSN+ ALT 006</display-name>
-    <display-name>CA TSN+ ALT 006: 12:00 Pat McAfee Show 09-23</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.007">
-    <display-name>CA TSN+ ALT 007</display-name>
-    <display-name>CA TSN+ ALT 007: 01:00 ATP 250 Tennis: Chengdu - Day #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.008">
-    <display-name>CA TSN+ ALT 008</display-name>
-    <display-name>CA TSN+ ALT 008: 01:30 ATP 250 Tennis: Hangzhou - Day #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.009">
-    <display-name>CA TSN+ ALT 009</display-name>
-    <display-name>CA TSN+ ALT 009: 04:20 Formula 1 Pit Lane - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.010">
-    <display-name>CA TSN+ ALT 010</display-name>
-    <display-name>CA TSN+ ALT 010: 04:20 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.011">
-    <display-name>CA TSN+ ALT 011</display-name>
-    <display-name>CA TSN+ ALT 011: 04:20 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.012">
-    <display-name>CA TSN+ ALT 012</display-name>
-    <display-name>CA TSN+ ALT 012: 04:20 Formula 1 Driver Tracker - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.013">
-    <display-name>CA TSN+ ALT 013</display-name>
-    <display-name>CA TSN+ ALT 013: 04:20 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.014">
-    <display-name>CA TSN+ ALT 014</display-name>
-    <display-name>CA TSN+ ALT 014: 04:20 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.015">
-    <display-name>CA TSN+ ALT 015</display-name>
-    <display-name>CA TSN+ ALT 015: 04:20 Formula 1 Timing Channel - Azerbaijan Grand Prix Practice #1 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.016">
-    <display-name>CA TSN+ ALT 016</display-name>
-    <display-name>CA TSN+ ALT 016: 05:55 Formula 2 Qualifying: Baku 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.017">
-    <display-name>CA TSN+ ALT 017</display-name>
-    <display-name>CA TSN+ ALT 017: 07:50 Formula 1 Pit Lane - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.018">
-    <display-name>CA TSN+ ALT 018</display-name>
-    <display-name>CA TSN+ ALT 018: 07:50 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.019">
-    <display-name>CA TSN+ ALT 019</display-name>
-    <display-name>CA TSN+ ALT 019: 07:50 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.020">
-    <display-name>CA TSN+ ALT 020</display-name>
-    <display-name>CA TSN+ ALT 020: 07:50 Formula 1 Driver Tracker - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.021">
-    <display-name>CA TSN+ ALT 021</display-name>
-    <display-name>CA TSN+ ALT 021: 07:50 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.022">
-    <display-name>CA TSN+ ALT 022</display-name>
-    <display-name>CA TSN+ ALT 022: 07:50 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.023">
-    <display-name>CA TSN+ ALT 023</display-name>
-    <display-name>CA TSN+ ALT 023: 07:50 Formula 1 Timing Channel - Azerbaijan Grand Prix Practice #2 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.024">
-    <display-name>CA TSN+ ALT 024</display-name>
-    <display-name>CA TSN+ ALT 024: 14:00 Laver Cup Tennis: Line Up Show 09-24</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.025">
-    <display-name>CA TSN+ ALT 025</display-name>
-    <display-name>CA TSN+ ALT 025: 00:10 Formula 2 Sprint Race: Baku 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.026">
-    <display-name>CA TSN+ ALT 026</display-name>
-    <display-name>CA TSN+ ALT 026: 01:00 ATP 250 Tennis: Chengdu - Day #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.027">
-    <display-name>CA TSN+ ALT 027</display-name>
-    <display-name>CA TSN+ ALT 027: 01:30 ATP 250 Tennis: Hangzhou - Day #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.028">
-    <display-name>CA TSN+ ALT 028</display-name>
-    <display-name>CA TSN+ ALT 028: 04:20 Formula 1 Pit Lane - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.029">
-    <display-name>CA TSN+ ALT 029</display-name>
-    <display-name>CA TSN+ ALT 029: 04:20 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.030">
-    <display-name>CA TSN+ ALT 030</display-name>
-    <display-name>CA TSN+ ALT 030: 04:20 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.031">
-    <display-name>CA TSN+ ALT 031</display-name>
-    <display-name>CA TSN+ ALT 031: 04:20 Formula 1 Driver Tracker - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.032">
-    <display-name>CA TSN+ ALT 032</display-name>
-    <display-name>CA TSN+ ALT 032: 04:20 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.033">
-    <display-name>CA TSN+ ALT 033</display-name>
-    <display-name>CA TSN+ ALT 033: 04:20 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.034">
-    <display-name>CA TSN+ ALT 034</display-name>
-    <display-name>CA TSN+ ALT 034: 04:20 Formula 1 Timing Channel - Azerbaijan Grand Prix Practice #3 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.035">
-    <display-name>CA TSN+ ALT 035</display-name>
-    <display-name>CA TSN+ ALT 035: 06:10 Formula 2 Feature Race 1: Baku 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.036">
-    <display-name>CA TSN+ ALT 036</display-name>
-    <display-name>CA TSN+ ALT 036: 07:50 Formula 1 Pit Lane - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.037">
-    <display-name>CA TSN+ ALT 037</display-name>
-    <display-name>CA TSN+ ALT 037: 07:50 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.038">
-    <display-name>CA TSN+ ALT 038</display-name>
-    <display-name>CA TSN+ ALT 038: 07:50 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.039">
-    <display-name>CA TSN+ ALT 039</display-name>
-    <display-name>CA TSN+ ALT 039: 07:50 Formula 1 Driver Tracker - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.040">
-    <display-name>CA TSN+ ALT 040</display-name>
-    <display-name>CA TSN+ ALT 040: 07:50 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.041">
-    <display-name>CA TSN+ ALT 041</display-name>
-    <display-name>CA TSN+ ALT 041: 07:50 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.042">
-    <display-name>CA TSN+ ALT 042</display-name>
-    <display-name>CA TSN+ ALT 042: 07:50 Formula 1 Timing Channel - Azerbaijan Grand Prix Qualifying 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.043">
-    <display-name>CA TSN+ ALT 043</display-name>
-    <display-name>CA TSN+ ALT 043: 19:00 NCAA Football: Harvard vs Brown 09-25</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.044">
-    <display-name>CA TSN+ ALT 044</display-name>
-    <display-name>CA TSN+ ALT 044: 01:00 ATP 250 Tennis: Chengdu - Day #4 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.045">
-    <display-name>CA TSN+ ALT 045</display-name>
-    <display-name>CA TSN+ ALT 045: 01:30 ATP 250 Tennis: Hangzhou - Day #4 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.046">
-    <display-name>CA TSN+ ALT 046</display-name>
-    <display-name>CA TSN+ ALT 046: 02:55 Formula 2 Feature Race 2: Baku 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.047">
-    <display-name>CA TSN+ ALT 047</display-name>
-    <display-name>CA TSN+ ALT 047: 06:30 Formula 1 Pit Lane - Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.048">
-    <display-name>CA TSN+ ALT 048</display-name>
-    <display-name>CA TSN+ ALT 048: 06:30 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.049">
-    <display-name>CA TSN+ ALT 049</display-name>
-    <display-name>CA TSN+ ALT 049: 06:30 Formula 1 On Board Camera: Kimi Antonelli Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.050">
-    <display-name>CA TSN+ ALT 050</display-name>
-    <display-name>CA TSN+ ALT 050: 06:30 Formula 1 Driver Tracker - Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.051">
-    <display-name>CA TSN+ ALT 051</display-name>
-    <display-name>CA TSN+ ALT 051: 06:30 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.052">
-    <display-name>CA TSN+ ALT 052</display-name>
-    <display-name>CA TSN+ ALT 052: 06:30 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.053">
-    <display-name>CA TSN+ ALT 053</display-name>
-    <display-name>CA TSN+ ALT 053: 06:30 Formula 1 Timing Channel - Azerbaijan Grand Prix 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.054">
-    <display-name>CA TSN+ ALT 054</display-name>
-    <display-name>CA TSN+ ALT 054: 10:00 NASCAR Cup Series Practice &amp; Qualifying: Hollywood Casino 400 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.055">
-    <display-name>CA TSN+ ALT 055</display-name>
-    <display-name>CA TSN+ ALT 055: 11:48 FIFA U 20 Women`s World Cup: Third Place - TBD vs TBD 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.056">
-    <display-name>CA TSN+ ALT 056</display-name>
-    <display-name>CA TSN+ ALT 056: 12:00 NCAA Football: Wake Forest vs Louisville 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.057">
-    <display-name>CA TSN+ ALT 057</display-name>
-    <display-name>CA TSN+ ALT 057: 12:00 NCAA Football: Colorado vs Baylor 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.058">
-    <display-name>CA TSN+ ALT 058</display-name>
-    <display-name>CA TSN+ ALT 058: 13:00 NASCAR CRAFTSMAN Truck Series Playoffs: Race to Stop Suicide 200 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.059">
-    <display-name>CA TSN+ ALT 059</display-name>
-    <display-name>CA TSN+ ALT 059: 15:30 NCAA Football: Oklahoma vs Georgia 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.060">
-    <display-name>CA TSN+ ALT 060</display-name>
-    <display-name>CA TSN+ ALT 060: 15:30 NCAA Football: Ole Miss vs Florida 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.061">
-    <display-name>CA TSN+ ALT 061</display-name>
-    <display-name>CA TSN+ ALT 061: 19:00 NCAA Football: South Carolina vs Alabama 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.062">
-    <display-name>CA TSN+ ALT 062</display-name>
-    <display-name>CA TSN+ ALT 062: 19:45 NCAA Football: Missouri vs Mississippi State 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.063">
-    <display-name>CA TSN+ ALT 063</display-name>
-    <display-name>CA TSN+ ALT 063: 21:00 NCAA Football: Missouri State vs SMU 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.064">
-    <display-name>CA TSN+ ALT 064</display-name>
-    <display-name>CA TSN+ ALT 064: 22:30 NCAA Football: Georgia Tech vs Stanford 09-26</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.065">
-    <display-name>CA TSN+ ALT 065</display-name>
-    <display-name>CA TSN+ ALT 065: 01:00 ATP 250 Tennis: Chengdu - Quarterfinals 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.066">
-    <display-name>CA TSN+ ALT 066</display-name>
-    <display-name>CA TSN+ ALT 066: 01:30 ATP 250 Tennis: Hangzhou - Quarterfinals 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.067">
-    <display-name>CA TSN+ ALT 067</display-name>
-    <display-name>CA TSN+ ALT 067: 10:00 NFL Fantasy Football Now 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.068">
-    <display-name>CA TSN+ ALT 068</display-name>
-    <display-name>CA TSN+ ALT 068: 13:00 NFL on TSN: TBD vs TBD 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.069">
-    <display-name>CA TSN+ ALT 069</display-name>
-    <display-name>CA TSN+ ALT 069: 13:00 NFL RedZone 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.070">
-    <display-name>CA TSN+ ALT 070</display-name>
-    <display-name>CA TSN+ ALT 070: 15:00 NASCAR Cup Series On Board Camera: Hollywood Casino 400 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.071">
-    <display-name>CA TSN+ ALT 071</display-name>
-    <display-name>CA TSN+ ALT 071: 15:00 NASCAR Cup Series On Board Camera: Hollywood Casino 400 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.072">
-    <display-name>CA TSN+ ALT 072</display-name>
-    <display-name>CA TSN+ ALT 072: 16:00 NSL on TSN: Calgary vs Vancouver 09-27</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.073">
-    <display-name>CA TSN+ ALT 073</display-name>
-    <display-name>CA TSN+ ALT 073: 05:00 ATP 250 Tennis: Chengdu - Semifinals 09-28</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.074">
-    <display-name>CA TSN+ ALT 074</display-name>
-    <display-name>CA TSN+ ALT 074: 05:30 ATP 250 Tennis: Hangzhou - Semifinals 09-28</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.075">
-    <display-name>CA TSN+ ALT 075</display-name>
-    <display-name>CA TSN+ ALT 075:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.076">
-    <display-name>CA TSN+ ALT 076</display-name>
-    <display-name>CA TSN+ ALT 076:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.077">
-    <display-name>CA TSN+ ALT 077</display-name>
-    <display-name>CA TSN+ ALT 077:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.078">
-    <display-name>CA TSN+ ALT 078</display-name>
-    <display-name>CA TSN+ ALT 078:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.079">
-    <display-name>CA TSN+ ALT 079</display-name>
-    <display-name>CA TSN+ ALT 079:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.080">
-    <display-name>CA TSN+ ALT 080</display-name>
-    <display-name>CA TSN+ ALT 080:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.081">
-    <display-name>CA TSN+ ALT 081</display-name>
-    <display-name>CA TSN+ ALT 081:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.082">
-    <display-name>CA TSN+ ALT 082</display-name>
-    <display-name>CA TSN+ ALT 082:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.083">
-    <display-name>CA TSN+ ALT 083</display-name>
-    <display-name>CA TSN+ ALT 083:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.084">
-    <display-name>CA TSN+ ALT 084</display-name>
-    <display-name>CA TSN+ ALT 084:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.085">
-    <display-name>CA TSN+ ALT 085</display-name>
-    <display-name>CA TSN+ ALT 085:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.086">
-    <display-name>CA TSN+ ALT 086</display-name>
-    <display-name>CA TSN+ ALT 086:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.087">
-    <display-name>CA TSN+ ALT 087</display-name>
-    <display-name>CA TSN+ ALT 087:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.088">
-    <display-name>CA TSN+ ALT 088</display-name>
-    <display-name>CA TSN+ ALT 088:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.089">
-    <display-name>CA TSN+ ALT 089</display-name>
-    <display-name>CA TSN+ ALT 089:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.090">
-    <display-name>CA TSN+ ALT 090</display-name>
-    <display-name>CA TSN+ ALT 090:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.091">
-    <display-name>CA TSN+ ALT 091</display-name>
-    <display-name>CA TSN+ ALT 091:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.092">
-    <display-name>CA TSN+ ALT 092</display-name>
-    <display-name>CA TSN+ ALT 092:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.093">
-    <display-name>CA TSN+ ALT 093</display-name>
-    <display-name>CA TSN+ ALT 093:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.094">
-    <display-name>CA TSN+ ALT 094</display-name>
-    <display-name>CA TSN+ ALT 094:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.095">
-    <display-name>CA TSN+ ALT 095</display-name>
-    <display-name>CA TSN+ ALT 095:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.096">
-    <display-name>CA TSN+ ALT 096</display-name>
-    <display-name>CA TSN+ ALT 096:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.097">
-    <display-name>CA TSN+ ALT 097</display-name>
-    <display-name>CA TSN+ ALT 097:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.098">
-    <display-name>CA TSN+ ALT 098</display-name>
-    <display-name>CA TSN+ ALT 098:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.099">
-    <display-name>CA TSN+ ALT 099</display-name>
-    <display-name>CA TSN+ ALT 099:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
-  <channel id="custom.CA.TSN.CA.TSN.ALT.100">
-    <display-name>CA TSN+ ALT 100</display-name>
-    <display-name>CA TSN+ ALT 100:</display-name>
-    <display-name>CA TSN+</display-name>
-  </channel>
   <channel id="custom.CA.TSN.CA.TSN.ALT2.001">
     <display-name>CA TSN+ ALT2 001</display-name>
     <display-name>CA TSN+ ALT2 001: 00:00 SC: Top 100 Catches of All-Time A 09-22</display-name>
@@ -8994,6 +8494,506 @@
     <display-name>CA TSN+ ALT2 150:</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.001">
+    <display-name>CA TSN+ ALT 001</display-name>
+    <display-name>CA TSN+ ALT 001: 12:00 Pat McAfee Show 09-22</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.002">
+    <display-name>CA TSN+ ALT 002</display-name>
+    <display-name>CA TSN+ ALT 002: 12:00 Rich Eisen Show 09-22</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.003">
+    <display-name>CA TSN+ ALT 003</display-name>
+    <display-name>CA TSN+ ALT 003: 01:00 ATP 250 Tennis: Chengdu - Day #1 09-23</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.004">
+    <display-name>CA TSN+ ALT 004</display-name>
+    <display-name>CA TSN+ ALT 004: 02:00 ATP 250 Tennis: Hangzhou - Day #1 09-23</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.005">
+    <display-name>CA TSN+ ALT 005</display-name>
+    <display-name>CA TSN+ ALT 005: 12:00 Rich Eisen Show 09-23</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.006">
+    <display-name>CA TSN+ ALT 006</display-name>
+    <display-name>CA TSN+ ALT 006: 12:00 Pat McAfee Show 09-23</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.007">
+    <display-name>CA TSN+ ALT 007</display-name>
+    <display-name>CA TSN+ ALT 007: 01:00 ATP 250 Tennis: Chengdu - Day #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.008">
+    <display-name>CA TSN+ ALT 008</display-name>
+    <display-name>CA TSN+ ALT 008: 01:30 ATP 250 Tennis: Hangzhou - Day #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.009">
+    <display-name>CA TSN+ ALT 009</display-name>
+    <display-name>CA TSN+ ALT 009: 04:20 Formula 1 Pit Lane - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.010">
+    <display-name>CA TSN+ ALT 010</display-name>
+    <display-name>CA TSN+ ALT 010: 04:20 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.011">
+    <display-name>CA TSN+ ALT 011</display-name>
+    <display-name>CA TSN+ ALT 011: 04:20 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.012">
+    <display-name>CA TSN+ ALT 012</display-name>
+    <display-name>CA TSN+ ALT 012: 04:20 Formula 1 Driver Tracker - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.013">
+    <display-name>CA TSN+ ALT 013</display-name>
+    <display-name>CA TSN+ ALT 013: 04:20 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.014">
+    <display-name>CA TSN+ ALT 014</display-name>
+    <display-name>CA TSN+ ALT 014: 04:20 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.015">
+    <display-name>CA TSN+ ALT 015</display-name>
+    <display-name>CA TSN+ ALT 015: 04:20 Formula 1 Timing Channel - Azerbaijan Grand Prix Practice #1 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.016">
+    <display-name>CA TSN+ ALT 016</display-name>
+    <display-name>CA TSN+ ALT 016: 05:55 Formula 2 Qualifying: Baku 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.017">
+    <display-name>CA TSN+ ALT 017</display-name>
+    <display-name>CA TSN+ ALT 017: 07:50 Formula 1 Pit Lane - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.018">
+    <display-name>CA TSN+ ALT 018</display-name>
+    <display-name>CA TSN+ ALT 018: 07:50 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.019">
+    <display-name>CA TSN+ ALT 019</display-name>
+    <display-name>CA TSN+ ALT 019: 07:50 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.020">
+    <display-name>CA TSN+ ALT 020</display-name>
+    <display-name>CA TSN+ ALT 020: 07:50 Formula 1 Driver Tracker - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.021">
+    <display-name>CA TSN+ ALT 021</display-name>
+    <display-name>CA TSN+ ALT 021: 07:50 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.022">
+    <display-name>CA TSN+ ALT 022</display-name>
+    <display-name>CA TSN+ ALT 022: 07:50 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.023">
+    <display-name>CA TSN+ ALT 023</display-name>
+    <display-name>CA TSN+ ALT 023: 07:50 Formula 1 Timing Channel - Azerbaijan Grand Prix Practice #2 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.024">
+    <display-name>CA TSN+ ALT 024</display-name>
+    <display-name>CA TSN+ ALT 024: 14:00 Laver Cup Tennis: Line Up Show 09-24</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.025">
+    <display-name>CA TSN+ ALT 025</display-name>
+    <display-name>CA TSN+ ALT 025: 00:10 Formula 2 Sprint Race: Baku 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.026">
+    <display-name>CA TSN+ ALT 026</display-name>
+    <display-name>CA TSN+ ALT 026: 01:00 ATP 250 Tennis: Chengdu - Day #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.027">
+    <display-name>CA TSN+ ALT 027</display-name>
+    <display-name>CA TSN+ ALT 027: 01:30 ATP 250 Tennis: Hangzhou - Day #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.028">
+    <display-name>CA TSN+ ALT 028</display-name>
+    <display-name>CA TSN+ ALT 028: 04:20 Formula 1 Pit Lane - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.029">
+    <display-name>CA TSN+ ALT 029</display-name>
+    <display-name>CA TSN+ ALT 029: 04:20 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.030">
+    <display-name>CA TSN+ ALT 030</display-name>
+    <display-name>CA TSN+ ALT 030: 04:20 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.031">
+    <display-name>CA TSN+ ALT 031</display-name>
+    <display-name>CA TSN+ ALT 031: 04:20 Formula 1 Driver Tracker - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.032">
+    <display-name>CA TSN+ ALT 032</display-name>
+    <display-name>CA TSN+ ALT 032: 04:20 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.033">
+    <display-name>CA TSN+ ALT 033</display-name>
+    <display-name>CA TSN+ ALT 033: 04:20 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.034">
+    <display-name>CA TSN+ ALT 034</display-name>
+    <display-name>CA TSN+ ALT 034: 04:20 Formula 1 Timing Channel - Azerbaijan Grand Prix Practice #3 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.035">
+    <display-name>CA TSN+ ALT 035</display-name>
+    <display-name>CA TSN+ ALT 035: 06:10 Formula 2 Feature Race 1: Baku 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.036">
+    <display-name>CA TSN+ ALT 036</display-name>
+    <display-name>CA TSN+ ALT 036: 07:50 Formula 1 Pit Lane - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.037">
+    <display-name>CA TSN+ ALT 037</display-name>
+    <display-name>CA TSN+ ALT 037: 07:50 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.038">
+    <display-name>CA TSN+ ALT 038</display-name>
+    <display-name>CA TSN+ ALT 038: 07:50 Formula 1 On Board Camera: Kimi Antonelli - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.039">
+    <display-name>CA TSN+ ALT 039</display-name>
+    <display-name>CA TSN+ ALT 039: 07:50 Formula 1 Driver Tracker - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.040">
+    <display-name>CA TSN+ ALT 040</display-name>
+    <display-name>CA TSN+ ALT 040: 07:50 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.041">
+    <display-name>CA TSN+ ALT 041</display-name>
+    <display-name>CA TSN+ ALT 041: 07:50 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.042">
+    <display-name>CA TSN+ ALT 042</display-name>
+    <display-name>CA TSN+ ALT 042: 07:50 Formula 1 Timing Channel - Azerbaijan Grand Prix Qualifying 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.043">
+    <display-name>CA TSN+ ALT 043</display-name>
+    <display-name>CA TSN+ ALT 043: 19:00 NCAA Football: Harvard vs Brown 09-25</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.044">
+    <display-name>CA TSN+ ALT 044</display-name>
+    <display-name>CA TSN+ ALT 044: 01:00 ATP 250 Tennis: Chengdu - Day #4 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.045">
+    <display-name>CA TSN+ ALT 045</display-name>
+    <display-name>CA TSN+ ALT 045: 01:30 ATP 250 Tennis: Hangzhou - Day #4 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.046">
+    <display-name>CA TSN+ ALT 046</display-name>
+    <display-name>CA TSN+ ALT 046: 02:55 Formula 2 Feature Race 2: Baku 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.047">
+    <display-name>CA TSN+ ALT 047</display-name>
+    <display-name>CA TSN+ ALT 047: 06:30 Formula 1 Pit Lane - Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.048">
+    <display-name>CA TSN+ ALT 048</display-name>
+    <display-name>CA TSN+ ALT 048: 06:30 Formula 1 Mixed On Board Camera - Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.049">
+    <display-name>CA TSN+ ALT 049</display-name>
+    <display-name>CA TSN+ ALT 049: 06:30 Formula 1 On Board Camera: Kimi Antonelli Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.050">
+    <display-name>CA TSN+ ALT 050</display-name>
+    <display-name>CA TSN+ ALT 050: 06:30 Formula 1 Driver Tracker - Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.051">
+    <display-name>CA TSN+ ALT 051</display-name>
+    <display-name>CA TSN+ ALT 051: 06:30 Formula 1 On Board Camera: Lance Stroll - Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.052">
+    <display-name>CA TSN+ ALT 052</display-name>
+    <display-name>CA TSN+ ALT 052: 06:30 Formula 1 On Board Camera: Lewis Hamilton - Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.053">
+    <display-name>CA TSN+ ALT 053</display-name>
+    <display-name>CA TSN+ ALT 053: 06:30 Formula 1 Timing Channel - Azerbaijan Grand Prix 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.054">
+    <display-name>CA TSN+ ALT 054</display-name>
+    <display-name>CA TSN+ ALT 054: 10:00 NASCAR Cup Series Practice &amp; Qualifying: Hollywood Casino 400 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.055">
+    <display-name>CA TSN+ ALT 055</display-name>
+    <display-name>CA TSN+ ALT 055: 11:48 FIFA U 20 Women`s World Cup: Third Place - TBD vs TBD 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.056">
+    <display-name>CA TSN+ ALT 056</display-name>
+    <display-name>CA TSN+ ALT 056: 12:00 NCAA Football: Wake Forest vs Louisville 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.057">
+    <display-name>CA TSN+ ALT 057</display-name>
+    <display-name>CA TSN+ ALT 057: 12:00 NCAA Football: Colorado vs Baylor 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.058">
+    <display-name>CA TSN+ ALT 058</display-name>
+    <display-name>CA TSN+ ALT 058: 13:00 NASCAR CRAFTSMAN Truck Series Playoffs: Race to Stop Suicide 200 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.059">
+    <display-name>CA TSN+ ALT 059</display-name>
+    <display-name>CA TSN+ ALT 059: 15:30 NCAA Football: Oklahoma vs Georgia 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.060">
+    <display-name>CA TSN+ ALT 060</display-name>
+    <display-name>CA TSN+ ALT 060: 15:30 NCAA Football: Ole Miss vs Florida 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.061">
+    <display-name>CA TSN+ ALT 061</display-name>
+    <display-name>CA TSN+ ALT 061: 19:00 NCAA Football: South Carolina vs Alabama 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.062">
+    <display-name>CA TSN+ ALT 062</display-name>
+    <display-name>CA TSN+ ALT 062: 19:45 NCAA Football: Missouri vs Mississippi State 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.063">
+    <display-name>CA TSN+ ALT 063</display-name>
+    <display-name>CA TSN+ ALT 063: 21:00 NCAA Football: Missouri State vs SMU 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.064">
+    <display-name>CA TSN+ ALT 064</display-name>
+    <display-name>CA TSN+ ALT 064: 22:30 NCAA Football: Georgia Tech vs Stanford 09-26</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.065">
+    <display-name>CA TSN+ ALT 065</display-name>
+    <display-name>CA TSN+ ALT 065: 01:00 ATP 250 Tennis: Chengdu - Quarterfinals 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.066">
+    <display-name>CA TSN+ ALT 066</display-name>
+    <display-name>CA TSN+ ALT 066: 01:30 ATP 250 Tennis: Hangzhou - Quarterfinals 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.067">
+    <display-name>CA TSN+ ALT 067</display-name>
+    <display-name>CA TSN+ ALT 067: 10:00 NFL Fantasy Football Now 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.068">
+    <display-name>CA TSN+ ALT 068</display-name>
+    <display-name>CA TSN+ ALT 068: 13:00 NFL on TSN: TBD vs TBD 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.069">
+    <display-name>CA TSN+ ALT 069</display-name>
+    <display-name>CA TSN+ ALT 069: 13:00 NFL RedZone 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.070">
+    <display-name>CA TSN+ ALT 070</display-name>
+    <display-name>CA TSN+ ALT 070: 15:00 NASCAR Cup Series On Board Camera: Hollywood Casino 400 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.071">
+    <display-name>CA TSN+ ALT 071</display-name>
+    <display-name>CA TSN+ ALT 071: 15:00 NASCAR Cup Series On Board Camera: Hollywood Casino 400 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.072">
+    <display-name>CA TSN+ ALT 072</display-name>
+    <display-name>CA TSN+ ALT 072: 16:00 NSL on TSN: Calgary vs Vancouver 09-27</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.073">
+    <display-name>CA TSN+ ALT 073</display-name>
+    <display-name>CA TSN+ ALT 073: 05:00 ATP 250 Tennis: Chengdu - Semifinals 09-28</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.074">
+    <display-name>CA TSN+ ALT 074</display-name>
+    <display-name>CA TSN+ ALT 074: 05:30 ATP 250 Tennis: Hangzhou - Semifinals 09-28</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.075">
+    <display-name>CA TSN+ ALT 075</display-name>
+    <display-name>CA TSN+ ALT 075:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.076">
+    <display-name>CA TSN+ ALT 076</display-name>
+    <display-name>CA TSN+ ALT 076:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.077">
+    <display-name>CA TSN+ ALT 077</display-name>
+    <display-name>CA TSN+ ALT 077:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.078">
+    <display-name>CA TSN+ ALT 078</display-name>
+    <display-name>CA TSN+ ALT 078:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.079">
+    <display-name>CA TSN+ ALT 079</display-name>
+    <display-name>CA TSN+ ALT 079:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.080">
+    <display-name>CA TSN+ ALT 080</display-name>
+    <display-name>CA TSN+ ALT 080:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.081">
+    <display-name>CA TSN+ ALT 081</display-name>
+    <display-name>CA TSN+ ALT 081:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.082">
+    <display-name>CA TSN+ ALT 082</display-name>
+    <display-name>CA TSN+ ALT 082:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.083">
+    <display-name>CA TSN+ ALT 083</display-name>
+    <display-name>CA TSN+ ALT 083:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.084">
+    <display-name>CA TSN+ ALT 084</display-name>
+    <display-name>CA TSN+ ALT 084:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.085">
+    <display-name>CA TSN+ ALT 085</display-name>
+    <display-name>CA TSN+ ALT 085:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.086">
+    <display-name>CA TSN+ ALT 086</display-name>
+    <display-name>CA TSN+ ALT 086:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.087">
+    <display-name>CA TSN+ ALT 087</display-name>
+    <display-name>CA TSN+ ALT 087:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.088">
+    <display-name>CA TSN+ ALT 088</display-name>
+    <display-name>CA TSN+ ALT 088:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.089">
+    <display-name>CA TSN+ ALT 089</display-name>
+    <display-name>CA TSN+ ALT 089:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.090">
+    <display-name>CA TSN+ ALT 090</display-name>
+    <display-name>CA TSN+ ALT 090:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.091">
+    <display-name>CA TSN+ ALT 091</display-name>
+    <display-name>CA TSN+ ALT 091:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.092">
+    <display-name>CA TSN+ ALT 092</display-name>
+    <display-name>CA TSN+ ALT 092:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.093">
+    <display-name>CA TSN+ ALT 093</display-name>
+    <display-name>CA TSN+ ALT 093:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.094">
+    <display-name>CA TSN+ ALT 094</display-name>
+    <display-name>CA TSN+ ALT 094:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.095">
+    <display-name>CA TSN+ ALT 095</display-name>
+    <display-name>CA TSN+ ALT 095:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.096">
+    <display-name>CA TSN+ ALT 096</display-name>
+    <display-name>CA TSN+ ALT 096:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.097">
+    <display-name>CA TSN+ ALT 097</display-name>
+    <display-name>CA TSN+ ALT 097:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.098">
+    <display-name>CA TSN+ ALT 098</display-name>
+    <display-name>CA TSN+ ALT 098:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.099">
+    <display-name>CA TSN+ ALT 099</display-name>
+    <display-name>CA TSN+ ALT 099:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
+  <channel id="custom.CA.TSN.CA.TSN.ALT.100">
+    <display-name>CA TSN+ ALT 100</display-name>
+    <display-name>CA TSN+ ALT 100:</display-name>
+    <display-name>CA TSN+</display-name>
+  </channel>
   <channel id="custom.CA.SPORTSNET.SN.001">
     <display-name>SN+ 001</display-name>
     <display-name>SN+ 001: 05:00 Sportsnet Central: Sep. 21 09-22</display-name>
@@ -9539,11 +9539,6 @@
     <display-name>SN+ ALT 09: 18:00 Toronto vs Baltimore 09-22</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
-  <channel id="custom.CA.SPORTSNET.SN.ALT.100">
-    <display-name>SN+ ALT 100</display-name>
-    <display-name>SN+ ALT 100:</display-name>
-    <display-name>CA SPORTSNET+</display-name>
-  </channel>
   <channel id="custom.CA.SPORTSNET.SN.ALT.10">
     <display-name>SN+ ALT 10</display-name>
     <display-name>SN+ ALT 10: 19:00 Dana White`s Contender Series - Episode 7 09-22</display-name>
@@ -9992,6 +9987,11 @@
   <channel id="custom.CA.SPORTSNET.SN.ALT.99">
     <display-name>SN+ ALT 99</display-name>
     <display-name>SN+ ALT 99:</display-name>
+    <display-name>CA SPORTSNET+</display-name>
+  </channel>
+  <channel id="custom.CA.SPORTSNET.SN.ALT.100">
+    <display-name>SN+ ALT 100</display-name>
+    <display-name>SN+ ALT 100:</display-name>
     <display-name>CA SPORTSNET+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
@@ -14099,23 +14099,8 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20260920173000 -0400" stop="20260920213000 -0400" channel="custom.DIRTVISION.DIRT.01">
-    <title>9:30 AM Millbridge Speedway</title>
-    <category>Sports</category>
-    <desc>Zulip #dirtvision • DIRTVISION</desc>
-  </programme>
-  <programme start="20260920180000 -0400" stop="20260920220000 -0400" channel="custom.DIRTVISION.DIRT.02">
-    <title>10:00 AM Volusia Speedway Park</title>
-    <category>Sports</category>
-    <desc>Zulip #dirtvision • DIRTVISION</desc>
-  </programme>
-  <programme start="20260920180000 -0400" stop="20260920220000 -0400" channel="custom.DIRTVISION.DIRT.03">
-    <title>10:00 AM Land of Legends Raceway</title>
-    <category>Sports</category>
-    <desc>Zulip #dirtvision • DIRTVISION</desc>
-  </programme>
-  <programme start="20260920211500 -0400" stop="20260921011500 -0400" channel="custom.DIRTVISION.DIRT.04">
-    <title>1:15 PM Stockton Dirt Track</title>
+  <programme start="20260922211500 -0400" stop="20260923011500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>1:15 PM Kings Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
