@@ -300,19 +300,27 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "12:00 PM WWE Monday Night Raw",
+          "display_title": "1:15 PM Kings Speedway",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-21T20:00:00-04:00",
-          "stop": "2026-09-22T00:00:00-04:00",
-          "title": "WWE Monday Night Raw"
+          "start": "2026-09-22T21:15:00-04:00",
+          "stop": "2026-09-23T01:15:00-04:00",
+          "title": "Kings Speedway"
+        },
+        {
+          "display_title": "1:30 PM DWCS Post Fight Conference",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-09-22T21:30:00-04:00",
+          "stop": "2026-09-23T01:30:00-04:00",
+          "title": "DWCS Post Fight Conference"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 625723402,
-      "message_timestamp": 1789993822,
+      "message_id": 626012563,
+      "message_timestamp": 1790080220,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-21T13:02:50.544694+00:00"
+      "updated_at": "2026-09-22T17:04:55.875647+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -464,14 +472,6 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "12:20 AM Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-09-22T22:20:00+10:00",
-          "stop": "2026-09-23T02:20:00+10:00",
-          "title": "Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026"
-        },
-        {
           "display_title": "4:05 AM Men Junior Individual Time Trial UCI Road World Championships Montreal 2026",
           "slot": "AU STAN 003",
           "slot_norm": "AU STAN 3",
@@ -488,35 +488,43 @@
           "title": "Women Junior Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
-          "display_title": "12:20 AM Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-22T22:20:00+10:00",
-          "stop": "2026-09-23T02:20:00+10:00",
-          "title": "Team Time Trial Mixed Relay UCI Road World Championships Montreal 2026"
+          "display_title": "5:00 PM Singapore: Day 3 WTA 500",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-09-23T15:00:00+10:00",
+          "stop": "2026-09-23T19:00:00+10:00",
+          "title": "Singapore: Day 3 WTA 500"
         },
         {
           "display_title": "4:05 AM Men Junior Individual Time Trial UCI Road World Championships Montreal 2026",
           "slot": "AU STAN ALT 003",
           "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-23T02:05:00+10:00",
-          "stop": "2026-09-23T06:05:00+10:00",
+          "start": "2026-09-24T02:05:00+10:00",
+          "stop": "2026-09-24T06:05:00+10:00",
           "title": "Men Junior Individual Time Trial UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "7:05 AM Women Junior Individual Time Trial UCI Road World Championships Montreal 2026",
           "slot": "AU STAN ALT 004",
           "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-23T05:05:00+10:00",
-          "stop": "2026-09-23T09:05:00+10:00",
+          "start": "2026-09-24T05:05:00+10:00",
+          "stop": "2026-09-24T09:05:00+10:00",
           "title": "Women Junior Individual Time Trial UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "5:00 PM Singapore: Day 3 WTA 500",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-24T15:00:00+10:00",
+          "stop": "2026-09-24T19:00:00+10:00",
+          "title": "Singapore: Day 3 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 625985921,
-      "message_timestamp": 1790073011,
+      "message_id": 626036756,
+      "message_timestamp": 1790085623,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-22T11:52:39.742340+00:00"
+      "updated_at": "2026-09-22T17:04:56.514672+00:00"
     }
   },
   "version": 1
