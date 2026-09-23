@@ -400,59 +400,107 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "4:05 AM Men Junior Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-09-23T02:05:00+10:00",
-          "stop": "2026-09-23T06:05:00+10:00",
-          "title": "Men Junior Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "7:05 AM Women Junior Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-09-23T05:05:00+10:00",
-          "stop": "2026-09-23T09:05:00+10:00",
-          "title": "Women Junior Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "5:00 PM Singapore: Day 3 WTA 500",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-09-23T15:00:00+10:00",
-          "stop": "2026-09-23T19:00:00+10:00",
-          "title": "Singapore: Day 3 WTA 500"
-        },
-        {
-          "display_title": "4:05 AM Men Junior Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-09-24T02:05:00+10:00",
-          "stop": "2026-09-24T06:05:00+10:00",
-          "title": "Men Junior Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "7:05 AM Women Junior Individual Time Trial UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-24T05:05:00+10:00",
-          "stop": "2026-09-24T09:05:00+10:00",
-          "title": "Women Junior Individual Time Trial UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "5:00 PM Singapore: Day 3 WTA 500",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
+          "display_title": "5:00 PM Singapore: Day 4 WTA 500",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
           "start": "2026-09-24T15:00:00+10:00",
           "stop": "2026-09-24T19:00:00+10:00",
-          "title": "Singapore: Day 3 WTA 500"
+          "title": "Singapore: Day 4 WTA 500"
+        },
+        {
+          "display_title": "7:00 PM Tasman vs Bay Of Plenty NPC Round 9 2026",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-09-24T17:00:00+10:00",
+          "stop": "2026-09-24T21:00:00+10:00",
+          "title": "Tasman vs Bay Of Plenty NPC Round 9 2026"
+        },
+        {
+          "display_title": "12:50 AM Women Under 23 Road Race UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-09-24T22:50:00+10:00",
+          "stop": "2026-09-25T02:50:00+10:00",
+          "title": "Women Under 23 Road Race UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "5:00 AM London Ultimate Sevens Round 3 2026",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-09-25T03:00:00+10:00",
+          "stop": "2026-09-25T07:00:00+10:00",
+          "title": "London Ultimate Sevens Round 3 2026"
+        },
+        {
+          "display_title": "5:20 AM Men Junior Road Race UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
+          "start": "2026-09-25T03:20:00+10:00",
+          "stop": "2026-09-25T07:20:00+10:00",
+          "title": "Men Junior Road Race UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "6:00 AM Line Up Show Laver Cup 2026",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-09-25T04:00:00+10:00",
+          "stop": "2026-09-25T08:00:00+10:00",
+          "title": "Line Up Show Laver Cup 2026"
+        },
+        {
+          "display_title": "5:00 PM Singapore: Day 4 WTA 500",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-09-25T15:00:00+10:00",
+          "stop": "2026-09-25T19:00:00+10:00",
+          "title": "Singapore: Day 4 WTA 500"
+        },
+        {
+          "display_title": "7:00 PM Tasman vs Bay Of Plenty NPC Round 9 2026",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-09-25T17:00:00+10:00",
+          "stop": "2026-09-25T21:00:00+10:00",
+          "title": "Tasman vs Bay Of Plenty NPC Round 9 2026"
+        },
+        {
+          "display_title": "12:50 AM Women Under 23 Road Race UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-09-25T22:50:00+10:00",
+          "stop": "2026-09-26T02:50:00+10:00",
+          "title": "Women Under 23 Road Race UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "5:00 AM London Ultimate Sevens Round 3 2026",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-09-25T03:00:00+10:00",
+          "stop": "2026-09-25T07:00:00+10:00",
+          "title": "London Ultimate Sevens Round 3 2026"
+        },
+        {
+          "display_title": "5:20 AM Men Junior Road Race UCI Road World Championships Montreal 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-09-25T03:20:00+10:00",
+          "stop": "2026-09-25T07:20:00+10:00",
+          "title": "Men Junior Road Race UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "6:00 AM Line Up Show Laver Cup 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-25T04:00:00+10:00",
+          "stop": "2026-09-25T08:00:00+10:00",
+          "title": "Line Up Show Laver Cup 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 626036756,
-      "message_timestamp": 1790085623,
+      "message_id": 626327855,
+      "message_timestamp": 1790172014,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-22T17:04:56.514672+00:00"
+      "updated_at": "2026-09-23T18:27:33.402772+00:00"
     }
   },
   "version": 1
