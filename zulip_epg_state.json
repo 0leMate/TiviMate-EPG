@@ -7,24 +7,24 @@
           "display_title": "1:15 PM Kings Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-22T21:15:00-04:00",
-          "stop": "2026-09-23T01:15:00-04:00",
+          "start": "2026-09-23T21:15:00-04:00",
+          "stop": "2026-09-24T01:15:00-04:00",
           "title": "Kings Speedway"
         },
         {
           "display_title": "1:15 PM Kings Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-22T21:15:00-04:00",
-          "stop": "2026-09-23T01:15:00-04:00",
+          "start": "2026-09-23T21:15:00-04:00",
+          "stop": "2026-09-24T01:15:00-04:00",
           "title": "Kings Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 626169188,
-      "message_timestamp": 1790116216,
+      "message_id": 626207160,
+      "message_timestamp": 1790136022,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T00:44:34.628906+00:00"
+      "updated_at": "2026-09-23T07:50:56.806194+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,165 +120,85 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "4:00 AM Bayern vs Man. City",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-22T12:00:00-04:00",
-          "stop": "2026-09-22T16:00:00-04:00",
-          "title": "Bayern vs Man. City"
+          "display_title": "4:30 AM Servette vs Lyonnes",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-23T12:30:00-04:00",
+          "stop": "2026-09-23T16:30:00-04:00",
+          "title": "Servette vs Lyonnes"
         },
         {
-          "display_title": "4:00 AM Inter vs BK Häcken",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-22T12:00:00-04:00",
-          "stop": "2026-09-22T16:00:00-04:00",
-          "title": "Inter vs BK Häcken"
+          "display_title": "4:30 AM OH Leuven vs Roma",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-23T12:30:00-04:00",
+          "stop": "2026-09-23T16:30:00-04:00",
+          "title": "OH Leuven vs Roma"
         },
         {
-          "display_title": "6:45 AM Real Madrid vs PSG",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-22T14:45:00-04:00",
-          "stop": "2026-09-22T18:45:00-04:00",
-          "title": "Real Madrid vs PSG"
+          "display_title": "6:00 AM Barcelona vs Paris FC",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-23T14:00:00-04:00",
+          "stop": "2026-09-23T18:00:00-04:00",
+          "title": "Barcelona vs Paris FC"
         },
         {
-          "display_title": "6:45 AM Juventus vs Benfica",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-22T14:45:00-04:00",
-          "stop": "2026-09-22T18:45:00-04:00",
-          "title": "Juventus vs Benfica"
-        },
-        {
-          "display_title": "6:45 AM Arsenal vs HB Køge",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-22T14:45:00-04:00",
-          "stop": "2026-09-22T18:45:00-04:00",
-          "title": "Arsenal vs HB Køge"
-        },
-        {
-          "display_title": "11:00 AM Dana White\\`s Contender Series",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series"
-        },
-        {
-          "display_title": "11:00 AM Dana White\\`s Contender Series em Português",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series em Português"
-        },
-        {
-          "display_title": "11:00 AM Dana White\\`s Contender Series en Español",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series en Español"
-        },
-        {
-          "display_title": "4:00 AM UEFA Women's Champions League: Bayern vs Man City",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-22T12:00:00-04:00",
-          "stop": "2026-09-22T16:00:00-04:00",
-          "title": "UEFA Women's Champions League: Bayern vs Man City"
-        },
-        {
-          "display_title": "4:00 AM UEFA Women's Champions League: Inter vs BK Häcken",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-22T12:00:00-04:00",
-          "stop": "2026-09-22T16:00:00-04:00",
-          "title": "UEFA Women's Champions League: Inter vs BK Häcken"
-        },
-        {
-          "display_title": "6:45 AM UEFA Women's Champions League: Real Madrid vs PSG",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-22T14:45:00-04:00",
-          "stop": "2026-09-22T18:45:00-04:00",
-          "title": "UEFA Women's Champions League: Real Madrid vs PSG"
-        },
-        {
-          "display_title": "6:45 AM UEFA Women's Champions League: Juventus vs Benfica",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-22T14:45:00-04:00",
-          "stop": "2026-09-22T18:45:00-04:00",
-          "title": "UEFA Women's Champions League: Juventus vs Benfica"
-        },
-        {
-          "display_title": "6:45 AM UEFA Women's Champions League: Arsenal vs HB Køge",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-22T14:45:00-04:00",
-          "stop": "2026-09-22T18:45:00-04:00",
-          "title": "UEFA Women's Champions League: Arsenal vs HB Køge"
-        },
-        {
-          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series"
-        },
-        {
-          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series em Português",
-          "slot": "PARAMOUNT ALT 07",
-          "slot_norm": "PARAMOUNT ALT 7",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series em Português"
-        },
-        {
-          "display_title": "11:00 AM Dana White's Contender Series: Dana Whites Contender Series en Español",
-          "slot": "PARAMOUNT ALT 08",
-          "slot_norm": "PARAMOUNT ALT 8",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series en Español"
+          "display_title": "6:00 AM Chelsea vs Austria Wien",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-23T14:00:00-04:00",
+          "stop": "2026-09-23T18:00:00-04:00",
+          "title": "Chelsea vs Austria Wien"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 625979813,
-      "message_timestamp": 1790071242,
+      "message_id": 626207232,
+      "message_timestamp": 1790136049,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-22T11:52:38.462140+00:00"
+      "updated_at": "2026-09-23T07:50:57.200416+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "11:00 AM Dana White Contender Series S10W07",
+          "display_title": "6:00 PM Pancrase 366",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-22T19:00:00-04:00",
-          "stop": "2026-09-22T23:00:00-04:00",
-          "title": "Dana White Contender Series S10W07"
+          "start": "2026-09-23T02:00:00-04:00",
+          "stop": "2026-09-23T06:00:00-04:00",
+          "title": "Pancrase 366"
         },
         {
-          "display_title": "1:15 PM World of Outlaws Sprints Kings Speedway",
+          "display_title": "10:00 AM FloRacing Night Lincoln Park",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-22T21:15:00-04:00",
-          "stop": "2026-09-23T01:15:00-04:00",
-          "title": "World of Outlaws Sprints Kings Speedway"
+          "start": "2026-09-23T18:00:00-04:00",
+          "stop": "2026-09-23T22:00:00-04:00",
+          "title": "FloRacing Night Lincoln Park"
+        },
+        {
+          "display_title": "10:00 AM High Limit Racing vs Kokomo",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-09-23T18:00:00-04:00",
+          "stop": "2026-09-23T22:00:00-04:00",
+          "title": "High Limit Racing vs Kokomo"
+        },
+        {
+          "display_title": "3:00 PM Inka MMA 61",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-09-23T23:00:00-04:00",
+          "stop": "2026-09-24T03:00:00-04:00",
+          "title": "Inka MMA 61"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 625912854,
-      "message_timestamp": 1790049638,
+      "message_id": 626207298,
+      "message_timestamp": 1790136075,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-22T05:10:24.165030+00:00"
+      "updated_at": "2026-09-23T07:50:57.547486+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
