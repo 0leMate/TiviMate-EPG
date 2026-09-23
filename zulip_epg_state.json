@@ -10,21 +10,13 @@
           "start": "2026-09-23T21:15:00-04:00",
           "stop": "2026-09-24T01:15:00-04:00",
           "title": "Kings Speedway"
-        },
-        {
-          "display_title": "1:15 PM Kings Speedway",
-          "slot": "DIRT ALT 01",
-          "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-23T21:15:00-04:00",
-          "stop": "2026-09-24T01:15:00-04:00",
-          "title": "Kings Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 626207160,
-      "message_timestamp": 1790136022,
+      "message_id": 626291150,
+      "message_timestamp": 1790163010,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T07:50:56.806194+00:00"
+      "updated_at": "2026-09-23T13:43:46.967340+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -121,42 +113,74 @@
       "events": [
         {
           "display_title": "4:30 AM Servette vs Lyonnes",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-23T12:30:00-04:00",
           "stop": "2026-09-23T16:30:00-04:00",
           "title": "Servette vs Lyonnes"
         },
         {
           "display_title": "4:30 AM OH Leuven vs Roma",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-23T12:30:00-04:00",
           "stop": "2026-09-23T16:30:00-04:00",
           "title": "OH Leuven vs Roma"
         },
         {
           "display_title": "6:00 AM Barcelona vs Paris FC",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-23T14:00:00-04:00",
           "stop": "2026-09-23T18:00:00-04:00",
           "title": "Barcelona vs Paris FC"
         },
         {
           "display_title": "6:00 AM Chelsea vs Austria Wien",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-09-23T14:00:00-04:00",
           "stop": "2026-09-23T18:00:00-04:00",
           "title": "Chelsea vs Austria Wien"
+        },
+        {
+          "display_title": "4:30 AM UEFA Women's Champions League: Servette vs Lyonnes",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-23T12:30:00-04:00",
+          "stop": "2026-09-23T16:30:00-04:00",
+          "title": "UEFA Women's Champions League: Servette vs Lyonnes"
+        },
+        {
+          "display_title": "4:30 AM UEFA Women's Champions League: OH Leuven vs Roma",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-23T12:30:00-04:00",
+          "stop": "2026-09-23T16:30:00-04:00",
+          "title": "UEFA Women's Champions League: OH Leuven vs Roma"
+        },
+        {
+          "display_title": "6:00 AM UEFA Women's Champions League: Barcelona vs Paris FC",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-23T14:00:00-04:00",
+          "stop": "2026-09-23T18:00:00-04:00",
+          "title": "UEFA Women's Champions League: Barcelona vs Paris FC"
+        },
+        {
+          "display_title": "6:00 AM UEFA Women's Champions League: Chelsea vs Austria Wien",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-23T14:00:00-04:00",
+          "stop": "2026-09-23T18:00:00-04:00",
+          "title": "UEFA Women's Champions League: Chelsea vs Austria Wien"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 626207232,
-      "message_timestamp": 1790136049,
+      "message_id": 626319775,
+      "message_timestamp": 1790170217,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T07:50:57.200416+00:00"
+      "updated_at": "2026-09-23T13:43:47.165626+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -204,27 +228,27 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "1:15 PM Kings Speedway",
+          "display_title": "10:00 AM FloRacing Night in America at Lincoln Park",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-22T21:15:00-04:00",
-          "stop": "2026-09-23T01:15:00-04:00",
-          "title": "Kings Speedway"
+          "start": "2026-09-23T18:00:00-04:00",
+          "stop": "2026-09-23T22:00:00-04:00",
+          "title": "FloRacing Night in America at Lincoln Park"
         },
         {
-          "display_title": "1:30 PM DWCS Post Fight Conference",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-09-22T21:30:00-04:00",
-          "stop": "2026-09-23T01:30:00-04:00",
-          "title": "DWCS Post Fight Conference"
+          "display_title": "10:00 AM High Limit Racing at Kokomo",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-09-23T18:00:00-04:00",
+          "stop": "2026-09-23T22:00:00-04:00",
+          "title": "High Limit Racing at Kokomo"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 626012563,
-      "message_timestamp": 1790080220,
+      "message_id": 626297431,
+      "message_timestamp": 1790164847,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-22T17:04:55.875647+00:00"
+      "updated_at": "2026-09-23T13:43:47.569735+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
