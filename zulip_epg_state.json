@@ -7,16 +7,16 @@
           "display_title": "1:15 PM Kings Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-23T21:15:00-04:00",
-          "stop": "2026-09-24T01:15:00-04:00",
+          "start": "2026-09-24T21:15:00-04:00",
+          "stop": "2026-09-25T01:15:00-04:00",
           "title": "Kings Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 626291150,
-      "message_timestamp": 1790163010,
+      "message_id": 626504593,
+      "message_timestamp": 1790222422,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T13:43:46.967340+00:00"
+      "updated_at": "2026-09-24T07:40:56.016410+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,117 +112,61 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "4:30 AM Servette vs Lyonnes",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-23T12:30:00-04:00",
-          "stop": "2026-09-23T16:30:00-04:00",
-          "title": "Servette vs Lyonnes"
-        },
-        {
-          "display_title": "4:30 AM OH Leuven vs Roma",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-23T12:30:00-04:00",
-          "stop": "2026-09-23T16:30:00-04:00",
-          "title": "OH Leuven vs Roma"
-        },
-        {
-          "display_title": "6:00 AM Barcelona vs Paris FC",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-23T14:00:00-04:00",
-          "stop": "2026-09-23T18:00:00-04:00",
-          "title": "Barcelona vs Paris FC"
-        },
-        {
-          "display_title": "6:00 AM Chelsea vs Austria Wien",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-23T14:00:00-04:00",
-          "stop": "2026-09-23T18:00:00-04:00",
-          "title": "Chelsea vs Austria Wien"
-        },
-        {
-          "display_title": "4:30 AM UEFA Women's Champions League: Servette vs Lyonnes",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-23T12:30:00-04:00",
-          "stop": "2026-09-23T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: Servette vs Lyonnes"
-        },
-        {
-          "display_title": "4:30 AM UEFA Women's Champions League: OH Leuven vs Roma",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-23T12:30:00-04:00",
-          "stop": "2026-09-23T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: OH Leuven vs Roma"
-        },
-        {
-          "display_title": "6:00 AM UEFA Women's Champions League: Barcelona vs Paris FC",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-23T14:00:00-04:00",
-          "stop": "2026-09-23T18:00:00-04:00",
-          "title": "UEFA Women's Champions League: Barcelona vs Paris FC"
-        },
-        {
-          "display_title": "6:00 AM UEFA Women's Champions League: Chelsea vs Austria Wien",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-23T14:00:00-04:00",
-          "stop": "2026-09-23T18:00:00-04:00",
-          "title": "UEFA Women's Champions League: Chelsea vs Austria Wien"
+          "display_title": "5:00 AM Zuffa Boxing 11: Press Conference",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-24T13:00:00-04:00",
+          "stop": "2026-09-24T17:00:00-04:00",
+          "title": "Zuffa Boxing 11: Press Conference"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 626319775,
-      "message_timestamp": 1790170217,
+      "message_id": 626504658,
+      "message_timestamp": 1790222449,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T13:43:47.165626+00:00"
+      "updated_at": "2026-09-24T07:40:56.258297+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 PM Pancrase 366",
+          "display_title": "9:45 AM 4-Crown Nationals Eldora",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-23T02:00:00-04:00",
-          "stop": "2026-09-23T06:00:00-04:00",
-          "title": "Pancrase 366"
+          "start": "2026-09-24T17:45:00-04:00",
+          "stop": "2026-09-24T21:45:00-04:00",
+          "title": "4-Crown Nationals Eldora"
         },
         {
-          "display_title": "10:00 AM FloRacing Night Lincoln Park",
+          "display_title": "10:00 AM Championship Night Thunder Rd",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-23T18:00:00-04:00",
-          "stop": "2026-09-23T22:00:00-04:00",
-          "title": "FloRacing Night Lincoln Park"
+          "start": "2026-09-24T18:00:00-04:00",
+          "stop": "2026-09-24T22:00:00-04:00",
+          "title": "Championship Night Thunder Rd"
         },
         {
-          "display_title": "10:00 AM High Limit Racing vs Kokomo",
+          "display_title": "12:00 PM UFC BJJ 11 Musumeci vs Mitchell",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-09-23T18:00:00-04:00",
-          "stop": "2026-09-23T22:00:00-04:00",
-          "title": "High Limit Racing vs Kokomo"
+          "start": "2026-09-24T20:00:00-04:00",
+          "stop": "2026-09-25T00:00:00-04:00",
+          "title": "UFC BJJ 11 Musumeci vs Mitchell"
         },
         {
           "display_title": "3:00 PM Inka MMA 61",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-09-23T23:00:00-04:00",
-          "stop": "2026-09-24T03:00:00-04:00",
+          "start": "2026-09-24T23:00:00-04:00",
+          "stop": "2026-09-25T03:00:00-04:00",
           "title": "Inka MMA 61"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 626207298,
-      "message_timestamp": 1790136075,
+      "message_id": 626504727,
+      "message_timestamp": 1790222487,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T07:50:57.547486+00:00"
+      "updated_at": "2026-09-24T07:40:56.490805+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
