@@ -113,18 +113,26 @@
       "events": [
         {
           "display_title": "5:00 AM Zuffa Boxing 11: Press Conference",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-24T13:00:00-04:00",
           "stop": "2026-09-24T17:00:00-04:00",
           "title": "Zuffa Boxing 11: Press Conference"
+        },
+        {
+          "display_title": "5:00 AM Zuffa Boxing: Zuffa Boxing 11 Press Conference",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-24T13:00:00-04:00",
+          "stop": "2026-09-24T17:00:00-04:00",
+          "title": "Zuffa Boxing: Zuffa Boxing 11 Press Conference"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 626504658,
-      "message_timestamp": 1790222449,
+      "message_id": 626546728,
+      "message_timestamp": 1790238616,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-24T07:40:56.258297+00:00"
+      "updated_at": "2026-09-24T13:37:54.699863+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -152,47 +160,39 @@
           "start": "2026-09-24T20:00:00-04:00",
           "stop": "2026-09-25T00:00:00-04:00",
           "title": "UFC BJJ 11 Musumeci vs Mitchell"
-        },
-        {
-          "display_title": "3:00 PM Inka MMA 61",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-09-24T23:00:00-04:00",
-          "stop": "2026-09-25T03:00:00-04:00",
-          "title": "Inka MMA 61"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 626504727,
-      "message_timestamp": 1790222487,
+      "message_id": 626619817,
+      "message_timestamp": 1790256611,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-24T07:40:56.490805+00:00"
+      "updated_at": "2026-09-24T13:37:54.851274+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "10:00 AM FloRacing Night in America at Lincoln Park",
+          "display_title": "10:00 AM High Limit Racing at Kokomo",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-23T18:00:00-04:00",
-          "stop": "2026-09-23T22:00:00-04:00",
-          "title": "FloRacing Night in America at Lincoln Park"
+          "start": "2026-09-24T18:00:00-04:00",
+          "stop": "2026-09-24T22:00:00-04:00",
+          "title": "High Limit Racing at Kokomo"
         },
         {
-          "display_title": "10:00 AM High Limit Racing at Kokomo",
-          "slot": "PPV2 02",
-          "slot_norm": "PPV2 2",
-          "start": "2026-09-23T18:00:00-04:00",
-          "stop": "2026-09-23T22:00:00-04:00",
-          "title": "High Limit Racing at Kokomo"
+          "display_title": "10:00 AM Season Championship Night at Thunder Road Speedbowl",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-09-24T18:00:00-04:00",
+          "stop": "2026-09-24T22:00:00-04:00",
+          "title": "Season Championship Night at Thunder Road Speedbowl"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 626297431,
-      "message_timestamp": 1790164847,
+      "message_id": 626595933,
+      "message_timestamp": 1790251214,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-23T13:43:47.569735+00:00"
+      "updated_at": "2026-09-24T13:37:55.095007+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -344,107 +344,91 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "5:00 PM Singapore: Day 4 WTA 500",
+          "display_title": "7:00 PM Tasman vs Bay Of Plenty NPC Round 9 2026",
           "slot": "AU STAN 002",
           "slot_norm": "AU STAN 2",
-          "start": "2026-09-24T15:00:00+10:00",
-          "stop": "2026-09-24T19:00:00+10:00",
-          "title": "Singapore: Day 4 WTA 500"
-        },
-        {
-          "display_title": "7:00 PM Tasman vs Bay Of Plenty NPC Round 9 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
           "start": "2026-09-24T17:00:00+10:00",
           "stop": "2026-09-24T21:00:00+10:00",
           "title": "Tasman vs Bay Of Plenty NPC Round 9 2026"
         },
         {
           "display_title": "12:50 AM Women Under 23 Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-09-24T22:50:00+10:00",
           "stop": "2026-09-25T02:50:00+10:00",
           "title": "Women Under 23 Road Race UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "5:00 AM London Ultimate Sevens Round 3 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-09-25T03:00:00+10:00",
           "stop": "2026-09-25T07:00:00+10:00",
           "title": "London Ultimate Sevens Round 3 2026"
         },
         {
           "display_title": "5:20 AM Men Junior Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-09-25T03:20:00+10:00",
           "stop": "2026-09-25T07:20:00+10:00",
           "title": "Men Junior Road Race UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "6:00 AM Line Up Show Laver Cup 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-09-25T04:00:00+10:00",
           "stop": "2026-09-25T08:00:00+10:00",
           "title": "Line Up Show Laver Cup 2026"
         },
         {
-          "display_title": "5:00 PM Singapore: Day 4 WTA 500",
+          "display_title": "7:00 PM Tasman vs Bay Of Plenty NPC Round 9 2026",
           "slot": "AU STAN ALT 002",
           "slot_norm": "AU STAN ALT 2",
-          "start": "2026-09-25T15:00:00+10:00",
-          "stop": "2026-09-25T19:00:00+10:00",
-          "title": "Singapore: Day 4 WTA 500"
-        },
-        {
-          "display_title": "7:00 PM Tasman vs Bay Of Plenty NPC Round 9 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
           "start": "2026-09-25T17:00:00+10:00",
           "stop": "2026-09-25T21:00:00+10:00",
           "title": "Tasman vs Bay Of Plenty NPC Round 9 2026"
         },
         {
           "display_title": "12:50 AM Women Under 23 Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
           "start": "2026-09-25T22:50:00+10:00",
           "stop": "2026-09-26T02:50:00+10:00",
           "title": "Women Under 23 Road Race UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "5:00 AM London Ultimate Sevens Round 3 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
           "start": "2026-09-25T03:00:00+10:00",
           "stop": "2026-09-25T07:00:00+10:00",
           "title": "London Ultimate Sevens Round 3 2026"
         },
         {
           "display_title": "5:20 AM Men Junior Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
           "start": "2026-09-25T03:20:00+10:00",
           "stop": "2026-09-25T07:20:00+10:00",
           "title": "Men Junior Road Race UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "6:00 AM Line Up Show Laver Cup 2026",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
           "start": "2026-09-25T04:00:00+10:00",
           "stop": "2026-09-25T08:00:00+10:00",
           "title": "Line Up Show Laver Cup 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 626327855,
-      "message_timestamp": 1790172014,
+      "message_id": 626574194,
+      "message_timestamp": 1790245811,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-23T18:27:33.402772+00:00"
+      "updated_at": "2026-09-24T13:37:55.465657+00:00"
     }
   },
   "version": 1
