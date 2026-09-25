@@ -7,16 +7,16 @@
           "display_title": "1:15 PM Kings Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-24T21:15:00-04:00",
-          "stop": "2026-09-25T01:15:00-04:00",
+          "start": "2026-09-25T21:15:00-04:00",
+          "stop": "2026-09-26T01:15:00-04:00",
           "title": "Kings Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 626504593,
-      "message_timestamp": 1790222422,
+      "message_id": 626783573,
+      "message_timestamp": 1790308818,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-24T07:40:56.016410+00:00"
+      "updated_at": "2026-09-25T07:59:11.022004+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,61 +112,197 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM Zuffa Boxing 11: Press Conference",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-24T13:00:00-04:00",
-          "stop": "2026-09-24T17:00:00-04:00",
-          "title": "Zuffa Boxing 11: Press Conference"
+          "display_title": "5:00 AM Zuffa Boxing 11: Ceremonial Weigh In",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-09-25T13:00:00-04:00",
+          "stop": "2026-09-25T17:00:00-04:00",
+          "title": "Zuffa Boxing 11: Ceremonial Weigh In"
         },
         {
-          "display_title": "5:00 AM Zuffa Boxing: Zuffa Boxing 11 Press Conference",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-24T13:00:00-04:00",
-          "stop": "2026-09-24T17:00:00-04:00",
-          "title": "Zuffa Boxing: Zuffa Boxing 11 Press Conference"
+          "display_title": "10:00 AM UFC Fight Night Preview Show: Rosas Jr. vs Barcelos",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-09-25T18:00:00-04:00",
+          "stop": "2026-09-25T22:00:00-04:00",
+          "title": "UFC Fight Night Preview Show: Rosas Jr. vs Barcelos"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 626546728,
-      "message_timestamp": 1790238616,
+      "message_id": 626783705,
+      "message_timestamp": 1790308878,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-24T13:37:54.699863+00:00"
+      "updated_at": "2026-09-25T07:59:11.426372+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "9:45 AM 4-Crown Nationals Eldora",
+          "display_title": "1:30 AM ONE Friday Fights 172 Superlek vs Rhouni",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-24T17:45:00-04:00",
-          "stop": "2026-09-24T21:45:00-04:00",
-          "title": "4-Crown Nationals Eldora"
+          "start": "2026-09-25T09:30:00-04:00",
+          "stop": "2026-09-25T13:30:00-04:00",
+          "title": "ONE Friday Fights 172 Superlek vs Rhouni"
         },
         {
-          "display_title": "10:00 AM Championship Night Thunder Rd",
+          "display_title": "3:30 AM Ares 43",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-24T18:00:00-04:00",
-          "stop": "2026-09-24T22:00:00-04:00",
-          "title": "Championship Night Thunder Rd"
+          "start": "2026-09-25T11:30:00-04:00",
+          "stop": "2026-09-25T15:30:00-04:00",
+          "title": "Ares 43"
         },
         {
-          "display_title": "12:00 PM UFC BJJ 11 Musumeci vs Mitchell",
+          "display_title": "11:00 AM Shooto Brazil 140",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-09-24T20:00:00-04:00",
-          "stop": "2026-09-25T00:00:00-04:00",
-          "title": "UFC BJJ 11 Musumeci vs Mitchell"
+          "start": "2026-09-25T19:00:00-04:00",
+          "stop": "2026-09-25T23:00:00-04:00",
+          "title": "Shooto Brazil 140"
+        },
+        {
+          "display_title": "12:00 PM GCW Rock Bottom",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-09-25T20:00:00-04:00",
+          "stop": "2026-09-26T00:00:00-04:00",
+          "title": "GCW Rock Bottom"
+        },
+        {
+          "display_title": "2:00 PM MMA Mexico 9",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-09-25T22:00:00-04:00",
+          "stop": "2026-09-26T02:00:00-04:00",
+          "title": "MMA Mexico 9"
+        },
+        {
+          "display_title": "2:30 PM Tuff N Uff 157",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-09-25T22:30:00-04:00",
+          "stop": "2026-09-26T02:30:00-04:00",
+          "title": "Tuff N Uff 157"
+        },
+        {
+          "display_title": "5:00 AM MotoAmerica Superbikes New Jersey",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-09-26T12:00:00-04:00",
+          "stop": "2026-09-26T16:00:00-04:00",
+          "title": "MotoAmerica Superbikes New Jersey"
+        },
+        {
+          "display_title": "10:15 AM Weekly Racing Stafford",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-09-26T17:15:00-04:00",
+          "stop": "2026-09-26T21:15:00-04:00",
+          "title": "Weekly Racing Stafford"
+        },
+        {
+          "display_title": "10:45 AM 4 Crown Nationals Eldora",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-09-26T17:45:00-04:00",
+          "stop": "2026-09-26T21:45:00-04:00",
+          "title": "4 Crown Nationals Eldora"
+        },
+        {
+          "display_title": "11:00 AM SOIL Championship Off Road",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-09-26T18:00:00-04:00",
+          "stop": "2026-09-26T22:00:00-04:00",
+          "title": "SOIL Championship Off Road"
+        },
+        {
+          "display_title": "11:00 AM Southern Showcase Swainsboro",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-09-26T18:00:00-04:00",
+          "stop": "2026-09-26T22:00:00-04:00",
+          "title": "Southern Showcase Swainsboro"
+        },
+        {
+          "display_title": "11:15 AM Lucas Oil Jackson 100 Brownstown",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-09-26T18:15:00-04:00",
+          "stop": "2026-09-26T22:15:00-04:00",
+          "title": "Lucas Oil Jackson 100 Brownstown"
+        },
+        {
+          "display_title": "11:50 AM IRA Sprints Outagamie",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-09-26T18:50:00-04:00",
+          "stop": "2026-09-26T22:50:00-04:00",
+          "title": "IRA Sprints Outagamie"
+        },
+        {
+          "display_title": "11:55 AM IMCA Creek Classic 141",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-09-26T18:55:00-04:00",
+          "stop": "2026-09-26T22:55:00-04:00",
+          "title": "IMCA Creek Classic 141"
+        },
+        {
+          "display_title": "12:00 PM Williams Grove Sprints",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
+          "start": "2026-09-26T19:00:00-04:00",
+          "stop": "2026-09-26T23:00:00-04:00",
+          "title": "Williams Grove Sprints"
+        },
+        {
+          "display_title": "12:15 PM Jacksonville Sprints",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-09-26T19:15:00-04:00",
+          "stop": "2026-09-26T23:15:00-04:00",
+          "title": "Jacksonville Sprints"
+        },
+        {
+          "display_title": "12:15 PM World of Outlaws Late Models I55 Federated",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-09-26T19:15:00-04:00",
+          "stop": "2026-09-26T23:15:00-04:00",
+          "title": "World of Outlaws Late Models I55 Federated"
+        },
+        {
+          "display_title": "1:00 PM VSCU 300 Martinsville",
+          "slot": "PPV 18",
+          "slot_norm": "PPV 18",
+          "start": "2026-09-26T20:00:00-04:00",
+          "stop": "2026-09-27T00:00:00-04:00",
+          "title": "VSCU 300 Martinsville"
+        },
+        {
+          "display_title": "2:00 PM Fall Nationals Silver Dollar",
+          "slot": "PPV 19",
+          "slot_norm": "PPV 19",
+          "start": "2026-09-26T21:00:00-04:00",
+          "stop": "2026-09-27T01:00:00-04:00",
+          "title": "Fall Nationals Silver Dollar"
+        },
+        {
+          "display_title": "2:15 PM World of Outlaws Sprint Cars Bakersfield",
+          "slot": "PPV 20",
+          "slot_norm": "PPV 20",
+          "start": "2026-09-26T21:15:00-04:00",
+          "stop": "2026-09-27T01:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Bakersfield"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 626619817,
-      "message_timestamp": 1790256611,
+      "message_id": 626783688,
+      "message_timestamp": 1790308868,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-24T13:37:54.851274+00:00"
+      "updated_at": "2026-09-25T07:59:11.795842+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -345,194 +481,82 @@
       "events": [
         {
           "display_title": "5:00 AM London Ultimate Sevens Round 3 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
           "start": "2026-09-25T03:00:00+10:00",
           "stop": "2026-09-25T07:00:00+10:00",
           "title": "London Ultimate Sevens Round 3 2026"
         },
         {
           "display_title": "5:20 AM Men Junior Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
           "start": "2026-09-25T03:20:00+10:00",
           "stop": "2026-09-25T07:20:00+10:00",
           "title": "Men Junior Road Race UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "6:00 AM Line Up Show Laver Cup 2026",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
           "start": "2026-09-25T04:00:00+10:00",
           "stop": "2026-09-25T08:00:00+10:00",
           "title": "Line Up Show Laver Cup 2026"
         },
         {
           "display_title": "3:00 PM Seoul: Day 5 WTA 250",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
           "start": "2026-09-25T13:00:00+10:00",
           "stop": "2026-09-25T17:00:00+10:00",
           "title": "Seoul: Day 5 WTA 250"
         },
         {
           "display_title": "4:00 PM AUS U18s vs AUS School Boys XV Australian Schoolboys/U18s 2026",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
           "start": "2026-09-25T14:00:00+10:00",
           "stop": "2026-09-25T18:00:00+10:00",
           "title": "AUS U18s vs AUS School Boys XV Australian Schoolboys/U18s 2026"
         },
         {
           "display_title": "4:30 PM Auckland vs Manawatū Farah Palmer Cup Round 5 2026",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
           "start": "2026-09-25T14:30:00+10:00",
           "stop": "2026-09-25T18:30:00+10:00",
           "title": "Auckland vs Manawatū Farah Palmer Cup Round 5 2026"
         },
         {
           "display_title": "5:00 PM Singapore: Day 5 WTA 500",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
           "start": "2026-09-25T15:00:00+10:00",
           "stop": "2026-09-25T19:00:00+10:00",
           "title": "Singapore: Day 5 WTA 500"
         },
         {
           "display_title": "7:00 PM Auckland vs Manawatū NPC Round 9 2026",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
           "start": "2026-09-25T17:00:00+10:00",
           "stop": "2026-09-25T21:00:00+10:00",
           "title": "Auckland vs Manawatū NPC Round 9 2026"
         },
         {
           "display_title": "11:30 PM Day 1 • Day Session Laver Cup 2026",
-          "slot": "AU STAN 012",
-          "slot_norm": "AU STAN 12",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
           "start": "2026-09-25T21:30:00+10:00",
           "stop": "2026-09-26T01:30:00+10:00",
           "title": "Day 1 • Day Session Laver Cup 2026"
         },
         {
           "display_title": "12:50 AM Men Under 23 Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 013",
-          "slot_norm": "AU STAN 13",
-          "start": "2026-09-25T22:50:00+10:00",
-          "stop": "2026-09-26T02:50:00+10:00",
-          "title": "Men Under 23 Road Race UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "6:00 AM Day 1 • Night Session Laver Cup 2026",
-          "slot": "AU STAN 014",
-          "slot_norm": "AU STAN 14",
-          "start": "2026-09-26T04:00:00+10:00",
-          "stop": "2026-09-26T08:00:00+10:00",
-          "title": "Day 1 • Night Session Laver Cup 2026"
-        },
-        {
-          "display_title": "6:05 AM Women Junior Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
-          "start": "2026-09-26T04:05:00+10:00",
-          "stop": "2026-09-26T08:05:00+10:00",
-          "title": "Women Junior Road Race UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "6:40 AM Northampton vs Newcastle PREM Rugby Round 1 2026/27",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
-          "start": "2026-09-26T04:40:00+10:00",
-          "stop": "2026-09-26T08:40:00+10:00",
-          "title": "Northampton vs Newcastle PREM Rugby Round 1 2026/27"
-        },
-        {
-          "display_title": "6:40 AM Harlequins vs Bath PREM Rugby Round 1 2026/27",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-09-26T04:40:00+10:00",
-          "stop": "2026-09-26T08:40:00+10:00",
-          "title": "Harlequins vs Bath PREM Rugby Round 1 2026/27"
-        },
-        {
-          "display_title": "5:00 AM London Ultimate Sevens Round 3 2026",
-          "slot": "AU STAN ALT 004",
-          "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-26T03:00:00+10:00",
-          "stop": "2026-09-26T07:00:00+10:00",
-          "title": "London Ultimate Sevens Round 3 2026"
-        },
-        {
-          "display_title": "5:20 AM Men Junior Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-26T03:20:00+10:00",
-          "stop": "2026-09-26T07:20:00+10:00",
-          "title": "Men Junior Road Race UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "6:00 AM Line Up Show Laver Cup 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-26T04:00:00+10:00",
-          "stop": "2026-09-26T08:00:00+10:00",
-          "title": "Line Up Show Laver Cup 2026"
-        },
-        {
-          "display_title": "3:00 PM Seoul: Day 5 WTA 250",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-09-26T13:00:00+10:00",
-          "stop": "2026-09-26T17:00:00+10:00",
-          "title": "Seoul: Day 5 WTA 250"
-        },
-        {
-          "display_title": "4:00 PM AUS U18s vs AUS School Boys XV Australian Schoolboys/U18s 2026",
-          "slot": "AU STAN ALT 008",
-          "slot_norm": "AU STAN ALT 8",
-          "start": "2026-09-26T14:00:00+10:00",
-          "stop": "2026-09-26T18:00:00+10:00",
-          "title": "AUS U18s vs AUS School Boys XV Australian Schoolboys/U18s 2026"
-        },
-        {
-          "display_title": "4:30 PM Auckland vs Manawatū Farah Palmer Cup Round 5 2026",
-          "slot": "AU STAN ALT 009",
-          "slot_norm": "AU STAN ALT 9",
-          "start": "2026-09-26T14:30:00+10:00",
-          "stop": "2026-09-26T18:30:00+10:00",
-          "title": "Auckland vs Manawatū Farah Palmer Cup Round 5 2026"
-        },
-        {
-          "display_title": "5:00 PM Singapore: Day 5 WTA 500",
-          "slot": "AU STAN ALT 010",
-          "slot_norm": "AU STAN ALT 10",
-          "start": "2026-09-26T15:00:00+10:00",
-          "stop": "2026-09-26T19:00:00+10:00",
-          "title": "Singapore: Day 5 WTA 500"
-        },
-        {
-          "display_title": "7:00 PM Auckland vs Manawatū NPC Round 9 2026",
-          "slot": "AU STAN ALT 011",
-          "slot_norm": "AU STAN ALT 11",
-          "start": "2026-09-26T17:00:00+10:00",
-          "stop": "2026-09-26T21:00:00+10:00",
-          "title": "Auckland vs Manawatū NPC Round 9 2026"
-        },
-        {
-          "display_title": "11:30 PM Day 1 • Day Session Laver Cup 2026",
-          "slot": "AU STAN ALT 012",
-          "slot_norm": "AU STAN ALT 12",
-          "start": "2026-09-26T21:30:00+10:00",
-          "stop": "2026-09-27T01:30:00+10:00",
-          "title": "Day 1 • Day Session Laver Cup 2026"
-        },
-        {
-          "display_title": "12:50 AM Men Under 23 Road Race UCI Road World Championships Montreal 2026",
           "slot": "AU STAN ALT 013",
           "slot_norm": "AU STAN ALT 13",
-          "start": "2026-09-26T22:50:00+10:00",
-          "stop": "2026-09-27T02:50:00+10:00",
+          "start": "2026-09-25T22:50:00+10:00",
+          "stop": "2026-09-26T02:50:00+10:00",
           "title": "Men Under 23 Road Race UCI Road World Championships Montreal 2026"
         },
         {
@@ -569,10 +593,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 626628476,
-      "message_timestamp": 1790258413,
+      "message_id": 626780860,
+      "message_timestamp": 1790307070,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-24T18:28:33.584057+00:00"
+      "updated_at": "2026-09-25T07:59:13.087821+00:00"
     }
   },
   "version": 1
