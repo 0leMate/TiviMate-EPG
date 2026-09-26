@@ -36,20 +36,20 @@
           "title": "Bakersfield Speedway"
         },
         {
-          "display_title": "12:00 PM Williams Grove Speedway",
+          "display_title": "10:30 AM Millbridge Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-26T19:00:00-04:00",
-          "stop": "2026-09-26T23:00:00-04:00",
-          "title": "Williams Grove Speedway"
+          "start": "2026-09-26T17:30:00-04:00",
+          "stop": "2026-09-26T21:30:00-04:00",
+          "title": "Millbridge Speedway"
         },
         {
-          "display_title": "12:15 PM Jacksonville Speedway",
+          "display_title": "10:45 AM Albany Saratoga Speedway",
           "slot": "DIRT ALT 02",
           "slot_norm": "DIRT ALT 2",
-          "start": "2026-09-26T19:15:00-04:00",
-          "stop": "2026-09-26T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
+          "start": "2026-09-26T17:45:00-04:00",
+          "stop": "2026-09-26T21:45:00-04:00",
+          "title": "Albany Saratoga Speedway"
         },
         {
           "display_title": "12:15 PM I-55 Federated Auto Part Raceway Park",
@@ -60,19 +60,19 @@
           "title": "I-55 Federated Auto Part Raceway Park"
         },
         {
-          "display_title": "2:15 PM Bakersfield Speedway at Kevin Harvick's Kern Rcwy",
+          "display_title": "2:15 PM Ventura Raceway",
           "slot": "DIRT ALT 04",
           "slot_norm": "DIRT ALT 4",
           "start": "2026-09-26T21:15:00-04:00",
           "stop": "2026-09-27T01:15:00-04:00",
-          "title": "Bakersfield Speedway at Kevin Harvick's Kern Rcwy"
+          "title": "Ventura Raceway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 627037902,
-      "message_timestamp": 1790395230,
+      "message_id": 627080020,
+      "message_timestamp": 1790420423,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-26T05:10:48.609774+00:00"
+      "updated_at": "2026-09-26T11:35:28.299906+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -169,146 +169,274 @@
       "events": [
         {
           "display_title": "12:20 AM Charlton Athletic vs Man. City",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-09-26T08:20:00-04:00",
           "stop": "2026-09-26T12:20:00-04:00",
           "title": "Charlton Athletic vs Man. City"
         },
         {
           "display_title": "1:50 AM Wales vs USA",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-09-26T09:50:00-04:00",
           "stop": "2026-09-26T13:50:00-04:00",
           "title": "Wales vs USA"
         },
         {
           "display_title": "1:50 AM England vs New Zealand",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-09-26T09:50:00-04:00",
           "stop": "2026-09-26T13:50:00-04:00",
           "title": "England vs New Zealand"
         },
         {
+          "display_title": "1:50 AM Cambridge United vs AFC Wimbledon",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Cambridge United vs AFC Wimbledon"
+        },
+        {
           "display_title": "1:50 AM Bristol Rovers vs Exeter City",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-09-26T09:50:00-04:00",
           "stop": "2026-09-26T13:50:00-04:00",
           "title": "Bristol Rovers vs Exeter City"
         },
         {
           "display_title": "1:50 AM Stockport County vs Peterborough United",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-09-26T09:50:00-04:00",
           "stop": "2026-09-26T13:50:00-04:00",
           "title": "Stockport County vs Peterborough United"
         },
         {
           "display_title": "1:50 AM Newport County vs Grimsby Town",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-09-26T09:50:00-04:00",
           "stop": "2026-09-26T13:50:00-04:00",
           "title": "Newport County vs Grimsby Town"
         },
         {
-          "display_title": "1:50 AM Cambridge United vs AFC Wimbledon",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-09-26T09:50:00-04:00",
-          "stop": "2026-09-26T13:50:00-04:00",
-          "title": "Cambridge United vs AFC Wimbledon"
-        },
-        {
           "display_title": "1:50 AM Wycombe Wanderers vs Reading",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-09-26T09:50:00-04:00",
           "stop": "2026-09-26T13:50:00-04:00",
           "title": "Wycombe Wanderers vs Reading"
         },
         {
           "display_title": "4:00 AM Scotland vs Australia",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-09-26T11:00:00-04:00",
           "stop": "2026-09-26T15:00:00-04:00",
           "title": "Scotland vs Australia"
         },
         {
           "display_title": "4:35 AM France vs Canada",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-09-26T11:35:00-04:00",
           "stop": "2026-09-26T15:35:00-04:00",
           "title": "France vs Canada"
         },
         {
           "display_title": "4:50 AM London City vs Brighton",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-09-26T11:50:00-04:00",
           "stop": "2026-09-26T15:50:00-04:00",
           "title": "London City vs Brighton"
         },
         {
           "display_title": "5:00 AM Zuffa Boxing 11",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
           "start": "2026-09-26T12:00:00-04:00",
           "stop": "2026-09-26T16:00:00-04:00",
           "title": "Zuffa Boxing 11"
         },
         {
           "display_title": "5:20 AM Oldham Athletic vs Salford City",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
           "start": "2026-09-26T12:20:00-04:00",
           "stop": "2026-09-26T16:20:00-04:00",
           "title": "Oldham Athletic vs Salford City"
         },
         {
           "display_title": "9:00 AM UFC Fight Night: English",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
           "start": "2026-09-26T16:00:00-04:00",
           "stop": "2026-09-26T20:00:00-04:00",
           "title": "UFC Fight Night: English"
         },
         {
           "display_title": "9:00 AM UFC Fight Night em Português",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
           "start": "2026-09-26T16:00:00-04:00",
           "stop": "2026-09-26T20:00:00-04:00",
           "title": "UFC Fight Night em Português"
         },
         {
           "display_title": "9:00 AM UFC Fight Night en Español",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
+          "slot": "PARAMOUNT 016",
+          "slot_norm": "PARAMOUNT 16",
           "start": "2026-09-26T16:00:00-04:00",
           "stop": "2026-09-26T20:00:00-04:00",
           "title": "UFC Fight Night en Español"
         },
         {
           "display_title": "2:00 PM UFC Fight Night: Multiview",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
+          "slot": "PARAMOUNT 017",
+          "slot_norm": "PARAMOUNT 17",
           "start": "2026-09-26T21:00:00-04:00",
           "stop": "2026-09-27T01:00:00-04:00",
           "title": "UFC Fight Night: Multiview"
+        },
+        {
+          "display_title": "1:20 AM Barclays Women's Super League: Charlton Athletic vs Man City",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-09-27T08:20:00-04:00",
+          "stop": "2026-09-27T12:20:00-04:00",
+          "title": "Barclays Women's Super League: Charlton Athletic vs Man City"
+        },
+        {
+          "display_title": "2:50 AM World Rugby: Wales vs USA",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "World Rugby: Wales vs USA"
+        },
+        {
+          "display_title": "2:50 AM World Rugby: England vs New Zealand",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "World Rugby: England vs New Zealand"
+        },
+        {
+          "display_title": "2:50 AM English Football League: Cambridge United vs AFC Wimbledon",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "English Football League: Cambridge United vs AFC Wimbledon"
+        },
+        {
+          "display_title": "2:50 AM English Football League: Bristol Rovers vs Exeter City",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "English Football League: Bristol Rovers vs Exeter City"
+        },
+        {
+          "display_title": "2:50 AM English Football League: Stockport County vs Peterborough United",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "English Football League: Stockport County vs Peterborough United"
+        },
+        {
+          "display_title": "2:50 AM English Football League: Newport County vs Grimsby Town",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "English Football League: Newport County vs Grimsby Town"
+        },
+        {
+          "display_title": "2:50 AM English Football League: Wycombe Wanderers vs Reading",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-09-27T09:50:00-04:00",
+          "stop": "2026-09-27T13:50:00-04:00",
+          "title": "English Football League: Wycombe Wanderers vs Reading"
+        },
+        {
+          "display_title": "4:00 AM World Rugby: Scotland vs Australia",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-09-27T11:00:00-04:00",
+          "stop": "2026-09-27T15:00:00-04:00",
+          "title": "World Rugby: Scotland vs Australia"
+        },
+        {
+          "display_title": "4:35 AM World Rugby: France vs Canada",
+          "slot": "PARAMOUNT ALT 10",
+          "slot_norm": "PARAMOUNT ALT 10",
+          "start": "2026-09-27T11:35:00-04:00",
+          "stop": "2026-09-27T15:35:00-04:00",
+          "title": "World Rugby: France vs Canada"
+        },
+        {
+          "display_title": "4:50 AM Barclays Women's Super League: London City vs Brighton",
+          "slot": "PARAMOUNT ALT 11",
+          "slot_norm": "PARAMOUNT ALT 11",
+          "start": "2026-09-27T11:50:00-04:00",
+          "stop": "2026-09-27T15:50:00-04:00",
+          "title": "Barclays Women's Super League: London City vs Brighton"
+        },
+        {
+          "display_title": "5:00 AM Zuffa Boxing: Zuffa Boxing 11",
+          "slot": "PARAMOUNT ALT 12",
+          "slot_norm": "PARAMOUNT ALT 12",
+          "start": "2026-09-27T12:00:00-04:00",
+          "stop": "2026-09-27T16:00:00-04:00",
+          "title": "Zuffa Boxing: Zuffa Boxing 11"
+        },
+        {
+          "display_title": "5:20 AM English Football League: Oldham Athletic vs Salford City",
+          "slot": "PARAMOUNT ALT 13",
+          "slot_norm": "PARAMOUNT ALT 13",
+          "start": "2026-09-27T12:20:00-04:00",
+          "stop": "2026-09-27T16:20:00-04:00",
+          "title": "English Football League: Oldham Athletic vs Salford City"
+        },
+        {
+          "display_title": "9:00 AM UFC: UFC Fight Night English",
+          "slot": "PARAMOUNT ALT 14",
+          "slot_norm": "PARAMOUNT ALT 14",
+          "start": "2026-09-27T16:00:00-04:00",
+          "stop": "2026-09-27T20:00:00-04:00",
+          "title": "UFC: UFC Fight Night English"
+        },
+        {
+          "display_title": "9:00 AM UFC: UFC Fight Night em Português",
+          "slot": "PARAMOUNT ALT 15",
+          "slot_norm": "PARAMOUNT ALT 15",
+          "start": "2026-09-27T16:00:00-04:00",
+          "stop": "2026-09-27T20:00:00-04:00",
+          "title": "UFC: UFC Fight Night em Português"
+        },
+        {
+          "display_title": "9:00 AM UFC: UFC Fight Night en Español",
+          "slot": "PARAMOUNT ALT 16",
+          "slot_norm": "PARAMOUNT ALT 16",
+          "start": "2026-09-27T16:00:00-04:00",
+          "stop": "2026-09-27T20:00:00-04:00",
+          "title": "UFC: UFC Fight Night en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 627038027,
-      "message_timestamp": 1790395287,
+      "message_id": 627063250,
+      "message_timestamp": 1790413235,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-26T05:10:48.697993+00:00"
+      "updated_at": "2026-09-26T11:35:28.389163+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -354,11 +482,11 @@
           "title": "AEW All Out Chicago"
         },
         {
-          "display_title": "10:00 PM Highland Boxing Resurgence",
+          "display_title": "11:00 PM Highland Boxing Resurgence",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
-          "start": "2026-09-27T05:00:00-04:00",
-          "stop": "2026-09-27T09:00:00-04:00",
+          "start": "2026-09-27T06:00:00-04:00",
+          "stop": "2026-09-27T10:00:00-04:00",
           "title": "Highland Boxing Resurgence"
         },
         {
@@ -515,10 +643,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627037949,
-      "message_timestamp": 1790395259,
+      "message_id": 627068710,
+      "message_timestamp": 1790416815,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-26T05:10:48.787871+00:00"
+      "updated_at": "2026-09-26T11:35:28.469984+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -784,251 +912,219 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "6:00 AM Day 1 • Night Session Laver Cup 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-09-26T04:00:00+10:00",
-          "stop": "2026-09-26T08:00:00+10:00",
-          "title": "Day 1 • Night Session Laver Cup 2026"
-        },
-        {
-          "display_title": "6:05 AM Women Junior Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-09-26T04:05:00+10:00",
-          "stop": "2026-09-26T08:05:00+10:00",
-          "title": "Women Junior Road Race UCI Road World Championships Montreal 2026"
-        },
-        {
-          "display_title": "6:40 AM Northampton vs Newcastle PREM Rugby Round 1 2026/27",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-09-26T04:40:00+10:00",
-          "stop": "2026-09-26T08:40:00+10:00",
-          "title": "Northampton vs Newcastle PREM Rugby Round 1 2026/27"
-        },
-        {
-          "display_title": "6:40 AM Harlequins vs Bath PREM Rugby Round 1 2026/27",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-09-26T04:40:00+10:00",
-          "stop": "2026-09-26T08:40:00+10:00",
-          "title": "Harlequins vs Bath PREM Rugby Round 1 2026/27"
-        },
-        {
-          "display_title": "10:30 AM Racing Louisville vs San Diego Wave NWSL 2026",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-09-26T08:30:00+10:00",
-          "stop": "2026-09-26T12:30:00+10:00",
-          "title": "Racing Louisville vs San Diego Wave NWSL 2026"
-        },
-        {
-          "display_title": "11:30 AM Northland vs Hawke\\`s Bay Farah Palmer Cup Round 5 2026",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-09-26T09:30:00+10:00",
-          "stop": "2026-09-26T13:30:00+10:00",
-          "title": "Northland vs Hawke\\`s Bay Farah Palmer Cup Round 5 2026"
-        },
-        {
-          "display_title": "12:00 PM Gotham FC vs Chicago Stars NWSL 2026",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-09-26T10:00:00+10:00",
-          "stop": "2026-09-26T14:00:00+10:00",
-          "title": "Gotham FC vs Chicago Stars NWSL 2026"
-        },
-        {
-          "display_title": "12:20 PM Free Practice 3: 6 Hours of Fuji WEC 2026",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-09-26T10:20:00+10:00",
-          "stop": "2026-09-26T14:20:00+10:00",
-          "title": "Free Practice 3: 6 Hours of Fuji WEC 2026"
-        },
-        {
-          "display_title": "2:00 PM Northland vs Counties Manukau NPC Round 9 2026",
-          "slot": "AU STAN 012",
-          "slot_norm": "AU STAN 12",
-          "start": "2026-09-26T12:00:00+10:00",
-          "stop": "2026-09-26T16:00:00+10:00",
-          "title": "Northland vs Counties Manukau NPC Round 9 2026"
-        },
-        {
-          "display_title": "4:30 PM North Harbour vs Otago Farah Palmer Cup Round 5 2026",
-          "slot": "AU STAN 013",
-          "slot_norm": "AU STAN 13",
-          "start": "2026-09-26T14:30:00+10:00",
-          "stop": "2026-09-26T18:30:00+10:00",
-          "title": "North Harbour vs Otago Farah Palmer Cup Round 5 2026"
-        },
-        {
-          "display_title": "4:50 PM Qualifying: 6 Hours of Fuji WEC 2026",
-          "slot": "AU STAN 014",
-          "slot_norm": "AU STAN 14",
-          "start": "2026-09-26T14:50:00+10:00",
-          "stop": "2026-09-26T18:50:00+10:00",
-          "title": "Qualifying: 6 Hours of Fuji WEC 2026"
-        },
-        {
-          "display_title": "5:00 PM Seoul: Day 6 WTA 250",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
-          "start": "2026-09-26T15:00:00+10:00",
-          "stop": "2026-09-26T19:00:00+10:00",
-          "title": "Seoul: Day 6 WTA 250"
-        },
-        {
-          "display_title": "5:00 PM Canterbury vs Southland NPC Round 9 2026",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
-          "start": "2026-09-26T15:00:00+10:00",
-          "stop": "2026-09-26T19:00:00+10:00",
-          "title": "Canterbury vs Southland NPC Round 9 2026"
-        },
-        {
-          "display_title": "6:30 PM Singapore: Day 6 WTA 500",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-09-26T16:30:00+10:00",
-          "stop": "2026-09-26T20:30:00+10:00",
+          "display_title": "6:29 PM Singapore: Day 6 WTA 500",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-09-26T16:29:00+10:00",
+          "stop": "2026-09-26T20:29:00+10:00",
           "title": "Singapore: Day 6 WTA 500"
         },
         {
-          "display_title": "7:00 PM North Harbour vs Otago NPC Round 9 2026",
-          "slot": "AU STAN 018",
-          "slot_norm": "AU STAN 18",
-          "start": "2026-09-26T17:00:00+10:00",
-          "stop": "2026-09-26T21:00:00+10:00",
-          "title": "North Harbour vs Otago NPC Round 9 2026"
-        },
-        {
           "display_title": "12:00 AM Day 2 • Day Session Laver Cup 2026",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-09-26T22:00:00+10:00",
           "stop": "2026-09-27T02:00:00+10:00",
           "title": "Day 2 • Day Session Laver Cup 2026"
         },
         {
           "display_title": "12:20 AM Charlton Athletic vs Manchester City WSL 2026/27",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-09-26T22:20:00+10:00",
           "stop": "2026-09-27T02:20:00+10:00",
           "title": "Charlton Athletic vs Manchester City WSL 2026/27"
         },
         {
           "display_title": "12:20 AM Italy vs South Africa WXV 2026",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-09-26T22:20:00+10:00",
           "stop": "2026-09-27T02:20:00+10:00",
           "title": "Italy vs South Africa WXV 2026"
         },
         {
           "display_title": "12:50 AM Women Elite Road Race UCI Road World Championships Montreal 2026",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-09-26T22:50:00+10:00",
           "stop": "2026-09-27T02:50:00+10:00",
           "title": "Women Elite Road Race UCI Road World Championships Montreal 2026"
         },
         {
           "display_title": "1:45 AM Wales vs USA WXV 2026",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
           "start": "2026-09-26T23:45:00+10:00",
           "stop": "2026-09-27T03:45:00+10:00",
           "title": "Wales vs USA WXV 2026"
         },
         {
           "display_title": "1:50 AM England vs New Zealand WXV 2026",
-          "slot": "AU STAN 024",
-          "slot_norm": "AU STAN 24",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-09-26T23:50:00+10:00",
           "stop": "2026-09-27T03:50:00+10:00",
           "title": "England vs New Zealand WXV 2026"
         },
         {
           "display_title": "3:00 AM Exeter vs Gloucester PREM Rugby Round 1 2026/27",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-09-27T00:00:00+10:00",
           "stop": "2026-09-27T04:00:00+10:00",
           "title": "Exeter vs Gloucester PREM Rugby Round 1 2026/27"
         },
         {
           "display_title": "4:00 AM Scotland vs Australia WXV 2026",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
           "start": "2026-09-27T01:00:00+10:00",
           "stop": "2026-09-27T05:00:00+10:00",
           "title": "Scotland vs Australia WXV 2026"
         },
         {
           "display_title": "4:35 AM France vs Canada WXV 2026",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
           "start": "2026-09-27T01:35:00+10:00",
           "stop": "2026-09-27T05:35:00+10:00",
           "title": "France vs Canada WXV 2026"
         },
         {
           "display_title": "4:50 AM London City Lionesses vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
           "start": "2026-09-27T01:50:00+10:00",
           "stop": "2026-09-27T05:50:00+10:00",
           "title": "London City Lionesses vs Brighton & Hove Albion WSL 2026/27"
         },
         {
           "display_title": "5:25 AM Sale vs Bristol PREM Rugby Round 1 2026/27",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
           "start": "2026-09-27T02:25:00+10:00",
           "stop": "2026-09-27T06:25:00+10:00",
           "title": "Sale vs Bristol PREM Rugby Round 1 2026/27"
         },
         {
           "display_title": "7:00 AM Day 2 • Night Session Laver Cup 2026",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
           "start": "2026-09-27T04:00:00+10:00",
           "stop": "2026-09-27T08:00:00+10:00",
           "title": "Day 2 • Night Session Laver Cup 2026"
         },
         {
-          "display_title": "7:00 AM Day 1 • Night Session Laver Cup 2026",
+          "display_title": "7:29 PM Singapore: Day 6 WTA 500",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-09-27T16:29:00+10:00",
+          "stop": "2026-09-27T20:29:00+10:00",
+          "title": "Singapore: Day 6 WTA 500"
+        },
+        {
+          "display_title": "1:00 AM Day 2 • Day Session Laver Cup 2026",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-09-27T22:00:00+10:00",
+          "stop": "2026-09-28T02:00:00+10:00",
+          "title": "Day 2 • Day Session Laver Cup 2026"
+        },
+        {
+          "display_title": "1:20 AM Charlton Athletic vs Manchester City WSL 2026/27",
           "slot": "AU STAN ALT 004",
           "slot_norm": "AU STAN ALT 4",
-          "start": "2026-09-27T04:00:00+10:00",
-          "stop": "2026-09-27T08:00:00+10:00",
-          "title": "Day 1 • Night Session Laver Cup 2026"
+          "start": "2026-09-27T22:20:00+10:00",
+          "stop": "2026-09-28T02:20:00+10:00",
+          "title": "Charlton Athletic vs Manchester City WSL 2026/27"
         },
         {
-          "display_title": "7:05 AM Women Junior Road Race UCI Road World Championships Montreal 2026",
+          "display_title": "1:20 AM Italy vs South Africa WXV 2026",
           "slot": "AU STAN ALT 005",
           "slot_norm": "AU STAN ALT 5",
-          "start": "2026-09-27T04:05:00+10:00",
-          "stop": "2026-09-27T08:05:00+10:00",
-          "title": "Women Junior Road Race UCI Road World Championships Montreal 2026"
+          "start": "2026-09-27T22:20:00+10:00",
+          "stop": "2026-09-28T02:20:00+10:00",
+          "title": "Italy vs South Africa WXV 2026"
         },
         {
-          "display_title": "7:40 AM Northampton vs Newcastle PREM Rugby Round 1 2026/27",
+          "display_title": "1:50 AM Women Elite Road Race UCI Road World Championships Montreal 2026",
           "slot": "AU STAN ALT 006",
           "slot_norm": "AU STAN ALT 6",
-          "start": "2026-09-27T04:40:00+10:00",
-          "stop": "2026-09-27T08:40:00+10:00",
-          "title": "Northampton vs Newcastle PREM Rugby Round 1 2026/27"
+          "start": "2026-09-27T22:50:00+10:00",
+          "stop": "2026-09-28T02:50:00+10:00",
+          "title": "Women Elite Road Race UCI Road World Championships Montreal 2026"
+        },
+        {
+          "display_title": "2:45 AM Wales vs USA WXV 2026",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
+          "start": "2026-09-27T23:45:00+10:00",
+          "stop": "2026-09-28T03:45:00+10:00",
+          "title": "Wales vs USA WXV 2026"
+        },
+        {
+          "display_title": "2:50 AM England vs New Zealand WXV 2026",
+          "slot": "AU STAN ALT 008",
+          "slot_norm": "AU STAN ALT 8",
+          "start": "2026-09-27T23:50:00+10:00",
+          "stop": "2026-09-28T03:50:00+10:00",
+          "title": "England vs New Zealand WXV 2026"
+        },
+        {
+          "display_title": "3:00 AM Exeter vs Gloucester PREM Rugby Round 1 2026/27",
+          "slot": "AU STAN ALT 009",
+          "slot_norm": "AU STAN ALT 9",
+          "start": "2026-09-27T00:00:00+10:00",
+          "stop": "2026-09-27T04:00:00+10:00",
+          "title": "Exeter vs Gloucester PREM Rugby Round 1 2026/27"
+        },
+        {
+          "display_title": "4:00 AM Scotland vs Australia WXV 2026",
+          "slot": "AU STAN ALT 010",
+          "slot_norm": "AU STAN ALT 10",
+          "start": "2026-09-27T01:00:00+10:00",
+          "stop": "2026-09-27T05:00:00+10:00",
+          "title": "Scotland vs Australia WXV 2026"
+        },
+        {
+          "display_title": "4:35 AM France vs Canada WXV 2026",
+          "slot": "AU STAN ALT 011",
+          "slot_norm": "AU STAN ALT 11",
+          "start": "2026-09-27T01:35:00+10:00",
+          "stop": "2026-09-27T05:35:00+10:00",
+          "title": "France vs Canada WXV 2026"
+        },
+        {
+          "display_title": "4:50 AM London City Lionesses vs Brighton & Hove Albion WSL 2026/27",
+          "slot": "AU STAN ALT 012",
+          "slot_norm": "AU STAN ALT 12",
+          "start": "2026-09-27T01:50:00+10:00",
+          "stop": "2026-09-27T05:50:00+10:00",
+          "title": "London City Lionesses vs Brighton & Hove Albion WSL 2026/27"
+        },
+        {
+          "display_title": "5:25 AM Sale vs Bristol PREM Rugby Round 1 2026/27",
+          "slot": "AU STAN ALT 013",
+          "slot_norm": "AU STAN ALT 13",
+          "start": "2026-09-27T02:25:00+10:00",
+          "stop": "2026-09-27T06:25:00+10:00",
+          "title": "Sale vs Bristol PREM Rugby Round 1 2026/27"
+        },
+        {
+          "display_title": "7:00 AM Day 2 • Night Session Laver Cup 2026",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-09-27T04:00:00+10:00",
+          "stop": "2026-09-27T08:00:00+10:00",
+          "title": "Day 2 • Night Session Laver Cup 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 626898364,
-      "message_timestamp": 1790344814,
+      "message_id": 627082623,
+      "message_timestamp": 1790422231,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-09-25T18:44:46.037298+00:00"
+      "updated_at": "2026-09-26T11:35:28.716843+00:00"
     }
   },
   "version": 1
