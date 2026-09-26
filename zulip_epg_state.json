@@ -4,75 +4,75 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "11:00 AM Williams Grove Speedway",
+          "display_title": "12:00 PM Williams Grove Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-25T19:00:00-04:00",
-          "stop": "2026-09-25T23:00:00-04:00",
+          "start": "2026-09-26T19:00:00-04:00",
+          "stop": "2026-09-26T23:00:00-04:00",
           "title": "Williams Grove Speedway"
         },
         {
-          "display_title": "11:15 AM Jacksonville Speedway",
+          "display_title": "12:15 PM Jacksonville Speedway",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-09-25T19:15:00-04:00",
-          "stop": "2026-09-25T23:15:00-04:00",
+          "start": "2026-09-26T19:15:00-04:00",
+          "stop": "2026-09-26T23:15:00-04:00",
           "title": "Jacksonville Speedway"
         },
         {
-          "display_title": "11:15 AM I-55 Federated Auto Parts Raceway Park",
+          "display_title": "12:15 PM I-55 Federated Auto Parts Raceway Park",
           "slot": "DIRT 03",
           "slot_norm": "DIRT 3",
-          "start": "2026-09-25T19:15:00-04:00",
-          "stop": "2026-09-25T23:15:00-04:00",
+          "start": "2026-09-26T19:15:00-04:00",
+          "stop": "2026-09-26T23:15:00-04:00",
           "title": "I-55 Federated Auto Parts Raceway Park"
         },
         {
-          "display_title": "1:15 PM Bakersfield Speedway",
+          "display_title": "2:15 PM Bakersfield Speedway",
           "slot": "DIRT 04",
           "slot_norm": "DIRT 4",
-          "start": "2026-09-25T21:15:00-04:00",
-          "stop": "2026-09-26T01:15:00-04:00",
+          "start": "2026-09-26T21:15:00-04:00",
+          "stop": "2026-09-27T01:15:00-04:00",
           "title": "Bakersfield Speedway"
         },
         {
-          "display_title": "11:00 AM Williams Grove Speedway",
+          "display_title": "12:00 PM Williams Grove Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-25T19:00:00-04:00",
-          "stop": "2026-09-25T23:00:00-04:00",
+          "start": "2026-09-26T19:00:00-04:00",
+          "stop": "2026-09-26T23:00:00-04:00",
           "title": "Williams Grove Speedway"
         },
         {
-          "display_title": "11:15 AM Jacksonville Speedway",
+          "display_title": "12:15 PM Jacksonville Speedway",
           "slot": "DIRT ALT 02",
           "slot_norm": "DIRT ALT 2",
-          "start": "2026-09-25T19:15:00-04:00",
-          "stop": "2026-09-25T23:15:00-04:00",
+          "start": "2026-09-26T19:15:00-04:00",
+          "stop": "2026-09-26T23:15:00-04:00",
           "title": "Jacksonville Speedway"
         },
         {
-          "display_title": "11:15 AM I-55 Federated Auto Part Raceway Park",
+          "display_title": "12:15 PM I-55 Federated Auto Part Raceway Park",
           "slot": "DIRT ALT 03",
           "slot_norm": "DIRT ALT 3",
-          "start": "2026-09-25T19:15:00-04:00",
-          "stop": "2026-09-25T23:15:00-04:00",
+          "start": "2026-09-26T19:15:00-04:00",
+          "stop": "2026-09-26T23:15:00-04:00",
           "title": "I-55 Federated Auto Part Raceway Park"
         },
         {
-          "display_title": "1:15 PM Bakersfield Speedway at Kevin Harvick's Kern Rcwy",
+          "display_title": "2:15 PM Bakersfield Speedway at Kevin Harvick's Kern Rcwy",
           "slot": "DIRT ALT 04",
           "slot_norm": "DIRT ALT 4",
-          "start": "2026-09-25T21:15:00-04:00",
-          "stop": "2026-09-26T01:15:00-04:00",
+          "start": "2026-09-26T21:15:00-04:00",
+          "stop": "2026-09-27T01:15:00-04:00",
           "title": "Bakersfield Speedway at Kevin Harvick's Kern Rcwy"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 626915401,
-      "message_timestamp": 1790348428,
+      "message_id": 627037902,
+      "message_timestamp": 1790395230,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-25T18:44:45.629941+00:00"
+      "updated_at": "2026-09-26T05:10:48.609774+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -168,205 +168,357 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM Zuffa Boxing 11: Ceremonial Weigh In",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-25T13:00:00-04:00",
-          "stop": "2026-09-25T17:00:00-04:00",
-          "title": "Zuffa Boxing 11: Ceremonial Weigh In"
+          "display_title": "12:20 AM Charlton Athletic vs Man. City",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-09-26T08:20:00-04:00",
+          "stop": "2026-09-26T12:20:00-04:00",
+          "title": "Charlton Athletic vs Man. City"
         },
         {
-          "display_title": "10:00 AM UFC Fight Night Preview Show: Rosas Jr. vs Barcelos",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-25T18:00:00-04:00",
-          "stop": "2026-09-25T22:00:00-04:00",
-          "title": "UFC Fight Night Preview Show: Rosas Jr. vs Barcelos"
+          "display_title": "1:50 AM Wales vs USA",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Wales vs USA"
         },
         {
-          "display_title": "5:00 AM Zuffa Boxing: Zuffa Boxing 11 Ceremonial Weigh In",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-25T13:00:00-04:00",
-          "stop": "2026-09-25T17:00:00-04:00",
-          "title": "Zuffa Boxing: Zuffa Boxing 11 Ceremonial Weigh In"
+          "display_title": "1:50 AM England vs New Zealand",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "England vs New Zealand"
         },
         {
-          "display_title": "10:00 AM UFC: UFC Fight Night Preview Show Rosas Jr vs Barcelos",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-25T18:00:00-04:00",
-          "stop": "2026-09-25T22:00:00-04:00",
-          "title": "UFC: UFC Fight Night Preview Show Rosas Jr vs Barcelos"
+          "display_title": "1:50 AM Bristol Rovers vs Exeter City",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Bristol Rovers vs Exeter City"
+        },
+        {
+          "display_title": "1:50 AM Stockport County vs Peterborough United",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Stockport County vs Peterborough United"
+        },
+        {
+          "display_title": "1:50 AM Newport County vs Grimsby Town",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Newport County vs Grimsby Town"
+        },
+        {
+          "display_title": "1:50 AM Cambridge United vs AFC Wimbledon",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Cambridge United vs AFC Wimbledon"
+        },
+        {
+          "display_title": "1:50 AM Wycombe Wanderers vs Reading",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-09-26T09:50:00-04:00",
+          "stop": "2026-09-26T13:50:00-04:00",
+          "title": "Wycombe Wanderers vs Reading"
+        },
+        {
+          "display_title": "4:00 AM Scotland vs Australia",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-09-26T11:00:00-04:00",
+          "stop": "2026-09-26T15:00:00-04:00",
+          "title": "Scotland vs Australia"
+        },
+        {
+          "display_title": "4:35 AM France vs Canada",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-09-26T11:35:00-04:00",
+          "stop": "2026-09-26T15:35:00-04:00",
+          "title": "France vs Canada"
+        },
+        {
+          "display_title": "4:50 AM London City vs Brighton",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-09-26T11:50:00-04:00",
+          "stop": "2026-09-26T15:50:00-04:00",
+          "title": "London City vs Brighton"
+        },
+        {
+          "display_title": "5:00 AM Zuffa Boxing 11",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-09-26T12:00:00-04:00",
+          "stop": "2026-09-26T16:00:00-04:00",
+          "title": "Zuffa Boxing 11"
+        },
+        {
+          "display_title": "5:20 AM Oldham Athletic vs Salford City",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
+          "start": "2026-09-26T12:20:00-04:00",
+          "stop": "2026-09-26T16:20:00-04:00",
+          "title": "Oldham Athletic vs Salford City"
+        },
+        {
+          "display_title": "9:00 AM UFC Fight Night: English",
+          "slot": "PARAMOUNT 016",
+          "slot_norm": "PARAMOUNT 16",
+          "start": "2026-09-26T16:00:00-04:00",
+          "stop": "2026-09-26T20:00:00-04:00",
+          "title": "UFC Fight Night: English"
+        },
+        {
+          "display_title": "9:00 AM UFC Fight Night em Português",
+          "slot": "PARAMOUNT 017",
+          "slot_norm": "PARAMOUNT 17",
+          "start": "2026-09-26T16:00:00-04:00",
+          "stop": "2026-09-26T20:00:00-04:00",
+          "title": "UFC Fight Night em Português"
+        },
+        {
+          "display_title": "9:00 AM UFC Fight Night en Español",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-09-26T16:00:00-04:00",
+          "stop": "2026-09-26T20:00:00-04:00",
+          "title": "UFC Fight Night en Español"
+        },
+        {
+          "display_title": "2:00 PM UFC Fight Night: Multiview",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-09-26T21:00:00-04:00",
+          "stop": "2026-09-27T01:00:00-04:00",
+          "title": "UFC Fight Night: Multiview"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 626833848,
-      "message_timestamp": 1790326818,
+      "message_id": 627038027,
+      "message_timestamp": 1790395287,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-25T13:57:29.818345+00:00"
+      "updated_at": "2026-09-26T05:10:48.697993+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:30 AM Ares 43",
+          "display_title": "10:00 AM UFC Fight Night Rosas Jr vs Barcelos",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-09-26T17:00:00-04:00",
+          "stop": "2026-09-26T21:00:00-04:00",
+          "title": "UFC Fight Night Rosas Jr vs Barcelos"
+        },
+        {
+          "display_title": "3:55 AM Davies vs Collins Prelims",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-25T13:30:00-04:00",
-          "stop": "2026-09-25T17:30:00-04:00",
-          "title": "Ares 43"
+          "start": "2026-09-26T10:55:00-04:00",
+          "stop": "2026-09-26T14:55:00-04:00",
+          "title": "Davies vs Collins Prelims"
         },
         {
-          "display_title": "11:00 AM Shooto Brazil 140",
+          "display_title": "7:00 AM Davies vs Collins",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-09-25T19:00:00-04:00",
-          "stop": "2026-09-25T23:00:00-04:00",
-          "title": "Shooto Brazil 140"
+          "start": "2026-09-26T14:00:00-04:00",
+          "stop": "2026-09-26T18:00:00-04:00",
+          "title": "Davies vs Collins"
         },
         {
-          "display_title": "12:00 PM GCW Rock Bottom",
+          "display_title": "11:00 AM Cejudo vs Walton",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-09-25T20:00:00-04:00",
-          "stop": "2026-09-26T00:00:00-04:00",
-          "title": "GCW Rock Bottom"
+          "start": "2026-09-26T18:00:00-04:00",
+          "stop": "2026-09-26T22:00:00-04:00",
+          "title": "Cejudo vs Walton"
         },
         {
-          "display_title": "2:00 PM MMA Mexico 9",
+          "display_title": "1:00 PM AEW All Out Chicago",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
-          "start": "2026-09-25T22:00:00-04:00",
-          "stop": "2026-09-26T02:00:00-04:00",
-          "title": "MMA Mexico 9"
+          "start": "2026-09-26T20:00:00-04:00",
+          "stop": "2026-09-27T00:00:00-04:00",
+          "title": "AEW All Out Chicago"
         },
         {
-          "display_title": "2:30 PM Tuff N Uff 157",
+          "display_title": "10:00 PM Highland Boxing Resurgence",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
-          "start": "2026-09-25T22:30:00-04:00",
-          "stop": "2026-09-26T02:30:00-04:00",
-          "title": "Tuff N Uff 157"
+          "start": "2026-09-27T05:00:00-04:00",
+          "stop": "2026-09-27T09:00:00-04:00",
+          "title": "Highland Boxing Resurgence"
         },
         {
-          "display_title": "5:00 AM MotoAmerica Superbikes New Jersey",
+          "display_title": "5:00 AM Fisher vs Pirotton",
           "slot": "PPV 07",
           "slot_norm": "PPV 7",
-          "start": "2026-09-26T12:00:00-04:00",
-          "stop": "2026-09-26T16:00:00-04:00",
-          "title": "MotoAmerica Superbikes New Jersey"
+          "start": "2026-09-27T12:00:00-04:00",
+          "stop": "2026-09-27T16:00:00-04:00",
+          "title": "Fisher vs Pirotton"
         },
         {
-          "display_title": "10:15 AM Weekly Racing Stafford",
+          "display_title": "5:00 AM Sojar Boy vs Scorpion",
           "slot": "PPV 08",
           "slot_norm": "PPV 8",
-          "start": "2026-09-26T17:15:00-04:00",
-          "stop": "2026-09-26T21:15:00-04:00",
-          "title": "Weekly Racing Stafford"
+          "start": "2026-09-27T12:00:00-04:00",
+          "stop": "2026-09-27T16:00:00-04:00",
+          "title": "Sojar Boy vs Scorpion"
         },
         {
-          "display_title": "10:45 AM 4 Crown Nationals Eldora",
+          "display_title": "8:00 AM 12:30/ Cage Warriors 210",
           "slot": "PPV 09",
           "slot_norm": "PPV 9",
-          "start": "2026-09-26T17:45:00-04:00",
-          "stop": "2026-09-26T21:45:00-04:00",
-          "title": "4 Crown Nationals Eldora"
+          "start": "2026-09-27T15:00:00-04:00",
+          "stop": "2026-09-27T19:00:00-04:00",
+          "title": "12:30/ Cage Warriors 210"
         },
         {
-          "display_title": "11:00 AM SOIL Championship Off Road",
+          "display_title": "5:00 AM Uskov vs Naeemi",
           "slot": "PPV 10",
           "slot_norm": "PPV 10",
-          "start": "2026-09-26T18:00:00-04:00",
-          "stop": "2026-09-26T22:00:00-04:00",
-          "title": "SOIL Championship Off Road"
+          "start": "2026-09-27T12:00:00-04:00",
+          "stop": "2026-09-27T16:00:00-04:00",
+          "title": "Uskov vs Naeemi"
         },
         {
-          "display_title": "11:00 AM Southern Showcase Swainsboro",
+          "display_title": "5:00 AM Oktagon 94 Eckerlin vs Kozma",
           "slot": "PPV 11",
           "slot_norm": "PPV 11",
-          "start": "2026-09-26T18:00:00-04:00",
-          "stop": "2026-09-26T22:00:00-04:00",
-          "title": "Southern Showcase Swainsboro"
+          "start": "2026-09-27T12:00:00-04:00",
+          "stop": "2026-09-27T16:00:00-04:00",
+          "title": "Oktagon 94 Eckerlin vs Kozma"
         },
         {
-          "display_title": "11:15 AM Lucas Oil Jackson 100 Brownstown",
+          "display_title": "6:00 AM WOW FC 32",
           "slot": "PPV 12",
           "slot_norm": "PPV 12",
-          "start": "2026-09-26T18:15:00-04:00",
-          "stop": "2026-09-26T22:15:00-04:00",
-          "title": "Lucas Oil Jackson 100 Brownstown"
+          "start": "2026-09-27T13:00:00-04:00",
+          "stop": "2026-09-27T17:00:00-04:00",
+          "title": "WOW FC 32"
         },
         {
-          "display_title": "11:50 AM IRA Sprints Outagamie",
+          "display_title": "7:00 AM BKFC 94 Till vs Romero",
           "slot": "PPV 13",
           "slot_norm": "PPV 13",
-          "start": "2026-09-26T18:50:00-04:00",
-          "stop": "2026-09-26T22:50:00-04:00",
-          "title": "IRA Sprints Outagamie"
+          "start": "2026-09-27T14:00:00-04:00",
+          "stop": "2026-09-27T18:00:00-04:00",
+          "title": "BKFC 94 Till vs Romero"
         },
         {
-          "display_title": "11:55 AM IMCA Creek Classic 141",
+          "display_title": "7:00 AM True Grit Nightmare",
           "slot": "PPV 14",
           "slot_norm": "PPV 14",
-          "start": "2026-09-26T18:55:00-04:00",
-          "stop": "2026-09-26T22:55:00-04:00",
-          "title": "IMCA Creek Classic 141"
+          "start": "2026-09-27T14:00:00-04:00",
+          "stop": "2026-09-27T18:00:00-04:00",
+          "title": "True Grit Nightmare"
         },
         {
-          "display_title": "12:00 PM Williams Grove Sprints",
+          "display_title": "7:30 AM TNT Effys Big Gay Brunch UK",
           "slot": "PPV 15",
           "slot_norm": "PPV 15",
-          "start": "2026-09-26T19:00:00-04:00",
-          "stop": "2026-09-26T23:00:00-04:00",
-          "title": "Williams Grove Sprints"
+          "start": "2026-09-27T14:30:00-04:00",
+          "stop": "2026-09-27T18:30:00-04:00",
+          "title": "TNT Effys Big Gay Brunch UK"
         },
         {
-          "display_title": "12:15 PM Jacksonville Sprints",
+          "display_title": "7:30 AM FCC 47",
           "slot": "PPV 16",
           "slot_norm": "PPV 16",
-          "start": "2026-09-26T19:15:00-04:00",
-          "stop": "2026-09-26T23:15:00-04:00",
-          "title": "Jacksonville Sprints"
+          "start": "2026-09-27T14:30:00-04:00",
+          "stop": "2026-09-27T18:30:00-04:00",
+          "title": "FCC 47"
+        },
+        {
+          "display_title": "12:00 PM GCW The Score",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-09-27T19:00:00-04:00",
+          "stop": "2026-09-27T23:00:00-04:00",
+          "title": "GCW The Score"
+        },
+        {
+          "display_title": "2:00 PM PPW Slave to the Deathmatch XVII",
+          "slot": "PPV 18",
+          "slot_norm": "PPV 18",
+          "start": "2026-09-27T21:00:00-04:00",
+          "stop": "2026-09-28T01:00:00-04:00",
+          "title": "PPW Slave to the Deathmatch XVII"
+        },
+        {
+          "display_title": "2:00 PM WES Pro sumo New Era IV",
+          "slot": "PPV 19",
+          "slot_norm": "PPV 19",
+          "start": "2026-09-27T21:00:00-04:00",
+          "stop": "2026-09-28T01:00:00-04:00",
+          "title": "WES Pro sumo New Era IV"
+        },
+        {
+          "display_title": "2:00 PM Championship Mental Health 3 Ring of Opportunity",
+          "slot": "PPV 20",
+          "slot_norm": "PPV 20",
+          "start": "2026-09-27T21:00:00-04:00",
+          "stop": "2026-09-28T01:00:00-04:00",
+          "title": "Championship Mental Health 3 Ring of Opportunity"
+        },
+        {
+          "display_title": "11:30 AM 1/ AMA Supercross Championship Ridgedale",
+          "slot": "PPV 21",
+          "slot_norm": "PPV 21",
+          "start": "2026-09-27T18:30:00-04:00",
+          "stop": "2026-09-27T22:30:00-04:00",
+          "title": "1/ AMA Supercross Championship Ridgedale"
+        },
+        {
+          "display_title": "8:00 AM Monster Truck Throwdown Slinger",
+          "slot": "PPV 22",
+          "slot_norm": "PPV 22",
+          "start": "2026-09-27T15:00:00-04:00",
+          "stop": "2026-09-27T19:00:00-04:00",
+          "title": "Monster Truck Throwdown Slinger"
         },
         {
           "display_title": "12:15 PM World of Outlaws Late Models I55 Federated",
-          "slot": "PPV 17",
-          "slot_norm": "PPV 17",
-          "start": "2026-09-26T19:15:00-04:00",
-          "stop": "2026-09-26T23:15:00-04:00",
+          "slot": "PPV 23",
+          "slot_norm": "PPV 23",
+          "start": "2026-09-27T19:15:00-04:00",
+          "stop": "2026-09-27T23:15:00-04:00",
           "title": "World of Outlaws Late Models I55 Federated"
         },
         {
-          "display_title": "1:00 PM VSCU 300 Martinsville",
-          "slot": "PPV 18",
-          "slot_norm": "PPV 18",
-          "start": "2026-09-26T20:00:00-04:00",
-          "stop": "2026-09-27T00:00:00-04:00",
-          "title": "VSCU 300 Martinsville"
+          "display_title": "2:15 PM World of Outlaws Sprint Cars Ventura",
+          "slot": "PPV 24",
+          "slot_norm": "PPV 24",
+          "start": "2026-09-27T21:15:00-04:00",
+          "stop": "2026-09-28T01:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Ventura"
         },
         {
-          "display_title": "2:00 PM Fall Nationals Silver Dollar",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-09-26T21:00:00-04:00",
-          "stop": "2026-09-27T01:00:00-04:00",
-          "title": "Fall Nationals Silver Dollar"
-        },
-        {
-          "display_title": "2:15 PM World of Outlaws Sprint Cars Bakersfield",
-          "slot": "PPV 20",
-          "slot_norm": "PPV 20",
-          "start": "2026-09-26T21:15:00-04:00",
-          "stop": "2026-09-27T01:15:00-04:00",
-          "title": "World of Outlaws Sprint Cars Bakersfield"
+          "display_title": "5:00 AM Game4Hope: Everton Goodison Park: 16:45",
+          "slot": "PPV ALT 003",
+          "slot_norm": "PPV ALT 3",
+          "start": "2026-09-27T12:00:00-04:00",
+          "stop": "2026-09-28T00:00:00-04:00",
+          "title": "Game4Hope: Everton Goodison Park: 16:45"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 626946189,
-      "message_timestamp": 1790355614,
+      "message_id": 627037949,
+      "message_timestamp": 1790395259,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-25T18:44:45.788247+00:00"
+      "updated_at": "2026-09-26T05:10:48.787871+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
