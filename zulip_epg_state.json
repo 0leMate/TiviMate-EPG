@@ -250,14 +250,6 @@
           "title": "MotoAmerica Superbikes New Jersey"
         },
         {
-          "display_title": "5:30 AM CANCELLED Championship Weekend Riverhead",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-27T12:30:00-04:00",
-          "stop": "2026-09-27T16:30:00-04:00",
-          "title": "CANCELLED Championship Weekend Riverhead"
-        },
-        {
           "display_title": "7:30 AM TNT vs CZW Tournament of Death UK",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
@@ -296,21 +288,13 @@
           "start": "2026-09-27T21:00:00-04:00",
           "stop": "2026-09-28T01:00:00-04:00",
           "title": "559 Fights 127"
-        },
-        {
-          "display_title": "2:00 PM PPW Slave to the Deathmatch XVII",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-09-27T21:00:00-04:00",
-          "stop": "2026-09-28T01:00:00-04:00",
-          "title": "PPW Slave to the Deathmatch XVII"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627246102,
-      "message_timestamp": 1790532025,
+      "message_id": 627272309,
+      "message_timestamp": 1790550011,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-27T18:31:36.325595+00:00"
+      "updated_at": "2026-09-27T23:10:18.223652+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
