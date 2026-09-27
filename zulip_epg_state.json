@@ -442,14 +442,6 @@
           "title": "UFC Fight Night Rosas Jr vs Barcelos"
         },
         {
-          "display_title": "7:00 AM Davies vs Collins",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-09-26T14:00:00-04:00",
-          "stop": "2026-09-26T18:00:00-04:00",
-          "title": "Davies vs Collins"
-        },
-        {
           "display_title": "11:00 AM Cejudo vs Walton",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
@@ -464,86 +456,6 @@
           "start": "2026-09-26T20:00:00-04:00",
           "stop": "2026-09-27T00:00:00-04:00",
           "title": "AEW All Out Chicago"
-        },
-        {
-          "display_title": "7:00 AM Rein - Degale vs Portman",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-09-26T14:00:00-04:00",
-          "stop": "2026-09-26T18:00:00-04:00",
-          "title": "Rein - Degale vs Portman"
-        },
-        {
-          "display_title": "5:00 AM Fisher vs Pirotton",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-09-26T12:00:00-04:00",
-          "stop": "2026-09-26T16:00:00-04:00",
-          "title": "Fisher vs Pirotton"
-        },
-        {
-          "display_title": "5:00 AM Sojar Boy vs Scorpion",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-09-26T12:00:00-04:00",
-          "stop": "2026-09-26T16:00:00-04:00",
-          "title": "Sojar Boy vs Scorpion"
-        },
-        {
-          "display_title": "8:00 AM 12:30/ Cage Warriors 210",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-09-26T15:00:00-04:00",
-          "stop": "2026-09-26T19:00:00-04:00",
-          "title": "12:30/ Cage Warriors 210"
-        },
-        {
-          "display_title": "5:00 AM Uskov vs Naeemi",
-          "slot": "PPV 10",
-          "slot_norm": "PPV 10",
-          "start": "2026-09-26T12:00:00-04:00",
-          "stop": "2026-09-26T16:00:00-04:00",
-          "title": "Uskov vs Naeemi"
-        },
-        {
-          "display_title": "5:00 AM Oktagon 94 Eckerlin vs Kozma",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-09-26T12:00:00-04:00",
-          "stop": "2026-09-26T16:00:00-04:00",
-          "title": "Oktagon 94 Eckerlin vs Kozma"
-        },
-        {
-          "display_title": "6:00 AM WOW FC 32",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-09-26T13:00:00-04:00",
-          "stop": "2026-09-26T17:00:00-04:00",
-          "title": "WOW FC 32"
-        },
-        {
-          "display_title": "7:00 AM BKFC 94 Till vs Romero",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-09-26T14:00:00-04:00",
-          "stop": "2026-09-26T18:00:00-04:00",
-          "title": "BKFC 94 Till vs Romero"
-        },
-        {
-          "display_title": "7:30 AM TNT Effys Big Gay Brunch UK",
-          "slot": "PPV 15",
-          "slot_norm": "PPV 15",
-          "start": "2026-09-26T14:30:00-04:00",
-          "stop": "2026-09-26T18:30:00-04:00",
-          "title": "TNT Effys Big Gay Brunch UK"
-        },
-        {
-          "display_title": "7:30 AM FCC 47",
-          "slot": "PPV 16",
-          "slot_norm": "PPV 16",
-          "start": "2026-09-26T14:30:00-04:00",
-          "stop": "2026-09-26T18:30:00-04:00",
-          "title": "FCC 47"
         },
         {
           "display_title": "12:00 PM GCW The Score",
@@ -586,14 +498,6 @@
           "title": "1/ AMA Supercross Championship Ridgedale"
         },
         {
-          "display_title": "8:00 AM Monster Truck Throwdown Slinger",
-          "slot": "PPV 22",
-          "slot_norm": "PPV 22",
-          "start": "2026-09-26T15:00:00-04:00",
-          "stop": "2026-09-26T19:00:00-04:00",
-          "title": "Monster Truck Throwdown Slinger"
-        },
-        {
           "display_title": "12:15 PM World of Outlaws Late Models I55 Federated",
           "slot": "PPV 23",
           "slot_norm": "PPV 23",
@@ -611,10 +515,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627139471,
-      "message_timestamp": 1790456412,
+      "message_id": 627158300,
+      "message_timestamp": 1790469014,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-26T21:18:38.607832+00:00"
+      "updated_at": "2026-09-27T00:42:46.515085+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
