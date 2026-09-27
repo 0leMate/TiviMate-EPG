@@ -47,22 +47,22 @@
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.01">
     <display-name>DIRT ALT 01</display-name>
-    <display-name>DIRT ALT 01: 17:30 Millbridge Speedway</display-name>
+    <display-name>DIRT ALT 01:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.02">
     <display-name>DIRT ALT 02</display-name>
-    <display-name>DIRT ALT 02: 17:45 Albany Saratoga Speedway</display-name>
+    <display-name>DIRT ALT 02:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.03">
     <display-name>DIRT ALT 03</display-name>
-    <display-name>DIRT ALT 03: 19:15 I-55 Federated Auto Part Raceway Park</display-name>
+    <display-name>DIRT ALT 03:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.04">
     <display-name>DIRT ALT 04</display-name>
-    <display-name>DIRT ALT 04: 21:15 Ventura Raceway</display-name>
+    <display-name>DIRT ALT 04:</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.ALT.05">
@@ -6226,7 +6226,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 04:00 Inoue vs Nasukawa 2</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -6236,7 +6236,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 12:30 Championship Weekend Riverhead</display-name>
+    <display-name>PPV 03: 12:30 CANCELLED Championship Weekend Riverhead</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -13859,18 +13859,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20260927040000 -0400" stop="20260927080000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>9:00 PM Inoue vs Nasukawa 2</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20260927120000 -0400" stop="20260927160000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>5:00 AM MotoAmerica Superbikes New Jersey</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20260927123000 -0400" stop="20260927163000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>5:30 AM Championship Weekend Riverhead</title>
+    <title>5:30 AM CANCELLED Championship Weekend Riverhead</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

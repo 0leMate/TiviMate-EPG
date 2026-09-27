@@ -242,14 +242,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "9:00 PM Inoue vs Nasukawa 2",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-09-27T04:00:00-04:00",
-          "stop": "2026-09-27T08:00:00-04:00",
-          "title": "Inoue vs Nasukawa 2"
-        },
-        {
           "display_title": "5:00 AM MotoAmerica Superbikes New Jersey",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
@@ -258,12 +250,12 @@
           "title": "MotoAmerica Superbikes New Jersey"
         },
         {
-          "display_title": "5:30 AM Championship Weekend Riverhead",
+          "display_title": "5:30 AM CANCELLED Championship Weekend Riverhead",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
           "start": "2026-09-27T12:30:00-04:00",
           "stop": "2026-09-27T16:30:00-04:00",
-          "title": "Championship Weekend Riverhead"
+          "title": "CANCELLED Championship Weekend Riverhead"
         },
         {
           "display_title": "7:30 AM TNT vs CZW Tournament of Death UK",
@@ -315,10 +307,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627173816,
-      "message_timestamp": 1790481634,
+      "message_id": 627246102,
+      "message_timestamp": 1790532025,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-27T08:22:25.300289+00:00"
+      "updated_at": "2026-09-27T18:31:36.325595+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
