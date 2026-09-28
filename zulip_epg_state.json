@@ -242,59 +242,27 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM MotoAmerica Superbikes New Jersey",
+          "display_title": "1:00 PM WWE Monday Night RAW",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-09-28T20:00:00-04:00",
+          "stop": "2026-09-29T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
+        },
+        {
+          "display_title": "2:00 PM PPW Slave to the Deathmatch XVII",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-27T12:00:00-04:00",
-          "stop": "2026-09-27T16:00:00-04:00",
-          "title": "MotoAmerica Superbikes New Jersey"
-        },
-        {
-          "display_title": "7:30 AM TNT vs CZW Tournament of Death UK",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-09-27T14:30:00-04:00",
-          "stop": "2026-09-27T18:30:00-04:00",
-          "title": "TNT vs CZW Tournament of Death UK"
-        },
-        {
-          "display_title": "10:45 AM High Limit Racing Kokomo",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-09-27T17:45:00-04:00",
-          "stop": "2026-09-27T21:45:00-04:00",
-          "title": "High Limit Racing Kokomo"
-        },
-        {
-          "display_title": "12:00 PM Road to The Dome Coles",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-09-27T19:00:00-04:00",
-          "stop": "2026-09-27T23:00:00-04:00",
-          "title": "Road to The Dome Coles"
-        },
-        {
-          "display_title": "12:35 PM Jack Starrette Memorial",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-09-27T19:35:00-04:00",
-          "stop": "2026-09-27T23:35:00-04:00",
-          "title": "Jack Starrette Memorial"
-        },
-        {
-          "display_title": "2:00 PM 559 Fights 127",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-09-27T21:00:00-04:00",
-          "stop": "2026-09-28T01:00:00-04:00",
-          "title": "559 Fights 127"
+          "start": "2026-09-28T21:00:00-04:00",
+          "stop": "2026-09-29T01:00:00-04:00",
+          "title": "PPW Slave to the Deathmatch XVII"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627272309,
-      "message_timestamp": 1790550011,
+      "message_id": 627305767,
+      "message_timestamp": 1790568024,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-27T23:10:18.223652+00:00"
+      "updated_at": "2026-09-28T05:36:03.608381+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
