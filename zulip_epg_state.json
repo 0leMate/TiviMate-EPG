@@ -268,51 +268,19 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "10:45 AM High Limit Racing at Kokomo",
+          "display_title": "1:00 PM WWE Monday Night RAW",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-09-27T17:45:00-04:00",
-          "stop": "2026-09-27T21:45:00-04:00",
-          "title": "High Limit Racing at Kokomo"
-        },
-        {
-          "display_title": "12:00 PM Road to The Dome at Coles County",
-          "slot": "PPV2 02",
-          "slot_norm": "PPV2 2",
-          "start": "2026-09-27T19:00:00-04:00",
-          "stop": "2026-09-27T23:00:00-04:00",
-          "title": "Road to The Dome at Coles County"
-        },
-        {
-          "display_title": "2:00 AM Sirens Fury Total Carnage",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-09-28T09:00:00-04:00",
-          "stop": "2026-09-28T13:00:00-04:00",
-          "title": "Sirens Fury Total Carnage"
-        },
-        {
-          "display_title": "7:30 AM Tournament of Death UK",
-          "slot": "PPV2 04",
-          "slot_norm": "PPV2 4",
-          "start": "2026-09-28T14:30:00-04:00",
-          "stop": "2026-09-28T18:30:00-04:00",
-          "title": "Tournament of Death UK"
-        },
-        {
-          "display_title": "2:00 PM 559 Fights 127",
-          "slot": "PPV2 06",
-          "slot_norm": "PPV2 6",
-          "start": "2026-09-28T21:00:00-04:00",
-          "stop": "2026-09-29T01:00:00-04:00",
-          "title": "559 Fights 127"
+          "start": "2026-09-28T20:00:00-04:00",
+          "stop": "2026-09-29T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 627218875,
-      "message_timestamp": 1790512218,
+      "message_id": 627421519,
+      "message_timestamp": 1790598612,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-27T14:07:14.767245+00:00"
+      "updated_at": "2026-09-28T14:13:32.410880+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
