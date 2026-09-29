@@ -136,133 +136,61 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "12:35 AM Ireland vs Japan",
+          "display_title": "12:00 PM Dana White\\`s Contender Series",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-27T07:35:00-04:00",
-          "stop": "2026-09-27T11:35:00-04:00",
-          "title": "Ireland vs Japan"
+          "start": "2026-09-29T19:00:00-04:00",
+          "stop": "2026-09-29T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series"
         },
         {
-          "display_title": "12:50 AM Man. United vs West Ham United",
+          "display_title": "12:00 PM Dana White\\`s Contender Series em Português",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-27T07:50:00-04:00",
-          "stop": "2026-09-27T11:50:00-04:00",
-          "title": "Man. United vs West Ham United"
+          "start": "2026-09-29T19:00:00-04:00",
+          "stop": "2026-09-29T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series em Português"
         },
         {
-          "display_title": "1:50 AM Liverpool vs Everton",
+          "display_title": "12:00 PM Dana White\\`s Contender Series en Español",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-27T08:50:00-04:00",
-          "stop": "2026-09-27T12:50:00-04:00",
-          "title": "Liverpool vs Everton"
-        },
-        {
-          "display_title": "1:50 AM Tottenham vs Aston Villa",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-27T08:50:00-04:00",
-          "stop": "2026-09-27T12:50:00-04:00",
-          "title": "Tottenham vs Aston Villa"
-        },
-        {
-          "display_title": "1:50 AM Birmingham City vs Crystal Palace",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-27T08:50:00-04:00",
-          "stop": "2026-09-27T12:50:00-04:00",
-          "title": "Birmingham City vs Crystal Palace"
-        },
-        {
-          "display_title": "4:00 AM Chelsea vs Arsenal",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-09-27T11:00:00-04:00",
-          "stop": "2026-09-27T15:00:00-04:00",
-          "title": "Chelsea vs Arsenal"
-        },
-        {
-          "display_title": "12:35 AM World Rugby: Ireland vs Japan",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-27T07:35:00-04:00",
-          "stop": "2026-09-27T11:35:00-04:00",
-          "title": "World Rugby: Ireland vs Japan"
-        },
-        {
-          "display_title": "12:50 AM Barclays Women's Super League: Man United vs West Ham United",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-27T07:50:00-04:00",
-          "stop": "2026-09-27T11:50:00-04:00",
-          "title": "Barclays Women's Super League: Man United vs West Ham United"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Liverpool vs Everton",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-27T08:50:00-04:00",
-          "stop": "2026-09-27T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Liverpool vs Everton"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Tottenham vs Aston Villa",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-27T08:50:00-04:00",
-          "stop": "2026-09-27T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Tottenham vs Aston Villa"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Birmingham City vs Crystal Palace",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-27T08:50:00-04:00",
-          "stop": "2026-09-27T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Birmingham City vs Crystal Palace"
-        },
-        {
-          "display_title": "4:00 AM Barclays Women's Super League: Chelsea vs Arsenal",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-09-27T11:00:00-04:00",
-          "stop": "2026-09-27T15:00:00-04:00",
-          "title": "Barclays Women's Super League: Chelsea vs Arsenal"
+          "start": "2026-09-29T19:00:00-04:00",
+          "stop": "2026-09-29T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 627218871,
-      "message_timestamp": 1790512217,
+      "message_id": 627623290,
+      "message_timestamp": 1790654435,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-27T14:07:14.567747+00:00"
+      "updated_at": "2026-09-29T08:44:26.558649+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "1:00 PM WWE Monday Night RAW",
+          "display_title": "12:00 PM Dana White Contender Series S10W08",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-28T20:00:00-04:00",
-          "stop": "2026-09-29T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
+          "start": "2026-09-29T19:00:00-04:00",
+          "stop": "2026-09-29T23:00:00-04:00",
+          "title": "Dana White Contender Series S10W08"
         },
         {
-          "display_title": "2:00 PM PPW Slave to the Deathmatch XVII",
+          "display_title": "11:15 AM Millbridge Speedway",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-09-28T21:00:00-04:00",
-          "stop": "2026-09-29T01:00:00-04:00",
-          "title": "PPW Slave to the Deathmatch XVII"
+          "start": "2026-09-29T18:15:00-04:00",
+          "stop": "2026-09-29T22:15:00-04:00",
+          "title": "Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627305767,
-      "message_timestamp": 1790568024,
+      "message_id": 627623275,
+      "message_timestamp": 1790654430,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-28T05:36:03.608381+00:00"
+      "updated_at": "2026-09-29T08:44:26.953940+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
