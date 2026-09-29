@@ -5,6 +5,14 @@
       "events": [
         {
           "display_title": "11:15 AM Millbridge Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-09-29T18:15:00-04:00",
+          "stop": "2026-09-29T22:15:00-04:00",
+          "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "11:15 AM Millbridge Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
           "start": "2026-09-29T18:15:00-04:00",
@@ -13,10 +21,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 627704261,
-      "message_timestamp": 1790672419,
+      "message_id": 627890768,
+      "message_timestamp": 1790712027,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-29T16:33:38.052797+00:00"
+      "updated_at": "2026-09-29T22:25:49.939077+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",

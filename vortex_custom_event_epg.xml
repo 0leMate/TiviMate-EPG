@@ -2,7 +2,7 @@
 <tv generator-info-name="Vortex Hybrid Zulip + M3U EPG v3.1">
   <channel id="custom.DIRTVISION.DIRT.01">
     <display-name>DIRT 01</display-name>
-    <display-name>DIRT 01:</display-name>
+    <display-name>DIRT 01: 18:15 Millbridge Speedway</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
   <channel id="custom.DIRTVISION.DIRT.02">
@@ -13948,6 +13948,11 @@
     <title>5:30 PM SC: Top 10 Women&#x27;s World Hockey Championship Games A</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20260929181500 -0400" stop="20260929221500 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>11:15 AM Millbridge Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
   <programme start="20260929181500 -0400" stop="20260929221500 -0400" channel="custom.DIRTVISION.DIRT.ALT.01">
     <title>11:15 AM Millbridge Speedway</title>
