@@ -7,24 +7,24 @@
           "display_title": "11:15 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-29T18:15:00-04:00",
-          "stop": "2026-09-29T22:15:00-04:00",
+          "start": "2026-09-30T18:15:00-04:00",
+          "stop": "2026-09-30T22:15:00-04:00",
           "title": "Millbridge Speedway"
         },
         {
           "display_title": "11:15 AM Millbridge Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-29T18:15:00-04:00",
-          "stop": "2026-09-29T22:15:00-04:00",
+          "start": "2026-09-30T18:15:00-04:00",
+          "stop": "2026-09-30T22:15:00-04:00",
           "title": "Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 627890768,
-      "message_timestamp": 1790712027,
+      "message_id": 627963466,
+      "message_timestamp": 1790740832,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-29T22:25:49.939077+00:00"
+      "updated_at": "2026-09-30T08:45:40.747227+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,85 +120,69 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "12:00 PM Dana White\\`s Contender Series",
+          "display_title": "5:30 AM Roma vs Barcelona",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series"
+          "start": "2026-09-30T12:30:00-04:00",
+          "stop": "2026-09-30T16:30:00-04:00",
+          "title": "Roma vs Barcelona"
         },
         {
-          "display_title": "12:00 PM Dana White\\`s Contender Series em Português",
+          "display_title": "5:30 AM Paris FC vs Arsenal",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series em Português"
+          "start": "2026-09-30T12:30:00-04:00",
+          "stop": "2026-09-30T16:30:00-04:00",
+          "title": "Paris FC vs Arsenal"
         },
         {
-          "display_title": "12:00 PM Dana White\\`s Contender Series en Español",
+          "display_title": "5:30 AM BK Häcken vs Juventus",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series en Español"
+          "start": "2026-09-30T12:30:00-04:00",
+          "stop": "2026-09-30T16:30:00-04:00",
+          "title": "BK Häcken vs Juventus"
         },
         {
-          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series"
+          "display_title": "7:00 AM Lyonnes vs Chelsea",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-09-30T14:00:00-04:00",
+          "stop": "2026-09-30T18:00:00-04:00",
+          "title": "Lyonnes vs Chelsea"
         },
         {
-          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series em Português",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series em Português"
-        },
-        {
-          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series en Español",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series en Español"
+          "display_title": "7:00 AM Benfica vs Bayern",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-09-30T14:00:00-04:00",
+          "stop": "2026-09-30T18:00:00-04:00",
+          "title": "Benfica vs Bayern"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 627765242,
-      "message_timestamp": 1790685013,
+      "message_id": 628008435,
+      "message_timestamp": 1790757031,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-29T16:33:38.141151+00:00"
+      "updated_at": "2026-09-30T08:45:40.999892+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 PM Dana White Contender Series S10W08",
+          "display_title": "11:15 AM Millbridge Speedway",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-29T19:00:00-04:00",
-          "stop": "2026-09-29T23:00:00-04:00",
-          "title": "Dana White Contender Series S10W08"
-        },
-        {
-          "display_title": "11:15 AM Millbridge Speedway",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-09-29T18:15:00-04:00",
-          "stop": "2026-09-29T22:15:00-04:00",
+          "start": "2026-09-30T18:15:00-04:00",
+          "stop": "2026-09-30T22:15:00-04:00",
           "title": "Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627623275,
-      "message_timestamp": 1790654430,
+      "message_id": 627963470,
+      "message_timestamp": 1790740834,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-29T08:44:26.953940+00:00"
+      "updated_at": "2026-09-30T08:45:41.242462+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
