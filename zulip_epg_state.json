@@ -7,24 +7,24 @@
           "display_title": "11:15 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-09-30T18:15:00-04:00",
-          "stop": "2026-09-30T22:15:00-04:00",
+          "start": "2026-10-01T18:15:00-04:00",
+          "stop": "2026-10-01T22:15:00-04:00",
           "title": "Millbridge Speedway"
         },
         {
           "display_title": "11:15 AM Millbridge Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-09-30T18:15:00-04:00",
-          "stop": "2026-09-30T22:15:00-04:00",
+          "start": "2026-10-01T18:15:00-04:00",
+          "stop": "2026-10-01T22:15:00-04:00",
           "title": "Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 627963466,
-      "message_timestamp": 1790740832,
+      "message_id": 628255960,
+      "message_timestamp": 1790827218,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-30T08:45:40.747227+00:00"
+      "updated_at": "2026-10-01T09:07:35.045183+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,117 +120,77 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:30 AM Roma vs Barcelona",
+          "display_title": "5:30 AM Austria Wien vs Inter",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-09-30T12:30:00-04:00",
-          "stop": "2026-09-30T16:30:00-04:00",
-          "title": "Roma vs Barcelona"
+          "start": "2026-10-01T12:30:00-04:00",
+          "stop": "2026-10-01T16:30:00-04:00",
+          "title": "Austria Wien vs Inter"
         },
         {
-          "display_title": "5:30 AM Paris FC vs Arsenal",
+          "display_title": "5:30 AM HB Køge vs Servette",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-09-30T12:30:00-04:00",
-          "stop": "2026-09-30T16:30:00-04:00",
-          "title": "Paris FC vs Arsenal"
+          "start": "2026-10-01T12:30:00-04:00",
+          "stop": "2026-10-01T16:30:00-04:00",
+          "title": "HB Køge vs Servette"
         },
         {
-          "display_title": "5:30 AM BK Häcken vs Juventus",
+          "display_title": "7:00 AM Man. City vs Real Madrid",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-09-30T12:30:00-04:00",
-          "stop": "2026-09-30T16:30:00-04:00",
-          "title": "BK Häcken vs Juventus"
+          "start": "2026-10-01T14:00:00-04:00",
+          "stop": "2026-10-01T18:00:00-04:00",
+          "title": "Man. City vs Real Madrid"
         },
         {
-          "display_title": "7:00 AM Lyonnes vs Chelsea",
+          "display_title": "7:00 AM PSG vs OH Leuven",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-09-30T14:00:00-04:00",
-          "stop": "2026-09-30T18:00:00-04:00",
-          "title": "Lyonnes vs Chelsea"
+          "start": "2026-10-01T14:00:00-04:00",
+          "stop": "2026-10-01T18:00:00-04:00",
+          "title": "PSG vs OH Leuven"
         },
         {
-          "display_title": "7:00 AM Benfica vs Bayern",
+          "display_title": "11:00 AM UFC 332: Press Conference",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-09-30T14:00:00-04:00",
-          "stop": "2026-09-30T18:00:00-04:00",
-          "title": "Benfica vs Bayern"
+          "start": "2026-10-01T18:00:00-04:00",
+          "stop": "2026-10-01T22:00:00-04:00",
+          "title": "UFC 332: Press Conference"
         },
         {
-          "display_title": "5:30 AM UEFA Women's Champions League: Roma vs Barcelona",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-09-30T12:30:00-04:00",
-          "stop": "2026-09-30T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: Roma vs Barcelona"
-        },
-        {
-          "display_title": "5:30 AM UEFA Women's Champions League: Paris FC vs Arsenal",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-09-30T12:30:00-04:00",
-          "stop": "2026-09-30T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: Paris FC vs Arsenal"
-        },
-        {
-          "display_title": "5:30 AM UEFA Women's Champions League: BK Häcken vs Juventus",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-09-30T12:30:00-04:00",
-          "stop": "2026-09-30T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: BK Häcken vs Juventus"
-        },
-        {
-          "display_title": "7:00 AM UEFA Women's Champions League: Lyonnes vs Chelsea",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-09-30T14:00:00-04:00",
-          "stop": "2026-09-30T18:00:00-04:00",
-          "title": "UEFA Women's Champions League: Lyonnes vs Chelsea"
-        },
-        {
-          "display_title": "7:00 AM UEFA Women's Champions League: Benfica vs Bayern",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-09-30T14:00:00-04:00",
-          "stop": "2026-09-30T18:00:00-04:00",
-          "title": "UEFA Women's Champions League: Benfica vs Bayern"
+          "display_title": "11:00 AM UFC 332: Press Conference em Português",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-10-01T18:00:00-04:00",
+          "stop": "2026-10-01T22:00:00-04:00",
+          "title": "UFC 332: Press Conference em Português"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 628074230,
-      "message_timestamp": 1790773216,
+      "message_id": 628300841,
+      "message_timestamp": 1790843430,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-30T16:26:39.999062+00:00"
+      "updated_at": "2026-10-01T09:07:35.125349+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "11:15 AM Millbridge Speedway",
+          "display_title": "2:00 AM MotoPlayGround Race Ponca City",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-09-30T18:15:00-04:00",
-          "stop": "2026-09-30T22:15:00-04:00",
-          "title": "Millbridge Speedway"
-        },
-        {
-          "display_title": "1:00 PM AEW Dynamite Pac Tribute Show",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-09-30T20:00:00-04:00",
-          "stop": "2026-10-01T00:00:00-04:00",
-          "title": "AEW Dynamite Pac Tribute Show"
+          "start": "2026-10-01T09:00:00-04:00",
+          "stop": "2026-10-01T13:00:00-04:00",
+          "title": "MotoPlayGround Race Ponca City"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 628226470,
-      "message_timestamp": 1790812844,
+      "message_id": 628256001,
+      "message_timestamp": 1790827237,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-01T01:20:48.758919+00:00"
+      "updated_at": "2026-10-01T09:07:35.210440+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
