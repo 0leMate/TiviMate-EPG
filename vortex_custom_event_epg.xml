@@ -4981,7 +4981,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 20:00 AEW Dynamite Pac Tribute Show</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -5146,22 +5146,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001:</display-name>
+    <display-name>PPV ALT 001: EFC 138: Djikasa vs Born 18:00</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
     <display-name>PPV ALT 002</display-name>
-    <display-name>PPV ALT 002:</display-name>
+    <display-name>PPV ALT 002: EFC 138: Djikasa vs Born 18:00 BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.003">
     <display-name>PPV ALT 003</display-name>
-    <display-name>PPV ALT 003:</display-name>
+    <display-name>PPV ALT 003: Carter Efe vs Speed 18:30</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.004">
     <display-name>PPV ALT 004</display-name>
-    <display-name>PPV ALT 004:</display-name>
+    <display-name>PPV ALT 004: Carter Efe vs Speed 18:30 BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.005">
@@ -5651,7 +5651,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
     <display-name>PPV2 02</display-name>
-    <display-name>PPV2 02:</display-name>
+    <display-name>PPV2 02: 19:00 Worlds Collide 09-30</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
@@ -12779,8 +12779,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
+  <programme start="20260930190000 -0400" stop="20260930230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.02">
+    <title>12:00 PM Worlds Collide</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
   <programme start="20260930181500 -0400" stop="20260930221500 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
     <title>11:15 AM Millbridge Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20260930200000 -0400" stop="20261001000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>1:00 PM AEW Dynamite Pac Tribute Show</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

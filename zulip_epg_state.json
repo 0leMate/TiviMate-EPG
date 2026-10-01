@@ -216,13 +216,21 @@
           "start": "2026-09-30T18:15:00-04:00",
           "stop": "2026-09-30T22:15:00-04:00",
           "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "1:00 PM AEW Dynamite Pac Tribute Show",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-09-30T20:00:00-04:00",
+          "stop": "2026-10-01T00:00:00-04:00",
+          "title": "AEW Dynamite Pac Tribute Show"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 627963470,
-      "message_timestamp": 1790740834,
+      "message_id": 628226470,
+      "message_timestamp": 1790812844,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-30T08:45:41.242462+00:00"
+      "updated_at": "2026-10-01T01:20:48.758919+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -234,13 +242,21 @@
           "start": "2026-09-30T18:15:00-04:00",
           "stop": "2026-09-30T22:15:00-04:00",
           "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "12:00 PM Worlds Collide",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-09-30T19:00:00-04:00",
+          "stop": "2026-09-30T23:00:00-04:00",
+          "title": "Worlds Collide"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 628057548,
-      "message_timestamp": 1790769631,
+      "message_id": 628214381,
+      "message_timestamp": 1790807424,
       "timezone": "America/New_York",
-      "updated_at": "2026-09-30T16:26:41.206608+00:00"
+      "updated_at": "2026-10-01T01:20:49.250130+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
