@@ -226,14 +226,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "2:30 AM ONE Friday Fights 173 Tonglampoon vs Tobias",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-10-02T09:30:00-04:00",
-          "stop": "2026-10-02T13:30:00-04:00",
-          "title": "ONE Friday Fights 173 Tonglampoon vs Tobias"
-        },
-        {
           "display_title": "3:00 AM PFL Mena 11 Neda vs Saidy",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
@@ -363,10 +355,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 628551345,
-      "message_timestamp": 1790913659,
+      "message_id": 628745420,
+      "message_timestamp": 1790964016,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-02T05:54:28.439716+00:00"
+      "updated_at": "2026-10-02T19:24:45.368158+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -375,16 +367,112 @@
           "display_title": "2:00 AM MotoPlayGround Race at Ponca",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-10-01T09:00:00-04:00",
-          "stop": "2026-10-01T13:00:00-04:00",
+          "start": "2026-10-02T09:00:00-04:00",
+          "stop": "2026-10-02T13:00:00-04:00",
           "title": "MotoPlayGround Race at Ponca"
+        },
+        {
+          "display_title": "11:00 AM CARS Tour at Newport",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-10-02T18:00:00-04:00",
+          "stop": "2026-10-02T22:00:00-04:00",
+          "title": "CARS Tour at Newport"
+        },
+        {
+          "display_title": "11:00 AM SOIL Championship Off Road In San Bernardino",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-10-02T18:00:00-04:00",
+          "stop": "2026-10-02T22:00:00-04:00",
+          "title": "SOIL Championship Off Road In San Bernardino"
+        },
+        {
+          "display_title": "12:00 PM MARS FALS Frenzy at Fairbury",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-10-02T19:00:00-04:00",
+          "stop": "2026-10-02T23:00:00-04:00",
+          "title": "MARS FALS Frenzy at Fairbury"
+        },
+        {
+          "display_title": "12:30 PM ARCA West & CARS Tour West at Las Vegas Bullring",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-10-02T19:30:00-04:00",
+          "stop": "2026-10-02T23:30:00-04:00",
+          "title": "ARCA West & CARS Tour West at Las Vegas Bullring"
+        },
+        {
+          "display_title": "11:45 AM Williams Grove Speedway",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-10-02T18:45:00-04:00",
+          "stop": "2026-10-02T22:45:00-04:00",
+          "title": "Williams Grove Speedway"
+        },
+        {
+          "display_title": "12:15 PM Jacksonville Speedway",
+          "slot": "PPV2 08",
+          "slot_norm": "PPV2 8",
+          "start": "2026-10-02T19:15:00-04:00",
+          "stop": "2026-10-02T23:15:00-04:00",
+          "title": "Jacksonville Speedway"
+        },
+        {
+          "display_title": "2:00 PM Fury FC 125",
+          "slot": "PPV2 09",
+          "slot_norm": "PPV2 9",
+          "start": "2026-10-02T21:00:00-04:00",
+          "stop": "2026-10-03T01:00:00-04:00",
+          "title": "Fury FC 125"
+        },
+        {
+          "display_title": "6:00 AM Faour vs Sachbazjan",
+          "slot": "PPV2 12",
+          "slot_norm": "PPV2 12",
+          "start": "2026-10-02T13:00:00-04:00",
+          "stop": "2026-10-02T17:00:00-04:00",
+          "title": "Faour vs Sachbazjan"
+        },
+        {
+          "display_title": "12:30 PM Gamebred FC Dominican",
+          "slot": "PPV2 13",
+          "slot_norm": "PPV2 13",
+          "start": "2026-10-02T19:30:00-04:00",
+          "stop": "2026-10-02T23:30:00-04:00",
+          "title": "Gamebred FC Dominican"
+        },
+        {
+          "display_title": "1:00 PM Jones vs Sanchez",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-10-02T20:00:00-04:00",
+          "stop": "2026-10-03T00:00:00-04:00",
+          "title": "Jones vs Sanchez"
+        },
+        {
+          "display_title": "3:00 PM Cardenas vs Timko",
+          "slot": "PPV2 15",
+          "slot_norm": "PPV2 15",
+          "start": "2026-10-02T22:00:00-04:00",
+          "stop": "2026-10-03T02:00:00-04:00",
+          "title": "Cardenas vs Timko"
+        },
+        {
+          "display_title": "3:00 PM ONE Fight Night Erdogan vs Elliott",
+          "slot": "PPV2 16",
+          "slot_norm": "PPV2 16",
+          "start": "2026-10-02T22:00:00-04:00",
+          "stop": "2026-10-03T02:00:00-04:00",
+          "title": "ONE Fight Night Erdogan vs Elliott"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 628361598,
-      "message_timestamp": 1790857824,
+      "message_id": 628662066,
+      "message_timestamp": 1790946039,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-01T17:03:53.958534+00:00"
+      "updated_at": "2026-10-02T19:24:45.594145+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -536,43 +624,35 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "4:30 AM Crosscountry Short Track: Lake Placid UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-10-03T01:30:00+10:00",
-          "stop": "2026-10-03T05:30:00+10:00",
-          "title": "Crosscountry Short Track: Lake Placid UCI Mountain Bike World Series 2026"
+          "display_title": "5:25 AM Gloucester vs Harlequins PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN ALT 014",
+          "slot_norm": "AU STAN ALT 14",
+          "start": "2026-10-04T03:25:00+11:00",
+          "stop": "2026-10-04T07:25:00+11:00",
+          "title": "Gloucester vs Harlequins PREM Rugby Round 2 2026/27"
         },
         {
-          "display_title": "7:40 AM Bath vs Exeter PREM Rugby Round 2 2026/27",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-10-03T04:40:00+10:00",
-          "stop": "2026-10-03T08:40:00+10:00",
-          "title": "Bath vs Exeter PREM Rugby Round 2 2026/27"
+          "display_title": "6:45 AM Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026",
+          "slot": "AU STAN ALT 015",
+          "slot_norm": "AU STAN ALT 15",
+          "start": "2026-10-04T04:45:00+11:00",
+          "stop": "2026-10-04T08:45:00+11:00",
+          "title": "Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026"
         },
         {
-          "display_title": "4:30 AM Crosscountry Short Track: Lake Placid UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-10-03T01:30:00+10:00",
-          "stop": "2026-10-03T05:30:00+10:00",
-          "title": "Crosscountry Short Track: Lake Placid UCI Mountain Bike World Series 2026"
-        },
-        {
-          "display_title": "7:40 AM Bath vs Exeter PREM Rugby Round 2 2026/27",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-10-03T04:40:00+10:00",
-          "stop": "2026-10-03T08:40:00+10:00",
-          "title": "Bath vs Exeter PREM Rugby Round 2 2026/27"
+          "display_title": "7:40 AM Newcastle vs Leicester PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN ALT 016",
+          "slot_norm": "AU STAN ALT 16",
+          "start": "2026-10-04T05:40:00+11:00",
+          "stop": "2026-10-04T09:40:00+11:00",
+          "title": "Newcastle vs Leicester PREM Rugby Round 2 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 628627966,
-      "message_timestamp": 1790937017,
+      "message_id": 628678645,
+      "message_timestamp": 1790949612,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-02T12:53:38.117019+00:00"
+      "updated_at": "2026-10-02T19:24:45.870747+00:00"
     }
   },
   "version": 1

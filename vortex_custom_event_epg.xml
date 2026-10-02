@@ -4976,7 +4976,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 09:30 ONE Friday Fights 173 Tonglampoon vs Tobias</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -5146,7 +5146,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.001">
     <display-name>PPV ALT 001</display-name>
-    <display-name>PPV ALT 001: ONE Friday Fights 173 &amp; The Inner Circle 33 14:30</display-name>
+    <display-name>PPV ALT 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
@@ -5646,7 +5646,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.01">
     <display-name>PPV2 01</display-name>
-    <display-name>PPV2 01:</display-name>
+    <display-name>PPV2 01: 09:00 MotoPlayGround Race at Ponca 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.02">
@@ -5656,37 +5656,37 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.03">
     <display-name>PPV2 03</display-name>
-    <display-name>PPV2 03:</display-name>
+    <display-name>PPV2 03: 18:00 CARS Tour at Newport 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.04">
     <display-name>PPV2 04</display-name>
-    <display-name>PPV2 04:</display-name>
+    <display-name>PPV2 04: 18:00 AMSOIL Championship Off Road In San Bernardino 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.05">
     <display-name>PPV2 05</display-name>
-    <display-name>PPV2 05:</display-name>
+    <display-name>PPV2 05: 19:00 MARS FALS Frenzy at Fairbury 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.06">
     <display-name>PPV2 06</display-name>
-    <display-name>PPV2 06:</display-name>
+    <display-name>PPV2 06: 19:30 ARCA West &amp; CARS Tour West at Las Vegas Bullring 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.07">
     <display-name>PPV2 07</display-name>
-    <display-name>PPV2 07:</display-name>
+    <display-name>PPV2 07: 18:45 Williams Grove Speedway 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.08">
     <display-name>PPV2 08</display-name>
-    <display-name>PPV2 08:</display-name>
+    <display-name>PPV2 08: 19:15 Jacksonville Speedway 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.09">
     <display-name>PPV2 09</display-name>
-    <display-name>PPV2 09:</display-name>
+    <display-name>PPV2 09: 21:00 Fury FC 125 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.10">
@@ -5701,27 +5701,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.12">
     <display-name>PPV2 12</display-name>
-    <display-name>PPV2 12:</display-name>
+    <display-name>PPV2 12: 13:00 Faour vs Sachbazjan 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.13">
     <display-name>PPV2 13</display-name>
-    <display-name>PPV2 13:</display-name>
+    <display-name>PPV2 13: 19:30 Gamebred FC Dominican 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.14">
     <display-name>PPV2 14</display-name>
-    <display-name>PPV2 14:</display-name>
+    <display-name>PPV2 14: 20:00 Jones vs Sanchez 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.15">
     <display-name>PPV2 15</display-name>
-    <display-name>PPV2 15:</display-name>
+    <display-name>PPV2 15: 22:00 Cardenas vs Timko 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.16">
     <display-name>PPV2 16</display-name>
-    <display-name>PPV2 16:</display-name>
+    <display-name>PPV2 16: 22:00 ONE Fight Night Erdogan vs Elliott 10-02</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.2.PPV2.17">
@@ -10934,23 +10934,18 @@
     <display-name>UK D+ 010</display-name>
     <display-name>UK DISCOVERY+</display-name>
   </channel>
-  <programme start="20261003013000 +1000" stop="20261003053000 +1000" channel="custom.AU.STAN.AU.STAN.002">
-    <title>4:30 AM Crosscountry Short Track: Lake Placid UCI Mountain Bike World Series 2026</title>
+  <programme start="20261004032500 +1100" stop="20261004072500 +1100" channel="custom.AU.STAN.AU.STAN.ALT.014">
+    <title>5:25 AM Gloucester vs Harlequins PREM Rugby Round 2 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261003044000 +1000" stop="20261003084000 +1000" channel="custom.AU.STAN.AU.STAN.003">
-    <title>7:40 AM Bath vs Exeter PREM Rugby Round 2 2026/27</title>
+  <programme start="20261004044500 +1100" stop="20261004084500 +1100" channel="custom.AU.STAN.AU.STAN.ALT.015">
+    <title>6:45 AM Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261003013000 +1000" stop="20261003053000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.002">
-    <title>4:30 AM Crosscountry Short Track: Lake Placid UCI Mountain Bike World Series 2026</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20261003044000 +1000" stop="20261003084000 +1000" channel="custom.AU.STAN.AU.STAN.ALT.003">
-    <title>7:40 AM Bath vs Exeter PREM Rugby Round 2 2026/27</title>
+  <programme start="20261004054000 +1100" stop="20261004094000 +1100" channel="custom.AU.STAN.AU.STAN.ALT.016">
+    <title>7:40 AM Newcastle vs Leicester PREM Rugby Round 2 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -12844,15 +12839,70 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
-  <programme start="20261001090000 -0400" stop="20261001130000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
+  <programme start="20261002090000 -0400" stop="20261002130000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.01">
     <title>2:00 AM MotoPlayGround Race at Ponca</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261002093000 -0400" stop="20261002133000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>2:30 AM ONE Friday Fights 173 Tonglampoon vs Tobias</title>
+  <programme start="20261002180000 -0400" stop="20261002220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.03">
+    <title>11:00 AM CARS Tour at Newport</title>
     <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002180000 -0400" stop="20261002220000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.04">
+    <title>11:00 AM SOIL Championship Off Road In San Bernardino</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002190000 -0400" stop="20261002230000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.05">
+    <title>12:00 PM MARS FALS Frenzy at Fairbury</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002193000 -0400" stop="20261002233000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.06">
+    <title>12:30 PM ARCA West &amp; CARS Tour West at Las Vegas Bullring</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002184500 -0400" stop="20261002224500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.07">
+    <title>11:45 AM Williams Grove Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002191500 -0400" stop="20261002231500 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.08">
+    <title>12:15 PM Jacksonville Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002210000 -0400" stop="20261003010000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.09">
+    <title>2:00 PM Fury FC 125</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002130000 -0400" stop="20261002170000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.12">
+    <title>6:00 AM Faour vs Sachbazjan</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002193000 -0400" stop="20261002233000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.13">
+    <title>12:30 PM Gamebred FC Dominican</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002200000 -0400" stop="20261003000000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.14">
+    <title>1:00 PM Jones vs Sanchez</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002220000 -0400" stop="20261003020000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.15">
+    <title>3:00 PM Cardenas vs Timko</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261002220000 -0400" stop="20261003020000 -0400" channel="custom.PAY.PER.VIEW.2.PPV2.16">
+    <title>3:00 PM ONE Fight Night Erdogan vs Elliott</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
   <programme start="20261002100000 -0400" stop="20261002140000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>3:00 AM PFL Mena 11 Neda vs Saidy</title>
