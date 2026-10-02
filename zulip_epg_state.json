@@ -7,48 +7,48 @@
           "display_title": "11:15 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-01T18:15:00-04:00",
-          "stop": "2026-10-01T22:15:00-04:00",
+          "start": "2026-10-02T18:15:00-04:00",
+          "stop": "2026-10-02T22:15:00-04:00",
           "title": "Millbridge Speedway"
         },
         {
           "display_title": "11:00 AM Oswego Speedway",
           "slot": "DIRT ALT 06",
           "slot_norm": "DIRT ALT 6",
-          "start": "2026-10-01T18:00:00-04:00",
-          "stop": "2026-10-01T22:00:00-04:00",
+          "start": "2026-10-02T18:00:00-04:00",
+          "stop": "2026-10-02T22:00:00-04:00",
           "title": "Oswego Speedway"
         },
         {
           "display_title": "5:45 AM Oswego Speedway",
           "slot": "DIRT ALT 07",
           "slot_norm": "DIRT ALT 7",
-          "start": "2026-10-01T12:45:00-04:00",
-          "stop": "2026-10-01T16:45:00-04:00",
+          "start": "2026-10-02T12:45:00-04:00",
+          "stop": "2026-10-02T16:45:00-04:00",
           "title": "Oswego Speedway"
         },
         {
           "display_title": "5:45 AM Oswego Speedway",
           "slot": "DIRT ALT 08",
           "slot_norm": "DIRT ALT 8",
-          "start": "2026-10-01T12:45:00-04:00",
-          "stop": "2026-10-01T16:45:00-04:00",
+          "start": "2026-10-02T12:45:00-04:00",
+          "stop": "2026-10-02T16:45:00-04:00",
           "title": "Oswego Speedway"
         },
         {
           "display_title": "11:15 AM Millstream Speedway",
           "slot": "DIRT ALT 09",
           "slot_norm": "DIRT ALT 9",
-          "start": "2026-10-01T18:15:00-04:00",
-          "stop": "2026-10-01T22:15:00-04:00",
+          "start": "2026-10-02T18:15:00-04:00",
+          "stop": "2026-10-02T22:15:00-04:00",
           "title": "Millstream Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 628361575,
-      "message_timestamp": 1790857819,
+      "message_id": 628551279,
+      "message_timestamp": 1790913624,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-01T17:03:52.615773+00:00"
+      "updated_at": "2026-10-02T05:54:28.215452+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -144,125 +144,189 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:30 AM Austria Wien vs Inter",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-01T12:30:00-04:00",
-          "stop": "2026-10-01T16:30:00-04:00",
-          "title": "Austria Wien vs Inter"
+          "display_title": "3:50 AM UFC 332: Weigh In Desk Show",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-10-02T10:50:00-04:00",
+          "stop": "2026-10-02T14:50:00-04:00",
+          "title": "UFC 332: Weigh In Desk Show"
         },
         {
-          "display_title": "5:30 AM HB Køge vs Servette",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-10-01T12:30:00-04:00",
-          "stop": "2026-10-01T16:30:00-04:00",
-          "title": "HB Køge vs Servette"
+          "display_title": "11:00 AM UFC 332: Ceremonial Weigh In",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-10-02T18:00:00-04:00",
+          "stop": "2026-10-02T22:00:00-04:00",
+          "title": "UFC 332: Ceremonial Weigh In"
         },
         {
-          "display_title": "7:00 AM Man. City vs Real Madrid",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-10-01T14:00:00-04:00",
-          "stop": "2026-10-01T18:00:00-04:00",
-          "title": "Man. City vs Real Madrid"
+          "display_title": "11:00 AM UFC 332: Ceremonial Weigh In em Português",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-10-02T18:00:00-04:00",
+          "stop": "2026-10-02T22:00:00-04:00",
+          "title": "UFC 332: Ceremonial Weigh In em Português"
         },
         {
-          "display_title": "7:00 AM PSG vs OH Leuven",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-10-01T14:00:00-04:00",
-          "stop": "2026-10-01T18:00:00-04:00",
-          "title": "PSG vs OH Leuven"
-        },
-        {
-          "display_title": "11:00 AM UFC 332: Press Conference",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-10-01T18:00:00-04:00",
-          "stop": "2026-10-01T22:00:00-04:00",
-          "title": "UFC 332: Press Conference"
-        },
-        {
-          "display_title": "11:00 AM UFC 332: Press Conference em Português",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-10-01T18:00:00-04:00",
-          "stop": "2026-10-01T22:00:00-04:00",
-          "title": "UFC 332: Press Conference em Português"
-        },
-        {
-          "display_title": "5:30 AM UEFA Women's Champions League: Austria Wien vs Inter",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-10-01T12:30:00-04:00",
-          "stop": "2026-10-01T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: Austria Wien vs Inter"
-        },
-        {
-          "display_title": "5:30 AM UEFA Women's Champions League: HB Køge vs Servette",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-10-01T12:30:00-04:00",
-          "stop": "2026-10-01T16:30:00-04:00",
-          "title": "UEFA Women's Champions League: HB Køge vs Servette"
-        },
-        {
-          "display_title": "7:00 AM UEFA Women's Champions League: Man City vs Real Madrid",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-10-01T14:00:00-04:00",
-          "stop": "2026-10-01T18:00:00-04:00",
-          "title": "UEFA Women's Champions League: Man City vs Real Madrid"
-        },
-        {
-          "display_title": "7:00 AM UEFA Women's Champions League: PSG vs OH Leuven",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-10-01T14:00:00-04:00",
-          "stop": "2026-10-01T18:00:00-04:00",
-          "title": "UEFA Women's Champions League: PSG vs OH Leuven"
-        },
-        {
-          "display_title": "11:00 AM UFC: UFC 332 Press Conference",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-10-01T18:00:00-04:00",
-          "stop": "2026-10-01T22:00:00-04:00",
-          "title": "UFC: UFC 332 Press Conference"
-        },
-        {
-          "display_title": "11:00 AM UFC: UFC 332 Press Conference em Português",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-10-01T18:00:00-04:00",
-          "stop": "2026-10-01T22:00:00-04:00",
-          "title": "UFC: UFC 332 Press Conference em Português"
+          "display_title": "1:45 PM PBR Teams: Rattler Days - Night 1",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-10-02T20:45:00-04:00",
+          "stop": "2026-10-03T00:45:00-04:00",
+          "title": "PBR Teams: Rattler Days - Night 1"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 628344577,
-      "message_timestamp": 1790854215,
+      "message_id": 628551344,
+      "message_timestamp": 1790913658,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-01T17:03:53.002550+00:00"
+      "updated_at": "2026-10-02T05:54:28.349869+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "2:00 AM MotoPlayGround Race Ponca City",
+          "display_title": "2:30 AM ONE Friday Fights 173 Tonglampoon vs Tobias",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-01T09:00:00-04:00",
-          "stop": "2026-10-01T13:00:00-04:00",
-          "title": "MotoPlayGround Race Ponca City"
+          "start": "2026-10-02T09:30:00-04:00",
+          "stop": "2026-10-02T13:30:00-04:00",
+          "title": "ONE Friday Fights 173 Tonglampoon vs Tobias"
+        },
+        {
+          "display_title": "3:00 AM PFL Mena 11 Neda vs Saidy",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-02T10:00:00-04:00",
+          "stop": "2026-10-02T14:00:00-04:00",
+          "title": "PFL Mena 11 Neda vs Saidy"
+        },
+        {
+          "display_title": "6:00 AM Faour vs Sachbazjan",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-10-02T13:00:00-04:00",
+          "stop": "2026-10-02T17:00:00-04:00",
+          "title": "Faour vs Sachbazjan"
+        },
+        {
+          "display_title": "12:30 PM Gamebread FC",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-10-02T19:30:00-04:00",
+          "stop": "2026-10-02T23:30:00-04:00",
+          "title": "Gamebread FC"
+        },
+        {
+          "display_title": "1:00 PM Jones vs Sanchez",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-10-02T20:00:00-04:00",
+          "stop": "2026-10-03T00:00:00-04:00",
+          "title": "Jones vs Sanchez"
+        },
+        {
+          "display_title": "2:00 PM Fury FC 125",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-10-02T21:00:00-04:00",
+          "stop": "2026-10-03T01:00:00-04:00",
+          "title": "Fury FC 125"
+        },
+        {
+          "display_title": "2:00 PM CFFC BJJ 18",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-10-02T21:00:00-04:00",
+          "stop": "2026-10-03T01:00:00-04:00",
+          "title": "CFFC BJJ 18"
+        },
+        {
+          "display_title": "3:00 PM Cardenas vs Timko",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-10-02T22:00:00-04:00",
+          "stop": "2026-10-03T02:00:00-04:00",
+          "title": "Cardenas vs Timko"
+        },
+        {
+          "display_title": "3:00 PM ONE Fight Night Erdogan vs Elliott",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-10-02T22:00:00-04:00",
+          "stop": "2026-10-03T02:00:00-04:00",
+          "title": "ONE Fight Night Erdogan vs Elliott"
+        },
+        {
+          "display_title": "4:00 PM LUX 063",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-10-02T23:00:00-04:00",
+          "stop": "2026-10-03T03:00:00-04:00",
+          "title": "LUX 063"
+        },
+        {
+          "display_title": "2:00 AM MotoPlayground Race Ponca City",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-10-03T09:00:00-04:00",
+          "stop": "2026-10-03T13:00:00-04:00",
+          "title": "MotoPlayground Race Ponca City"
+        },
+        {
+          "display_title": "10:45 AM 53rd Annual NAPA Fall Finals Stafford",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-10-03T17:45:00-04:00",
+          "stop": "2026-10-03T21:45:00-04:00",
+          "title": "53rd Annual NAPA Fall Finals Stafford"
+        },
+        {
+          "display_title": "11:00 AM SOIL Championship Off Road",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-10-03T18:00:00-04:00",
+          "stop": "2026-10-03T22:00:00-04:00",
+          "title": "SOIL Championship Off Road"
+        },
+        {
+          "display_title": "11:45 AM World of Outlaws Sprint Cars Williams Grove",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-10-03T18:45:00-04:00",
+          "stop": "2026-10-03T22:45:00-04:00",
+          "title": "World of Outlaws Sprint Cars Williams Grove"
+        },
+        {
+          "display_title": "12:00 PM MARS FALS Frenzy Fairbury",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
+          "start": "2026-10-03T19:00:00-04:00",
+          "stop": "2026-10-03T23:00:00-04:00",
+          "title": "MARS FALS Frenzy Fairbury"
+        },
+        {
+          "display_title": "12:15 PM Jacksonville Sprints",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-10-03T19:15:00-04:00",
+          "stop": "2026-10-03T23:15:00-04:00",
+          "title": "Jacksonville Sprints"
+        },
+        {
+          "display_title": "12:30 PM ARCA West & CARS Tour West Las Vegas",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-10-03T19:30:00-04:00",
+          "stop": "2026-10-03T23:30:00-04:00",
+          "title": "ARCA West & CARS Tour West Las Vegas"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 628256001,
-      "message_timestamp": 1790827237,
+      "message_id": 628551345,
+      "message_timestamp": 1790913659,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-01T09:07:35.210440+00:00"
+      "updated_at": "2026-10-02T05:54:28.439716+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
