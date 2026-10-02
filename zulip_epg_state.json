@@ -226,14 +226,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "3:00 AM PFL Mena 11 Neda vs Saidy",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-02T10:00:00-04:00",
-          "stop": "2026-10-02T14:00:00-04:00",
-          "title": "PFL Mena 11 Neda vs Saidy"
-        },
-        {
           "display_title": "6:00 AM Faour vs Sachbazjan",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
@@ -355,10 +347,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 628745420,
-      "message_timestamp": 1790964016,
+      "message_id": 628771678,
+      "message_timestamp": 1790971265,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-02T19:24:45.368158+00:00"
+      "updated_at": "2026-10-02T23:52:17.633710+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

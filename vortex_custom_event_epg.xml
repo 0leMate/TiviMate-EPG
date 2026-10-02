@@ -4981,7 +4981,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 10:00 PFL Mena 11 Neda vs Saidy</display-name>
+    <display-name>PPV 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -5151,12 +5151,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.002">
     <display-name>PPV ALT 002</display-name>
-    <display-name>PPV ALT 002: Faour vs Sachbazjan 18:00</display-name>
+    <display-name>PPV ALT 002:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.003">
     <display-name>PPV ALT 003</display-name>
-    <display-name>PPV ALT 003: Faour vs Sachbazjan 18:00 BU</display-name>
+    <display-name>PPV ALT 003:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.ALT.004">
@@ -12903,11 +12903,6 @@
     <title>3:00 PM ONE Fight Night Erdogan vs Elliott</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20261002100000 -0400" stop="20261002140000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>3:00 AM PFL Mena 11 Neda vs Saidy</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261002130000 -0400" stop="20261002170000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
     <title>6:00 AM Faour vs Sachbazjan</title>
