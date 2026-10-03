@@ -4,43 +4,59 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "11:45 AM Williams Grove Speedway",
+          "display_title": "10:30 AM Millbridge Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-03T18:45:00-04:00",
-          "stop": "2026-10-03T22:45:00-04:00",
-          "title": "Williams Grove Speedway"
+          "start": "2026-10-03T17:30:00-04:00",
+          "stop": "2026-10-03T21:30:00-04:00",
+          "title": "Millbridge Speedway"
         },
         {
-          "display_title": "12:15 PM Jacksonville Speedway",
+          "display_title": "11:15 AM Cedar Lake Speedway",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-10-03T19:15:00-04:00",
-          "stop": "2026-10-03T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
+          "start": "2026-10-03T18:15:00-04:00",
+          "stop": "2026-10-03T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
         },
         {
           "display_title": "11:45 AM Williams Grove Speedway",
-          "slot": "DIRT ALT 01",
-          "slot_norm": "DIRT ALT 1",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
           "start": "2026-10-03T18:45:00-04:00",
           "stop": "2026-10-03T22:45:00-04:00",
           "title": "Williams Grove Speedway"
         },
         {
-          "display_title": "12:15 PM Jacksonville Speedway",
+          "display_title": "10:30 AM Millbridge Speedway",
+          "slot": "DIRT ALT 01",
+          "slot_norm": "DIRT ALT 1",
+          "start": "2026-10-03T17:30:00-04:00",
+          "stop": "2026-10-03T21:30:00-04:00",
+          "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "11:15 AM Cedar Lake Speedway",
           "slot": "DIRT ALT 02",
           "slot_norm": "DIRT ALT 2",
-          "start": "2026-10-03T19:15:00-04:00",
-          "stop": "2026-10-03T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
+          "start": "2026-10-03T18:15:00-04:00",
+          "stop": "2026-10-03T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
+        },
+        {
+          "display_title": "11:45 AM Williams Grove Speedway",
+          "slot": "DIRT ALT 03",
+          "slot_norm": "DIRT ALT 3",
+          "start": "2026-10-03T18:45:00-04:00",
+          "stop": "2026-10-03T22:45:00-04:00",
+          "title": "Williams Grove Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 628829332,
-      "message_timestamp": 1791000018,
+      "message_id": 628887589,
+      "message_timestamp": 1791039620,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-03T05:29:29.016216+00:00"
+      "updated_at": "2026-10-03T16:32:25.572262+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -230,13 +246,109 @@
           "start": "2026-10-03T20:00:00-04:00",
           "stop": "2026-10-04T00:00:00-04:00",
           "title": "PBR Teams: Rattler Days - Night 2"
+        },
+        {
+          "display_title": "1:20 AM Barclays Women's Super League: Man United vs Liverpool",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-10-04T08:20:00-04:00",
+          "stop": "2026-10-04T12:20:00-04:00",
+          "title": "Barclays Women's Super League: Man United vs Liverpool"
+        },
+        {
+          "display_title": "2:30 AM English Football League: Reading vs Bradford City",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-10-04T09:30:00-04:00",
+          "stop": "2026-10-04T13:30:00-04:00",
+          "title": "English Football League: Reading vs Bradford City"
+        },
+        {
+          "display_title": "2:30 AM English Football League: Grimsby Town vs Shrewsbury Town",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-10-04T09:30:00-04:00",
+          "stop": "2026-10-04T13:30:00-04:00",
+          "title": "English Football League: Grimsby Town vs Shrewsbury Town"
+        },
+        {
+          "display_title": "2:30 AM English Football League: Crewe Alexandra vs Bristol Rovers",
+          "slot": "PARAMOUNT ALT 04",
+          "slot_norm": "PARAMOUNT ALT 4",
+          "start": "2026-10-04T09:30:00-04:00",
+          "stop": "2026-10-04T13:30:00-04:00",
+          "title": "English Football League: Crewe Alexandra vs Bristol Rovers"
+        },
+        {
+          "display_title": "2:30 AM English Football League: Leyton Orient vs Plymouth Argyle",
+          "slot": "PARAMOUNT ALT 05",
+          "slot_norm": "PARAMOUNT ALT 5",
+          "start": "2026-10-04T09:30:00-04:00",
+          "stop": "2026-10-04T13:30:00-04:00",
+          "title": "English Football League: Leyton Orient vs Plymouth Argyle"
+        },
+        {
+          "display_title": "2:30 AM English Football League: Salford City vs Fleetwood Town",
+          "slot": "PARAMOUNT ALT 06",
+          "slot_norm": "PARAMOUNT ALT 6",
+          "start": "2026-10-04T09:30:00-04:00",
+          "stop": "2026-10-04T13:30:00-04:00",
+          "title": "English Football League: Salford City vs Fleetwood Town"
+        },
+        {
+          "display_title": "2:30 AM English Football League: Burton Albion vs Huddersfield Town",
+          "slot": "PARAMOUNT ALT 07",
+          "slot_norm": "PARAMOUNT ALT 7",
+          "start": "2026-10-04T09:30:00-04:00",
+          "stop": "2026-10-04T13:30:00-04:00",
+          "title": "English Football League: Burton Albion vs Huddersfield Town"
+        },
+        {
+          "display_title": "8:00 AM UFC: UFC 332 English",
+          "slot": "PARAMOUNT ALT 08",
+          "slot_norm": "PARAMOUNT ALT 8",
+          "start": "2026-10-04T15:00:00-04:00",
+          "stop": "2026-10-04T19:00:00-04:00",
+          "title": "UFC: UFC 332 English"
+        },
+        {
+          "display_title": "8:00 AM UFC: UFC 332 em Português",
+          "slot": "PARAMOUNT ALT 09",
+          "slot_norm": "PARAMOUNT ALT 9",
+          "start": "2026-10-04T15:00:00-04:00",
+          "stop": "2026-10-04T19:00:00-04:00",
+          "title": "UFC: UFC 332 em Português"
+        },
+        {
+          "display_title": "8:00 AM UFC: UFC 332 en Español",
+          "slot": "PARAMOUNT ALT 10",
+          "slot_norm": "PARAMOUNT ALT 10",
+          "start": "2026-10-04T15:00:00-04:00",
+          "stop": "2026-10-04T19:00:00-04:00",
+          "title": "UFC: UFC 332 en Español"
+        },
+        {
+          "display_title": "1:00 PM UFC: UFC 332 Multiview",
+          "slot": "PARAMOUNT ALT 11",
+          "slot_norm": "PARAMOUNT ALT 11",
+          "start": "2026-10-04T20:00:00-04:00",
+          "stop": "2026-10-05T00:00:00-04:00",
+          "title": "UFC: UFC 332 Multiview"
+        },
+        {
+          "display_title": "1:00 PM PBR Team Series: PBR Teams Rattler Days Night 2",
+          "slot": "PARAMOUNT ALT 12",
+          "slot_norm": "PARAMOUNT ALT 12",
+          "start": "2026-10-04T20:00:00-04:00",
+          "stop": "2026-10-05T00:00:00-04:00",
+          "title": "PBR Team Series: PBR Teams Rattler Days Night 2"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 628853435,
-      "message_timestamp": 1791016262,
+      "message_id": 628874085,
+      "message_timestamp": 1791030617,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-03T11:50:38.019707+00:00"
+      "updated_at": "2026-10-03T16:32:25.798670+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -444,115 +556,235 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "2:00 AM MotoPlayGround Race at Ponca",
+          "display_title": "9:00 AM EARLY PRELIMS UFC 332",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-10-02T09:00:00-04:00",
-          "stop": "2026-10-02T13:00:00-04:00",
+          "start": "2026-10-03T16:00:00-04:00",
+          "stop": "2026-10-03T20:00:00-04:00",
+          "title": "EARLY PRELIMS UFC 332"
+        },
+        {
+          "display_title": "9:00 AM EARLY PRELIMS UFC 332",
+          "slot": "PPV2 02",
+          "slot_norm": "PPV2 2",
+          "start": "2026-10-03T16:00:00-04:00",
+          "stop": "2026-10-03T20:00:00-04:00",
+          "title": "EARLY PRELIMS UFC 332"
+        },
+        {
+          "display_title": "11:00 AM PRELIMS UFC 332",
+          "slot": "PPV2 03",
+          "slot_norm": "PPV2 3",
+          "start": "2026-10-03T18:00:00-04:00",
+          "stop": "2026-10-03T22:00:00-04:00",
+          "title": "PRELIMS UFC 332"
+        },
+        {
+          "display_title": "11:00 AM PRELIMS UFC 332",
+          "slot": "PPV2 04",
+          "slot_norm": "PPV2 4",
+          "start": "2026-10-03T18:00:00-04:00",
+          "stop": "2026-10-03T22:00:00-04:00",
+          "title": "PRELIMS UFC 332"
+        },
+        {
+          "display_title": "1:00 PM UFC 332 Silva vs Cong",
+          "slot": "PPV2 05",
+          "slot_norm": "PPV2 5",
+          "start": "2026-10-03T20:00:00-04:00",
+          "stop": "2026-10-04T00:00:00-04:00",
+          "title": "UFC 332 Silva vs Cong"
+        },
+        {
+          "display_title": "1:00 PM UFC 332 Silva vs Cong",
+          "slot": "PPV2 06",
+          "slot_norm": "PPV2 6",
+          "start": "2026-10-03T20:00:00-04:00",
+          "stop": "2026-10-04T00:00:00-04:00",
+          "title": "UFC 332 Silva vs Cong"
+        },
+        {
+          "display_title": "1:00 PM UFC 332 Silva vs Cong",
+          "slot": "PPV2 07",
+          "slot_norm": "PPV2 7",
+          "start": "2026-10-03T20:00:00-04:00",
+          "stop": "2026-10-04T00:00:00-04:00",
+          "title": "UFC 332 Silva vs Cong"
+        },
+        {
+          "display_title": "1:00 PM MULTIVIEW UFC 332 Silva vs Cong",
+          "slot": "PPV2 08",
+          "slot_norm": "PPV2 8",
+          "start": "2026-10-03T20:00:00-04:00",
+          "stop": "2026-10-04T00:00:00-04:00",
+          "title": "MULTIVIEW UFC 332 Silva vs Cong"
+        },
+        {
+          "display_title": "4:15 PM POST FIGHT PRESS CONFERENCE UFC 332",
+          "slot": "PPV2 09",
+          "slot_norm": "PPV2 9",
+          "start": "2026-10-03T23:15:00-04:00",
+          "stop": "2026-10-04T03:15:00-04:00",
+          "title": "POST FIGHT PRESS CONFERENCE UFC 332"
+        },
+        {
+          "display_title": "4:00 PM GCW The Last Frontier The Sequel",
+          "slot": "PPV2 11",
+          "slot_norm": "PPV2 11",
+          "start": "2026-10-03T23:00:00-04:00",
+          "stop": "2026-10-04T03:00:00-04:00",
+          "title": "GCW The Last Frontier The Sequel"
+        },
+        {
+          "display_title": "5:00 AM PRELIMS Whittaker vs Wallace",
+          "slot": "PPV2 12",
+          "slot_norm": "PPV2 12",
+          "start": "2026-10-04T12:00:00-04:00",
+          "stop": "2026-10-04T16:00:00-04:00",
+          "title": "PRELIMS Whittaker vs Wallace"
+        },
+        {
+          "display_title": "7:00 AM Whittaker vs Wallace",
+          "slot": "PPV2 13",
+          "slot_norm": "PPV2 13",
+          "start": "2026-10-04T14:00:00-04:00",
+          "stop": "2026-10-04T18:00:00-04:00",
+          "title": "Whittaker vs Wallace"
+        },
+        {
+          "display_title": "6:00 AM MMA Bushido",
+          "slot": "PPV2 14",
+          "slot_norm": "PPV2 14",
+          "start": "2026-10-04T13:00:00-04:00",
+          "stop": "2026-10-04T17:00:00-04:00",
+          "title": "MMA Bushido"
+        },
+        {
+          "display_title": "2:00 AM MotoPlayGround Race at Ponca",
+          "slot": "PPV2 15",
+          "slot_norm": "PPV2 15",
+          "start": "2026-10-04T09:00:00-04:00",
+          "stop": "2026-10-04T13:00:00-04:00",
           "title": "MotoPlayGround Race at Ponca"
         },
         {
-          "display_title": "11:00 AM CARS Tour at Newport",
-          "slot": "PPV2 03",
-          "slot_norm": "PPV2 3",
-          "start": "2026-10-02T18:00:00-04:00",
-          "stop": "2026-10-02T22:00:00-04:00",
-          "title": "CARS Tour at Newport"
-        },
-        {
-          "display_title": "11:00 AM SOIL Championship Off Road In San Bernardino",
-          "slot": "PPV2 04",
-          "slot_norm": "PPV2 4",
-          "start": "2026-10-02T18:00:00-04:00",
-          "stop": "2026-10-02T22:00:00-04:00",
+          "display_title": "10:30 AM SOIL Championship Off Road In San Bernardino",
+          "slot": "PPV2 16",
+          "slot_norm": "PPV2 16",
+          "start": "2026-10-04T17:30:00-04:00",
+          "stop": "2026-10-04T21:30:00-04:00",
           "title": "SOIL Championship Off Road In San Bernardino"
         },
         {
-          "display_title": "12:00 PM MARS FALS Frenzy at Fairbury",
-          "slot": "PPV2 05",
-          "slot_norm": "PPV2 5",
-          "start": "2026-10-02T19:00:00-04:00",
-          "stop": "2026-10-02T23:00:00-04:00",
+          "display_title": "11:00 AM MARS FALS Frenzy at Fairbury",
+          "slot": "PPV2 17",
+          "slot_norm": "PPV2 17",
+          "start": "2026-10-04T18:00:00-04:00",
+          "stop": "2026-10-04T22:00:00-04:00",
           "title": "MARS FALS Frenzy at Fairbury"
         },
         {
-          "display_title": "12:30 PM ARCA West & CARS Tour West at Las Vegas Bullring",
-          "slot": "PPV2 06",
-          "slot_norm": "PPV2 6",
-          "start": "2026-10-02T19:30:00-04:00",
-          "stop": "2026-10-02T23:30:00-04:00",
-          "title": "ARCA West & CARS Tour West at Las Vegas Bullring"
+          "display_title": "2:30 AM Grand National Cross Country at Mason Dixon",
+          "slot": "PPV2 18",
+          "slot_norm": "PPV2 18",
+          "start": "2026-10-05T09:30:00-04:00",
+          "stop": "2026-10-05T13:30:00-04:00",
+          "title": "Grand National Cross Country at Mason Dixon"
+        },
+        {
+          "display_title": "5:55 AM Vermont Milk Bowl at Thunder Road",
+          "slot": "PPV2 19",
+          "slot_norm": "PPV2 19",
+          "start": "2026-10-05T12:55:00-04:00",
+          "stop": "2026-10-05T16:55:00-04:00",
+          "title": "Vermont Milk Bowl at Thunder Road"
+        },
+        {
+          "display_title": "7:00 AM Race of Champions Sportsman at Wyoming",
+          "slot": "PPV2 20",
+          "slot_norm": "PPV2 20",
+          "start": "2026-10-05T14:00:00-04:00",
+          "stop": "2026-10-05T18:00:00-04:00",
+          "title": "Race of Champions Sportsman at Wyoming"
+        },
+        {
+          "display_title": "7:00 AM USAC Rollie Beale Classic at Toledo",
+          "slot": "PPV2 21",
+          "slot_norm": "PPV2 21",
+          "start": "2026-10-05T14:00:00-04:00",
+          "stop": "2026-10-05T18:00:00-04:00",
+          "title": "USAC Rollie Beale Classic at Toledo"
+        },
+        {
+          "display_title": "9:45 AM Championship Weekend at Riverhead",
+          "slot": "PPV2 22",
+          "slot_norm": "PPV2 22",
+          "start": "2026-10-05T16:45:00-04:00",
+          "stop": "2026-10-05T20:45:00-04:00",
+          "title": "Championship Weekend at Riverhead"
+        },
+        {
+          "display_title": "10:45 AM Lucas Oil Pittsburgher at Pittsburgh",
+          "slot": "PPV2 23",
+          "slot_norm": "PPV2 23",
+          "start": "2026-10-05T17:45:00-04:00",
+          "stop": "2026-10-05T21:45:00-04:00",
+          "title": "Lucas Oil Pittsburgher at Pittsburgh"
+        },
+        {
+          "display_title": "11:15 AM NAPA All Star Circuit of Champions at Michaels Mercer",
+          "slot": "PPV2 25",
+          "slot_norm": "PPV2 25",
+          "start": "2026-10-05T18:15:00-04:00",
+          "stop": "2026-10-05T22:15:00-04:00",
+          "title": "NAPA All Star Circuit of Champions at Michaels Mercer"
+        },
+        {
+          "display_title": "1:45 PM NARC 410 Sprints at Thunderbowl",
+          "slot": "PPV2 26",
+          "slot_norm": "PPV2 26",
+          "start": "2026-10-05T20:45:00-04:00",
+          "stop": "2026-10-06T00:45:00-04:00",
+          "title": "NARC 410 Sprints at Thunderbowl"
+        },
+        {
+          "display_title": "3:00 PM A EnduroCross at Las Vegas",
+          "slot": "PPV2 27",
+          "slot_norm": "PPV2 27",
+          "start": "2026-10-05T22:00:00-04:00",
+          "stop": "2026-10-06T02:00:00-04:00",
+          "title": "A EnduroCross at Las Vegas"
+        },
+        {
+          "display_title": "10:30 AM Millbridge Speedway",
+          "slot": "PPV2 28",
+          "slot_norm": "PPV2 28",
+          "start": "2026-10-05T17:30:00-04:00",
+          "stop": "2026-10-05T21:30:00-04:00",
+          "title": "Millbridge Speedway"
+        },
+        {
+          "display_title": "11:15 AM Cedar Lake Speedway",
+          "slot": "PPV2 29",
+          "slot_norm": "PPV2 29",
+          "start": "2026-10-05T18:15:00-04:00",
+          "stop": "2026-10-05T22:15:00-04:00",
+          "title": "Cedar Lake Speedway"
         },
         {
           "display_title": "11:45 AM Williams Grove Speedway",
-          "slot": "PPV2 07",
-          "slot_norm": "PPV2 7",
-          "start": "2026-10-02T18:45:00-04:00",
-          "stop": "2026-10-02T22:45:00-04:00",
+          "slot": "PPV2 30",
+          "slot_norm": "PPV2 30",
+          "start": "2026-10-05T18:45:00-04:00",
+          "stop": "2026-10-05T22:45:00-04:00",
           "title": "Williams Grove Speedway"
-        },
-        {
-          "display_title": "12:15 PM Jacksonville Speedway",
-          "slot": "PPV2 08",
-          "slot_norm": "PPV2 8",
-          "start": "2026-10-02T19:15:00-04:00",
-          "stop": "2026-10-02T23:15:00-04:00",
-          "title": "Jacksonville Speedway"
-        },
-        {
-          "display_title": "2:00 PM Fury FC 125",
-          "slot": "PPV2 09",
-          "slot_norm": "PPV2 9",
-          "start": "2026-10-02T21:00:00-04:00",
-          "stop": "2026-10-03T01:00:00-04:00",
-          "title": "Fury FC 125"
-        },
-        {
-          "display_title": "6:00 AM Faour vs Sachbazjan",
-          "slot": "PPV2 12",
-          "slot_norm": "PPV2 12",
-          "start": "2026-10-02T13:00:00-04:00",
-          "stop": "2026-10-02T17:00:00-04:00",
-          "title": "Faour vs Sachbazjan"
-        },
-        {
-          "display_title": "12:30 PM Gamebred FC Dominican",
-          "slot": "PPV2 13",
-          "slot_norm": "PPV2 13",
-          "start": "2026-10-02T19:30:00-04:00",
-          "stop": "2026-10-02T23:30:00-04:00",
-          "title": "Gamebred FC Dominican"
-        },
-        {
-          "display_title": "1:00 PM Jones vs Sanchez",
-          "slot": "PPV2 14",
-          "slot_norm": "PPV2 14",
-          "start": "2026-10-02T20:00:00-04:00",
-          "stop": "2026-10-03T00:00:00-04:00",
-          "title": "Jones vs Sanchez"
-        },
-        {
-          "display_title": "3:00 PM Cardenas vs Timko",
-          "slot": "PPV2 15",
-          "slot_norm": "PPV2 15",
-          "start": "2026-10-02T22:00:00-04:00",
-          "stop": "2026-10-03T02:00:00-04:00",
-          "title": "Cardenas vs Timko"
-        },
-        {
-          "display_title": "3:00 PM ONE Fight Night Erdogan vs Elliott",
-          "slot": "PPV2 16",
-          "slot_norm": "PPV2 16",
-          "start": "2026-10-02T22:00:00-04:00",
-          "stop": "2026-10-03T02:00:00-04:00",
-          "title": "ONE Fight Night Erdogan vs Elliott"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 628662066,
-      "message_timestamp": 1790946039,
+      "message_id": 628876710,
+      "message_timestamp": 1791032416,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-02T19:24:45.594145+00:00"
+      "updated_at": "2026-10-03T16:32:26.326676+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -648,22 +880,6 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "1:20 AM Manchester United vs Liverpool WSL 2026/27",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-10-03T22:20:00+10:00",
-          "stop": "2026-10-04T02:20:00+10:00",
-          "title": "Manchester United vs Liverpool WSL 2026/27"
-        },
-        {
-          "display_title": "1:30 AM SS11 LernoMonti di Ala\\` 2 WRC Italy 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-10-03T22:30:00+10:00",
-          "stop": "2026-10-04T02:30:00+10:00",
-          "title": "SS11 LernoMonti di Ala\\` 2 WRC Italy 2026"
-        },
-        {
           "display_title": "3:00 AM Bristol vs Northampton PREM Rugby Round 2 2026/27",
           "slot": "AU STAN 004",
           "slot_norm": "AU STAN 4",
@@ -696,59 +912,195 @@
           "title": "Newcastle vs Leicester PREM Rugby Round 2 2026/27"
         },
         {
-          "display_title": "1:20 AM Manchester United vs Liverpool WSL 2026/27",
-          "slot": "AU STAN ALT 002",
-          "slot_norm": "AU STAN ALT 2",
-          "start": "2026-10-03T22:20:00+10:00",
-          "stop": "2026-10-04T02:20:00+10:00",
-          "title": "Manchester United vs Liverpool WSL 2026/27"
+          "display_title": "11:25 AM Kansas City Current vs Bay FC NWSL 2026",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
+          "start": "2026-10-04T09:25:00+11:00",
+          "stop": "2026-10-04T13:25:00+11:00",
+          "title": "Kansas City Current vs Bay FC NWSL 2026"
         },
         {
-          "display_title": "1:30 AM SS11 LernoMonti di Ala\\` 2 WRC Italy 2026",
-          "slot": "AU STAN ALT 003",
-          "slot_norm": "AU STAN ALT 3",
-          "start": "2026-10-03T22:30:00+10:00",
-          "stop": "2026-10-04T02:30:00+10:00",
-          "title": "SS11 LernoMonti di Ala\\` 2 WRC Italy 2026"
+          "display_title": "12:25 PM AUS School Boys XV vs New Zealand Maori Australian Schoolboys/U18s 2026",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
+          "start": "2026-10-04T10:25:00+11:00",
+          "stop": "2026-10-04T14:25:00+11:00",
+          "title": "AUS School Boys XV vs New Zealand Maori Australian Schoolboys/U18s 2026"
         },
         {
-          "display_title": "3:00 AM Bristol vs Northampton PREM Rugby Round 2 2026/27",
+          "display_title": "1:40 PM Portland Thorns vs Boston Legacy NWSL 2026",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
+          "start": "2026-10-04T11:40:00+11:00",
+          "stop": "2026-10-04T15:40:00+11:00",
+          "title": "Portland Thorns vs Boston Legacy NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM Taranaki vs Wellington NPC Round 10 2026",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
+          "start": "2026-10-04T12:00:00+11:00",
+          "stop": "2026-10-04T16:00:00+11:00",
+          "title": "Taranaki vs Wellington NPC Round 10 2026"
+        },
+        {
+          "display_title": "3:25 PM AUS U18s vs New Zealand Schools Australian Schoolboys/U18s 2026",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-10-04T13:25:00+11:00",
+          "stop": "2026-10-04T17:25:00+11:00",
+          "title": "AUS U18s vs New Zealand Schools Australian Schoolboys/U18s 2026"
+        },
+        {
+          "display_title": "4:00 PM Beijing: Day 5 WTA 1000",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-10-04T14:00:00+11:00",
+          "stop": "2026-10-04T18:00:00+11:00",
+          "title": "Beijing: Day 5 WTA 1000"
+        },
+        {
+          "display_title": "4:30 PM Bay Of Plenty vs North Harbour NPC Round 10 2026",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-10-04T14:30:00+11:00",
+          "stop": "2026-10-04T18:30:00+11:00",
+          "title": "Bay Of Plenty vs North Harbour NPC Round 10 2026"
+        },
+        {
+          "display_title": "9:00 PM SS15 Sassari • Argentiera 1 WRC Italy 2026",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-10-04T19:00:00+11:00",
+          "stop": "2026-10-04T23:00:00+11:00",
+          "title": "SS15 Sassari • Argentiera 1 WRC Italy 2026"
+        },
+        {
+          "display_title": "10:50 PM Spain vs South Africa WXV 2026",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-10-04T20:50:00+11:00",
+          "stop": "2026-10-05T00:50:00+11:00",
+          "title": "Spain vs South Africa WXV 2026"
+        },
+        {
+          "display_title": "12:00 AM Race 1 (MXGP & MX2) France Motocross of Nations 2026",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-10-04T22:00:00+11:00",
+          "stop": "2026-10-05T02:00:00+11:00",
+          "title": "Race 1 (MXGP & MX2) France Motocross of Nations 2026"
+        },
+        {
+          "display_title": "1:00 AM SS17 Sassari • Argentiera 2 (Wolf Power Stage) WRC Italy 2026",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-10-04T23:00:00+11:00",
+          "stop": "2026-10-05T03:00:00+11:00",
+          "title": "SS17 Sassari • Argentiera 2 (Wolf Power Stage) WRC Italy 2026"
+        },
+        {
+          "display_title": "1:30 AM Race 2 (MX2 & Open) France Motocross of Nations 2026",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
+          "start": "2026-10-04T23:30:00+11:00",
+          "stop": "2026-10-05T03:30:00+11:00",
+          "title": "Race 2 (MX2 & Open) France Motocross of Nations 2026"
+        },
+        {
+          "display_title": "1:50 AM West Ham United vs Chelsea WSL 2026/27",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-10-04T23:50:00+11:00",
+          "stop": "2026-10-05T03:50:00+11:00",
+          "title": "West Ham United vs Chelsea WSL 2026/27"
+        },
+        {
+          "display_title": "1:50 AM Everton vs Birmingham City WSL 2026/27",
+          "slot": "AU STAN 021",
+          "slot_norm": "AU STAN 21",
+          "start": "2026-10-04T23:50:00+11:00",
+          "stop": "2026-10-05T03:50:00+11:00",
+          "title": "Everton vs Birmingham City WSL 2026/27"
+        },
+        {
+          "display_title": "1:50 AM Tottenham Hotspur vs London City Lionesses WSL 2026/27",
+          "slot": "AU STAN 022",
+          "slot_norm": "AU STAN 22",
+          "start": "2026-10-04T23:50:00+11:00",
+          "stop": "2026-10-05T03:50:00+11:00",
+          "title": "Tottenham Hotspur vs London City Lionesses WSL 2026/27"
+        },
+        {
+          "display_title": "1:50 AM Brighton & Hove Albion vs Charlton Athletic WSL 2026/27",
+          "slot": "AU STAN 023",
+          "slot_norm": "AU STAN 23",
+          "start": "2026-10-04T23:50:00+11:00",
+          "stop": "2026-10-05T03:50:00+11:00",
+          "title": "Brighton & Hove Albion vs Charlton Athletic WSL 2026/27"
+        },
+        {
+          "display_title": "1:50 AM Aston Villa vs Crystal Palace WSL 2026/27",
+          "slot": "AU STAN 024",
+          "slot_norm": "AU STAN 24",
+          "start": "2026-10-04T23:50:00+11:00",
+          "stop": "2026-10-05T03:50:00+11:00",
+          "title": "Aston Villa vs Crystal Palace WSL 2026/27"
+        },
+        {
+          "display_title": "2:55 AM Race 3 (Open & MXGP) France Motocross of Nations 2026",
+          "slot": "AU STAN 025",
+          "slot_norm": "AU STAN 25",
+          "start": "2026-10-05T00:55:00+11:00",
+          "stop": "2026-10-05T04:55:00+11:00",
+          "title": "Race 3 (Open & MXGP) France Motocross of Nations 2026"
+        },
+        {
+          "display_title": "2:55 AM Saracens vs Sale PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN 026",
+          "slot_norm": "AU STAN 26",
+          "start": "2026-10-05T00:55:00+11:00",
+          "stop": "2026-10-05T04:55:00+11:00",
+          "title": "Saracens vs Sale PREM Rugby Round 2 2026/27"
+        },
+        {
+          "display_title": "4:20 AM Manchester City vs Arsenal WSL 2026/27",
+          "slot": "AU STAN 027",
+          "slot_norm": "AU STAN 27",
+          "start": "2026-10-05T02:20:00+11:00",
+          "stop": "2026-10-05T06:20:00+11:00",
+          "title": "Manchester City vs Arsenal WSL 2026/27"
+        },
+        {
+          "display_title": "5:05 AM Gotham FC vs Angel City FC NWSL 2026",
+          "slot": "AU STAN 028",
+          "slot_norm": "AU STAN 28",
+          "start": "2026-10-05T03:05:00+11:00",
+          "stop": "2026-10-05T07:05:00+11:00",
+          "title": "Gotham FC vs Angel City FC NWSL 2026"
+        },
+        {
+          "display_title": "5:45 AM Downhill: Lake Placid UCI Mountain Bike World Series 2026",
+          "slot": "AU STAN 029",
+          "slot_norm": "AU STAN 29",
+          "start": "2026-10-05T03:45:00+11:00",
+          "stop": "2026-10-05T07:45:00+11:00",
+          "title": "Downhill: Lake Placid UCI Mountain Bike World Series 2026"
+        },
+        {
+          "display_title": "2:00 AM Bristol vs Northampton PREM Rugby Round 2 2026/27",
           "slot": "AU STAN ALT 004",
           "slot_norm": "AU STAN ALT 4",
-          "start": "2026-10-04T00:00:00+10:00",
-          "stop": "2026-10-04T04:00:00+11:00",
+          "start": "2026-10-05T00:00:00+11:00",
+          "stop": "2026-10-05T04:00:00+11:00",
           "title": "Bristol vs Northampton PREM Rugby Round 2 2026/27"
-        },
-        {
-          "display_title": "5:25 AM Gloucester vs Harlequins PREM Rugby Round 2 2026/27",
-          "slot": "AU STAN ALT 005",
-          "slot_norm": "AU STAN ALT 5",
-          "start": "2026-10-04T03:25:00+11:00",
-          "stop": "2026-10-04T07:25:00+11:00",
-          "title": "Gloucester vs Harlequins PREM Rugby Round 2 2026/27"
-        },
-        {
-          "display_title": "6:45 AM Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN ALT 006",
-          "slot_norm": "AU STAN ALT 6",
-          "start": "2026-10-04T04:45:00+11:00",
-          "stop": "2026-10-04T08:45:00+11:00",
-          "title": "Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026"
-        },
-        {
-          "display_title": "7:40 AM Newcastle vs Leicester PREM Rugby Round 2 2026/27",
-          "slot": "AU STAN ALT 007",
-          "slot_norm": "AU STAN ALT 7",
-          "start": "2026-10-04T05:40:00+11:00",
-          "stop": "2026-10-04T09:40:00+11:00",
-          "title": "Newcastle vs Leicester PREM Rugby Round 2 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 628863882,
-      "message_timestamp": 1791023418,
+      "message_id": 628892983,
+      "message_timestamp": 1791043226,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-03T11:50:39.255203+00:00"
+      "updated_at": "2026-10-03T16:32:26.776410+00:00"
     }
   },
   "version": 1
