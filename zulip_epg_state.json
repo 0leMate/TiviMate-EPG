@@ -137,106 +137,106 @@
       "events": [
         {
           "display_title": "1:20 AM Man. United vs Liverpool",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-10-03T08:20:00-04:00",
           "stop": "2026-10-03T12:20:00-04:00",
           "title": "Man. United vs Liverpool"
         },
         {
           "display_title": "2:30 AM Reading vs Bradford City",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-10-03T09:30:00-04:00",
           "stop": "2026-10-03T13:30:00-04:00",
           "title": "Reading vs Bradford City"
         },
         {
           "display_title": "2:30 AM Grimsby Town vs Shrewsbury Town",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-10-03T09:30:00-04:00",
           "stop": "2026-10-03T13:30:00-04:00",
           "title": "Grimsby Town vs Shrewsbury Town"
         },
         {
           "display_title": "2:30 AM Crewe Alexandra vs Bristol Rovers",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-10-03T09:30:00-04:00",
           "stop": "2026-10-03T13:30:00-04:00",
           "title": "Crewe Alexandra vs Bristol Rovers"
         },
         {
           "display_title": "2:30 AM Leyton Orient vs Plymouth Argyle",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-10-03T09:30:00-04:00",
           "stop": "2026-10-03T13:30:00-04:00",
           "title": "Leyton Orient vs Plymouth Argyle"
         },
         {
           "display_title": "2:30 AM Salford City vs Fleetwood Town",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-10-03T09:30:00-04:00",
           "stop": "2026-10-03T13:30:00-04:00",
           "title": "Salford City vs Fleetwood Town"
         },
         {
           "display_title": "2:30 AM Burton Albion vs Huddersfield Town",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-10-03T09:30:00-04:00",
           "stop": "2026-10-03T13:30:00-04:00",
           "title": "Burton Albion vs Huddersfield Town"
         },
         {
           "display_title": "8:00 AM UFC 332: English",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-10-03T15:00:00-04:00",
           "stop": "2026-10-03T19:00:00-04:00",
           "title": "UFC 332: English"
         },
         {
           "display_title": "8:00 AM UFC 332 em Português",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-10-03T15:00:00-04:00",
           "stop": "2026-10-03T19:00:00-04:00",
           "title": "UFC 332 em Português"
         },
         {
           "display_title": "8:00 AM UFC 332 en Español",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-10-03T15:00:00-04:00",
           "stop": "2026-10-03T19:00:00-04:00",
           "title": "UFC 332 en Español"
         },
         {
           "display_title": "1:00 PM UFC 332: Multiview",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-10-03T20:00:00-04:00",
           "stop": "2026-10-04T00:00:00-04:00",
           "title": "UFC 332: Multiview"
         },
         {
           "display_title": "1:00 PM PBR Teams: Rattler Days - Night 2",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
           "start": "2026-10-03T20:00:00-04:00",
           "stop": "2026-10-04T00:00:00-04:00",
           "title": "PBR Teams: Rattler Days - Night 2"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 628829394,
-      "message_timestamp": 1791000056,
+      "message_id": 628853435,
+      "message_timestamp": 1791016262,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-03T05:29:29.080383+00:00"
+      "updated_at": "2026-10-03T11:50:38.019707+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -558,181 +558,197 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "5:45 AM Accrington vs Sunderland U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Accrington vs Sunderland U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+          "display_title": "2:45 AM Burton vs Huddersfield // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Burton vs Huddersfield // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
         },
         {
-          "display_title": "5:45 AM Barnsley vs Leeds U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Barnsley vs Leeds U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+          "display_title": "2:45 AM Leyton Orient vs Plymouth // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Leyton Orient vs Plymouth // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
         },
         {
-          "display_title": "5:45 AM Burton vs Nottm Forest U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
+          "display_title": "2:45 AM Accrington vs Cheltenham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Accrington vs Cheltenham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Crewe vs Bristol Rovers // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Crewe vs Bristol Rovers // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Exeter vs Rotherham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Exeter vs Rotherham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Gillingham vs Newport // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Gillingham vs Newport // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Grimsby vs Shrewsbury // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Grimsby vs Shrewsbury // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Rochdale vs Swindon // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Rochdale vs Swindon // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Salford vs Fleetwood // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Salford vs Fleetwood // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+        },
+        {
+          "display_title": "2:45 AM Colchester vs Luton // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
           "slot": "SKY SPORTS+ 16",
           "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Burton vs Nottm Forest U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Chesterfield vs Port Vale // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Chesterfield vs Port Vale // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Crewe vs Aston Villa U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Crewe vs Aston Villa U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Gillingham vs Cambridge U // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Gillingham vs Cambridge U // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Leicester vs Fulham U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Leicester vs Fulham U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Luton vs Ipswich U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Luton vs Ipswich U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Mk Dons vs Crawley // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 22",
-          "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Mk Dons vs Crawley // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Notts County vs Grimsby // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 23",
-          "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Notts County vs Grimsby // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Oldham vs Fleetwood // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 24",
-          "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Oldham vs Fleetwood // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Peterborough vs Colchester // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 25",
-          "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Peterborough vs Colchester // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Plymouth vs Crystal Palace U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 26",
-          "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Plymouth vs Crystal Palace U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Rochdale vs Liverpool U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 27",
-          "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Rochdale vs Liverpool U21 // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Swindon vs Newport // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 28",
-          "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Swindon vs Newport // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Tranmere vs Shrewsbury // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 29",
-          "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Tranmere vs Shrewsbury // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
-        },
-        {
-          "display_title": "5:45 AM Wigan vs Blackpool // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm",
-          "slot": "SKY SPORTS+ 31",
-          "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-09-22T18:45:00+01:00",
-          "stop": "2026-09-22T22:45:00+01:00",
-          "title": "Wigan vs Blackpool // UK Tue 22 Sep // ET Tue 22 Sep 1:45pm"
+          "start": "2026-10-03T14:45:00+01:00",
+          "stop": "2026-10-03T18:45:00+01:00",
+          "title": "Colchester vs Luton // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 625880265,
-      "message_timestamp": 1790035257,
+      "message_id": 628855853,
+      "message_timestamp": 1791018018,
       "timezone": "Europe/London",
-      "updated_at": "2026-09-22T05:10:24.315936+00:00"
+      "updated_at": "2026-10-03T11:50:38.935227+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "1:20 AM Manchester United vs Liverpool WSL 2026/27",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-10-03T22:20:00+10:00",
+          "stop": "2026-10-04T02:20:00+10:00",
+          "title": "Manchester United vs Liverpool WSL 2026/27"
+        },
+        {
+          "display_title": "1:30 AM SS11 LernoMonti di Ala\\` 2 WRC Italy 2026",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-10-03T22:30:00+10:00",
+          "stop": "2026-10-04T02:30:00+10:00",
+          "title": "SS11 LernoMonti di Ala\\` 2 WRC Italy 2026"
+        },
+        {
+          "display_title": "3:00 AM Bristol vs Northampton PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-10-04T00:00:00+10:00",
+          "stop": "2026-10-04T04:00:00+11:00",
+          "title": "Bristol vs Northampton PREM Rugby Round 2 2026/27"
+        },
+        {
           "display_title": "5:25 AM Gloucester vs Harlequins PREM Rugby Round 2 2026/27",
-          "slot": "AU STAN ALT 014",
-          "slot_norm": "AU STAN ALT 14",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-10-04T03:25:00+11:00",
           "stop": "2026-10-04T07:25:00+11:00",
           "title": "Gloucester vs Harlequins PREM Rugby Round 2 2026/27"
         },
         {
           "display_title": "6:45 AM Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026",
-          "slot": "AU STAN ALT 015",
-          "slot_norm": "AU STAN ALT 15",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-10-04T04:45:00+11:00",
           "stop": "2026-10-04T08:45:00+11:00",
           "title": "Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026"
         },
         {
           "display_title": "7:40 AM Newcastle vs Leicester PREM Rugby Round 2 2026/27",
-          "slot": "AU STAN ALT 016",
-          "slot_norm": "AU STAN ALT 16",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-10-04T05:40:00+11:00",
+          "stop": "2026-10-04T09:40:00+11:00",
+          "title": "Newcastle vs Leicester PREM Rugby Round 2 2026/27"
+        },
+        {
+          "display_title": "1:20 AM Manchester United vs Liverpool WSL 2026/27",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-10-03T22:20:00+10:00",
+          "stop": "2026-10-04T02:20:00+10:00",
+          "title": "Manchester United vs Liverpool WSL 2026/27"
+        },
+        {
+          "display_title": "1:30 AM SS11 LernoMonti di Ala\\` 2 WRC Italy 2026",
+          "slot": "AU STAN ALT 003",
+          "slot_norm": "AU STAN ALT 3",
+          "start": "2026-10-03T22:30:00+10:00",
+          "stop": "2026-10-04T02:30:00+10:00",
+          "title": "SS11 LernoMonti di Ala\\` 2 WRC Italy 2026"
+        },
+        {
+          "display_title": "3:00 AM Bristol vs Northampton PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN ALT 004",
+          "slot_norm": "AU STAN ALT 4",
+          "start": "2026-10-04T00:00:00+10:00",
+          "stop": "2026-10-04T04:00:00+11:00",
+          "title": "Bristol vs Northampton PREM Rugby Round 2 2026/27"
+        },
+        {
+          "display_title": "5:25 AM Gloucester vs Harlequins PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN ALT 005",
+          "slot_norm": "AU STAN ALT 5",
+          "start": "2026-10-04T03:25:00+11:00",
+          "stop": "2026-10-04T07:25:00+11:00",
+          "title": "Gloucester vs Harlequins PREM Rugby Round 2 2026/27"
+        },
+        {
+          "display_title": "6:45 AM Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026",
+          "slot": "AU STAN ALT 006",
+          "slot_norm": "AU STAN ALT 6",
+          "start": "2026-10-04T04:45:00+11:00",
+          "stop": "2026-10-04T08:45:00+11:00",
+          "title": "Crosscountry Olympic: Lake Placid UCI Mountain Bike World Series 2026"
+        },
+        {
+          "display_title": "7:40 AM Newcastle vs Leicester PREM Rugby Round 2 2026/27",
+          "slot": "AU STAN ALT 007",
+          "slot_norm": "AU STAN ALT 7",
           "start": "2026-10-04T05:40:00+11:00",
           "stop": "2026-10-04T09:40:00+11:00",
           "title": "Newcastle vs Leicester PREM Rugby Round 2 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 628678645,
-      "message_timestamp": 1790949612,
+      "message_id": 628863882,
+      "message_timestamp": 1791023418,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-02T19:24:45.870747+00:00"
+      "updated_at": "2026-10-03T11:50:39.255203+00:00"
     }
   },
   "version": 1
