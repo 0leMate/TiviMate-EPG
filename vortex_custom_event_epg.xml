@@ -4986,22 +4986,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 04:30 BKFC Fight Night Hepi vs Shewmaker</display-name>
+    <display-name>PPV 03: 09:00 MotoPlayground Race Ponca City</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 14:00 12/ Whittaker vs Wallace</display-name>
+    <display-name>PPV 04: 09:30 GNCC Mason</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05: 12:00 Fight Club Rush 31</display-name>
+    <display-name>PPV 05: 12:15 Vermont Milk Bowl Thunder Road</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
     <display-name>PPV 06</display-name>
-    <display-name>PPV 06: 13:00 Bushido MFC 55</display-name>
+    <display-name>PPV 06: 13:00 Championship Weekend Riverhead</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
@@ -5016,27 +5016,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.09">
     <display-name>PPV 09</display-name>
-    <display-name>PPV 09: 09:00 MotoPlayground Race Ponca City</display-name>
+    <display-name>PPV 09:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.10">
     <display-name>PPV 10</display-name>
-    <display-name>PPV 10: 09:30 GNCC Mason</display-name>
+    <display-name>PPV 10:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
     <display-name>PPV 11</display-name>
-    <display-name>PPV 11: 13:00 Vermont Milk Bowl Thunder Road</display-name>
+    <display-name>PPV 11:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.12">
     <display-name>PPV 12</display-name>
-    <display-name>PPV 12: 14:00 RoC Sportsman Wyoming</display-name>
+    <display-name>PPV 12:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.13">
     <display-name>PPV 13</display-name>
-    <display-name>PPV 13: 14:00 USAC Rollie Beale Classic Toledo</display-name>
+    <display-name>PPV 13:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.14">
@@ -5046,7 +5046,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.15">
     <display-name>PPV 15</display-name>
-    <display-name>PPV 15: 17:30 Millbridge Sprints</display-name>
+    <display-name>PPV 15:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.16">
@@ -5066,12 +5066,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.19">
     <display-name>PPV 19</display-name>
-    <display-name>PPV 19: 18:00 Championship NIght 1 Langley</display-name>
+    <display-name>PPV 19:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.20">
     <display-name>PPV 20</display-name>
-    <display-name>PPV 20: 18:15 Cedar Lake Late Models</display-name>
+    <display-name>PPV 20:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.21">
@@ -8751,47 +8751,47 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
     <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+ 02: 14:45 Burton vs Huddersfield // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 02:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
     <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+ 03: 14:45 Leyton Orient vs Plymouth // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 03:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
     <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+ 04: 14:45 Accrington vs Cheltenham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 04:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
     <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+ 05: 14:45 Crewe vs Bristol Rovers // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 05:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
     <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+ 06: 14:45 Exeter vs Rotherham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 06:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
     <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+ 07: 14:45 Gillingham vs Newport // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 07:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
     <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+ 08: 14:45 Grimsby vs Shrewsbury // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 08:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
     <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+ 09: 14:45 Rochdale vs Swindon // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 09:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.10">
     <display-name>SKY SPORTS+ 10</display-name>
-    <display-name>SKY SPORTS+ 10: 14:45 Salford vs Fleetwood // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 10:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.11">
@@ -8821,7 +8821,7 @@
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.16">
     <display-name>SKY SPORTS+ 16</display-name>
-    <display-name>SKY SPORTS+ 16: 14:45 Colchester vs Luton // UK Sat 3 Oct // ET Sat 3 Oct 9:45am</display-name>
+    <display-name>SKY SPORTS+ 16:</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.17">
@@ -12854,23 +12854,23 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261004043000 -0400" stop="20261004083000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>9:30 PM BKFC Fight Night Hepi vs Shewmaker</title>
+  <programme start="20261004090000 -0400" stop="20261004130000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>2:00 AM MotoPlayground Race Ponca City</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261004140000 -0400" stop="20261004180000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>7:00 AM 12/ Whittaker vs Wallace</title>
+  <programme start="20261004093000 -0400" stop="20261004133000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
+    <title>2:30 AM GNCC Mason</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261004120000 -0400" stop="20261004160000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>5:00 AM Fight Club Rush 31</title>
+  <programme start="20261004121500 -0400" stop="20261004161500 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>5:15 AM Vermont Milk Bowl Thunder Road</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261004130000 -0400" stop="20261004170000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
-    <title>6:00 AM Bushido MFC 55</title>
+    <title>6:00 AM Championship Weekend Riverhead</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -12884,82 +12884,42 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005090000 -0400" stop="20261005130000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
-    <title>2:00 AM MotoPlayground Race Ponca City</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005093000 -0400" stop="20261005133000 -0400" channel="custom.PAY.PER.VIEW.PPV.10">
-    <title>2:30 AM GNCC Mason</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005130000 -0400" stop="20261005170000 -0400" channel="custom.PAY.PER.VIEW.PPV.11">
-    <title>6:00 AM Vermont Milk Bowl Thunder Road</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005140000 -0400" stop="20261005180000 -0400" channel="custom.PAY.PER.VIEW.PPV.12">
-    <title>7:00 AM RoC Sportsman Wyoming</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005140000 -0400" stop="20261005180000 -0400" channel="custom.PAY.PER.VIEW.PPV.13">
-    <title>7:00 AM USAC Rollie Beale Classic Toledo</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005164500 -0400" stop="20261005204500 -0400" channel="custom.PAY.PER.VIEW.PPV.14">
+  <programme start="20261004164500 -0400" stop="20261004204500 -0400" channel="custom.PAY.PER.VIEW.PPV.14">
     <title>9:45 AM Championship Weekend Riverhead</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005173000 -0400" stop="20261005213000 -0400" channel="custom.PAY.PER.VIEW.PPV.15">
-    <title>10:30 AM Millbridge Sprints</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005173000 -0400" stop="20261005213000 -0400" channel="custom.PAY.PER.VIEW.PPV.16">
+  <programme start="20261004173000 -0400" stop="20261004213000 -0400" channel="custom.PAY.PER.VIEW.PPV.16">
     <title>10:30 AM SOIL Championship Off Road</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005174500 -0400" stop="20261005214500 -0400" channel="custom.PAY.PER.VIEW.PPV.17">
+  <programme start="20261004174500 -0400" stop="20261004214500 -0400" channel="custom.PAY.PER.VIEW.PPV.17">
     <title>10:45 AM Lucas Oil Pittsburgher PPMS</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005180000 -0400" stop="20261005220000 -0400" channel="custom.PAY.PER.VIEW.PPV.18">
+  <programme start="20261004180000 -0400" stop="20261004220000 -0400" channel="custom.PAY.PER.VIEW.PPV.18">
     <title>11:00 AM MARS FALS Frenzy Fairbury</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005180000 -0400" stop="20261005220000 -0400" channel="custom.PAY.PER.VIEW.PPV.19">
-    <title>11:00 AM Championship NIght 1 Langley</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005181500 -0400" stop="20261005221500 -0400" channel="custom.PAY.PER.VIEW.PPV.20">
-    <title>11:15 AM Cedar Lake Late Models</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261005181500 -0400" stop="20261005221500 -0400" channel="custom.PAY.PER.VIEW.PPV.21">
+  <programme start="20261004181500 -0400" stop="20261004221500 -0400" channel="custom.PAY.PER.VIEW.PPV.21">
     <title>11:15 AM NAPA All Star Sprints Mercer</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005184500 -0400" stop="20261005224500 -0400" channel="custom.PAY.PER.VIEW.PPV.22">
+  <programme start="20261004184500 -0400" stop="20261004224500 -0400" channel="custom.PAY.PER.VIEW.PPV.22">
     <title>11:45 AM World of Outlaws Sprint Cars Williams Grove</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005204500 -0400" stop="20261006004500 -0400" channel="custom.PAY.PER.VIEW.PPV.23">
+  <programme start="20261004204500 -0400" stop="20261005004500 -0400" channel="custom.PAY.PER.VIEW.PPV.23">
     <title>1:45 PM NARC 410 Sprints Thunderbowl</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261005220000 -0400" stop="20261006020000 -0400" channel="custom.PAY.PER.VIEW.PPV.24">
+  <programme start="20261004220000 -0400" stop="20261005020000 -0400" channel="custom.PAY.PER.VIEW.PPV.24">
     <title>3:00 PM A EnuroCross Las Vegas</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
