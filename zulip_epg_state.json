@@ -234,59 +234,35 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:30 PM Pancrase 367",
+          "display_title": "6:00 AM UAE Warriors 73",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-04T00:30:00-04:00",
-          "stop": "2026-10-04T04:30:00-04:00",
-          "title": "Pancrase 367"
-        },
-        {
-          "display_title": "11:00 PM ACA 208 Shaikhaev vs Tumenov",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-04T06:00:00-04:00",
-          "stop": "2026-10-04T10:00:00-04:00",
-          "title": "ACA 208 Shaikhaev vs Tumenov"
-        },
-        {
-          "display_title": "2:00 AM MotoPlayground Race Ponca City",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-10-04T09:00:00-04:00",
-          "stop": "2026-10-04T13:00:00-04:00",
-          "title": "MotoPlayground Race Ponca City"
-        },
-        {
-          "display_title": "2:30 AM GNCC Mason",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-10-04T09:30:00-04:00",
-          "stop": "2026-10-04T13:30:00-04:00",
-          "title": "GNCC Mason"
-        },
-        {
-          "display_title": "5:15 AM Vermont Milk Bowl Thunder Road",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-10-04T12:15:00-04:00",
-          "stop": "2026-10-04T16:15:00-04:00",
-          "title": "Vermont Milk Bowl Thunder Road"
-        },
-        {
-          "display_title": "6:00 AM Championship Weekend Riverhead",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
           "start": "2026-10-04T13:00:00-04:00",
           "stop": "2026-10-04T17:00:00-04:00",
-          "title": "Championship Weekend Riverhead"
+          "title": "UAE Warriors 73"
+        },
+        {
+          "display_title": "1:00 PM WWE Monday Night RAW",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-04T20:00:00-04:00",
+          "stop": "2026-10-05T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
+        },
+        {
+          "display_title": "11:00 AM Super Dirt Week Oswego",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-10-04T18:00:00-04:00",
+          "stop": "2026-10-04T22:00:00-04:00",
+          "title": "Super Dirt Week Oswego"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 628978416,
-      "message_timestamp": 1791086438,
+      "message_id": 629084027,
+      "message_timestamp": 1791151231,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-04T08:35:07.440115+00:00"
+      "updated_at": "2026-10-04T23:18:45.624105+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

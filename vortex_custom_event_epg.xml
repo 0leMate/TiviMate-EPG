@@ -4976,32 +4976,32 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 00:30 Pancrase 367</display-name>
+    <display-name>PPV 01: 13:00 UAE Warriors 73</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 06:00 ACA 208 Shaikhaev vs Tumenov</display-name>
+    <display-name>PPV 02: 20:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 09:00 MotoPlayground Race Ponca City</display-name>
+    <display-name>PPV 03: 18:00 Super Dirt Week Oswego</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 09:30 GNCC Mason</display-name>
+    <display-name>PPV 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05: 12:15 Vermont Milk Bowl Thunder Road</display-name>
+    <display-name>PPV 05:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
     <display-name>PPV 06</display-name>
-    <display-name>PPV 06: 13:00 Championship Weekend Riverhead</display-name>
+    <display-name>PPV 06:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
@@ -12574,33 +12574,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261004003000 -0400" stop="20261004043000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>5:30 PM Pancrase 367</title>
+  <programme start="20261004130000 -0400" stop="20261004170000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>6:00 AM UAE Warriors 73</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261004060000 -0400" stop="20261004100000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>11:00 PM ACA 208 Shaikhaev vs Tumenov</title>
+  <programme start="20261004200000 -0400" stop="20261005000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>1:00 PM WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261004090000 -0400" stop="20261004130000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>2:00 AM MotoPlayground Race Ponca City</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261004093000 -0400" stop="20261004133000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>2:30 AM GNCC Mason</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261004121500 -0400" stop="20261004161500 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>5:15 AM Vermont Milk Bowl Thunder Road</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261004130000 -0400" stop="20261004170000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
-    <title>6:00 AM Championship Weekend Riverhead</title>
+  <programme start="20261004180000 -0400" stop="20261004220000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>11:00 AM Super Dirt Week Oswego</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
