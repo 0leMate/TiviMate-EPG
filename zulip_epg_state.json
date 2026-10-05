@@ -237,32 +237,32 @@
           "display_title": "6:00 AM UAE Warriors 73",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-04T13:00:00-04:00",
-          "stop": "2026-10-04T17:00:00-04:00",
+          "start": "2026-10-05T13:00:00-04:00",
+          "stop": "2026-10-05T17:00:00-04:00",
           "title": "UAE Warriors 73"
         },
         {
           "display_title": "1:00 PM WWE Monday Night RAW",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-10-04T20:00:00-04:00",
-          "stop": "2026-10-05T00:00:00-04:00",
+          "start": "2026-10-05T20:00:00-04:00",
+          "stop": "2026-10-06T00:00:00-04:00",
           "title": "WWE Monday Night RAW"
         },
         {
           "display_title": "11:00 AM Super Dirt Week Oswego",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-10-04T18:00:00-04:00",
-          "stop": "2026-10-04T22:00:00-04:00",
+          "start": "2026-10-05T18:00:00-04:00",
+          "stop": "2026-10-05T22:00:00-04:00",
           "title": "Super Dirt Week Oswego"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 629084027,
-      "message_timestamp": 1791151231,
+      "message_id": 629122015,
+      "message_timestamp": 1791172825,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-04T23:18:45.624105+00:00"
+      "updated_at": "2026-10-05T05:56:27.530333+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
