@@ -4,35 +4,27 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "10:30 AM Millbridge Speedway",
+          "display_title": "11:00 AM Oswego Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-10-05T18:00:00-04:00",
+          "stop": "2026-10-05T22:00:00-04:00",
+          "title": "Oswego Speedway"
+        },
+        {
+          "display_title": "11:00 AM Oswego Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-10-04T17:30:00-04:00",
-          "stop": "2026-10-04T21:30:00-04:00",
-          "title": "Millbridge Speedway"
-        },
-        {
-          "display_title": "11:15 AM Cedar Lake Speedway",
-          "slot": "DIRT ALT 02",
-          "slot_norm": "DIRT ALT 2",
-          "start": "2026-10-04T18:15:00-04:00",
-          "stop": "2026-10-04T22:15:00-04:00",
-          "title": "Cedar Lake Speedway"
-        },
-        {
-          "display_title": "11:45 AM Williams Grove Speedway",
-          "slot": "DIRT ALT 03",
-          "slot_norm": "DIRT ALT 3",
-          "start": "2026-10-04T18:45:00-04:00",
-          "stop": "2026-10-04T22:45:00-04:00",
-          "title": "Williams Grove Speedway"
+          "start": "2026-10-05T18:00:00-04:00",
+          "stop": "2026-10-05T22:00:00-04:00",
+          "title": "Oswego Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 629030234,
-      "message_timestamp": 1791118809,
+      "message_id": 629263764,
+      "message_timestamp": 1791210611,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-04T15:25:51.958474+00:00"
+      "updated_at": "2026-10-05T15:00:38.156264+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -268,43 +260,35 @@
       "channel": "pay-per-view2",
       "events": [
         {
-          "display_title": "1:00 AM Grand National Cross Country at Mason Dixon",
+          "display_title": "1:00 PM WWE Monday Night RAW",
           "slot": "PPV2 01",
           "slot_norm": "PPV2 1",
-          "start": "2026-10-04T08:00:00-04:00",
-          "stop": "2026-10-04T12:00:00-04:00",
-          "title": "Grand National Cross Country at Mason Dixon"
+          "start": "2026-10-05T20:00:00-04:00",
+          "stop": "2026-10-06T00:00:00-04:00",
+          "title": "WWE Monday Night RAW"
         },
         {
-          "display_title": "2:00 AM MotoPlayGround Race at Ponca",
+          "display_title": "6:00 AM UAE Warriors 73",
           "slot": "PPV2 02",
           "slot_norm": "PPV2 2",
-          "start": "2026-10-04T09:00:00-04:00",
-          "stop": "2026-10-04T13:00:00-04:00",
-          "title": "MotoPlayGround Race at Ponca"
+          "start": "2026-10-05T13:00:00-04:00",
+          "stop": "2026-10-05T17:00:00-04:00",
+          "title": "UAE Warriors 73"
         },
         {
-          "display_title": "5:00 AM Vermont Milk Bowl at Thunder Road Speedbowl",
+          "display_title": "11:00 AM Oswego Speedway",
           "slot": "PPV2 03",
           "slot_norm": "PPV2 3",
-          "start": "2026-10-04T12:00:00-04:00",
-          "stop": "2026-10-04T16:00:00-04:00",
-          "title": "Vermont Milk Bowl at Thunder Road Speedbowl"
-        },
-        {
-          "display_title": "6:00 AM Championship Weekend at Riverhead",
-          "slot": "PPV2 04",
-          "slot_norm": "PPV2 4",
-          "start": "2026-10-04T13:00:00-04:00",
-          "stop": "2026-10-04T17:00:00-04:00",
-          "title": "Championship Weekend at Riverhead"
+          "start": "2026-10-05T18:00:00-04:00",
+          "stop": "2026-10-05T22:00:00-04:00",
+          "title": "Oswego Speedway"
         }
       ],
       "group": "PAY PER VIEW 2",
-      "message_id": 629024563,
-      "message_timestamp": 1791115223,
+      "message_id": 629210402,
+      "message_timestamp": 1791199817,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-04T15:25:52.514732+00:00"
+      "updated_at": "2026-10-05T15:00:38.413853+00:00"
     },
     "sky-sports-plus": {
       "channel": "sky-sports-plus",
@@ -400,27 +384,27 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "4:00 PM Beijing: Day 6 WTA 1000",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
-          "start": "2026-10-05T14:00:00+11:00",
-          "stop": "2026-10-05T18:00:00+11:00",
-          "title": "Beijing: Day 6 WTA 1000"
+          "display_title": "4:00 PM Beijing: Day 7 WTA 1000",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-10-06T14:00:00+11:00",
+          "stop": "2026-10-06T18:00:00+11:00",
+          "title": "Beijing: Day 7 WTA 1000"
         },
         {
-          "display_title": "4:00 PM Beijing: Day 6 WTA 1000",
-          "slot": "AU STAN ALT 030",
-          "slot_norm": "AU STAN ALT 30",
-          "start": "2026-10-05T14:00:00+11:00",
-          "stop": "2026-10-05T18:00:00+11:00",
-          "title": "Beijing: Day 6 WTA 1000"
+          "display_title": "4:00 PM Beijing: Day 7 WTA 1000",
+          "slot": "AU STAN ALT 002",
+          "slot_norm": "AU STAN ALT 2",
+          "start": "2026-10-06T14:00:00+11:00",
+          "stop": "2026-10-06T18:00:00+11:00",
+          "title": "Beijing: Day 7 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 629030237,
-      "message_timestamp": 1791118810,
+      "message_id": 629234279,
+      "message_timestamp": 1791205231,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-04T15:25:52.825210+00:00"
+      "updated_at": "2026-10-05T15:00:38.546731+00:00"
     }
   },
   "version": 1
