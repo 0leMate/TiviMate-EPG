@@ -294,91 +294,139 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "2:45 AM Burton vs Huddersfield // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Burton vs Huddersfield // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
-        },
-        {
-          "display_title": "2:45 AM Leyton Orient vs Plymouth // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Leyton Orient vs Plymouth // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
-        },
-        {
-          "display_title": "2:45 AM Accrington vs Cheltenham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Accrington vs Cheltenham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
-        },
-        {
-          "display_title": "2:45 AM Crewe vs Bristol Rovers // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Crewe vs Bristol Rovers // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
-        },
-        {
-          "display_title": "2:45 AM Exeter vs Rotherham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "display_title": "6:45 AM Accrington vs Salford // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Exeter vs Rotherham // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Accrington vs Salford // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
-          "display_title": "2:45 AM Gillingham vs Newport // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "display_title": "6:45 AM Blackpool vs Crewe // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Gillingham vs Newport // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Blackpool vs Crewe // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
-          "display_title": "2:45 AM Grimsby vs Shrewsbury // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "display_title": "6:45 AM Cambridge U vs Northampton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 08",
           "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Grimsby vs Shrewsbury // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Cambridge U vs Northampton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
-          "display_title": "2:45 AM Rochdale vs Swindon // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "display_title": "6:45 AM Exeter vs Oxford Utd // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Rochdale vs Swindon // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Exeter vs Oxford Utd // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
-          "display_title": "2:45 AM Salford vs Fleetwood // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "display_title": "6:45 AM Fleetwood vs Barnsley // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 10",
           "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Salford vs Fleetwood // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Fleetwood vs Barnsley // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
-          "display_title": "2:45 AM Colchester vs Luton // UK Sat 3 Oct // ET Sat 3 Oct 9:45am",
+          "display_title": "6:45 AM Grimsby vs Burton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Grimsby vs Burton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Huddersfield vs Rochdale // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Huddersfield vs Rochdale // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Mk Dons vs Brentford U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Mk Dons vs Brentford U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Newport vs Plymouth // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Newport vs Plymouth // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Peterborough vs Ipswich U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Peterborough vs Ipswich U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Port Vale vs Mansfield // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 16",
           "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-10-03T14:45:00+01:00",
-          "stop": "2026-10-03T18:45:00+01:00",
-          "title": "Colchester vs Luton // UK Sat 3 Oct // ET Sat 3 Oct 9:45am"
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Port Vale vs Mansfield // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Sheff Wed vs Sunderland U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 17",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Sheff Wed vs Sunderland U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Shrewsbury vs Stockport // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 18",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Shrewsbury vs Stockport // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Wimbledon vs Barnet // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Wimbledon vs Barnet // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "6:45 AM Wycombe vs Bristol Rovers // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-10-05T18:45:00+01:00",
+          "stop": "2026-10-05T22:45:00+01:00",
+          "title": "Wycombe vs Bristol Rovers // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+        },
+        {
+          "display_title": "7:30 AM Crawley vs Bromley // UK Tue 6 Oct // ET Tue 6 Oct 2:30pm",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-10-05T19:30:00+01:00",
+          "stop": "2026-10-05T23:30:00+01:00",
+          "title": "Crawley vs Bromley // UK Tue 6 Oct // ET Tue 6 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 628855853,
-      "message_timestamp": 1791018018,
+      "message_id": 629378594,
+      "message_timestamp": 1791239417,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-03T11:50:38.935227+00:00"
+      "updated_at": "2026-10-05T22:47:04.377976+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
