@@ -10,21 +10,13 @@
           "start": "2026-10-06T18:00:00-04:00",
           "stop": "2026-10-06T22:00:00-04:00",
           "title": "Oswego Speedway"
-        },
-        {
-          "display_title": "11:00 AM Oswego Speedway",
-          "slot": "DIRT ALT 01",
-          "slot_norm": "DIRT ALT 1",
-          "start": "2026-10-06T18:00:00-04:00",
-          "stop": "2026-10-06T22:00:00-04:00",
-          "title": "Oswego Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 629419649,
-      "message_timestamp": 1791259227,
+      "message_id": 629554432,
+      "message_timestamp": 1791295210,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-06T06:34:37.409952+00:00"
+      "updated_at": "2026-10-06T15:18:42.821636+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -142,13 +134,37 @@
           "start": "2026-10-06T19:00:00-04:00",
           "stop": "2026-10-06T23:00:00-04:00",
           "title": "Dana White\\`s Contender Series en Español"
+        },
+        {
+          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series",
+          "slot": "PARAMOUNT ALT 01",
+          "slot_norm": "PARAMOUNT ALT 1",
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series"
+        },
+        {
+          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series em Português",
+          "slot": "PARAMOUNT ALT 02",
+          "slot_norm": "PARAMOUNT ALT 2",
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series em Português"
+        },
+        {
+          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series en Español",
+          "slot": "PARAMOUNT ALT 03",
+          "slot_norm": "PARAMOUNT ALT 3",
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White's Contender Series: Dana Whites Contender Series en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 629419709,
-      "message_timestamp": 1791259259,
+      "message_id": 629504518,
+      "message_timestamp": 1791284439,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-06T06:34:37.888785+00:00"
+      "updated_at": "2026-10-06T15:18:42.908596+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -344,27 +360,27 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "4:00 PM Beijing: Day 7 WTA 1000",
+          "display_title": "6:00 PM Beijing: Day 8 WTA 1000",
           "slot": "AU STAN 002",
           "slot_norm": "AU STAN 2",
-          "start": "2026-10-06T14:00:00+11:00",
-          "stop": "2026-10-06T18:00:00+11:00",
-          "title": "Beijing: Day 7 WTA 1000"
+          "start": "2026-10-07T16:00:00+11:00",
+          "stop": "2026-10-07T20:00:00+11:00",
+          "title": "Beijing: Day 8 WTA 1000"
         },
         {
-          "display_title": "4:00 PM Beijing: Day 7 WTA 1000",
+          "display_title": "6:00 PM Beijing: Day 8 WTA 1000",
           "slot": "AU STAN ALT 002",
           "slot_norm": "AU STAN ALT 2",
-          "start": "2026-10-06T14:00:00+11:00",
-          "stop": "2026-10-06T18:00:00+11:00",
-          "title": "Beijing: Day 7 WTA 1000"
+          "start": "2026-10-07T16:00:00+11:00",
+          "stop": "2026-10-07T20:00:00+11:00",
+          "title": "Beijing: Day 8 WTA 1000"
         }
       ],
       "group": "AU STAN",
-      "message_id": 629234279,
-      "message_timestamp": 1791205231,
+      "message_id": 629545134,
+      "message_timestamp": 1791293418,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-05T15:00:38.546731+00:00"
+      "updated_at": "2026-10-06T15:18:43.233819+00:00"
     }
   },
   "version": 1
