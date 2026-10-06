@@ -7,24 +7,24 @@
           "display_title": "11:00 AM Oswego Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-05T18:00:00-04:00",
-          "stop": "2026-10-05T22:00:00-04:00",
+          "start": "2026-10-06T18:00:00-04:00",
+          "stop": "2026-10-06T22:00:00-04:00",
           "title": "Oswego Speedway"
         },
         {
           "display_title": "11:00 AM Oswego Speedway",
           "slot": "DIRT ALT 01",
           "slot_norm": "DIRT ALT 1",
-          "start": "2026-10-05T18:00:00-04:00",
-          "stop": "2026-10-05T22:00:00-04:00",
+          "start": "2026-10-06T18:00:00-04:00",
+          "stop": "2026-10-06T22:00:00-04:00",
           "title": "Oswego Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 629263764,
-      "message_timestamp": 1791210611,
+      "message_id": 629419649,
+      "message_timestamp": 1791259227,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-05T15:00:38.156264+00:00"
+      "updated_at": "2026-10-06T06:34:37.409952+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,141 +120,53 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "1:50 AM West Ham United vs Chelsea",
+          "display_title": "12:00 PM Dana White\\`s Contender Series",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "West Ham United vs Chelsea"
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series"
         },
         {
-          "display_title": "1:50 AM Aston Villa vs Crystal Palace",
+          "display_title": "12:00 PM Dana White\\`s Contender Series em Português",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Aston Villa vs Crystal Palace"
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series em Português"
         },
         {
-          "display_title": "1:50 AM Brighton vs Charlton Athletic",
+          "display_title": "12:00 PM Dana White\\`s Contender Series en Español",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Brighton vs Charlton Athletic"
-        },
-        {
-          "display_title": "1:50 AM Everton vs Birmingham City",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Everton vs Birmingham City"
-        },
-        {
-          "display_title": "1:50 AM Tottenham vs London City",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Tottenham vs London City"
-        },
-        {
-          "display_title": "4:00 AM Man. City vs Arsenal",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-10-04T11:00:00-04:00",
-          "stop": "2026-10-04T15:00:00-04:00",
-          "title": "Man. City vs Arsenal"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: West Ham United vs Chelsea",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Barclays Women's Super League: West Ham United vs Chelsea"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Aston Villa vs Crystal Palace",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Aston Villa vs Crystal Palace"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Brighton vs Charlton Athletic",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Brighton vs Charlton Athletic"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Everton vs Birmingham City",
-          "slot": "PARAMOUNT ALT 04",
-          "slot_norm": "PARAMOUNT ALT 4",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Everton vs Birmingham City"
-        },
-        {
-          "display_title": "1:50 AM Barclays Women's Super League: Tottenham vs London City",
-          "slot": "PARAMOUNT ALT 05",
-          "slot_norm": "PARAMOUNT ALT 5",
-          "start": "2026-10-04T08:50:00-04:00",
-          "stop": "2026-10-04T12:50:00-04:00",
-          "title": "Barclays Women's Super League: Tottenham vs London City"
-        },
-        {
-          "display_title": "4:00 AM Barclays Women's Super League: Man City vs Arsenal",
-          "slot": "PARAMOUNT ALT 06",
-          "slot_norm": "PARAMOUNT ALT 6",
-          "start": "2026-10-04T11:00:00-04:00",
-          "stop": "2026-10-04T15:00:00-04:00",
-          "title": "Barclays Women's Super League: Man City vs Arsenal"
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White\\`s Contender Series en Español"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 629012345,
-      "message_timestamp": 1791109827,
+      "message_id": 629419709,
+      "message_timestamp": 1791259259,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-04T15:25:52.131630+00:00"
+      "updated_at": "2026-10-06T06:34:37.888785+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM UAE Warriors 73",
+          "display_title": "12:00 PM Dana White Contender Series S10W09",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-05T13:00:00-04:00",
-          "stop": "2026-10-05T17:00:00-04:00",
-          "title": "UAE Warriors 73"
-        },
-        {
-          "display_title": "1:00 PM WWE Monday Night RAW",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-05T20:00:00-04:00",
-          "stop": "2026-10-06T00:00:00-04:00",
-          "title": "WWE Monday Night RAW"
-        },
-        {
-          "display_title": "11:00 AM Super Dirt Week Oswego",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-10-05T18:00:00-04:00",
-          "stop": "2026-10-05T22:00:00-04:00",
-          "title": "Super Dirt Week Oswego"
+          "start": "2026-10-06T19:00:00-04:00",
+          "stop": "2026-10-06T23:00:00-04:00",
+          "title": "Dana White Contender Series S10W09"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 629122015,
-      "message_timestamp": 1791172825,
+      "message_id": 629419679,
+      "message_timestamp": 1791259240,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-05T05:56:27.530333+00:00"
+      "updated_at": "2026-10-06T06:34:38.335769+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -297,136 +209,136 @@
           "display_title": "6:45 AM Accrington vs Salford // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Accrington vs Salford // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Blackpool vs Crewe // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Blackpool vs Crewe // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Cambridge U vs Northampton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 08",
           "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Cambridge U vs Northampton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Exeter vs Oxford Utd // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Exeter vs Oxford Utd // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Fleetwood vs Barnsley // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 10",
           "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Fleetwood vs Barnsley // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Grimsby vs Burton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 11",
           "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Grimsby vs Burton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Huddersfield vs Rochdale // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 12",
           "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Huddersfield vs Rochdale // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Mk Dons vs Brentford U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 13",
           "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Mk Dons vs Brentford U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Newport vs Plymouth // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 14",
           "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Newport vs Plymouth // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Peterborough vs Ipswich U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 15",
           "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Peterborough vs Ipswich U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Port Vale vs Mansfield // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 16",
           "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Port Vale vs Mansfield // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Sheff Wed vs Sunderland U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 17",
           "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Sheff Wed vs Sunderland U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Shrewsbury vs Stockport // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 18",
           "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Shrewsbury vs Stockport // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Wimbledon vs Barnet // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 19",
           "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Wimbledon vs Barnet // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "6:45 AM Wycombe vs Bristol Rovers // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
           "slot": "SKY SPORTS+ 20",
           "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-10-05T18:45:00+01:00",
-          "stop": "2026-10-05T22:45:00+01:00",
+          "start": "2026-10-06T18:45:00+01:00",
+          "stop": "2026-10-06T22:45:00+01:00",
           "title": "Wycombe vs Bristol Rovers // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
         },
         {
           "display_title": "7:30 AM Crawley vs Bromley // UK Tue 6 Oct // ET Tue 6 Oct 2:30pm",
           "slot": "SKY SPORTS+ 21",
           "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-10-05T19:30:00+01:00",
-          "stop": "2026-10-05T23:30:00+01:00",
+          "start": "2026-10-06T19:30:00+01:00",
+          "stop": "2026-10-06T23:30:00+01:00",
           "title": "Crawley vs Bromley // UK Tue 6 Oct // ET Tue 6 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 629378594,
-      "message_timestamp": 1791239417,
+      "message_id": 629389523,
+      "message_timestamp": 1791244812,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-05T22:47:04.377976+00:00"
+      "updated_at": "2026-10-06T06:34:39.344903+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
