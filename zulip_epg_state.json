@@ -7,16 +7,16 @@
           "display_title": "11:00 AM Oswego Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-06T18:00:00-04:00",
-          "stop": "2026-10-06T22:00:00-04:00",
+          "start": "2026-10-07T18:00:00-04:00",
+          "stop": "2026-10-07T22:00:00-04:00",
           "title": "Oswego Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 629554432,
-      "message_timestamp": 1791295210,
+      "message_id": 629727840,
+      "message_timestamp": 1791345612,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-06T15:18:42.821636+00:00"
+      "updated_at": "2026-10-07T08:56:00.926330+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -170,19 +170,19 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "12:00 PM Dana White Contender Series S10W09",
+          "display_title": "5:45 AM Super Dirt Week Oswego",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White Contender Series S10W09"
+          "start": "2026-10-07T12:45:00-04:00",
+          "stop": "2026-10-07T16:45:00-04:00",
+          "title": "Super Dirt Week Oswego"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 629419679,
-      "message_timestamp": 1791259240,
+      "message_id": 629727960,
+      "message_timestamp": 1791345659,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-06T06:34:38.335769+00:00"
+      "updated_at": "2026-10-07T08:56:01.094678+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
