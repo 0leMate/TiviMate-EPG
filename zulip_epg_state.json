@@ -18,13 +18,21 @@
           "start": "2026-10-07T12:45:00-04:00",
           "stop": "2026-10-07T16:45:00-04:00",
           "title": "Oswego Speedway"
+        },
+        {
+          "display_title": "5:45 AM 10.7.26 \\| Oswego Speedway",
+          "slot": "DIRT NEW 01",
+          "slot_norm": "DIRT NEW 1",
+          "start": "2026-10-07T12:45:00-04:00",
+          "stop": "2026-10-07T16:45:00-04:00",
+          "title": "10.7.26 \\| Oswego Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 629841368,
-      "message_timestamp": 1791378010,
+      "message_id": 629955300,
+      "message_timestamp": 1791403214,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-07T17:28:02.437752+00:00"
+      "updated_at": "2026-10-07T23:12:24.359122+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,59 +128,83 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "12:00 PM Dana White\\`s Contender Series",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series"
+          "display_title": "2:00 AM cbssportshq: Morning Boxscore",
+          "slot": "PARAMOUNT NEW 001",
+          "slot_norm": "PARAMOUNT NEW 1",
+          "start": "2026-10-07T09:00:00-04:00",
+          "stop": "2026-10-07T13:00:00-04:00",
+          "title": "cbssportshq: Morning Boxscore"
         },
         {
-          "display_title": "12:00 PM Dana White\\`s Contender Series em Português",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series em Português"
+          "display_title": "4:00 AM cbssportshq: What 2 Watch",
+          "slot": "PARAMOUNT NEW 002",
+          "slot_norm": "PARAMOUNT NEW 2",
+          "start": "2026-10-07T11:00:00-04:00",
+          "stop": "2026-10-07T15:00:00-04:00",
+          "title": "cbssportshq: What 2 Watch"
         },
         {
-          "display_title": "12:00 PM Dana White\\`s Contender Series en Español",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White\\`s Contender Series en Español"
+          "display_title": "5:00 AM cbssportshq: Just Football",
+          "slot": "PARAMOUNT NEW 003",
+          "slot_norm": "PARAMOUNT NEW 3",
+          "start": "2026-10-07T12:00:00-04:00",
+          "stop": "2026-10-07T16:00:00-04:00",
+          "title": "cbssportshq: Just Football"
         },
         {
-          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series"
+          "display_title": "7:00 AM cbssportshq: Trending Now",
+          "slot": "PARAMOUNT NEW 004",
+          "slot_norm": "PARAMOUNT NEW 4",
+          "start": "2026-10-07T14:00:00-04:00",
+          "stop": "2026-10-07T18:00:00-04:00",
+          "title": "cbssportshq: Trending Now"
         },
         {
-          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series em Português",
-          "slot": "PARAMOUNT ALT 02",
-          "slot_norm": "PARAMOUNT ALT 2",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series em Português"
+          "display_title": "8:00 AM cbssportshq: This Just In",
+          "slot": "PARAMOUNT NEW 005",
+          "slot_norm": "PARAMOUNT NEW 5",
+          "start": "2026-10-07T15:00:00-04:00",
+          "stop": "2026-10-07T19:00:00-04:00",
+          "title": "cbssportshq: This Just In"
         },
         {
-          "display_title": "12:00 PM Dana White's Contender Series: Dana Whites Contender Series en Español",
-          "slot": "PARAMOUNT ALT 03",
-          "slot_norm": "PARAMOUNT ALT 3",
-          "start": "2026-10-06T19:00:00-04:00",
-          "stop": "2026-10-06T23:00:00-04:00",
-          "title": "Dana White's Contender Series: Dana Whites Contender Series en Español"
+          "display_title": "9:00 AM cbssportshq: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT NEW 006",
+          "slot_norm": "PARAMOUNT NEW 6",
+          "start": "2026-10-07T16:00:00-04:00",
+          "stop": "2026-10-07T20:00:00-04:00",
+          "title": "cbssportshq: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "11:00 AM cbssportshq: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT NEW 007",
+          "slot_norm": "PARAMOUNT NEW 7",
+          "start": "2026-10-07T18:00:00-04:00",
+          "stop": "2026-10-07T22:00:00-04:00",
+          "title": "cbssportshq: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "12:00 PM cbssportshq: Scoreboard & Highlights",
+          "slot": "PARAMOUNT NEW 008",
+          "slot_norm": "PARAMOUNT NEW 8",
+          "start": "2026-10-07T19:00:00-04:00",
+          "stop": "2026-10-07T23:00:00-04:00",
+          "title": "cbssportshq: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "4:00 PM cbssportshq: Scoreboard Final",
+          "slot": "PARAMOUNT NEW 009",
+          "slot_norm": "PARAMOUNT NEW 9",
+          "start": "2026-10-07T23:00:00-04:00",
+          "stop": "2026-10-08T03:00:00-04:00",
+          "title": "cbssportshq: Scoreboard Final"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 629504518,
-      "message_timestamp": 1791284439,
+      "message_id": 629955433,
+      "message_timestamp": 1791403243,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-06T15:18:42.908596+00:00"
+      "updated_at": "2026-10-07T23:12:24.753608+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -184,13 +216,29 @@
           "start": "2026-10-07T12:45:00-04:00",
           "stop": "2026-10-07T16:45:00-04:00",
           "title": "Super Dirt Week Oswego"
+        },
+        {
+          "display_title": "5:45 AM Super Dirt Week Oswego",
+          "slot": "PPV NEW 01",
+          "slot_norm": "PPV NEW 1",
+          "start": "2026-10-07T12:45:00-04:00",
+          "stop": "2026-10-07T16:45:00-04:00",
+          "title": "Super Dirt Week Oswego"
+        },
+        {
+          "display_title": "2:00 PM AEW Dynamite Grand Slam France (Commercial Free)",
+          "slot": "PPV NEW 02",
+          "slot_norm": "PPV NEW 2",
+          "start": "2026-10-07T21:00:00-04:00",
+          "stop": "2026-10-08T01:00:00-04:00",
+          "title": "AEW Dynamite Grand Slam France (Commercial Free)"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 629727960,
-      "message_timestamp": 1791345659,
+      "message_id": 629955413,
+      "message_timestamp": 1791403237,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-07T08:56:01.094678+00:00"
+      "updated_at": "2026-10-07T23:12:25.137199+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -214,139 +262,43 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "6:45 AM Accrington vs Salford // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Accrington vs Salford // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+          "display_title": "7:10 PM WTA Tour China Open C. Gauff vs E. Mertens London",
+          "slot": "SKY SPORTS+ NEW 01",
+          "slot_norm": "SKY SPORTS+ NEW 1",
+          "start": "2026-10-07T07:10:00+01:00",
+          "stop": "2026-10-07T11:10:00+01:00",
+          "title": "WTA Tour China Open C. Gauff vs E. Mertens London"
         },
         {
-          "display_title": "6:45 AM Blackpool vs Crewe // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Blackpool vs Crewe // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+          "display_title": "9:55 PM WTA Tour China Open E. Mertens/D. Shnaider vs T. Mihalikova/O. Nicholls London",
+          "slot": "SKY SPORTS+ NEW 02",
+          "slot_norm": "SKY SPORTS+ NEW 2",
+          "start": "2026-10-07T09:55:00+01:00",
+          "stop": "2026-10-07T13:55:00+01:00",
+          "title": "WTA Tour China Open E. Mertens/D. Shnaider vs T. Mihalikova/O. Nicholls London"
         },
         {
-          "display_title": "6:45 AM Cambridge U vs Northampton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Cambridge U vs Northampton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
+          "display_title": "11:55 PM WTA Tour China Open A. Charaeva vs Zheng Qinwen London",
+          "slot": "SKY SPORTS+ NEW 03",
+          "slot_norm": "SKY SPORTS+ NEW 3",
+          "start": "2026-10-07T11:55:00+01:00",
+          "stop": "2026-10-07T15:55:00+01:00",
+          "title": "WTA Tour China Open A. Charaeva vs Zheng Qinwen London"
         },
         {
-          "display_title": "6:45 AM Exeter vs Oxford Utd // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Exeter vs Oxford Utd // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Fleetwood vs Barnsley // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Fleetwood vs Barnsley // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Grimsby vs Burton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Grimsby vs Burton // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Huddersfield vs Rochdale // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Huddersfield vs Rochdale // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Mk Dons vs Brentford U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Mk Dons vs Brentford U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Newport vs Plymouth // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Newport vs Plymouth // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Peterborough vs Ipswich U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Peterborough vs Ipswich U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Port Vale vs Mansfield // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 16",
-          "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Port Vale vs Mansfield // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Sheff Wed vs Sunderland U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Sheff Wed vs Sunderland U21 // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Shrewsbury vs Stockport // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Shrewsbury vs Stockport // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Wimbledon vs Barnet // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Wimbledon vs Barnet // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "6:45 AM Wycombe vs Bristol Rovers // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-10-06T18:45:00+01:00",
-          "stop": "2026-10-06T22:45:00+01:00",
-          "title": "Wycombe vs Bristol Rovers // UK Tue 6 Oct // ET Tue 6 Oct 1:45pm"
-        },
-        {
-          "display_title": "7:30 AM Crawley vs Bromley // UK Tue 6 Oct // ET Tue 6 Oct 2:30pm",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-10-06T19:30:00+01:00",
-          "stop": "2026-10-06T23:30:00+01:00",
-          "title": "Crawley vs Bromley // UK Tue 6 Oct // ET Tue 6 Oct 2:30pm"
+          "display_title": "1:25 AM WTA Tour China Open A. Li vs E. Svitolina London",
+          "slot": "SKY SPORTS+ NEW 04",
+          "slot_norm": "SKY SPORTS+ NEW 4",
+          "start": "2026-10-07T13:25:00+01:00",
+          "stop": "2026-10-07T17:25:00+01:00",
+          "title": "WTA Tour China Open A. Li vs E. Svitolina London"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 629389523,
-      "message_timestamp": 1791244812,
+      "message_id": 629955506,
+      "message_timestamp": 1791403262,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-06T06:34:39.344903+00:00"
+      "updated_at": "2026-10-07T23:12:25.955883+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
