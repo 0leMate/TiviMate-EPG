@@ -7,32 +7,16 @@
           "display_title": "11:00 AM Oswego Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-07T18:00:00-04:00",
-          "stop": "2026-10-07T22:00:00-04:00",
+          "start": "2026-10-08T18:00:00-04:00",
+          "stop": "2026-10-08T22:00:00-04:00",
           "title": "Oswego Speedway"
-        },
-        {
-          "display_title": "5:45 AM Oswego Speedway",
-          "slot": "DIRT ALT 01",
-          "slot_norm": "DIRT ALT 1",
-          "start": "2026-10-07T12:45:00-04:00",
-          "stop": "2026-10-07T16:45:00-04:00",
-          "title": "Oswego Speedway"
-        },
-        {
-          "display_title": "5:45 AM 10.7.26 \\| Oswego Speedway",
-          "slot": "DIRT NEW 01",
-          "slot_norm": "DIRT NEW 1",
-          "start": "2026-10-07T12:45:00-04:00",
-          "stop": "2026-10-07T16:45:00-04:00",
-          "title": "10.7.26 \\| Oswego Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 629955300,
-      "message_timestamp": 1791403214,
+      "message_id": 630024664,
+      "message_timestamp": 1791432034,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-07T23:12:24.359122+00:00"
+      "updated_at": "2026-10-08T06:20:44.790234+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -128,83 +112,19 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "2:00 AM cbssportshq: Morning Boxscore",
-          "slot": "PARAMOUNT NEW 001",
-          "slot_norm": "PARAMOUNT NEW 1",
-          "start": "2026-10-07T09:00:00-04:00",
-          "stop": "2026-10-07T13:00:00-04:00",
-          "title": "cbssportshq: Morning Boxscore"
-        },
-        {
-          "display_title": "4:00 AM cbssportshq: What 2 Watch",
-          "slot": "PARAMOUNT NEW 002",
-          "slot_norm": "PARAMOUNT NEW 2",
-          "start": "2026-10-07T11:00:00-04:00",
-          "stop": "2026-10-07T15:00:00-04:00",
-          "title": "cbssportshq: What 2 Watch"
-        },
-        {
-          "display_title": "5:00 AM cbssportshq: Just Football",
-          "slot": "PARAMOUNT NEW 003",
-          "slot_norm": "PARAMOUNT NEW 3",
-          "start": "2026-10-07T12:00:00-04:00",
-          "stop": "2026-10-07T16:00:00-04:00",
-          "title": "cbssportshq: Just Football"
-        },
-        {
-          "display_title": "7:00 AM cbssportshq: Trending Now",
-          "slot": "PARAMOUNT NEW 004",
-          "slot_norm": "PARAMOUNT NEW 4",
-          "start": "2026-10-07T14:00:00-04:00",
-          "stop": "2026-10-07T18:00:00-04:00",
-          "title": "cbssportshq: Trending Now"
-        },
-        {
-          "display_title": "8:00 AM cbssportshq: This Just In",
-          "slot": "PARAMOUNT NEW 005",
-          "slot_norm": "PARAMOUNT NEW 5",
-          "start": "2026-10-07T15:00:00-04:00",
-          "stop": "2026-10-07T19:00:00-04:00",
-          "title": "cbssportshq: This Just In"
-        },
-        {
-          "display_title": "9:00 AM cbssportshq: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT NEW 006",
-          "slot_norm": "PARAMOUNT NEW 6",
-          "start": "2026-10-07T16:00:00-04:00",
-          "stop": "2026-10-07T20:00:00-04:00",
-          "title": "cbssportshq: CBS Sports HQ Spotlight"
-        },
-        {
-          "display_title": "11:00 AM cbssportshq: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT NEW 007",
-          "slot_norm": "PARAMOUNT NEW 7",
-          "start": "2026-10-07T18:00:00-04:00",
-          "stop": "2026-10-07T22:00:00-04:00",
-          "title": "cbssportshq: Primetime Pregame LIVE"
-        },
-        {
-          "display_title": "12:00 PM cbssportshq: Scoreboard & Highlights",
-          "slot": "PARAMOUNT NEW 008",
-          "slot_norm": "PARAMOUNT NEW 8",
-          "start": "2026-10-07T19:00:00-04:00",
-          "stop": "2026-10-07T23:00:00-04:00",
-          "title": "cbssportshq: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "4:00 PM cbssportshq: Scoreboard Final",
-          "slot": "PARAMOUNT NEW 009",
-          "slot_norm": "PARAMOUNT NEW 9",
-          "start": "2026-10-07T23:00:00-04:00",
-          "stop": "2026-10-08T03:00:00-04:00",
-          "title": "cbssportshq: Scoreboard Final"
+          "display_title": "3:45 PM PBR Teams: Ridge Rider Days - Night 1",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-10-08T22:45:00-04:00",
+          "stop": "2026-10-09T02:45:00-04:00",
+          "title": "PBR Teams: Ridge Rider Days - Night 1"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 629955433,
-      "message_timestamp": 1791403243,
+      "message_id": 630024750,
+      "message_timestamp": 1791432075,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-07T23:12:24.753608+00:00"
+      "updated_at": "2026-10-08T06:20:45.264269+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -213,32 +133,40 @@
           "display_title": "5:45 AM Super Dirt Week Oswego",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-07T12:45:00-04:00",
-          "stop": "2026-10-07T16:45:00-04:00",
+          "start": "2026-10-08T12:45:00-04:00",
+          "stop": "2026-10-08T16:45:00-04:00",
           "title": "Super Dirt Week Oswego"
+        },
+        {
+          "display_title": "1:00 PM UFC BJJ 12 Moura vs Fornarino",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-08T20:00:00-04:00",
+          "stop": "2026-10-09T00:00:00-04:00",
+          "title": "UFC BJJ 12 Moura vs Fornarino"
         },
         {
           "display_title": "5:45 AM Super Dirt Week Oswego",
           "slot": "PPV NEW 01",
           "slot_norm": "PPV NEW 1",
-          "start": "2026-10-07T12:45:00-04:00",
-          "stop": "2026-10-07T16:45:00-04:00",
+          "start": "2026-10-08T12:45:00-04:00",
+          "stop": "2026-10-08T16:45:00-04:00",
           "title": "Super Dirt Week Oswego"
         },
         {
-          "display_title": "2:00 PM AEW Dynamite Grand Slam France (Commercial Free)",
+          "display_title": "1:00 PM UFC BJJ 12 Moura vs Fornarino",
           "slot": "PPV NEW 02",
           "slot_norm": "PPV NEW 2",
-          "start": "2026-10-07T21:00:00-04:00",
-          "stop": "2026-10-08T01:00:00-04:00",
-          "title": "AEW Dynamite Grand Slam France (Commercial Free)"
+          "start": "2026-10-08T20:00:00-04:00",
+          "stop": "2026-10-09T00:00:00-04:00",
+          "title": "UFC BJJ 12 Moura vs Fornarino"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 629955413,
-      "message_timestamp": 1791403237,
+      "message_id": 630024657,
+      "message_timestamp": 1791432032,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-07T23:12:25.137199+00:00"
+      "updated_at": "2026-10-08T06:20:45.688656+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
