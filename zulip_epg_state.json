@@ -7,56 +7,24 @@
           "display_title": "5:45 AM Oswego Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-08T12:45:00-04:00",
-          "stop": "2026-10-08T16:45:00-04:00",
+          "start": "2026-10-09T12:45:00-04:00",
+          "stop": "2026-10-09T16:45:00-04:00",
           "title": "Oswego Speedway"
         },
         {
           "display_title": "11:15 AM Millstream Speedway",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-10-08T18:15:00-04:00",
-          "stop": "2026-10-08T22:15:00-04:00",
+          "start": "2026-10-09T18:15:00-04:00",
+          "stop": "2026-10-09T22:15:00-04:00",
           "title": "Millstream Speedway"
-        },
-        {
-          "display_title": "5:45 AM Oswego Speedway",
-          "slot": "DIRT ALT 01",
-          "slot_norm": "DIRT ALT 1",
-          "start": "2026-10-08T12:45:00-04:00",
-          "stop": "2026-10-08T16:45:00-04:00",
-          "title": "Oswego Speedway"
-        },
-        {
-          "display_title": "11:15 AM Millstream Speedway",
-          "slot": "DIRT ALT 02",
-          "slot_norm": "DIRT ALT 2",
-          "start": "2026-10-08T18:15:00-04:00",
-          "stop": "2026-10-08T22:15:00-04:00",
-          "title": "Millstream Speedway"
-        },
-        {
-          "display_title": "5:45 AM 10.8.26 \\| Oswego Speedway",
-          "slot": "DIRT NEW 01",
-          "slot_norm": "DIRT NEW 1",
-          "start": "2026-10-08T12:45:00-04:00",
-          "stop": "2026-10-08T16:45:00-04:00",
-          "title": "10.8.26 \\| Oswego Speedway"
-        },
-        {
-          "display_title": "11:15 AM 10.8.26 \\| Millstream Speedway",
-          "slot": "DIRT NEW 02",
-          "slot_norm": "DIRT NEW 2",
-          "start": "2026-10-08T18:15:00-04:00",
-          "stop": "2026-10-08T22:15:00-04:00",
-          "title": "10.8.26 \\| Millstream Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 630129731,
-      "message_timestamp": 1791462614,
+      "message_id": 630316707,
+      "message_timestamp": 1791518428,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-08T13:45:43.125762+00:00"
+      "updated_at": "2026-10-09T06:28:27.907974+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -152,165 +120,301 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "3:45 PM PBR Teams: Ridge Rider Days - Night 1",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-08T22:45:00-04:00",
-          "stop": "2026-10-09T02:45:00-04:00",
-          "title": "PBR Teams: Ridge Rider Days - Night 1"
+          "display_title": "7:50 AM West Ham United vs Queens Park Rangers",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-10-09T14:50:00-04:00",
+          "stop": "2026-10-09T18:50:00-04:00",
+          "title": "West Ham United vs Queens Park Rangers"
         },
         {
-          "display_title": "3:45 PM PBR Team Series: PBR Teams Ridge Rider Days Night 1",
-          "slot": "PARAMOUNT ALT 01",
-          "slot_norm": "PARAMOUNT ALT 1",
-          "start": "2026-10-08T22:45:00-04:00",
-          "stop": "2026-10-09T02:45:00-04:00",
-          "title": "PBR Team Series: PBR Teams Ridge Rider Days Night 1"
-        },
-        {
-          "display_title": "2:00 AM cbssportshq: Morning Boxscore",
-          "slot": "PARAMOUNT NEW 001",
-          "slot_norm": "PARAMOUNT NEW 1",
-          "start": "2026-10-09T09:00:00-04:00",
-          "stop": "2026-10-09T13:00:00-04:00",
-          "title": "cbssportshq: Morning Boxscore"
-        },
-        {
-          "display_title": "4:00 AM cbssportshq: What 2 Watch",
-          "slot": "PARAMOUNT NEW 002",
-          "slot_norm": "PARAMOUNT NEW 2",
-          "start": "2026-10-09T11:00:00-04:00",
-          "stop": "2026-10-09T15:00:00-04:00",
-          "title": "cbssportshq: What 2 Watch"
-        },
-        {
-          "display_title": "5:00 AM cbssportshq: Just Football",
-          "slot": "PARAMOUNT NEW 003",
-          "slot_norm": "PARAMOUNT NEW 3",
-          "start": "2026-10-09T12:00:00-04:00",
-          "stop": "2026-10-09T16:00:00-04:00",
-          "title": "cbssportshq: Just Football"
-        },
-        {
-          "display_title": "7:00 AM cbssportshq: Fantasy Football Today",
-          "slot": "PARAMOUNT NEW 004",
-          "slot_norm": "PARAMOUNT NEW 4",
-          "start": "2026-10-09T14:00:00-04:00",
-          "stop": "2026-10-09T18:00:00-04:00",
-          "title": "cbssportshq: Fantasy Football Today"
-        },
-        {
-          "display_title": "8:00 AM cbssportshq: This Just In",
-          "slot": "PARAMOUNT NEW 005",
-          "slot_norm": "PARAMOUNT NEW 5",
-          "start": "2026-10-09T15:00:00-04:00",
-          "stop": "2026-10-09T19:00:00-04:00",
-          "title": "cbssportshq: This Just In"
-        },
-        {
-          "display_title": "9:00 AM cbssportshq: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT NEW 006",
-          "slot_norm": "PARAMOUNT NEW 6",
-          "start": "2026-10-09T16:00:00-04:00",
-          "stop": "2026-10-09T20:00:00-04:00",
-          "title": "cbssportshq: CBS Sports HQ Spotlight"
-        },
-        {
-          "display_title": "11:00 AM cbssportshq: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT NEW 007",
-          "slot_norm": "PARAMOUNT NEW 7",
+          "display_title": "11:00 AM UFC Fight Night Preview Show: Allen vs Duncan",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-10-09T18:00:00-04:00",
           "stop": "2026-10-09T22:00:00-04:00",
-          "title": "cbssportshq: Primetime Pregame LIVE"
+          "title": "UFC Fight Night Preview Show: Allen vs Duncan"
         },
         {
-          "display_title": "1:00 PM cbssportshq: Scoreboard & Highlights",
-          "slot": "PARAMOUNT NEW 008",
-          "slot_norm": "PARAMOUNT NEW 8",
-          "start": "2026-10-09T20:00:00-04:00",
-          "stop": "2026-10-10T00:00:00-04:00",
-          "title": "cbssportshq: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "3:45 PM PBR Team Series: PBR Teams: Ridge Rider Days - Night 1",
-          "slot": "PARAMOUNT NEW 009",
-          "slot_norm": "PARAMOUNT NEW 9",
-          "start": "2026-10-09T22:45:00-04:00",
-          "stop": "2026-10-10T02:45:00-04:00",
-          "title": "PBR Team Series: PBR Teams: Ridge Rider Days - Night 1"
-        },
-        {
-          "display_title": "4:00 PM cbssportshq: Scoreboard Final",
-          "slot": "PARAMOUNT NEW 010",
-          "slot_norm": "PARAMOUNT NEW 10",
+          "display_title": "4:00 PM PBR Teams: Ridge Rider Days - Night 2",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-10-09T23:00:00-04:00",
           "stop": "2026-10-10T03:00:00-04:00",
-          "title": "cbssportshq: Scoreboard Final"
+          "title": "PBR Teams: Ridge Rider Days - Night 2"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630114461,
-      "message_timestamp": 1791459016,
+      "message_id": 630316796,
+      "message_timestamp": 1791518460,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-08T13:45:43.634631+00:00"
+      "updated_at": "2026-10-09T06:28:27.973557+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:45 AM Super Dirt Week Oswego",
+          "display_title": "2:30 AM ONE Friday Fights 174 Dedduanglek vs Mong",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-08T12:45:00-04:00",
-          "stop": "2026-10-08T16:45:00-04:00",
-          "title": "Super Dirt Week Oswego"
+          "start": "2026-10-09T09:30:00-04:00",
+          "stop": "2026-10-09T13:30:00-04:00",
+          "title": "ONE Friday Fights 174 Dedduanglek vs Mong"
         },
         {
-          "display_title": "1:00 PM UFC BJJ 12 Moura vs Fornarino",
+          "display_title": "7:00 PM ZFN Origin 06",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-10-08T20:00:00-04:00",
-          "stop": "2026-10-09T00:00:00-04:00",
-          "title": "UFC BJJ 12 Moura vs Fornarino"
+          "start": "2026-10-09T02:00:00-04:00",
+          "stop": "2026-10-09T06:00:00-04:00",
+          "title": "ZFN Origin 06"
         },
         {
-          "display_title": "11:15 AM Millstream Speedway",
+          "display_title": "1:00 PM BKFC Fight Night Cisneros vs Petersen",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-10-08T18:15:00-04:00",
-          "stop": "2026-10-08T22:15:00-04:00",
-          "title": "Millstream Speedway"
+          "start": "2026-10-09T20:00:00-04:00",
+          "stop": "2026-10-10T00:00:00-04:00",
+          "title": "BKFC Fight Night Cisneros vs Petersen"
         },
         {
-          "display_title": "5:45 AM Super Dirt Week Oswego",
+          "display_title": "2:00 PM PowerSlap 24 Muniz vs Hintz",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-10-09T21:00:00-04:00",
+          "stop": "2026-10-10T01:00:00-04:00",
+          "title": "PowerSlap 24 Muniz vs Hintz"
+        },
+        {
+          "display_title": "3:00 PM Castillo vs Zarate (ESP)",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-10-09T22:00:00-04:00",
+          "stop": "2026-10-10T02:00:00-04:00",
+          "title": "Castillo vs Zarate (ESP)"
+        },
+        {
+          "display_title": "6:15 AM Super DIRT Week Oswego",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-10-10T13:15:00-04:00",
+          "stop": "2026-10-10T17:15:00-04:00",
+          "title": "Super DIRT Week Oswego"
+        },
+        {
+          "display_title": "9:05 AM SMART Modifieds Tri County",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-10-10T16:05:00-04:00",
+          "stop": "2026-10-10T20:05:00-04:00",
+          "title": "SMART Modifieds Tri County"
+        },
+        {
+          "display_title": "9:30 AM Canadian Super DIRT Weekend Cornwall",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-10-10T16:30:00-04:00",
+          "stop": "2026-10-10T20:30:00-04:00",
+          "title": "Canadian Super DIRT Weekend Cornwall"
+        },
+        {
+          "display_title": "10:45 AM USAC National Sprints Lawrenceburg",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-10-10T17:45:00-04:00",
+          "stop": "2026-10-10T21:45:00-04:00",
+          "title": "USAC National Sprints Lawrenceburg"
+        },
+        {
+          "display_title": "10:45 AM Lucas Oil Late Models Eldora",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-10-10T17:45:00-04:00",
+          "stop": "2026-10-10T21:45:00-04:00",
+          "title": "Lucas Oil Late Models Eldora"
+        },
+        {
+          "display_title": "11:00 AM STSS SuperNationals Afton",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-10-10T18:00:00-04:00",
+          "stop": "2026-10-10T22:00:00-04:00",
+          "title": "STSS SuperNationals Afton"
+        },
+        {
+          "display_title": "11:00 AM Rod Wittkopf Memorial 141",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-10-10T18:00:00-04:00",
+          "stop": "2026-10-10T22:00:00-04:00",
+          "title": "Rod Wittkopf Memorial 141"
+        },
+        {
+          "display_title": "11:15 AM World of Outlaws Sprint Cars Mansfield",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-10-10T18:15:00-04:00",
+          "stop": "2026-10-10T22:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Mansfield"
+        },
+        {
+          "display_title": "11:45 AM Big Buck 50 & Fall Nationals Lucas Oil",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-10-10T18:45:00-04:00",
+          "stop": "2026-10-10T22:45:00-04:00",
+          "title": "Big Buck 50 & Fall Nationals Lucas Oil"
+        },
+        {
+          "display_title": "12:00 PM NASCAR Weekly Racing Hickory",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
+          "start": "2026-10-10T19:00:00-04:00",
+          "stop": "2026-10-10T23:00:00-04:00",
+          "title": "NASCAR Weekly Racing Hickory"
+        },
+        {
+          "display_title": "12:15 PM High Limit Racing Lakeside",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-10-10T19:15:00-04:00",
+          "stop": "2026-10-10T23:15:00-04:00",
+          "title": "High Limit Racing Lakeside"
+        },
+        {
+          "display_title": "2:30 AM ONE Friday Fights 174 Dedduanglek vs Mong",
           "slot": "PPV NEW 01",
           "slot_norm": "PPV NEW 1",
-          "start": "2026-10-08T12:45:00-04:00",
-          "stop": "2026-10-08T16:45:00-04:00",
-          "title": "Super Dirt Week Oswego"
+          "start": "2026-10-11T09:30:00-04:00",
+          "stop": "2026-10-11T13:30:00-04:00",
+          "title": "ONE Friday Fights 174 Dedduanglek vs Mong"
         },
         {
-          "display_title": "1:00 PM UFC BJJ 12 Moura vs Fornarino",
+          "display_title": "7:00 PM ZFN Origin 06",
           "slot": "PPV NEW 02",
           "slot_norm": "PPV NEW 2",
-          "start": "2026-10-08T20:00:00-04:00",
-          "stop": "2026-10-09T00:00:00-04:00",
-          "title": "UFC BJJ 12 Moura vs Fornarino"
+          "start": "2026-10-11T02:00:00-04:00",
+          "stop": "2026-10-11T06:00:00-04:00",
+          "title": "ZFN Origin 06"
         },
         {
-          "display_title": "11:15 AM Millstream Speedway",
+          "display_title": "1:00 PM BKFC Fight Night Cisneros vs Petersen",
           "slot": "PPV NEW 03",
           "slot_norm": "PPV NEW 3",
-          "start": "2026-10-08T18:15:00-04:00",
-          "stop": "2026-10-08T22:15:00-04:00",
-          "title": "Millstream Speedway"
+          "start": "2026-10-11T20:00:00-04:00",
+          "stop": "2026-10-12T00:00:00-04:00",
+          "title": "BKFC Fight Night Cisneros vs Petersen"
+        },
+        {
+          "display_title": "2:00 PM PowerSlap 24 Muniz vs Hintz",
+          "slot": "PPV NEW 04",
+          "slot_norm": "PPV NEW 4",
+          "start": "2026-10-11T21:00:00-04:00",
+          "stop": "2026-10-12T01:00:00-04:00",
+          "title": "PowerSlap 24 Muniz vs Hintz"
+        },
+        {
+          "display_title": "3:00 PM Castillo vs Zarate (ESP)",
+          "slot": "PPV NEW 05",
+          "slot_norm": "PPV NEW 5",
+          "start": "2026-10-11T22:00:00-04:00",
+          "stop": "2026-10-12T02:00:00-04:00",
+          "title": "Castillo vs Zarate (ESP)"
+        },
+        {
+          "display_title": "6:15 AM Super DIRT Week Oswego",
+          "slot": "PPV NEW 06",
+          "slot_norm": "PPV NEW 6",
+          "start": "2026-10-12T13:15:00-04:00",
+          "stop": "2026-10-12T17:15:00-04:00",
+          "title": "Super DIRT Week Oswego"
+        },
+        {
+          "display_title": "9:05 AM SMART Modifieds Tri County",
+          "slot": "PPV NEW 07",
+          "slot_norm": "PPV NEW 7",
+          "start": "2026-10-12T16:05:00-04:00",
+          "stop": "2026-10-12T20:05:00-04:00",
+          "title": "SMART Modifieds Tri County"
+        },
+        {
+          "display_title": "9:30 AM Canadian Super DIRT Weekend Cornwall",
+          "slot": "PPV NEW 08",
+          "slot_norm": "PPV NEW 8",
+          "start": "2026-10-12T16:30:00-04:00",
+          "stop": "2026-10-12T20:30:00-04:00",
+          "title": "Canadian Super DIRT Weekend Cornwall"
+        },
+        {
+          "display_title": "10:45 AM USAC National Sprints Lawrenceburg",
+          "slot": "PPV NEW 09",
+          "slot_norm": "PPV NEW 9",
+          "start": "2026-10-12T17:45:00-04:00",
+          "stop": "2026-10-12T21:45:00-04:00",
+          "title": "USAC National Sprints Lawrenceburg"
+        },
+        {
+          "display_title": "10:45 AM Lucas Oil Late Models Eldora",
+          "slot": "PPV NEW 10",
+          "slot_norm": "PPV NEW 10",
+          "start": "2026-10-12T17:45:00-04:00",
+          "stop": "2026-10-12T21:45:00-04:00",
+          "title": "Lucas Oil Late Models Eldora"
+        },
+        {
+          "display_title": "11:00 AM STSS SuperNationals Afton",
+          "slot": "PPV NEW 11",
+          "slot_norm": "PPV NEW 11",
+          "start": "2026-10-12T18:00:00-04:00",
+          "stop": "2026-10-12T22:00:00-04:00",
+          "title": "STSS SuperNationals Afton"
+        },
+        {
+          "display_title": "11:00 AM Rod Wittkopf Memorial 141",
+          "slot": "PPV NEW 12",
+          "slot_norm": "PPV NEW 12",
+          "start": "2026-10-12T18:00:00-04:00",
+          "stop": "2026-10-12T22:00:00-04:00",
+          "title": "Rod Wittkopf Memorial 141"
+        },
+        {
+          "display_title": "11:15 AM World of Outlaws Sprint Cars Mansfield",
+          "slot": "PPV NEW 13",
+          "slot_norm": "PPV NEW 13",
+          "start": "2026-10-12T18:15:00-04:00",
+          "stop": "2026-10-12T22:15:00-04:00",
+          "title": "World of Outlaws Sprint Cars Mansfield"
+        },
+        {
+          "display_title": "11:45 AM Big Buck 50 & Fall Nationals Lucas Oil",
+          "slot": "PPV NEW 14",
+          "slot_norm": "PPV NEW 14",
+          "start": "2026-10-12T18:45:00-04:00",
+          "stop": "2026-10-12T22:45:00-04:00",
+          "title": "Big Buck 50 & Fall Nationals Lucas Oil"
+        },
+        {
+          "display_title": "12:00 PM NASCAR Weekly Racing Hickory",
+          "slot": "PPV NEW 15",
+          "slot_norm": "PPV NEW 15",
+          "start": "2026-10-12T19:00:00-04:00",
+          "stop": "2026-10-12T23:00:00-04:00",
+          "title": "NASCAR Weekly Racing Hickory"
+        },
+        {
+          "display_title": "12:15 PM High Limit Racing Lakeside",
+          "slot": "PPV NEW 16",
+          "slot_norm": "PPV NEW 16",
+          "start": "2026-10-12T19:15:00-04:00",
+          "stop": "2026-10-12T23:15:00-04:00",
+          "title": "High Limit Racing Lakeside"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630271641,
-      "message_timestamp": 1791495014,
+      "message_id": 630316876,
+      "message_timestamp": 1791518490,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-09T00:29:24.671965+00:00"
+      "updated_at": "2026-10-09T06:28:28.048208+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
