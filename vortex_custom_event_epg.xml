@@ -6966,7 +6966,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03:</display-name>
+    <display-name>PPV 03: 18:15 Millstream Speedway</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
@@ -13115,6 +13115,10 @@
     <display-name>PPV NEW 02</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
+  <channel id="custom.PAY.PER.VIEW.PPV.NEW.03">
+    <display-name>PPV NEW 03</display-name>
+    <display-name>PAY PER VIEW</display-name>
+  </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.NEW.01">
     <display-name>SKY SPORTS+ NEW 01</display-name>
     <display-name>SKY SPORTS+</display-name>
@@ -15117,6 +15121,11 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
+  <programme start="20261008181500 -0400" stop="20261008221500 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
+    <title>11:15 AM Millstream Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
   <programme start="20261008124500 -0400" stop="20261008164500 -0400" channel="custom.PAY.PER.VIEW.PPV.NEW.01">
     <title>5:45 AM Super Dirt Week Oswego</title>
     <category>Sports</category>
@@ -15124,6 +15133,11 @@
   </programme>
   <programme start="20261008200000 -0400" stop="20261009000000 -0400" channel="custom.PAY.PER.VIEW.PPV.NEW.02">
     <title>1:00 PM UFC BJJ 12 Moura vs Fornarino</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261008181500 -0400" stop="20261008221500 -0400" channel="custom.PAY.PER.VIEW.PPV.NEW.03">
+    <title>11:15 AM Millstream Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

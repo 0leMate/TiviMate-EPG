@@ -274,6 +274,14 @@
           "title": "UFC BJJ 12 Moura vs Fornarino"
         },
         {
+          "display_title": "11:15 AM Millstream Speedway",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-10-08T18:15:00-04:00",
+          "stop": "2026-10-08T22:15:00-04:00",
+          "title": "Millstream Speedway"
+        },
+        {
           "display_title": "5:45 AM Super Dirt Week Oswego",
           "slot": "PPV NEW 01",
           "slot_norm": "PPV NEW 1",
@@ -288,13 +296,21 @@
           "start": "2026-10-08T20:00:00-04:00",
           "stop": "2026-10-09T00:00:00-04:00",
           "title": "UFC BJJ 12 Moura vs Fornarino"
+        },
+        {
+          "display_title": "11:15 AM Millstream Speedway",
+          "slot": "PPV NEW 03",
+          "slot_norm": "PPV NEW 3",
+          "start": "2026-10-08T18:15:00-04:00",
+          "stop": "2026-10-08T22:15:00-04:00",
+          "title": "Millstream Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630024657,
-      "message_timestamp": 1791432032,
+      "message_id": 630271641,
+      "message_timestamp": 1791495014,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-08T06:20:45.688656+00:00"
+      "updated_at": "2026-10-09T00:29:24.671965+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
