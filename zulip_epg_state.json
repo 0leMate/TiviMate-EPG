@@ -4,75 +4,83 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:15 AM Oswego Speedway",
+          "display_title": "5:00 AM <t:1791652500:t> (13:15 ET) Oswego Speedway",
           "slot": "DIRT 01",
           "slot_norm": "DIRT 1",
-          "start": "2026-10-10T13:15:00-04:00",
-          "stop": "2026-10-10T17:15:00-04:00",
-          "title": "Oswego Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791652500:t> (13:15 ET) Oswego Speedway"
         },
         {
-          "display_title": "11:15 AM Sharon Speedway",
+          "display_title": "5:00 AM <t:1791670500:t> (18:15 ET) Sharon Speedway",
           "slot": "DIRT 02",
           "slot_norm": "DIRT 2",
-          "start": "2026-10-10T18:15:00-04:00",
-          "stop": "2026-10-10T22:15:00-04:00",
-          "title": "Sharon Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791670500:t> (18:15 ET) Sharon Speedway"
         },
         {
-          "display_title": "12:15 PM RPM Speedway",
+          "display_title": "5:00 AM <t:1791674100:t> (19:15 ET) RPM Speedway",
           "slot": "DIRT 03",
           "slot_norm": "DIRT 3",
-          "start": "2026-10-10T19:15:00-04:00",
-          "stop": "2026-10-10T23:15:00-04:00",
-          "title": "RPM Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791674100:t> (19:15 ET) RPM Speedway"
         },
         {
-          "display_title": "6:15 AM Oswego Speedway",
+          "display_title": "5:00 AM <t:1791652500:t> (13:15 ET) Oswego Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-10T13:15:00-04:00",
-          "stop": "2026-10-10T17:15:00-04:00",
-          "title": "Oswego Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791652500:t> (13:15 ET) Oswego Speedway"
         },
         {
-          "display_title": "11:15 AM Mansfield Speedway",
+          "display_title": "5:00 AM <t:1791670500:t> (18:15 ET) Sharon Speedway",
           "slot": "DIRT B 02",
           "slot_norm": "DIRT B 2",
-          "start": "2026-10-10T18:15:00-04:00",
-          "stop": "2026-10-10T22:15:00-04:00",
-          "title": "Mansfield Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791670500:t> (18:15 ET) Sharon Speedway"
         },
         {
-          "display_title": "6:15 AM Oswego Speedway",
+          "display_title": "5:00 AM <t:1791674100:t> (19:15 ET) RPM Speedway",
+          "slot": "DIRT B 03",
+          "slot_norm": "DIRT B 3",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791674100:t> (19:15 ET) RPM Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1791652500:t> (13:15 ET) Oswego Speedway",
           "slot": "DIRT C 01",
           "slot_norm": "DIRT C 1",
-          "start": "2026-10-10T13:15:00-04:00",
-          "stop": "2026-10-10T17:15:00-04:00",
-          "title": "Oswego Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791652500:t> (13:15 ET) Oswego Speedway"
         },
         {
-          "display_title": "11:15 AM Sharon Speedway",
+          "display_title": "5:00 AM <t:1791670500:t> (18:15 ET) Sharon Speedway",
           "slot": "DIRT C 02",
           "slot_norm": "DIRT C 2",
-          "start": "2026-10-10T18:15:00-04:00",
-          "stop": "2026-10-10T22:15:00-04:00",
-          "title": "Sharon Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791670500:t> (18:15 ET) Sharon Speedway"
         },
         {
-          "display_title": "12:15 PM RPM Speedway",
+          "display_title": "5:00 AM <t:1791674100:t> (19:15 ET) RPM Speedway",
           "slot": "DIRT C 03",
           "slot_norm": "DIRT C 3",
-          "start": "2026-10-10T19:15:00-04:00",
-          "stop": "2026-10-10T23:15:00-04:00",
-          "title": "RPM Speedway"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791674100:t> (19:15 ET) RPM Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 630617428,
-      "message_timestamp": 1791628233,
+      "message_id": 630630364,
+      "message_timestamp": 1791637478,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-10T12:45:08.043471+00:00"
+      "updated_at": "2026-10-10T18:43:22.741603+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -168,293 +176,405 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "4:50 AM Inter vs Parma",
+          "display_title": "5:00 AM <t:1791687600:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 024",
+          "slot_norm": "PARAMOUNT 24",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791687600:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
+        {
+          "display_title": "5:00 AM <t:1791631200:t> (07:20 ET) West Bromwich Albion vs Birmingham City",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791631200:t> (07:20 ET) West Bromwich Albion vs Birmingham City"
+        },
+        {
+          "display_title": "5:00 AM <t:1791631200:t> (07:20 ET) Swansea City vs Norwich City",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791631200:t> (07:20 ET) Swansea City vs Norwich City"
+        },
+        {
+          "display_title": "5:00 AM <t:1791636600:t> (08:50 ET) Genoa vs Fiorentina",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791636600:t> (08:50 ET) Genoa vs Fiorentina"
+        },
+        {
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) Derby County vs Wrexham",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) Derby County vs Wrexham"
+        },
+        {
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) Watford vs Burnley",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) Watford vs Burnley"
+        },
+        {
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) Leicester City vs Peterborough United",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) Leicester City vs Peterborough United"
+        },
+        {
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) Bristol Rovers vs Barnet",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) Bristol Rovers vs Barnet"
+        },
+        {
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) Middlesbrough vs Wolves",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) Middlesbrough vs Wolves"
+        },
+        {
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) Bolton Wanderers vs Stoke City",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) Bolton Wanderers vs Stoke City"
+        },
+        {
+          "display_title": "5:00 AM <t:1791647400:t> (11:50 ET) Inter vs Parma",
           "slot": "PARAMOUNT B 010",
           "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-10-10T11:50:00-04:00",
-          "stop": "2026-10-10T15:50:00-04:00",
-          "title": "Inter vs Parma"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791647400:t> (11:50 ET) Inter vs Parma"
         },
         {
-          "display_title": "7:00 AM Napoli vs Frosinone",
+          "display_title": "5:00 AM <t:1791655200:t> (14:00 ET) Napoli vs Frosinone",
           "slot": "PARAMOUNT B 011",
           "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-10-10T14:00:00-04:00",
-          "stop": "2026-10-10T18:00:00-04:00",
-          "title": "Napoli vs Frosinone"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791655200:t> (14:00 ET) Napoli vs Frosinone"
         },
         {
-          "display_title": "9:00 AM UFC Fight Night: English",
+          "display_title": "5:00 AM <t:1791662400:t> (16:00 ET) UFC Fight Night: English",
           "slot": "PARAMOUNT B 012",
           "slot_norm": "PARAMOUNT B 12",
-          "start": "2026-10-10T16:00:00-04:00",
-          "stop": "2026-10-10T20:00:00-04:00",
-          "title": "UFC Fight Night: English"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791662400:t> (16:00 ET) UFC Fight Night: English"
         },
         {
-          "display_title": "9:00 AM UFC Fight Night em Português",
+          "display_title": "5:00 AM <t:1791662400:t> (16:00 ET) UFC Fight Night em Português",
           "slot": "PARAMOUNT B 013",
           "slot_norm": "PARAMOUNT B 13",
-          "start": "2026-10-10T16:00:00-04:00",
-          "stop": "2026-10-10T20:00:00-04:00",
-          "title": "UFC Fight Night em Português"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791662400:t> (16:00 ET) UFC Fight Night em Português"
         },
         {
-          "display_title": "9:00 AM UFC Fight Night en Español",
+          "display_title": "5:00 AM <t:1791662400:t> (16:00 ET) UFC Fight Night en Español",
           "slot": "PARAMOUNT B 014",
           "slot_norm": "PARAMOUNT B 14",
-          "start": "2026-10-10T16:00:00-04:00",
-          "stop": "2026-10-10T20:00:00-04:00",
-          "title": "UFC Fight Night en Español"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791662400:t> (16:00 ET) UFC Fight Night en Español"
         },
         {
-          "display_title": "2:00 PM UFC Fight Night: Multiview",
+          "display_title": "5:00 AM <t:1791680400:t> (21:00 ET) UFC Fight Night: Multiview",
           "slot": "PARAMOUNT B 015",
           "slot_norm": "PARAMOUNT B 15",
-          "start": "2026-10-10T21:00:00-04:00",
-          "stop": "2026-10-11T01:00:00-04:00",
-          "title": "UFC Fight Night: Multiview"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791680400:t> (21:00 ET) UFC Fight Night: Multiview"
         },
         {
-          "display_title": "12:20 AM English Football League: West Bromwich Albion vs Birmingham City",
+          "display_title": "5:00 AM <t:1791631200:t> (07:20 ET) English Football League: West Bromwich Albion vs Birmingham City",
           "slot": "PARAMOUNT C 01",
           "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-10-11T07:20:00-04:00",
-          "stop": "2026-10-11T11:20:00-04:00",
-          "title": "English Football League: West Bromwich Albion vs Birmingham City"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791631200:t> (07:20 ET) English Football League: West Bromwich Albion vs Birmingham City"
         },
         {
-          "display_title": "12:20 AM English Football League: Swansea City vs Norwich City",
+          "display_title": "5:00 AM <t:1791631200:t> (07:20 ET) English Football League: Swansea City vs Norwich City",
           "slot": "PARAMOUNT C 02",
           "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-10-11T07:20:00-04:00",
-          "stop": "2026-10-11T11:20:00-04:00",
-          "title": "English Football League: Swansea City vs Norwich City"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791631200:t> (07:20 ET) English Football League: Swansea City vs Norwich City"
         },
         {
-          "display_title": "1:50 AM Serie A: Genoa vs Fiorentina",
+          "display_title": "5:00 AM <t:1791636600:t> (08:50 ET) Serie A: Genoa vs Fiorentina",
           "slot": "PARAMOUNT C 03",
           "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-10-11T08:50:00-04:00",
-          "stop": "2026-10-11T12:50:00-04:00",
-          "title": "Serie A: Genoa vs Fiorentina"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791636600:t> (08:50 ET) Serie A: Genoa vs Fiorentina"
         },
         {
-          "display_title": "2:30 AM English Football League: Derby County vs Wrexham",
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) English Football League: Derby County vs Wrexham",
           "slot": "PARAMOUNT C 04",
           "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-11T09:30:00-04:00",
-          "stop": "2026-10-11T13:30:00-04:00",
-          "title": "English Football League: Derby County vs Wrexham"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) English Football League: Derby County vs Wrexham"
         },
         {
-          "display_title": "2:30 AM English Football League: Watford vs Burnley",
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) English Football League: Watford vs Burnley",
           "slot": "PARAMOUNT C 05",
           "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-11T09:30:00-04:00",
-          "stop": "2026-10-11T13:30:00-04:00",
-          "title": "English Football League: Watford vs Burnley"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) English Football League: Watford vs Burnley"
         },
         {
-          "display_title": "2:30 AM English Football League: Leicester City vs Peterborough United",
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) English Football League: Leicester City vs Peterborough United",
           "slot": "PARAMOUNT C 06",
           "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-11T09:30:00-04:00",
-          "stop": "2026-10-11T13:30:00-04:00",
-          "title": "English Football League: Leicester City vs Peterborough United"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) English Football League: Leicester City vs Peterborough United"
         },
         {
-          "display_title": "2:30 AM English Football League: Bristol Rovers vs Barnet",
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) English Football League: Bristol Rovers vs Barnet",
           "slot": "PARAMOUNT C 07",
           "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-11T09:30:00-04:00",
-          "stop": "2026-10-11T13:30:00-04:00",
-          "title": "English Football League: Bristol Rovers vs Barnet"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) English Football League: Bristol Rovers vs Barnet"
         },
         {
-          "display_title": "2:30 AM English Football League: Middlesbrough vs Wolves",
+          "display_title": "5:00 AM <t:1791639000:t> (09:30 ET) English Football League: Middlesbrough vs Wolves",
           "slot": "PARAMOUNT C 08",
           "slot_norm": "PARAMOUNT C 8",
-          "start": "2026-10-11T09:30:00-04:00",
-          "stop": "2026-10-11T13:30:00-04:00",
-          "title": "English Football League: Middlesbrough vs Wolves"
-        },
-        {
-          "display_title": "2:30 AM English Football League: Bolton Wanderers vs Stoke City",
-          "slot": "PARAMOUNT C 09",
-          "slot_norm": "PARAMOUNT C 9",
-          "start": "2026-10-11T09:30:00-04:00",
-          "stop": "2026-10-11T13:30:00-04:00",
-          "title": "English Football League: Bolton Wanderers vs Stoke City"
-        },
-        {
-          "display_title": "4:50 AM Serie A: Inter vs Parma",
-          "slot": "PARAMOUNT C 10",
-          "slot_norm": "PARAMOUNT C 10",
-          "start": "2026-10-11T11:50:00-04:00",
-          "stop": "2026-10-11T15:50:00-04:00",
-          "title": "Serie A: Inter vs Parma"
-        },
-        {
-          "display_title": "7:00 AM Serie A: Napoli vs Frosinone",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
-          "start": "2026-10-11T14:00:00-04:00",
-          "stop": "2026-10-11T18:00:00-04:00",
-          "title": "Serie A: Napoli vs Frosinone"
-        },
-        {
-          "display_title": "9:00 AM UFC: UFC Fight Night English",
-          "slot": "PARAMOUNT C 12",
-          "slot_norm": "PARAMOUNT C 12",
-          "start": "2026-10-11T16:00:00-04:00",
-          "stop": "2026-10-11T20:00:00-04:00",
-          "title": "UFC: UFC Fight Night English"
-        },
-        {
-          "display_title": "9:00 AM UFC: UFC Fight Night em Português",
-          "slot": "PARAMOUNT C 13",
-          "slot_norm": "PARAMOUNT C 13",
-          "start": "2026-10-11T16:00:00-04:00",
-          "stop": "2026-10-11T20:00:00-04:00",
-          "title": "UFC: UFC Fight Night em Português"
-        },
-        {
-          "display_title": "9:00 AM UFC: UFC Fight Night en Español",
-          "slot": "PARAMOUNT C 14",
-          "slot_norm": "PARAMOUNT C 14",
-          "start": "2026-10-11T16:00:00-04:00",
-          "stop": "2026-10-11T20:00:00-04:00",
-          "title": "UFC: UFC Fight Night en Español"
-        },
-        {
-          "display_title": "2:00 PM UFC: UFC Fight Night Multiview",
-          "slot": "PARAMOUNT C 15",
-          "slot_norm": "PARAMOUNT C 15",
-          "start": "2026-10-11T21:00:00-04:00",
-          "stop": "2026-10-12T01:00:00-04:00",
-          "title": "UFC: UFC Fight Night Multiview"
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791639000:t> (09:30 ET) English Football League: Middlesbrough vs Wolves"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630610252,
-      "message_timestamp": 1791622876,
+      "message_id": 630630074,
+      "message_timestamp": 1791637350,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-10T12:45:08.452603+00:00"
+      "updated_at": "2026-10-10T18:43:22.969921+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "1:10 AM RWS: World Championship Superfight Night",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-10-10T08:10:00-04:00",
-          "stop": "2026-10-10T12:10:00-04:00",
-          "title": "RWS: World Championship Superfight Night"
-        },
-        {
-          "display_title": "6:30 AM BKB 60: Newcastle",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-10-10T13:30:00-04:00",
-          "stop": "2026-10-10T17:30:00-04:00",
-          "title": "BKB 60: Newcastle"
-        },
-        {
-          "display_title": "7:00 AM PFL Africa: Morocco",
-          "slot": "PPV C 003",
-          "slot_norm": "PPV C 3",
-          "start": "2026-10-10T14:00:00-04:00",
-          "stop": "2026-10-10T18:00:00-04:00",
-          "title": "PFL Africa: Morocco"
-        },
-        {
-          "display_title": "6:30 AM Joey Essex vs Dapper Laughs",
-          "slot": "PPV C 004",
-          "slot_norm": "PPV C 4",
-          "start": "2026-10-10T13:30:00-04:00",
-          "stop": "2026-10-10T17:30:00-04:00",
-          "title": "Joey Essex vs Dapper Laughs"
-        },
-        {
-          "display_title": "6:30 AM Joey Essex vs Dapper Laughs BU",
-          "slot": "PPV C 005",
-          "slot_norm": "PPV C 5",
-          "start": "2026-10-10T13:30:00-04:00",
-          "stop": "2026-10-10T17:30:00-04:00",
-          "title": "Joey Essex vs Dapper Laughs BU"
-        },
-        {
-          "display_title": "9:00 AM Schofield vs Bahdi: Prelims",
-          "slot": "PPV C 006",
-          "slot_norm": "PPV C 6",
-          "start": "2026-10-10T16:00:00-04:00",
-          "stop": "2026-10-10T20:00:00-04:00",
-          "title": "Schofield vs Bahdi: Prelims"
-        },
-        {
-          "display_title": "11:00 AM UFC Fight Night: Allen vs Duncan ( Prelims in UFC Section )",
-          "slot": "PPV C 007",
-          "slot_norm": "PPV C 7",
-          "start": "2026-10-10T18:00:00-04:00",
-          "stop": "2026-10-10T22:00:00-04:00",
-          "title": "UFC Fight Night: Allen vs Duncan ( Prelims in UFC Section )"
-        },
-        {
-          "display_title": "11:00 AM UFC Fight Night: Allen vs Duncan",
-          "slot": "PPV C 008",
-          "slot_norm": "PPV C 8",
-          "start": "2026-10-10T18:00:00-04:00",
-          "stop": "2026-10-10T22:00:00-04:00",
-          "title": "UFC Fight Night: Allen vs Duncan"
-        },
-        {
-          "display_title": "11:00 AM UFC Fight Night: Allen vs Duncan",
-          "slot": "PPV C 009",
-          "slot_norm": "PPV C 9",
-          "start": "2026-10-10T18:00:00-04:00",
-          "stop": "2026-10-10T22:00:00-04:00",
-          "title": "UFC Fight Night: Allen vs Duncan"
-        },
-        {
-          "display_title": "1:00 PM Schofield vs Bahdi",
-          "slot": "PPV C 010",
-          "slot_norm": "PPV C 10",
-          "start": "2026-10-10T20:00:00-04:00",
+          "display_title": "5:00 AM <t:1791676800:t> (20:00 ET) UFC FN Allen vs Duncan",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-10T12:00:00-04:00",
           "stop": "2026-10-11T00:00:00-04:00",
-          "title": "Schofield vs Bahdi"
+          "title": "<t:1791676800:t> (20:00 ET) UFC FN Allen vs Duncan"
         },
         {
-          "display_title": "1:00 PM Schofield vs Bahdi BU",
-          "slot": "PPV C 011",
-          "slot_norm": "PPV C 11",
-          "start": "2026-10-10T20:00:00-04:00",
+          "display_title": "5:00 AM <t:1791676800:t> (20:00 ET) UFC FN Allen vs Duncan",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
+          "start": "2026-10-10T12:00:00-04:00",
           "stop": "2026-10-11T00:00:00-04:00",
-          "title": "Schofield vs Bahdi BU"
+          "title": "<t:1791676800:t> (20:00 ET) UFC FN Allen vs Duncan"
         },
         {
-          "display_title": "11:00 AM WWE Money in the Bank",
-          "slot": "PPV C 012",
-          "slot_norm": "PPV C 12",
-          "start": "2026-10-10T18:00:00-04:00",
-          "stop": "2026-10-10T22:00:00-04:00",
-          "title": "WWE Money in the Bank"
+          "display_title": "5:00 AM <t:1791688500:t> (23:15 ET) Post Fight Press Conference UFC FN",
+          "slot": "PPV D 05",
+          "slot_norm": "PPV D 5",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791688500:t> (23:15 ET) Post Fight Press Conference UFC FN"
         },
         {
-          "display_title": "11:00 AM WWE Money in the Bank",
-          "slot": "PPV C 013",
-          "slot_norm": "PPV C 13",
-          "start": "2026-10-10T18:00:00-04:00",
-          "stop": "2026-10-10T22:00:00-04:00",
-          "title": "WWE Money in the Bank"
+          "display_title": "5:00 AM <t:1791669600:t> (18:00 ET) WWE Money in the Bank",
+          "slot": "PPV D 06",
+          "slot_norm": "PPV D 6",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791669600:t> (18:00 ET) WWE Money in the Bank"
+        },
+        {
+          "display_title": "5:00 AM <t:1791669600:t> (18:00 ET) WWE Money in the Bank",
+          "slot": "PPV D 07",
+          "slot_norm": "PPV D 7",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791669600:t> (18:00 ET) WWE Money in the Bank"
+        },
+        {
+          "display_title": "5:00 AM <t:1791669600:t> (18:00 ET) WWE Money in the Bank",
+          "slot": "PPV D 08",
+          "slot_norm": "PPV D 8",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791669600:t> (18:00 ET) WWE Money in the Bank"
+        },
+        {
+          "display_title": "5:00 AM <t:1791676800:t> (20:00 ET) HAW Never Surrender",
+          "slot": "PPV D 10",
+          "slot_norm": "PPV D 10",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791676800:t> (20:00 ET) HAW Never Surrender"
+        },
+        {
+          "display_title": "5:00 AM <t:1791662400:t> (16:00 ET) PRELIMS Schofield vs Bahdi",
+          "slot": "PPV D 11",
+          "slot_norm": "PPV D 11",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791662400:t> (16:00 ET) PRELIMS Schofield vs Bahdi"
+        },
+        {
+          "display_title": "5:00 AM <t:1791676800:t> (20:00 ET) Schofield vs Bahdi",
+          "slot": "PPV D 12",
+          "slot_norm": "PPV D 12",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791676800:t> (20:00 ET) Schofield vs Bahdi"
+        },
+        {
+          "display_title": "5:00 AM <t:1791653400:t> (13:30 ET) Essex vs Laughs",
+          "slot": "PPV D 13",
+          "slot_norm": "PPV D 13",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791653400:t> (13:30 ET) Essex vs Laughs"
+        },
+        {
+          "display_title": "5:00 AM <t:1791665100:t> (16:45 ET) USAC AMSOIL National Sprint Cars at Lawrenceburg",
+          "slot": "PPV D 15",
+          "slot_norm": "PPV D 15",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791665100:t> (16:45 ET) USAC AMSOIL National Sprint Cars at Lawrenceburg"
+        },
+        {
+          "display_title": "5:00 AM <t:1791665100:t> (16:45 ET) Lucas Oil Late Model Dirt Series at Eldora",
+          "slot": "PPV D 16",
+          "slot_norm": "PPV D 16",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791665100:t> (16:45 ET) Lucas Oil Late Model Dirt Series at Eldora"
+        },
+        {
+          "display_title": "5:00 AM <t:1791669600:t> (18:00 ET) Rod Wittkopf Memorial at 141",
+          "slot": "PPV D 17",
+          "slot_norm": "PPV D 17",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791669600:t> (18:00 ET) Rod Wittkopf Memorial at 141"
+        },
+        {
+          "display_title": "5:00 AM <t:1791664200:t> (16:30 ET) STSS SuperNationals at Afton",
+          "slot": "PPV D 18",
+          "slot_norm": "PPV D 18",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791664200:t> (16:30 ET) STSS SuperNationals at Afton"
+        },
+        {
+          "display_title": "5:00 AM <t:1791658800:t> (15:00 ET) Canadian Super DIRT Weekend at Cornwall",
+          "slot": "PPV D 19",
+          "slot_norm": "PPV D 19",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791658800:t> (15:00 ET) Canadian Super DIRT Weekend at Cornwall"
+        },
+        {
+          "display_title": "5:00 AM <t:1791673200:t> (19:00 ET) HLR Heartland of America Showdown at Lakeside",
+          "slot": "PPV D 20",
+          "slot_norm": "PPV D 20",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791673200:t> (19:00 ET) HLR Heartland of America Showdown at Lakeside"
+        },
+        {
+          "display_title": "5:00 AM <t:1791658800:t> (15:00 ET) Race of Champions Modifieds at Mahoning",
+          "slot": "PPV D 22",
+          "slot_norm": "PPV D 22",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791658800:t> (15:00 ET) Race of Champions Modifieds at Mahoning"
+        },
+        {
+          "display_title": "5:00 AM <t:1791669600:t> (18:00 ET) Championship Night at Langley",
+          "slot": "PPV D 23",
+          "slot_norm": "PPV D 23",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791669600:t> (18:00 ET) Championship Night at Langley"
+        },
+        {
+          "display_title": "5:00 AM <t:1791675900:t> (19:45 ET) NASCAR Whelen Modified Tour at Thompson",
+          "slot": "PPV D 24",
+          "slot_norm": "PPV D 24",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791675900:t> (19:45 ET) NASCAR Whelen Modified Tour at Thompson"
+        },
+        {
+          "display_title": "5:00 AM <t:1791679500:t> (20:45 ET) NARC 410 Sprints at Placerville",
+          "slot": "PPV D 25",
+          "slot_norm": "PPV D 25",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791679500:t> (20:45 ET) NARC 410 Sprints at Placerville"
+        },
+        {
+          "display_title": "5:00 AM <t:1791652500:t> (13:15 ET) Oswego Speedway",
+          "slot": "PPV D 26",
+          "slot_norm": "PPV D 26",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791652500:t> (13:15 ET) Oswego Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1791670500:t> (18:15 ET) Sharon Speedway",
+          "slot": "PPV D 27",
+          "slot_norm": "PPV D 27",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791670500:t> (18:15 ET) Sharon Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1791674100:t> (19:15 ET) RPM Speedway",
+          "slot": "PPV D 28",
+          "slot_norm": "PPV D 28",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791674100:t> (19:15 ET) RPM Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1791666000:t> (17:00 ET) Twisted Redemption Demolition Derby",
+          "slot": "PPV D 29",
+          "slot_norm": "PPV D 29",
+          "start": "2026-10-10T12:00:00-04:00",
+          "stop": "2026-10-11T00:00:00-04:00",
+          "title": "<t:1791666000:t> (17:00 ET) Twisted Redemption Demolition Derby"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630617435,
-      "message_timestamp": 1791628234,
+      "message_id": 630651619,
+      "message_timestamp": 1791653441,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-10T12:45:08.821038+00:00"
+      "updated_at": "2026-10-10T18:43:23.200538+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -590,285 +710,237 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "10:55 PM UTC WTA Tour Semi-Finals at the China Open Zheng Qinwen vs E. Mertens",
+          "display_title": "12:00 AM <t:1791629700:t> (10:55 UTC) WTA Tour Semi-Finals at the China Open Zheng Qinwen vs E. Mertens",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-10-10T10:55:00+01:00",
-          "stop": "2026-10-10T14:55:00+01:00",
-          "title": "UTC WTA Tour Semi-Finals at the China Open Zheng Qinwen vs E. Mertens"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791629700:t> (10:55 UTC) WTA Tour Semi-Finals at the China Open Zheng Qinwen vs E. Mertens"
         },
         {
-          "display_title": "11:15 PM UTC EFL League One Notts County vs Oxford Utd",
+          "display_title": "12:00 AM <t:1791630900:t> (11:15 UTC) EFL League One Notts County vs Oxford Utd",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC EFL League One Notts County vs Oxford Utd"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791630900:t> (11:15 UTC) EFL League One Notts County vs Oxford Utd"
         },
         {
-          "display_title": "11:15 PM UTC EFL Championship Charlton vs Bristol City",
+          "display_title": "12:00 AM <t:1791630900:t> (11:15 UTC) EFL Championship Charlton vs Bristol City",
           "slot": "SKY SPORTS+ 03",
           "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC EFL Championship Charlton vs Bristol City"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791630900:t> (11:15 UTC) EFL Championship Charlton vs Bristol City"
         },
         {
-          "display_title": "11:15 PM UTC EFL League Two Oldham vs Accrington",
+          "display_title": "12:00 AM <t:1791630900:t> (11:15 UTC) EFL League Two Oldham vs Accrington",
           "slot": "SKY SPORTS+ 04",
           "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC EFL League Two Oldham vs Accrington"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791630900:t> (11:15 UTC) EFL League Two Oldham vs Accrington"
         },
         {
-          "display_title": "11:15 PM UTC EFL League One Plymouth vs Wimbledon",
+          "display_title": "12:00 AM <t:1791630900:t> (11:15 UTC) EFL League One Plymouth vs Wimbledon",
           "slot": "SKY SPORTS+ 05",
           "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC EFL League One Plymouth vs Wimbledon"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791630900:t> (11:15 UTC) EFL League One Plymouth vs Wimbledon"
         },
         {
-          "display_title": "11:15 PM UTC EFL League Two Swindon vs Crewe",
+          "display_title": "12:00 AM <t:1791630900:t> (11:15 UTC) EFL League Two Swindon vs Crewe",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC EFL League Two Swindon vs Crewe"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791630900:t> (11:15 UTC) EFL League Two Swindon vs Crewe"
         },
         {
-          "display_title": "12:25 AM UTC WTA Tour Semi-Finals at the China Open E. Mertens/D. Shnaider vs G. Dabrowski/L. Stefani",
+          "display_title": "12:00 AM <t:1791635100:t> (12:25 UTC) WTA Tour Semi-Finals at the China Open E. Mertens/D. Shnaider vs G. Dabrowski/L. Stefani",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-10T12:25:00+01:00",
-          "stop": "2026-10-10T16:25:00+01:00",
-          "title": "UTC WTA Tour Semi-Finals at the China Open E. Mertens/D. Shnaider vs G. Dabrowski/L. Stefani"
-        },
-        {
-          "display_title": "11:15 PM UTC Charlton vs Bristol City // UK Sat 10 Oct // ET Sat 10 Oct 7:15am",
-          "slot": "SKY SPORTS+ B 01",
-          "slot_norm": "SKY SPORTS+ B 1",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC Charlton vs Bristol City // UK Sat 10 Oct // ET Sat 10 Oct 7:15am"
-        },
-        {
-          "display_title": "11:15 PM UTC Notts County vs Oxford Utd // UK Sat 10 Oct // ET Sat 10 Oct 7:15am",
-          "slot": "SKY SPORTS+ B 03",
-          "slot_norm": "SKY SPORTS+ B 3",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC Notts County vs Oxford Utd // UK Sat 10 Oct // ET Sat 10 Oct 7:15am"
-        },
-        {
-          "display_title": "11:15 PM UTC Plymouth vs Wimbledon // UK Sat 10 Oct // ET Sat 10 Oct 7:15am",
-          "slot": "SKY SPORTS+ B 04",
-          "slot_norm": "SKY SPORTS+ B 4",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC Plymouth vs Wimbledon // UK Sat 10 Oct // ET Sat 10 Oct 7:15am"
-        },
-        {
-          "display_title": "11:15 PM UTC Oldham vs Accrington // UK Sat 10 Oct // ET Sat 10 Oct 7:15am",
-          "slot": "SKY SPORTS+ B 05",
-          "slot_norm": "SKY SPORTS+ B 5",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC Oldham vs Accrington // UK Sat 10 Oct // ET Sat 10 Oct 7:15am"
-        },
-        {
-          "display_title": "11:15 PM UTC Swindon vs Crewe // UK Sat 10 Oct // ET Sat 10 Oct 7:15am",
-          "slot": "SKY SPORTS+ B 06",
-          "slot_norm": "SKY SPORTS+ B 6",
-          "start": "2026-10-10T11:15:00+01:00",
-          "stop": "2026-10-10T15:15:00+01:00",
-          "title": "UTC Swindon vs Crewe // UK Sat 10 Oct // ET Sat 10 Oct 7:15am"
+          "start": "2026-10-10T12:00:00+01:00",
+          "stop": "2026-10-11T00:00:00+01:00",
+          "title": "<t:1791635100:t> (12:25 UTC) WTA Tour Semi-Finals at the China Open E. Mertens/D. Shnaider vs G. Dabrowski/L. Stefani"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 630610234,
-      "message_timestamp": 1791622869,
+      "message_id": 630651579,
+      "message_timestamp": 1791653423,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-10T12:45:09.647220+00:00"
+      "updated_at": "2026-10-10T18:43:23.715306+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "12:00 PM AEDT Wellington vs Northland Farah Palmer Cup Championship Final 2026",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-10-10T10:00:00+11:00",
-          "stop": "2026-10-10T14:00:00+11:00",
-          "title": "AEDT Wellington vs Northland Farah Palmer Cup Championship Final 2026"
+          "display_title": "2:00 PM <t:1791658800:t> (06:00 AEDT) PL Saturday Wrap: Matchweek 6 Oct 11",
+          "slot": "AU STAN 031",
+          "slot_norm": "AU STAN 31",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791658800:t> (06:00 AEDT) PL Saturday Wrap: Matchweek 6 Oct 11"
         },
         {
-          "display_title": "2:30 PM AEDT North Harbour vs Taranaki NPC Quarter Final 2026",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
-          "start": "2026-10-10T12:30:00+11:00",
-          "stop": "2026-10-10T16:30:00+11:00",
-          "title": "AEDT North Harbour vs Taranaki NPC Quarter Final 2026"
+          "display_title": "2:00 PM <t:1791676800:t> (11:00 AEDT) Canterbury vs Waikato NPC Quarter Final 2026",
+          "slot": "AU STAN 032",
+          "slot_norm": "AU STAN 32",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791676800:t> (11:00 AEDT) Canterbury vs Waikato NPC Quarter Final 2026"
         },
         {
-          "display_title": "3:00 PM AEDT Women\\`s Elite UCI Gravel World Championships 2026",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-10-10T13:00:00+11:00",
-          "stop": "2026-10-10T17:00:00+11:00",
-          "title": "AEDT Women\\`s Elite UCI Gravel World Championships 2026"
+          "display_title": "2:00 PM <t:1791684000:t> (13:00 AEDT) Men\\`s Elite UCI Gravel World Championships 2026",
+          "slot": "AU STAN 033",
+          "slot_norm": "AU STAN 33",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791684000:t> (13:00 AEDT) Men\\`s Elite UCI Gravel World Championships 2026"
         },
         {
-          "display_title": "4:00 PM AEDT Otago vs Hawke\\`s Bay NPC Quarter Final 2026",
-          "slot": "AU STAN B 013",
-          "slot_norm": "AU STAN B 13",
-          "start": "2026-10-10T14:00:00+11:00",
-          "stop": "2026-10-10T18:00:00+11:00",
-          "title": "AEDT Otago vs Hawke\\`s Bay NPC Quarter Final 2026"
+          "display_title": "2:00 PM <t:1791687600:t> (14:00 AEDT) Canterbury vs Auckland Farah Palmer Cup Premiership Final 2026",
+          "slot": "AU STAN 034",
+          "slot_norm": "AU STAN 34",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791687600:t> (14:00 AEDT) Canterbury vs Auckland Farah Palmer Cup Premiership Final 2026"
         },
         {
-          "display_title": "5:55 PM AEDT Cerezo Osaka vs Yokohama F. Marinos J.League 2026",
-          "slot": "AU STAN B 014",
-          "slot_norm": "AU STAN B 14",
-          "start": "2026-10-10T15:55:00+11:00",
-          "stop": "2026-10-10T19:55:00+11:00",
-          "title": "AEDT Cerezo Osaka vs Yokohama F. Marinos J.League 2026"
+          "display_title": "2:00 PM <t:1791694500:t> (15:55 AEDT) Chiba vs Nagasaki J.League 2026",
+          "slot": "AU STAN 035",
+          "slot_norm": "AU STAN 35",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791694500:t> (15:55 AEDT) Chiba vs Nagasaki J.League 2026"
         },
         {
-          "display_title": "5:55 PM AEDT Seoul vs Jeju K League 2026",
-          "slot": "AU STAN B 015",
-          "slot_norm": "AU STAN B 15",
-          "start": "2026-10-10T15:55:00+11:00",
-          "stop": "2026-10-10T19:55:00+11:00",
-          "title": "AEDT Seoul vs Jeju K League 2026"
+          "display_title": "2:00 PM <t:1791694500:t> (15:55 AEDT) Gwangju vs Ulsan K League 2026",
+          "slot": "AU STAN 036",
+          "slot_norm": "AU STAN 36",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791694500:t> (15:55 AEDT) Gwangju vs Ulsan K League 2026"
         },
         {
-          "display_title": "6:00 PM AEDT New Zealand vs Australia Bledisloe Cup Game 1 2026",
-          "slot": "AU STAN B 016",
-          "slot_norm": "AU STAN B 16",
-          "start": "2026-10-10T16:00:00+11:00",
-          "stop": "2026-10-10T20:00:00+11:00",
-          "title": "AEDT New Zealand vs Australia Bledisloe Cup Game 1 2026"
+          "display_title": "2:00 PM <t:1791701700:t> (17:55 AEDT) Kawasaki Frontale vs Nagoya Grampus J.League 2026",
+          "slot": "AU STAN 037",
+          "slot_norm": "AU STAN 37",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791701700:t> (17:55 AEDT) Kawasaki Frontale vs Nagoya Grampus J.League 2026"
         },
         {
-          "display_title": "6:00 PM AEDT New Zealand vs Australia: SKY NZ Coverage Bledisloe Cup Game 1 2026",
-          "slot": "AU STAN B 017",
-          "slot_norm": "AU STAN B 17",
-          "start": "2026-10-10T16:00:00+11:00",
-          "stop": "2026-10-10T20:00:00+11:00",
-          "title": "AEDT New Zealand vs Australia: SKY NZ Coverage Bledisloe Cup Game 1 2026"
+          "display_title": "2:00 PM <t:1791720000:t> (23:00 AEDT) Crystal Palace vs Nottingham Forest Premier League Matchweek 6 2026/2027",
+          "slot": "AU STAN 038",
+          "slot_norm": "AU STAN 38",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791720000:t> (23:00 AEDT) Crystal Palace vs Nottingham Forest Premier League Matchweek 6 2026/2027"
         },
         {
-          "display_title": "8:00 PM AEDT Beijing: Day 11 WTA 1000",
-          "slot": "AU STAN B 018",
-          "slot_norm": "AU STAN B 18",
-          "start": "2026-10-10T18:00:00+11:00",
-          "stop": "2026-10-10T22:00:00+11:00",
-          "title": "AEDT Beijing: Day 11 WTA 1000"
+          "display_title": "2:00 PM <t:1791723000:t> (23:50 AEDT) Hull City vs Everton Premier League Matchweek 6 2026/2027",
+          "slot": "AU STAN 039",
+          "slot_norm": "AU STAN 39",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791723000:t> (23:50 AEDT) Hull City vs Everton Premier League Matchweek 6 2026/2027"
         },
         {
-          "display_title": "11:30 PM AEDT Arsenal vs Leeds United Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 019",
-          "slot_norm": "AU STAN B 19",
-          "start": "2026-10-10T21:30:00+11:00",
-          "stop": "2026-10-11T01:30:00+11:00",
-          "title": "AEDT Arsenal vs Leeds United Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791726900:t> (00:55 AEDT) Exeter vs Newcastle PREM Rugby Round 3 2026/27",
+          "slot": "AU STAN 040",
+          "slot_norm": "AU STAN 40",
+          "start": "2026-10-12T12:00:00+11:00",
+          "stop": "2026-10-13T00:00:00+11:00",
+          "title": "<t:1791726900:t> (00:55 AEDT) Exeter vs Newcastle PREM Rugby Round 3 2026/27"
         },
         {
-          "display_title": "12:20 AM AEDT • Arsenal vs Leeds United Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 020",
-          "slot_norm": "AU STAN B 20",
-          "start": "2026-10-10T22:20:00+11:00",
-          "stop": "2026-10-11T02:20:00+11:00",
-          "title": "AEDT • Arsenal vs Leeds United Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791726900:t> (00:55 AEDT) Sale vs Harlequins PREM Rugby Round 3 2026/27",
+          "slot": "AU STAN 041",
+          "slot_norm": "AU STAN 41",
+          "start": "2026-10-12T12:00:00+11:00",
+          "stop": "2026-10-13T00:00:00+11:00",
+          "title": "<t:1791726900:t> (00:55 AEDT) Sale vs Harlequins PREM Rugby Round 3 2026/27"
         },
         {
-          "display_title": "2:50 AM AEDT Chelsea vs Bournemouth Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 021",
-          "slot_norm": "AU STAN B 21",
-          "start": "2026-10-11T00:50:00+11:00",
-          "stop": "2026-10-11T04:50:00+11:00",
-          "title": "AEDT Chelsea vs Bournemouth Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791732000:t> (02:20 AEDT) Liverpool vs Manchester City Premier League Matchweek 6 2026/2027",
+          "slot": "AU STAN 042",
+          "slot_norm": "AU STAN 42",
+          "start": "2026-10-12T12:00:00+11:00",
+          "stop": "2026-10-13T00:00:00+11:00",
+          "title": "<t:1791732000:t> (02:20 AEDT) Liverpool vs Manchester City Premier League Matchweek 6 2026/2027"
         },
         {
-          "display_title": "2:50 AM AEDT Ipswich Town vs Fulham Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 022",
-          "slot_norm": "AU STAN B 22",
-          "start": "2026-10-11T00:50:00+11:00",
-          "stop": "2026-10-11T04:50:00+11:00",
-          "title": "AEDT Ipswich Town vs Fulham Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791732000:t> (02:20 AEDT) • Liverpool vs Manchester City Premier League Matchweek 6 2026/2027",
+          "slot": "AU STAN 043",
+          "slot_norm": "AU STAN 43",
+          "start": "2026-10-12T12:00:00+11:00",
+          "stop": "2026-10-13T00:00:00+11:00",
+          "title": "<t:1791732000:t> (02:20 AEDT) • Liverpool vs Manchester City Premier League Matchweek 6 2026/2027"
         },
         {
-          "display_title": "2:50 AM AEDT Sunderland vs Brighton & Hove Albion Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 023",
-          "slot_norm": "AU STAN B 23",
-          "start": "2026-10-11T00:50:00+11:00",
-          "stop": "2026-10-11T04:50:00+11:00",
-          "title": "AEDT Sunderland vs Brighton & Hove Albion Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791741600:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 6 Oct 12",
+          "slot": "AU STAN 044",
+          "slot_norm": "AU STAN 44",
+          "start": "2026-10-12T12:00:00+11:00",
+          "stop": "2026-10-13T00:00:00+11:00",
+          "title": "<t:1791741600:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 6 Oct 12"
         },
         {
-          "display_title": "2:50 AM AEDT Aston Villa vs Brentford Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 024",
-          "slot_norm": "AU STAN B 24",
-          "start": "2026-10-11T00:50:00+11:00",
-          "stop": "2026-10-11T04:50:00+11:00",
-          "title": "AEDT Aston Villa vs Brentford Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791658800:t> (06:00 AEDT) PL Saturday Wrap: Matchweek 6 Oct 11",
+          "slot": "AU STAN B 031",
+          "slot_norm": "AU STAN B 31",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791658800:t> (06:00 AEDT) PL Saturday Wrap: Matchweek 6 Oct 11"
         },
         {
-          "display_title": "2:50 AM AEDT Goal Rush • 11 October Premier League 2026/2027",
-          "slot": "AU STAN B 025",
-          "slot_norm": "AU STAN B 25",
-          "start": "2026-10-11T00:50:00+11:00",
-          "stop": "2026-10-11T04:50:00+11:00",
-          "title": "AEDT Goal Rush • 11 October Premier League 2026/2027"
+          "display_title": "2:00 PM <t:1791676800:t> (11:00 AEDT) Canterbury vs Waikato NPC Quarter Final 2026",
+          "slot": "AU STAN B 032",
+          "slot_norm": "AU STAN B 32",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791676800:t> (11:00 AEDT) Canterbury vs Waikato NPC Quarter Final 2026"
         },
         {
-          "display_title": "3:00 AM AEDT Northampton vs Bath PREM Rugby Round 3 2026/27",
-          "slot": "AU STAN B 026",
-          "slot_norm": "AU STAN B 26",
-          "start": "2026-10-11T01:00:00+11:00",
-          "stop": "2026-10-11T05:00:00+11:00",
-          "title": "AEDT Northampton vs Bath PREM Rugby Round 3 2026/27"
+          "display_title": "2:00 PM <t:1791684000:t> (13:00 AEDT) Men\\`s Elite UCI Gravel World Championships 2026",
+          "slot": "AU STAN B 033",
+          "slot_norm": "AU STAN B 33",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791684000:t> (13:00 AEDT) Men\\`s Elite UCI Gravel World Championships 2026"
         },
         {
-          "display_title": "5:20 AM AEDT Manchester United vs Tottenham Hotspur Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 027",
-          "slot_norm": "AU STAN B 27",
-          "start": "2026-10-11T03:20:00+11:00",
-          "stop": "2026-10-11T07:20:00+11:00",
-          "title": "AEDT Manchester United vs Tottenham Hotspur Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791687600:t> (14:00 AEDT) Canterbury vs Auckland Farah Palmer Cup Premiership Final 2026",
+          "slot": "AU STAN B 034",
+          "slot_norm": "AU STAN B 34",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791687600:t> (14:00 AEDT) Canterbury vs Auckland Farah Palmer Cup Premiership Final 2026"
         },
         {
-          "display_title": "5:20 AM AEDT • Manchester United vs Tottenham Hotspur Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 028",
-          "slot_norm": "AU STAN B 28",
-          "start": "2026-10-11T03:20:00+11:00",
-          "stop": "2026-10-11T07:20:00+11:00",
-          "title": "AEDT • Manchester United vs Tottenham Hotspur Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791694500:t> (15:55 AEDT) Chiba vs Nagasaki J.League 2026",
+          "slot": "AU STAN B 035",
+          "slot_norm": "AU STAN B 35",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791694500:t> (15:55 AEDT) Chiba vs Nagasaki J.League 2026"
         },
         {
-          "display_title": "5:25 AM AEDT Saracens vs Bristol PREM Rugby Round 3 2026/27",
-          "slot": "AU STAN B 029",
-          "slot_norm": "AU STAN B 29",
-          "start": "2026-10-11T03:25:00+11:00",
-          "stop": "2026-10-11T07:25:00+11:00",
-          "title": "AEDT Saracens vs Bristol PREM Rugby Round 3 2026/27"
-        },
-        {
-          "display_title": "7:00 AM AEDT Semi Final: PFL Africa 2026",
-          "slot": "AU STAN B 030",
-          "slot_norm": "AU STAN B 30",
-          "start": "2026-10-11T05:00:00+11:00",
-          "stop": "2026-10-11T09:00:00+11:00",
-          "title": "AEDT Semi Final: PFL Africa 2026"
+          "display_title": "2:00 PM <t:1791694500:t> (15:55 AEDT) Gwangju vs Ulsan K League 2026",
+          "slot": "AU STAN B 036",
+          "slot_norm": "AU STAN B 36",
+          "start": "2026-10-11T12:00:00+11:00",
+          "stop": "2026-10-12T00:00:00+11:00",
+          "title": "<t:1791694500:t> (15:55 AEDT) Gwangju vs Ulsan K League 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 630571229,
-      "message_timestamp": 1791597650,
+      "message_id": 630630096,
+      "message_timestamp": 1791637359,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-10T06:04:16.495928+00:00"
+      "updated_at": "2026-10-10T18:43:23.974455+00:00"
     }
   },
   "version": 1
