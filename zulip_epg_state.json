@@ -297,10 +297,10 @@
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630475251,
-      "message_timestamp": 1791563453,
+      "message_id": 630535584,
+      "message_timestamp": 1791579688,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-09T19:35:11.104306+00:00"
+      "updated_at": "2026-10-10T00:06:22.429562+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -331,10 +331,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630487777,
-      "message_timestamp": 1791567015,
+      "message_id": 630535393,
+      "message_timestamp": 1791579657,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-09T19:35:11.606451+00:00"
+      "updated_at": "2026-10-10T00:06:22.687424+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -697,10 +697,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 630475322,
-      "message_timestamp": 1791563472,
+      "message_id": 630535357,
+      "message_timestamp": 1791579651,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-09T19:35:13.152896+00:00"
+      "updated_at": "2026-10-10T00:06:23.566635+00:00"
     }
   },
   "version": 1
