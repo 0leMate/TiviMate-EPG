@@ -128,187 +128,43 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791712800:t> (06:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791712800:t> (06:00 ET) CBS Sports HQ: Scoreboard Final"
-        },
-        {
-          "display_title": "5:00 AM <t:1791714000:t> (06:20 ET) Serie A: Como vs Roma",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791714000:t> (06:20 ET) Serie A: Como vs Roma"
-        },
-        {
-          "display_title": "5:00 AM <t:1791715800:t> (06:50 ET) English Football League: Southampton vs Portsmouth",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791715800:t> (06:50 ET) English Football League: Southampton vs Portsmouth"
-        },
-        {
-          "display_title": "5:00 AM <t:1791716100:t> (06:55 ET) Scottish Professional Football League: Motherwell vs Celtic",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791716100:t> (06:55 ET) Scottish Professional Football League: Motherwell vs Celtic"
-        },
-        {
           "display_title": "5:00 AM <t:1791723000:t> (08:50 ET) Serie A: Lecce vs Bologna",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
           "start": "2026-10-11T12:00:00-04:00",
           "stop": "2026-10-12T00:00:00-04:00",
           "title": "<t:1791723000:t> (08:50 ET) Serie A: Lecce vs Bologna"
         },
         {
-          "display_title": "5:00 AM <t:1791723000:t> (08:50 ET) Serie A: Lazio vs Monza",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "display_title": "5:00 AM <t:1791723240:t> (08:54 ET) Scottish Professional Football League: Aberdeen vs St Johnstone",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
           "start": "2026-10-11T12:00:00-04:00",
           "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723000:t> (08:50 ET) Serie A: Lazio vs Monza"
-        },
-        {
-          "display_title": "5:00 AM <t:1791723300:t> (08:55 ET) Scottish Professional Football League: Aberdeen vs St. Johnstone",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723300:t> (08:55 ET) Scottish Professional Football League: Aberdeen vs St. Johnstone"
-        },
-        {
-          "display_title": "5:00 AM <t:1791727200:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791727200:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
+          "title": "<t:1791723240:t> (08:54 ET) Scottish Professional Football League: Aberdeen vs St Johnstone"
         },
         {
           "display_title": "5:00 AM <t:1791730800:t> (11:00 ET) Serie A: Sassuolo vs Milan",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
           "start": "2026-10-11T12:00:00-04:00",
           "stop": "2026-10-12T00:00:00-04:00",
           "title": "<t:1791730800:t> (11:00 ET) Serie A: Sassuolo vs Milan"
         },
         {
-          "display_title": "5:00 AM <t:1791734400:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791734400:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
-        },
-        {
-          "display_title": "5:00 AM <t:1791738000:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791738000:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
-        },
-        {
           "display_title": "5:00 AM <t:1791741600:t> (14:00 ET) Serie A: Cagliari vs Juventus",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
           "start": "2026-10-11T12:00:00-04:00",
           "stop": "2026-10-12T00:00:00-04:00",
           "title": "<t:1791741600:t> (14:00 ET) Serie A: Cagliari vs Juventus"
-        },
-        {
-          "display_title": "5:00 AM <t:1791759600:t> (19:00 ET) CBS Sports HQ: The Postgame",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791759600:t> (19:00 ET) CBS Sports HQ: The Postgame"
-        },
-        {
-          "display_title": "5:00 AM <t:1791774000:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791774000:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
-        },
-        {
-          "display_title": "5:00 AM <t:1791714000:t> (06:20 ET) Como vs Roma",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791714000:t> (06:20 ET) Como vs Roma"
-        },
-        {
-          "display_title": "5:00 AM <t:1791715800:t> (06:50 ET) Southampton vs Portsmouth",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791715800:t> (06:50 ET) Southampton vs Portsmouth"
-        },
-        {
-          "display_title": "5:00 AM <t:1791716100:t> (06:55 ET) Motherwell vs Celtic",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791716100:t> (06:55 ET) Motherwell vs Celtic"
-        },
-        {
-          "display_title": "5:00 AM <t:1791723000:t> (08:50 ET) Lazio vs Monza",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723000:t> (08:50 ET) Lazio vs Monza"
-        },
-        {
-          "display_title": "5:00 AM <t:1791723000:t> (08:50 ET) Lecce vs Bologna",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723000:t> (08:50 ET) Lecce vs Bologna"
-        },
-        {
-          "display_title": "5:00 AM <t:1791723300:t> (08:55 ET) Aberdeen vs St. Johnstone",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723300:t> (08:55 ET) Aberdeen vs St. Johnstone"
-        },
-        {
-          "display_title": "5:00 AM <t:1791730800:t> (11:00 ET) Sassuolo vs Milan",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791730800:t> (11:00 ET) Sassuolo vs Milan"
-        },
-        {
-          "display_title": "5:00 AM <t:1791741600:t> (14:00 ET) Cagliari vs Juventus",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791741600:t> (14:00 ET) Cagliari vs Juventus"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630730633,
-      "message_timestamp": 1791711022,
+      "message_id": 630762645,
+      "message_timestamp": 1791729023,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-11T13:08:37.170856+00:00"
+      "updated_at": "2026-10-11T19:01:20.184378+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
