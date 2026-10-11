@@ -178,12 +178,12 @@
           "title": "<t:1791745200:t> (15:00 ET) Canadian Super DIRT Wekend Cornwall"
         },
         {
-          "display_title": "5:00 AM <t:1791749700:t> (16:15 ET) NWMT Thompson",
+          "display_title": "5:00 AM <t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
           "start": "2026-10-11T12:00:00-04:00",
           "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791749700:t> (16:15 ET) NWMT Thompson"
+          "title": "<t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson"
         },
         {
           "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) TNA Bound for Glory",
@@ -210,12 +210,12 @@
           "title": "<t:1791745200:t> (15:00 ET) Canadian Super DIRT Wekend Cornwall"
         },
         {
-          "display_title": "5:00 AM <t:1791749700:t> (16:15 ET) NWMT Thompson",
+          "display_title": "5:00 AM <t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
           "start": "2026-10-11T12:00:00-04:00",
           "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791749700:t> (16:15 ET) NWMT Thompson"
+          "title": "<t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson"
         },
         {
           "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) TNA Bound for Glory",
@@ -251,10 +251,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630737637,
-      "message_timestamp": 1791716429,
+      "message_id": 630810194,
+      "message_timestamp": 1791756022,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-11T13:08:37.442410+00:00"
+      "updated_at": "2026-10-11T23:45:40.864608+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

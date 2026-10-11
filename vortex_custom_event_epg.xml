@@ -7007,7 +7007,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 16:15 NWMT Thompson</display-name>
+    <display-name>PPV 02: 16:15 CANCELLED NWMT Thompson</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -7187,7 +7187,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02: 16:15 NWMT Thompson</display-name>
+    <display-name>PPV B 02: 16:15 CANCELLED NWMT Thompson</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
@@ -14532,7 +14532,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261012000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>5:00 AM &lt;t:1791749700:t&gt; (16:15 ET) NWMT Thompson</title>
+    <title>5:00 AM &lt;t:1791749700:t&gt; (16:15 ET) CANCELLED NWMT Thompson</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14552,7 +14552,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261011120000 -0400" stop="20261012000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>5:00 AM &lt;t:1791749700:t&gt; (16:15 ET) NWMT Thompson</title>
+    <title>5:00 AM &lt;t:1791749700:t&gt; (16:15 ET) CANCELLED NWMT Thompson</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
