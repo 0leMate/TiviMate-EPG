@@ -128,27 +128,115 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "5:00 AM <t:1791810000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791810000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "5:00 AM <t:1791817200:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791817200:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "5:00 AM <t:1791820800:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791820800:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "5:00 AM <t:1791822000:t> (12:20 ET) Serie A: Atalanta vs Venezia",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791822000:t> (12:20 ET) Serie A: Atalanta vs Venezia"
+        },
+        {
+          "display_title": "5:00 AM <t:1791828000:t> (14:00 ET) CBS Sports HQ: The Early Edge",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791828000:t> (14:00 ET) CBS Sports HQ: The Early Edge"
+        },
+        {
+          "display_title": "5:00 AM <t:1791829800:t> (14:30 ET) Serie A: Torino vs Udinese",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791829800:t> (14:30 ET) Serie A: Torino vs Udinese"
+        },
+        {
+          "display_title": "5:00 AM <t:1791831600:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791831600:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "5:00 AM <t:1791835200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791835200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "5:00 AM <t:1791842400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791842400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791849600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "5:00 AM <t:1791860400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791860400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
+        {
           "display_title": "5:00 AM <t:1791822000:t> (12:20 ET) Atalanta vs Venezia",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-12T12:00:00-04:00",
           "stop": "2026-10-13T00:00:00-04:00",
           "title": "<t:1791822000:t> (12:20 ET) Atalanta vs Venezia"
         },
         {
           "display_title": "5:00 AM <t:1791829800:t> (14:30 ET) Torino vs Udinese",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
           "start": "2026-10-12T12:00:00-04:00",
           "stop": "2026-10-13T00:00:00-04:00",
           "title": "<t:1791829800:t> (14:30 ET) Torino vs Udinese"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630855659,
-      "message_timestamp": 1791777644,
+      "message_id": 630913643,
+      "message_timestamp": 1791793823,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-12T06:12:15.917165+00:00"
+      "updated_at": "2026-10-12T15:47:05.798785+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -168,13 +256,21 @@
           "start": "2026-10-12T12:00:00-04:00",
           "stop": "2026-10-13T00:00:00-04:00",
           "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
+        },
+        {
+          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630855663,
-      "message_timestamp": 1791777645,
+      "message_id": 631001772,
+      "message_timestamp": 1791811822,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-12T06:12:16.374844+00:00"
+      "updated_at": "2026-10-12T15:47:06.163989+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -328,123 +424,27 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1791726900:t> (00:55 AEDT) Sale vs Harlequins PREM Rugby Round 3 2026/27",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791726900:t> (00:55 AEDT) Sale vs Harlequins PREM Rugby Round 3 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1791726900:t> (00:55 AEDT) Exeter vs Newcastle PREM Rugby Round 3 2026/27",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791726900:t> (00:55 AEDT) Exeter vs Newcastle PREM Rugby Round 3 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1791732000:t> (02:20 AEDT) Liverpool vs Manchester City Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791732000:t> (02:20 AEDT) Liverpool vs Manchester City Premier League Matchweek 6 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791732000:t> (02:20 AEDT) • Liverpool vs Manchester City Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791732000:t> (02:20 AEDT) • Liverpool vs Manchester City Premier League Matchweek 6 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791741600:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 6 Oct 12",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791741600:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 6 Oct 12"
-        },
-        {
-          "display_title": "2:00 PM <t:1791774000:t> (14:00 AEDT) Wuhan: Day 1 WTA 1000",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791774000:t> (14:00 AEDT) Wuhan: Day 1 WTA 1000"
-        },
-        {
           "display_title": "2:00 PM <t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-10-13T12:00:00+11:00",
           "stop": "2026-10-14T00:00:00+11:00",
           "title": "<t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1791726900:t> (00:55 AEDT) Sale vs Harlequins PREM Rugby Round 3 2026/27",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791726900:t> (00:55 AEDT) Sale vs Harlequins PREM Rugby Round 3 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1791726900:t> (00:55 AEDT) Exeter vs Newcastle PREM Rugby Round 3 2026/27",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791726900:t> (00:55 AEDT) Exeter vs Newcastle PREM Rugby Round 3 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1791732000:t> (02:20 AEDT) Liverpool vs Manchester City Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 007",
-          "slot_norm": "AU STAN B 7",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791732000:t> (02:20 AEDT) Liverpool vs Manchester City Premier League Matchweek 6 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791732000:t> (02:20 AEDT) • Liverpool vs Manchester City Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 008",
-          "slot_norm": "AU STAN B 8",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791732000:t> (02:20 AEDT) • Liverpool vs Manchester City Premier League Matchweek 6 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791741600:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 6 Oct 12",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791741600:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 6 Oct 12"
-        },
-        {
-          "display_title": "2:00 PM <t:1791774000:t> (14:00 AEDT) Wuhan: Day 1 WTA 1000",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-10-12T12:00:00+11:00",
-          "stop": "2026-10-13T00:00:00+11:00",
-          "title": "<t:1791774000:t> (14:00 AEDT) Wuhan: Day 1 WTA 1000"
-        },
-        {
           "display_title": "2:00 PM <t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
           "start": "2026-10-13T12:00:00+11:00",
           "stop": "2026-10-14T00:00:00+11:00",
           "title": "<t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 630754096,
-      "message_timestamp": 1791723630,
+      "message_id": 630947586,
+      "message_timestamp": 1791801020,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-11T13:08:38.207868+00:00"
+      "updated_at": "2026-10-12T15:47:07.264012+00:00"
     }
   },
   "version": 1
