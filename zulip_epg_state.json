@@ -406,19 +406,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1791717900:t> (11:25 UTC) WTA Tour Final at the China Open Zheng Qinwen vs M. Andreeva",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-10-11T12:00:00+01:00",
-          "stop": "2026-10-12T00:00:00+01:00",
-          "title": "<t:1791717900:t> (11:25 UTC) WTA Tour Final at the China Open Zheng Qinwen vs M. Andreeva"
+          "display_title": "12:00 AM <t:1791829800:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm",
+          "slot": "SKY SPORTS+ B 01",
+          "slot_norm": "SKY SPORTS+ B 1",
+          "start": "2026-10-12T12:00:00+01:00",
+          "stop": "2026-10-13T00:00:00+01:00",
+          "title": "<t:1791829800:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 630735545,
-      "message_timestamp": 1791714650,
+      "message_id": 631122483,
+      "message_timestamp": 1791844213,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-11T13:08:37.904671+00:00"
+      "updated_at": "2026-10-12T23:05:22.381269+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",

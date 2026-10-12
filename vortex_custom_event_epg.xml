@@ -12457,8 +12457,8 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <display-name>SKY SPORTS+ B 01</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <programme start="20261013120000 +1100" stop="20261014000000 +1100" channel="custom.AU.STAN.AU.STAN.001">
@@ -14021,8 +14021,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261011120000 +0100" stop="20261012000000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>12:00 AM &lt;t:1791717900:t&gt; (11:25 UTC) WTA Tour Final at the China Open Zheng Qinwen vs M. Andreeva</title>
+  <programme start="20261012120000 +0100" stop="20261013000000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <title>12:00 AM &lt;t:1791829800:t&gt; (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
