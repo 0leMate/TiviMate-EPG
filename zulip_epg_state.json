@@ -128,133 +128,53 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791723000:t> (08:50 ET) Serie A: Lecce vs Bologna",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723000:t> (08:50 ET) Serie A: Lecce vs Bologna"
+          "display_title": "5:00 AM <t:1791822000:t> (12:20 ET) Atalanta vs Venezia",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791822000:t> (12:20 ET) Atalanta vs Venezia"
         },
         {
-          "display_title": "5:00 AM <t:1791723240:t> (08:54 ET) Scottish Professional Football League: Aberdeen vs St Johnstone",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791723240:t> (08:54 ET) Scottish Professional Football League: Aberdeen vs St Johnstone"
-        },
-        {
-          "display_title": "5:00 AM <t:1791730800:t> (11:00 ET) Serie A: Sassuolo vs Milan",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791730800:t> (11:00 ET) Serie A: Sassuolo vs Milan"
-        },
-        {
-          "display_title": "5:00 AM <t:1791741600:t> (14:00 ET) Serie A: Cagliari vs Juventus",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791741600:t> (14:00 ET) Serie A: Cagliari vs Juventus"
+          "display_title": "5:00 AM <t:1791829800:t> (14:30 ET) Torino vs Udinese",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791829800:t> (14:30 ET) Torino vs Udinese"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630762645,
-      "message_timestamp": 1791729023,
+      "message_id": 630855659,
+      "message_timestamp": 1791777644,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-11T19:01:20.184378+00:00"
+      "updated_at": "2026-10-12T06:12:15.917165+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791745200:t> (15:00 ET) Canadian Super DIRT Wekend Cornwall",
+          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791745200:t> (15:00 ET) Canadian Super DIRT Wekend Cornwall"
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "5:00 AM <t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson"
-        },
-        {
-          "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) TNA Bound for Glory",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791752400:t> (17:00 ET) TNA Bound for Glory"
-        },
-        {
-          "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) GCW Fight Club Night Two",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791752400:t> (17:00 ET) GCW Fight Club Night Two"
-        },
-        {
-          "display_title": "5:00 AM <t:1791745200:t> (15:00 ET) Canadian Super DIRT Wekend Cornwall",
+          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791745200:t> (15:00 ET) Canadian Super DIRT Wekend Cornwall"
-        },
-        {
-          "display_title": "5:00 AM <t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791749700:t> (16:15 ET) CANCELLED NWMT Thompson"
-        },
-        {
-          "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) TNA Bound for Glory",
-          "slot": "PPV B 03",
-          "slot_norm": "PPV B 3",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791752400:t> (17:00 ET) TNA Bound for Glory"
-        },
-        {
-          "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) GCW Fight Club Night Two",
-          "slot": "PPV B 04",
-          "slot_norm": "PPV B 4",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791752400:t> (17:00 ET) GCW Fight Club Night Two"
-        },
-        {
-          "display_title": "5:00 AM <t:1791752400:t> (17:00 ET) TNA Bound for Glory",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791752400:t> (17:00 ET) TNA Bound for Glory"
-        },
-        {
-          "display_title": "5:00 AM <t:1791745200:t> (15:00 ET) Canadian Super DIRT Weekend at Cornwall",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-10-11T12:00:00-04:00",
-          "stop": "2026-10-12T00:00:00-04:00",
-          "title": "<t:1791745200:t> (15:00 ET) Canadian Super DIRT Weekend at Cornwall"
+          "start": "2026-10-12T12:00:00-04:00",
+          "stop": "2026-10-13T00:00:00-04:00",
+          "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 630810194,
-      "message_timestamp": 1791756022,
+      "message_id": 630855663,
+      "message_timestamp": 1791777645,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-11T23:45:40.864608+00:00"
+      "updated_at": "2026-10-12T06:12:16.374844+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
