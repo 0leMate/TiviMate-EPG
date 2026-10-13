@@ -128,149 +128,189 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791810000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791810000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "display_title": "5:00 AM <t:1791907200:t> (12:00 ET) Lens vs Sporting CP",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791907200:t> (12:00 ET) Lens vs Sporting CP"
         },
         {
-          "display_title": "5:00 AM <t:1791817200:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791817200:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "display_title": "5:00 AM <t:1791907200:t> (12:00 ET) Sabah vs Slavia Praha",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791907200:t> (12:00 ET) Sabah vs Slavia Praha"
         },
         {
-          "display_title": "5:00 AM <t:1791820800:t> (12:00 ET) CBS Sports HQ: Just Football",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791820800:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) Atlético Madrid vs Man. United",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) Atlético Madrid vs Man. United"
         },
         {
-          "display_title": "5:00 AM <t:1791822000:t> (12:20 ET) Serie A: Atalanta vs Venezia",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791822000:t> (12:20 ET) Serie A: Atalanta vs Venezia"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) Galatasaray vs Barcelona",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) Galatasaray vs Barcelona"
         },
         {
-          "display_title": "5:00 AM <t:1791828000:t> (14:00 ET) CBS Sports HQ: The Early Edge",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791828000:t> (14:00 ET) CBS Sports HQ: The Early Edge"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) Arsenal vs Lille",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) Arsenal vs Lille"
         },
         {
-          "display_title": "5:00 AM <t:1791829800:t> (14:30 ET) Serie A: Torino vs Udinese",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791829800:t> (14:30 ET) Serie A: Torino vs Udinese"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) The Golazo Show",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) The Golazo Show"
         },
         {
-          "display_title": "5:00 AM <t:1791831600:t> (15:00 ET) CBS Sports HQ: This Just In",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791831600:t> (15:00 ET) CBS Sports HQ: This Just In"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) Viking vs Bayern",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) Viking vs Bayern"
         },
         {
-          "display_title": "5:00 AM <t:1791835200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791835200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) Inter vs Club Brugge",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) Inter vs Club Brugge"
         },
         {
-          "display_title": "5:00 AM <t:1791842400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791842400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) RB Leipzig vs PSV",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) RB Leipzig vs PSV"
         },
         {
-          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791849600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) Villarreal vs Napoli",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791914400:t> (14:00 ET) Villarreal vs Napoli"
         },
         {
-          "display_title": "5:00 AM <t:1791860400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791860400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+          "display_title": "5:00 AM <t:1791916500:t> (14:35 ET) Wrexham vs West Bromwich Albion",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791916500:t> (14:35 ET) Wrexham vs West Bromwich Albion"
         },
         {
-          "display_title": "5:00 AM <t:1791822000:t> (12:20 ET) Atalanta vs Venezia",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791822000:t> (12:20 ET) Atalanta vs Venezia"
+          "display_title": "5:00 AM <t:1791916500:t> (14:35 ET) Wolves vs Bolton Wanderers",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791916500:t> (14:35 ET) Wolves vs Bolton Wanderers"
         },
         {
-          "display_title": "5:00 AM <t:1791829800:t> (14:30 ET) Torino vs Udinese",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791829800:t> (14:30 ET) Torino vs Udinese"
+          "display_title": "5:00 AM <t:1791917400:t> (14:50 ET) Stoke City vs Middlesbrough",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791917400:t> (14:50 ET) Stoke City vs Middlesbrough"
+        },
+        {
+          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White\\`s Contender Series",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791932400:t> (19:00 ET) Dana White\\`s Contender Series"
+        },
+        {
+          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White\\`s Contender Series em Português",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791932400:t> (19:00 ET) Dana White\\`s Contender Series em Português"
+        },
+        {
+          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White\\`s Contender Series en Español",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791932400:t> (19:00 ET) Dana White\\`s Contender Series en Español"
+        },
+        {
+          "display_title": "5:00 AM <t:1791935400:t> (19:50 ET) Portmore United FC vs Violette AC",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791935400:t> (19:50 ET) Portmore United FC vs Violette AC"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 630913643,
-      "message_timestamp": 1791793823,
+      "message_id": 631163981,
+      "message_timestamp": 1791864054,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-12T15:47:05.798785+00:00"
+      "updated_at": "2026-10-13T06:54:41.755367+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) WWE Monday Night RAW",
+          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) WWE Monday Night RAW",
+          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10"
+        },
+        {
+          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1791849600:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-12T12:00:00-04:00",
-          "stop": "2026-10-13T00:00:00-04:00",
-          "title": "<t:1791849600:t> (20:00 ET) WWE Monday Night RAW"
+          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-10-13T12:00:00-04:00",
+          "stop": "2026-10-14T00:00:00-04:00",
+          "title": "<t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 631001772,
-      "message_timestamp": 1791811822,
+      "message_id": 631164021,
+      "message_timestamp": 1791864064,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-12T15:47:06.163989+00:00"
+      "updated_at": "2026-10-13T06:54:42.162018+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -406,45 +446,85 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1791829800:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm",
+          "display_title": "12:00 AM <t:1791916200:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm",
           "slot": "SKY SPORTS+ B 01",
           "slot_norm": "SKY SPORTS+ B 1",
-          "start": "2026-10-12T12:00:00+01:00",
-          "stop": "2026-10-13T00:00:00+01:00",
-          "title": "<t:1791829800:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm"
+          "start": "2026-10-13T12:00:00+01:00",
+          "stop": "2026-10-14T00:00:00+01:00",
+          "title": "<t:1791916200:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 631122483,
-      "message_timestamp": 1791844213,
+      "message_id": 631132633,
+      "message_timestamp": 1791849620,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-12T23:05:22.381269+00:00"
+      "updated_at": "2026-10-13T06:54:43.024853+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-10-13T12:00:00+11:00",
-          "stop": "2026-10-14T00:00:00+11:00",
-          "title": "<t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Atlético de Madrid vs Manchester United UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 006",
+          "slot_norm": "AU STAN B 6",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) Atlético de Madrid vs Manchester United UEFA Champions League Matchday 2 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-10-13T12:00:00+11:00",
-          "stop": "2026-10-14T00:00:00+11:00",
-          "title": "<t:1791829800:t> (05:30 AEDT) Coventry City vs Newcastle United Premier League Matchweek 6 2026/2027"
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Arsenal vs Lille UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 007",
+          "slot_norm": "AU STAN B 7",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) Arsenal vs Lille UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Galatasaray vs Barcelona UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 008",
+          "slot_norm": "AU STAN B 8",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) Galatasaray vs Barcelona UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Viking vs Bayern München UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) Viking vs Bayern München UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) RB Leipzig vs PSV UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 010",
+          "slot_norm": "AU STAN B 10",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) RB Leipzig vs PSV UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Villarreal vs Napoli UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 011",
+          "slot_norm": "AU STAN B 11",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) Villarreal vs Napoli UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Internazionale vs Club Brugge UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 012",
+          "slot_norm": "AU STAN B 12",
+          "start": "2026-10-14T12:00:00+11:00",
+          "stop": "2026-10-15T00:00:00+11:00",
+          "title": "<t:1791917700:t> (05:55 AEDT) Internazionale vs Club Brugge UEFA Champions League Matchday 2 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 630947586,
-      "message_timestamp": 1791801020,
+      "message_id": 631132669,
+      "message_timestamp": 1791849637,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-12T15:47:07.264012+00:00"
+      "updated_at": "2026-10-13T06:54:43.440101+00:00"
     }
   },
   "version": 1
