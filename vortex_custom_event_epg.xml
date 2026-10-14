@@ -12349,6 +12349,10 @@
     <display-name>DIRT 01</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
+  <channel id="custom.DIRTVISION.DIRT.B.01">
+    <display-name>DIRT B 01</display-name>
+    <display-name>DIRTVISION</display-name>
+  </channel>
   <channel id="custom.DIRTVISION.DIRT.C.01">
     <display-name>DIRT C 01</display-name>
     <display-name>DIRTVISION</display-name>
@@ -13937,6 +13941,11 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
+  <programme start="20261013120000 -0400" stop="20261014000000 -0400" channel="custom.DIRTVISION.DIRT.B.01">
+    <title>5:00 AM &lt;t:1791929700:t&gt; (18:15 ET) Millbridge Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
   <programme start="20261013120000 -0400" stop="20261014000000 -0400" channel="custom.DIRTVISION.DIRT.C.01">
     <title>5:00 AM &lt;t:1791929700:t&gt; (18:15 ET) Millbridge Speedway</title>
     <category>Sports</category>
@@ -14287,8 +14296,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261013120000 +0100" stop="20261014000000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.B.01">
-    <title>12:00 AM &lt;t:1791916200:t&gt; (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm</title>
+  <programme start="20261014120000 +0100" stop="20261015000000 +0100" channel="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <title>12:00 AM &lt;t:1792002600:t&gt; (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
