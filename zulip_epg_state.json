@@ -5,18 +5,34 @@
       "events": [
         {
           "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 631518420,
-      "message_timestamp": 1791950428,
+      "message_id": 631587980,
+      "message_timestamp": 1791970219,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-14T07:48:32.295328+00:00"
+      "updated_at": "2026-10-14T13:52:25.425522+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,91 +128,131 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "5:00 AM <t:1792033200:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 023",
+          "slot_norm": "PARAMOUNT 23",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792033200:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
+        {
           "display_title": "5:00 AM <t:1791993600:t> (12:00 ET) LASK vs Liverpool",
-          "slot": "PARAMOUNT B 018",
-          "slot_norm": "PARAMOUNT B 18",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791993600:t> (12:00 ET) LASK vs Liverpool"
         },
         {
           "display_title": "5:00 AM <t:1791993600:t> (12:00 ET) Feyenoord vs Como",
-          "slot": "PARAMOUNT B 019",
-          "slot_norm": "PARAMOUNT B 19",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791993600:t> (12:00 ET) Feyenoord vs Como"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Man. City vs PSG",
-          "slot": "PARAMOUNT B 020",
-          "slot_norm": "PARAMOUNT B 20",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Man. City vs PSG"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Roma vs Real Madrid",
-          "slot": "PARAMOUNT B 021",
-          "slot_norm": "PARAMOUNT B 21",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Roma vs Real Madrid"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) The Golazo Show",
-          "slot": "PARAMOUNT B 022",
-          "slot_norm": "PARAMOUNT B 22",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) The Golazo Show"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Aston Villa vs Fenerbahçe",
-          "slot": "PARAMOUNT B 023",
-          "slot_norm": "PARAMOUNT B 23",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Aston Villa vs Fenerbahçe"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Real Betis vs Porto",
-          "slot": "PARAMOUNT B 024",
-          "slot_norm": "PARAMOUNT B 24",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Real Betis vs Porto"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Bodø/Glimt vs Dortmund",
-          "slot": "PARAMOUNT B 025",
-          "slot_norm": "PARAMOUNT B 25",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Bodø/Glimt vs Dortmund"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Slovan Bratislava vs Stuttgart",
-          "slot": "PARAMOUNT B 026",
-          "slot_norm": "PARAMOUNT B 26",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Slovan Bratislava vs Stuttgart"
         },
         {
           "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Shakhtar Donetsk vs AEK Athens",
-          "slot": "PARAMOUNT B 027",
-          "slot_norm": "PARAMOUNT B 27",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1791999000:t> (13:30 ET) Shakhtar Donetsk vs AEK Athens"
+        },
+        {
+          "display_title": "5:00 AM <t:1792002900:t> (14:35 ET) Norwich City vs Southampton",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792002900:t> (14:35 ET) Norwich City vs Southampton"
+        },
+        {
+          "display_title": "5:00 AM <t:1792002900:t> (14:35 ET) Portsmouth vs Sheffield United",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792002900:t> (14:35 ET) Portsmouth vs Sheffield United"
+        },
+        {
+          "display_title": "5:00 AM <t:1792003800:t> (14:50 ET) Lincoln City vs West Ham United",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792003800:t> (14:50 ET) Lincoln City vs West Ham United"
+        },
+        {
+          "display_title": "5:00 AM <t:1792021800:t> (19:50 ET) Club Sando FC vs Mount Pleasant FA",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792021800:t> (19:50 ET) Club Sando FC vs Mount Pleasant FA"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 631518578,
-      "message_timestamp": 1791950458,
+      "message_id": 631573077,
+      "message_timestamp": 1791966643,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-14T07:48:32.586347+00:00"
+      "updated_at": "2026-10-14T13:52:25.501613+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -216,13 +272,21 @@
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
           "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 631518525,
-      "message_timestamp": 1791950450,
+      "message_id": 631622062,
+      "message_timestamp": 1791979219,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-14T07:48:32.810603+00:00"
+      "updated_at": "2026-10-14T13:52:25.588446+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -358,165 +422,101 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792002600:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm",
-          "slot": "SKY SPORTS+ B 01",
-          "slot_norm": "SKY SPORTS+ B 1",
+          "display_title": "12:00 AM <t:1792002600:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
+          "slot": "SKY SPORTS+ B 04",
+          "slot_norm": "SKY SPORTS+ B 4",
           "start": "2026-10-14T12:00:00+01:00",
           "stop": "2026-10-15T00:00:00+01:00",
-          "title": "<t:1792002600:t> (18:30 UTC) Burnley vs Charlton // UK Tue 13 Oct // ET Tue 13 Oct 2:30pm"
+          "title": "<t:1792002600:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
+        },
+        {
+          "display_title": "12:00 AM <t:1792002600:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
+          "slot": "SKY SPORTS+ B 05",
+          "slot_norm": "SKY SPORTS+ B 5",
+          "start": "2026-10-14T12:00:00+01:00",
+          "stop": "2026-10-15T00:00:00+01:00",
+          "title": "<t:1792002600:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
+        },
+        {
+          "display_title": "12:00 AM <t:1792002600:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
+          "slot": "SKY SPORTS+ B 06",
+          "slot_norm": "SKY SPORTS+ B 6",
+          "start": "2026-10-14T12:00:00+01:00",
+          "stop": "2026-10-15T00:00:00+01:00",
+          "title": "<t:1792002600:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 631477866,
-      "message_timestamp": 1791936026,
+      "message_id": 631602084,
+      "message_timestamp": 1791973874,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-14T01:17:09.192826+00:00"
+      "updated_at": "2026-10-14T13:52:25.755925+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Manchester City vs Paris SaintGermain UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 006",
+          "slot_norm": "AU STAN B 6",
+          "start": "2026-10-15T12:00:00+11:00",
+          "stop": "2026-10-16T00:00:00+11:00",
+          "title": "<t:1792004100:t> (05:55 AEDT) Manchester City vs Paris SaintGermain UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Roma vs Real Madrid UEFA Champions League Matchday 2 2026/2027",
+          "slot": "AU STAN B 007",
+          "slot_norm": "AU STAN B 7",
+          "start": "2026-10-15T12:00:00+11:00",
+          "stop": "2026-10-16T00:00:00+11:00",
+          "title": "<t:1792004100:t> (05:55 AEDT) Roma vs Real Madrid UEFA Champions League Matchday 2 2026/2027"
+        },
+        {
           "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Aston Villa vs Fenerbahçe UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
+          "slot": "AU STAN B 008",
+          "slot_norm": "AU STAN B 8",
           "start": "2026-10-15T12:00:00+11:00",
           "stop": "2026-10-16T00:00:00+11:00",
           "title": "<t:1792004100:t> (05:55 AEDT) Aston Villa vs Fenerbahçe UEFA Champions League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Shakhtar Donetsk vs AEK Athens UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
           "start": "2026-10-15T12:00:00+11:00",
           "stop": "2026-10-16T00:00:00+11:00",
           "title": "<t:1792004100:t> (05:55 AEDT) Shakhtar Donetsk vs AEK Athens UEFA Champions League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Real Betis vs Porto UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
+          "slot": "AU STAN B 010",
+          "slot_norm": "AU STAN B 10",
           "start": "2026-10-15T12:00:00+11:00",
           "stop": "2026-10-16T00:00:00+11:00",
           "title": "<t:1792004100:t> (05:55 AEDT) Real Betis vs Porto UEFA Champions League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Bodø / Glimt vs Borussia Dortmund UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
+          "slot": "AU STAN B 011",
+          "slot_norm": "AU STAN B 11",
           "start": "2026-10-15T12:00:00+11:00",
           "stop": "2026-10-16T00:00:00+11:00",
           "title": "<t:1792004100:t> (05:55 AEDT) Bodø / Glimt vs Borussia Dortmund UEFA Champions League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792004100:t> (05:55 AEDT) Slovan Bratislava vs Stuttgart UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
+          "slot": "AU STAN B 012",
+          "slot_norm": "AU STAN B 12",
           "start": "2026-10-15T12:00:00+11:00",
           "stop": "2026-10-16T00:00:00+11:00",
           "title": "<t:1792004100:t> (05:55 AEDT) Slovan Bratislava vs Stuttgart UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791909600:t> (03:40 AEDT) Sabah vs Slavia Praha UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791909600:t> (03:40 AEDT) Sabah vs Slavia Praha UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791909600:t> (03:40 AEDT) Lens vs Sporting CP UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791909600:t> (03:40 AEDT) Lens vs Sporting CP UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791916800:t> (05:40 AEDT) Football Zone: MD2 Wednesday UEFA Champions League 2026/27",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791916800:t> (05:40 AEDT) Football Zone: MD2 Wednesday UEFA Champions League 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Atlético de Madrid vs Manchester United UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) Atlético de Madrid vs Manchester United UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Arsenal vs Lille UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) Arsenal vs Lille UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Galatasaray vs Barcelona UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) Galatasaray vs Barcelona UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Viking vs Bayern München UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 007",
-          "slot_norm": "AU STAN B 7",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) Viking vs Bayern München UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) RB Leipzig vs PSV UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 008",
-          "slot_norm": "AU STAN B 8",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) RB Leipzig vs PSV UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Villarreal vs Napoli UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) Villarreal vs Napoli UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791917700:t> (05:55 AEDT) Internazionale vs Club Brugge UEFA Champions League Matchday 2 2026/2027",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791917700:t> (05:55 AEDT) Internazionale vs Club Brugge UEFA Champions League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791946800:t> (14:00 AEDT) Wuhan: Day 3 WTA 1000",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791946800:t> (14:00 AEDT) Wuhan: Day 3 WTA 1000"
-        },
-        {
-          "display_title": "2:00 PM <t:1791973500:t> (21:25 AEDT) Day 1 UCI Track World Championships 2026",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-10-14T12:00:00+11:00",
-          "stop": "2026-10-15T00:00:00+11:00",
-          "title": "<t:1791973500:t> (21:25 AEDT) Day 1 UCI Track World Championships 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 631289227,
-      "message_timestamp": 1791896477,
+      "message_id": 631602135,
+      "message_timestamp": 1791973888,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-13T16:08:40.930139+00:00"
+      "updated_at": "2026-10-14T13:52:25.879897+00:00"
     }
   },
   "version": 1
