@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 631465385,
-      "message_timestamp": 1791930614,
+      "message_id": 631518420,
+      "message_timestamp": 1791950428,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-14T01:17:07.818839+00:00"
+      "updated_at": "2026-10-14T07:48:32.295328+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -128,189 +112,117 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: Galatasaray vs Barcelona",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: Galatasaray vs Barcelona"
+          "display_title": "5:00 AM <t:1791993600:t> (12:00 ET) LASK vs Liverpool",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791993600:t> (12:00 ET) LASK vs Liverpool"
         },
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: Arsenal vs Lille",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: Arsenal vs Lille"
+          "display_title": "5:00 AM <t:1791993600:t> (12:00 ET) Feyenoord vs Como",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791993600:t> (12:00 ET) Feyenoord vs Como"
         },
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: The Golazo Show",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: The Golazo Show"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Man. City vs PSG",
+          "slot": "PARAMOUNT B 020",
+          "slot_norm": "PARAMOUNT B 20",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Man. City vs PSG"
         },
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: Viking vs Bayern",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: Viking vs Bayern"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Roma vs Real Madrid",
+          "slot": "PARAMOUNT B 021",
+          "slot_norm": "PARAMOUNT B 21",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Roma vs Real Madrid"
         },
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: Inter vs Club Brugge",
-          "slot": "PARAMOUNT C 08",
-          "slot_norm": "PARAMOUNT C 8",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: Inter vs Club Brugge"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) The Golazo Show",
+          "slot": "PARAMOUNT B 022",
+          "slot_norm": "PARAMOUNT B 22",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) The Golazo Show"
         },
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: RB Leipzig vs PSV",
-          "slot": "PARAMOUNT C 09",
-          "slot_norm": "PARAMOUNT C 9",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: RB Leipzig vs PSV"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Aston Villa vs Fenerbahçe",
+          "slot": "PARAMOUNT B 023",
+          "slot_norm": "PARAMOUNT B 23",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Aston Villa vs Fenerbahçe"
         },
         {
-          "display_title": "5:00 AM <t:1791914400:t> (14:00 ET) UEFA Champions League: Villarreal vs Napoli",
-          "slot": "PARAMOUNT C 10",
-          "slot_norm": "PARAMOUNT C 10",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791914400:t> (14:00 ET) UEFA Champions League: Villarreal vs Napoli"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Real Betis vs Porto",
+          "slot": "PARAMOUNT B 024",
+          "slot_norm": "PARAMOUNT B 24",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Real Betis vs Porto"
         },
         {
-          "display_title": "5:00 AM <t:1791916500:t> (14:35 ET) English Football League: Wrexham vs West Bromwich Albion",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791916500:t> (14:35 ET) English Football League: Wrexham vs West Bromwich Albion"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Bodø/Glimt vs Dortmund",
+          "slot": "PARAMOUNT B 025",
+          "slot_norm": "PARAMOUNT B 25",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Bodø/Glimt vs Dortmund"
         },
         {
-          "display_title": "5:00 AM <t:1791916500:t> (14:35 ET) English Football League: Wolves vs Bolton Wanderers",
-          "slot": "PARAMOUNT C 12",
-          "slot_norm": "PARAMOUNT C 12",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791916500:t> (14:35 ET) English Football League: Wolves vs Bolton Wanderers"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Slovan Bratislava vs Stuttgart",
+          "slot": "PARAMOUNT B 026",
+          "slot_norm": "PARAMOUNT B 26",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Slovan Bratislava vs Stuttgart"
         },
         {
-          "display_title": "5:00 AM <t:1791917400:t> (14:50 ET) English Football League: Stoke City vs Middlesbrough",
-          "slot": "PARAMOUNT C 13",
-          "slot_norm": "PARAMOUNT C 13",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791917400:t> (14:50 ET) English Football League: Stoke City vs Middlesbrough"
-        },
-        {
-          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White's Contender Series: Dana Whites Contender Series",
-          "slot": "PARAMOUNT C 14",
-          "slot_norm": "PARAMOUNT C 14",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791932400:t> (19:00 ET) Dana White's Contender Series: Dana Whites Contender Series"
-        },
-        {
-          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White's Contender Series: Dana Whites Contender Series em Português",
-          "slot": "PARAMOUNT C 15",
-          "slot_norm": "PARAMOUNT C 15",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791932400:t> (19:00 ET) Dana White's Contender Series: Dana Whites Contender Series em Português"
-        },
-        {
-          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White's Contender Series: Dana Whites Contender Series en Español",
-          "slot": "PARAMOUNT C 16",
-          "slot_norm": "PARAMOUNT C 16",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791932400:t> (19:00 ET) Dana White's Contender Series: Dana Whites Contender Series en Español"
-        },
-        {
-          "display_title": "5:00 AM <t:1791935400:t> (19:50 ET) Concacaf Champions Cup: Portmore United FC vs Violette AC",
-          "slot": "PARAMOUNT C 17",
-          "slot_norm": "PARAMOUNT C 17",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791935400:t> (19:50 ET) Concacaf Champions Cup: Portmore United FC vs Violette AC"
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Shakhtar Donetsk vs AEK Athens",
+          "slot": "PARAMOUNT B 027",
+          "slot_norm": "PARAMOUNT B 27",
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1791999000:t> (13:30 ET) Shakhtar Donetsk vs AEK Athens"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 631260388,
-      "message_timestamp": 1791891023,
+      "message_id": 631518578,
+      "message_timestamp": 1791950458,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-13T16:08:39.309928+00:00"
+      "updated_at": "2026-10-14T07:48:32.586347+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10"
-        },
-        {
-          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791932400:t> (19:00 ET) Dana White Contender Series S10W10"
-        },
-        {
-          "display_title": "5:00 AM <t:1791932400:t> (19:00 ET) Dana Whites Contender Series",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791932400:t> (19:00 ET) Dana Whites Contender Series"
-        },
-        {
-          "display_title": "5:00 AM <t:1791941400:t> (21:30 ET) DWCS Post Fight Conference",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791941400:t> (21:30 ET) DWCS Post Fight Conference"
-        },
-        {
-          "display_title": "5:00 AM <t:1791929700:t> (18:15 ET) Millbridge Speedway",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-10-13T12:00:00-04:00",
-          "stop": "2026-10-14T00:00:00-04:00",
-          "title": "<t:1791929700:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-14T12:00:00-04:00",
+          "stop": "2026-10-15T00:00:00-04:00",
+          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 631280554,
-      "message_timestamp": 1791894639,
+      "message_id": 631518525,
+      "message_timestamp": 1791950450,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-13T16:08:39.694702+00:00"
+      "updated_at": "2026-10-14T07:48:32.810603+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
