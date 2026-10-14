@@ -128,131 +128,51 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792033200:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 023",
-          "slot_norm": "PARAMOUNT 23",
+          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) UEFA Champions League: Shakhtar Donetsk vs AEK Athens",
+          "slot": "PARAMOUNT C 10",
+          "slot_norm": "PARAMOUNT C 10",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792033200:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+          "title": "<t:1791999000:t> (13:30 ET) UEFA Champions League: Shakhtar Donetsk vs AEK Athens"
         },
         {
-          "display_title": "5:00 AM <t:1791993600:t> (12:00 ET) LASK vs Liverpool",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
+          "display_title": "5:00 AM <t:1792002900:t> (14:35 ET) English Football League: Norwich City vs Southampton",
+          "slot": "PARAMOUNT C 11",
+          "slot_norm": "PARAMOUNT C 11",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791993600:t> (12:00 ET) LASK vs Liverpool"
+          "title": "<t:1792002900:t> (14:35 ET) English Football League: Norwich City vs Southampton"
         },
         {
-          "display_title": "5:00 AM <t:1791993600:t> (12:00 ET) Feyenoord vs Como",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
+          "display_title": "5:00 AM <t:1792002900:t> (14:35 ET) English Football League: Portsmouth vs Sheffield United",
+          "slot": "PARAMOUNT C 12",
+          "slot_norm": "PARAMOUNT C 12",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791993600:t> (12:00 ET) Feyenoord vs Como"
+          "title": "<t:1792002900:t> (14:35 ET) English Football League: Portsmouth vs Sheffield United"
         },
         {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Man. City vs PSG",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
+          "display_title": "5:00 AM <t:1792003800:t> (14:50 ET) English Football League: Lincoln City vs West Ham United",
+          "slot": "PARAMOUNT C 13",
+          "slot_norm": "PARAMOUNT C 13",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Man. City vs PSG"
+          "title": "<t:1792003800:t> (14:50 ET) English Football League: Lincoln City vs West Ham United"
         },
         {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Roma vs Real Madrid",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
+          "display_title": "5:00 AM <t:1792021800:t> (19:50 ET) Concacaf Champions Cup: Club Sando FC vs Mount Pleasant FA",
+          "slot": "PARAMOUNT C 14",
+          "slot_norm": "PARAMOUNT C 14",
           "start": "2026-10-14T12:00:00-04:00",
           "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Roma vs Real Madrid"
-        },
-        {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) The Golazo Show",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) The Golazo Show"
-        },
-        {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Aston Villa vs Fenerbahçe",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Aston Villa vs Fenerbahçe"
-        },
-        {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Real Betis vs Porto",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Real Betis vs Porto"
-        },
-        {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Bodø/Glimt vs Dortmund",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Bodø/Glimt vs Dortmund"
-        },
-        {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Slovan Bratislava vs Stuttgart",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Slovan Bratislava vs Stuttgart"
-        },
-        {
-          "display_title": "5:00 AM <t:1791999000:t> (13:30 ET) Shakhtar Donetsk vs AEK Athens",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1791999000:t> (13:30 ET) Shakhtar Donetsk vs AEK Athens"
-        },
-        {
-          "display_title": "5:00 AM <t:1792002900:t> (14:35 ET) Norwich City vs Southampton",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792002900:t> (14:35 ET) Norwich City vs Southampton"
-        },
-        {
-          "display_title": "5:00 AM <t:1792002900:t> (14:35 ET) Portsmouth vs Sheffield United",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792002900:t> (14:35 ET) Portsmouth vs Sheffield United"
-        },
-        {
-          "display_title": "5:00 AM <t:1792003800:t> (14:50 ET) Lincoln City vs West Ham United",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792003800:t> (14:50 ET) Lincoln City vs West Ham United"
-        },
-        {
-          "display_title": "5:00 AM <t:1792021800:t> (19:50 ET) Club Sando FC vs Mount Pleasant FA",
-          "slot": "PARAMOUNT B 014",
-          "slot_norm": "PARAMOUNT B 14",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792021800:t> (19:50 ET) Club Sando FC vs Mount Pleasant FA"
+          "title": "<t:1792021800:t> (19:50 ET) Concacaf Champions Cup: Club Sando FC vs Mount Pleasant FA"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 631573077,
-      "message_timestamp": 1791966643,
+      "message_id": 631669956,
+      "message_timestamp": 1791988215,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-14T13:52:25.501613+00:00"
+      "updated_at": "2026-10-14T18:44:45.807613+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
