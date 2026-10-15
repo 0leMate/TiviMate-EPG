@@ -7352,12 +7352,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001:</display-name>
+    <display-name>PPV C 001: 09:30 ONE Friday Fights 175 &amp; The Inner Circle 35</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002:</display-name>
+    <display-name>PPV C 002: 18:00 PFL Chicago: Carmouche vs Bishop 2</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
@@ -14596,18 +14596,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261014120000 -0400" stop="20261015000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>5:00 AM &lt;t:1792016100:t&gt; (18:15 ET) Millbridge Speedway</title>
+  <programme start="20261015120000 -0400" stop="20261016000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.001">
+    <title>5:00 AM &lt;t:1792071000:t&gt; (09:30 ET) ONE Friday Fights 175 &amp; The Inner Circle 35</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261014120000 -0400" stop="20261015000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>5:00 AM &lt;t:1792016100:t&gt; (18:15 ET) Millbridge Speedway</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261014120000 -0400" stop="20261015000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.01">
-    <title>5:00 AM &lt;t:1792016100:t&gt; (18:15 ET) Millbridge Speedway</title>
+  <programme start="20261015120000 -0400" stop="20261016000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.002">
+    <title>5:00 AM &lt;t:1792101600:t&gt; (18:00 ET) PFL Chicago: Carmouche vs Bishop 2</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

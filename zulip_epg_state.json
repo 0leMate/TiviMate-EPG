@@ -290,35 +290,27 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
+          "display_title": "5:00 AM <t:1792071000:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-10-15T12:00:00-04:00",
+          "stop": "2026-10-16T00:00:00-04:00",
+          "title": "<t:1792071000:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35"
         },
         {
-          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792016100:t> (18:15 ET) Millbridge Speedway",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-14T12:00:00-04:00",
-          "stop": "2026-10-15T00:00:00-04:00",
-          "title": "<t:1792016100:t> (18:15 ET) Millbridge Speedway"
+          "display_title": "5:00 AM <t:1792101600:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-10-15T12:00:00-04:00",
+          "stop": "2026-10-16T00:00:00-04:00",
+          "title": "<t:1792101600:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 631622062,
-      "message_timestamp": 1791979219,
+      "message_id": 632073645,
+      "message_timestamp": 1792094437,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-14T13:52:25.588446+00:00"
+      "updated_at": "2026-10-15T21:32:52.046701+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
