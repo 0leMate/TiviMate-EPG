@@ -112,91 +112,115 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) Rennes vs OFI Crete",
+          "slot": "PARAMOUNT B 025",
+          "slot_norm": "PARAMOUNT B 25",
+          "start": "2026-10-15T12:00:00-04:00",
+          "stop": "2026-10-16T00:00:00-04:00",
+          "title": "<t:1792090200:t> (14:50 ET) Rennes vs OFI Crete"
+        },
+        {
+          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) Dinamo Zagreb vs Anderlecht",
+          "slot": "PARAMOUNT B 026",
+          "slot_norm": "PARAMOUNT B 26",
+          "start": "2026-10-15T12:00:00-04:00",
+          "stop": "2026-10-16T00:00:00-04:00",
+          "title": "<t:1792090200:t> (14:50 ET) Dinamo Zagreb vs Anderlecht"
+        },
+        {
+          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) Ferencváros vs Viktoria Plzeň",
+          "slot": "PARAMOUNT B 027",
+          "slot_norm": "PARAMOUNT B 27",
+          "start": "2026-10-15T12:00:00-04:00",
+          "stop": "2026-10-16T00:00:00-04:00",
+          "title": "<t:1792090200:t> (14:50 ET) Ferencváros vs Viktoria Plzeň"
+        },
+        {
           "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) Jagiellonia Białystok vs Ararat Armenia",
-          "slot": "PARAMOUNT B 042",
-          "slot_norm": "PARAMOUNT B 42",
+          "slot": "PARAMOUNT B 028",
+          "slot_norm": "PARAMOUNT B 28",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090200:t> (14:50 ET) Jagiellonia Białystok vs Ararat Armenia"
         },
         {
           "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) NEC Nijmegen vs Levski Sofia",
-          "slot": "PARAMOUNT B 043",
-          "slot_norm": "PARAMOUNT B 43",
+          "slot": "PARAMOUNT B 029",
+          "slot_norm": "PARAMOUNT B 29",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090200:t> (14:50 ET) NEC Nijmegen vs Levski Sofia"
         },
         {
           "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) Brighton vs Kauno Žalgiris",
-          "slot": "PARAMOUNT B 044",
-          "slot_norm": "PARAMOUNT B 44",
+          "slot": "PARAMOUNT B 030",
+          "slot_norm": "PARAMOUNT B 30",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090200:t> (14:50 ET) Brighton vs Kauno Žalgiris"
         },
         {
           "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) Atalanta vs Pafos",
-          "slot": "PARAMOUNT B 045",
-          "slot_norm": "PARAMOUNT B 45",
+          "slot": "PARAMOUNT B 031",
+          "slot_norm": "PARAMOUNT B 31",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090200:t> (14:50 ET) Atalanta vs Pafos"
         },
         {
           "display_title": "5:00 AM <t:1792090260:t> (14:51 ET) Copenhagen vs Braga",
-          "slot": "PARAMOUNT B 046",
-          "slot_norm": "PARAMOUNT B 46",
+          "slot": "PARAMOUNT B 032",
+          "slot_norm": "PARAMOUNT B 32",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090260:t> (14:51 ET) Copenhagen vs Braga"
         },
         {
           "display_title": "5:00 AM <t:1792090260:t> (14:51 ET) FC Twente vs FC Thun",
-          "slot": "PARAMOUNT B 047",
-          "slot_norm": "PARAMOUNT B 47",
+          "slot": "PARAMOUNT B 033",
+          "slot_norm": "PARAMOUNT B 33",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090260:t> (14:51 ET) FC Twente vs FC Thun"
         },
         {
           "display_title": "5:00 AM <t:1792090260:t> (14:51 ET) Heart of Midlothian vs FC Nordsjælland",
-          "slot": "PARAMOUNT B 048",
-          "slot_norm": "PARAMOUNT B 48",
+          "slot": "PARAMOUNT B 034",
+          "slot_norm": "PARAMOUNT B 34",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090260:t> (14:51 ET) Heart of Midlothian vs FC Nordsjælland"
         },
         {
           "display_title": "5:00 AM <t:1792090260:t> (14:51 ET) Freiburg vs Jablonec",
-          "slot": "PARAMOUNT B 049",
-          "slot_norm": "PARAMOUNT B 49",
+          "slot": "PARAMOUNT B 035",
+          "slot_norm": "PARAMOUNT B 35",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090260:t> (14:51 ET) Freiburg vs Jablonec"
         },
         {
           "display_title": "5:00 AM <t:1792090260:t> (14:51 ET) Brann vs L. Red Imps",
-          "slot": "PARAMOUNT B 050",
-          "slot_norm": "PARAMOUNT B 50",
+          "slot": "PARAMOUNT B 036",
+          "slot_norm": "PARAMOUNT B 36",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090260:t> (14:51 ET) Brann vs L. Red Imps"
         },
         {
           "display_title": "5:00 AM <t:1792090260:t> (14:51 ET) K. Sint Truidense vs FC Iberia Tbilisi",
-          "slot": "PARAMOUNT B 051",
-          "slot_norm": "PARAMOUNT B 51",
+          "slot": "PARAMOUNT B 037",
+          "slot_norm": "PARAMOUNT B 37",
           "start": "2026-10-15T12:00:00-04:00",
           "stop": "2026-10-16T00:00:00-04:00",
           "title": "<t:1792090260:t> (14:51 ET) K. Sint Truidense vs FC Iberia Tbilisi"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 631835318,
-      "message_timestamp": 1792036887,
+      "message_id": 631910354,
+      "message_timestamp": 1792060246,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-15T04:54:36.431759+00:00"
+      "updated_at": "2026-10-15T11:45:27.576823+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -400,139 +424,139 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "2:00 PM <t:1792090500:t> (05:55 AEDT) Twente vs Thun UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN 033",
+          "slot_norm": "AU STAN 33",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792090500:t> (05:55 AEDT) Twente vs Thun UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792090500:t> (05:55 AEDT) Freiburg vs Jablonec UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN 034",
+          "slot_norm": "AU STAN 34",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792090500:t> (05:55 AEDT) Freiburg vs Jablonec UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792090500:t> (05:55 AEDT) Atalanta vs Pafos UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN 035",
+          "slot_norm": "AU STAN 35",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792090500:t> (05:55 AEDT) Atalanta vs Pafos UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792054500:t> (19:55 AEDT) Day 2 UCI Track World Championships 2026",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
+          "start": "2026-10-15T12:00:00+11:00",
+          "stop": "2026-10-16T00:00:00+11:00",
+          "title": "<t:1792054500:t> (19:55 AEDT) Day 2 UCI Track World Championships 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Olympique Lyonnais vs Crystal Palace UEFA Europa League Matchday 2 2026/2027",
+          "slot": "AU STAN B 002",
+          "slot_norm": "AU STAN B 2",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792082400:t> (03:40 AEDT) Olympique Lyonnais vs Crystal Palace UEFA Europa League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Celje vs Omonia Nicosia UEFA Europa League Matchday 2 2026/2027",
+          "slot": "AU STAN B 003",
+          "slot_norm": "AU STAN B 3",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792082400:t> (03:40 AEDT) Celje vs Omonia Nicosia UEFA Europa League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Sparta Praha vs Lillestrøm UEFA Europa League Matchday 2 2026/2027",
+          "slot": "AU STAN B 004",
+          "slot_norm": "AU STAN B 4",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792082400:t> (03:40 AEDT) Sparta Praha vs Lillestrøm UEFA Europa League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Lech Poznań vs Bayer 04 Leverkusen UEFA Europa League Matchday 2 2026/2027",
+          "slot": "AU STAN B 005",
+          "slot_norm": "AU STAN B 5",
+          "start": "2026-10-16T12:00:00+11:00",
+          "stop": "2026-10-17T00:00:00+11:00",
+          "title": "<t:1792082400:t> (03:40 AEDT) Lech Poznań vs Bayer 04 Leverkusen UEFA Europa League Matchday 2 2026/2027"
+        },
+        {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) AZ vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 2 2026/2027",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
+          "slot": "AU STAN B 006",
+          "slot_norm": "AU STAN B 6",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) AZ vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Salzburg vs Milan UEFA Europa League Matchday 2 2026/2027",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
+          "slot": "AU STAN B 007",
+          "slot_norm": "AU STAN B 7",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Salzburg vs Milan UEFA Europa League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Torreense vs Sunderland UEFA Europa League Matchday 2 2026/2027",
-          "slot": "AU STAN 021",
-          "slot_norm": "AU STAN 21",
+          "slot": "AU STAN B 008",
+          "slot_norm": "AU STAN B 8",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Torreense vs Sunderland UEFA Europa League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Union SaintGilloise vs Real Sociedad UEFA Europa League Matchday 2 2026/2027",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Union SaintGilloise vs Real Sociedad UEFA Europa League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Gent vs AGF UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
+          "slot": "AU STAN B 010",
+          "slot_norm": "AU STAN B 10",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Gent vs AGF UEFA Conference League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Lugano vs Crvena zvezda UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 024",
-          "slot_norm": "AU STAN 24",
+          "slot": "AU STAN B 011",
+          "slot_norm": "AU STAN B 11",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Lugano vs Crvena zvezda UEFA Conference League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Universitatea Craiova vs Getafe UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
+          "slot": "AU STAN B 012",
+          "slot_norm": "AU STAN B 12",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Universitatea Craiova vs Getafe UEFA Conference League Matchday 2 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Hajduk Split vs Ajax UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
+          "slot": "AU STAN B 013",
+          "slot_norm": "AU STAN B 13",
           "start": "2026-10-16T12:00:00+11:00",
           "stop": "2026-10-17T00:00:00+11:00",
           "title": "<t:1792082400:t> (03:40 AEDT) Hajduk Split vs Ajax UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) KuPS vs Trabzonspor UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792082400:t> (03:40 AEDT) KuPS vs Trabzonspor UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Mjällby vs Inter Club d\\`Escaldes UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792082400:t> (03:40 AEDT) Mjällby vs Inter Club d\\`Escaldes UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Panathinaikos vs Borac Banja Luka UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 029",
-          "slot_norm": "AU STAN 29",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792082400:t> (03:40 AEDT) Panathinaikos vs Borac Banja Luka UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Egnatia Rrogozhinë vs Midtjylland UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 030",
-          "slot_norm": "AU STAN 30",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792082400:t> (03:40 AEDT) Egnatia Rrogozhinë vs Midtjylland UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) Riga vs Kairat UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 031",
-          "slot_norm": "AU STAN 31",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792082400:t> (03:40 AEDT) Riga vs Kairat UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792082400:t> (03:40 AEDT) CSKA Sofia vs Monaco UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN 032",
-          "slot_norm": "AU STAN 32",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792082400:t> (03:40 AEDT) CSKA Sofia vs Monaco UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792090500:t> (05:55 AEDT) Benfica vs Celtic UEFA Europa League Matchday 2 2026/2027",
-          "slot": "AU STAN 033",
-          "slot_norm": "AU STAN 33",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792090500:t> (05:55 AEDT) Benfica vs Celtic UEFA Europa League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1791986100:t> (00:55 AEDT) Manchester City U19 vs PSG U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-10-15T12:00:00+11:00",
-          "stop": "2026-10-16T00:00:00+11:00",
-          "title": "<t:1791986100:t> (00:55 AEDT) Manchester City U19 vs PSG U19 UEFA Youth League 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 631803803,
-      "message_timestamp": 1792022435,
+      "message_id": 631910386,
+      "message_timestamp": 1792060257,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-15T04:54:37.487818+00:00"
+      "updated_at": "2026-10-15T11:45:29.216949+00:00"
     }
   },
   "version": 1
