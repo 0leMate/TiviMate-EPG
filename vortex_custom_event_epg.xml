@@ -7032,7 +7032,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
     <display-name>PPV 07</display-name>
-    <display-name>PPV 07: 17:45 Super DIRTcar Series Brockville</display-name>
+    <display-name>PPV 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
@@ -7212,7 +7212,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.07">
     <display-name>PPV B 07</display-name>
-    <display-name>PPV B 07: 17:45 Super DIRTcar Series Brockville</display-name>
+    <display-name>PPV B 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.08">
@@ -14472,11 +14472,6 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
-    <title>5:00 AM &lt;t:1792187100:t&gt; (17:45 ET) Super DIRTcar Series Brockville</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
     <title>5:00 AM &lt;t:1792188900:t&gt; (18:15 ET) World of Outlaws Sprint Cars Lincoln</title>
     <category>Sports</category>
@@ -14509,11 +14504,6 @@
   </programme>
   <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.06">
     <title>5:00 AM &lt;t:1792198800:t&gt; (21:00 ET) Budo Sento Championship 37</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.07">
-    <title>5:00 AM &lt;t:1792187100:t&gt; (17:45 ET) Super DIRTcar Series Brockville</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

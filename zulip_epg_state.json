@@ -250,14 +250,6 @@
           "title": "<t:1792198800:t> (21:00 ET) Budo Sento Championship 37"
         },
         {
-          "display_title": "5:00 AM <t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-10-16T12:00:00-04:00",
-          "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville"
-        },
-        {
           "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) World of Outlaws Sprint Cars Lincoln",
           "slot": "PPV 08",
           "slot_norm": "PPV 8",
@@ -312,14 +304,6 @@
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
           "title": "<t:1792198800:t> (21:00 ET) Budo Sento Championship 37"
-        },
-        {
-          "display_title": "5:00 AM <t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville",
-          "slot": "PPV B 07",
-          "slot_norm": "PPV B 7",
-          "start": "2026-10-16T12:00:00-04:00",
-          "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville"
         },
         {
           "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) World of Outlaws Sprint Cars Lincoln",
@@ -395,10 +379,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632337127,
-      "message_timestamp": 1792173625,
+      "message_id": 632365144,
+      "message_timestamp": 1792180825,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-16T18:12:11.650426+00:00"
+      "updated_at": "2026-10-16T21:25:04.568831+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
