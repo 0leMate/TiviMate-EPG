@@ -4,19 +4,35 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1792187100:t> (17:45 ET) Brockville Ontario Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792187100:t> (17:45 ET) Brockville Ontario Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) Lincoln Park Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188900:t> (18:15 ET) Lincoln Park Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) Lincoln Park Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792188900:t> (18:15 ET) Millbridge Speedway"
+          "title": "<t:1792188900:t> (18:15 ET) Lincoln Park Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 632149042,
-      "message_timestamp": 1792123216,
+      "message_id": 632248338,
+      "message_timestamp": 1792153815,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-16T07:21:23.829043+00:00"
+      "updated_at": "2026-10-16T13:21:39.772180+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,27 +128,67 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792175700:t> (14:35 ET) Frosinone vs Sassuolo",
-          "slot": "PARAMOUNT B 038",
-          "slot_norm": "PARAMOUNT B 38",
+          "display_title": "5:00 AM <t:1792175100:t> (14:25 ET) Scottish Professional Football League: Ayr United vs Partick Thistle",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792175700:t> (14:35 ET) Frosinone vs Sassuolo"
+          "title": "<t:1792175100:t> (14:25 ET) Scottish Professional Football League: Ayr United vs Partick Thistle"
         },
         {
-          "display_title": "5:00 AM <t:1792191600:t> (19:00 ET) UFC Fight Night Preview Show: Buckley vs Malott",
-          "slot": "PARAMOUNT B 039",
-          "slot_norm": "PARAMOUNT B 39",
+          "display_title": "5:00 AM <t:1792175700:t> (14:35 ET) Serie A: Frosinone vs Sassuolo",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792191600:t> (19:00 ET) UFC Fight Night Preview Show: Buckley vs Malott"
+          "title": "<t:1792175700:t> (14:35 ET) Serie A: Frosinone vs Sassuolo"
+        },
+        {
+          "display_title": "5:00 AM <t:1792176600:t> (14:50 ET) English Football League: Burnley vs Wolves",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792176600:t> (14:50 ET) English Football League: Burnley vs Wolves"
+        },
+        {
+          "display_title": "5:00 AM <t:1792191000:t> (18:50 ET) World Rugby: Canada vs England",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792191000:t> (18:50 ET) World Rugby: Canada vs England"
+        },
+        {
+          "display_title": "5:00 AM <t:1792191600:t> (19:00 ET) UFC: UFC Fight Night Preview Show Buckley vs Malott",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792191600:t> (19:00 ET) UFC: UFC Fight Night Preview Show Buckley vs Malott"
+        },
+        {
+          "display_title": "5:00 AM <t:1792194300:t> (19:45 ET) PBR Team Series: PBR Teams Maverick Days",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792194300:t> (19:45 ET) PBR Team Series: PBR Teams Maverick Days"
+        },
+        {
+          "display_title": "5:00 AM <t:1792202100:t> (21:55 ET) World Rugby: New Zealand vs France",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792202100:t> (21:55 ET) World Rugby: New Zealand vs France"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 632149221,
-      "message_timestamp": 1792123272,
+      "message_id": 632248443,
+      "message_timestamp": 1792153838,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-16T07:21:24.254133+00:00"
+      "updated_at": "2026-10-16T13:21:40.166916+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -280,13 +336,69 @@
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
           "title": "<t:1792191600:t> (19:00 ET) High Limit Racing Texas"
+        },
+        {
+          "display_title": "5:00 AM <t:1792157400:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792157400:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188000:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188000:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2"
+        },
+        {
+          "display_title": "5:00 AM <t:1792191600:t> (19:00 ET) High Limit Racing All In Championship at Texas Motor",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792191600:t> (19:00 ET) High Limit Racing All In Championship at Texas Motor"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) Lincoln Park Speedway",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188900:t> (18:15 ET) Lincoln Park Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188000:t> (18:00 ET) PRELIMS PFL Chicago",
+          "slot": "PPV D 06",
+          "slot_norm": "PPV D 6",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188000:t> (18:00 ET) PRELIMS PFL Chicago"
+        },
+        {
+          "display_title": "5:00 AM <t:1792206000:t> (23:00 ET) PFL Chicago",
+          "slot": "PPV D 07",
+          "slot_norm": "PPV D 7",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792206000:t> (23:00 ET) PFL Chicago"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632159798,
-      "message_timestamp": 1792128643,
+      "message_id": 632241309,
+      "message_timestamp": 1792152029,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-16T07:21:24.615422+00:00"
+      "updated_at": "2026-10-16T13:21:40.559992+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -456,35 +568,131 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1792090500:t> (05:55 AEDT) Atalanta vs Pafos UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN B 035",
-          "slot_norm": "AU STAN B 35",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792090500:t> (05:55 AEDT) Atalanta vs Pafos UEFA Conference League Matchday 2 2026/2027"
+          "display_title": "2:00 PM <t:1792229100:t> (20:25 AEDT) Day 4 UCI Track World Championships 2026",
+          "slot": "AU STAN B 015",
+          "slot_norm": "AU STAN B 15",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792229100:t> (20:25 AEDT) Day 4 UCI Track World Championships 2026"
         },
         {
-          "display_title": "2:00 PM <t:1792130400:t> (17:00 AEDT) Northland vs Otago NPC Semi Final 2026",
-          "slot": "AU STAN B 036",
-          "slot_norm": "AU STAN B 36",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792130400:t> (17:00 AEDT) Northland vs Otago NPC Semi Final 2026"
+          "display_title": "2:00 PM <t:1792230000:t> (20:40 AEDT) Qualifying: 6 Hours of Barcelona (LMGT3) WEC 2026",
+          "slot": "AU STAN B 016",
+          "slot_norm": "AU STAN B 16",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792230000:t> (20:40 AEDT) Qualifying: 6 Hours of Barcelona (LMGT3) WEC 2026"
         },
         {
-          "display_title": "2:00 PM <t:1792140900:t> (19:55 AEDT) Day 3 UCI Track World Championships 2026",
-          "slot": "AU STAN B 037",
-          "slot_norm": "AU STAN B 37",
-          "start": "2026-10-16T12:00:00+11:00",
-          "stop": "2026-10-17T00:00:00+11:00",
-          "title": "<t:1792140900:t> (19:55 AEDT) Day 3 UCI Track World Championships 2026"
+          "display_title": "2:00 PM <t:1792230900:t> (20:55 AEDT) Kashiwa Reysol vs Nagoya Grampus J.League 2026",
+          "slot": "AU STAN B 017",
+          "slot_norm": "AU STAN B 17",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792230900:t> (20:55 AEDT) Kashiwa Reysol vs Nagoya Grampus J.League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792233000:t> (21:30 AEDT) Everton vs Chelsea Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 018",
+          "slot_norm": "AU STAN B 18",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792233000:t> (21:30 AEDT) Everton vs Chelsea Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792233000:t> (21:30 AEDT) Free Practice 3: 6 Hours of Barcelona (Hypercar) WEC 2026",
+          "slot": "AU STAN B 019",
+          "slot_norm": "AU STAN B 19",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792233000:t> (21:30 AEDT) Free Practice 3: 6 Hours of Barcelona (Hypercar) WEC 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792236000:t> (22:20 AEDT) • Everton vs Chelsea Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 020",
+          "slot_norm": "AU STAN B 20",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792236000:t> (22:20 AEDT) • Everton vs Chelsea Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792236900:t> (22:35 AEDT) Arsenal vs Birmingham City WSL 2026/27",
+          "slot": "AU STAN B 021",
+          "slot_norm": "AU STAN B 21",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792236900:t> (22:35 AEDT) Arsenal vs Birmingham City WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1792243800:t> (00:30 AEDT) Qualifying: 6 Hours of Barcelona (Hypercar) WEC 2026",
+          "slot": "AU STAN B 022",
+          "slot_norm": "AU STAN B 22",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792243800:t> (00:30 AEDT) Qualifying: 6 Hours of Barcelona (Hypercar) WEC 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Brentford vs Liverpool Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 023",
+          "slot_norm": "AU STAN B 23",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792245000:t> (00:50 AEDT) Brentford vs Liverpool Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Manchester City vs Ipswich Town Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 024",
+          "slot_norm": "AU STAN B 24",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792245000:t> (00:50 AEDT) Manchester City vs Ipswich Town Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Fulham vs Hull City Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 025",
+          "slot_norm": "AU STAN B 25",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792245000:t> (00:50 AEDT) Fulham vs Hull City Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Goal Rush: Brentford vs Liverpool • 18 Oct Premier League 2026/2027",
+          "slot": "AU STAN B 026",
+          "slot_norm": "AU STAN B 26",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792245000:t> (00:50 AEDT) Goal Rush: Brentford vs Liverpool • 18 Oct Premier League 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792254000:t> (03:20 AEDT) • Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 027",
+          "slot_norm": "AU STAN B 27",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792254000:t> (03:20 AEDT) • Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792254000:t> (03:20 AEDT) Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 028",
+          "slot_norm": "AU STAN B 28",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792254000:t> (03:20 AEDT) Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792254600:t> (03:30 AEDT) Washington Spirit vs Gotham FC NWSL 2026",
+          "slot": "AU STAN B 029",
+          "slot_norm": "AU STAN B 29",
+          "start": "2026-10-18T12:00:00+11:00",
+          "stop": "2026-10-19T00:00:00+11:00",
+          "title": "<t:1792254600:t> (03:30 AEDT) Washington Spirit vs Gotham FC NWSL 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 631946628,
-      "message_timestamp": 1792069267,
+      "message_id": 632255679,
+      "message_timestamp": 1792155637,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-15T17:11:54.923492+00:00"
+      "updated_at": "2026-10-16T13:21:41.754591+00:00"
     }
   },
   "version": 1
