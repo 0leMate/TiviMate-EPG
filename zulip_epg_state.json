@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792102500:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792102500:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188900:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 631835152,
-      "message_timestamp": 1792036821,
+      "message_id": 632149042,
+      "message_timestamp": 1792123216,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-15T04:54:36.141415+00:00"
+      "updated_at": "2026-10-16T07:21:23.829043+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,205 +112,181 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: KuPS Kuopio vs Trabzonspor",
-          "slot": "PARAMOUNT C 12",
-          "slot_norm": "PARAMOUNT C 12",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: KuPS Kuopio vs Trabzonspor"
+          "display_title": "5:00 AM <t:1792175700:t> (14:35 ET) Frosinone vs Sassuolo",
+          "slot": "PARAMOUNT B 038",
+          "slot_norm": "PARAMOUNT B 38",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792175700:t> (14:35 ET) Frosinone vs Sassuolo"
         },
         {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: KAA Gent vs AGF Aarhus",
-          "slot": "PARAMOUNT C 13",
-          "slot_norm": "PARAMOUNT C 13",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: KAA Gent vs AGF Aarhus"
-        },
-        {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: Egnatia vs FC Midtjylland",
-          "slot": "PARAMOUNT C 14",
-          "slot_norm": "PARAMOUNT C 14",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: Egnatia vs FC Midtjylland"
-        },
-        {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: FC Lugano vs Crvena Zvezda",
-          "slot": "PARAMOUNT C 15",
-          "slot_norm": "PARAMOUNT C 15",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: FC Lugano vs Crvena Zvezda"
-        },
-        {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: Mjällby vs Inter Escaldes",
-          "slot": "PARAMOUNT C 16",
-          "slot_norm": "PARAMOUNT C 16",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: Mjällby vs Inter Escaldes"
-        },
-        {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: Panathinaikos vs FK Borac",
-          "slot": "PARAMOUNT C 17",
-          "slot_norm": "PARAMOUNT C 17",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: Panathinaikos vs FK Borac"
-        },
-        {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: Riga FC vs Kairat Almaty",
-          "slot": "PARAMOUNT C 18",
-          "slot_norm": "PARAMOUNT C 18",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: Riga FC vs Kairat Almaty"
-        },
-        {
-          "display_title": "5:00 AM <t:1792080000:t> (12:00 ET) UEFA Conference League: Craiova vs Getafe",
-          "slot": "PARAMOUNT C 19",
-          "slot_norm": "PARAMOUNT C 19",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792080000:t> (12:00 ET) UEFA Conference League: Craiova vs Getafe"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: AFC Bournemouth vs Sturm Graz",
-          "slot": "PARAMOUNT C 21",
-          "slot_norm": "PARAMOUNT C 21",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: AFC Bournemouth vs Sturm Graz"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: Celta Vigo vs Juventus",
-          "slot": "PARAMOUNT C 22",
-          "slot_norm": "PARAMOUNT C 22",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: Celta Vigo vs Juventus"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: Marseille vs Olympiacos",
-          "slot": "PARAMOUNT C 23",
-          "slot_norm": "PARAMOUNT C 23",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: Marseille vs Olympiacos"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: Hoffenheim vs Beşiktaş",
-          "slot": "PARAMOUNT C 24",
-          "slot_norm": "PARAMOUNT C 24",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: Hoffenheim vs Beşiktaş"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: Dinamo Zagreb vs Anderlecht",
-          "slot": "PARAMOUNT C 26",
-          "slot_norm": "PARAMOUNT C 26",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: Dinamo Zagreb vs Anderlecht"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: Ferencváros vs Viktoria Plzeň",
-          "slot": "PARAMOUNT C 27",
-          "slot_norm": "PARAMOUNT C 27",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: Ferencváros vs Viktoria Plzeň"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: Jagiellonia Białystok vs Ararat Armenia",
-          "slot": "PARAMOUNT C 28",
-          "slot_norm": "PARAMOUNT C 28",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: Jagiellonia Białystok vs Ararat Armenia"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Europa League: NEC Nijmegen vs Levski Sofia",
-          "slot": "PARAMOUNT C 29",
-          "slot_norm": "PARAMOUNT C 29",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Europa League: NEC Nijmegen vs Levski Sofia"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Conference League: Brighton vs Kauno Žalgiris",
-          "slot": "PARAMOUNT C 30",
-          "slot_norm": "PARAMOUNT C 30",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Conference League: Brighton vs Kauno Žalgiris"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Conference League: FC Twente vs FC Thun",
-          "slot": "PARAMOUNT C 33",
-          "slot_norm": "PARAMOUNT C 33",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Conference League: FC Twente vs FC Thun"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Conference League: Heart of Midlothian vs FC Nordsjælland",
-          "slot": "PARAMOUNT C 34",
-          "slot_norm": "PARAMOUNT C 34",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Conference League: Heart of Midlothian vs FC Nordsjælland"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Conference League: Freiburg vs Jablonec",
-          "slot": "PARAMOUNT C 35",
-          "slot_norm": "PARAMOUNT C 35",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Conference League: Freiburg vs Jablonec"
-        },
-        {
-          "display_title": "5:00 AM <t:1792090200:t> (14:50 ET) UEFA Conference League: Brann vs L Red Imps",
-          "slot": "PARAMOUNT C 36",
-          "slot_norm": "PARAMOUNT C 36",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792090200:t> (14:50 ET) UEFA Conference League: Brann vs L Red Imps"
+          "display_title": "5:00 AM <t:1792191600:t> (19:00 ET) UFC Fight Night Preview Show: Buckley vs Malott",
+          "slot": "PARAMOUNT B 039",
+          "slot_norm": "PARAMOUNT B 39",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792191600:t> (19:00 ET) UFC Fight Night Preview Show: Buckley vs Malott"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 631975090,
-      "message_timestamp": 1792074642,
+      "message_id": 632149221,
+      "message_timestamp": 1792123272,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-15T17:11:54.205536+00:00"
+      "updated_at": "2026-10-16T07:21:24.254133+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792071000:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792071000:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35"
+          "display_title": "5:00 AM <t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi"
         },
         {
-          "display_title": "5:00 AM <t:1792101600:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-10-15T12:00:00-04:00",
-          "stop": "2026-10-16T00:00:00-04:00",
-          "title": "<t:1792101600:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2"
+          "display_title": "5:00 AM <t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188000:t> (18:00 ET) Bison Kombat 10",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188000:t> (18:00 ET) Bison Kombat 10"
+        },
+        {
+          "display_title": "5:00 AM <t:1792195200:t> (20:00 ET) 6/ PFL Carmouche vs Bishop 2",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792195200:t> (20:00 ET) 6/ PFL Carmouche vs Bishop 2"
+        },
+        {
+          "display_title": "5:00 AM <t:1792195200:t> (20:00 ET) Brandrisk 016",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792195200:t> (20:00 ET) Brandrisk 016"
+        },
+        {
+          "display_title": "5:00 AM <t:1792198800:t> (21:00 ET) Budo Sento Championship 37",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792198800:t> (21:00 ET) Budo Sento Championship 37"
+        },
+        {
+          "display_title": "5:00 AM <t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) World of Outlaws Sprint Cars Lincoln",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188900:t> (18:15 ET) World of Outlaws Sprint Cars Lincoln"
+        },
+        {
+          "display_title": "5:00 AM <t:1792191600:t> (19:00 ET) High Limit Racing Texas",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792191600:t> (19:00 ET) High Limit Racing Texas"
+        },
+        {
+          "display_title": "5:00 AM <t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi"
+        },
+        {
+          "display_title": "5:00 AM <t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188000:t> (18:00 ET) Bison Kombat 10",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188000:t> (18:00 ET) Bison Kombat 10"
+        },
+        {
+          "display_title": "5:00 AM <t:1792195200:t> (20:00 ET) 6/ PFL Carmouche vs Bishop 2",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792195200:t> (20:00 ET) 6/ PFL Carmouche vs Bishop 2"
+        },
+        {
+          "display_title": "5:00 AM <t:1792195200:t> (20:00 ET) Brandrisk 016",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792195200:t> (20:00 ET) Brandrisk 016"
+        },
+        {
+          "display_title": "5:00 AM <t:1792198800:t> (21:00 ET) Budo Sento Championship 37",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792198800:t> (21:00 ET) Budo Sento Championship 37"
+        },
+        {
+          "display_title": "5:00 AM <t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville",
+          "slot": "PPV B 07",
+          "slot_norm": "PPV B 7",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792187100:t> (17:45 ET) Super DIRTcar Series Brockville"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) World of Outlaws Sprint Cars Lincoln",
+          "slot": "PPV B 08",
+          "slot_norm": "PPV B 8",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188900:t> (18:15 ET) World of Outlaws Sprint Cars Lincoln"
+        },
+        {
+          "display_title": "5:00 AM <t:1792191600:t> (19:00 ET) High Limit Racing Texas",
+          "slot": "PPV B 09",
+          "slot_norm": "PPV B 9",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792191600:t> (19:00 ET) High Limit Racing Texas"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632073645,
-      "message_timestamp": 1792094437,
+      "message_id": 632159798,
+      "message_timestamp": 1792128643,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-15T21:32:52.046701+00:00"
+      "updated_at": "2026-10-16T07:21:24.615422+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
