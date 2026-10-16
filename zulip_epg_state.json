@@ -26,13 +26,29 @@
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
           "title": "<t:1792188900:t> (18:15 ET) Lincoln Park Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792187100:t> (17:45 ET) Brockville Ontario Speedway",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792187100:t> (17:45 ET) Brockville Ontario Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792188900:t> (18:15 ET) Lincoln Park Speedway",
+          "slot": "DIRT C 02",
+          "slot_norm": "DIRT C 2",
+          "start": "2026-10-16T12:00:00-04:00",
+          "stop": "2026-10-17T00:00:00-04:00",
+          "title": "<t:1792188900:t> (18:15 ET) Lincoln Park Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 632248338,
-      "message_timestamp": 1792153815,
+      "message_id": 632299596,
+      "message_timestamp": 1792164615,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-16T13:21:39.772180+00:00"
+      "updated_at": "2026-10-16T18:12:11.125753+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -194,14 +210,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-10-16T12:00:00-04:00",
-          "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi"
-        },
-        {
           "display_title": "5:00 AM <t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
@@ -264,14 +272,6 @@
           "start": "2026-10-16T12:00:00-04:00",
           "stop": "2026-10-17T00:00:00-04:00",
           "title": "<t:1792191600:t> (19:00 ET) High Limit Racing Texas"
-        },
-        {
-          "display_title": "5:00 AM <t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-10-16T12:00:00-04:00",
-          "stop": "2026-10-17T00:00:00-04:00",
-          "title": "<t:1792157400:t> (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi"
         },
         {
           "display_title": "5:00 AM <t:1792173600:t> (14:00 ET) True Grit Wrestling Last Rites",
@@ -395,10 +395,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632241309,
-      "message_timestamp": 1792152029,
+      "message_id": 632337127,
+      "message_timestamp": 1792173625,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-16T13:21:40.559992+00:00"
+      "updated_at": "2026-10-16T18:12:11.650426+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

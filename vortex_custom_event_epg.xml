@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 09:30 ONE Friday Fights 175 Lamsing vs Rhenimi</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7182,7 +7182,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 09:30 ONE Friday Fights 175 Lamsing vs Rhenimi</display-name>
+    <display-name>PPV B 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
@@ -12357,6 +12357,14 @@
     <display-name>DIRT B 01</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
+  <channel id="custom.DIRTVISION.DIRT.C.01">
+    <display-name>DIRT C 01</display-name>
+    <display-name>DIRTVISION</display-name>
+  </channel>
+  <channel id="custom.DIRTVISION.DIRT.C.02">
+    <display-name>DIRT C 02</display-name>
+    <display-name>DIRTVISION</display-name>
+  </channel>
   <channel id="custom.UK.DISCOVERY.UK.D.001">
     <display-name>UK D+ 001</display-name>
     <display-name>UK DISCOVERY+</display-name>
@@ -14124,6 +14132,16 @@
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
+  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.DIRTVISION.DIRT.C.01">
+    <title>5:00 AM &lt;t:1792187100:t&gt; (17:45 ET) Brockville Ontario Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.DIRTVISION.DIRT.C.02">
+    <title>5:00 AM &lt;t:1792188900:t&gt; (18:15 ET) Lincoln Park Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
   <programme start="20260724120000 +0000" stop="20260725000000 +0000" channel="custom.INT.UFC.UFC.01">
     <title>Fight Pass</title>
     <category>Sports</category>
@@ -14429,11 +14447,6 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>5:00 AM &lt;t:1792157400:t&gt; (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>5:00 AM &lt;t:1792173600:t&gt; (14:00 ET) True Grit Wrestling Last Rites</title>
     <category>Sports</category>
@@ -14471,11 +14484,6 @@
   </programme>
   <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
     <title>5:00 AM &lt;t:1792191600:t&gt; (19:00 ET) High Limit Racing Texas</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261016120000 -0400" stop="20261017000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>5:00 AM &lt;t:1792157400:t&gt; (09:30 ET) ONE Friday Fights 175 Lamsing vs Rhenimi</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
