@@ -7007,7 +7007,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 11:00 Prelims Dubois vs Wardley 2</display-name>
+    <display-name>PPV 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -7032,7 +7032,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
     <display-name>PPV 07</display-name>
-    <display-name>PPV 07: 14:30 12/ Cage Warriors 211</display-name>
+    <display-name>PPV 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
@@ -7187,7 +7187,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02: 11:00 Prelims Dubois vs Wardley 2</display-name>
+    <display-name>PPV B 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
@@ -7212,7 +7212,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.07">
     <display-name>PPV B 07</display-name>
-    <display-name>PPV B 07: 14:30 12/ Cage Warriors 211</display-name>
+    <display-name>PPV B 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.08">
@@ -7352,12 +7352,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001: 08:10 RWS: Samingdet vs Kiewpayak</display-name>
+    <display-name>PPV C 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002: 11:00 Dubois vs Wardley 2: Prelims</display-name>
+    <display-name>PPV C 002:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
@@ -7367,7 +7367,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.004">
     <display-name>PPV C 004</display-name>
-    <display-name>PPV C 004: 12:00 Volkovs vs McIntyre 10-17</display-name>
+    <display-name>PPV C 004:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.005">
@@ -7452,7 +7452,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.021">
     <display-name>PPV C 021</display-name>
-    <display-name>PPV C 021: RCC vs Karate Combat: KC63</display-name>
+    <display-name>PPV C 021:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.022">
@@ -14813,153 +14813,33 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.010">
-    <title>5:00 AM &lt;t:1792260000:t&gt; (14:00 ET) Dubois vs Wardley 2 BU</title>
+  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.30">
+    <title>5:00 AM &lt;t:1792285200:t&gt; (21:00 ET) AMA EnduroCross at Nampa</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.011">
-    <title>5:00 AM &lt;t:1792260000:t&gt; (14:00 ET) GLORY 110: Trindade vs Demirkapu</title>
+  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.31">
+    <title>5:00 AM &lt;t:1792291500:t&gt; (22:45 ET) ARCA West at Phoenix</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.012">
-    <title>5:00 AM &lt;t:1792260000:t&gt; (14:00 ET) FSC 38 - Manchester</title>
+  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.32">
+    <title>5:00 AM &lt;t:1792275300:t&gt; (18:15 ET) Millbridge Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.013">
-    <title>5:00 AM &lt;t:1792274400:t&gt; (18:00 ET) UFC Fight Night: Buckley vs Malott ( Prelims in UFC Section )</title>
+  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.33">
+    <title>5:00 AM &lt;t:1792275300:t&gt; (18:15 ET) Cedar Lake Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.014">
-    <title>5:00 AM &lt;t:1792274400:t&gt; (18:00 ET) UFC Fight Night: Buckley vs Malott</title>
+  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.34">
+    <title>5:00 AM &lt;t:1792278900:t&gt; (19:15 ET) Belle Clair Fairgrounds Park Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.015">
-    <title>5:00 AM &lt;t:1792274400:t&gt; (18:00 ET) UFC Fight Night: Buckley vs Malott</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.016">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) AEW WrestleDream: Orlando</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.017">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) AEW WrestleDream: Orlando BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.018">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) Fundora vs Hadribeaj</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.019">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) Fundora vs Hadribeaj BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.020">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) Herring vs Dodson</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.01">
-    <title>5:00 AM &lt;t:1792270800:t&gt; (17:00 ET) PRELIMS UFC FN</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.02">
-    <title>5:00 AM &lt;t:1792270800:t&gt; (17:00 ET) PRELIMS UFC FN</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.03">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) UFC FN Buckley vs Malott</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.04">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) UFC FN Buckley vs Malott</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.05">
-    <title>5:00 AM &lt;t:1792293300:t&gt; (23:15 ET) Post Fight Conference UFC FN</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.06">
-    <title>5:00 AM &lt;t:1792252800:t&gt; (12:00 ET) PRELIMS Cage Warriors 211</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.07">
-    <title>5:00 AM &lt;t:1792261800:t&gt; (14:30 ET) Cage Warriors 211</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.09">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) PRELIMS BKFC 95</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.10">
-    <title>5:00 AM &lt;t:1792285200:t&gt; (21:00 ET) BKFC 95 Herring vs Dodson</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.13">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) Fundora vs Hadribeaj</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.14">
-    <title>5:00 AM &lt;t:1792252800:t&gt; (12:00 ET) Volkovs vs McIntyre</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.15">
-    <title>5:00 AM &lt;t:1792252800:t&gt; (12:00 ET) OKTAGON 95</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.16">
-    <title>5:00 AM &lt;t:1792281600:t&gt; (20:00 ET) AEW WrestleDream</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.17">
-    <title>5:00 AM &lt;t:1792252800:t&gt; (12:00 ET) PRELIMS Glory 110</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.18">
-    <title>5:00 AM &lt;t:1792260000:t&gt; (14:00 ET) Glory 110 Trindade vs Demirkapu</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.20">
-    <title>5:00 AM &lt;t:1792278000:t&gt; (19:00 ET) High Limit Racing All-In Championship at Texas</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.21">
-    <title>5:00 AM &lt;t:1792255800:t&gt; (12:50 ET) SMART Modified Tour at North Wilkesboro</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.22">
-    <title>5:00 AM &lt;t:1792257300:t&gt; (13:15 ET) Halloween Fest at Indianapolis</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.23">
-    <title>5:00 AM &lt;t:1792260000:t&gt; (14:00 ET) STSS Octoberfest at Hagerstown</title>
+  <programme start="20261017120000 -0400" stop="20261018000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.35">
+    <title>5:00 AM &lt;t:1792280700:t&gt; (19:45 ET) Creek County Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
