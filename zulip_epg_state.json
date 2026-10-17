@@ -518,35 +518,35 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792175400:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
+          "display_title": "12:00 AM <t:1792261800:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
           "slot": "SKY SPORTS+ B 04",
           "slot_norm": "SKY SPORTS+ B 4",
-          "start": "2026-10-16T12:00:00+01:00",
-          "stop": "2026-10-17T00:00:00+01:00",
-          "title": "<t:1792175400:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792261800:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
         },
         {
-          "display_title": "12:00 AM <t:1792175400:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
+          "display_title": "12:00 AM <t:1792261800:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
           "slot": "SKY SPORTS+ B 05",
           "slot_norm": "SKY SPORTS+ B 5",
-          "start": "2026-10-16T12:00:00+01:00",
-          "stop": "2026-10-17T00:00:00+01:00",
-          "title": "<t:1792175400:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792261800:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
         },
         {
-          "display_title": "12:00 AM <t:1792175400:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
+          "display_title": "12:00 AM <t:1792261800:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
           "slot": "SKY SPORTS+ B 06",
           "slot_norm": "SKY SPORTS+ B 6",
-          "start": "2026-10-16T12:00:00+01:00",
-          "stop": "2026-10-17T00:00:00+01:00",
-          "title": "<t:1792175400:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792261800:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 632115650,
-      "message_timestamp": 1792108818,
+      "message_id": 632402923,
+      "message_timestamp": 1792195228,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-16T00:30:22.422019+00:00"
+      "updated_at": "2026-10-17T00:36:42.949422+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
