@@ -4,6 +4,38 @@
       "channel": "dirtvision",
       "events": [
         {
+          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792275300:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Speedway",
+          "slot": "DIRT 02",
+          "slot_norm": "DIRT 2",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway",
+          "slot": "DIRT 03",
+          "slot_norm": "DIRT 3",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792280700:t> (19:45 ET) Creek County Speedway",
+          "slot": "DIRT 04",
+          "slot_norm": "DIRT 4",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792280700:t> (19:45 ET) Creek County Speedway"
+        },
+        {
           "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Lincoln Park Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
@@ -13,10 +45,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 632452186,
-      "message_timestamp": 1792209638,
+      "message_id": 632510830,
+      "message_timestamp": 1792229420,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-17T07:03:41.547669+00:00"
+      "updated_at": "2026-10-17T12:16:34.924514+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,147 +144,211 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "5:00 AM <t:1792276200:t> (18:30 ET) CBS Sports HQ: The Postgame",
+          "slot": "PARAMOUNT 024",
+          "slot_norm": "PARAMOUNT 24",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792276200:t> (18:30 ET) CBS Sports HQ: The Postgame"
+        },
+        {
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 025",
+          "slot_norm": "PARAMOUNT 25",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792281600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) UFC: UFC Fight Night: Multiview",
+          "slot": "PARAMOUNT 026",
+          "slot_norm": "PARAMOUNT 26",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792285200:t> (21:00 ET) UFC: UFC Fight Night: Multiview"
+        },
+        {
+          "display_title": "5:00 AM <t:1792292400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 027",
+          "slot_norm": "PARAMOUNT 27",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792292400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
+        {
           "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Middlesbrough vs Cardiff City",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792236000:t> (07:20 ET) Middlesbrough vs Cardiff City"
         },
         {
           "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Watford vs Charlton Athletic",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792236000:t> (07:20 ET) Watford vs Charlton Athletic"
         },
         {
           "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Arsenal vs Birmingham City",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792236000:t> (07:20 ET) Arsenal vs Birmingham City"
         },
         {
           "display_title": "5:00 AM <t:1792241400:t> (08:50 ET) Venezia vs Napoli",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792241400:t> (08:50 ET) Venezia vs Napoli"
         },
         {
           "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Wrexham vs Preston North End",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792243800:t> (09:30 ET) Wrexham vs Preston North End"
         },
         {
           "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Norwich City vs Portsmouth",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792243800:t> (09:30 ET) Norwich City vs Portsmouth"
         },
         {
           "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Sheffield Wednesday vs AFC Wimbledon",
-          "slot": "PARAMOUNT B 014",
-          "slot_norm": "PARAMOUNT B 14",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792243800:t> (09:30 ET) Sheffield Wednesday vs AFC Wimbledon"
         },
         {
           "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Swindon Town vs Walsall",
-          "slot": "PARAMOUNT B 015",
-          "slot_norm": "PARAMOUNT B 15",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792243800:t> (09:30 ET) Swindon Town vs Walsall"
         },
         {
           "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Swansea City vs West Ham United",
-          "slot": "PARAMOUNT B 016",
-          "slot_norm": "PARAMOUNT B 16",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792243800:t> (09:30 ET) Swansea City vs West Ham United"
         },
         {
           "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Southampton vs Bolton Wanderers",
-          "slot": "PARAMOUNT B 017",
-          "slot_norm": "PARAMOUNT B 17",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792243800:t> (09:30 ET) Southampton vs Bolton Wanderers"
         },
         {
           "display_title": "5:00 AM <t:1792252200:t> (11:50 ET) Bologna vs Inter",
-          "slot": "PARAMOUNT B 018",
-          "slot_norm": "PARAMOUNT B 18",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792252200:t> (11:50 ET) Bologna vs Inter"
         },
         {
           "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) Roma vs Genoa",
-          "slot": "PARAMOUNT B 019",
-          "slot_norm": "PARAMOUNT B 19",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792260000:t> (14:00 ET) Roma vs Genoa"
         },
         {
           "display_title": "5:00 AM <t:1792263300:t> (14:55 ET) Dundee vs Rangers",
-          "slot": "PARAMOUNT B 020",
-          "slot_norm": "PARAMOUNT B 20",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792263300:t> (14:55 ET) Dundee vs Rangers"
         },
         {
           "display_title": "5:00 AM <t:1792267200:t> (16:00 ET) UFC Fight Night: English",
-          "slot": "PARAMOUNT B 021",
-          "slot_norm": "PARAMOUNT B 21",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792267200:t> (16:00 ET) UFC Fight Night: English"
         },
         {
           "display_title": "5:00 AM <t:1792267200:t> (16:00 ET) UFC Fight Night em Português",
-          "slot": "PARAMOUNT B 022",
-          "slot_norm": "PARAMOUNT B 22",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792267200:t> (16:00 ET) UFC Fight Night em Português"
         },
         {
           "display_title": "5:00 AM <t:1792267200:t> (16:00 ET) UFC Fight Night en Español",
-          "slot": "PARAMOUNT B 023",
-          "slot_norm": "PARAMOUNT B 23",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792267200:t> (16:00 ET) UFC Fight Night en Español"
         },
         {
+          "display_title": "5:00 AM <t:1792273800:t> (17:50 ET) USA vs Italy",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792273800:t> (17:50 ET) USA vs Italy"
+        },
+        {
           "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) UFC Fight Night: Multiview",
-          "slot": "PARAMOUNT B 024",
-          "slot_norm": "PARAMOUNT B 24",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
           "title": "<t:1792285200:t> (21:00 ET) UFC Fight Night: Multiview"
+        },
+        {
+          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) English Football League: Middlesbrough vs Cardiff City",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792236000:t> (07:20 ET) English Football League: Middlesbrough vs Cardiff City"
+        },
+        {
+          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) English Football League: Watford vs Charlton Athletic",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792236000:t> (07:20 ET) English Football League: Watford vs Charlton Athletic"
+        },
+        {
+          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Barclays Women's Super League: Arsenal vs Birmingham City",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792236000:t> (07:20 ET) Barclays Women's Super League: Arsenal vs Birmingham City"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 632452538,
-      "message_timestamp": 1792209719,
+      "message_id": 632516604,
+      "message_timestamp": 1792231406,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-17T07:03:41.639682+00:00"
+      "updated_at": "2026-10-17T12:16:35.019563+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -418,20 +514,20 @@
           "title": "<t:1792285200:t> (21:00 ET) AMA EnduroCross Nampa"
         },
         {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35",
+          "display_title": "5:00 AM <t:1792239000:t> (08:10 ET) RWS: Samingdet vs Kiewpayak",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) ONE Friday Fights 175 & The Inner Circle 35"
+          "title": "<t:1792239000:t> (08:10 ET) RWS: Samingdet vs Kiewpayak"
         },
         {
-          "display_title": "5:00 AM <t:1792274400:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2",
+          "display_title": "5:00 AM <t:1792249200:t> (11:00 ET) Dubois vs Wardley 2: Prelims",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792274400:t> (18:00 ET) PFL Chicago: Carmouche vs Bishop 2"
+          "title": "<t:1792249200:t> (11:00 ET) Dubois vs Wardley 2: Prelims"
         },
         {
           "display_title": "5:00 AM <t:1792252800:t> (12:00 ET) Volkovs vs McIntyre",
@@ -475,6 +571,14 @@
         },
         {
           "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) Dubois vs Wardley 2 BU",
+          "slot": "PPV C 008",
+          "slot_norm": "PPV C 8",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792260000:t> (14:00 ET) Dubois vs Wardley 2 BU"
+        },
+        {
+          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) Dubois vs Wardley 2 BU",
           "slot": "PPV C 009",
           "slot_norm": "PPV C 9",
           "start": "2026-10-17T12:00:00-04:00",
@@ -491,10 +595,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632457567,
-      "message_timestamp": 1792211512,
+      "message_id": 632516509,
+      "message_timestamp": 1792231373,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-17T07:03:41.730892+00:00"
+      "updated_at": "2026-10-17T12:16:35.124020+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -630,6 +734,110 @@
       "channel": "sky-sports-plus",
       "events": [
         {
+          "display_title": "12:00 AM <t:1792222200:t> (07:30 UTC) DP World Tour Golf",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792222200:t> (07:30 UTC) DP World Tour Golf"
+        },
+        {
+          "display_title": "12:00 AM <t:1792225800:t> (08:30 UTC) ATP Shanghai & WTA Wuhan SFs",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792225800:t> (08:30 UTC) ATP Shanghai & WTA Wuhan SFs"
+        },
+        {
+          "display_title": "12:00 AM <t:1792225800:t> (08:30 UTC) ATP Shanghai Semi Final",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792225800:t> (08:30 UTC) ATP Shanghai Semi Final"
+        },
+        {
+          "display_title": "12:00 AM <t:1792233000:t> (10:30 UTC) EFL: Middlesbrough vs Cardiff",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792233000:t> (10:30 UTC) EFL: Middlesbrough vs Cardiff"
+        },
+        {
+          "display_title": "12:00 AM <t:1792233000:t> (10:30 UTC) EFL: Watford vs Charlton",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792233000:t> (10:30 UTC) EFL: Watford vs Charlton"
+        },
+        {
+          "display_title": "12:00 AM <t:1792236600:t> (11:30 UTC) WSL: Arsenal vs Birmingham",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792236600:t> (11:30 UTC) WSL: Arsenal vs Birmingham"
+        },
+        {
+          "display_title": "12:00 AM <t:1792242000:t> (13:00 UTC) WTA Wuhan Doubles SFs",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792242000:t> (13:00 UTC) WTA Wuhan Doubles SFs"
+        },
+        {
+          "display_title": "12:00 AM <t:1792251000:t> (15:30 UTC) GTWC Europe",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792251000:t> (15:30 UTC) GTWC Europe"
+        },
+        {
+          "display_title": "12:00 AM <t:1792252800:t> (16:00 UTC) SNF: Newcastle vs Aston Villa",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792252800:t> (16:00 UTC) SNF: Newcastle vs Aston Villa"
+        },
+        {
+          "display_title": "12:00 AM <t:1792254000:t> (16:20 UTC) B'Liga: B.Munich vs RB Leipzig",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792254000:t> (16:20 UTC) B'Liga: B.Munich vs RB Leipzig"
+        },
+        {
+          "display_title": "12:00 AM <t:1792261800:t> (18:30 UTC) SPFL: Dundee vs Rangers",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792261800:t> (18:30 UTC) SPFL: Dundee vs Rangers"
+        },
+        {
+          "display_title": "12:00 AM <t:1792262700:t> (18:45 UTC) SPFL: Dundee vs Rangers",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792262700:t> (18:45 UTC) SPFL: Dundee vs Rangers"
+        },
+        {
+          "display_title": "12:00 AM <t:1792263600:t> (19:00 UTC) WNBA Finals",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-10-17T12:00:00+01:00",
+          "stop": "2026-10-18T00:00:00+01:00",
+          "title": "<t:1792263600:t> (19:00 UTC) WNBA Finals"
+        },
+        {
           "display_title": "12:00 AM <t:1792261800:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
           "slot": "SKY SPORTS+ B 04",
           "slot_norm": "SKY SPORTS+ B 4",
@@ -655,140 +863,180 @@
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 632402923,
-      "message_timestamp": 1792195228,
+      "message_id": 632516400,
+      "message_timestamp": 1792231348,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-17T00:36:42.949422+00:00"
+      "updated_at": "2026-10-17T12:16:35.340209+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "2:00 PM <t:1792221840:t> (18:24 AEDT) Ulsan vs Bucheon K League 2026",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792221840:t> (18:24 AEDT) Ulsan vs Bucheon K League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792227540:t> (19:59 AEDT) Wuhan: Day 6 WTA 1000",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792227540:t> (19:59 AEDT) Wuhan: Day 6 WTA 1000"
+        },
+        {
           "display_title": "2:00 PM <t:1792229100:t> (20:25 AEDT) Day 4 UCI Track World Championships 2026",
-          "slot": "AU STAN B 015",
-          "slot_norm": "AU STAN B 15",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792229100:t> (20:25 AEDT) Day 4 UCI Track World Championships 2026"
         },
         {
           "display_title": "2:00 PM <t:1792230000:t> (20:40 AEDT) Qualifying: 6 Hours of Barcelona (LMGT3) WEC 2026",
-          "slot": "AU STAN B 016",
-          "slot_norm": "AU STAN B 16",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792230000:t> (20:40 AEDT) Qualifying: 6 Hours of Barcelona (LMGT3) WEC 2026"
         },
         {
           "display_title": "2:00 PM <t:1792230900:t> (20:55 AEDT) Kashiwa Reysol vs Nagoya Grampus J.League 2026",
-          "slot": "AU STAN B 017",
-          "slot_norm": "AU STAN B 17",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792230900:t> (20:55 AEDT) Kashiwa Reysol vs Nagoya Grampus J.League 2026"
         },
         {
           "display_title": "2:00 PM <t:1792233000:t> (21:30 AEDT) Everton vs Chelsea Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 018",
-          "slot_norm": "AU STAN B 18",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792233000:t> (21:30 AEDT) Everton vs Chelsea Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792233000:t> (21:30 AEDT) Free Practice 3: 6 Hours of Barcelona (Hypercar) WEC 2026",
-          "slot": "AU STAN B 019",
-          "slot_norm": "AU STAN B 19",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792233000:t> (21:30 AEDT) Free Practice 3: 6 Hours of Barcelona (Hypercar) WEC 2026"
         },
         {
           "display_title": "2:00 PM <t:1792236000:t> (22:20 AEDT) • Everton vs Chelsea Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 020",
-          "slot_norm": "AU STAN B 20",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792236000:t> (22:20 AEDT) • Everton vs Chelsea Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792236900:t> (22:35 AEDT) Arsenal vs Birmingham City WSL 2026/27",
-          "slot": "AU STAN B 021",
-          "slot_norm": "AU STAN B 21",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-10-17T12:00:00+11:00",
           "stop": "2026-10-18T00:00:00+11:00",
           "title": "<t:1792236900:t> (22:35 AEDT) Arsenal vs Birmingham City WSL 2026/27"
         },
         {
           "display_title": "2:00 PM <t:1792243800:t> (00:30 AEDT) Qualifying: 6 Hours of Barcelona (Hypercar) WEC 2026",
-          "slot": "AU STAN B 022",
-          "slot_norm": "AU STAN B 22",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792243800:t> (00:30 AEDT) Qualifying: 6 Hours of Barcelona (Hypercar) WEC 2026"
         },
         {
           "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Brentford vs Liverpool Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 023",
-          "slot_norm": "AU STAN B 23",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792245000:t> (00:50 AEDT) Brentford vs Liverpool Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Manchester City vs Ipswich Town Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 024",
-          "slot_norm": "AU STAN B 24",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792245000:t> (00:50 AEDT) Manchester City vs Ipswich Town Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Fulham vs Hull City Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 025",
-          "slot_norm": "AU STAN B 25",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792245000:t> (00:50 AEDT) Fulham vs Hull City Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792245000:t> (00:50 AEDT) Goal Rush: Brentford vs Liverpool • 18 Oct Premier League 2026/2027",
-          "slot": "AU STAN B 026",
-          "slot_norm": "AU STAN B 26",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792245000:t> (00:50 AEDT) Goal Rush: Brentford vs Liverpool • 18 Oct Premier League 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792254000:t> (03:20 AEDT) • Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 027",
-          "slot_norm": "AU STAN B 27",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792254000:t> (03:20 AEDT) • Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792254000:t> (03:20 AEDT) Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 028",
-          "slot_norm": "AU STAN B 28",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792254000:t> (03:20 AEDT) Newcastle United vs Aston Villa Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792254600:t> (03:30 AEDT) Washington Spirit vs Gotham FC NWSL 2026",
-          "slot": "AU STAN B 029",
-          "slot_norm": "AU STAN B 29",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
           "start": "2026-10-18T12:00:00+11:00",
           "stop": "2026-10-19T00:00:00+11:00",
           "title": "<t:1792254600:t> (03:30 AEDT) Washington Spirit vs Gotham FC NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792221840:t> (18:24 AEDT) Ulsan vs Bucheon K League 2026",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792221840:t> (18:24 AEDT) Ulsan vs Bucheon K League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792227540:t> (19:59 AEDT) Wuhan: Day 6 WTA 1000",
+          "slot": "AU STAN B 002",
+          "slot_norm": "AU STAN B 2",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792227540:t> (19:59 AEDT) Wuhan: Day 6 WTA 1000"
+        },
+        {
+          "display_title": "2:00 PM <t:1792229100:t> (20:25 AEDT) Day 4 UCI Track World Championships 2026",
+          "slot": "AU STAN B 003",
+          "slot_norm": "AU STAN B 3",
+          "start": "2026-10-17T12:00:00+11:00",
+          "stop": "2026-10-18T00:00:00+11:00",
+          "title": "<t:1792229100:t> (20:25 AEDT) Day 4 UCI Track World Championships 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 632255679,
-      "message_timestamp": 1792155637,
+      "message_id": 632521081,
+      "message_timestamp": 1792233043,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-16T13:21:41.754591+00:00"
+      "updated_at": "2026-10-17T12:16:35.453402+00:00"
     }
   },
   "version": 1
