@@ -410,99 +410,251 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792261800:t> (14:30 ET) CARS Tour Season Finale at South Boston",
-          "slot": "PPV D 24",
-          "slot_norm": "PPV D 24",
+          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) Dubois vs Wardley 2 BU",
+          "slot": "PPV C 010",
+          "slot_norm": "PPV C 10",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792261800:t> (14:30 ET) CARS Tour Season Finale at South Boston"
+          "title": "<t:1792260000:t> (14:00 ET) Dubois vs Wardley 2 BU"
         },
         {
-          "display_title": "5:00 AM <t:1792269000:t> (16:30 ET) Lucas Oil DTWC at West Virginia",
-          "slot": "PPV D 25",
-          "slot_norm": "PPV D 25",
+          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) GLORY 110: Trindade vs Demirkapu",
+          "slot": "PPV C 011",
+          "slot_norm": "PPV C 11",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792269000:t> (16:30 ET) Lucas Oil DTWC at West Virginia"
+          "title": "<t:1792260000:t> (14:00 ET) GLORY 110: Trindade vs Demirkapu"
         },
         {
-          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) FloZone FloRacing Championship Weekend",
-          "slot": "PPV D 26",
-          "slot_norm": "PPV D 26",
+          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) FSC 38 - Manchester",
+          "slot": "PPV C 012",
+          "slot_norm": "PPV C 12",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792270800:t> (17:00 ET) FloZone FloRacing Championship Weekend"
+          "title": "<t:1792260000:t> (14:00 ET) FSC 38 - Manchester"
         },
         {
-          "display_title": "5:00 AM <t:1792283400:t> (20:30 ET) CARS Tour West at Kevin Harvicks Kern",
-          "slot": "PPV D 28",
-          "slot_norm": "PPV D 28",
+          "display_title": "5:00 AM <t:1792274400:t> (18:00 ET) UFC Fight Night: Buckley vs Malott ( Prelims in UFC Section )",
+          "slot": "PPV C 013",
+          "slot_norm": "PPV C 13",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792283400:t> (20:30 ET) CARS Tour West at Kevin Harvicks Kern"
+          "title": "<t:1792274400:t> (18:00 ET) UFC Fight Night: Buckley vs Malott ( Prelims in UFC Section )"
         },
         {
-          "display_title": "5:00 AM <t:1792283400:t> (20:30 ET) NARC Championship Night Cotton Classic at Kings",
-          "slot": "PPV D 29",
-          "slot_norm": "PPV D 29",
+          "display_title": "5:00 AM <t:1792274400:t> (18:00 ET) UFC Fight Night: Buckley vs Malott",
+          "slot": "PPV C 014",
+          "slot_norm": "PPV C 14",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792283400:t> (20:30 ET) NARC Championship Night Cotton Classic at Kings"
+          "title": "<t:1792274400:t> (18:00 ET) UFC Fight Night: Buckley vs Malott"
         },
         {
-          "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) AMA EnduroCross at Nampa",
-          "slot": "PPV D 30",
-          "slot_norm": "PPV D 30",
+          "display_title": "5:00 AM <t:1792274400:t> (18:00 ET) UFC Fight Night: Buckley vs Malott",
+          "slot": "PPV C 015",
+          "slot_norm": "PPV C 15",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792285200:t> (21:00 ET) AMA EnduroCross at Nampa"
+          "title": "<t:1792274400:t> (18:00 ET) UFC Fight Night: Buckley vs Malott"
         },
         {
-          "display_title": "5:00 AM <t:1792291500:t> (22:45 ET) ARCA West at Phoenix",
-          "slot": "PPV D 31",
-          "slot_norm": "PPV D 31",
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) AEW WrestleDream: Orlando",
+          "slot": "PPV C 016",
+          "slot_norm": "PPV C 16",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792291500:t> (22:45 ET) ARCA West at Phoenix"
+          "title": "<t:1792281600:t> (20:00 ET) AEW WrestleDream: Orlando"
         },
         {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Speedway",
-          "slot": "PPV D 32",
-          "slot_norm": "PPV D 32",
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) AEW WrestleDream: Orlando BU",
+          "slot": "PPV C 017",
+          "slot_norm": "PPV C 17",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Millbridge Speedway"
+          "title": "<t:1792281600:t> (20:00 ET) AEW WrestleDream: Orlando BU"
         },
         {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Speedway",
-          "slot": "PPV D 33",
-          "slot_norm": "PPV D 33",
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj",
+          "slot": "PPV C 018",
+          "slot_norm": "PPV C 18",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Speedway"
+          "title": "<t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj"
         },
         {
-          "display_title": "5:00 AM <t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway",
-          "slot": "PPV D 34",
-          "slot_norm": "PPV D 34",
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj BU",
+          "slot": "PPV C 019",
+          "slot_norm": "PPV C 19",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway"
+          "title": "<t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj BU"
         },
         {
-          "display_title": "5:00 AM <t:1792280700:t> (19:45 ET) Creek County Speedway",
-          "slot": "PPV D 35",
-          "slot_norm": "PPV D 35",
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) Herring vs Dodson",
+          "slot": "PPV C 020",
+          "slot_norm": "PPV C 20",
           "start": "2026-10-17T12:00:00-04:00",
           "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792280700:t> (19:45 ET) Creek County Speedway"
+          "title": "<t:1792281600:t> (20:00 ET) Herring vs Dodson"
+        },
+        {
+          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) PRELIMS UFC FN",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792270800:t> (17:00 ET) PRELIMS UFC FN"
+        },
+        {
+          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) PRELIMS UFC FN",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792270800:t> (17:00 ET) PRELIMS UFC FN"
+        },
+        {
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) UFC FN Buckley vs Malott",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792281600:t> (20:00 ET) UFC FN Buckley vs Malott"
+        },
+        {
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) UFC FN Buckley vs Malott",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792281600:t> (20:00 ET) UFC FN Buckley vs Malott"
+        },
+        {
+          "display_title": "5:00 AM <t:1792293300:t> (23:15 ET) Post Fight Conference UFC FN",
+          "slot": "PPV D 05",
+          "slot_norm": "PPV D 5",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792293300:t> (23:15 ET) Post Fight Conference UFC FN"
+        },
+        {
+          "display_title": "5:00 AM <t:1792252800:t> (12:00 ET) PRELIMS Cage Warriors 211",
+          "slot": "PPV D 06",
+          "slot_norm": "PPV D 6",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792252800:t> (12:00 ET) PRELIMS Cage Warriors 211"
+        },
+        {
+          "display_title": "5:00 AM <t:1792261800:t> (14:30 ET) Cage Warriors 211",
+          "slot": "PPV D 07",
+          "slot_norm": "PPV D 7",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792261800:t> (14:30 ET) Cage Warriors 211"
+        },
+        {
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) PRELIMS BKFC 95",
+          "slot": "PPV D 09",
+          "slot_norm": "PPV D 9",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792281600:t> (20:00 ET) PRELIMS BKFC 95"
+        },
+        {
+          "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) BKFC 95 Herring vs Dodson",
+          "slot": "PPV D 10",
+          "slot_norm": "PPV D 10",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792285200:t> (21:00 ET) BKFC 95 Herring vs Dodson"
+        },
+        {
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj",
+          "slot": "PPV D 13",
+          "slot_norm": "PPV D 13",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj"
+        },
+        {
+          "display_title": "5:00 AM <t:1792252800:t> (12:00 ET) Volkovs vs McIntyre",
+          "slot": "PPV D 14",
+          "slot_norm": "PPV D 14",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792252800:t> (12:00 ET) Volkovs vs McIntyre"
+        },
+        {
+          "display_title": "5:00 AM <t:1792252800:t> (12:00 ET) OKTAGON 95",
+          "slot": "PPV D 15",
+          "slot_norm": "PPV D 15",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792252800:t> (12:00 ET) OKTAGON 95"
+        },
+        {
+          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) AEW WrestleDream",
+          "slot": "PPV D 16",
+          "slot_norm": "PPV D 16",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792281600:t> (20:00 ET) AEW WrestleDream"
+        },
+        {
+          "display_title": "5:00 AM <t:1792252800:t> (12:00 ET) PRELIMS Glory 110",
+          "slot": "PPV D 17",
+          "slot_norm": "PPV D 17",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792252800:t> (12:00 ET) PRELIMS Glory 110"
+        },
+        {
+          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) Glory 110 Trindade vs Demirkapu",
+          "slot": "PPV D 18",
+          "slot_norm": "PPV D 18",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792260000:t> (14:00 ET) Glory 110 Trindade vs Demirkapu"
+        },
+        {
+          "display_title": "5:00 AM <t:1792278000:t> (19:00 ET) High Limit Racing All-In Championship at Texas",
+          "slot": "PPV D 20",
+          "slot_norm": "PPV D 20",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792278000:t> (19:00 ET) High Limit Racing All-In Championship at Texas"
+        },
+        {
+          "display_title": "5:00 AM <t:1792255800:t> (12:50 ET) SMART Modified Tour at North Wilkesboro",
+          "slot": "PPV D 21",
+          "slot_norm": "PPV D 21",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792255800:t> (12:50 ET) SMART Modified Tour at North Wilkesboro"
+        },
+        {
+          "display_title": "5:00 AM <t:1792257300:t> (13:15 ET) Halloween Fest at Indianapolis",
+          "slot": "PPV D 22",
+          "slot_norm": "PPV D 22",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792257300:t> (13:15 ET) Halloween Fest at Indianapolis"
+        },
+        {
+          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) STSS Octoberfest at Hagerstown",
+          "slot": "PPV D 23",
+          "slot_norm": "PPV D 23",
+          "start": "2026-10-17T12:00:00-04:00",
+          "stop": "2026-10-18T00:00:00-04:00",
+          "title": "<t:1792260000:t> (14:00 ET) STSS Octoberfest at Hagerstown"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632546881,
-      "message_timestamp": 1792242066,
+      "message_id": 632584092,
+      "message_timestamp": 1792254633,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-17T15:44:54.137711+00:00"
+      "updated_at": "2026-10-17T18:36:33.156157+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
