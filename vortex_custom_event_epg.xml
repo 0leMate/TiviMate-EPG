@@ -7852,22 +7852,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.01">
     <display-name>PPV D 01</display-name>
-    <display-name>PPV D 01:</display-name>
+    <display-name>PPV D 01: 14:00 STSS Octoberfest at Hagerstown 10-18</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.02">
     <display-name>PPV D 02</display-name>
-    <display-name>PPV D 02:</display-name>
+    <display-name>PPV D 02: 16:00 Lucas Oil DTWC at West Virginia 10-18</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.03">
     <display-name>PPV D 03</display-name>
-    <display-name>PPV D 03:</display-name>
+    <display-name>PPV D 03: 20:00 High Limit Racing Championship 10-18</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.04">
     <display-name>PPV D 04</display-name>
-    <display-name>PPV D 04:</display-name>
+    <display-name>PPV D 04: 17:00 JCW A Nightmare In Bergen County 10-18</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.05">
@@ -12513,58 +12513,33 @@
     <display-name>SKY SPORTS+ 13</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.004">
-    <title>2:00 PM &lt;t:1792315800:t&gt; (20:30 AEDT) Race: 6 Hours of Barcelona WEC 2026</title>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.015">
+    <title>2:00 PM &lt;t:1792329600:t&gt; (00:20 AEDT) Manchester City vs Brighton &amp; Hove Albion WSL 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.005">
-    <title>2:00 PM &lt;t:1792319400:t&gt; (21:30 AEDT) Wuhan: Day 7 WTA 1000</title>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.016">
+    <title>2:00 PM &lt;t:1792336800:t&gt; (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.006">
-    <title>2:00 PM &lt;t:1792320600:t&gt; (21:50 AEDT) Chelsea vs Tottenham Hotspur WSL 2026/27</title>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.017">
+    <title>2:00 PM &lt;t:1792346400:t&gt; (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.007">
-    <title>2:00 PM &lt;t:1792320600:t&gt; (21:50 AEDT) Crystal Palace vs West Ham United WSL 2026/27</title>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.018">
+    <title>2:00 PM &lt;t:1792357200:t&gt; (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.008">
-    <title>2:00 PM &lt;t:1792324800:t&gt; (23:00 AEDT) Goal Rush: Leeds United vs Manchester United • 18 Oct Premier League 2026/2027</title>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.019">
+    <title>2:00 PM &lt;t:1792409400:t&gt; (22:30 AEDT) Ningbo: Day 1 WTA 500</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.009">
-    <title>2:00 PM &lt;t:1792327800:t&gt; (23:50 AEDT) Leeds United vs Manchester United Premier League Matchweek 7 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.010">
-    <title>2:00 PM &lt;t:1792327800:t&gt; (23:50 AEDT) Bournemouth vs Sunderland Premier League Matchweek 7 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.011">
-    <title>2:00 PM &lt;t:1792327800:t&gt; (23:50 AEDT) Brighton &amp; Hove Albion vs Crystal Palace Premier League Matchweek 7 2026/2027</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.012">
-    <title>2:00 PM &lt;t:1792327800:t&gt; (23:50 AEDT) London City Lionesses vs Everton WSL 2026/27</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.013">
-    <title>2:00 PM &lt;t:1792327800:t&gt; (23:50 AEDT) Charlton Athletic vs Manchester United WSL 2026/27</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
-  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.014">
-    <title>2:00 PM &lt;t:1792327800:t&gt; (23:50 AEDT) Aston Villa vs Liverpool WSL 2026/27</title>
+  <programme start="20261020120000 +1100" stop="20261021000000 +1100" channel="custom.AU.STAN.AU.STAN.020">
+    <title>2:00 PM &lt;t:1792434600:t&gt; (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -12580,6 +12555,21 @@
   </programme>
   <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.017">
     <title>2:00 PM &lt;t:1792346400:t&gt; (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.018">
+    <title>2:00 PM &lt;t:1792357200:t&gt; (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261019120000 +1100" stop="20261020000000 +1100" channel="custom.AU.STAN.AU.STAN.B.019">
+    <title>2:00 PM &lt;t:1792409400:t&gt; (22:30 AEDT) Ningbo: Day 1 WTA 500</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261020120000 +1100" stop="20261021000000 +1100" channel="custom.AU.STAN.AU.STAN.B.020">
+    <title>2:00 PM &lt;t:1792434600:t&gt; (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14585,6 +14575,26 @@
   </programme>
   <programme start="20261018120000 -0400" stop="20261019000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.02">
     <title>5:00 AM &lt;t:1792354500:t&gt; (16:15 ET) Lucas Oil DTWC WVMS</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261018120000 -0400" stop="20261019000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.01">
+    <title>5:00 AM &lt;t:1792346400:t&gt; (14:00 ET) STSS Octoberfest at Hagerstown</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261018120000 -0400" stop="20261019000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.02">
+    <title>5:00 AM &lt;t:1792353600:t&gt; (16:00 ET) Lucas Oil DTWC at West Virginia</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261018120000 -0400" stop="20261019000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.03">
+    <title>5:00 AM &lt;t:1792368000:t&gt; (20:00 ET) High Limit Racing Championship</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261018120000 -0400" stop="20261019000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.04">
+    <title>5:00 AM &lt;t:1792357200:t&gt; (17:00 ET) JCW A Nightmare In Bergen County</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

@@ -304,13 +304,45 @@
           "start": "2026-10-18T12:00:00-04:00",
           "stop": "2026-10-19T00:00:00-04:00",
           "title": "<t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS"
+        },
+        {
+          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) STSS Octoberfest at Hagerstown",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792346400:t> (14:00 ET) STSS Octoberfest at Hagerstown"
+        },
+        {
+          "display_title": "5:00 AM <t:1792353600:t> (16:00 ET) Lucas Oil DTWC at West Virginia",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792353600:t> (16:00 ET) Lucas Oil DTWC at West Virginia"
+        },
+        {
+          "display_title": "5:00 AM <t:1792368000:t> (20:00 ET) High Limit Racing Championship",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792368000:t> (20:00 ET) High Limit Racing Championship"
+        },
+        {
+          "display_title": "5:00 AM <t:1792357200:t> (17:00 ET) JCW A Nightmare In Bergen County",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792357200:t> (17:00 ET) JCW A Nightmare In Bergen County"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632769437,
-      "message_timestamp": 1792315837,
+      "message_id": 632779297,
+      "message_timestamp": 1792323020,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-18T11:25:35.019573+00:00"
+      "updated_at": "2026-10-18T16:00:34.417511+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -560,92 +592,52 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1792315800:t> (20:30 AEDT) Race: 6 Hours of Barcelona WEC 2026",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
+          "display_title": "2:00 PM <t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792315800:t> (20:30 AEDT) Race: 6 Hours of Barcelona WEC 2026"
+          "title": "<t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1792319400:t> (21:30 AEDT) Wuhan: Day 7 WTA 1000",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
+          "display_title": "2:00 PM <t:1792336800:t> (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792319400:t> (21:30 AEDT) Wuhan: Day 7 WTA 1000"
+          "title": "<t:1792336800:t> (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1792320600:t> (21:50 AEDT) Chelsea vs Tottenham Hotspur WSL 2026/27",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
+          "display_title": "2:00 PM <t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792320600:t> (21:50 AEDT) Chelsea vs Tottenham Hotspur WSL 2026/27"
+          "title": "<t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19"
         },
         {
-          "display_title": "2:00 PM <t:1792320600:t> (21:50 AEDT) Crystal Palace vs West Ham United WSL 2026/27",
-          "slot": "AU STAN B 007",
-          "slot_norm": "AU STAN B 7",
+          "display_title": "2:00 PM <t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792320600:t> (21:50 AEDT) Crystal Palace vs West Ham United WSL 2026/27"
+          "title": "<t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026"
         },
         {
-          "display_title": "2:00 PM <t:1792324800:t> (23:00 AEDT) Goal Rush: Leeds United vs Manchester United • 18 Oct Premier League 2026/2027",
-          "slot": "AU STAN B 008",
-          "slot_norm": "AU STAN B 8",
+          "display_title": "2:00 PM <t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792324800:t> (23:00 AEDT) Goal Rush: Leeds United vs Manchester United • 18 Oct Premier League 2026/2027"
+          "title": "<t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500"
         },
         {
-          "display_title": "2:00 PM <t:1792327800:t> (23:50 AEDT) Leeds United vs Manchester United Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792327800:t> (23:50 AEDT) Leeds United vs Manchester United Premier League Matchweek 7 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792327800:t> (23:50 AEDT) Bournemouth vs Sunderland Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792327800:t> (23:50 AEDT) Bournemouth vs Sunderland Premier League Matchweek 7 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792327800:t> (23:50 AEDT) Brighton & Hove Albion vs Crystal Palace Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792327800:t> (23:50 AEDT) Brighton & Hove Albion vs Crystal Palace Premier League Matchweek 7 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792327800:t> (23:50 AEDT) London City Lionesses vs Everton WSL 2026/27",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792327800:t> (23:50 AEDT) London City Lionesses vs Everton WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792327800:t> (23:50 AEDT) Charlton Athletic vs Manchester United WSL 2026/27",
-          "slot": "AU STAN B 013",
-          "slot_norm": "AU STAN B 13",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792327800:t> (23:50 AEDT) Charlton Athletic vs Manchester United WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792327800:t> (23:50 AEDT) Aston Villa vs Liverpool WSL 2026/27",
-          "slot": "AU STAN B 014",
-          "slot_norm": "AU STAN B 14",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792327800:t> (23:50 AEDT) Aston Villa vs Liverpool WSL 2026/27"
+          "display_title": "2:00 PM <t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-10-20T12:00:00+11:00",
+          "stop": "2026-10-21T00:00:00+11:00",
+          "title": "<t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27",
@@ -670,13 +662,37 @@
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
           "title": "<t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19"
+        },
+        {
+          "display_title": "2:00 PM <t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026",
+          "slot": "AU STAN B 018",
+          "slot_norm": "AU STAN B 18",
+          "start": "2026-10-19T12:00:00+11:00",
+          "stop": "2026-10-20T00:00:00+11:00",
+          "title": "<t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500",
+          "slot": "AU STAN B 019",
+          "slot_norm": "AU STAN B 19",
+          "start": "2026-10-19T12:00:00+11:00",
+          "stop": "2026-10-20T00:00:00+11:00",
+          "title": "<t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500"
+        },
+        {
+          "display_title": "2:00 PM <t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027",
+          "slot": "AU STAN B 020",
+          "slot_norm": "AU STAN B 20",
+          "start": "2026-10-20T12:00:00+11:00",
+          "stop": "2026-10-21T00:00:00+11:00",
+          "title": "<t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 632774653,
-      "message_timestamp": 1792319457,
+      "message_id": 632787527,
+      "message_timestamp": 1792328453,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-18T11:25:35.843613+00:00"
+      "updated_at": "2026-10-18T16:00:34.717926+00:00"
     }
   },
   "version": 1
