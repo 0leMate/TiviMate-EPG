@@ -4,107 +4,43 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Speedway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway",
-          "slot": "DIRT 03",
-          "slot_norm": "DIRT 3",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792280700:t> (19:45 ET) Creek County Speedway",
-          "slot": "DIRT 04",
-          "slot_norm": "DIRT 4",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792280700:t> (19:45 ET) Creek County Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1792361700:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792361700:t> (18:15 ET) Millbridge Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Speedway",
+          "display_title": "5:00 AM <t:1792361700:t> (18:15 ET) Cedar Lake Speedway",
           "slot": "DIRT B 02",
           "slot_norm": "DIRT B 2",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Speedway"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792361700:t> (18:15 ET) Cedar Lake Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway",
+          "display_title": "5:00 AM <t:1792365300:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway",
           "slot": "DIRT B 03",
           "slot_norm": "DIRT B 3",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792365300:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1792280700:t> (19:45 ET) Creek County Speedway",
+          "display_title": "5:00 AM <t:1792367100:t> (19:45 ET) Creek County Speedway",
           "slot": "DIRT B 04",
           "slot_norm": "DIRT B 4",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792280700:t> (19:45 ET) Creek County Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Speedway",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Speedway",
-          "slot": "DIRT C 02",
-          "slot_norm": "DIRT C 2",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway",
-          "slot": "DIRT C 03",
-          "slot_norm": "DIRT C 3",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278900:t> (19:15 ET) Belle Clair Fairgrounds Park Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792280700:t> (19:45 ET) Creek County Speedway",
-          "slot": "DIRT C 04",
-          "slot_norm": "DIRT C 4",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792280700:t> (19:45 ET) Creek County Speedway"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792367100:t> (19:45 ET) Creek County Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 632556998,
-      "message_timestamp": 1792245637,
+      "message_id": 632712575,
+      "message_timestamp": 1792296022,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-17T15:44:53.498971+00:00"
+      "updated_at": "2026-10-18T04:48:20.112733+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -200,453 +136,117 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792276200:t> (18:30 ET) CBS Sports HQ: The Postgame",
-          "slot": "PARAMOUNT 024",
-          "slot_norm": "PARAMOUNT 24",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792276200:t> (18:30 ET) CBS Sports HQ: The Postgame"
+          "display_title": "5:00 AM <t:1792318800:t> (06:20 ET) Udinese vs Lecce",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792318800:t> (06:20 ET) Udinese vs Lecce"
         },
         {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 025",
-          "slot_norm": "PARAMOUNT 25",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+          "display_title": "5:00 AM <t:1792320600:t> (06:50 ET) Chelsea vs Tottenham",
+          "slot": "PARAMOUNT B 020",
+          "slot_norm": "PARAMOUNT B 20",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792320600:t> (06:50 ET) Chelsea vs Tottenham"
         },
         {
-          "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) UFC: UFC Fight Night: Multiview",
-          "slot": "PARAMOUNT 026",
-          "slot_norm": "PARAMOUNT 26",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792285200:t> (21:00 ET) UFC: UFC Fight Night: Multiview"
+          "display_title": "5:00 AM <t:1792327800:t> (08:50 ET) Fiorentina vs Como",
+          "slot": "PARAMOUNT B 021",
+          "slot_norm": "PARAMOUNT B 21",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792327800:t> (08:50 ET) Fiorentina vs Como"
         },
         {
-          "display_title": "5:00 AM <t:1792292400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 027",
-          "slot_norm": "PARAMOUNT 27",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792292400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+          "display_title": "5:00 AM <t:1792338600:t> (11:50 ET) Milan vs Atalanta",
+          "slot": "PARAMOUNT B 022",
+          "slot_norm": "PARAMOUNT B 22",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792338600:t> (11:50 ET) Milan vs Atalanta"
         },
         {
-          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Middlesbrough vs Cardiff City",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792236000:t> (07:20 ET) Middlesbrough vs Cardiff City"
-        },
-        {
-          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Watford vs Charlton Athletic",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792236000:t> (07:20 ET) Watford vs Charlton Athletic"
-        },
-        {
-          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Arsenal vs Birmingham City",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792236000:t> (07:20 ET) Arsenal vs Birmingham City"
-        },
-        {
-          "display_title": "5:00 AM <t:1792241400:t> (08:50 ET) Venezia vs Napoli",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792241400:t> (08:50 ET) Venezia vs Napoli"
-        },
-        {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Wrexham vs Preston North End",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) Wrexham vs Preston North End"
-        },
-        {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Norwich City vs Portsmouth",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) Norwich City vs Portsmouth"
-        },
-        {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Sheffield Wednesday vs AFC Wimbledon",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) Sheffield Wednesday vs AFC Wimbledon"
-        },
-        {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Swindon Town vs Walsall",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) Swindon Town vs Walsall"
-        },
-        {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Swansea City vs West Ham United",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) Swansea City vs West Ham United"
-        },
-        {
-          "display_title": "5:00 AM <t:1792243800:t> (09:30 ET) Southampton vs Bolton Wanderers",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792243800:t> (09:30 ET) Southampton vs Bolton Wanderers"
-        },
-        {
-          "display_title": "5:00 AM <t:1792252200:t> (11:50 ET) Bologna vs Inter",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792252200:t> (11:50 ET) Bologna vs Inter"
-        },
-        {
-          "display_title": "5:00 AM <t:1792260000:t> (14:00 ET) Roma vs Genoa",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792260000:t> (14:00 ET) Roma vs Genoa"
-        },
-        {
-          "display_title": "5:00 AM <t:1792263300:t> (14:55 ET) Dundee vs Rangers",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792263300:t> (14:55 ET) Dundee vs Rangers"
-        },
-        {
-          "display_title": "5:00 AM <t:1792267200:t> (16:00 ET) UFC Fight Night: English",
-          "slot": "PARAMOUNT B 014",
-          "slot_norm": "PARAMOUNT B 14",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792267200:t> (16:00 ET) UFC Fight Night: English"
-        },
-        {
-          "display_title": "5:00 AM <t:1792267200:t> (16:00 ET) UFC Fight Night em Português",
-          "slot": "PARAMOUNT B 015",
-          "slot_norm": "PARAMOUNT B 15",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792267200:t> (16:00 ET) UFC Fight Night em Português"
-        },
-        {
-          "display_title": "5:00 AM <t:1792267200:t> (16:00 ET) UFC Fight Night en Español",
-          "slot": "PARAMOUNT B 016",
-          "slot_norm": "PARAMOUNT B 16",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792267200:t> (16:00 ET) UFC Fight Night en Español"
-        },
-        {
-          "display_title": "5:00 AM <t:1792273800:t> (17:50 ET) USA vs Italy",
-          "slot": "PARAMOUNT B 017",
-          "slot_norm": "PARAMOUNT B 17",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792273800:t> (17:50 ET) USA vs Italy"
-        },
-        {
-          "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) UFC Fight Night: Multiview",
-          "slot": "PARAMOUNT B 018",
-          "slot_norm": "PARAMOUNT B 18",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792285200:t> (21:00 ET) UFC Fight Night: Multiview"
-        },
-        {
-          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) English Football League: Middlesbrough vs Cardiff City",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792236000:t> (07:20 ET) English Football League: Middlesbrough vs Cardiff City"
-        },
-        {
-          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) English Football League: Watford vs Charlton Athletic",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792236000:t> (07:20 ET) English Football League: Watford vs Charlton Athletic"
-        },
-        {
-          "display_title": "5:00 AM <t:1792236000:t> (07:20 ET) Barclays Women's Super League: Arsenal vs Birmingham City",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792236000:t> (07:20 ET) Barclays Women's Super League: Arsenal vs Birmingham City"
+          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) Juventus vs Lazio",
+          "slot": "PARAMOUNT B 023",
+          "slot_norm": "PARAMOUNT B 23",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792346400:t> (14:00 ET) Juventus vs Lazio"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 632516604,
-      "message_timestamp": 1792231406,
+      "message_id": 632712664,
+      "message_timestamp": 1792296048,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-17T12:16:35.019563+00:00"
+      "updated_at": "2026-10-18T04:48:20.417278+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) UFC Fight Night Buckley vs Malott",
+          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792270800:t> (17:00 ET) UFC Fight Night Buckley vs Malott"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown"
         },
         {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) BKFC 95 Herring vs Dodson",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) BKFC 95 Herring vs Dodson"
+          "display_title": "5:00 AM <t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS"
         },
         {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj"
-        },
-        {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) AEW WrestleDream",
+          "display_title": "5:00 AM <t:1792368000:t> (20:00 ET) AEW WrestleDream",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) AEW WrestleDream"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792368000:t> (20:00 ET) AEW WrestleDream"
         },
         {
-          "display_title": "5:00 AM <t:1792276200:t> (18:30 ET) ACW Mischief Night II",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792276200:t> (18:30 ET) ACW Mischief Night II"
-        },
-        {
-          "display_title": "5:00 AM <t:1792255800:t> (12:50 ET) SMART Modified Tour North Wilkesboro",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792255800:t> (12:50 ET) SMART Modified Tour North Wilkesboro"
-        },
-        {
-          "display_title": "5:00 AM <t:1792269000:t> (16:30 ET) Lucas Oil DTWC WVMS",
-          "slot": "PPV 16",
-          "slot_norm": "PPV 16",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792269000:t> (16:30 ET) Lucas Oil DTWC WVMS"
-        },
-        {
-          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) FloZone FloRacing Championship Weekend",
-          "slot": "PPV 17",
-          "slot_norm": "PPV 17",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792270800:t> (17:00 ET) FloZone FloRacing Championship Weekend"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Sprints",
-          "slot": "PPV 18",
-          "slot_norm": "PPV 18",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Millbridge Sprints"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Late Models",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Late Models"
-        },
-        {
-          "display_title": "5:00 AM <t:1792277100:t> (18:45 ET) USAC National Sprints Route 66",
-          "slot": "PPV 20",
-          "slot_norm": "PPV 20",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792277100:t> (18:45 ET) USAC National Sprints Route 66"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278000:t> (19:00 ET) High Limit Racing Texas",
-          "slot": "PPV 21",
-          "slot_norm": "PPV 21",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278000:t> (19:00 ET) High Limit Racing Texas"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278000:t> (19:00 ET) USAC WS Midgets Ventura",
-          "slot": "PPV 22",
-          "slot_norm": "PPV 22",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278000:t> (19:00 ET) USAC WS Midgets Ventura"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278900:t> (19:15 ET) World of Outlaws Sprint Cars Belle Clair",
-          "slot": "PPV 23",
-          "slot_norm": "PPV 23",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278900:t> (19:15 ET) World of Outlaws Sprint Cars Belle Clair"
-        },
-        {
-          "display_title": "5:00 AM <t:1792283400:t> (20:30 ET) NARC Championship Night Kings",
-          "slot": "PPV 24",
-          "slot_norm": "PPV 24",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792283400:t> (20:30 ET) NARC Championship Night Kings"
-        },
-        {
-          "display_title": "5:00 AM <t:1792285200:t> (21:00 ET) AMA EnduroCross Nampa",
-          "slot": "PPV 25",
-          "slot_norm": "PPV 25",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792285200:t> (21:00 ET) AMA EnduroCross Nampa"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278000:t> (19:00 ET) AEW Saturday Tailgate Brawl (Commercial Free)",
+          "display_title": "5:00 AM <t:1792364400:t> (19:00 ET) AEW Saturday Tailgate Brawl (Commercial Free)",
           "slot": "PPV 28",
           "slot_norm": "PPV 28",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278000:t> (19:00 ET) AEW Saturday Tailgate Brawl (Commercial Free)"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792364400:t> (19:00 ET) AEW Saturday Tailgate Brawl (Commercial Free)"
         },
         {
-          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) UFC Fight Night Buckley vs Malott",
+          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792270800:t> (17:00 ET) UFC Fight Night Buckley vs Malott"
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown"
         },
         {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) BKFC 95 Herring vs Dodson",
-          "slot": "PPV B 04",
-          "slot_norm": "PPV B 4",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) BKFC 95 Herring vs Dodson"
+          "display_title": "5:00 AM <t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS"
         },
         {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj",
-          "slot": "PPV B 05",
-          "slot_norm": "PPV B 5",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) Fundora vs Hadribeaj"
-        },
-        {
-          "display_title": "5:00 AM <t:1792281600:t> (20:00 ET) AEW WrestleDream",
-          "slot": "PPV B 06",
-          "slot_norm": "PPV B 6",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792281600:t> (20:00 ET) AEW WrestleDream"
-        },
-        {
-          "display_title": "5:00 AM <t:1792276200:t> (18:30 ET) ACW Mischief Night II",
-          "slot": "PPV B 12",
-          "slot_norm": "PPV B 12",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792276200:t> (18:30 ET) ACW Mischief Night II"
-        },
-        {
-          "display_title": "5:00 AM <t:1792255800:t> (12:50 ET) SMART Modified Tour North Wilkesboro",
-          "slot": "PPV B 13",
-          "slot_norm": "PPV B 13",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792255800:t> (12:50 ET) SMART Modified Tour North Wilkesboro"
-        },
-        {
-          "display_title": "5:00 AM <t:1792269000:t> (16:30 ET) Lucas Oil DTWC WVMS",
-          "slot": "PPV B 16",
-          "slot_norm": "PPV B 16",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792269000:t> (16:30 ET) Lucas Oil DTWC WVMS"
-        },
-        {
-          "display_title": "5:00 AM <t:1792270800:t> (17:00 ET) FloZone FloRacing Championship Weekend",
-          "slot": "PPV B 17",
-          "slot_norm": "PPV B 17",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792270800:t> (17:00 ET) FloZone FloRacing Championship Weekend"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Millbridge Sprints",
-          "slot": "PPV B 18",
-          "slot_norm": "PPV B 18",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Millbridge Sprints"
-        },
-        {
-          "display_title": "5:00 AM <t:1792275300:t> (18:15 ET) Cedar Lake Late Models",
-          "slot": "PPV B 19",
-          "slot_norm": "PPV B 19",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792275300:t> (18:15 ET) Cedar Lake Late Models"
-        },
-        {
-          "display_title": "5:00 AM <t:1792277100:t> (18:45 ET) USAC National Sprints Route 66",
-          "slot": "PPV B 20",
-          "slot_norm": "PPV B 20",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792277100:t> (18:45 ET) USAC National Sprints Route 66"
-        },
-        {
-          "display_title": "5:00 AM <t:1792278000:t> (19:00 ET) High Limit Racing Texas",
-          "slot": "PPV B 21",
-          "slot_norm": "PPV B 21",
-          "start": "2026-10-17T12:00:00-04:00",
-          "stop": "2026-10-18T00:00:00-04:00",
-          "title": "<t:1792278000:t> (19:00 ET) High Limit Racing Texas"
+          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) Dubois vs Wardley 2 BU",
+          "slot": "PPV C 008",
+          "slot_norm": "PPV C 8",
+          "start": "2026-10-18T12:00:00-04:00",
+          "stop": "2026-10-19T00:00:00-04:00",
+          "title": "<t:1792346400:t> (14:00 ET) Dubois vs Wardley 2 BU"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632665105,
-      "message_timestamp": 1792281644,
+      "message_id": 632717727,
+      "message_timestamp": 1792297820,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-18T00:07:51.143363+00:00"
+      "updated_at": "2026-10-18T04:48:20.678767+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -812,37 +412,13 @@
           "start": "2026-10-18T12:00:00+01:00",
           "stop": "2026-10-19T00:00:00+01:00",
           "title": "<t:1792311900:t> (08:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs R. Jodar"
-        },
-        {
-          "display_title": "12:00 AM <t:1792348200:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
-          "slot": "SKY SPORTS+ B 04",
-          "slot_norm": "SKY SPORTS+ B 4",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792348200:t> (18:30 UTC) Norwich vs Southampton // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
-        },
-        {
-          "display_title": "12:00 AM <t:1792348200:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
-          "slot": "SKY SPORTS+ B 05",
-          "slot_norm": "SKY SPORTS+ B 5",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792348200:t> (18:30 UTC) Portsmouth vs Sheff Utd // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
-        },
-        {
-          "display_title": "12:00 AM <t:1792348200:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm",
-          "slot": "SKY SPORTS+ B 06",
-          "slot_norm": "SKY SPORTS+ B 6",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792348200:t> (18:30 UTC) Qpr vs Derby // UK Wed 14 Oct // ET Wed 14 Oct 2:30pm"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 632665144,
-      "message_timestamp": 1792281661,
+      "message_id": 632683567,
+      "message_timestamp": 1792287040,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-18T00:07:51.529295+00:00"
+      "updated_at": "2026-10-18T04:48:21.181566+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
