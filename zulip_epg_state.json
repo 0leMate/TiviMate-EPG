@@ -136,27 +136,131 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "5:00 AM <t:1792414800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792414800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "5:00 AM <t:1792422000:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792422000:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "5:00 AM <t:1792425600:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792425600:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "5:00 AM <t:1792426800:t> (12:20 ET) Serie A: Monza vs Cagliari",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792426800:t> (12:20 ET) Serie A: Monza vs Cagliari"
+        },
+        {
+          "display_title": "5:00 AM <t:1792432800:t> (14:00 ET) CBS Sports HQ: The Early Edge",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792432800:t> (14:00 ET) CBS Sports HQ: The Early Edge"
+        },
+        {
+          "display_title": "5:00 AM <t:1792434600:t> (14:30 ET) Serie A: Parma vs Torino",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792434600:t> (14:30 ET) Serie A: Parma vs Torino"
+        },
+        {
+          "display_title": "5:00 AM <t:1792436400:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792436400:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "5:00 AM <t:1792440000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792440000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "5:00 AM <t:1792447200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792447200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "5:00 AM <t:1792454400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792454400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "5:00 AM <t:1792465200:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792465200:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
+        {
           "display_title": "5:00 AM <t:1792426800:t> (12:20 ET) Monza vs Cagliari",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-19T12:00:00-04:00",
           "stop": "2026-10-20T00:00:00-04:00",
           "title": "<t:1792426800:t> (12:20 ET) Monza vs Cagliari"
         },
         {
           "display_title": "5:00 AM <t:1792434600:t> (14:30 ET) Parma vs Torino",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
           "start": "2026-10-19T12:00:00-04:00",
           "stop": "2026-10-20T00:00:00-04:00",
           "title": "<t:1792434600:t> (14:30 ET) Parma vs Torino"
+        },
+        {
+          "display_title": "5:00 AM <t:1792426800:t> (12:20 ET) Serie A: Monza vs Cagliari",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792426800:t> (12:20 ET) Serie A: Monza vs Cagliari"
+        },
+        {
+          "display_title": "5:00 AM <t:1792434600:t> (14:30 ET) Serie A: Parma vs Torino",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792434600:t> (14:30 ET) Serie A: Parma vs Torino"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 632885812,
-      "message_timestamp": 1792382452,
+      "message_id": 632955581,
+      "message_timestamp": 1792404038,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-19T04:56:33.180102+00:00"
+      "updated_at": "2026-10-19T13:42:59.618086+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -176,13 +280,21 @@
           "start": "2026-10-19T12:00:00-04:00",
           "stop": "2026-10-20T00:00:00-04:00",
           "title": "<t:1792454400:t> (20:00 ET) WWE Monday Night RAW"
+        },
+        {
+          "display_title": "5:00 AM <t:1792454400:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792454400:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632885795,
-      "message_timestamp": 1792382441,
+      "message_id": 632982580,
+      "message_timestamp": 1792411254,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-19T04:56:33.701582+00:00"
+      "updated_at": "2026-10-19T13:42:59.723234+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -318,221 +430,181 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792308300:t> (07:25 UTC) Pakistan Tri-Nation Series Pakistan vs Sri Lanka",
+          "display_title": "12:00 AM <t:1792387500:t> (05:25 UTC) Tennis WTA Tennis I. Neel/G. Olmos vs Cho I-hsuan/Yi-Tsen Cho",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792308300:t> (07:25 UTC) Pakistan Tri-Nation Series Pakistan vs Sri Lanka"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792387500:t> (05:25 UTC) Tennis WTA Tennis I. Neel/G. Olmos vs Cho I-hsuan/Yi-Tsen Cho"
         },
         {
-          "display_title": "12:00 AM <t:1792310100:t> (07:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs S. Hunter/K. Siniakova",
+          "display_title": "12:00 AM <t:1792387500:t> (05:25 UTC) Tennis WTA Tennis S. Cirstea vs Shi Han",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792310100:t> (07:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs S. Hunter/K. Siniakova"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792387500:t> (05:25 UTC) Tennis WTA Tennis S. Cirstea vs Shi Han"
         },
         {
-          "display_title": "12:00 AM <t:1792311900:t> (08:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs R. Jodar",
+          "display_title": "12:00 AM <t:1792392900:t> (06:55 UTC) Tennis WTA Tennis H. Guo/K. Mladenovic vs S. Aoyama/Liang En-Shuo",
           "slot": "SKY SPORTS+ 03",
           "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792311900:t> (08:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs R. Jodar"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792392900:t> (06:55 UTC) Tennis WTA Tennis H. Guo/K. Mladenovic vs S. Aoyama/Liang En-Shuo"
         },
         {
-          "display_title": "12:00 AM <t:1792319100:t> (10:25 UTC) WTA Tour WTA Tennis M. Chwalinska vs S. Kartal",
+          "display_title": "12:00 AM <t:1792392900:t> (06:55 UTC) Tennis WTA Tennis K. Boulter vs H. Sakatsume",
           "slot": "SKY SPORTS+ 04",
           "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792319100:t> (10:25 UTC) WTA Tour WTA Tennis M. Chwalinska vs S. Kartal"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792392900:t> (06:55 UTC) Tennis WTA Tennis K. Boulter vs H. Sakatsume"
         },
         {
-          "display_title": "12:00 AM <t:1792322700:t> (11:25 UTC) English Premier League Bournemouth vs Sunderland",
+          "display_title": "12:00 AM <t:1792396500:t> (07:55 UTC) Tennis ATP Tennis A. Mannarino vs A. Vukic",
           "slot": "SKY SPORTS+ 05",
           "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792322700:t> (11:25 UTC) English Premier League Bournemouth vs Sunderland"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792396500:t> (07:55 UTC) Tennis ATP Tennis A. Mannarino vs A. Vukic"
         },
         {
-          "display_title": "12:00 AM <t:1792322700:t> (11:25 UTC) Premier League Brighton vs Crystal Palace",
+          "display_title": "12:00 AM <t:1792396500:t> (07:55 UTC) Tennis WTA Tennis D. Kasatkina vs A. Sasnovich",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792322700:t> (11:25 UTC) Premier League Brighton vs Crystal Palace"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792396500:t> (07:55 UTC) Tennis WTA Tennis D. Kasatkina vs A. Sasnovich"
         },
         {
-          "display_title": "12:00 AM <t:1792322700:t> (11:25 UTC) Premier League Leeds vs Man Utd",
+          "display_title": "12:00 AM <t:1792401900:t> (09:25 UTC) Tennis ATP Tennis M. Cilic vs N. Basilashvili",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792322700:t> (11:25 UTC) Premier League Leeds vs Man Utd"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792401900:t> (09:25 UTC) Tennis ATP Tennis M. Cilic vs N. Basilashvili"
         },
         {
-          "display_title": "12:00 AM <t:1792327500:t> (12:45 UTC) Barclays Women's Super League Aston Villa vs Liverpool",
+          "display_title": "12:00 AM <t:1792401900:t> (09:25 UTC) Tennis WTA Tennis K. Rakhimova vs M. Bouzkova",
           "slot": "SKY SPORTS+ 08",
           "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792327500:t> (12:45 UTC) Barclays Women's Super League Aston Villa vs Liverpool"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792401900:t> (09:25 UTC) Tennis WTA Tennis K. Rakhimova vs M. Bouzkova"
         },
         {
-          "display_title": "12:00 AM <t:1792327500:t> (12:45 UTC) Barclays Women's Super League London City vs Everton",
+          "display_title": "12:00 AM <t:1792403700:t> (09:55 UTC) Tennis ATP Tennis F. Cina vs J. Munar",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792327500:t> (12:45 UTC) Barclays Women's Super League London City vs Everton"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792403700:t> (09:55 UTC) Tennis ATP Tennis F. Cina vs J. Munar"
         },
         {
-          "display_title": "12:00 AM <t:1792336800:t> (15:20 UTC) Premier League Nott'm Forest vs Arsenal",
+          "display_title": "12:00 AM <t:1792409100:t> (11:25 UTC) Tennis ATP Tennis Y. Hanfmann vs M. Damm",
           "slot": "SKY SPORTS+ 10",
           "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792336800:t> (15:20 UTC) Premier League Nott'm Forest vs Arsenal"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792409100:t> (11:25 UTC) Tennis ATP Tennis Y. Hanfmann vs M. Damm"
         },
         {
-          "display_title": "12:00 AM <t:1792342500:t> (16:55 UTC) NFL New York Jets vs New England Patriots",
+          "display_title": "12:00 AM <t:1792409100:t> (11:25 UTC) Tennis WTA Tennis A. Eala vs D. Parry",
           "slot": "SKY SPORTS+ 11",
           "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792342500:t> (16:55 UTC) NFL New York Jets vs New England Patriots"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792409100:t> (11:25 UTC) Tennis WTA Tennis A. Eala vs D. Parry"
         },
         {
-          "display_title": "12:00 AM <t:1792354200:t> (20:10 UTC) NFL Buffalo Bills vs Las Vegas Raiders",
+          "display_title": "12:00 AM <t:1792416300:t> (13:25 UTC) Tennis ATP Tennis A. Guerrieri vs A. Michelsen",
           "slot": "SKY SPORTS+ 12",
           "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792354200:t> (20:10 UTC) NFL Buffalo Bills vs Las Vegas Raiders"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792416300:t> (13:25 UTC) Tennis ATP Tennis A. Guerrieri vs A. Michelsen"
         },
         {
-          "display_title": "12:00 AM <t:1792354800:t> (20:20 UTC) NFL Los Angeles Chargers vs Kansas City Chiefs",
+          "display_title": "12:00 AM <t:1792419900:t> (14:25 UTC) Tennis ATP Tennis M. Kukushkin vs S. Sakellaridis",
           "slot": "SKY SPORTS+ 13",
           "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-10-18T12:00:00+01:00",
-          "stop": "2026-10-19T00:00:00+01:00",
-          "title": "<t:1792354800:t> (20:20 UTC) NFL Los Angeles Chargers vs Kansas City Chiefs"
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792419900:t> (14:25 UTC) Tennis ATP Tennis M. Kukushkin vs S. Sakellaridis"
+        },
+        {
+          "display_title": "12:00 AM <t:1792421700:t> (14:55 UTC) Tennis ATP Tennis R. Collignon/D. Goffin vs M. Polmans/J. Zielinski",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792421700:t> (14:55 UTC) Tennis ATP Tennis R. Collignon/D. Goffin vs M. Polmans/J. Zielinski"
+        },
+        {
+          "display_title": "12:00 AM <t:1792427100:t> (16:25 UTC) Tennis ATP Tennis F. Cerundolo/A. Michelsen vs TBD",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792427100:t> (16:25 UTC) Tennis ATP Tennis F. Cerundolo/A. Michelsen vs TBD"
+        },
+        {
+          "display_title": "12:00 AM <t:1792430700:t> (17:25 UTC) Premier League Spurs vs Coventry",
+          "slot": "SKY SPORTS+ 16",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-10-19T12:00:00+01:00",
+          "stop": "2026-10-20T00:00:00+01:00",
+          "title": "<t:1792430700:t> (17:25 UTC) Premier League Spurs vs Coventry"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 632759543,
-      "message_timestamp": 1792310490,
+      "message_id": 632940707,
+      "message_timestamp": 1792400459,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-18T11:25:35.604868+00:00"
+      "updated_at": "2026-10-19T13:42:59.896240+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792336800:t> (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792336800:t> (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19"
-        },
-        {
-          "display_title": "2:00 PM <t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026",
-          "slot": "AU STAN 018",
-          "slot_norm": "AU STAN 18",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026"
-        },
-        {
           "display_title": "2:00 PM <t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500",
-          "slot": "AU STAN 019",
-          "slot_norm": "AU STAN 19",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
           "title": "<t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500"
         },
         {
           "display_title": "2:00 PM <t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN 020",
-          "slot_norm": "AU STAN 20",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
           "start": "2026-10-20T12:00:00+11:00",
           "stop": "2026-10-21T00:00:00+11:00",
           "title": "<t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN B 015",
-          "slot_norm": "AU STAN B 15",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792329600:t> (00:20 AEDT) Manchester City vs Brighton & Hove Albion WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792336800:t> (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 016",
-          "slot_norm": "AU STAN B 16",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792336800:t> (02:20 AEDT) Nottingham Forest vs Arsenal Premier League Matchweek 7 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19",
-          "slot": "AU STAN B 017",
-          "slot_norm": "AU STAN B 17",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792346400:t> (05:00 AEDT) PL Weekend Wrap: Matchweek 7 Oct 19"
-        },
-        {
-          "display_title": "2:00 PM <t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026",
-          "slot": "AU STAN B 018",
-          "slot_norm": "AU STAN B 18",
-          "start": "2026-10-19T12:00:00+11:00",
-          "stop": "2026-10-20T00:00:00+11:00",
-          "title": "<t:1792357200:t> (08:00 AEDT) Bay FC vs Portland Thorns NWSL 2026"
-        },
-        {
           "display_title": "2:00 PM <t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500",
-          "slot": "AU STAN B 019",
-          "slot_norm": "AU STAN B 19",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
           "start": "2026-10-19T12:00:00+11:00",
           "stop": "2026-10-20T00:00:00+11:00",
           "title": "<t:1792409400:t> (22:30 AEDT) Ningbo: Day 1 WTA 500"
         },
         {
           "display_title": "2:00 PM <t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027",
-          "slot": "AU STAN B 020",
-          "slot_norm": "AU STAN B 20",
+          "slot": "AU STAN B 002",
+          "slot_norm": "AU STAN B 2",
           "start": "2026-10-20T12:00:00+11:00",
           "stop": "2026-10-21T00:00:00+11:00",
           "title": "<t:1792434600:t> (05:30 AEDT) Tottenham Hotspur vs Coventry City Premier League Matchweek 7 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 632787527,
-      "message_timestamp": 1792328453,
+      "message_id": 632962729,
+      "message_timestamp": 1792405822,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-18T16:00:34.717926+00:00"
+      "updated_at": "2026-10-19T13:42:59.998734+00:00"
     }
   },
   "version": 1
