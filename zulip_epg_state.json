@@ -136,213 +136,53 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792327800:t> (08:50 ET) Aston Villa vs Liverpool",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792327800:t> (08:50 ET) Aston Villa vs Liverpool"
+          "display_title": "5:00 AM <t:1792426800:t> (12:20 ET) Monza vs Cagliari",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792426800:t> (12:20 ET) Monza vs Cagliari"
         },
         {
-          "display_title": "5:00 AM <t:1792328400:t> (09:00 ET) Man. City vs Brighton",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792328400:t> (09:00 ET) Man. City vs Brighton"
-        },
-        {
-          "display_title": "5:00 AM <t:1792331700:t> (09:55 ET) Celtic vs Heart of Midlothian",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792331700:t> (09:55 ET) Celtic vs Heart of Midlothian"
-        },
-        {
-          "display_title": "5:00 AM <t:1792338600:t> (11:50 ET) Milan vs Atalanta",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792338600:t> (11:50 ET) Milan vs Atalanta"
-        },
-        {
-          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) Juventus vs Lazio",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792346400:t> (14:00 ET) Juventus vs Lazio"
-        },
-        {
-          "display_title": "5:00 AM <t:1792318800:t> (06:20 ET) Serie A: Udinese vs Lecce",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792318800:t> (06:20 ET) Serie A: Udinese vs Lecce"
-        },
-        {
-          "display_title": "5:00 AM <t:1792320600:t> (06:50 ET) Barclays Women's Super League: Chelsea vs Tottenham",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792320600:t> (06:50 ET) Barclays Women's Super League: Chelsea vs Tottenham"
-        },
-        {
-          "display_title": "5:00 AM <t:1792320600:t> (06:50 ET) Barclays Women's Super League: Crystal Palace vs West Ham United",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792320600:t> (06:50 ET) Barclays Women's Super League: Crystal Palace vs West Ham United"
-        },
-        {
-          "display_title": "5:00 AM <t:1792327800:t> (08:50 ET) Serie A: Fiorentina vs Como",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792327800:t> (08:50 ET) Serie A: Fiorentina vs Como"
-        },
-        {
-          "display_title": "5:00 AM <t:1792327800:t> (08:50 ET) Barclays Women's Super League: Charlton Athletic vs Man United",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792327800:t> (08:50 ET) Barclays Women's Super League: Charlton Athletic vs Man United"
-        },
-        {
-          "display_title": "5:00 AM <t:1792327800:t> (08:50 ET) Barclays Women's Super League: London City vs Everton",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792327800:t> (08:50 ET) Barclays Women's Super League: London City vs Everton"
-        },
-        {
-          "display_title": "5:00 AM <t:1792327800:t> (08:50 ET) Barclays Women's Super League: Aston Villa vs Liverpool",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792327800:t> (08:50 ET) Barclays Women's Super League: Aston Villa vs Liverpool"
-        },
-        {
-          "display_title": "5:00 AM <t:1792328400:t> (09:00 ET) Barclays Women's Super League: Man City vs Brighton",
-          "slot": "PARAMOUNT C 08",
-          "slot_norm": "PARAMOUNT C 8",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792328400:t> (09:00 ET) Barclays Women's Super League: Man City vs Brighton"
-        },
-        {
-          "display_title": "5:00 AM <t:1792331700:t> (09:55 ET) Scottish Professional Football League: Celtic vs Heart of Midlothian",
-          "slot": "PARAMOUNT C 09",
-          "slot_norm": "PARAMOUNT C 9",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792331700:t> (09:55 ET) Scottish Professional Football League: Celtic vs Heart of Midlothian"
-        },
-        {
-          "display_title": "5:00 AM <t:1792338600:t> (11:50 ET) Serie A: Milan vs Atalanta",
-          "slot": "PARAMOUNT C 10",
-          "slot_norm": "PARAMOUNT C 10",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792338600:t> (11:50 ET) Serie A: Milan vs Atalanta"
-        },
-        {
-          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) Serie A: Juventus vs Lazio",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792346400:t> (14:00 ET) Serie A: Juventus vs Lazio"
+          "display_title": "5:00 AM <t:1792434600:t> (14:30 ET) Parma vs Torino",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792434600:t> (14:30 ET) Parma vs Torino"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 632762909,
-      "message_timestamp": 1792312260,
+      "message_id": 632885812,
+      "message_timestamp": 1792382452,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-18T11:25:34.797982+00:00"
+      "updated_at": "2026-10-19T04:56:33.180102+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown",
+          "display_title": "5:00 AM <t:1792454400:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown"
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792454400:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "5:00 AM <t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS"
-        },
-        {
-          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown",
+          "display_title": "5:00 AM <t:1792454400:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792346400:t> (14:00 ET) STSS Octoberfest Hagerstown"
-        },
-        {
-          "display_title": "5:00 AM <t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792354500:t> (16:15 ET) Lucas Oil DTWC WVMS"
-        },
-        {
-          "display_title": "5:00 AM <t:1792346400:t> (14:00 ET) STSS Octoberfest at Hagerstown",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792346400:t> (14:00 ET) STSS Octoberfest at Hagerstown"
-        },
-        {
-          "display_title": "5:00 AM <t:1792353600:t> (16:00 ET) Lucas Oil DTWC at West Virginia",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792353600:t> (16:00 ET) Lucas Oil DTWC at West Virginia"
-        },
-        {
-          "display_title": "5:00 AM <t:1792368000:t> (20:00 ET) High Limit Racing Championship",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792368000:t> (20:00 ET) High Limit Racing Championship"
-        },
-        {
-          "display_title": "5:00 AM <t:1792357200:t> (17:00 ET) JCW A Nightmare In Bergen County",
-          "slot": "PPV D 04",
-          "slot_norm": "PPV D 4",
-          "start": "2026-10-18T12:00:00-04:00",
-          "stop": "2026-10-19T00:00:00-04:00",
-          "title": "<t:1792357200:t> (17:00 ET) JCW A Nightmare In Bergen County"
+          "start": "2026-10-19T12:00:00-04:00",
+          "stop": "2026-10-20T00:00:00-04:00",
+          "title": "<t:1792454400:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 632779297,
-      "message_timestamp": 1792323020,
+      "message_id": 632885795,
+      "message_timestamp": 1792382441,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-18T16:00:34.417511+00:00"
+      "updated_at": "2026-10-19T04:56:33.701582+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
