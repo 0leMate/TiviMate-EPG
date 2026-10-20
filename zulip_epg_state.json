@@ -664,6 +664,86 @@
       "channel": "stan-sport",
       "events": [
         {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Bayern München vs Arsenal UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 021",
+          "slot_norm": "AU STAN 21",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Bayern München vs Arsenal UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Real Madrid vs RB Leipzig UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 022",
+          "slot_norm": "AU STAN 22",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Real Madrid vs RB Leipzig UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Aston Villa vs Viking UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 023",
+          "slot_norm": "AU STAN 23",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Aston Villa vs Viking UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Real Betis vs Feyenoord UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 024",
+          "slot_norm": "AU STAN 24",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Real Betis vs Feyenoord UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Sporting CP vs LASK UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 025",
+          "slot_norm": "AU STAN 25",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Sporting CP vs LASK UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Internazionale vs Shakhtar Donetsk UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 026",
+          "slot_norm": "AU STAN 26",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Internazionale vs Shakhtar Donetsk UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792608900:t> (05:55 AEDT) Club Brugge vs Lens UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN 027",
+          "slot_norm": "AU STAN 27",
+          "start": "2026-10-22T12:00:00+11:00",
+          "stop": "2026-10-23T00:00:00+11:00",
+          "title": "<t:1792608900:t> (05:55 AEDT) Club Brugge vs Lens UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792514400:t> (03:40 AEDT) Fenerbahçe vs Slavia Praha UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN B 003",
+          "slot_norm": "AU STAN B 3",
+          "start": "2026-10-21T12:00:00+11:00",
+          "stop": "2026-10-22T00:00:00+11:00",
+          "title": "<t:1792514400:t> (03:40 AEDT) Fenerbahçe vs Slavia Praha UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792514400:t> (03:40 AEDT) Sabah vs Borussia Dortmund UEFA Champions League Matchday 3 2026/2027",
+          "slot": "AU STAN B 004",
+          "slot_norm": "AU STAN B 4",
+          "start": "2026-10-21T12:00:00+11:00",
+          "stop": "2026-10-22T00:00:00+11:00",
+          "title": "<t:1792514400:t> (03:40 AEDT) Sabah vs Borussia Dortmund UEFA Champions League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792521600:t> (05:40 AEDT) Football Zone: MD3 Wednesday UEFA Champions League 2026/27",
+          "slot": "AU STAN B 005",
+          "slot_norm": "AU STAN B 5",
+          "start": "2026-10-21T12:00:00+11:00",
+          "stop": "2026-10-22T00:00:00+11:00",
+          "title": "<t:1792521600:t> (05:40 AEDT) Football Zone: MD3 Wednesday UEFA Champions League 2026/27"
+        },
+        {
           "display_title": "2:00 PM <t:1792522500:t> (05:55 AEDT) Liverpool vs Villarreal UEFA Champions League Matchday 3 2026/2027",
           "slot": "AU STAN B 006",
           "slot_norm": "AU STAN B 6",
@@ -710,21 +790,13 @@
           "start": "2026-10-21T12:00:00+11:00",
           "stop": "2026-10-22T00:00:00+11:00",
           "title": "<t:1792522500:t> (05:55 AEDT) Napoli vs Bodø / Glimt UEFA Champions League Matchday 3 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792522500:t> (05:55 AEDT) Porto vs PSV UEFA Champions League Matchday 3 2026/2027",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-10-21T12:00:00+11:00",
-          "stop": "2026-10-22T00:00:00+11:00",
-          "title": "<t:1792522500:t> (05:55 AEDT) Porto vs PSV UEFA Champions League Matchday 3 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 633274010,
-      "message_timestamp": 1792492229,
+      "message_id": 633309524,
+      "message_timestamp": 1792501258,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-20T11:52:46.746288+00:00"
+      "updated_at": "2026-10-20T17:21:57.683751+00:00"
     }
   },
   "version": 1
