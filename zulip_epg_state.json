@@ -136,37 +136,117 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792547400:t> (21:50 ET) Concacaf Champions Cup: CD Marathon vs Alianza FC SLV",
-          "slot": "PARAMOUNT C 14",
-          "slot_norm": "PARAMOUNT C 14",
-          "start": "2026-10-20T12:00:00-04:00",
-          "stop": "2026-10-21T00:00:00-04:00",
-          "title": "<t:1792547400:t> (21:50 ET) Concacaf Champions Cup: CD Marathon vs Alianza FC SLV"
+          "display_title": "5:00 AM <t:1792598400:t> (12:00 ET) Como vs Man. United",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792598400:t> (12:00 ET) Como vs Man. United"
+        },
+        {
+          "display_title": "5:00 AM <t:1792598400:t> (12:00 ET) Lille vs Galatasaray",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792598400:t> (12:00 ET) Lille vs Galatasaray"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Bayern vs Arsenal",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Bayern vs Arsenal"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Real Madrid vs RB Leipzig",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Real Madrid vs RB Leipzig"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) The Golazo Show",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) The Golazo Show"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Aston Villa vs Viking",
+          "slot": "PARAMOUNT B 020",
+          "slot_norm": "PARAMOUNT B 20",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Aston Villa vs Viking"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Real Betis vs Feyenoord",
+          "slot": "PARAMOUNT B 021",
+          "slot_norm": "PARAMOUNT B 21",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Real Betis vs Feyenoord"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Inter vs Shakhtar Donetsk",
+          "slot": "PARAMOUNT B 022",
+          "slot_norm": "PARAMOUNT B 22",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Inter vs Shakhtar Donetsk"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Sporting CP vs LASK",
+          "slot": "PARAMOUNT B 023",
+          "slot_norm": "PARAMOUNT B 23",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Sporting CP vs LASK"
+        },
+        {
+          "display_title": "5:00 AM <t:1792605600:t> (14:00 ET) Club Brugge vs Lens",
+          "slot": "PARAMOUNT B 024",
+          "slot_norm": "PARAMOUNT B 24",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792605600:t> (14:00 ET) Club Brugge vs Lens"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 633393870,
-      "message_timestamp": 1792517439,
+      "message_id": 633515363,
+      "message_timestamp": 1792555274,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-20T21:44:25.541064+00:00"
+      "updated_at": "2026-10-21T07:50:04.671893+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792454400:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-19T12:00:00-04:00",
-          "stop": "2026-10-20T00:00:00-04:00",
-          "title": "<t:1792454400:t> (20:00 ET) WWE Monday Night RAW"
+          "display_title": "5:00 AM <t:1792615500:t> (16:45 ET) No Mercy 17",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792615500:t> (16:45 ET) No Mercy 17"
+        },
+        {
+          "display_title": "5:00 AM <t:1792615500:t> (16:45 ET) No Mercy 17",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-10-21T12:00:00-04:00",
+          "stop": "2026-10-22T00:00:00-04:00",
+          "title": "<t:1792615500:t> (16:45 ET) No Mercy 17"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 633197776,
-      "message_timestamp": 1792467027,
+      "message_id": 633515358,
+      "message_timestamp": 1792555272,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-20T05:02:30.590666+00:00"
+      "updated_at": "2026-10-21T07:50:05.398470+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
