@@ -302,179 +302,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792479300:t> (06:55 UTC) Tennis WTA Tennis C. Liu/K. Quevedo vs H. Dart/H. Watson",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792479300:t> (06:55 UTC) Tennis WTA Tennis C. Liu/K. Quevedo vs H. Dart/H. Watson"
-        },
-        {
-          "display_title": "12:00 AM <t:1792481100:t> (07:25 UTC) St George's Park South Africa vs Australia, Day 3",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792481100:t> (07:25 UTC) St George's Park South Africa vs Australia, Day 3"
-        },
-        {
-          "display_title": "12:00 AM <t:1792481100:t> (07:25 UTC) Tennis WTA Tennis E. Hozumi/A. Klepac vs Hao-Ching Chan/M. Kato",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792481100:t> (07:25 UTC) Tennis WTA Tennis E. Hozumi/A. Klepac vs Hao-Ching Chan/M. Kato"
-        },
-        {
-          "display_title": "12:00 AM <t:1792482900:t> (07:55 UTC) Tennis WTA Tennis J. Ostapenko vs B. Bencic",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792482900:t> (07:55 UTC) Tennis WTA Tennis J. Ostapenko vs B. Bencic"
-        },
-        {
-          "display_title": "12:00 AM <t:1792482900:t> (07:55 UTC) Tennis WTA Tennis S. Hunter/J. Tjen vs I. Martins/S. Sorribes Tormo",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792482900:t> (07:55 UTC) Tennis WTA Tennis S. Hunter/J. Tjen vs I. Martins/S. Sorribes Tormo"
-        },
-        {
-          "display_title": "12:00 AM <t:1792488300:t> (09:25 UTC) Tennis ATP Tennis F. Marozsan vs T. Skatov",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792488300:t> (09:25 UTC) Tennis ATP Tennis F. Marozsan vs T. Skatov"
-        },
-        {
-          "display_title": "12:00 AM <t:1792488300:t> (09:25 UTC) Tennis ATP Tennis T. Griekspoor vs M. Schoenhaus",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792488300:t> (09:25 UTC) Tennis ATP Tennis T. Griekspoor vs M. Schoenhaus"
-        },
-        {
-          "display_title": "12:00 AM <t:1792488300:t> (09:25 UTC) Tennis WTA Tennis K. Kawa vs D. Snigur",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792488300:t> (09:25 UTC) Tennis WTA Tennis K. Kawa vs D. Snigur"
-        },
-        {
-          "display_title": "12:00 AM <t:1792493700:t> (10:55 UTC) Tennis ATP Tennis B. van de Zandschulp vs C. Chidekh",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792493700:t> (10:55 UTC) Tennis ATP Tennis B. van de Zandschulp vs C. Chidekh"
-        },
-        {
-          "display_title": "12:00 AM <t:1792493700:t> (10:55 UTC) Tennis WTA Tennis H. Guo vs E. Alexandrova",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792493700:t> (10:55 UTC) Tennis WTA Tennis H. Guo vs E. Alexandrova"
-        },
-        {
-          "display_title": "12:00 AM <t:1792497300:t> (11:55 UTC) Tennis ATP Tennis U. Humbert vs C. Moutet",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792497300:t> (11:55 UTC) Tennis ATP Tennis U. Humbert vs C. Moutet"
-        },
-        {
-          "display_title": "12:00 AM <t:1792502700:t> (13:25 UTC) Tennis ATP Tennis B. Bonzi vs C. Norrie",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792502700:t> (13:25 UTC) Tennis ATP Tennis B. Bonzi vs C. Norrie"
-        },
-        {
-          "display_title": "12:00 AM <t:1792504500:t> (13:55 UTC) Tennis ATP Tennis J. Fearnley vs H. Gaston",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792504500:t> (13:55 UTC) Tennis ATP Tennis J. Fearnley vs H. Gaston"
-        },
-        {
-          "display_title": "12:00 AM <t:1792506300:t> (14:25 UTC) Tennis ATP Tennis R. Sakamoto vs K. Khachanov",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792506300:t> (14:25 UTC) Tennis ATP Tennis R. Sakamoto vs K. Khachanov"
-        },
-        {
-          "display_title": "12:00 AM <t:1792511700:t> (15:55 UTC) Tennis ATP Tennis T. Samuel vs Z. Bergs",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792511700:t> (15:55 UTC) Tennis ATP Tennis T. Samuel vs Z. Bergs"
-        },
-        {
-          "display_title": "12:00 AM <t:1792515300:t> (16:55 UTC) Tennis ATP Tennis M. Berrettini vs K. Jacquet",
-          "slot": "SKY SPORTS+ 16",
-          "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792515300:t> (16:55 UTC) Tennis ATP Tennis M. Berrettini vs K. Jacquet"
-        },
-        {
-          "display_title": "12:00 AM <t:1792517100:t> (17:25 UTC) Tennis ATP Tennis N. Basavareddy vs R. Collignon",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792517100:t> (17:25 UTC) Tennis ATP Tennis N. Basavareddy vs R. Collignon"
-        },
-        {
-          "display_title": "12:00 AM <t:1792520700:t> (18:25 UTC) Tennis ATP Tennis H. Medjedovic vs B. Nakashima",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792520700:t> (18:25 UTC) Tennis ATP Tennis H. Medjedovic vs B. Nakashima"
-        },
-        {
-          "display_title": "12:00 AM <t:1792521000:t> (18:30 UTC) Sky Bet Championship Wolves vs Portsmouth",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792521000:t> (18:30 UTC) Sky Bet Championship Wolves vs Portsmouth"
-        },
-        {
-          "display_title": "12:00 AM <t:1792521000:t> (18:30 UTC) Sky Bet League One Blackpool vs MK Dons",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792521000:t> (18:30 UTC) Sky Bet League One Blackpool vs MK Dons"
-        },
-        {
-          "display_title": "12:00 AM <t:1792521000:t> (18:30 UTC) Sky Bet League One Bromley vs Leicester",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-10-20T12:00:00+01:00",
-          "stop": "2026-10-21T00:00:00+01:00",
-          "title": "<t:1792521000:t> (18:30 UTC) Sky Bet League One Bromley vs Leicester"
+          "display_title": "12:00 AM <t:1792545900:t> (01:25 UTC) NBA Thunder vs Spurs",
+          "slot": "SKY SPORTS+ 43",
+          "slot_norm": "SKY SPORTS+ 43",
+          "start": "2026-10-21T12:00:00+01:00",
+          "stop": "2026-10-22T00:00:00+01:00",
+          "title": "<t:1792545900:t> (01:25 UTC) NBA Thunder vs Spurs"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 633279865,
-      "message_timestamp": 1792494047,
+      "message_id": 633478400,
+      "message_timestamp": 1792540841,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-20T11:52:46.449055+00:00"
+      "updated_at": "2026-10-21T00:41:40.400296+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
