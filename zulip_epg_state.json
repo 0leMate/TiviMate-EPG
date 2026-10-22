@@ -136,107 +136,219 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) Olympiacos vs Sparta Praha",
-          "slot": "PARAMOUNT B 028",
-          "slot_norm": "PARAMOUNT B 28",
+          "display_title": "5:00 AM <t:1792699200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 044",
+          "slot_norm": "PARAMOUNT 44",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) Olympiacos vs Sparta Praha"
+          "title": "<t:1792699200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
         },
         {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) Jagiellonia Białystok vs Anderlecht",
-          "slot": "PARAMOUNT B 029",
-          "slot_norm": "PARAMOUNT B 29",
+          "display_title": "5:00 AM <t:1792706400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 045",
+          "slot_norm": "PARAMOUNT 45",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) Jagiellonia Białystok vs Anderlecht"
+          "title": "<t:1792706400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
         },
         {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) Viktoria Plzeň vs Levski Sofia",
-          "slot": "PARAMOUNT B 030",
-          "slot_norm": "PARAMOUNT B 30",
+          "display_title": "5:00 AM <t:1792713600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 046",
+          "slot_norm": "PARAMOUNT 46",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) Viktoria Plzeň vs Levski Sofia"
+          "title": "<t:1792713600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         },
         {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) Celje vs RB Salzburg",
-          "slot": "PARAMOUNT B 031",
-          "slot_norm": "PARAMOUNT B 31",
+          "display_title": "5:00 AM <t:1792724400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 047",
+          "slot_norm": "PARAMOUNT 47",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) Celje vs RB Salzburg"
+          "title": "<t:1792724400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
         },
         {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) Ajax vs Atalanta",
-          "slot": "PARAMOUNT B 032",
-          "slot_norm": "PARAMOUNT B 32",
+          "display_title": "5:00 AM <t:1792674000:t> (09:00 ET) UFC 333: Press Conference",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) Ajax vs Atalanta"
+          "title": "<t:1792674000:t> (09:00 ET) UFC 333: Press Conference"
         },
         {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) AGF Aarhus vs Egnatia",
-          "slot": "PARAMOUNT B 033",
-          "slot_norm": "PARAMOUNT B 33",
+          "display_title": "5:00 AM <t:1792674000:t> (09:00 ET) UFC 333: Press Conference em Português",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) AGF Aarhus vs Egnatia"
+          "title": "<t:1792674000:t> (09:00 ET) UFC 333: Press Conference em Português"
         },
         {
-          "display_title": "5:00 AM <t:1792695060:t> (14:51 ET) Monaco vs Freiburg",
-          "slot": "PARAMOUNT B 034",
-          "slot_norm": "PARAMOUNT B 34",
+          "display_title": "5:00 AM <t:1792678800:t> (10:20 ET) Kairat Almaty vs Panathinaikos",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695060:t> (14:51 ET) Monaco vs Freiburg"
+          "title": "<t:1792678800:t> (10:20 ET) Kairat Almaty vs Panathinaikos"
         },
         {
-          "display_title": "5:00 AM <t:1792695060:t> (14:51 ET) FC Midtjylland vs K. Sint Truidense",
-          "slot": "PARAMOUNT B 035",
-          "slot_norm": "PARAMOUNT B 35",
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Juventus vs Rennes",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695060:t> (14:51 ET) FC Midtjylland vs K. Sint Truidense"
+          "title": "<t:1792684800:t> (12:00 ET) Juventus vs Rennes"
         },
         {
-          "display_title": "5:00 AM <t:1792695060:t> (14:51 ET) FC Thun vs Hajduk Split",
-          "slot": "PARAMOUNT B 036",
-          "slot_norm": "PARAMOUNT B 36",
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) The Golazo Show",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695060:t> (14:51 ET) FC Thun vs Hajduk Split"
+          "title": "<t:1792684800:t> (12:00 ET) The Golazo Show"
         },
         {
-          "display_title": "5:00 AM <t:1792695060:t> (14:51 ET) FK Borac vs KuPS Kuopio",
-          "slot": "PARAMOUNT B 037",
-          "slot_norm": "PARAMOUNT B 37",
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) OFI Crete vs Bayer Leverkusen",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695060:t> (14:51 ET) FK Borac vs KuPS Kuopio"
+          "title": "<t:1792684800:t> (12:00 ET) OFI Crete vs Bayer Leverkusen"
         },
         {
-          "display_title": "5:00 AM <t:1792695060:t> (14:51 ET) Braga vs KAA Gent",
-          "slot": "PARAMOUNT B 038",
-          "slot_norm": "PARAMOUNT B 38",
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Sturm Graz vs Marseille",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695060:t> (14:51 ET) Braga vs KAA Gent"
+          "title": "<t:1792684800:t> (12:00 ET) Sturm Graz vs Marseille"
         },
         {
-          "display_title": "5:00 AM <t:1792695060:t> (14:51 ET) L. Red Imps vs FC Twente",
-          "slot": "PARAMOUNT B 039",
-          "slot_norm": "PARAMOUNT B 39",
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Ararat Armenia vs AZ Alkmaar",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695060:t> (14:51 ET) L. Red Imps vs FC Twente"
+          "title": "<t:1792684800:t> (12:00 ET) Ararat Armenia vs AZ Alkmaar"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Ferencváros vs Torreense",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Ferencváros vs Torreense"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Dinamo Zagreb vs NEC Nijmegen",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Dinamo Zagreb vs NEC Nijmegen"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Lech Poznań vs Sunderland",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Lech Poznań vs Sunderland"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Union Saint Gilloise vs Hapoel Beer Sheva",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Union Saint Gilloise vs Hapoel Beer Sheva"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Jablonec vs Brighton",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Jablonec vs Brighton"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Getafe vs FC Lugano",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Getafe vs FC Lugano"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Trabzonspor vs Heart of Midlothian",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684800:t> (12:00 ET) Trabzonspor vs Heart of Midlothian"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Crvena Zvezda vs Copenhagen",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684860:t> (12:01 ET) Crvena Zvezda vs Copenhagen"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) FC Iberia Tbilisi vs Mjällby",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684860:t> (12:01 ET) FC Iberia Tbilisi vs Mjällby"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Kauno Žalgiris vs Brann",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684860:t> (12:01 ET) Kauno Žalgiris vs Brann"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Inter Escaldes vs Craiova",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684860:t> (12:01 ET) Inter Escaldes vs Craiova"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Pafos vs Riga FC",
+          "slot": "PARAMOUNT B 020",
+          "slot_norm": "PARAMOUNT B 20",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684860:t> (12:01 ET) Pafos vs Riga FC"
+        },
+        {
+          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) FC Nordsjælland vs CSKA Sofia",
+          "slot": "PARAMOUNT B 021",
+          "slot_norm": "PARAMOUNT B 21",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792684860:t> (12:01 ET) FC Nordsjælland vs CSKA Sofia"
+        },
+        {
+          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) AFC Bournemouth vs Milan",
+          "slot": "PARAMOUNT B 022",
+          "slot_norm": "PARAMOUNT B 22",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792695000:t> (14:50 ET) AFC Bournemouth vs Milan"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 633889744,
-      "message_timestamp": 1792657836,
+      "message_id": 633966913,
+      "message_timestamp": 1792675849,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-22T12:07:39.616118+00:00"
+      "updated_at": "2026-10-22T17:21:38.039541+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -336,13 +448,45 @@
           "start": "2026-10-22T12:00:00-04:00",
           "stop": "2026-10-23T00:00:00-04:00",
           "title": "<t:1792712400:t> (19:40 ET) USAC Western World Champs Central AZ"
+        },
+        {
+          "display_title": "5:00 AM <t:1792704600:t> (17:30 ET) FloRacing Night in America at Volunteer",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792704600:t> (17:30 ET) FloRacing Night in America at Volunteer"
+        },
+        {
+          "display_title": "5:00 AM <t:1792705500:t> (17:45 ET) Short Track Super Series at Orange County",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792705500:t> (17:45 ET) Short Track Super Series at Orange County"
+        },
+        {
+          "display_title": "5:00 AM <t:1792712400:t> (19:40 ET) USAC Western World Championships at Central Arizona",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792712400:t> (19:40 ET) USAC Western World Championships at Central Arizona"
+        },
+        {
+          "display_title": "5:00 AM <t:1792688400:t> (13:00 ET) UAE Warriors 74",
+          "slot": "PPV D 05",
+          "slot_norm": "PPV D 5",
+          "start": "2026-10-22T12:00:00-04:00",
+          "stop": "2026-10-23T00:00:00-04:00",
+          "title": "<t:1792688400:t> (13:00 ET) UAE Warriors 74"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 633845616,
-      "message_timestamp": 1792643425,
+      "message_id": 633948724,
+      "message_timestamp": 1792672238,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-22T05:04:54.666776+00:00"
+      "updated_at": "2026-10-22T17:21:38.335044+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -478,55 +622,199 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792635900:t> (02:25 UTC) WTA Tour WTA Tennis A. Li vs Z. Sonmez",
-          "slot": "SKY SPORTS+ 22",
-          "slot_norm": "SKY SPORTS+ 22",
+          "display_title": "12:00 AM <t:1792653900:t> (07:25 UTC) St George's Park South Africa vs Australia, Day 5",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
           "start": "2026-10-22T12:00:00+01:00",
           "stop": "2026-10-23T00:00:00+01:00",
-          "title": "<t:1792635900:t> (02:25 UTC) WTA Tour WTA Tennis A. Li vs Z. Sonmez"
+          "title": "<t:1792653900:t> (07:25 UTC) St George's Park South Africa vs Australia, Day 5"
         },
         {
-          "display_title": "12:00 AM <t:1792635900:t> (02:25 UTC) WTA Tour WTA Tennis A. Ruzic vs K. Day",
-          "slot": "SKY SPORTS+ 23",
-          "slot_norm": "SKY SPORTS+ 23",
+          "display_title": "12:00 AM <t:1792661100:t> (09:25 UTC) ATP Tour ATP Tennis D. Medvedev vs S. Shimabukuro",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
           "start": "2026-10-22T12:00:00+01:00",
           "stop": "2026-10-23T00:00:00+01:00",
-          "title": "<t:1792635900:t> (02:25 UTC) WTA Tour WTA Tennis A. Ruzic vs K. Day"
+          "title": "<t:1792661100:t> (09:25 UTC) ATP Tour ATP Tennis D. Medvedev vs S. Shimabukuro"
         },
         {
-          "display_title": "12:00 AM <t:1792641300:t> (03:55 UTC) WTA Tour WTA Tennis I. Neel/G. Olmos vs I. Haverlag/L. Tagger",
-          "slot": "SKY SPORTS+ 24",
-          "slot_norm": "SKY SPORTS+ 24",
+          "display_title": "12:00 AM <t:1792670100:t> (11:55 UTC) ATP Tour ATP Tennis V. Vacherot vs L.Van Assche",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
           "start": "2026-10-22T12:00:00+01:00",
           "stop": "2026-10-23T00:00:00+01:00",
-          "title": "<t:1792641300:t> (03:55 UTC) WTA Tour WTA Tennis I. Neel/G. Olmos vs I. Haverlag/L. Tagger"
+          "title": "<t:1792670100:t> (11:55 UTC) ATP Tour ATP Tennis V. Vacherot vs L.Van Assche"
         },
         {
-          "display_title": "12:00 AM <t:1792641300:t> (03:55 UTC) WTA Tour WTA Tennis M. Stoiana vs M. Uchijima",
-          "slot": "SKY SPORTS+ 25",
-          "slot_norm": "SKY SPORTS+ 25",
+          "display_title": "12:00 AM <t:1792673700:t> (12:55 UTC) ATP Tour ATP Tennis D. Goffin vs A. Michelsen",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
           "start": "2026-10-22T12:00:00+01:00",
           "stop": "2026-10-23T00:00:00+01:00",
-          "title": "<t:1792641300:t> (03:55 UTC) WTA Tour WTA Tennis M. Stoiana vs M. Uchijima"
+          "title": "<t:1792673700:t> (12:55 UTC) ATP Tour ATP Tennis D. Goffin vs A. Michelsen"
         },
         {
-          "display_title": "12:00 AM <t:1792646700:t> (05:25 UTC) WTA Tour WTA Tennis M. Linette vs K. Siniakova",
-          "slot": "SKY SPORTS+ 26",
-          "slot_norm": "SKY SPORTS+ 26",
+          "display_title": "12:00 AM <t:1792675500:t> (13:25 UTC) ATP Tour ATP Tennis P. Herbert vs T. Fritz",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
           "start": "2026-10-22T12:00:00+01:00",
           "stop": "2026-10-23T00:00:00+01:00",
-          "title": "<t:1792646700:t> (05:25 UTC) WTA Tour WTA Tennis M. Linette vs K. Siniakova"
+          "title": "<t:1792675500:t> (13:25 UTC) ATP Tour ATP Tennis P. Herbert vs T. Fritz"
+        },
+        {
+          "display_title": "12:00 AM <t:1792679100:t> (14:25 UTC) ATP Tour ATP Tennis A. Bublik vs F. Marozsan",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-10-22T12:00:00+01:00",
+          "stop": "2026-10-23T00:00:00+01:00",
+          "title": "<t:1792679100:t> (14:25 UTC) ATP Tour ATP Tennis A. Bublik vs F. Marozsan"
+        },
+        {
+          "display_title": "12:00 AM <t:1792680900:t> (14:55 UTC) ATP Tour ATP Tennis D. Dzumhur vs Z. Bergs",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-10-22T12:00:00+01:00",
+          "stop": "2026-10-23T00:00:00+01:00",
+          "title": "<t:1792680900:t> (14:55 UTC) ATP Tour ATP Tennis D. Dzumhur vs Z. Bergs"
+        },
+        {
+          "display_title": "12:00 AM <t:1792688100:t> (16:55 UTC) ATP Tour ATP Tennis F. Cobolli vs S. Wawrinka",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-10-22T12:00:00+01:00",
+          "stop": "2026-10-23T00:00:00+01:00",
+          "title": "<t:1792688100:t> (16:55 UTC) ATP Tour ATP Tennis F. Cobolli vs S. Wawrinka"
+        },
+        {
+          "display_title": "12:00 AM <t:1792693500:t> (18:25 UTC) ATP Tour ATP Tennis K. Jacquet vs B. Nakashima",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-10-22T12:00:00+01:00",
+          "stop": "2026-10-23T00:00:00+01:00",
+          "title": "<t:1792693500:t> (18:25 UTC) ATP Tour ATP Tennis K. Jacquet vs B. Nakashima"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 633808061,
-      "message_timestamp": 1792627228,
+      "message_id": 633966826,
+      "message_timestamp": 1792675837,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-22T05:04:55.278624+00:00"
+      "updated_at": "2026-10-22T17:21:38.825027+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
+        {
+          "display_title": "2:00 PM <t:1792687200:t> (03:40 AEDT) Kauno Žalgiris vs Brann UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN B 016",
+          "slot_norm": "AU STAN B 16",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792687200:t> (03:40 AEDT) Kauno Žalgiris vs Brann UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792687200:t> (03:40 AEDT) Jablonec vs Brighton & Hove Albion UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN B 017",
+          "slot_norm": "AU STAN B 17",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792687200:t> (03:40 AEDT) Jablonec vs Brighton & Hove Albion UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792687200:t> (03:40 AEDT) Crvena zvezda vs København UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN B 018",
+          "slot_norm": "AU STAN B 18",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792687200:t> (03:40 AEDT) Crvena zvezda vs København UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792687200:t> (03:40 AEDT) Pafos vs Riga UEFA Conference League Matchday 2 2026/2027",
+          "slot": "AU STAN B 019",
+          "slot_norm": "AU STAN B 19",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792687200:t> (03:40 AEDT) Pafos vs Riga UEFA Conference League Matchday 2 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Bournemouth vs Milan UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 020",
+          "slot_norm": "AU STAN B 20",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Bournemouth vs Milan UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Celtic vs Celta de Vigo UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 021",
+          "slot_norm": "AU STAN B 21",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Celtic vs Celta de Vigo UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Lillestrøm vs Real Sociedad UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 022",
+          "slot_norm": "AU STAN B 22",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Lillestrøm vs Real Sociedad UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Olympiakos Piraeus vs Sparta Praha UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 023",
+          "slot_norm": "AU STAN B 23",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Olympiakos Piraeus vs Sparta Praha UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Celje vs Salzburg UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 024",
+          "slot_norm": "AU STAN B 24",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Celje vs Salzburg UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Viktoria Plzeň vs Levski Sofia UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 025",
+          "slot_norm": "AU STAN B 25",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Viktoria Plzeň vs Levski Sofia UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Jagiellonia Białystok vs Anderlecht UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 026",
+          "slot_norm": "AU STAN B 26",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Jagiellonia Białystok vs Anderlecht UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Hoffenheim vs Olympique Lyonnais UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 027",
+          "slot_norm": "AU STAN B 27",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Hoffenheim vs Olympique Lyonnais UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Omonia Nicosia vs Benfica UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 028",
+          "slot_norm": "AU STAN B 28",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Omonia Nicosia vs Benfica UEFA Europa League Matchday 3 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Beşiktaş vs Crystal Palace UEFA Europa League Matchday 3 2026/2027",
+          "slot": "AU STAN B 029",
+          "slot_norm": "AU STAN B 29",
+          "start": "2026-10-23T12:00:00+11:00",
+          "stop": "2026-10-24T00:00:00+11:00",
+          "title": "<t:1792695300:t> (05:55 AEDT) Beşiktaş vs Crystal Palace UEFA Europa League Matchday 3 2026/2027"
+        },
         {
           "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) AGF vs Egnatia Rrogozhinë UEFA Conference League Matchday 2 2026/2027",
           "slot": "AU STAN B 030",
@@ -550,37 +838,13 @@
           "start": "2026-10-23T12:00:00+11:00",
           "stop": "2026-10-24T00:00:00+11:00",
           "title": "<t:1792695300:t> (05:55 AEDT) Sporting Braga vs Gent UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Lincoln Red Imps vs Twente UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN B 033",
-          "slot_norm": "AU STAN B 33",
-          "start": "2026-10-23T12:00:00+11:00",
-          "stop": "2026-10-24T00:00:00+11:00",
-          "title": "<t:1792695300:t> (05:55 AEDT) Lincoln Red Imps vs Twente UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Ajax vs Atalanta UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN B 034",
-          "slot_norm": "AU STAN B 34",
-          "start": "2026-10-23T12:00:00+11:00",
-          "stop": "2026-10-24T00:00:00+11:00",
-          "title": "<t:1792695300:t> (05:55 AEDT) Ajax vs Atalanta UEFA Conference League Matchday 2 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792695300:t> (05:55 AEDT) Thun vs Hajduk Split UEFA Conference League Matchday 2 2026/2027",
-          "slot": "AU STAN B 035",
-          "slot_norm": "AU STAN B 35",
-          "start": "2026-10-23T12:00:00+11:00",
-          "stop": "2026-10-24T00:00:00+11:00",
-          "title": "<t:1792695300:t> (05:55 AEDT) Thun vs Hajduk Split UEFA Conference League Matchday 2 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 633918853,
-      "message_timestamp": 1792665024,
+      "message_id": 633957613,
+      "message_timestamp": 1792674086,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-22T12:07:39.949817+00:00"
+      "updated_at": "2026-10-22T17:21:39.081521+00:00"
     }
   },
   "version": 1
