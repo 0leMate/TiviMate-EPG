@@ -136,219 +136,35 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792699200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT 044",
-          "slot_norm": "PARAMOUNT 44",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792699200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "display_title": "5:00 AM <t:1792764000:t> (10:00 ET) UFC 333: Ceremonial Weigh In",
+          "slot": "PARAMOUNT B 040",
+          "slot_norm": "PARAMOUNT B 40",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792764000:t> (10:00 ET) UFC 333: Ceremonial Weigh In"
         },
         {
-          "display_title": "5:00 AM <t:1792706400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 045",
-          "slot_norm": "PARAMOUNT 45",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792706400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+          "display_title": "5:00 AM <t:1792764000:t> (10:00 ET) UFC 333: Ceremonial Weigh In em Português",
+          "slot": "PARAMOUNT B 041",
+          "slot_norm": "PARAMOUNT B 41",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792764000:t> (10:00 ET) UFC 333: Ceremonial Weigh In em Português"
         },
         {
-          "display_title": "5:00 AM <t:1792713600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 046",
-          "slot_norm": "PARAMOUNT 46",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792713600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "5:00 AM <t:1792724400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 047",
-          "slot_norm": "PARAMOUNT 47",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792724400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
-        },
-        {
-          "display_title": "5:00 AM <t:1792674000:t> (09:00 ET) UFC 333: Press Conference",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792674000:t> (09:00 ET) UFC 333: Press Conference"
-        },
-        {
-          "display_title": "5:00 AM <t:1792674000:t> (09:00 ET) UFC 333: Press Conference em Português",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792674000:t> (09:00 ET) UFC 333: Press Conference em Português"
-        },
-        {
-          "display_title": "5:00 AM <t:1792678800:t> (10:20 ET) Kairat Almaty vs Panathinaikos",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792678800:t> (10:20 ET) Kairat Almaty vs Panathinaikos"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Juventus vs Rennes",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Juventus vs Rennes"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) The Golazo Show",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) The Golazo Show"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) OFI Crete vs Bayer Leverkusen",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) OFI Crete vs Bayer Leverkusen"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Sturm Graz vs Marseille",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Sturm Graz vs Marseille"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Ararat Armenia vs AZ Alkmaar",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Ararat Armenia vs AZ Alkmaar"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Ferencváros vs Torreense",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Ferencváros vs Torreense"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Dinamo Zagreb vs NEC Nijmegen",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Dinamo Zagreb vs NEC Nijmegen"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Lech Poznań vs Sunderland",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Lech Poznań vs Sunderland"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Union Saint Gilloise vs Hapoel Beer Sheva",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Union Saint Gilloise vs Hapoel Beer Sheva"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Jablonec vs Brighton",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Jablonec vs Brighton"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Getafe vs FC Lugano",
-          "slot": "PARAMOUNT B 014",
-          "slot_norm": "PARAMOUNT B 14",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Getafe vs FC Lugano"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684800:t> (12:00 ET) Trabzonspor vs Heart of Midlothian",
-          "slot": "PARAMOUNT B 015",
-          "slot_norm": "PARAMOUNT B 15",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684800:t> (12:00 ET) Trabzonspor vs Heart of Midlothian"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Crvena Zvezda vs Copenhagen",
-          "slot": "PARAMOUNT B 016",
-          "slot_norm": "PARAMOUNT B 16",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684860:t> (12:01 ET) Crvena Zvezda vs Copenhagen"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) FC Iberia Tbilisi vs Mjällby",
-          "slot": "PARAMOUNT B 017",
-          "slot_norm": "PARAMOUNT B 17",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684860:t> (12:01 ET) FC Iberia Tbilisi vs Mjällby"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Kauno Žalgiris vs Brann",
-          "slot": "PARAMOUNT B 018",
-          "slot_norm": "PARAMOUNT B 18",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684860:t> (12:01 ET) Kauno Žalgiris vs Brann"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Inter Escaldes vs Craiova",
-          "slot": "PARAMOUNT B 019",
-          "slot_norm": "PARAMOUNT B 19",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684860:t> (12:01 ET) Inter Escaldes vs Craiova"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) Pafos vs Riga FC",
-          "slot": "PARAMOUNT B 020",
-          "slot_norm": "PARAMOUNT B 20",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684860:t> (12:01 ET) Pafos vs Riga FC"
-        },
-        {
-          "display_title": "5:00 AM <t:1792684860:t> (12:01 ET) FC Nordsjælland vs CSKA Sofia",
-          "slot": "PARAMOUNT B 021",
-          "slot_norm": "PARAMOUNT B 21",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792684860:t> (12:01 ET) FC Nordsjælland vs CSKA Sofia"
-        },
-        {
-          "display_title": "5:00 AM <t:1792695000:t> (14:50 ET) AFC Bournemouth vs Milan",
-          "slot": "PARAMOUNT B 022",
-          "slot_norm": "PARAMOUNT B 22",
-          "start": "2026-10-22T12:00:00-04:00",
-          "stop": "2026-10-23T00:00:00-04:00",
-          "title": "<t:1792695000:t> (14:50 ET) AFC Bournemouth vs Milan"
+          "display_title": "5:00 AM <t:1792780500:t> (14:35 ET) Torino vs Monza",
+          "slot": "PARAMOUNT B 042",
+          "slot_norm": "PARAMOUNT B 42",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792780500:t> (14:35 ET) Torino vs Monza"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 633966913,
-      "message_timestamp": 1792675849,
+      "message_id": 634202766,
+      "message_timestamp": 1792728080,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-22T17:21:38.039541+00:00"
+      "updated_at": "2026-10-23T07:43:43.100152+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
