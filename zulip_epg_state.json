@@ -226,6 +226,78 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "5:00 AM <t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev",
+          "slot": "PPV C 003",
+          "slot_norm": "PPV C 3",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev"
+        },
+        {
+          "display_title": "5:00 AM <t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev",
+          "slot": "PPV C 004",
+          "slot_norm": "PPV C 4",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev"
+        },
+        {
+          "display_title": "5:00 AM <t:1792771200:t> (12:00 ET) Smith vs Puello: Prelims",
+          "slot": "PPV C 005",
+          "slot_norm": "PPV C 5",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792771200:t> (12:00 ET) Smith vs Puello: Prelims"
+        },
+        {
+          "display_title": "5:00 AM <t:1792778400:t> (14:00 ET) Smith vs Puello",
+          "slot": "PPV C 006",
+          "slot_norm": "PPV C 6",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792778400:t> (14:00 ET) Smith vs Puello"
+        },
+        {
+          "display_title": "5:00 AM <t:1792778400:t> (14:00 ET) Smith vs Puello BU",
+          "slot": "PPV C 007",
+          "slot_norm": "PPV C 7",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792778400:t> (14:00 ET) Smith vs Puello BU"
+        },
+        {
+          "display_title": "5:00 AM <t:1792778400:t> (14:00 ET) Yokkao 53",
+          "slot": "PPV C 008",
+          "slot_norm": "PPV C 8",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792778400:t> (14:00 ET) Yokkao 53"
+        },
+        {
+          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Navarrete vs Foster: Prelims",
+          "slot": "PPV C 009",
+          "slot_norm": "PPV C 9",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792790100:t> (17:15 ET) Navarrete vs Foster: Prelims"
+        },
+        {
+          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) Navarrete vs Foster",
+          "slot": "PPV C 010",
+          "slot_norm": "PPV C 10",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792800000:t> (20:00 ET) Navarrete vs Foster"
+        },
+        {
+          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) Navarrete vs Foster BU",
+          "slot": "PPV C 011",
+          "slot_norm": "PPV C 11",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792800000:t> (20:00 ET) Navarrete vs Foster BU"
+        },
+        {
           "display_title": "5:00 AM <t:1792798800:t> (19:40 ET) USAC Western World Championships at Central Arizona",
           "slot": "PPV D 02",
           "slot_norm": "PPV D 2",
@@ -283,10 +355,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 634424980,
-      "message_timestamp": 1792769419,
+      "message_id": 634525647,
+      "message_timestamp": 1792794638,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-23T18:30:45.476778+00:00"
+      "updated_at": "2026-10-23T23:14:49.634561+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
