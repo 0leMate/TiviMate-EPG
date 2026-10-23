@@ -34,13 +34,29 @@
           "start": "2026-10-23T12:00:00-04:00",
           "stop": "2026-10-24T00:00:00-04:00",
           "title": "<t:1792797300:t> (19:15 ET) Texarkana 67 Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Modoc Speedway",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792790100:t> (17:15 ET) Modoc Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1792797300:t> (19:15 ET) Texarkana 67 Speedway",
+          "slot": "DIRT C 02",
+          "slot_norm": "DIRT C 2",
+          "start": "2026-10-23T12:00:00-04:00",
+          "stop": "2026-10-24T00:00:00-04:00",
+          "title": "<t:1792797300:t> (19:15 ET) Texarkana 67 Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 634344670,
-      "message_timestamp": 1792756844,
+      "message_id": 634436447,
+      "message_timestamp": 1792771239,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-23T13:37:41.706300+00:00"
+      "updated_at": "2026-10-23T18:30:44.646798+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -210,22 +226,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) BKFC Fight Night Clearwater: Ryan Reber vs Justin Street ( Also in Triller Section )",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792800000:t> (20:00 ET) BKFC Fight Night Clearwater: Ryan Reber vs Justin Street ( Also in Triller Section )"
-        },
-        {
-          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) BALLY'S FIGHTNIGHT - BILOXI BKB:",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792800000:t> (20:00 ET) BALLY'S FIGHTNIGHT - BILOXI BKB:"
-        },
-        {
           "display_title": "5:00 AM <t:1792798800:t> (19:40 ET) USAC Western World Championships at Central Arizona",
           "slot": "PPV D 02",
           "slot_norm": "PPV D 2",
@@ -283,10 +283,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 634355424,
-      "message_timestamp": 1792758647,
+      "message_id": 634424980,
+      "message_timestamp": 1792769419,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-23T13:37:42.543313+00:00"
+      "updated_at": "2026-10-23T18:30:45.476778+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
