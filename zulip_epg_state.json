@@ -4,59 +4,27 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Modoc Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792790100:t> (17:15 ET) Modoc Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792797300:t> (19:15 ET) Texarkana 67 Speedway",
-          "slot": "DIRT 02",
-          "slot_norm": "DIRT 2",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792797300:t> (19:15 ET) Texarkana 67 Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Modoc Speedway",
+          "display_title": "5:00 AM <t:1792876500:t> (17:15 ET) Modoc Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792790100:t> (17:15 ET) Modoc Speedway"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792876500:t> (17:15 ET) Modoc Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1792797300:t> (19:15 ET) Texarkana 67 Speedway",
+          "display_title": "5:00 AM <t:1792883700:t> (19:15 ET) Texarkana 67 Speedway",
           "slot": "DIRT B 02",
           "slot_norm": "DIRT B 2",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792797300:t> (19:15 ET) Texarkana 67 Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Modoc Speedway",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792790100:t> (17:15 ET) Modoc Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792797300:t> (19:15 ET) Texarkana 67 Speedway",
-          "slot": "DIRT C 02",
-          "slot_norm": "DIRT C 2",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792797300:t> (19:15 ET) Texarkana 67 Speedway"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792883700:t> (19:15 ET) Texarkana 67 Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 634436447,
-      "message_timestamp": 1792771239,
+      "message_id": 634564164,
+      "message_timestamp": 1792814449,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-23T18:30:44.646798+00:00"
+      "updated_at": "2026-10-24T04:49:04.564043+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -152,213 +120,293 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792806900:t> (21:55 ET) New Zealand vs France",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792806900:t> (21:55 ET) New Zealand vs France"
+          "display_title": "5:00 AM <t:1792840800:t> (07:20 ET) Charlton Athletic vs Norwich City",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792840800:t> (07:20 ET) Charlton Athletic vs Norwich City"
         },
         {
-          "display_title": "5:00 AM <t:1792764000:t> (10:00 ET) UFC: UFC 333 Ceremonial Weigh In",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792764000:t> (10:00 ET) UFC: UFC 333 Ceremonial Weigh In"
+          "display_title": "5:00 AM <t:1792840800:t> (07:20 ET) Portsmouth vs Millwall",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792840800:t> (07:20 ET) Portsmouth vs Millwall"
         },
         {
-          "display_title": "5:00 AM <t:1792764000:t> (10:00 ET) UFC: UFC 333 Ceremonial Weigh In em Português",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792764000:t> (10:00 ET) UFC: UFC 333 Ceremonial Weigh In em Português"
+          "display_title": "5:00 AM <t:1792841700:t> (07:35 ET) Tottenham vs Arsenal",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792841700:t> (07:35 ET) Tottenham vs Arsenal"
         },
         {
-          "display_title": "5:00 AM <t:1792780500:t> (14:35 ET) Serie A: Torino vs Monza",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792780500:t> (14:35 ET) Serie A: Torino vs Monza"
+          "display_title": "5:00 AM <t:1792846200:t> (08:50 ET) South Africa vs Ireland",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792846200:t> (08:50 ET) South Africa vs Ireland"
         },
         {
-          "display_title": "5:00 AM <t:1792781400:t> (14:50 ET) English Football League: Bolton Wanderers vs Middlesbrough",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792781400:t> (14:50 ET) English Football League: Bolton Wanderers vs Middlesbrough"
+          "display_title": "5:00 AM <t:1792846200:t> (08:50 ET) Como vs Sassuolo",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792846200:t> (08:50 ET) Como vs Sassuolo"
         },
         {
-          "display_title": "5:00 AM <t:1792795800:t> (18:50 ET) World Rugby: Canada vs England",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792795800:t> (18:50 ET) World Rugby: Canada vs England"
+          "display_title": "5:00 AM <t:1792846200:t> (08:50 ET) Cagliari vs Bologna",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792846200:t> (08:50 ET) Cagliari vs Bologna"
         },
         {
-          "display_title": "5:00 AM <t:1792802700:t> (20:45 ET) PBR Team Series: PBR Teams Outlaw Days Night 1",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792802700:t> (20:45 ET) PBR Team Series: PBR Teams Outlaw Days Night 1"
+          "display_title": "5:00 AM <t:1792846800:t> (09:00 ET) UFC 333: English",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792846800:t> (09:00 ET) UFC 333: English"
         },
         {
-          "display_title": "5:00 AM <t:1792806900:t> (21:55 ET) World Rugby: New Zealand vs France",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792806900:t> (21:55 ET) World Rugby: New Zealand vs France"
+          "display_title": "5:00 AM <t:1792846800:t> (09:00 ET) UFC 333 em Português",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792846800:t> (09:00 ET) UFC 333 em Português"
+        },
+        {
+          "display_title": "5:00 AM <t:1792846800:t> (09:00 ET) UFC 333 en Español",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792846800:t> (09:00 ET) UFC 333 en Español"
+        },
+        {
+          "display_title": "5:00 AM <t:1792848600:t> (09:30 ET) Cambridge United vs Plymouth Argyle",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792848600:t> (09:30 ET) Cambridge United vs Plymouth Argyle"
+        },
+        {
+          "display_title": "5:00 AM <t:1792848600:t> (09:30 ET) Lincoln City vs Burnley",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792848600:t> (09:30 ET) Lincoln City vs Burnley"
+        },
+        {
+          "display_title": "5:00 AM <t:1792848600:t> (09:30 ET) Blackburn Rovers vs Wrexham",
+          "slot": "PARAMOUNT B 020",
+          "slot_norm": "PARAMOUNT B 20",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792848600:t> (09:30 ET) Blackburn Rovers vs Wrexham"
+        },
+        {
+          "display_title": "5:00 AM <t:1792857000:t> (11:50 ET) Napoli vs Roma",
+          "slot": "PARAMOUNT B 021",
+          "slot_norm": "PARAMOUNT B 21",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792857000:t> (11:50 ET) Napoli vs Roma"
+        },
+        {
+          "display_title": "5:00 AM <t:1792864800:t> (14:00 ET) Lazio vs Parma",
+          "slot": "PARAMOUNT B 022",
+          "slot_norm": "PARAMOUNT B 22",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792864800:t> (14:00 ET) Lazio vs Parma"
+        },
+        {
+          "display_title": "5:00 AM <t:1792864800:t> (14:00 ET) UFC 333: Multiview",
+          "slot": "PARAMOUNT B 023",
+          "slot_norm": "PARAMOUNT B 23",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792864800:t> (14:00 ET) UFC 333: Multiview"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 634366719,
-      "message_timestamp": 1792760423,
+      "message_id": 634564418,
+      "message_timestamp": 1792814543,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-23T13:37:42.116413+00:00"
+      "updated_at": "2026-10-24T04:49:05.056245+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev",
+          "display_title": "5:00 AM <t:1792861200:t> (13:00 ET) RoC Finale Shangri La II",
+          "slot": "PPV B 13",
+          "slot_norm": "PPV B 13",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792861200:t> (13:00 ET) RoC Finale Shangri La II"
+        },
+        {
+          "display_title": "5:00 AM <t:1792876500:t> (17:15 ET) World of Outlaws Late Models Modoc",
+          "slot": "PPV B 14",
+          "slot_norm": "PPV B 14",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792876500:t> (17:15 ET) World of Outlaws Late Models Modoc"
+        },
+        {
+          "display_title": "5:00 AM <t:1792879200:t> (18:00 ET) Volusia Sprint Cars",
+          "slot": "PPV B 15",
+          "slot_norm": "PPV B 15",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792879200:t> (18:00 ET) Volusia Sprint Cars"
+        },
+        {
+          "display_title": "5:00 AM <t:1792879200:t> (18:00 ET) NASCAR Halloween Speedfest Langley",
+          "slot": "PPV B 16",
+          "slot_norm": "PPV B 16",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792879200:t> (18:00 ET) NASCAR Halloween Speedfest Langley"
+        },
+        {
+          "display_title": "5:00 AM <t:1792882800:t> (19:00 ET) Harvest Hustle Marshalltown",
+          "slot": "PPV B 17",
+          "slot_norm": "PPV B 17",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792882800:t> (19:00 ET) Harvest Hustle Marshalltown"
+        },
+        {
+          "display_title": "5:00 AM <t:1792883700:t> (19:15 ET) World of Outlaws Sprint Cars Texarkana 67",
+          "slot": "PPV B 18",
+          "slot_norm": "PPV B 18",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792883700:t> (19:15 ET) World of Outlaws Sprint Cars Texarkana 67"
+        },
+        {
+          "display_title": "5:00 AM <t:1792885200:t> (19:40 ET) USAC Western World Champs Central AZ",
+          "slot": "PPV B 19",
+          "slot_norm": "PPV B 19",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792885200:t> (19:40 ET) USAC Western World Champs Central AZ"
+        },
+        {
+          "display_title": "5:00 AM <t:1792886400:t> (20:00 ET) 32nd Annual Coors Light Fall Classic",
+          "slot": "PPV B 20",
+          "slot_norm": "PPV B 20",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792886400:t> (20:00 ET) 32nd Annual Coors Light Fall Classic"
+        },
+        {
+          "display_title": "5:00 AM <t:1792886400:t> (20:00 ET) BKFC Fight Night Clearwater: Ryan Reber vs Justin Street ( Also in Triller Section )",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792886400:t> (20:00 ET) BKFC Fight Night Clearwater: Ryan Reber vs Justin Street ( Also in Triller Section )"
+        },
+        {
+          "display_title": "5:00 AM <t:1792886400:t> (20:00 ET) BALLY'S FIGHTNIGHT - BILOXI BKB:",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792886400:t> (20:00 ET) BALLY'S FIGHTNIGHT - BILOXI BKB:"
+        },
+        {
+          "display_title": "5:00 AM <t:1792857600:t> (12:00 ET) UFC 333: Volkanovski vs Evloev",
           "slot": "PPV C 003",
           "slot_norm": "PPV C 3",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792857600:t> (12:00 ET) UFC 333: Volkanovski vs Evloev"
         },
         {
-          "display_title": "5:00 AM <t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev",
+          "display_title": "5:00 AM <t:1792857600:t> (12:00 ET) UFC 333: Volkanovski vs Evloev",
           "slot": "PPV C 004",
           "slot_norm": "PPV C 4",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792771200:t> (12:00 ET) UFC 333: Volkanovski vs Evloev"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792857600:t> (12:00 ET) UFC 333: Volkanovski vs Evloev"
         },
         {
-          "display_title": "5:00 AM <t:1792771200:t> (12:00 ET) Smith vs Puello: Prelims",
+          "display_title": "5:00 AM <t:1792857600:t> (12:00 ET) Smith vs Puello: Prelims",
           "slot": "PPV C 005",
           "slot_norm": "PPV C 5",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792771200:t> (12:00 ET) Smith vs Puello: Prelims"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792857600:t> (12:00 ET) Smith vs Puello: Prelims"
         },
         {
-          "display_title": "5:00 AM <t:1792778400:t> (14:00 ET) Smith vs Puello",
+          "display_title": "5:00 AM <t:1792864800:t> (14:00 ET) Smith vs Puello",
           "slot": "PPV C 006",
           "slot_norm": "PPV C 6",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792778400:t> (14:00 ET) Smith vs Puello"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792864800:t> (14:00 ET) Smith vs Puello"
         },
         {
-          "display_title": "5:00 AM <t:1792778400:t> (14:00 ET) Smith vs Puello BU",
+          "display_title": "5:00 AM <t:1792864800:t> (14:00 ET) Smith vs Puello BU",
           "slot": "PPV C 007",
           "slot_norm": "PPV C 7",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792778400:t> (14:00 ET) Smith vs Puello BU"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792864800:t> (14:00 ET) Smith vs Puello BU"
         },
         {
-          "display_title": "5:00 AM <t:1792778400:t> (14:00 ET) Yokkao 53",
+          "display_title": "5:00 AM <t:1792864800:t> (14:00 ET) Yokkao 53",
           "slot": "PPV C 008",
           "slot_norm": "PPV C 8",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792778400:t> (14:00 ET) Yokkao 53"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792864800:t> (14:00 ET) Yokkao 53"
         },
         {
-          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Navarrete vs Foster: Prelims",
+          "display_title": "5:00 AM <t:1792876500:t> (17:15 ET) Navarrete vs Foster: Prelims",
           "slot": "PPV C 009",
           "slot_norm": "PPV C 9",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792790100:t> (17:15 ET) Navarrete vs Foster: Prelims"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792876500:t> (17:15 ET) Navarrete vs Foster: Prelims"
         },
         {
-          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) Navarrete vs Foster",
+          "display_title": "5:00 AM <t:1792886400:t> (20:00 ET) Navarrete vs Foster",
           "slot": "PPV C 010",
           "slot_norm": "PPV C 10",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792800000:t> (20:00 ET) Navarrete vs Foster"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792886400:t> (20:00 ET) Navarrete vs Foster"
         },
         {
-          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) Navarrete vs Foster BU",
+          "display_title": "5:00 AM <t:1792886400:t> (20:00 ET) Navarrete vs Foster BU",
           "slot": "PPV C 011",
           "slot_norm": "PPV C 11",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792800000:t> (20:00 ET) Navarrete vs Foster BU"
-        },
-        {
-          "display_title": "5:00 AM <t:1792798800:t> (19:40 ET) USAC Western World Championships at Central Arizona",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792798800:t> (19:40 ET) USAC Western World Championships at Central Arizona"
-        },
-        {
-          "display_title": "5:00 AM <t:1792760400:t> (09:00 ET) Sportsman World Finals",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792760400:t> (09:00 ET) Sportsman World Finals"
-        },
-        {
-          "display_title": "5:00 AM <t:1792796400:t> (19:00 ET) Harvest Hustle at Marshalltown",
-          "slot": "PPV D 04",
-          "slot_norm": "PPV D 4",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792796400:t> (19:00 ET) Harvest Hustle at Marshalltown"
-        },
-        {
-          "display_title": "5:00 AM <t:1792790100:t> (17:15 ET) Modoc Speedway",
-          "slot": "PPV D 05",
-          "slot_norm": "PPV D 5",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792790100:t> (17:15 ET) Modoc Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1792796400:t> (19:00 ET) The Whole FLEXN Show",
-          "slot": "PPV D 07",
-          "slot_norm": "PPV D 7",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792796400:t> (19:00 ET) The Whole FLEXN Show"
-        },
-        {
-          "display_title": "5:00 AM <t:1792798200:t> (19:30 ET) Greektown Wrestling",
-          "slot": "PPV D 08",
-          "slot_norm": "PPV D 8",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792798200:t> (19:30 ET) Greektown Wrestling"
-        },
-        {
-          "display_title": "5:00 AM <t:1792800000:t> (20:00 ET) BKFC FN Clearwater Reber vs Street",
-          "slot": "PPV D 09",
-          "slot_norm": "PPV D 9",
-          "start": "2026-10-23T12:00:00-04:00",
-          "stop": "2026-10-24T00:00:00-04:00",
-          "title": "<t:1792800000:t> (20:00 ET) BKFC FN Clearwater Reber vs Street"
+          "start": "2026-10-24T12:00:00-04:00",
+          "stop": "2026-10-25T00:00:00-04:00",
+          "title": "<t:1792886400:t> (20:00 ET) Navarrete vs Foster BU"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 634525647,
-      "message_timestamp": 1792794638,
+      "message_id": 634566629,
+      "message_timestamp": 1792816221,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-23T23:14:49.634561+00:00"
+      "updated_at": "2026-10-24T04:49:05.578374+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -494,134 +542,6 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Max Verstappen: Onboard",
-          "slot": "SKY SPORTS+ 23",
-          "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Max Verstappen: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard",
-          "slot": "SKY SPORTS+ 24",
-          "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Oliver Bearman: Onboard",
-          "slot": "SKY SPORTS+ 25",
-          "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Oliver Bearman: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Oscar Piastri: Onboard",
-          "slot": "SKY SPORTS+ 26",
-          "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Oscar Piastri: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Pierre Gasly: Onboard",
-          "slot": "SKY SPORTS+ 27",
-          "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Pierre Gasly: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Sergio Pérez: Onboard",
-          "slot": "SKY SPORTS+ 28",
-          "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Sergio Pérez: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard",
-          "slot": "SKY SPORTS+ 29",
-          "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Driver Tracker",
-          "slot": "SKY SPORTS+ 30",
-          "slot_norm": "SKY SPORTS+ 30",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Driver Tracker"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Multiscreen",
-          "slot": "SKY SPORTS+ 31",
-          "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Multiscreen"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Onboard Mix",
-          "slot": "SKY SPORTS+ 32",
-          "slot_norm": "SKY SPORTS+ 32",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Onboard Mix"
-        },
-        {
-          "display_title": "12:00 AM <t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Timings",
-          "slot": "SKY SPORTS+ 33",
-          "slot_norm": "SKY SPORTS+ 33",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792771200:t> (16:00 UTC) F1 More From The Pit Wall Timings"
-        },
-        {
-          "display_title": "12:00 AM <t:1792772700:t> (16:25 UTC) Tennis ATP Tennis A. Fils vs A. Michelsen",
-          "slot": "SKY SPORTS+ 34",
-          "slot_norm": "SKY SPORTS+ 34",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792772700:t> (16:25 UTC) Tennis ATP Tennis A. Fils vs A. Michelsen"
-        },
-        {
-          "display_title": "12:00 AM <t:1792774500:t> (16:55 UTC) Tennis ATP Tennis F. Cobolli vs B. Nakashima",
-          "slot": "SKY SPORTS+ 35",
-          "slot_norm": "SKY SPORTS+ 35",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792774500:t> (16:55 UTC) Tennis ATP Tennis F. Cobolli vs B. Nakashima"
-        },
-        {
-          "display_title": "12:00 AM <t:1792778100:t> (17:55 UTC) Tennis ATP Tennis J. Struff vs Z. Bergs",
-          "slot": "SKY SPORTS+ 36",
-          "slot_norm": "SKY SPORTS+ 36",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792778100:t> (17:55 UTC) Tennis ATP Tennis J. Struff vs Z. Bergs"
-        },
-        {
-          "display_title": "12:00 AM <t:1792779900:t> (18:25 UTC) Premier League Ipswich vs Forest",
-          "slot": "SKY SPORTS+ 37",
-          "slot_norm": "SKY SPORTS+ 37",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792779900:t> (18:25 UTC) Premier League Ipswich vs Forest"
-        },
-        {
-          "display_title": "12:00 AM <t:1792779900:t> (18:25 UTC) Tennis ATP Tennis L.Van Assche vs L. Musetti",
-          "slot": "SKY SPORTS+ 38",
-          "slot_norm": "SKY SPORTS+ 38",
-          "start": "2026-10-23T12:00:00+01:00",
-          "stop": "2026-10-24T00:00:00+01:00",
-          "title": "<t:1792779900:t> (18:25 UTC) Tennis ATP Tennis L.Van Assche vs L. Musetti"
-        },
-        {
           "display_title": "12:00 AM <t:1792810500:t> (02:55 UTC) Tennis WTA Tennis A. Li vs A. Krueger",
           "slot": "SKY SPORTS+ 39",
           "slot_norm": "SKY SPORTS+ 39",
@@ -631,10 +551,10 @@
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 634334394,
-      "message_timestamp": 1792755050,
+      "message_id": 634535637,
+      "message_timestamp": 1792800061,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-23T13:37:43.432936+00:00"
+      "updated_at": "2026-10-24T04:49:06.488308+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
