@@ -7352,7 +7352,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001: 08:10 RWS: Narak vs Mungkornlek</display-name>
+    <display-name>PPV C 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
@@ -7372,7 +7372,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.005">
     <display-name>PPV C 005</display-name>
-    <display-name>PPV C 005: 12:00 Smith vs Puello: Prelims</display-name>
+    <display-name>PPV C 005: Smith vs Puello: Prelims &amp; Main</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.006">
@@ -15259,158 +15259,68 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>5:00 AM &lt;t:1792864800:t&gt; (14:00 ET) UFC 333 Volkanovksi vs Evloev</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.12">
+    <title>5:00 AM &lt;t:1792880100:t&gt; (18:15 ET) PRELIMS Navarrete vs Foster</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>5:00 AM &lt;t:1792857600:t&gt; (12:00 ET) Prelims Smith vs Puello</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.13">
+    <title>5:00 AM &lt;t:1792886400:t&gt; (20:00 ET) Navarrete vs Foster</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>5:00 AM &lt;t:1792864800:t&gt; (14:00 ET) Smith vs Puello</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>5:00 AM &lt;t:1792864800:t&gt; (14:00 ET) Yokkao 53</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
-    <title>5:00 AM &lt;t:1792871100:t&gt; (15:45 ET) WOW 33</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
-    <title>5:00 AM &lt;t:1792886400:t&gt; (20:00 ET) 5:25/ Navarrete vs Foster</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.15">
     <title>5:00 AM &lt;t:1792882800:t&gt; (19:00 ET) Peter Welchs Athletics Rising Stars Boxing</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
-    <title>5:00 AM &lt;t:1792895400:t&gt; (22:30 ET) Tuff N Uff 158</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.16">
+    <title>5:00 AM &lt;t:1792893600:t&gt; (22:00 ET) Tuff N Uff 158</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.10">
-    <title>5:00 AM &lt;t:1792843200:t&gt; (08:00 ET) GNCC Ironman</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.18">
+    <title>5:00 AM &lt;t:1792885200:t&gt; (19:40 ET) USAC Western World Championships at Central Arizona</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.11">
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.19">
+    <title>5:00 AM &lt;t:1792874700:t&gt; (16:45 ET) Harvest Hustle at Marshalltown</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.20">
     <title>5:00 AM &lt;t:1792846800:t&gt; (09:00 ET) Sportsman World Finals</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.12">
-    <title>5:00 AM &lt;t:1792849500:t&gt; (09:45 ET) No Mercy 17</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.21">
+    <title>5:00 AM &lt;t:1792843200:t&gt; (08:00 ET) Grand National Cross Country at Ironman</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.13">
-    <title>5:00 AM &lt;t:1792861200:t&gt; (13:00 ET) RoC Finale Shangri La II</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.22">
+    <title>5:00 AM &lt;t:1792861200:t&gt; (13:00 ET) Race of Champions Finale at Shangri La II</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.14">
-    <title>5:00 AM &lt;t:1792876500:t&gt; (17:15 ET) World of Outlaws Late Models Modoc</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.23">
+    <title>5:00 AM &lt;t:1792879200:t&gt; (18:00 ET) NASCAR Halloween Speedfest at Langley</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.15">
-    <title>5:00 AM &lt;t:1792879200:t&gt; (18:00 ET) Volusia Sprint Cars</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.24">
+    <title>5:00 AM &lt;t:1792893600:t&gt; (22:00 ET) AMA EnduroCross at Everett</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.16">
-    <title>5:00 AM &lt;t:1792879200:t&gt; (18:00 ET) NASCAR Halloween Speedfest Langley</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.25">
+    <title>5:00 AM &lt;t:1792876500:t&gt; (17:15 ET) Modoc Speedway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.17">
-    <title>5:00 AM &lt;t:1792882800:t&gt; (19:00 ET) Harvest Hustle Marshalltown</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.18">
-    <title>5:00 AM &lt;t:1792883700:t&gt; (19:15 ET) World of Outlaws Sprint Cars Texarkana 67</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.19">
-    <title>5:00 AM &lt;t:1792885200:t&gt; (19:40 ET) USAC Western World Champs Central AZ</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.20">
-    <title>5:00 AM &lt;t:1792886400:t&gt; (20:00 ET) 32nd Annual Coors Light Fall Classic</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>5:00 AM &lt;t:1792850400:t&gt; (10:00 ET) Prelims UFC 333</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>5:00 AM &lt;t:1792864800:t&gt; (14:00 ET) UFC 333 Volkanovksi vs Evloev</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.03">
-    <title>5:00 AM &lt;t:1792857600:t&gt; (12:00 ET) Prelims Smith vs Puello</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.04">
-    <title>5:00 AM &lt;t:1792864800:t&gt; (14:00 ET) Smith vs Puello</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.05">
-    <title>5:00 AM &lt;t:1792864800:t&gt; (14:00 ET) Yokkao 53</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.06">
-    <title>5:00 AM &lt;t:1792871100:t&gt; (15:45 ET) WOW 33</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.07">
-    <title>5:00 AM &lt;t:1792886400:t&gt; (20:00 ET) 5:25/ Navarrete vs Foster</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.08">
-    <title>5:00 AM &lt;t:1792882800:t&gt; (19:00 ET) Peter Welchs Athletics Rising Stars Boxing</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.09">
-    <title>5:00 AM &lt;t:1792895400:t&gt; (22:30 ET) Tuff N Uff 158</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.10">
-    <title>5:00 AM &lt;t:1792843200:t&gt; (08:00 ET) GNCC Ironman</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.11">
-    <title>5:00 AM &lt;t:1792846800:t&gt; (09:00 ET) Sportsman World Finals</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.12">
-    <title>5:00 AM &lt;t:1792849500:t&gt; (09:45 ET) No Mercy 17</title>
+  <programme start="20261024120000 -0400" stop="20261025000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.26">
+    <title>5:00 AM &lt;t:1792879200:t&gt; (18:00 ET) Volusia Speedway Park</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
