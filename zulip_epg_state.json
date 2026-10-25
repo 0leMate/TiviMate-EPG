@@ -128,51 +128,67 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792927200:t> (07:20 ET) Inter vs Fiorentina",
-          "slot": "PARAMOUNT B 021",
-          "slot_norm": "PARAMOUNT B 21",
+          "display_title": "5:00 AM <t:1792936200:t> (09:50 ET) Liverpool vs London City",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792927200:t> (07:20 ET) Inter vs Fiorentina"
+          "title": "<t:1792936200:t> (09:50 ET) Liverpool vs London City"
         },
         {
-          "display_title": "5:00 AM <t:1792936200:t> (09:50 ET) Atalanta vs Frosinone",
-          "slot": "PARAMOUNT B 022",
-          "slot_norm": "PARAMOUNT B 22",
+          "display_title": "5:00 AM <t:1792936200:t> (09:50 ET) Everton vs Aston Villa",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792936200:t> (09:50 ET) Atalanta vs Frosinone"
+          "title": "<t:1792936200:t> (09:50 ET) Everton vs Aston Villa"
         },
         {
-          "display_title": "5:00 AM <t:1792936200:t> (09:50 ET) Genoa vs Venezia",
-          "slot": "PARAMOUNT B 023",
-          "slot_norm": "PARAMOUNT B 23",
+          "display_title": "5:00 AM <t:1792936200:t> (09:50 ET) Birmingham City vs Charlton Athletic",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792936200:t> (09:50 ET) Genoa vs Venezia"
+          "title": "<t:1792936200:t> (09:50 ET) Birmingham City vs Charlton Athletic"
+        },
+        {
+          "display_title": "5:00 AM <t:1792936500:t> (09:55 ET) Motherwell vs Heart of Midlothian",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-25T12:00:00-04:00",
+          "stop": "2026-10-26T00:00:00-04:00",
+          "title": "<t:1792936500:t> (09:55 ET) Motherwell vs Heart of Midlothian"
         },
         {
           "display_title": "5:00 AM <t:1792947000:t> (12:50 ET) Lecce vs Juventus",
-          "slot": "PARAMOUNT B 024",
-          "slot_norm": "PARAMOUNT B 24",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
           "title": "<t:1792947000:t> (12:50 ET) Lecce vs Juventus"
         },
         {
+          "display_title": "5:00 AM <t:1792950600:t> (13:50 ET) Man. United vs Man. City",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-25T12:00:00-04:00",
+          "stop": "2026-10-26T00:00:00-04:00",
+          "title": "<t:1792950600:t> (13:50 ET) Man. United vs Man. City"
+        },
+        {
           "display_title": "5:00 AM <t:1792954800:t> (15:00 ET) Udinese vs Milan",
-          "slot": "PARAMOUNT B 025",
-          "slot_norm": "PARAMOUNT B 25",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
           "title": "<t:1792954800:t> (15:00 ET) Udinese vs Milan"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 634708306,
-      "message_timestamp": 1792900846,
+      "message_id": 634729983,
+      "message_timestamp": 1792917064,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-25T04:58:17.751294+00:00"
+      "updated_at": "2026-10-25T11:48:58.783425+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -298,59 +314,27 @@
           "title": "<t:1792980000:t> (22:00 ET) Primos Pro Wrestling Karnevil"
         },
         {
-          "display_title": "5:00 AM <t:1792954800:t> (15:00 ET) Smith vs Puello",
-          "slot": "PPV C 006",
-          "slot_norm": "PPV C 6",
+          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) Browne vs Burden",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792954800:t> (15:00 ET) Smith vs Puello"
+          "title": "<t:1792947600:t> (13:00 ET) Browne vs Burden"
         },
         {
-          "display_title": "5:00 AM <t:1792954800:t> (15:00 ET) Smith vs Puello BU",
-          "slot": "PPV C 007",
-          "slot_norm": "PPV C 7",
+          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) Browne vs Burden BU",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792954800:t> (15:00 ET) Smith vs Puello BU"
-        },
-        {
-          "display_title": "5:00 AM <t:1792954800:t> (15:00 ET) Yokkao 53",
-          "slot": "PPV C 008",
-          "slot_norm": "PPV C 8",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792954800:t> (15:00 ET) Yokkao 53"
-        },
-        {
-          "display_title": "5:00 AM <t:1792970100:t> (19:15 ET) Navarrete vs Foster: Prelims",
-          "slot": "PPV C 009",
-          "slot_norm": "PPV C 9",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792970100:t> (19:15 ET) Navarrete vs Foster: Prelims"
-        },
-        {
-          "display_title": "5:00 AM <t:1792972800:t> (20:00 ET) Navarrete vs Foster",
-          "slot": "PPV C 010",
-          "slot_norm": "PPV C 10",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792972800:t> (20:00 ET) Navarrete vs Foster"
-        },
-        {
-          "display_title": "5:00 AM <t:1792972800:t> (20:00 ET) Navarrete vs Foster BU",
-          "slot": "PPV C 011",
-          "slot_norm": "PPV C 11",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792972800:t> (20:00 ET) Navarrete vs Foster BU"
+          "title": "<t:1792947600:t> (13:00 ET) Browne vs Burden BU"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 634711820,
-      "message_timestamp": 1792902652,
+      "message_id": 634729994,
+      "message_timestamp": 1792917073,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-25T04:58:18.022590+00:00"
+      "updated_at": "2026-10-25T11:48:58.954109+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -486,187 +470,171 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "12:00 AM <t:1792833900:t> (09:25 UTC) WTA Tour WTA Tennis E. Rybakina vs D. Shnaider",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792833900:t> (09:25 UTC) WTA Tour WTA Tennis E. Rybakina vs D. Shnaider"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Franco Colapinto: Onboard",
+          "slot": "SKY SPORTS+ 23",
+          "slot_norm": "SKY SPORTS+ 23",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Franco Colapinto: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792835700:t> (09:55 UTC) ATP Tour ATP Tennis N. Basilashvili vs S. Tsitsipas",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792835700:t> (09:55 UTC) ATP Tour ATP Tennis N. Basilashvili vs S. Tsitsipas"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Gabriel Bortoleto: Onboard",
+          "slot": "SKY SPORTS+ 24",
+          "slot_norm": "SKY SPORTS+ 24",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Gabriel Bortoleto: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792837500:t> (10:25 UTC) Sky Bet Championship Sheff Utd vs Derby",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792837500:t> (10:25 UTC) Sky Bet Championship Sheff Utd vs Derby"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams George Russell: Onboard",
+          "slot": "SKY SPORTS+ 25",
+          "slot_norm": "SKY SPORTS+ 25",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams George Russell: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792840500:t> (11:15 UTC) Sky Bet Championship Portsmouth vs Millwall",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792840500:t> (11:15 UTC) Sky Bet Championship Portsmouth vs Millwall"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Isack Hadjar: Onboard",
+          "slot": "SKY SPORTS+ 26",
+          "slot_norm": "SKY SPORTS+ 26",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Isack Hadjar: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792840500:t> (11:15 UTC) Sky Bet League One Huddersfield vs Wigan",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792840500:t> (11:15 UTC) Sky Bet League One Huddersfield vs Wigan"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lance Stroll: Onboard",
+          "slot": "SKY SPORTS+ 27",
+          "slot_norm": "SKY SPORTS+ 27",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lance Stroll: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792840500:t> (11:15 UTC) Sky Bet League One Luton vs Leicester",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792840500:t> (11:15 UTC) Sky Bet League One Luton vs Leicester"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lando Norris: Onboard",
+          "slot": "SKY SPORTS+ 28",
+          "slot_norm": "SKY SPORTS+ 28",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lando Norris: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792840500:t> (11:15 UTC) Sky Bet League Two Bristol Rovers vs Swindon",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792840500:t> (11:15 UTC) Sky Bet League Two Bristol Rovers vs Swindon"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lewis Hamilton: Onboard",
+          "slot": "SKY SPORTS+ 29",
+          "slot_norm": "SKY SPORTS+ 29",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lewis Hamilton: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792840500:t> (11:15 UTC) Sky Bet League Two Cheltenham vs Newport",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792840500:t> (11:15 UTC) Sky Bet League Two Cheltenham vs Newport"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Liam Lawson: Onboard",
+          "slot": "SKY SPORTS+ 30",
+          "slot_norm": "SKY SPORTS+ 30",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Liam Lawson: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792840500:t> (11:15 UTC) Sky Bet League Two Northampton vs Colchester",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792840500:t> (11:15 UTC) Sky Bet League Two Northampton vs Colchester"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Max Verstappen: Onboard",
+          "slot": "SKY SPORTS+ 31",
+          "slot_norm": "SKY SPORTS+ 31",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Max Verstappen: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792842900:t> (11:55 UTC) ATP Tour ATP Tennis T. Paul vs T. Fritz",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792842900:t> (11:55 UTC) ATP Tour ATP Tennis T. Paul vs T. Fritz"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Nico Hülkenberg: Onboard",
+          "slot": "SKY SPORTS+ 32",
+          "slot_norm": "SKY SPORTS+ 32",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Nico Hülkenberg: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792846500:t> (12:55 UTC) ATP Tour ATP Tennis D. Medvedev vs A. Bublik",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792846500:t> (12:55 UTC) ATP Tour ATP Tennis D. Medvedev vs A. Bublik"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oliver Bearman: Onboard",
+          "slot": "SKY SPORTS+ 33",
+          "slot_norm": "SKY SPORTS+ 33",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oliver Bearman: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792850100:t> (13:55 UTC) ATP Tour ATP Tennis F. Cerundolo vs T. Griekspoor",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792850100:t> (13:55 UTC) ATP Tour ATP Tennis F. Cerundolo vs T. Griekspoor"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oscar Piastri: Onboard",
+          "slot": "SKY SPORTS+ 34",
+          "slot_norm": "SKY SPORTS+ 34",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oscar Piastri: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792850100:t> (13:55 UTC) ATP Tour ATP Tennis F. Cobolli vs L. Musetti",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792850100:t> (13:55 UTC) ATP Tour ATP Tennis F. Cobolli vs L. Musetti"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Pierre Gasly: Onboard",
+          "slot": "SKY SPORTS+ 35",
+          "slot_norm": "SKY SPORTS+ 35",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Pierre Gasly: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792857300:t> (15:55 UTC) Premier League Chelsea vs Spurs",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857300:t> (15:55 UTC) Premier League Chelsea vs Spurs"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Sergio Pérez: Onboard",
+          "slot": "SKY SPORTS+ 36",
+          "slot_norm": "SKY SPORTS+ 36",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Sergio Pérez: Onboard"
         },
         {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Alexander Albon: Onboard",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Alexander Albon: Onboard"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Driver Tracker",
+          "slot": "SKY SPORTS+ 37",
+          "slot_norm": "SKY SPORTS+ 37",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Driver Tracker"
         },
         {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Andrea Kimi Antonelli: Onboard",
-          "slot": "SKY SPORTS+ 16",
-          "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Andrea Kimi Antonelli: Onboard"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Multiscreen",
+          "slot": "SKY SPORTS+ 38",
+          "slot_norm": "SKY SPORTS+ 38",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Multiscreen"
         },
         {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Arvid Lindblad: Onboard",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Arvid Lindblad: Onboard"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Onboard Mix",
+          "slot": "SKY SPORTS+ 39",
+          "slot_norm": "SKY SPORTS+ 39",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Onboard Mix"
         },
         {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Carlos Sainz Jr.: Onboard",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Carlos Sainz Jr.: Onboard"
+          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Timings",
+          "slot": "SKY SPORTS+ 40",
+          "slot_norm": "SKY SPORTS+ 40",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Timings"
         },
         {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Charles Leclerc: Onboard",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Charles Leclerc: Onboard"
+          "display_title": "1:00 AM <t:1792959000:t> (20:10 UTC) NFL Green Bay Packers vs Detroit Lions",
+          "slot": "SKY SPORTS+ 41",
+          "slot_norm": "SKY SPORTS+ 41",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792959000:t> (20:10 UTC) NFL Green Bay Packers vs Detroit Lions"
         },
         {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Esteban Ocon: Onboard",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Esteban Ocon: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Fernando Alonso: Onboard",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Fernando Alonso: Onboard"
-        },
-        {
-          "display_title": "12:00 AM <t:1792857600:t> (16:00 UTC) F1 Driver Cams Franco Colapinto: Onboard",
-          "slot": "SKY SPORTS+ 22",
-          "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-10-24T12:00:00+01:00",
-          "stop": "2026-10-25T00:00:00+01:00",
-          "title": "<t:1792857600:t> (16:00 UTC) F1 Driver Cams Franco Colapinto: Onboard"
+          "display_title": "1:00 AM <t:1792959600:t> (20:20 UTC) NFL Los Angeles Rams vs Las Vegas Raiders",
+          "slot": "SKY SPORTS+ 42",
+          "slot_norm": "SKY SPORTS+ 42",
+          "start": "2026-10-25T12:00:00+00:00",
+          "stop": "2026-10-26T00:00:00+00:00",
+          "title": "<t:1792959600:t> (20:20 UTC) NFL Los Angeles Rams vs Las Vegas Raiders"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 634600188,
-      "message_timestamp": 1792837888,
+      "message_id": 634729984,
+      "message_timestamp": 1792917064,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-24T11:18:57.654123+00:00"
+      "updated_at": "2026-10-25T11:48:59.307597+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
