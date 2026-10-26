@@ -7007,22 +7007,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 09:45 No Mercy 17</display-name>
+    <display-name>PPV 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
     <display-name>PPV 03</display-name>
-    <display-name>PPV 03: 12:00 APFC IFL 4</display-name>
+    <display-name>PPV 03:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 13:00 Browne vs Burden</display-name>
+    <display-name>PPV 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05: 13:00 RoC Finale Shangri La II</display-name>
+    <display-name>PPV 05:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
@@ -7032,7 +7032,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
     <display-name>PPV 07</display-name>
-    <display-name>PPV 07: 16:00 GCW Shotzi Blackhearts Drive In from Hell</display-name>
+    <display-name>PPV 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
@@ -7182,27 +7182,27 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 08:00 GNCC Ironman</display-name>
+    <display-name>PPV B 01: 20:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02: 09:45 No Mercy 17</display-name>
+    <display-name>PPV B 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
     <display-name>PPV B 03</display-name>
-    <display-name>PPV B 03: 12:00 APFC IFL 4</display-name>
+    <display-name>PPV B 03:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.04">
     <display-name>PPV B 04</display-name>
-    <display-name>PPV B 04: 13:00 Browne vs Burden</display-name>
+    <display-name>PPV B 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.05">
     <display-name>PPV B 05</display-name>
-    <display-name>PPV B 05: 13:00 RoC Finale Shangri La II</display-name>
+    <display-name>PPV B 05:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.06">
@@ -7212,7 +7212,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.07">
     <display-name>PPV B 07</display-name>
-    <display-name>PPV B 07: 16:00 GCW Shotzi Blackhearts Drive In from Hell</display-name>
+    <display-name>PPV B 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.08">
@@ -7352,12 +7352,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001: 13:00 Browne vs Burden</display-name>
+    <display-name>PPV C 001: 15:00 Ballon d&#x27;Or Ceremony</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002: 13:00 Browne vs Burden BU</display-name>
+    <display-name>PPV C 002:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
@@ -14712,33 +14712,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>5:00 AM &lt;t:1792935900:t&gt; (09:45 ET) No Mercy 17</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>5:00 AM &lt;t:1792944000:t&gt; (12:00 ET) APFC IFL 4</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>5:00 AM &lt;t:1792947600:t&gt; (13:00 ET) Browne vs Burden</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>5:00 AM &lt;t:1792947600:t&gt; (13:00 ET) RoC Finale Shangri La II</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
     <title>5:00 AM &lt;t:1792958400:t&gt; (16:00 ET) Blue Gray 100 Cherokee</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
-    <title>5:00 AM &lt;t:1792958400:t&gt; (16:00 ET) GCW Shotzi Blackhearts Drive In from Hell</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14748,37 +14723,12 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>5:00 AM &lt;t:1792929600:t&gt; (08:00 ET) GNCC Ironman</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>5:00 AM &lt;t:1792935900:t&gt; (09:45 ET) No Mercy 17</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.03">
-    <title>5:00 AM &lt;t:1792944000:t&gt; (12:00 ET) APFC IFL 4</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.04">
-    <title>5:00 AM &lt;t:1792947600:t&gt; (13:00 ET) Browne vs Burden</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.05">
-    <title>5:00 AM &lt;t:1792947600:t&gt; (13:00 ET) RoC Finale Shangri La II</title>
+    <title>5:00 AM &lt;t:1792972800:t&gt; (20:00 ET) WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.06">
     <title>5:00 AM &lt;t:1792958400:t&gt; (16:00 ET) Blue Gray 100 Cherokee</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.07">
-    <title>5:00 AM &lt;t:1792958400:t&gt; (16:00 ET) GCW Shotzi Blackhearts Drive In from Hell</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14788,12 +14738,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.001">
-    <title>5:00 AM &lt;t:1792947600:t&gt; (13:00 ET) Browne vs Burden</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261025120000 -0400" stop="20261026000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.002">
-    <title>5:00 AM &lt;t:1792947600:t&gt; (13:00 ET) Browne vs Burden BU</title>
+    <title>5:00 AM &lt;t:1792954800:t&gt; (15:00 ET) Ballon d&#x27;Or Ceremony</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

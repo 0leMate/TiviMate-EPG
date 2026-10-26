@@ -290,52 +290,12 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1792935900:t> (09:45 ET) No Mercy 17",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792935900:t> (09:45 ET) No Mercy 17"
-        },
-        {
-          "display_title": "5:00 AM <t:1792944000:t> (12:00 ET) APFC IFL 4",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792944000:t> (12:00 ET) APFC IFL 4"
-        },
-        {
-          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) Browne vs Burden",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792947600:t> (13:00 ET) Browne vs Burden"
-        },
-        {
-          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) RoC Finale Shangri La II",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792947600:t> (13:00 ET) RoC Finale Shangri La II"
-        },
-        {
           "display_title": "5:00 AM <t:1792958400:t> (16:00 ET) Blue Gray 100 Cherokee",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
           "title": "<t:1792958400:t> (16:00 ET) Blue Gray 100 Cherokee"
-        },
-        {
-          "display_title": "5:00 AM <t:1792958400:t> (16:00 ET) GCW Shotzi Blackhearts Drive In from Hell",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792958400:t> (16:00 ET) GCW Shotzi Blackhearts Drive In from Hell"
         },
         {
           "display_title": "5:00 AM <t:1792980000:t> (22:00 ET) Primos Pro Wrestling Karnevil",
@@ -346,44 +306,12 @@
           "title": "<t:1792980000:t> (22:00 ET) Primos Pro Wrestling Karnevil"
         },
         {
-          "display_title": "5:00 AM <t:1792929600:t> (08:00 ET) GNCC Ironman",
+          "display_title": "5:00 AM <t:1792972800:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792929600:t> (08:00 ET) GNCC Ironman"
-        },
-        {
-          "display_title": "5:00 AM <t:1792935900:t> (09:45 ET) No Mercy 17",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792935900:t> (09:45 ET) No Mercy 17"
-        },
-        {
-          "display_title": "5:00 AM <t:1792944000:t> (12:00 ET) APFC IFL 4",
-          "slot": "PPV B 03",
-          "slot_norm": "PPV B 3",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792944000:t> (12:00 ET) APFC IFL 4"
-        },
-        {
-          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) Browne vs Burden",
-          "slot": "PPV B 04",
-          "slot_norm": "PPV B 4",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792947600:t> (13:00 ET) Browne vs Burden"
-        },
-        {
-          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) RoC Finale Shangri La II",
-          "slot": "PPV B 05",
-          "slot_norm": "PPV B 5",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792947600:t> (13:00 ET) RoC Finale Shangri La II"
+          "title": "<t:1792972800:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
           "display_title": "5:00 AM <t:1792958400:t> (16:00 ET) Blue Gray 100 Cherokee",
@@ -394,14 +322,6 @@
           "title": "<t:1792958400:t> (16:00 ET) Blue Gray 100 Cherokee"
         },
         {
-          "display_title": "5:00 AM <t:1792958400:t> (16:00 ET) GCW Shotzi Blackhearts Drive In from Hell",
-          "slot": "PPV B 07",
-          "slot_norm": "PPV B 7",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792958400:t> (16:00 ET) GCW Shotzi Blackhearts Drive In from Hell"
-        },
-        {
           "display_title": "5:00 AM <t:1792980000:t> (22:00 ET) Primos Pro Wrestling Karnevil",
           "slot": "PPV B 08",
           "slot_norm": "PPV B 8",
@@ -410,20 +330,12 @@
           "title": "<t:1792980000:t> (22:00 ET) Primos Pro Wrestling Karnevil"
         },
         {
-          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) Browne vs Burden",
+          "display_title": "5:00 AM <t:1792954800:t> (15:00 ET) Ballon d'Or Ceremony",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
           "start": "2026-10-25T12:00:00-04:00",
           "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792947600:t> (13:00 ET) Browne vs Burden"
-        },
-        {
-          "display_title": "5:00 AM <t:1792947600:t> (13:00 ET) Browne vs Burden BU",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-10-25T12:00:00-04:00",
-          "stop": "2026-10-26T00:00:00-04:00",
-          "title": "<t:1792947600:t> (13:00 ET) Browne vs Burden BU"
+          "title": "<t:1792954800:t> (15:00 ET) Ballon d'Or Ceremony"
         },
         {
           "display_title": "5:00 AM <t:1792929600:t> (08:00 ET) Grand National Cross Country at Ironman",
@@ -475,10 +387,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 634753215,
-      "message_timestamp": 1792933229,
+      "message_id": 634809255,
+      "message_timestamp": 1792971033,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-25T16:37:00.978877+00:00"
+      "updated_at": "2026-10-26T00:29:36.729444+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
