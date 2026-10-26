@@ -128,19 +128,99 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "5:00 AM <t:1793019600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793019600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "5:00 AM <t:1793026800:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793026800:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "5:00 AM <t:1793030400:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793030400:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "5:00 AM <t:1793037600:t> (14:00 ET) CBS Sports HQ: The Early Edge",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793037600:t> (14:00 ET) CBS Sports HQ: The Early Edge"
+        },
+        {
+          "display_title": "5:00 AM <t:1793041200:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793041200:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "5:00 AM <t:1793044200:t> (15:50 ET) English Football League: Walsall vs Salford City",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793044200:t> (15:50 ET) English Football League: Walsall vs Salford City"
+        },
+        {
+          "display_title": "5:00 AM <t:1793044800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793044800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "5:00 AM <t:1793052000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793052000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "5:00 AM <t:1793059200:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793059200:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "5:00 AM <t:1793070000:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793070000:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
+        {
           "display_title": "5:00 AM <t:1793044200:t> (15:50 ET) Walsall vs Salford City",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-26T12:00:00-04:00",
           "stop": "2026-10-27T00:00:00-04:00",
           "title": "<t:1793044200:t> (15:50 ET) Walsall vs Salford City"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 634842099,
-      "message_timestamp": 1792987240,
+      "message_id": 634955651,
+      "message_timestamp": 1793014233,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-26T05:08:06.553897+00:00"
+      "updated_at": "2026-10-26T13:20:49.619993+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -160,13 +240,21 @@
           "start": "2026-10-26T12:00:00-04:00",
           "stop": "2026-10-27T00:00:00-04:00",
           "title": "<t:1793041200:t> (15:00 ET) Ballon d'Or Ceremony"
+        },
+        {
+          "display_title": "5:00 AM <t:1793059200:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-26T12:00:00-04:00",
+          "stop": "2026-10-27T00:00:00-04:00",
+          "title": "<t:1793059200:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 634842101,
-      "message_timestamp": 1792987240,
+      "message_id": 634966573,
+      "message_timestamp": 1793016026,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-26T05:08:06.793577+00:00"
+      "updated_at": "2026-10-26T13:20:50.021994+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -302,333 +390,125 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Franco Colapinto: Onboard",
+          "display_title": "1:00 AM <t:1793069700:t> (02:55 UTC) WTA Tour WTA Tennis S. Waltert vs J. Teichmann",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793069700:t> (02:55 UTC) WTA Tour WTA Tennis S. Waltert vs J. Teichmann"
+        },
+        {
+          "display_title": "1:00 AM <t:1793071500:t> (03:25 UTC) WTA Tour WTA Tennis D. Parry vs C. Bucsa",
+          "slot": "SKY SPORTS+ 22",
+          "slot_norm": "SKY SPORTS+ 22",
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793071500:t> (03:25 UTC) WTA Tour WTA Tennis D. Parry vs C. Bucsa"
+        },
+        {
+          "display_title": "1:00 AM <t:1793073300:t> (03:55 UTC) WTA Tour WTA Tennis S. Aoyama/Liang En-Shuo vs I. Neel/G. Olmos",
           "slot": "SKY SPORTS+ 23",
           "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Franco Colapinto: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793073300:t> (03:55 UTC) WTA Tour WTA Tennis S. Aoyama/Liang En-Shuo vs I. Neel/G. Olmos"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Gabriel Bortoleto: Onboard",
+          "display_title": "1:00 AM <t:1793075100:t> (04:25 UTC) WTA Tour WTA Tennis D. Yastremska vs K. Volynets",
           "slot": "SKY SPORTS+ 24",
           "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Gabriel Bortoleto: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793075100:t> (04:25 UTC) WTA Tour WTA Tennis D. Yastremska vs K. Volynets"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams George Russell: Onboard",
+          "display_title": "1:00 AM <t:1793075100:t> (04:25 UTC) WTA Tour WTA Tennis L. Kichenok/M. Ninomiya vs M. Skoch/J. Maleckova",
           "slot": "SKY SPORTS+ 25",
           "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams George Russell: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793075100:t> (04:25 UTC) WTA Tour WTA Tennis L. Kichenok/M. Ninomiya vs M. Skoch/J. Maleckova"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Isack Hadjar: Onboard",
+          "display_title": "1:00 AM <t:1793075100:t> (04:25 UTC) WTA Tour WTA Tennis S. Sorribes Tormo vs Z. Sonmez",
           "slot": "SKY SPORTS+ 26",
           "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Isack Hadjar: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793075100:t> (04:25 UTC) WTA Tour WTA Tennis S. Sorribes Tormo vs Z. Sonmez"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lance Stroll: Onboard",
+          "display_title": "1:00 AM <t:1793078700:t> (05:25 UTC) WTA Tour WTA Tennis E. Perez/D. Schuurs vs Tang Qianhui/Xu Yifan",
           "slot": "SKY SPORTS+ 27",
           "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lance Stroll: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793078700:t> (05:25 UTC) WTA Tour WTA Tennis E. Perez/D. Schuurs vs Tang Qianhui/Xu Yifan"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lando Norris: Onboard",
+          "display_title": "1:00 AM <t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis A. Ruzic vs C. Liu",
           "slot": "SKY SPORTS+ 28",
           "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lando Norris: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis A. Ruzic vs C. Liu"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lewis Hamilton: Onboard",
+          "display_title": "1:00 AM <t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis H. Dart/N. Karamoko vs E. Hozumi/A. Klepac",
           "slot": "SKY SPORTS+ 29",
           "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Lewis Hamilton: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis H. Dart/N. Karamoko vs E. Hozumi/A. Klepac"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Liam Lawson: Onboard",
+          "display_title": "1:00 AM <t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis L. Fernandez vs H. Sakatsume",
           "slot": "SKY SPORTS+ 30",
           "slot_norm": "SKY SPORTS+ 30",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Liam Lawson: Onboard"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis L. Fernandez vs H. Sakatsume"
         },
         {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Max Verstappen: Onboard",
+          "display_title": "1:00 AM <t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis P. Kudermetova vs J. Tjen",
           "slot": "SKY SPORTS+ 31",
           "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Max Verstappen: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Nico Hülkenberg: Onboard",
-          "slot": "SKY SPORTS+ 32",
-          "slot_norm": "SKY SPORTS+ 32",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Nico Hülkenberg: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oliver Bearman: Onboard",
-          "slot": "SKY SPORTS+ 33",
-          "slot_norm": "SKY SPORTS+ 33",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oliver Bearman: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oscar Piastri: Onboard",
-          "slot": "SKY SPORTS+ 34",
-          "slot_norm": "SKY SPORTS+ 34",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Oscar Piastri: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Pierre Gasly: Onboard",
-          "slot": "SKY SPORTS+ 35",
-          "slot_norm": "SKY SPORTS+ 35",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Pierre Gasly: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Sergio Pérez: Onboard",
-          "slot": "SKY SPORTS+ 36",
-          "slot_norm": "SKY SPORTS+ 36",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport Driver Cams Sergio Pérez: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Driver Tracker",
-          "slot": "SKY SPORTS+ 37",
-          "slot_norm": "SKY SPORTS+ 37",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Driver Tracker"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Multiscreen",
-          "slot": "SKY SPORTS+ 38",
-          "slot_norm": "SKY SPORTS+ 38",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Multiscreen"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Onboard Mix",
-          "slot": "SKY SPORTS+ 39",
-          "slot_norm": "SKY SPORTS+ 39",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Onboard Mix"
-        },
-        {
-          "display_title": "1:00 AM <t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Timings",
-          "slot": "SKY SPORTS+ 40",
-          "slot_norm": "SKY SPORTS+ 40",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792953000:t> (18:30 UTC) Motorsport More From The Pit Wall Timings"
-        },
-        {
-          "display_title": "1:00 AM <t:1792959000:t> (20:10 UTC) NFL Green Bay Packers vs Detroit Lions",
-          "slot": "SKY SPORTS+ 41",
-          "slot_norm": "SKY SPORTS+ 41",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792959000:t> (20:10 UTC) NFL Green Bay Packers vs Detroit Lions"
-        },
-        {
-          "display_title": "1:00 AM <t:1792959600:t> (20:20 UTC) NFL Los Angeles Rams vs Las Vegas Raiders",
-          "slot": "SKY SPORTS+ 42",
-          "slot_norm": "SKY SPORTS+ 42",
-          "start": "2026-10-25T12:00:00+00:00",
-          "stop": "2026-10-26T00:00:00+00:00",
-          "title": "<t:1792959600:t> (20:20 UTC) NFL Los Angeles Rams vs Las Vegas Raiders"
+          "start": "2026-10-27T12:00:00+00:00",
+          "stop": "2026-10-28T00:00:00+00:00",
+          "title": "<t:1793080500:t> (05:55 UTC) WTA Tour WTA Tennis P. Kudermetova vs J. Tjen"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 634729984,
-      "message_timestamp": 1792917064,
+      "message_id": 634977341,
+      "message_timestamp": 1793017853,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-25T11:48:59.307597+00:00"
+      "updated_at": "2026-10-26T13:20:50.796930+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1792933200:t> (00:00 AEDT) Goal Rush: Manchester United vs Bournemouth • 26 Oct Premier League 2026/2027",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792933200:t> (00:00 AEDT) Goal Rush: Manchester United vs Bournemouth • 26 Oct Premier League 2026/2027"
+          "display_title": "2:00 PM <t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-10-27T12:00:00+11:00",
+          "stop": "2026-10-28T00:00:00+11:00",
+          "title": "<t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500"
         },
         {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Manchester United vs Bournemouth Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Manchester United vs Bournemouth Premier League Matchweek 8 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Crystal Palace vs Newcastle United Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Crystal Palace vs Newcastle United Premier League Matchweek 8 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Hull City vs Brentford Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Hull City vs Brentford Premier League Matchweek 8 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Liverpool vs Brighton & Hove Albion Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Liverpool vs Brighton & Hove Albion Premier League Matchweek 8 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Birmingham City vs Charlton Athletic WSL 2026/27",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Birmingham City vs Charlton Athletic WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Everton vs Aston Villa WSL 2026/27",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Everton vs Aston Villa WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Liverpool vs London City Lionesses WSL 2026/27",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Liverpool vs London City Lionesses WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792940100:t> (01:55 AEDT) Harlequins vs Saracens PREM Rugby Round 4 2026/27",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792940100:t> (01:55 AEDT) Harlequins vs Saracens PREM Rugby Round 4 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792945200:t> (03:20 AEDT) Sunderland vs Leeds United Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792945200:t> (03:20 AEDT) Sunderland vs Leeds United Premier League Matchweek 8 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792950600:t> (04:50 AEDT) Manchester United vs Manchester City WSL 2026/27",
-          "slot": "AU STAN 012",
-          "slot_norm": "AU STAN 12",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792950600:t> (04:50 AEDT) Manchester United vs Manchester City WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1792954800:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 8 Oct 26",
-          "slot": "AU STAN 013",
-          "slot_norm": "AU STAN 13",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792954800:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 8 Oct 26"
-        },
-        {
-          "display_title": "2:00 PM <t:1792954800:t> (06:00 AEDT) Orlando Pride vs Gotham FC NWSL 2026",
-          "slot": "AU STAN 014",
-          "slot_norm": "AU STAN 14",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792954800:t> (06:00 AEDT) Orlando Pride vs Gotham FC NWSL 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1792962000:t> (08:00 AEDT) Kansas City Current vs Washington Spirit NWSL 2026",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792962000:t> (08:00 AEDT) Kansas City Current vs Washington Spirit NWSL 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1792974600:t> (11:30 AEDT) Canterbury vs Northland NPC Grand Final 2026",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792974600:t> (11:30 AEDT) Canterbury vs Northland NPC Grand Final 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1792978200:t> (12:30 AEDT) Tokyo: Day 1 WTA 500",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792978200:t> (12:30 AEDT) Tokyo: Day 1 WTA 500"
-        },
-        {
-          "display_title": "2:00 PM <t:1792933200:t> (00:00 AEDT) Goal Rush: Manchester United vs Bournemouth • 26 Oct Premier League 2026/2027",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792933200:t> (00:00 AEDT) Goal Rush: Manchester United vs Bournemouth • 26 Oct Premier League 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Manchester United vs Bournemouth Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Manchester United vs Bournemouth Premier League Matchweek 8 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1792936200:t> (00:50 AEDT) Crystal Palace vs Newcastle United Premier League Matchweek 8 2026/2027",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
-          "start": "2026-10-26T12:00:00+11:00",
-          "stop": "2026-10-27T00:00:00+11:00",
-          "title": "<t:1792936200:t> (00:50 AEDT) Crystal Palace vs Newcastle United Premier League Matchweek 8 2026/2027"
+          "display_title": "2:00 PM <t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
+          "start": "2026-10-27T12:00:00+11:00",
+          "stop": "2026-10-28T00:00:00+11:00",
+          "title": "<t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 634760672,
-      "message_timestamp": 1792938626,
+      "message_id": 634988067,
+      "message_timestamp": 1793019637,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-25T16:37:01.713735+00:00"
+      "updated_at": "2026-10-26T13:20:51.221937+00:00"
     }
   },
   "version": 1
