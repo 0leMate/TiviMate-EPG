@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: UFC Special Feed</display-name>
+    <display-name>PPV 01: 20:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -14545,6 +14545,11 @@
     <title>11:00 AM Selinsgrove Speedway National Open Night One</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
+  </programme>
+  <programme start="20261026120000 -0400" stop="20261027000000 -0400" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>5:00 AM &lt;t:1793059200:t&gt; (20:00 ET) WWE Monday Night RAW</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261026120000 -0400" stop="20261027000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.01">
     <title>5:00 AM &lt;t:1793059200:t&gt; (20:00 ET) WWE Monday Night RAW</title>
