@@ -13,6 +13,14 @@
         },
         {
           "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT B 01",
+          "slot_norm": "DIRT B 1",
+          "start": "2026-10-27T12:00:00-04:00",
+          "stop": "2026-10-28T00:00:00-04:00",
+          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT C 01",
           "slot_norm": "DIRT C 1",
           "start": "2026-10-27T12:00:00-04:00",
@@ -21,10 +29,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 635429894,
-      "message_timestamp": 1793115032,
+      "message_id": 635493072,
+      "message_timestamp": 1793129420,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T18:08:41.066211+00:00"
+      "updated_at": "2026-10-27T22:26:17.892410+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -203,10 +211,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635365899,
-      "message_timestamp": 1793102424,
+      "message_id": 635493190,
+      "message_timestamp": 1793129449,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T12:28:45.777054+00:00"
+      "updated_at": "2026-10-27T22:26:18.365747+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

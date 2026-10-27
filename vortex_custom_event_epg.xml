@@ -12349,6 +12349,10 @@
     <display-name>DIRT 01</display-name>
     <display-name>DIRTVISION</display-name>
   </channel>
+  <channel id="custom.DIRTVISION.DIRT.B.01">
+    <display-name>DIRT B 01</display-name>
+    <display-name>DIRTVISION</display-name>
+  </channel>
   <channel id="custom.DIRTVISION.DIRT.C.01">
     <display-name>DIRT C 01</display-name>
     <display-name>DIRTVISION</display-name>
@@ -14393,6 +14397,11 @@
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
   <programme start="20261027120000 -0400" stop="20261028000000 -0400" channel="custom.DIRTVISION.DIRT.01">
+    <title>5:00 AM &lt;t:1793139300:t&gt; (18:15 ET) Millbridge Speedway</title>
+    <category>Sports</category>
+    <desc>Zulip #dirtvision • DIRTVISION</desc>
+  </programme>
+  <programme start="20261027120000 -0400" stop="20261028000000 -0400" channel="custom.DIRTVISION.DIRT.B.01">
     <title>5:00 AM &lt;t:1793139300:t&gt; (18:15 ET) Millbridge Speedway</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
