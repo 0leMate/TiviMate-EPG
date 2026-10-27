@@ -10,13 +10,21 @@
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
           "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
+          "start": "2026-10-27T12:00:00-04:00",
+          "stop": "2026-10-28T00:00:00-04:00",
+          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 635358887,
-      "message_timestamp": 1793100628,
+      "message_id": 635429894,
+      "message_timestamp": 1793115032,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T12:28:45.241439+00:00"
+      "updated_at": "2026-10-27T18:08:41.066211+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,195 +120,59 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793106000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793106000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
-        },
-        {
-          "display_title": "5:00 AM <t:1793113200:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793113200:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
-        },
-        {
-          "display_title": "5:00 AM <t:1793116800:t> (12:00 ET) CBS Sports HQ: Just Football",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793116800:t> (12:00 ET) CBS Sports HQ: Just Football"
-        },
-        {
-          "display_title": "5:00 AM <t:1793121600:t> (13:20 ET) Serie A: Sassuolo vs Lazio",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793121600:t> (13:20 ET) Serie A: Sassuolo vs Lazio"
-        },
-        {
-          "display_title": "5:00 AM <t:1793124000:t> (14:00 ET) CBS Sports HQ: Fantasy Football Today",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793124000:t> (14:00 ET) CBS Sports HQ: Fantasy Football Today"
-        },
-        {
           "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) Carabao Cup: Fleetwood Town vs Arsenal",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
           "title": "<t:1793127600:t> (15:00 ET) Carabao Cup: Fleetwood Town vs Arsenal"
         },
         {
-          "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) CBS Sports HQ: This Just In",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793127600:t> (15:00 ET) CBS Sports HQ: This Just In"
-        },
-        {
           "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) Carabao Cup: Bradford City vs Peterborough United",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
           "title": "<t:1793127600:t> (15:00 ET) Carabao Cup: Bradford City vs Peterborough United"
         },
         {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) English Football League: Oxford United vs Stockport County",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) English Football League: Oxford United vs Stockport County"
-        },
-        {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Serie A: Torino vs Como",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) Serie A: Torino vs Como"
-        },
-        {
           "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Serie A: Roma vs Cagliari",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
           "title": "<t:1793129700:t> (15:35 ET) Serie A: Roma vs Cagliari"
         },
         {
-          "display_title": "5:00 AM <t:1793131200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Serie A: Torino vs Como",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793131200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "title": "<t:1793129700:t> (15:35 ET) Serie A: Torino vs Como"
         },
         {
-          "display_title": "5:00 AM <t:1793138400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) English Football League: Oxford United vs Stockport County",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793138400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+          "title": "<t:1793129700:t> (15:35 ET) English Football League: Oxford United vs Stockport County"
         },
         {
-          "display_title": "5:00 AM <t:1793142000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
+          "display_title": "5:00 AM <t:1793152200:t> (21:50 ET) Concacaf Champions Cup: Alianza FC SLV vs CD Marathon",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
           "start": "2026-10-27T12:00:00-04:00",
           "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793142000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "5:00 AM <t:1793152200:t> (21:50 ET) Concacaf Champions Cup: Alianza FC (SLV) vs CD Marathon",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793152200:t> (21:50 ET) Concacaf Champions Cup: Alianza FC (SLV) vs CD Marathon"
-        },
-        {
-          "display_title": "5:00 AM <t:1793156400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793156400:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
-        },
-        {
-          "display_title": "5:00 AM <t:1793121600:t> (13:20 ET) Sassuolo vs Lazio",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793121600:t> (13:20 ET) Sassuolo vs Lazio"
-        },
-        {
-          "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) Fleetwood Town vs Arsenal",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793127600:t> (15:00 ET) Fleetwood Town vs Arsenal"
-        },
-        {
-          "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) Bradford City vs Peterborough United",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793127600:t> (15:00 ET) Bradford City vs Peterborough United"
-        },
-        {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Roma vs Cagliari",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) Roma vs Cagliari"
-        },
-        {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Torino vs Como",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) Torino vs Como"
-        },
-        {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Oxford United vs Stockport County",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) Oxford United vs Stockport County"
-        },
-        {
-          "display_title": "5:00 AM <t:1793152200:t> (21:50 ET) Alianza FC (SLV) vs CD Marathon",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793152200:t> (21:50 ET) Alianza FC (SLV) vs CD Marathon"
+          "title": "<t:1793152200:t> (21:50 ET) Concacaf Champions Cup: Alianza FC SLV vs CD Marathon"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 635351967,
-      "message_timestamp": 1793098838,
+      "message_id": 635382692,
+      "message_timestamp": 1793106023,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T12:28:45.521347+00:00"
+      "updated_at": "2026-10-27T18:08:41.352858+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -568,27 +440,27 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500",
+          "display_title": "2:00 PM <t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500",
           "slot": "AU STAN 001",
           "slot_norm": "AU STAN 1",
-          "start": "2026-10-27T12:00:00+11:00",
-          "stop": "2026-10-28T00:00:00+11:00",
-          "title": "<t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500"
+          "start": "2026-10-28T12:00:00+11:00",
+          "stop": "2026-10-29T00:00:00+11:00",
+          "title": "<t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500"
         },
         {
-          "display_title": "2:00 PM <t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500",
+          "display_title": "2:00 PM <t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500",
           "slot": "AU STAN B 001",
           "slot_norm": "AU STAN B 1",
-          "start": "2026-10-27T12:00:00+11:00",
-          "stop": "2026-10-28T00:00:00+11:00",
-          "title": "<t:1793064600:t> (12:30 AEDT) Tokyo: Day 2 WTA 500"
+          "start": "2026-10-28T12:00:00+11:00",
+          "stop": "2026-10-29T00:00:00+11:00",
+          "title": "<t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 634988067,
-      "message_timestamp": 1793019637,
+      "message_id": 635382782,
+      "message_timestamp": 1793106036,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-26T13:20:51.221937+00:00"
+      "updated_at": "2026-10-27T18:08:42.519852+00:00"
     }
   },
   "version": 1
