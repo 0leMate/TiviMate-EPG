@@ -362,14 +362,6 @@
           "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1793242800:t> (23:00 ET) INKA MMA 62",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-10-28T12:00:00-04:00",
-          "stop": "2026-10-29T00:00:00-04:00",
-          "title": "<t:1793242800:t> (23:00 ET) INKA MMA 62"
-        },
-        {
           "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
           "slot": "PPV D 01",
           "slot_norm": "PPV D 1",
@@ -379,10 +371,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635667896,
-      "message_timestamp": 1793188866,
+      "message_id": 635817947,
+      "message_timestamp": 1793219430,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-28T16:43:41.742845+00:00"
+      "updated_at": "2026-10-28T22:42:54.702379+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

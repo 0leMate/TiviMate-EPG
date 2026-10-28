@@ -7187,7 +7187,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02: 23:00 INKA MMA 62</display-name>
+    <display-name>PPV B 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
@@ -14515,11 +14515,6 @@
   </programme>
   <programme start="20261028120000 -0400" stop="20261029000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.01">
     <title>5:00 AM &lt;t:1793225700:t&gt; (18:15 ET) Millbridge Speedway</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261028120000 -0400" stop="20261029000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>5:00 AM &lt;t:1793242800:t&gt; (23:00 ET) INKA MMA 62</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
