@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 635493072,
-      "message_timestamp": 1793129420,
+      "message_id": 635579314,
+      "message_timestamp": 1793160024,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T22:26:17.892410+00:00"
+      "updated_at": "2026-10-28T08:44:42.220296+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -128,93 +112,197 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) Carabao Cup: Fleetwood Town vs Arsenal",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793127600:t> (15:00 ET) Carabao Cup: Fleetwood Town vs Arsenal"
+          "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Milan vs Bologna",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208000:t> (13:20 ET) Milan vs Bologna"
         },
         {
-          "display_title": "5:00 AM <t:1793127600:t> (15:00 ET) Carabao Cup: Bradford City vs Peterborough United",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793127600:t> (15:00 ET) Carabao Cup: Bradford City vs Peterborough United"
+          "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Venezia vs Inter",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208000:t> (13:20 ET) Venezia vs Inter"
         },
         {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Serie A: Roma vs Cagliari",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) Serie A: Roma vs Cagliari"
+          "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Parma vs Udinese",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208000:t> (13:20 ET) Parma vs Udinese"
         },
         {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) Serie A: Torino vs Como",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) Serie A: Torino vs Como"
+          "display_title": "5:00 AM <t:1793208600:t> (13:30 ET) Bayern vs Real Madrid",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208600:t> (13:30 ET) Bayern vs Real Madrid"
         },
         {
-          "display_title": "5:00 AM <t:1793129700:t> (15:35 ET) English Football League: Oxford United vs Stockport County",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793129700:t> (15:35 ET) English Football League: Oxford United vs Stockport County"
+          "display_title": "5:00 AM <t:1793208600:t> (13:30 ET) Chelsea vs Roma",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208600:t> (13:30 ET) Chelsea vs Roma"
         },
         {
-          "display_title": "5:00 AM <t:1793152200:t> (21:50 ET) Concacaf Champions Cup: Alianza FC SLV vs CD Marathon",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793152200:t> (21:50 ET) Concacaf Champions Cup: Alianza FC SLV vs CD Marathon"
+          "display_title": "5:00 AM <t:1793208600:t> (13:30 ET) Servette vs OH Leuven",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208600:t> (13:30 ET) Servette vs OH Leuven"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) Liverpool vs Chelsea",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) Liverpool vs Chelsea"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) Man. City vs Brighton",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) Man. City vs Brighton"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) AFC Bournemouth vs Aston Villa",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) AFC Bournemouth vs Aston Villa"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) Fulham vs Crystal Palace",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) Fulham vs Crystal Palace"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) Sunderland vs Brentford",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) Sunderland vs Brentford"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) Arsenal vs Benfica",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) Arsenal vs Benfica"
+        },
+        {
+          "display_title": "5:00 AM <t:1793214000:t> (15:00 ET) Lyonnes vs Inter",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793214000:t> (15:00 ET) Lyonnes vs Inter"
+        },
+        {
+          "display_title": "5:00 AM <t:1793216100:t> (15:35 ET) Genoa vs Juventus",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793216100:t> (15:35 ET) Genoa vs Juventus"
+        },
+        {
+          "display_title": "5:00 AM <t:1793216100:t> (15:35 ET) Monza vs Napoli",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793216100:t> (15:35 ET) Monza vs Napoli"
+        },
+        {
+          "display_title": "5:00 AM <t:1793217300:t> (15:55 ET) Heart of Midlothian vs Rangers",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793217300:t> (15:55 ET) Heart of Midlothian vs Rangers"
+        },
+        {
+          "display_title": "5:00 AM <t:1793227800:t> (18:50 ET) Violette AC vs Portmore United FC",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793227800:t> (18:50 ET) Violette AC vs Portmore United FC"
+        },
+        {
+          "display_title": "5:00 AM <t:1793233200:t> (20:20 ET) Saprissa vs LA Firpo",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793233200:t> (20:20 ET) Saprissa vs LA Firpo"
+        },
+        {
+          "display_title": "5:00 AM <t:1793242200:t> (22:50 ET) Club Olimpia vs CS Cartaginés",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793242200:t> (22:50 ET) Club Olimpia vs CS Cartaginés"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 635382692,
-      "message_timestamp": 1793106023,
+      "message_id": 635618591,
+      "message_timestamp": 1793176241,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T18:08:41.352858+00:00"
+      "updated_at": "2026-10-28T08:44:42.329577+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793145600:t> (20:00 ET) WWE Monday Night RAW",
+          "display_title": "5:00 AM <t:1793232000:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793145600:t> (20:00 ET) WWE Monday Night RAW"
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793232000:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1793139300:t> (18:15 ET) Millbridge Speedway",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-27T12:00:00-04:00",
-          "stop": "2026-10-28T00:00:00-04:00",
-          "title": "<t:1793139300:t> (18:15 ET) Millbridge Speedway"
+          "display_title": "5:00 AM <t:1793242800:t> (23:00 ET) INKA MMA 62",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793242800:t> (23:00 ET) INKA MMA 62"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635542384,
-      "message_timestamp": 1793145633,
+      "message_id": 635579418,
+      "message_timestamp": 1793160068,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-28T01:29:43.566813+00:00"
+      "updated_at": "2026-10-28T08:44:42.430761+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
