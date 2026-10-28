@@ -211,10 +211,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635493190,
-      "message_timestamp": 1793129449,
+      "message_id": 635542384,
+      "message_timestamp": 1793145633,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-27T22:26:18.365747+00:00"
+      "updated_at": "2026-10-28T01:29:43.566813+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -350,99 +350,51 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1793126700:t> (18:45 UTC) EFL EFL Trophy Port Vale vs Man City U21",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793126700:t> (18:45 UTC) EFL EFL Trophy Port Vale vs Man City U21"
+          "display_title": "1:00 AM <t:1793213700:t> (18:55 UTC) Man City vs Brighton",
+          "slot": "SKY SPORTS+ B 01",
+          "slot_norm": "SKY SPORTS+ B 1",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793213700:t> (18:55 UTC) Man City vs Brighton"
         },
         {
-          "display_title": "1:00 AM <t:1793126700:t> (18:45 UTC) EFL EFL Trophy Shrewsbury vs Everton U21",
-          "slot": "SKY SPORTS+ 22",
-          "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793126700:t> (18:45 UTC) EFL EFL Trophy Shrewsbury vs Everton U21"
+          "display_title": "1:00 AM <t:1793215800:t> (19:30 UTC) Bournemouth vs Villa",
+          "slot": "SKY SPORTS+ B 02",
+          "slot_norm": "SKY SPORTS+ B 2",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793215800:t> (19:30 UTC) Bournemouth vs Villa"
         },
         {
-          "display_title": "1:00 AM <t:1793127300:t> (18:55 UTC) ATP Tour ATP Tennis F. Cobolli vs G. Dimitrov",
-          "slot": "SKY SPORTS+ 23",
-          "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793127300:t> (18:55 UTC) ATP Tour ATP Tennis F. Cobolli vs G. Dimitrov"
+          "display_title": "1:00 AM <t:1793215800:t> (19:30 UTC) Fulham vs Palace",
+          "slot": "SKY SPORTS+ B 03",
+          "slot_norm": "SKY SPORTS+ B 3",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793215800:t> (19:30 UTC) Fulham vs Palace"
         },
         {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Carabao Cup Bradford vs Peterborough",
-          "slot": "SKY SPORTS+ 24",
-          "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Carabao Cup Bradford vs Peterborough"
+          "display_title": "1:00 AM <t:1793215800:t> (19:30 UTC) Sunderland vs Brentford",
+          "slot": "SKY SPORTS+ B 04",
+          "slot_norm": "SKY SPORTS+ B 4",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793215800:t> (19:30 UTC) Sunderland vs Brentford"
         },
         {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Sky Bet League One Leicester vs Wigan",
-          "slot": "SKY SPORTS+ 25",
-          "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Sky Bet League One Leicester vs Wigan"
-        },
-        {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Sky Bet League One Luton vs Doncaster",
-          "slot": "SKY SPORTS+ 26",
-          "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Sky Bet League One Luton vs Doncaster"
-        },
-        {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Sky Bet League One MK Dons vs Bromley",
-          "slot": "SKY SPORTS+ 27",
-          "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Sky Bet League One MK Dons vs Bromley"
-        },
-        {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Sky Bet League One Oxford Utd vs Stockport",
-          "slot": "SKY SPORTS+ 28",
-          "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Sky Bet League One Oxford Utd vs Stockport"
-        },
-        {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Sky Bet League One Sheff Wed vs Cambridge Utd",
-          "slot": "SKY SPORTS+ 29",
-          "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Sky Bet League One Sheff Wed vs Cambridge Utd"
-        },
-        {
-          "display_title": "1:00 AM <t:1793129400:t> (19:30 UTC) Sky Bet League Two Barnet vs York",
-          "slot": "SKY SPORTS+ 30",
-          "slot_norm": "SKY SPORTS+ 30",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793129400:t> (19:30 UTC) Sky Bet League Two Barnet vs York"
-        },
-        {
-          "display_title": "1:00 AM <t:1793141700:t> (22:55 UTC) NBA Detroit Pistons vs New York Knicks",
-          "slot": "SKY SPORTS+ 31",
-          "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-10-27T12:00:00+00:00",
-          "stop": "2026-10-28T00:00:00+00:00",
-          "title": "<t:1793141700:t> (22:55 UTC) NBA Detroit Pistons vs New York Knicks"
+          "display_title": "1:00 AM <t:1793217600:t> (20:00 UTC) Liverpool vs Chelsea",
+          "slot": "SKY SPORTS+ B 05",
+          "slot_norm": "SKY SPORTS+ B 5",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793217600:t> (20:00 UTC) Liverpool vs Chelsea"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 635366016,
-      "message_timestamp": 1793102442,
+      "message_id": 635542369,
+      "message_timestamp": 1793145628,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-27T12:28:46.281109+00:00"
+      "updated_at": "2026-10-28T01:29:43.695730+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",

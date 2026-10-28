@@ -12457,48 +12457,24 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.21">
-    <display-name>SKY SPORTS+ 21</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <display-name>SKY SPORTS+ B 01</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.22">
-    <display-name>SKY SPORTS+ 22</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.02">
+    <display-name>SKY SPORTS+ B 02</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.23">
-    <display-name>SKY SPORTS+ 23</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.03">
+    <display-name>SKY SPORTS+ B 03</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.24">
-    <display-name>SKY SPORTS+ 24</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.04">
+    <display-name>SKY SPORTS+ B 04</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.25">
-    <display-name>SKY SPORTS+ 25</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.26">
-    <display-name>SKY SPORTS+ 26</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.27">
-    <display-name>SKY SPORTS+ 27</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.28">
-    <display-name>SKY SPORTS+ 28</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.29">
-    <display-name>SKY SPORTS+ 29</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.30">
-    <display-name>SKY SPORTS+ 30</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.31">
-    <display-name>SKY SPORTS+ 31</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.05">
+    <display-name>SKY SPORTS+ B 05</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <programme start="20261028120000 +1100" stop="20261029000000 +1100" channel="custom.AU.STAN.AU.STAN.001">
@@ -14601,58 +14577,28 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.21">
-    <title>1:00 AM &lt;t:1793126700:t&gt; (18:45 UTC) EFL EFL Trophy Port Vale vs Man City U21</title>
+  <programme start="20261028120000 +0000" stop="20261029000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <title>1:00 AM &lt;t:1793213700:t&gt; (18:55 UTC) Man City vs Brighton</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.22">
-    <title>1:00 AM &lt;t:1793126700:t&gt; (18:45 UTC) EFL EFL Trophy Shrewsbury vs Everton U21</title>
+  <programme start="20261028120000 +0000" stop="20261029000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.02">
+    <title>1:00 AM &lt;t:1793215800:t&gt; (19:30 UTC) Bournemouth vs Villa</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.23">
-    <title>1:00 AM &lt;t:1793127300:t&gt; (18:55 UTC) ATP Tour ATP Tennis F. Cobolli vs G. Dimitrov</title>
+  <programme start="20261028120000 +0000" stop="20261029000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.03">
+    <title>1:00 AM &lt;t:1793215800:t&gt; (19:30 UTC) Fulham vs Palace</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.24">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Carabao Cup Bradford vs Peterborough</title>
+  <programme start="20261028120000 +0000" stop="20261029000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.04">
+    <title>1:00 AM &lt;t:1793215800:t&gt; (19:30 UTC) Sunderland vs Brentford</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.25">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Sky Bet League One Leicester vs Wigan</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.26">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Sky Bet League One Luton vs Doncaster</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.27">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Sky Bet League One MK Dons vs Bromley</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.28">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Sky Bet League One Oxford Utd vs Stockport</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.29">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Sky Bet League One Sheff Wed vs Cambridge Utd</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.30">
-    <title>1:00 AM &lt;t:1793129400:t&gt; (19:30 UTC) Sky Bet League Two Barnet vs York</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261027120000 +0000" stop="20261028000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.31">
-    <title>1:00 AM &lt;t:1793141700:t&gt; (22:55 UTC) NBA Detroit Pistons vs New York Knicks</title>
+  <programme start="20261028120000 +0000" stop="20261029000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.05">
+    <title>1:00 AM &lt;t:1793217600:t&gt; (20:00 UTC) Liverpool vs Chelsea</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
