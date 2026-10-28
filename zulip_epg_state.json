@@ -5,18 +5,34 @@
       "events": [
         {
           "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
           "start": "2026-10-28T12:00:00-04:00",
           "stop": "2026-10-29T00:00:00-04:00",
           "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 635579314,
-      "message_timestamp": 1793160024,
+      "message_id": 635733292,
+      "message_timestamp": 1793201432,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-28T08:44:42.220296+00:00"
+      "updated_at": "2026-10-28T16:43:41.157600+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -111,6 +127,38 @@
     "paramount": {
       "channel": "paramount",
       "events": [
+        {
+          "display_title": "5:00 AM <t:1793228400:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 025",
+          "slot_norm": "PARAMOUNT 25",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793228400:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "5:00 AM <t:1793233200:t> (20:20 ET) Concacaf Champions Cup: Saprissa vs LA Firpo",
+          "slot": "PARAMOUNT 026",
+          "slot_norm": "PARAMOUNT 26",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793233200:t> (20:20 ET) Concacaf Champions Cup: Saprissa vs LA Firpo"
+        },
+        {
+          "display_title": "5:00 AM <t:1793242200:t> (22:50 ET) Concacaf Champions Cup: Club Olimpia vs CS Cartaginés",
+          "slot": "PARAMOUNT 027",
+          "slot_norm": "PARAMOUNT 27",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793242200:t> (22:50 ET) Concacaf Champions Cup: Club Olimpia vs CS Cartaginés"
+        },
+        {
+          "display_title": "5:00 AM <t:1793242800:t> (23:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 028",
+          "slot_norm": "PARAMOUNT 28",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793242800:t> (23:00 ET) CBS Sports HQ: Scoreboard Final"
+        },
         {
           "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Milan vs Bologna",
           "slot": "PARAMOUNT B 001",
@@ -262,13 +310,37 @@
           "start": "2026-10-28T12:00:00-04:00",
           "stop": "2026-10-29T00:00:00-04:00",
           "title": "<t:1793242200:t> (22:50 ET) Club Olimpia vs CS Cartaginés"
+        },
+        {
+          "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Serie A: Milan vs Bologna",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208000:t> (13:20 ET) Serie A: Milan vs Bologna"
+        },
+        {
+          "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Serie A: Venezia vs Inter",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208000:t> (13:20 ET) Serie A: Venezia vs Inter"
+        },
+        {
+          "display_title": "5:00 AM <t:1793208000:t> (13:20 ET) Serie A: Parma vs Udinese",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793208000:t> (13:20 ET) Serie A: Parma vs Udinese"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 635618591,
-      "message_timestamp": 1793176241,
+      "message_id": 635703189,
+      "message_timestamp": 1793196077,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-28T08:44:42.329577+00:00"
+      "updated_at": "2026-10-28T16:43:41.465860+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -296,13 +368,21 @@
           "start": "2026-10-28T12:00:00-04:00",
           "stop": "2026-10-29T00:00:00-04:00",
           "title": "<t:1793242800:t> (23:00 ET) INKA MMA 62"
+        },
+        {
+          "display_title": "5:00 AM <t:1793225700:t> (18:15 ET) Millbridge Speedway",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-28T12:00:00-04:00",
+          "stop": "2026-10-29T00:00:00-04:00",
+          "title": "<t:1793225700:t> (18:15 ET) Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635579418,
-      "message_timestamp": 1793160068,
+      "message_id": 635667896,
+      "message_timestamp": 1793188866,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-28T08:44:42.430761+00:00"
+      "updated_at": "2026-10-28T16:43:41.742845+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -438,77 +518,189 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1793213700:t> (18:55 UTC) Man City vs Brighton",
-          "slot": "SKY SPORTS+ B 01",
-          "slot_norm": "SKY SPORTS+ B 1",
+          "display_title": "1:00 AM <t:1793159700:t> (03:55 UTC) WTA Tour WTA Tennis A. Sasnovich vs D. Shnaider",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
           "start": "2026-10-28T12:00:00+00:00",
           "stop": "2026-10-29T00:00:00+00:00",
-          "title": "<t:1793213700:t> (18:55 UTC) Man City vs Brighton"
+          "title": "<t:1793159700:t> (03:55 UTC) WTA Tour WTA Tennis A. Sasnovich vs D. Shnaider"
         },
         {
-          "display_title": "1:00 AM <t:1793215800:t> (19:30 UTC) Bournemouth vs Villa",
-          "slot": "SKY SPORTS+ B 02",
-          "slot_norm": "SKY SPORTS+ B 2",
+          "display_title": "1:00 AM <t:1793170500:t> (06:55 UTC) WTA Tour WTA Tennis S. Hunter/M. Joint vs M. Kobori/A. Shimizu",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
           "start": "2026-10-28T12:00:00+00:00",
           "stop": "2026-10-29T00:00:00+00:00",
-          "title": "<t:1793215800:t> (19:30 UTC) Bournemouth vs Villa"
+          "title": "<t:1793170500:t> (06:55 UTC) WTA Tour WTA Tennis S. Hunter/M. Joint vs M. Kobori/A. Shimizu"
         },
         {
-          "display_title": "1:00 AM <t:1793215800:t> (19:30 UTC) Fulham vs Palace",
-          "slot": "SKY SPORTS+ B 03",
-          "slot_norm": "SKY SPORTS+ B 3",
+          "display_title": "1:00 AM <t:1793174100:t> (07:55 UTC) WTA Tour WTA Tennis A. Eala vs T. Gibson",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
           "start": "2026-10-28T12:00:00+00:00",
           "stop": "2026-10-29T00:00:00+00:00",
-          "title": "<t:1793215800:t> (19:30 UTC) Fulham vs Palace"
+          "title": "<t:1793174100:t> (07:55 UTC) WTA Tour WTA Tennis A. Eala vs T. Gibson"
         },
         {
-          "display_title": "1:00 AM <t:1793215800:t> (19:30 UTC) Sunderland vs Brentford",
-          "slot": "SKY SPORTS+ B 04",
-          "slot_norm": "SKY SPORTS+ B 4",
+          "display_title": "1:00 AM <t:1793174100:t> (07:55 UTC) WTA Tour WTA Tennis H. Dart vs J. Tjen",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
           "start": "2026-10-28T12:00:00+00:00",
           "stop": "2026-10-29T00:00:00+00:00",
-          "title": "<t:1793215800:t> (19:30 UTC) Sunderland vs Brentford"
+          "title": "<t:1793174100:t> (07:55 UTC) WTA Tour WTA Tennis H. Dart vs J. Tjen"
         },
         {
-          "display_title": "1:00 AM <t:1793217600:t> (20:00 UTC) Liverpool vs Chelsea",
-          "slot": "SKY SPORTS+ B 05",
-          "slot_norm": "SKY SPORTS+ B 5",
+          "display_title": "1:00 AM <t:1793174100:t> (07:55 UTC) WTA Tour WTA Tennis M. Kozyreva/M. Lumsden vs I. Haverlag/Z. Kulambayeva",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
           "start": "2026-10-28T12:00:00+00:00",
           "stop": "2026-10-29T00:00:00+00:00",
-          "title": "<t:1793217600:t> (20:00 UTC) Liverpool vs Chelsea"
+          "title": "<t:1793174100:t> (07:55 UTC) WTA Tour WTA Tennis M. Kozyreva/M. Lumsden vs I. Haverlag/Z. Kulambayeva"
+        },
+        {
+          "display_title": "1:00 AM <t:1793181300:t> (09:55 UTC) ATP Tour ATP Tennis M. Navone/A. Tabilo vs C. Frantzén/R. Haase",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793181300:t> (09:55 UTC) ATP Tour ATP Tennis M. Navone/A. Tabilo vs C. Frantzén/R. Haase"
+        },
+        {
+          "display_title": "1:00 AM <t:1793184900:t> (10:55 UTC) WTA Tour WTA Tennis Shi Han vs D. Yastremska",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793184900:t> (10:55 UTC) WTA Tour WTA Tennis Shi Han vs D. Yastremska"
+        },
+        {
+          "display_title": "1:00 AM <t:1793186700:t> (11:25 UTC) ATP Tour ATP Tennis Y. Hanfmann vs J. Struff",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793186700:t> (11:25 UTC) ATP Tour ATP Tennis Y. Hanfmann vs J. Struff"
+        },
+        {
+          "display_title": "1:00 AM <t:1793190300:t> (12:25 UTC) ATP Tour ATP Tennis D. Merida vs D. Medvedev",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793190300:t> (12:25 UTC) ATP Tour ATP Tennis D. Merida vs D. Medvedev"
+        },
+        {
+          "display_title": "1:00 AM <t:1793190300:t> (12:25 UTC) ATP Tour ATP Tennis T. Griekspoor vs B. Nakashima",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793190300:t> (12:25 UTC) ATP Tour ATP Tennis T. Griekspoor vs B. Nakashima"
+        },
+        {
+          "display_title": "1:00 AM <t:1793190300:t> (12:25 UTC) WTA Tour WTA Tennis J. Tjen/V. Williams vs L. Kichenok/M. Ninomiya",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793190300:t> (12:25 UTC) WTA Tour WTA Tennis J. Tjen/V. Williams vs L. Kichenok/M. Ninomiya"
+        },
+        {
+          "display_title": "1:00 AM <t:1793192100:t> (12:55 UTC) ATP Tour ATP Tennis N. Borges vs C. Ruud",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793192100:t> (12:55 UTC) ATP Tour ATP Tennis N. Borges vs C. Ruud"
+        },
+        {
+          "display_title": "1:00 AM <t:1793192100:t> (12:55 UTC) ATP Tour ATP Tennis R. Bertola vs D. Shapovalov",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793192100:t> (12:55 UTC) ATP Tour ATP Tennis R. Bertola vs D. Shapovalov"
+        },
+        {
+          "display_title": "1:00 AM <t:1793195700:t> (13:55 UTC) ATP Tour ATP Tennis F. Cerundolo/T. Etcheverry vs M. Arevalo/M. Pavic",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793195700:t> (13:55 UTC) ATP Tour ATP Tennis F. Cerundolo/T. Etcheverry vs M. Arevalo/M. Pavic"
+        },
+        {
+          "display_title": "1:00 AM <t:1793195700:t> (13:55 UTC) ATP Tour ATP Tennis L. Musetti vs F. Tiafoe",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793195700:t> (13:55 UTC) ATP Tour ATP Tennis L. Musetti vs F. Tiafoe"
+        },
+        {
+          "display_title": "1:00 AM <t:1793195700:t> (13:55 UTC) ATP Tour ATP Tennis S. Bolelli/A. Vavassori vs M. Melo/A. Zverev",
+          "slot": "SKY SPORTS+ 16",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793195700:t> (13:55 UTC) ATP Tour ATP Tennis S. Bolelli/A. Vavassori vs M. Melo/A. Zverev"
+        },
+        {
+          "display_title": "1:00 AM <t:1793197500:t> (14:25 UTC) ATP Tour ATP Tennis H. Nys/E. Roger-Vasselin vs T. Arribage/A. Olivetti",
+          "slot": "SKY SPORTS+ 17",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793197500:t> (14:25 UTC) ATP Tour ATP Tennis H. Nys/E. Roger-Vasselin vs T. Arribage/A. Olivetti"
+        },
+        {
+          "display_title": "1:00 AM <t:1793197500:t> (14:25 UTC) ATP Tour ATP Tennis N. Djokovic vs U. Humbert",
+          "slot": "SKY SPORTS+ 18",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793197500:t> (14:25 UTC) ATP Tour ATP Tennis N. Djokovic vs U. Humbert"
+        },
+        {
+          "display_title": "1:00 AM <t:1793201100:t> (15:25 UTC) ATP Tour ATP Tennis H. Heliovaara/H. Patten vs A. Krajicek/N. Mektic",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-10-28T12:00:00+00:00",
+          "stop": "2026-10-29T00:00:00+00:00",
+          "title": "<t:1793201100:t> (15:25 UTC) ATP Tour ATP Tennis H. Heliovaara/H. Patten vs A. Krajicek/N. Mektic"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 635542369,
-      "message_timestamp": 1793145628,
+      "message_id": 635675599,
+      "message_timestamp": 1793190641,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-28T01:29:43.695730+00:00"
+      "updated_at": "2026-10-28T16:43:42.309574+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-10-28T12:00:00+11:00",
-          "stop": "2026-10-29T00:00:00+11:00",
-          "title": "<t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500"
+          "display_title": "2:00 PM <t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-10-29T12:00:00+11:00",
+          "stop": "2026-10-30T00:00:00+11:00",
+          "title": "<t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500"
         },
         {
-          "display_title": "2:00 PM <t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-10-28T12:00:00+11:00",
-          "stop": "2026-10-29T00:00:00+11:00",
-          "title": "<t:1793151000:t> (12:30 AEDT) Tokyo: Day 3 WTA 500"
+          "display_title": "2:00 PM <t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500",
+          "slot": "AU STAN B 002",
+          "slot_norm": "AU STAN B 2",
+          "start": "2026-10-29T12:00:00+11:00",
+          "stop": "2026-10-30T00:00:00+11:00",
+          "title": "<t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500"
         }
       ],
       "group": "AU STAN",
-      "message_id": 635382782,
-      "message_timestamp": 1793106036,
+      "message_id": 635683917,
+      "message_timestamp": 1793192455,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-27T18:08:42.519852+00:00"
+      "updated_at": "2026-10-28T16:43:42.585859+00:00"
     }
   },
   "version": 1
