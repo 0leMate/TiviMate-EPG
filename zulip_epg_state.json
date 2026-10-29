@@ -113,26 +113,138 @@
       "events": [
         {
           "display_title": "5:00 AM <t:1793294400:t> (13:20 ET) Frosinone vs Lecce",
-          "slot": "PARAMOUNT B 020",
-          "slot_norm": "PARAMOUNT B 20",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
           "title": "<t:1793294400:t> (13:20 ET) Frosinone vs Lecce"
         },
         {
+          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) Austria Wien vs Juventus",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793295000:t> (13:30 ET) Austria Wien vs Juventus"
+        },
+        {
+          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) Paris FC vs BK Häcken",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793295000:t> (13:30 ET) Paris FC vs BK Häcken"
+        },
+        {
+          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) Everton vs Newcastle United",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793300400:t> (15:00 ET) Everton vs Newcastle United"
+        },
+        {
+          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) Man. City vs PSG",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793300400:t> (15:00 ET) Man. City vs PSG"
+        },
+        {
+          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) HB Køge vs Barcelona",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793300400:t> (15:00 ET) HB Køge vs Barcelona"
+        },
+        {
           "display_title": "5:00 AM <t:1793302500:t> (15:35 ET) Fiorentina vs Atalanta",
-          "slot": "PARAMOUNT B 021",
-          "slot_norm": "PARAMOUNT B 21",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
           "title": "<t:1793302500:t> (15:35 ET) Fiorentina vs Atalanta"
+        },
+        {
+          "display_title": "5:00 AM <t:1793325000:t> (21:50 ET) LD Alajuelense vs FC Motagua",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793325000:t> (21:50 ET) LD Alajuelense vs FC Motagua"
+        },
+        {
+          "display_title": "5:00 AM <t:1793294400:t> (13:20 ET) Serie A: Frosinone vs Lecce",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793294400:t> (13:20 ET) Serie A: Frosinone vs Lecce"
+        },
+        {
+          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Austria Wien vs Juventus",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Austria Wien vs Juventus"
+        },
+        {
+          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Paris FC vs BK Häcken",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Paris FC vs BK Häcken"
+        },
+        {
+          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) Carabao Cup: Everton vs Newcastle United",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793300400:t> (15:00 ET) Carabao Cup: Everton vs Newcastle United"
+        },
+        {
+          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) UEFA Women's Champions League: Man City vs PSG",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793300400:t> (15:00 ET) UEFA Women's Champions League: Man City vs PSG"
+        },
+        {
+          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) UEFA Women's Champions League: HB Køge vs Barcelona",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793300400:t> (15:00 ET) UEFA Women's Champions League: HB Køge vs Barcelona"
+        },
+        {
+          "display_title": "5:00 AM <t:1793302500:t> (15:35 ET) Serie A: Fiorentina vs Atalanta",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793302500:t> (15:35 ET) Serie A: Fiorentina vs Atalanta"
+        },
+        {
+          "display_title": "5:00 AM <t:1793325000:t> (21:50 ET) Concacaf Champions Cup: LD Alajuelense vs FC Motagua",
+          "slot": "PARAMOUNT C 08",
+          "slot_norm": "PARAMOUNT C 8",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793325000:t> (21:50 ET) Concacaf Champions Cup: LD Alajuelense vs FC Motagua"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 635887721,
-      "message_timestamp": 1793246446,
+      "message_id": 635960622,
+      "message_timestamp": 1793271623,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T06:03:29.592860+00:00"
+      "updated_at": "2026-10-29T13:22:52.192612+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -168,13 +280,37 @@
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
           "title": "<t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026"
+        },
+        {
+          "display_title": "5:00 AM <t:1793315700:t> (19:15 ET) Trophy Cup at Tulare Thunderbowl",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793315700:t> (19:15 ET) Trophy Cup at Tulare Thunderbowl"
+        },
+        {
+          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
+        },
+        {
+          "display_title": "5:00 AM <t:1793316600:t> (19:30 ET) IWR Monsers Ball",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793316600:t> (19:30 ET) IWR Monsers Ball"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635887740,
-      "message_timestamp": 1793246451,
+      "message_id": 635974388,
+      "message_timestamp": 1793275231,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T06:03:30.015456+00:00"
+      "updated_at": "2026-10-29T13:22:52.259260+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -328,27 +464,43 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-10-29T12:00:00+11:00",
-          "stop": "2026-10-30T00:00:00+11:00",
-          "title": "<t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500"
+          "display_title": "2:00 PM <t:1793323800:t> (12:30 AEDT) Tokyo: Day 5 WTA 500",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-10-30T12:00:00+11:00",
+          "stop": "2026-10-31T00:00:00+11:00",
+          "title": "<t:1793323800:t> (12:30 AEDT) Tokyo: Day 5 WTA 500"
         },
         {
-          "display_title": "2:00 PM <t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500",
+          "display_title": "2:00 PM <t:1793336400:t> (16:00 AEDT) Guangzhou: Day 5 WTA 250",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-10-30T12:00:00+11:00",
+          "stop": "2026-10-31T00:00:00+11:00",
+          "title": "<t:1793336400:t> (16:00 AEDT) Guangzhou: Day 5 WTA 250"
+        },
+        {
+          "display_title": "2:00 PM <t:1793323800:t> (12:30 AEDT) Tokyo: Day 5 WTA 500",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
+          "start": "2026-10-30T12:00:00+11:00",
+          "stop": "2026-10-31T00:00:00+11:00",
+          "title": "<t:1793323800:t> (12:30 AEDT) Tokyo: Day 5 WTA 500"
+        },
+        {
+          "display_title": "2:00 PM <t:1793336400:t> (16:00 AEDT) Guangzhou: Day 5 WTA 250",
           "slot": "AU STAN B 002",
           "slot_norm": "AU STAN B 2",
-          "start": "2026-10-29T12:00:00+11:00",
-          "stop": "2026-10-30T00:00:00+11:00",
-          "title": "<t:1793237400:t> (12:30 AEDT) Tokyo: Day 4 WTA 500"
+          "start": "2026-10-30T12:00:00+11:00",
+          "stop": "2026-10-31T00:00:00+11:00",
+          "title": "<t:1793336400:t> (16:00 AEDT) Guangzhou: Day 5 WTA 250"
         }
       ],
       "group": "AU STAN",
-      "message_id": 635683917,
-      "message_timestamp": 1793192455,
+      "message_id": 635989912,
+      "message_timestamp": 1793278830,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-28T16:43:42.585859+00:00"
+      "updated_at": "2026-10-29T13:22:52.475552+00:00"
     }
   },
   "version": 1
