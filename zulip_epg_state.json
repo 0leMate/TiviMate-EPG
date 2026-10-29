@@ -4,6 +4,14 @@
       "channel": "dirtvision",
       "events": [
         {
+          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
+        },
+        {
           "display_title": "5:00 AM <t:1793312100:t> (18:15 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
@@ -13,10 +21,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 635887628,
-      "message_timestamp": 1793246420,
+      "message_id": 636018083,
+      "message_timestamp": 1793284219,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T06:03:29.210676+00:00"
+      "updated_at": "2026-10-29T19:43:56.220552+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,70 +120,6 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793294400:t> (13:20 ET) Frosinone vs Lecce",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793294400:t> (13:20 ET) Frosinone vs Lecce"
-        },
-        {
-          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) Austria Wien vs Juventus",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793295000:t> (13:30 ET) Austria Wien vs Juventus"
-        },
-        {
-          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) Paris FC vs BK Häcken",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793295000:t> (13:30 ET) Paris FC vs BK Häcken"
-        },
-        {
-          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) Everton vs Newcastle United",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793300400:t> (15:00 ET) Everton vs Newcastle United"
-        },
-        {
-          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) Man. City vs PSG",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793300400:t> (15:00 ET) Man. City vs PSG"
-        },
-        {
-          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) HB Køge vs Barcelona",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793300400:t> (15:00 ET) HB Køge vs Barcelona"
-        },
-        {
-          "display_title": "5:00 AM <t:1793302500:t> (15:35 ET) Fiorentina vs Atalanta",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793302500:t> (15:35 ET) Fiorentina vs Atalanta"
-        },
-        {
-          "display_title": "5:00 AM <t:1793325000:t> (21:50 ET) LD Alajuelense vs FC Motagua",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793325000:t> (21:50 ET) LD Alajuelense vs FC Motagua"
-        },
-        {
           "display_title": "5:00 AM <t:1793294400:t> (13:20 ET) Serie A: Frosinone vs Lecce",
           "slot": "PARAMOUNT C 01",
           "slot_norm": "PARAMOUNT C 1",
@@ -241,21 +185,37 @@
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 635960622,
-      "message_timestamp": 1793271623,
+      "message_id": 636007837,
+      "message_timestamp": 1793282437,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T13:22:52.192612+00:00"
+      "updated_at": "2026-10-29T19:43:56.671150+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793318400:t> (20:00 ET) WWE Monday Night RAW",
+          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793318400:t> (20:00 ET) WWE Monday Night RAW"
+          "title": "<t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte"
+        },
+        {
+          "display_title": "5:00 AM <t:1793315700:t> (19:15 ET) Trophy Cup Tulare",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793315700:t> (19:15 ET) Trophy Cup Tulare"
+        },
+        {
+          "display_title": "5:00 AM <t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026"
         },
         {
           "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte",
@@ -307,10 +267,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 635974388,
-      "message_timestamp": 1793275231,
+      "message_id": 636048819,
+      "message_timestamp": 1793289629,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T13:22:52.259260+00:00"
+      "updated_at": "2026-10-29T19:43:57.121304+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -446,19 +406,75 @@
       "channel": "sky-sports-plus",
       "events": [
         {
+          "display_title": "1:00 AM <t:1793328900:t> (02:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs Hao-Ching Chan/M. Kato",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793328900:t> (02:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs Hao-Ching Chan/M. Kato"
+        },
+        {
+          "display_title": "1:00 AM <t:1793334300:t> (04:25 UTC) WTA Tour WTA Tennis A. Muhammad/Zhang Shuai vs S. Errani/J. Paolini",
+          "slot": "SKY SPORTS+ 22",
+          "slot_norm": "SKY SPORTS+ 22",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793334300:t> (04:25 UTC) WTA Tour WTA Tennis A. Muhammad/Zhang Shuai vs S. Errani/J. Paolini"
+        },
+        {
+          "display_title": "1:00 AM <t:1793336100:t> (04:55 UTC) WTA Tour WTA Tennis P. Badosa vs H. Dart",
+          "slot": "SKY SPORTS+ 23",
+          "slot_norm": "SKY SPORTS+ 23",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793336100:t> (04:55 UTC) WTA Tour WTA Tennis P. Badosa vs H. Dart"
+        },
+        {
+          "display_title": "1:00 AM <t:1793337900:t> (05:25 UTC) WTA Tour WTA Tennis E. Rybakina vs L. Fernandez",
+          "slot": "SKY SPORTS+ 24",
+          "slot_norm": "SKY SPORTS+ 24",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793337900:t> (05:25 UTC) WTA Tour WTA Tennis E. Rybakina vs L. Fernandez"
+        },
+        {
+          "display_title": "1:00 AM <t:1793339700:t> (05:55 UTC) WTA Tour WTA Tennis K. Quevedo vs J. Teichmann",
+          "slot": "SKY SPORTS+ 25",
+          "slot_norm": "SKY SPORTS+ 25",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793339700:t> (05:55 UTC) WTA Tour WTA Tennis K. Quevedo vs J. Teichmann"
+        },
+        {
           "display_title": "1:00 AM <t:1793302200:t> (19:30 UTC) Everton vs Newcastle",
-          "slot": "SKY SPORTS+ B 01",
-          "slot_norm": "SKY SPORTS+ B 1",
+          "slot": "SKY SPORTS+ B 02",
+          "slot_norm": "SKY SPORTS+ B 2",
+          "start": "2026-10-29T12:00:00+00:00",
+          "stop": "2026-10-30T00:00:00+00:00",
+          "title": "<t:1793302200:t> (19:30 UTC) Everton vs Newcastle"
+        },
+        {
+          "display_title": "1:00 AM <t:1793302200:t> (19:30 UTC) Everton vs Newcastle",
+          "slot": "SKY SPORTS+ B 03",
+          "slot_norm": "SKY SPORTS+ B 3",
+          "start": "2026-10-29T12:00:00+00:00",
+          "stop": "2026-10-30T00:00:00+00:00",
+          "title": "<t:1793302200:t> (19:30 UTC) Everton vs Newcastle"
+        },
+        {
+          "display_title": "1:00 AM <t:1793302200:t> (19:30 UTC) Everton vs Newcastle",
+          "slot": "SKY SPORTS+ B 04",
+          "slot_norm": "SKY SPORTS+ B 4",
           "start": "2026-10-29T12:00:00+00:00",
           "stop": "2026-10-30T00:00:00+00:00",
           "title": "<t:1793302200:t> (19:30 UTC) Everton vs Newcastle"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 635853281,
-      "message_timestamp": 1793232033,
+      "message_id": 636089724,
+      "message_timestamp": 1793298635,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-29T06:03:30.753894+00:00"
+      "updated_at": "2026-10-29T19:43:58.074705+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
