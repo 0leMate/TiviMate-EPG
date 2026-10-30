@@ -12,19 +12,19 @@
           "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
         },
         {
-          "display_title": "5:00 AM <t:1793312100:t> (18:15 ET) Millbridge Speedway",
+          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793312100:t> (18:15 ET) Millbridge Speedway"
+          "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 636018083,
-      "message_timestamp": 1793284219,
+      "message_id": 636110477,
+      "message_timestamp": 1793304039,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T19:43:56.220552+00:00"
+      "updated_at": "2026-10-30T00:00:41.102345+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -226,12 +226,12 @@
           "title": "<t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte"
         },
         {
-          "display_title": "5:00 AM <t:1793315700:t> (19:15 ET) Trophy Cup Tulare",
+          "display_title": "5:00 AM <t:1793319300:t> (20:15 ET) Trophy Cup Tulare",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793315700:t> (19:15 ET) Trophy Cup Tulare"
+          "title": "<t:1793319300:t> (20:15 ET) Trophy Cup Tulare"
         },
         {
           "display_title": "5:00 AM <t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026",
@@ -240,6 +240,22 @@
           "start": "2026-10-29T12:00:00-04:00",
           "stop": "2026-10-30T00:00:00-04:00",
           "title": "<t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026"
+        },
+        {
+          "display_title": "5:00 AM <t:1793257200:t> (03:00 ET) Beatdown 15: James vs Stoddart",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793257200:t> (03:00 ET) Beatdown 15: James vs Stoddart"
+        },
+        {
+          "display_title": "5:00 AM <t:1793284200:t> (10:30 ET) ONE Friday Fights 176 & The Inner Circle 36",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-10-29T12:00:00-04:00",
+          "stop": "2026-10-30T00:00:00-04:00",
+          "title": "<t:1793284200:t> (10:30 ET) ONE Friday Fights 176 & The Inner Circle 36"
         },
         {
           "display_title": "5:00 AM <t:1793315700:t> (19:15 ET) Trophy Cup at Tulare Thunderbowl",
@@ -267,10 +283,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636048819,
-      "message_timestamp": 1793289629,
+      "message_id": 636151394,
+      "message_timestamp": 1793318433,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T19:43:57.121304+00:00"
+      "updated_at": "2026-10-30T00:00:41.971505+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -406,6 +422,22 @@
       "channel": "sky-sports-plus",
       "events": [
         {
+          "display_title": "1:00 AM <t:1793323500:t> (01:25 UTC) WTA Tour WTA Tennis K. Rakhimova vs M. Joint",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793323500:t> (01:25 UTC) WTA Tour WTA Tennis K. Rakhimova vs M. Joint"
+        },
+        {
+          "display_title": "1:00 AM <t:1793327100:t> (02:25 UTC) WTA Tour WTA Tennis M. Pohankova vs A. Parks",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793327100:t> (02:25 UTC) WTA Tour WTA Tennis M. Pohankova vs A. Parks"
+        },
+        {
           "display_title": "1:00 AM <t:1793328900:t> (02:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs Hao-Ching Chan/M. Kato",
           "slot": "SKY SPORTS+ 21",
           "slot_norm": "SKY SPORTS+ 21",
@@ -446,35 +478,35 @@
           "title": "<t:1793339700:t> (05:55 UTC) WTA Tour WTA Tennis K. Quevedo vs J. Teichmann"
         },
         {
-          "display_title": "1:00 AM <t:1793302200:t> (19:30 UTC) Everton vs Newcastle",
-          "slot": "SKY SPORTS+ B 02",
-          "slot_norm": "SKY SPORTS+ B 2",
-          "start": "2026-10-29T12:00:00+00:00",
-          "stop": "2026-10-30T00:00:00+00:00",
-          "title": "<t:1793302200:t> (19:30 UTC) Everton vs Newcastle"
+          "display_title": "1:00 AM <t:1793341500:t> (06:25 UTC) WTA Tour WTA Tennis I. Haverlag/Z. Kulambayeva vs Cho I-Hsuan/Cho Yi-Tsen",
+          "slot": "SKY SPORTS+ 26",
+          "slot_norm": "SKY SPORTS+ 26",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793341500:t> (06:25 UTC) WTA Tour WTA Tennis I. Haverlag/Z. Kulambayeva vs Cho I-Hsuan/Cho Yi-Tsen"
         },
         {
-          "display_title": "1:00 AM <t:1793302200:t> (19:30 UTC) Everton vs Newcastle",
-          "slot": "SKY SPORTS+ B 03",
-          "slot_norm": "SKY SPORTS+ B 3",
-          "start": "2026-10-29T12:00:00+00:00",
-          "stop": "2026-10-30T00:00:00+00:00",
-          "title": "<t:1793302200:t> (19:30 UTC) Everton vs Newcastle"
+          "display_title": "1:00 AM <t:1793345100:t> (07:25 UTC) WTA Tour WTA Tennis X. Sun vs C. Liu",
+          "slot": "SKY SPORTS+ 27",
+          "slot_norm": "SKY SPORTS+ 27",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793345100:t> (07:25 UTC) WTA Tour WTA Tennis X. Sun vs C. Liu"
         },
         {
-          "display_title": "1:00 AM <t:1793302200:t> (19:30 UTC) Everton vs Newcastle",
-          "slot": "SKY SPORTS+ B 04",
-          "slot_norm": "SKY SPORTS+ B 4",
-          "start": "2026-10-29T12:00:00+00:00",
-          "stop": "2026-10-30T00:00:00+00:00",
-          "title": "<t:1793302200:t> (19:30 UTC) Everton vs Newcastle"
+          "display_title": "1:00 AM <t:1793346900:t> (07:55 UTC) WTA Tour WTA Tennis A. Eala vs D. Shnaider",
+          "slot": "SKY SPORTS+ 28",
+          "slot_norm": "SKY SPORTS+ 28",
+          "start": "2026-10-30T12:00:00+00:00",
+          "stop": "2026-10-31T00:00:00+00:00",
+          "title": "<t:1793346900:t> (07:55 UTC) WTA Tour WTA Tennis A. Eala vs D. Shnaider"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 636089724,
-      "message_timestamp": 1793298635,
+      "message_id": 636151366,
+      "message_timestamp": 1793318423,
       "timezone": "Europe/London",
-      "updated_at": "2026-10-29T19:43:58.074705+00:00"
+      "updated_at": "2026-10-30T00:00:42.834360+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
