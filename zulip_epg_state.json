@@ -4,27 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte",
+          "display_title": "5:00 AM <t:1793394000:t> (17:00 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793394000:t> (17:00 ET) The Dirt Track at Charlotte"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 636110477,
-      "message_timestamp": 1793304039,
+      "message_id": 636185572,
+      "message_timestamp": 1793332830,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-30T00:00:41.102345+00:00"
+      "updated_at": "2026-10-30T06:04:46.217133+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,173 +112,221 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793294400:t> (13:20 ET) Serie A: Frosinone vs Lecce",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793294400:t> (13:20 ET) Serie A: Frosinone vs Lecce"
+          "display_title": "5:00 AM <t:1793389800:t> (15:50 ET) Sheffield United vs Wrexham",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793389800:t> (15:50 ET) Sheffield United vs Wrexham"
         },
         {
-          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Austria Wien vs Juventus",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Austria Wien vs Juventus"
+          "display_title": "5:00 AM <t:1793394300:t> (17:05 ET) USA Eagles vs England",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793394300:t> (17:05 ET) USA Eagles vs England"
         },
         {
-          "display_title": "5:00 AM <t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Paris FC vs BK Häcken",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793295000:t> (13:30 ET) UEFA Women's Champions League: Paris FC vs BK Häcken"
+          "display_title": "5:00 AM <t:1793397600:t> (18:00 ET) UFC Fight Night Preview Show: Moicano vs Nolan",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793397600:t> (18:00 ET) UFC Fight Night Preview Show: Moicano vs Nolan"
         },
         {
-          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) Carabao Cup: Everton vs Newcastle United",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793300400:t> (15:00 ET) Carabao Cup: Everton vs Newcastle United"
+          "display_title": "5:00 AM <t:1793404200:t> (19:50 ET) USA Eagles vs Australia",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793404200:t> (19:50 ET) USA Eagles vs Australia"
         },
         {
-          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) UEFA Women's Champions League: Man City vs PSG",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793300400:t> (15:00 ET) UEFA Women's Champions League: Man City vs PSG"
-        },
-        {
-          "display_title": "5:00 AM <t:1793300400:t> (15:00 ET) UEFA Women's Champions League: HB Køge vs Barcelona",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793300400:t> (15:00 ET) UEFA Women's Champions League: HB Køge vs Barcelona"
-        },
-        {
-          "display_title": "5:00 AM <t:1793302500:t> (15:35 ET) Serie A: Fiorentina vs Atalanta",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793302500:t> (15:35 ET) Serie A: Fiorentina vs Atalanta"
-        },
-        {
-          "display_title": "5:00 AM <t:1793325000:t> (21:50 ET) Concacaf Champions Cup: LD Alajuelense vs FC Motagua",
-          "slot": "PARAMOUNT C 08",
-          "slot_norm": "PARAMOUNT C 8",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793325000:t> (21:50 ET) Concacaf Champions Cup: LD Alajuelense vs FC Motagua"
+          "display_title": "5:00 AM <t:1793426400:t> (02:00 ET) New Zealand vs France",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-10-31T12:00:00-04:00",
+          "stop": "2026-11-01T00:00:00-04:00",
+          "title": "<t:1793426400:t> (02:00 ET) New Zealand vs France"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 636007837,
-      "message_timestamp": 1793282437,
+      "message_id": 636185864,
+      "message_timestamp": 1793332903,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-29T19:43:56.671150+00:00"
+      "updated_at": "2026-10-30T06:04:46.597100+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte",
+          "display_title": "5:00 AM <t:1793367000:t> (09:30 ET) ONE Friday Fights 176 Khunsuk vs YodUdon",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793367000:t> (09:30 ET) ONE Friday Fights 176 Khunsuk vs YodUdon"
         },
         {
-          "display_title": "5:00 AM <t:1793315700:t> (19:15 ET) Trophy Cup Tulare",
+          "display_title": "5:00 AM <t:1793361600:t> (08:00 ET) ACA 209",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793315700:t> (19:15 ET) Trophy Cup Tulare"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793361600:t> (08:00 ET) ACA 209"
         },
         {
-          "display_title": "5:00 AM <t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026",
+          "display_title": "5:00 AM <t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte"
         },
         {
-          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte",
+          "display_title": "5:00 AM <t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona"
+        },
+        {
+          "display_title": "5:00 AM <t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP"
+        },
+        {
+          "display_title": "5:00 AM <t:1793397600:t> (18:00 ET) National 100 EAMS",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793397600:t> (18:00 ET) National 100 EAMS"
+        },
+        {
+          "display_title": "5:00 AM <t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth"
+        },
+        {
+          "display_title": "5:00 AM <t:1793402100:t> (19:15 ET) Trophy Cup Tulare",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793402100:t> (19:15 ET) Trophy Cup Tulare"
+        },
+        {
+          "display_title": "5:00 AM <t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside"
+        },
+        {
+          "display_title": "5:00 AM <t:1793367000:t> (09:30 ET) ONE Friday Fights 176 Khunsuk vs YodUdon",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793307600:t> (17:00 ET) World Short Track Championship Charlotte"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793367000:t> (09:30 ET) ONE Friday Fights 176 Khunsuk vs YodUdon"
         },
         {
-          "display_title": "5:00 AM <t:1793319300:t> (20:15 ET) Trophy Cup Tulare",
+          "display_title": "5:00 AM <t:1793361600:t> (08:00 ET) ACA 209",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793319300:t> (20:15 ET) Trophy Cup Tulare"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793361600:t> (08:00 ET) ACA 209"
         },
         {
-          "display_title": "5:00 AM <t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026",
+          "display_title": "5:00 AM <t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte",
           "slot": "PPV B 03",
           "slot_norm": "PPV B 3",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793316600:t> (19:30 ET) IWR Monsters Ball 2026"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte"
         },
         {
-          "display_title": "5:00 AM <t:1793257200:t> (03:00 ET) Beatdown 15: James vs Stoddart",
+          "display_title": "5:00 AM <t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona"
+        },
+        {
+          "display_title": "5:00 AM <t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP"
+        },
+        {
+          "display_title": "5:00 AM <t:1793397600:t> (18:00 ET) National 100 EAMS",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793397600:t> (18:00 ET) National 100 EAMS"
+        },
+        {
+          "display_title": "5:00 AM <t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth",
+          "slot": "PPV B 07",
+          "slot_norm": "PPV B 7",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth"
+        },
+        {
+          "display_title": "5:00 AM <t:1793402100:t> (19:15 ET) Trophy Cup Tulare",
+          "slot": "PPV B 08",
+          "slot_norm": "PPV B 8",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793402100:t> (19:15 ET) Trophy Cup Tulare"
+        },
+        {
+          "display_title": "5:00 AM <t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside",
+          "slot": "PPV B 09",
+          "slot_norm": "PPV B 9",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside"
+        },
+        {
+          "display_title": "5:00 AM <t:1793343600:t> (03:00 ET) Beatdown 15: James vs Stoddart",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793257200:t> (03:00 ET) Beatdown 15: James vs Stoddart"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793343600:t> (03:00 ET) Beatdown 15: James vs Stoddart"
         },
         {
-          "display_title": "5:00 AM <t:1793284200:t> (10:30 ET) ONE Friday Fights 176 & The Inner Circle 36",
+          "display_title": "5:00 AM <t:1793370600:t> (10:30 ET) ONE Friday Fights 176 & The Inner Circle 36",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793284200:t> (10:30 ET) ONE Friday Fights 176 & The Inner Circle 36"
-        },
-        {
-          "display_title": "5:00 AM <t:1793315700:t> (19:15 ET) Trophy Cup at Tulare Thunderbowl",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793315700:t> (19:15 ET) Trophy Cup at Tulare Thunderbowl"
-        },
-        {
-          "display_title": "5:00 AM <t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793307600:t> (17:00 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "5:00 AM <t:1793316600:t> (19:30 ET) IWR Monsers Ball",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-10-29T12:00:00-04:00",
-          "stop": "2026-10-30T00:00:00-04:00",
-          "title": "<t:1793316600:t> (19:30 ET) IWR Monsers Ball"
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793370600:t> (10:30 ET) ONE Friday Fights 176 & The Inner Circle 36"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636151394,
-      "message_timestamp": 1793318433,
+      "message_id": 636188989,
+      "message_timestamp": 1793334631,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-30T00:00:41.971505+00:00"
+      "updated_at": "2026-10-30T06:04:46.972594+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
