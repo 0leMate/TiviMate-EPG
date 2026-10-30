@@ -7352,47 +7352,47 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001:</display-name>
+    <display-name>PPV C 001: 08:10 RWS: Jozef Molnar vs Kimluay</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002: 09:30 ONE Friday Fights 176 &amp; The Inner Circle 36</display-name>
+    <display-name>PPV C 002: 10:00 Canelo vs Mbilli</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
     <display-name>PPV C 003</display-name>
-    <display-name>PPV C 003: 15:00 Beat Luke Littler</display-name>
+    <display-name>PPV C 003: 10:00 Canelo vs Mbilli BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.004">
     <display-name>PPV C 004</display-name>
-    <display-name>PPV C 004: 18:45 Beat Luke Littler — UK 10-30</display-name>
+    <display-name>PPV C 004: 10:00 Canelo vs Mbilli BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.005">
     <display-name>PPV C 005</display-name>
-    <display-name>PPV C 005:</display-name>
+    <display-name>PPV C 005: 13:00 OKTAGON 96: Gogoladze vs Klinkhammer</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.006">
     <display-name>PPV C 006</display-name>
-    <display-name>PPV C 006:</display-name>
+    <display-name>PPV C 006: 13:00 OKTAGON 96: Gogoladze vs Klinkhammer BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.007">
     <display-name>PPV C 007</display-name>
-    <display-name>PPV C 007:</display-name>
+    <display-name>PPV C 007: 21:00 UFC Fight Night: Moicano vs Nolan 22:00 ( Prelims UFC Section )</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.008">
     <display-name>PPV C 008</display-name>
-    <display-name>PPV C 008:</display-name>
+    <display-name>PPV C 008: 18:00 UFC Fight Night: Moicano vs Nolan</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.009">
     <display-name>PPV C 009</display-name>
-    <display-name>PPV C 009:</display-name>
+    <display-name>PPV C 009: 18:00 UFC Fight Night: Moicano vs Nolan</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.010">
@@ -15054,111 +15054,6 @@
     <title>11:00 AM Selinsgrove Speedway National Open Night One</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>5:00 AM &lt;t:1793361600:t&gt; (08:00 ET) ACA 209</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.03">
-    <title>5:00 AM &lt;t:1793390400:t&gt; (16:00 ET) World Short Track Championship Charlotte</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>5:00 AM &lt;t:1793391600:t&gt; (16:20 ET) Zenith Racing Series Daytona</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>5:00 AM &lt;t:1793395800:t&gt; (17:30 ET) Iron Man Halloween Nationals PRP</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.06">
-    <title>5:00 AM &lt;t:1793397600:t&gt; (18:00 ET) National 100 EAMS</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.07">
-    <title>5:00 AM &lt;t:1793398800:t&gt; (18:20 ET) Inaugural HalloweenFest Portsmouth</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.08">
-    <title>5:00 AM &lt;t:1793402100:t&gt; (19:15 ET) Trophy Cup Tulare</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.09">
-    <title>5:00 AM &lt;t:1793403000:t&gt; (19:30 ET) Trick R Treat Nationals Riverside</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.10">
-    <title>5:00 AM &lt;t:1793386800:t&gt; (15:00 ET) BEAT LUKE LITTLER</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>5:00 AM &lt;t:1793361600:t&gt; (08:00 ET) ACA 209</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.03">
-    <title>5:00 AM &lt;t:1793390400:t&gt; (16:00 ET) World Short Track Championship Charlotte</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.04">
-    <title>5:00 AM &lt;t:1793391600:t&gt; (16:20 ET) Zenith Racing Series Daytona</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.05">
-    <title>5:00 AM &lt;t:1793395800:t&gt; (17:30 ET) Iron Man Halloween Nationals PRP</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.06">
-    <title>5:00 AM &lt;t:1793397600:t&gt; (18:00 ET) National 100 EAMS</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.07">
-    <title>5:00 AM &lt;t:1793398800:t&gt; (18:20 ET) Inaugural HalloweenFest Portsmouth</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.08">
-    <title>5:00 AM &lt;t:1793402100:t&gt; (19:15 ET) Trophy Cup Tulare</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.09">
-    <title>5:00 AM &lt;t:1793403000:t&gt; (19:30 ET) Trick R Treat Nationals Riverside</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.B.10">
-    <title>5:00 AM &lt;t:1793386800:t&gt; (15:00 ET) BEAT LUKE LITTLER</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.002">
-    <title>5:00 AM &lt;t:1793367000:t&gt; (09:30 ET) ONE Friday Fights 176 &amp; The Inner Circle 36</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.003">
-    <title>5:00 AM &lt;t:1793386800:t&gt; (15:00 ET) Beat Luke Littler</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.004">
-    <title>5:00 AM &lt;t:1793400300:t&gt; (18:45 ET) Beat Luke Littler — UK</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261030120000 -0400" stop="20261031000000 -0400" channel="custom.PAY.PER.VIEW.PPV.D.01">
     <title>5:00 AM &lt;t:1793406600:t&gt; (20:30 ET) Trophy Cup at Tulare Thunderbowl</title>
