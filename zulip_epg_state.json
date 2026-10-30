@@ -12,19 +12,19 @@
           "title": "<t:1793390400:t> (16:00 ET) The Dirt Track at Charlotte"
         },
         {
-          "display_title": "5:00 AM <t:1793394000:t> (17:00 ET) The Dirt Track at Charlotte",
+          "display_title": "5:00 AM <t:1793390400:t> (16:00 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-10-30T12:00:00-04:00",
           "stop": "2026-10-31T00:00:00-04:00",
-          "title": "<t:1793394000:t> (17:00 ET) The Dirt Track at Charlotte"
+          "title": "<t:1793390400:t> (16:00 ET) The Dirt Track at Charlotte"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 636265530,
-      "message_timestamp": 1793359823,
+      "message_id": 636397227,
+      "message_timestamp": 1793388626,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-30T13:14:02.445400+00:00"
+      "updated_at": "2026-10-30T19:31:11.493034+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -306,6 +306,206 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "5:00 AM <t:1793361600:t> (08:00 ET) ACA 209",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793361600:t> (08:00 ET) ACA 209"
+        },
+        {
+          "display_title": "5:00 AM <t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte"
+        },
+        {
+          "display_title": "5:00 AM <t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona"
+        },
+        {
+          "display_title": "5:00 AM <t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP"
+        },
+        {
+          "display_title": "5:00 AM <t:1793397600:t> (18:00 ET) National 100 EAMS",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793397600:t> (18:00 ET) National 100 EAMS"
+        },
+        {
+          "display_title": "5:00 AM <t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth"
+        },
+        {
+          "display_title": "5:00 AM <t:1793402100:t> (19:15 ET) Trophy Cup Tulare",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793402100:t> (19:15 ET) Trophy Cup Tulare"
+        },
+        {
+          "display_title": "5:00 AM <t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside"
+        },
+        {
+          "display_title": "5:00 AM <t:1793386800:t> (15:00 ET) BEAT LUKE LITTLER",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793386800:t> (15:00 ET) BEAT LUKE LITTLER"
+        },
+        {
+          "display_title": "5:00 AM <t:1793361600:t> (08:00 ET) ACA 209",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793361600:t> (08:00 ET) ACA 209"
+        },
+        {
+          "display_title": "5:00 AM <t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793390400:t> (16:00 ET) World Short Track Championship Charlotte"
+        },
+        {
+          "display_title": "5:00 AM <t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793391600:t> (16:20 ET) Zenith Racing Series Daytona"
+        },
+        {
+          "display_title": "5:00 AM <t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793395800:t> (17:30 ET) Iron Man Halloween Nationals PRP"
+        },
+        {
+          "display_title": "5:00 AM <t:1793397600:t> (18:00 ET) National 100 EAMS",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793397600:t> (18:00 ET) National 100 EAMS"
+        },
+        {
+          "display_title": "5:00 AM <t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth",
+          "slot": "PPV B 07",
+          "slot_norm": "PPV B 7",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793398800:t> (18:20 ET) Inaugural HalloweenFest Portsmouth"
+        },
+        {
+          "display_title": "5:00 AM <t:1793402100:t> (19:15 ET) Trophy Cup Tulare",
+          "slot": "PPV B 08",
+          "slot_norm": "PPV B 8",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793402100:t> (19:15 ET) Trophy Cup Tulare"
+        },
+        {
+          "display_title": "5:00 AM <t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside",
+          "slot": "PPV B 09",
+          "slot_norm": "PPV B 9",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793403000:t> (19:30 ET) Trick R Treat Nationals Riverside"
+        },
+        {
+          "display_title": "5:00 AM <t:1793386800:t> (15:00 ET) BEAT LUKE LITTLER",
+          "slot": "PPV B 10",
+          "slot_norm": "PPV B 10",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793386800:t> (15:00 ET) BEAT LUKE LITTLER"
+        },
+        {
+          "display_title": "5:00 AM <t:1793367000:t> (09:30 ET) ONE Friday Fights 176 & The Inner Circle 36",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793367000:t> (09:30 ET) ONE Friday Fights 176 & The Inner Circle 36"
+        },
+        {
+          "display_title": "5:00 AM <t:1793386800:t> (15:00 ET) Beat Luke Littler",
+          "slot": "PPV C 003",
+          "slot_norm": "PPV C 3",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793386800:t> (15:00 ET) Beat Luke Littler"
+        },
+        {
+          "display_title": "5:00 AM <t:1793400300:t> (18:45 ET) Beat Luke Littler — UK",
+          "slot": "PPV C 004",
+          "slot_norm": "PPV C 4",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793400300:t> (18:45 ET) Beat Luke Littler — UK"
+        },
+        {
+          "display_title": "5:00 AM <t:1793406600:t> (20:30 ET) Trophy Cup at Tulare Thunderbowl",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793406600:t> (20:30 ET) Trophy Cup at Tulare Thunderbowl"
+        },
+        {
+          "display_title": "5:00 AM <t:1793391900:t> (16:25 ET) Zenith Racing Series at Daytona",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793391900:t> (16:25 ET) Zenith Racing Series at Daytona"
+        },
+        {
+          "display_title": "5:00 AM <t:1793395800:t> (17:30 ET) IronMan Halloween Nationals at Portsmouth",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793395800:t> (17:30 ET) IronMan Halloween Nationals at Portsmouth"
+        },
+        {
+          "display_title": "5:00 AM <t:1793397600:t> (18:00 ET) National 100 at East Alabama",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
+          "start": "2026-10-30T12:00:00-04:00",
+          "stop": "2026-10-31T00:00:00-04:00",
+          "title": "<t:1793397600:t> (18:00 ET) National 100 at East Alabama"
+        },
+        {
           "display_title": "5:00 AM <t:1793390400:t> (16:00 ET) The Dirt Track at Charlotte",
           "slot": "PPV D 05",
           "slot_norm": "PPV D 5",
@@ -331,10 +531,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636287225,
-      "message_timestamp": 1793365230,
+      "message_id": 636397197,
+      "message_timestamp": 1793388620,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-30T13:14:03.019220+00:00"
+      "updated_at": "2026-10-30T19:31:12.366275+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
