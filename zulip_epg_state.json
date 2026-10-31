@@ -20,19 +20,27 @@
           "title": "<t:1793484000:t> (18:00 ET) Georgetown Speedway"
         },
         {
-          "display_title": "5:00 AM <t:1793476800:t> (16:00 ET) The Dirt Track at Charlotte",
+          "display_title": "5:00 AM <t:1793462100:t> (11:55 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-10-31T12:00:00-04:00",
           "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793476800:t> (16:00 ET) The Dirt Track at Charlotte"
+          "title": "<t:1793462100:t> (11:55 ET) The Dirt Track at Charlotte"
+        },
+        {
+          "display_title": "5:00 AM <t:1793484000:t> (18:00 ET) Georgetown Speedway",
+          "slot": "DIRT B 02",
+          "slot_norm": "DIRT B 2",
+          "start": "2026-10-31T12:00:00-04:00",
+          "stop": "2026-11-01T00:00:00-04:00",
+          "title": "<t:1793484000:t> (18:00 ET) Georgetown Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 636494469,
-      "message_timestamp": 1793440839,
+      "message_id": 636516436,
+      "message_timestamp": 1793455226,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-31T12:50:58.114402+00:00"
+      "updated_at": "2026-10-31T18:39:03.176880+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -266,38 +274,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "5:00 AM <t:1793488500:t> (19:15 ET) Trophy Cup Tolare",
-          "slot": "PPV B 16",
-          "slot_norm": "PPV B 16",
-          "start": "2026-10-31T12:00:00-04:00",
-          "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793488500:t> (19:15 ET) Trophy Cup Tolare"
-        },
-        {
-          "display_title": "5:00 AM <t:1793497500:t> (21:45 ET) ARCA West Kern",
-          "slot": "PPV B 17",
-          "slot_norm": "PPV B 17",
-          "start": "2026-10-31T12:00:00-04:00",
-          "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793497500:t> (21:45 ET) ARCA West Kern"
-        },
-        {
-          "display_title": "5:00 AM <t:1793448600:t> (08:10 ET) RWS: Jozef Molnar vs Kimluay",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-10-31T12:00:00-04:00",
-          "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793448600:t> (08:10 ET) RWS: Jozef Molnar vs Kimluay"
-        },
-        {
-          "display_title": "5:00 AM <t:1793455200:t> (10:00 ET) Canelo vs Mbilli",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-10-31T12:00:00-04:00",
-          "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793455200:t> (10:00 ET) Canelo vs Mbilli"
-        },
-        {
           "display_title": "5:00 AM <t:1793455200:t> (10:00 ET) Canelo vs Mbilli BU",
           "slot": "PPV C 003",
           "slot_norm": "PPV C 3",
@@ -330,12 +306,12 @@
           "title": "<t:1793466000:t> (13:00 ET) OKTAGON 96: Gogoladze vs Klinkhammer BU"
         },
         {
-          "display_title": "5:00 AM <t:1793494800:t> (21:00 ET) UFC Fight Night: Moicano vs Nolan 22:00 ( Prelims UFC Section )",
+          "display_title": "5:00 AM <t:1793484000:t> (18:00 ET) UFC Fight Night: Moicano vs Nolan ( Prelims UFC Section )",
           "slot": "PPV C 007",
           "slot_norm": "PPV C 7",
           "start": "2026-10-31T12:00:00-04:00",
           "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793494800:t> (21:00 ET) UFC Fight Night: Moicano vs Nolan 22:00 ( Prelims UFC Section )"
+          "title": "<t:1793484000:t> (18:00 ET) UFC Fight Night: Moicano vs Nolan ( Prelims UFC Section )"
         },
         {
           "display_title": "5:00 AM <t:1793484000:t> (18:00 ET) UFC Fight Night: Moicano vs Nolan",
@@ -488,13 +464,45 @@
           "start": "2026-10-31T12:00:00-04:00",
           "stop": "2026-11-01T00:00:00-04:00",
           "title": "<t:1793453400:t> (09:30 ET) NASCAR Youth Series at Huntsville"
+        },
+        {
+          "display_title": "5:00 AM <t:1793467800:t> (13:30 ET) Coalfield Classic at Lonesome",
+          "slot": "PPV D 16",
+          "slot_norm": "PPV D 16",
+          "start": "2026-10-31T12:00:00-04:00",
+          "stop": "2026-11-01T00:00:00-04:00",
+          "title": "<t:1793467800:t> (13:30 ET) Coalfield Classic at Lonesome"
+        },
+        {
+          "display_title": "5:00 AM <t:1793497500:t> (21:45 ET) ARCA West at Kevin Harvicks Kern",
+          "slot": "PPV D 17",
+          "slot_norm": "PPV D 17",
+          "start": "2026-10-31T12:00:00-04:00",
+          "stop": "2026-11-01T00:00:00-04:00",
+          "title": "<t:1793497500:t> (21:45 ET) ARCA West at Kevin Harvicks Kern"
+        },
+        {
+          "display_title": "5:00 AM <t:1793462100:t> (11:55 ET) The Dirt Track at Charlotte",
+          "slot": "PPV D 18",
+          "slot_norm": "PPV D 18",
+          "start": "2026-10-31T12:00:00-04:00",
+          "stop": "2026-11-01T00:00:00-04:00",
+          "title": "<t:1793462100:t> (11:55 ET) The Dirt Track at Charlotte"
+        },
+        {
+          "display_title": "5:00 AM <t:1793484000:t> (18:00 ET) Georgetown Speedway",
+          "slot": "PPV D 19",
+          "slot_norm": "PPV D 19",
+          "start": "2026-10-31T12:00:00-04:00",
+          "stop": "2026-11-01T00:00:00-04:00",
+          "title": "<t:1793484000:t> (18:00 ET) Georgetown Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636504776,
-      "message_timestamp": 1793448042,
+      "message_id": 636548845,
+      "message_timestamp": 1793467867,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-31T12:50:58.668215+00:00"
+      "updated_at": "2026-10-31T18:39:03.930606+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -824,171 +832,155 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1793458200:t> (01:50 AEDT) Bournemouth vs Leeds United Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN 022",
-          "slot_norm": "AU STAN 22",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793458200:t> (01:50 AEDT) Bournemouth vs Leeds United Premier League Matchweek 9 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793458500:t> (01:55 AEDT) Saracens vs Newcastle PREM Rugby Round 5 2026/27",
-          "slot": "AU STAN 023",
-          "slot_norm": "AU STAN 23",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793458500:t> (01:55 AEDT) Saracens vs Newcastle PREM Rugby Round 5 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1793458500:t> (01:55 AEDT) Exeter vs Harlequins PREM Rugby Round 5 2026/27",
-          "slot": "AU STAN 024",
-          "slot_norm": "AU STAN 24",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793458500:t> (01:55 AEDT) Exeter vs Harlequins PREM Rugby Round 5 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1793458800:t> (02:00 AEDT) Bath vs Sale PREM Rugby Round 5 2026/27",
-          "slot": "AU STAN 025",
-          "slot_norm": "AU STAN 25",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793458800:t> (02:00 AEDT) Bath vs Sale PREM Rugby Round 5 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1793467200:t> (04:20 AEDT) Tottenham Hotspur vs Crystal Palace Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN 026",
-          "slot_norm": "AU STAN 26",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793467200:t> (04:20 AEDT) Tottenham Hotspur vs Crystal Palace Premier League Matchweek 9 2026/2027"
-        },
-        {
           "display_title": "2:00 PM <t:1793467200:t> (04:20 AEDT) • Tottenham Hotspur vs Crystal Palace Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN 027",
-          "slot_norm": "AU STAN 27",
+          "slot": "AU STAN B 015",
+          "slot_norm": "AU STAN B 15",
           "start": "2026-11-01T12:00:00+11:00",
           "stop": "2026-11-02T00:00:00+11:00",
           "title": "<t:1793467200:t> (04:20 AEDT) • Tottenham Hotspur vs Crystal Palace Premier League Matchweek 9 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1793467500:t> (04:25 AEDT) Northampton vs Gloucester PREM Rugby Round 5 2026/27",
-          "slot": "AU STAN 028",
-          "slot_norm": "AU STAN 28",
+          "slot": "AU STAN B 016",
+          "slot_norm": "AU STAN B 16",
           "start": "2026-11-01T12:00:00+11:00",
           "stop": "2026-11-02T00:00:00+11:00",
           "title": "<t:1793467500:t> (04:25 AEDT) Northampton vs Gloucester PREM Rugby Round 5 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1793389200:t> (06:40 AEDT) Bristol vs Leicester PREM Rugby Round 5 2026/27",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793389200:t> (06:40 AEDT) Bristol vs Leicester PREM Rugby Round 5 2026/27"
+          "display_title": "2:00 PM <t:1793476200:t> (06:50 AEDT) Aston Villa vs Fulham Premier League Matchweek 9 2026/2027",
+          "slot": "AU STAN B 017",
+          "slot_norm": "AU STAN B 17",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793476200:t> (06:50 AEDT) Aston Villa vs Fulham Premier League Matchweek 9 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1793394000:t> (08:00 AEDT) USA vs England WXV 2026",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793394000:t> (08:00 AEDT) USA vs England WXV 2026"
+          "display_title": "2:00 PM <t:1793485800:t> (09:30 AEDT) PL Saturday Wrap: Matchweek 9 Nov 1",
+          "slot": "AU STAN B 018",
+          "slot_norm": "AU STAN B 18",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793485800:t> (09:30 AEDT) PL Saturday Wrap: Matchweek 9 Nov 1"
         },
         {
-          "display_title": "2:00 PM <t:1793404800:t> (11:00 AEDT) USA vs Australia A Men\\`s International 2026",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793404800:t> (11:00 AEDT) USA vs Australia A Men\\`s International 2026"
+          "display_title": "2:00 PM <t:1793502000:t> (14:00 AEDT) Tokyo: Day 7 WTA 500",
+          "slot": "AU STAN B 019",
+          "slot_norm": "AU STAN B 19",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793502000:t> (14:00 AEDT) Tokyo: Day 7 WTA 500"
         },
         {
-          "display_title": "2:00 PM <t:1793415600:t> (14:00 AEDT) Tokyo: Day 6 WTA 500",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793415600:t> (14:00 AEDT) Tokyo: Day 6 WTA 500"
+          "display_title": "2:00 PM <t:1793505300:t> (14:55 AEDT) Yokohama F. Marinos vs Kawasaki Frontale J.League 2026",
+          "slot": "AU STAN B 020",
+          "slot_norm": "AU STAN B 20",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793505300:t> (14:55 AEDT) Yokohama F. Marinos vs Kawasaki Frontale J.League 2026"
         },
         {
-          "display_title": "2:00 PM <t:1793416800:t> (14:20 AEDT) New Zealand U21 vs Australia U21 Women\\`s International 2026",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793416800:t> (14:20 AEDT) New Zealand U21 vs Australia U21 Women\\`s International 2026"
+          "display_title": "2:00 PM <t:1793508900:t> (15:55 AEDT) Ulsan vs Gangwon K League 2026",
+          "slot": "AU STAN B 021",
+          "slot_norm": "AU STAN B 21",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793508900:t> (15:55 AEDT) Ulsan vs Gangwon K League 2026"
         },
         {
-          "display_title": "2:00 PM <t:1793426100:t> (16:55 AEDT) Kashima Antlers vs Cerezo Osaka J.League 2026",
-          "slot": "AU STAN B 007",
-          "slot_norm": "AU STAN B 7",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793426100:t> (16:55 AEDT) Kashima Antlers vs Cerezo Osaka J.League 2026"
+          "display_title": "2:00 PM <t:1793516100:t> (17:55 AEDT) Machida Zelvia vs Gamba Osaka J.League 2026",
+          "slot": "AU STAN B 022",
+          "slot_norm": "AU STAN B 22",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793516100:t> (17:55 AEDT) Machida Zelvia vs Gamba Osaka J.League 2026"
         },
         {
-          "display_title": "2:00 PM <t:1793426400:t> (17:00 AEDT) New Zealand vs France WXV 2026",
-          "slot": "AU STAN B 008",
-          "slot_norm": "AU STAN B 8",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793426400:t> (17:00 AEDT) New Zealand vs France WXV 2026"
+          "display_title": "2:00 PM <t:1793517900:t> (18:25 AEDT) Seoul vs Incheon K League 2026",
+          "slot": "AU STAN B 023",
+          "slot_norm": "AU STAN B 23",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793517900:t> (18:25 AEDT) Seoul vs Incheon K League 2026"
         },
         {
-          "display_title": "2:00 PM <t:1793429400:t> (17:50 AEDT) Japan vs Wales WXV 2026",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793429400:t> (17:50 AEDT) Japan vs Wales WXV 2026"
+          "display_title": "2:00 PM <t:1793520000:t> (19:00 AEDT) Guangzhou: Day 7 WTA 250",
+          "slot": "AU STAN B 024",
+          "slot_norm": "AU STAN B 24",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793520000:t> (19:00 AEDT) Guangzhou: Day 7 WTA 250"
         },
         {
-          "display_title": "2:00 PM <t:1793429700:t> (17:55 AEDT) Kashiwa Reysol vs Urawa Red Diamonds J.League 2026",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793429700:t> (17:55 AEDT) Kashiwa Reysol vs Urawa Red Diamonds J.League 2026"
+          "display_title": "2:00 PM <t:1793533800:t> (22:50 AEDT) London City Lionesses vs Manchester City WSL 2026/27",
+          "slot": "AU STAN B 025",
+          "slot_norm": "AU STAN B 25",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793533800:t> (22:50 AEDT) London City Lionesses vs Manchester City WSL 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1793431500:t> (18:25 AEDT) Gwangju vs Gimcheon K League 2026",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793431500:t> (18:25 AEDT) Gwangju vs Gimcheon K League 2026"
+          "display_title": "2:00 PM <t:1793533800:t> (22:50 AEDT) Arsenal vs Aston Villa WSL 2026/27",
+          "slot": "AU STAN B 026",
+          "slot_norm": "AU STAN B 26",
+          "start": "2026-11-01T12:00:00+11:00",
+          "stop": "2026-11-02T00:00:00+11:00",
+          "title": "<t:1793533800:t> (22:50 AEDT) Arsenal vs Aston Villa WSL 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1793435400:t> (19:30 AEDT) Guangzhou: Day 6 WTA 250",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793435400:t> (19:30 AEDT) Guangzhou: Day 6 WTA 250"
+          "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) Birmingham City vs Tottenham Hotspur WSL 2026/27",
+          "slot": "AU STAN B 027",
+          "slot_norm": "AU STAN B 27",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793541000:t> (00:50 AEDT) Birmingham City vs Tottenham Hotspur WSL 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1793446200:t> (22:30 AEDT) Chelsea vs Manchester United Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 013",
-          "slot_norm": "AU STAN B 13",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793446200:t> (22:30 AEDT) Chelsea vs Manchester United Premier League Matchweek 9 2026/2027"
+          "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) Brighton & Hove Albion vs Crystal Palace WSL 2026/27",
+          "slot": "AU STAN B 028",
+          "slot_norm": "AU STAN B 28",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793541000:t> (00:50 AEDT) Brighton & Hove Albion vs Crystal Palace WSL 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1793449200:t> (23:20 AEDT) • Chelsea vs Manchester United Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 014",
-          "slot_norm": "AU STAN B 14",
-          "start": "2026-10-31T12:00:00+11:00",
-          "stop": "2026-11-01T00:00:00+11:00",
-          "title": "<t:1793449200:t> (23:20 AEDT) • Chelsea vs Manchester United Premier League Matchweek 9 2026/2027"
+          "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) West Ham United vs Liverpool WSL 2026/27",
+          "slot": "AU STAN B 029",
+          "slot_norm": "AU STAN B 29",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793541000:t> (00:50 AEDT) West Ham United vs Liverpool WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1793542800:t> (01:20 AEDT) Charlton Athletic vs Chelsea WSL 2026/27",
+          "slot": "AU STAN B 030",
+          "slot_norm": "AU STAN B 30",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793542800:t> (01:20 AEDT) Charlton Athletic vs Chelsea WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1793547000:t> (02:30 AEDT) Liverpool vs Arsenal Premier League Matchweek 9 2026/2027",
+          "slot": "AU STAN B 031",
+          "slot_norm": "AU STAN B 31",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793547000:t> (02:30 AEDT) Liverpool vs Arsenal Premier League Matchweek 9 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793550000:t> (03:20 AEDT) • Liverpool vs Arsenal Premier League Matchweek 9 2026/2027",
+          "slot": "AU STAN B 032",
+          "slot_norm": "AU STAN B 32",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793550000:t> (03:20 AEDT) • Liverpool vs Arsenal Premier League Matchweek 9 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 636287385,
-      "message_timestamp": 1793365256,
+      "message_id": 636512733,
+      "message_timestamp": 1793453440,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-30T13:14:03.889422+00:00"
+      "updated_at": "2026-10-31T18:39:05.175794+00:00"
     }
   },
   "version": 1
