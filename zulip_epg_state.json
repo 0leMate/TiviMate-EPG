@@ -275,14 +275,6 @@
       "events": [
         {
           "display_title": "5:00 AM <t:1793455200:t> (10:00 ET) Canelo vs Mbilli BU",
-          "slot": "PPV C 003",
-          "slot_norm": "PPV C 3",
-          "start": "2026-10-31T12:00:00-04:00",
-          "stop": "2026-11-01T00:00:00-04:00",
-          "title": "<t:1793455200:t> (10:00 ET) Canelo vs Mbilli BU"
-        },
-        {
-          "display_title": "5:00 AM <t:1793455200:t> (10:00 ET) Canelo vs Mbilli BU",
           "slot": "PPV C 004",
           "slot_norm": "PPV C 4",
           "start": "2026-10-31T12:00:00-04:00",
@@ -499,10 +491,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636548845,
-      "message_timestamp": 1793467867,
+      "message_id": 636595248,
+      "message_timestamp": 1793487632,
       "timezone": "America/New_York",
-      "updated_at": "2026-10-31T18:39:03.930606+00:00"
+      "updated_at": "2026-10-31T23:29:04.277260+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

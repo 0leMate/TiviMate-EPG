@@ -7212,7 +7212,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.07">
     <display-name>PPV B 07</display-name>
-    <display-name>PPV B 07: 13:30 Ares 44</display-name>
+    <display-name>PPV B 07:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.08">
@@ -14772,11 +14772,6 @@
     <title>11:00 AM Selinsgrove Speedway National Open Night One</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
-  </programme>
-  <programme start="20261031120000 -0400" stop="20261101000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.003">
-    <title>5:00 AM &lt;t:1793455200:t&gt; (10:00 ET) Canelo vs Mbilli BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261031120000 -0400" stop="20261101000000 -0400" channel="custom.PAY.PER.VIEW.PPV.C.004">
     <title>5:00 AM &lt;t:1793455200:t&gt; (10:00 ET) Canelo vs Mbilli BU</title>
