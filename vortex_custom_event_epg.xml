@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 10:00 National 100 at EAMS</display-name>
+    <display-name>PPV 01: 18:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7182,7 +7182,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 10:00 National 100 at EAMS</display-name>
+    <display-name>PPV B 01: 18:00 WWE Monday Night RAW</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
@@ -14712,7 +14712,7 @@
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
   <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1793545200:t&gt; (10:00 ET) National 100 at EAMS</title>
+    <title>6:00 AM &lt;t:1793574000:t&gt; (18:00 ET) WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14727,7 +14727,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>6:00 AM &lt;t:1793545200:t&gt; (10:00 ET) National 100 at EAMS</title>
+    <title>6:00 AM &lt;t:1793574000:t&gt; (18:00 ET) WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -18071,118 +18071,118 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.001">
-    <title>6:00 AM &lt;t:1793530800:t&gt; (06:00 ET) CBS Sports HQ: Scoreboard Final</title>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.005">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Frosinone vs Torino</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.002">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.006">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Sheffield Wednesday vs Blackpool</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.007">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) West Ham United vs Liverpool</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.008">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Birmingham City vs Tottenham</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.009">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Brighton vs Crystal Palace</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.010">
+    <title>6:00 AM &lt;t:1793541300:t&gt; (08:55 ET) Falkirk vs Celtic</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.011">
+    <title>6:00 AM &lt;t:1793541600:t&gt; (09:00 ET) Charlton Athletic vs Chelsea</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.012">
+    <title>6:00 AM &lt;t:1793544900:t&gt; (09:55 ET) Heart of Midlothian vs Hibernian</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.013">
+    <title>6:00 AM &lt;t:1793551800:t&gt; (11:50 ET) Lecce vs Genoa</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.014">
+    <title>6:00 AM &lt;t:1793559600:t&gt; (14:00 ET) Juventus vs Napoli</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.01">
     <title>6:00 AM &lt;t:1793532000:t&gt; (06:20 ET) Serie A: Como vs Venezia</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.003">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.02">
+    <title>6:00 AM &lt;t:1793533800:t&gt; (06:50 ET) Barclays Women&#x27;s Super League: London City vs Man City</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.03">
     <title>6:00 AM &lt;t:1793533800:t&gt; (06:50 ET) Barclays Women&#x27;s Super League: Arsenal vs Aston Villa</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.004">
-    <title>6:00 AM &lt;t:1793533800:t&gt; (06:50 ET) Barclays Women&#x27;s Super League: London City vs Man. City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.005">
-    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) English Football League: Sheffield Wednesday vs Blackpool</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.006">
-    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Barclays Women&#x27;s Super League: Birmingham City vs Tottenham</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.007">
-    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Barclays Women&#x27;s Super League: Brighton vs Crystal Palace</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.008">
-    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Barclays Women&#x27;s Super League: West Ham United vs Liverpool</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.009">
-    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Serie A: Frosinone vs Torino</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.010">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.04">
     <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Serie A: Lazio vs Cagliari</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.011">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.05">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Serie A: Frosinone vs Torino</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.06">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) English Football League: Sheffield Wednesday vs Blackpool</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.07">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Barclays Women&#x27;s Super League: West Ham United vs Liverpool</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.08">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Barclays Women&#x27;s Super League: Birmingham City vs Tottenham</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.09">
+    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Barclays Women&#x27;s Super League: Brighton vs Crystal Palace</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.10">
     <title>6:00 AM &lt;t:1793541300:t&gt; (08:55 ET) Scottish Professional Football League: Falkirk vs Celtic</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.012">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.11">
     <title>6:00 AM &lt;t:1793541600:t&gt; (09:00 ET) Barclays Women&#x27;s Super League: Charlton Athletic vs Chelsea</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.013">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.12">
     <title>6:00 AM &lt;t:1793544900:t&gt; (09:55 ET) Scottish Professional Football League: Heart of Midlothian vs Hibernian</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.014">
-    <title>6:00 AM &lt;t:1793545200:t&gt; (10:00 ET) CBS Sports HQ: The NFL Today +</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.015">
+  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.13">
     <title>6:00 AM &lt;t:1793551800:t&gt; (11:50 ET) Serie A: Lecce vs Genoa</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.016">
-    <title>6:00 AM &lt;t:1793552400:t&gt; (12:00 ET) CBS Sports HQ: Gameday Pregame</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.017">
-    <title>6:00 AM &lt;t:1793556000:t&gt; (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.018">
-    <title>6:00 AM &lt;t:1793559600:t&gt; (14:00 ET) Serie A: Juventus vs Napoli</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.019">
-    <title>6:00 AM &lt;t:1793577600:t&gt; (19:00 ET) CBS Sports HQ: The Postgame</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.001">
-    <title>6:00 AM &lt;t:1793532000:t&gt; (06:20 ET) Como vs Venezia</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.002">
-    <title>6:00 AM &lt;t:1793533800:t&gt; (06:50 ET) London City vs Man. City</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.003">
-    <title>6:00 AM &lt;t:1793533800:t&gt; (06:50 ET) Arsenal vs Aston Villa</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261101120000 -0500" stop="20261102000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.004">
-    <title>6:00 AM &lt;t:1793541000:t&gt; (08:50 ET) Lazio vs Cagliari</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>

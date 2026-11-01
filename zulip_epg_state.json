@@ -120,206 +120,206 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793530800:t> (06:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Frosinone vs Torino",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793530800:t> (06:00 ET) CBS Sports HQ: Scoreboard Final"
+          "title": "<t:1793541000:t> (08:50 ET) Frosinone vs Torino"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Sheffield Wednesday vs Blackpool",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Sheffield Wednesday vs Blackpool"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) West Ham United vs Liverpool",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) West Ham United vs Liverpool"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Birmingham City vs Tottenham",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Birmingham City vs Tottenham"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Brighton vs Crystal Palace",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Brighton vs Crystal Palace"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541300:t> (08:55 ET) Falkirk vs Celtic",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541300:t> (08:55 ET) Falkirk vs Celtic"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541600:t> (09:00 ET) Charlton Athletic vs Chelsea",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541600:t> (09:00 ET) Charlton Athletic vs Chelsea"
+        },
+        {
+          "display_title": "6:00 AM <t:1793544900:t> (09:55 ET) Heart of Midlothian vs Hibernian",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793544900:t> (09:55 ET) Heart of Midlothian vs Hibernian"
+        },
+        {
+          "display_title": "6:00 AM <t:1793551800:t> (11:50 ET) Lecce vs Genoa",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793551800:t> (11:50 ET) Lecce vs Genoa"
+        },
+        {
+          "display_title": "6:00 AM <t:1793559600:t> (14:00 ET) Juventus vs Napoli",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793559600:t> (14:00 ET) Juventus vs Napoli"
         },
         {
           "display_title": "6:00 AM <t:1793532000:t> (06:20 ET) Serie A: Como vs Venezia",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793532000:t> (06:20 ET) Serie A: Como vs Venezia"
         },
         {
+          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Barclays Women's Super League: London City vs Man City",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793533800:t> (06:50 ET) Barclays Women's Super League: London City vs Man City"
+        },
+        {
           "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Barclays Women's Super League: Arsenal vs Aston Villa",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793533800:t> (06:50 ET) Barclays Women's Super League: Arsenal vs Aston Villa"
         },
         {
-          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Barclays Women's Super League: London City vs Man. City",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Serie A: Lazio vs Cagliari",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793533800:t> (06:50 ET) Barclays Women's Super League: London City vs Man. City"
+          "title": "<t:1793541000:t> (08:50 ET) Serie A: Lazio vs Cagliari"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Serie A: Frosinone vs Torino",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Serie A: Frosinone vs Torino"
         },
         {
           "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) English Football League: Sheffield Wednesday vs Blackpool",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793541000:t> (08:50 ET) English Football League: Sheffield Wednesday vs Blackpool"
         },
         {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Liverpool",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Liverpool"
+        },
+        {
           "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: Birmingham City vs Tottenham",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
+          "slot": "PARAMOUNT C 08",
+          "slot_norm": "PARAMOUNT C 8",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: Birmingham City vs Tottenham"
         },
         {
           "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: Brighton vs Crystal Palace",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
+          "slot": "PARAMOUNT C 09",
+          "slot_norm": "PARAMOUNT C 9",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: Brighton vs Crystal Palace"
         },
         {
-          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Liverpool",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Liverpool"
-        },
-        {
-          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Serie A: Frosinone vs Torino",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793541000:t> (08:50 ET) Serie A: Frosinone vs Torino"
-        },
-        {
-          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Serie A: Lazio vs Cagliari",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793541000:t> (08:50 ET) Serie A: Lazio vs Cagliari"
-        },
-        {
           "display_title": "6:00 AM <t:1793541300:t> (08:55 ET) Scottish Professional Football League: Falkirk vs Celtic",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
+          "slot": "PARAMOUNT C 10",
+          "slot_norm": "PARAMOUNT C 10",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793541300:t> (08:55 ET) Scottish Professional Football League: Falkirk vs Celtic"
         },
         {
           "display_title": "6:00 AM <t:1793541600:t> (09:00 ET) Barclays Women's Super League: Charlton Athletic vs Chelsea",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
+          "slot": "PARAMOUNT C 11",
+          "slot_norm": "PARAMOUNT C 11",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793541600:t> (09:00 ET) Barclays Women's Super League: Charlton Athletic vs Chelsea"
         },
         {
           "display_title": "6:00 AM <t:1793544900:t> (09:55 ET) Scottish Professional Football League: Heart of Midlothian vs Hibernian",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
+          "slot": "PARAMOUNT C 12",
+          "slot_norm": "PARAMOUNT C 12",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793544900:t> (09:55 ET) Scottish Professional Football League: Heart of Midlothian vs Hibernian"
         },
         {
-          "display_title": "6:00 AM <t:1793545200:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793545200:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
-        },
-        {
           "display_title": "6:00 AM <t:1793551800:t> (11:50 ET) Serie A: Lecce vs Genoa",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
+          "slot": "PARAMOUNT C 13",
+          "slot_norm": "PARAMOUNT C 13",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
           "title": "<t:1793551800:t> (11:50 ET) Serie A: Lecce vs Genoa"
-        },
-        {
-          "display_title": "6:00 AM <t:1793552400:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
-          "slot": "PARAMOUNT 016",
-          "slot_norm": "PARAMOUNT 16",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793552400:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
-        },
-        {
-          "display_title": "6:00 AM <t:1793556000:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
-          "slot": "PARAMOUNT 017",
-          "slot_norm": "PARAMOUNT 17",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793556000:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
-        },
-        {
-          "display_title": "6:00 AM <t:1793559600:t> (14:00 ET) Serie A: Juventus vs Napoli",
-          "slot": "PARAMOUNT 018",
-          "slot_norm": "PARAMOUNT 18",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793559600:t> (14:00 ET) Serie A: Juventus vs Napoli"
-        },
-        {
-          "display_title": "6:00 AM <t:1793577600:t> (19:00 ET) CBS Sports HQ: The Postgame",
-          "slot": "PARAMOUNT 019",
-          "slot_norm": "PARAMOUNT 19",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793577600:t> (19:00 ET) CBS Sports HQ: The Postgame"
-        },
-        {
-          "display_title": "6:00 AM <t:1793532000:t> (06:20 ET) Como vs Venezia",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793532000:t> (06:20 ET) Como vs Venezia"
-        },
-        {
-          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) London City vs Man. City",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793533800:t> (06:50 ET) London City vs Man. City"
-        },
-        {
-          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Arsenal vs Aston Villa",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793533800:t> (06:50 ET) Arsenal vs Aston Villa"
-        },
-        {
-          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Lazio vs Cagliari",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793541000:t> (08:50 ET) Lazio vs Cagliari"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 636660849,
-      "message_timestamp": 1793532737,
+      "message_id": 636728156,
+      "message_timestamp": 1793572277,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-01T13:40:09.467677+00:00"
+      "updated_at": "2026-11-01T23:42:05.735961+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793545200:t> (10:00 ET) National 100 at EAMS",
+          "display_title": "6:00 AM <t:1793574000:t> (18:00 ET) WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793545200:t> (10:00 ET) National 100 at EAMS"
+          "title": "<t:1793574000:t> (18:00 ET) WWE Monday Night RAW"
         },
         {
           "display_title": "6:00 AM <t:1793577600:t> (19:00 ET) Anthony Pettis FC 26",
@@ -338,12 +338,12 @@
           "title": "<t:1793570400:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)"
         },
         {
-          "display_title": "6:00 AM <t:1793545200:t> (10:00 ET) National 100 at EAMS",
+          "display_title": "6:00 AM <t:1793574000:t> (18:00 ET) WWE Monday Night RAW",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793545200:t> (10:00 ET) National 100 at EAMS"
+          "title": "<t:1793574000:t> (18:00 ET) WWE Monday Night RAW"
         },
         {
           "display_title": "6:00 AM <t:1793577600:t> (19:00 ET) Anthony Pettis FC 26",
@@ -379,10 +379,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636663001,
-      "message_timestamp": 1793534503,
+      "message_id": 636731276,
+      "message_timestamp": 1793574037,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-01T13:40:09.773213+00:00"
+      "updated_at": "2026-11-01T23:42:06.193490+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
