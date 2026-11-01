@@ -120,59 +120,195 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793535600:t> (07:20 ET) Como vs Venezia",
-          "slot": "PARAMOUNT B 019",
-          "slot_norm": "PARAMOUNT B 19",
+          "display_title": "6:00 AM <t:1793530800:t> (06:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793535600:t> (07:20 ET) Como vs Venezia"
+          "title": "<t:1793530800:t> (06:00 ET) CBS Sports HQ: Scoreboard Final"
         },
         {
-          "display_title": "6:00 AM <t:1793537400:t> (07:50 ET) London City vs Man. City",
-          "slot": "PARAMOUNT B 020",
-          "slot_norm": "PARAMOUNT B 20",
+          "display_title": "6:00 AM <t:1793532000:t> (06:20 ET) Serie A: Como vs Venezia",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793537400:t> (07:50 ET) London City vs Man. City"
+          "title": "<t:1793532000:t> (06:20 ET) Serie A: Como vs Venezia"
         },
         {
-          "display_title": "6:00 AM <t:1793544600:t> (09:50 ET) Lazio vs Cagliari",
-          "slot": "PARAMOUNT B 021",
-          "slot_norm": "PARAMOUNT B 21",
+          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Barclays Women's Super League: Arsenal vs Aston Villa",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793544600:t> (09:50 ET) Lazio vs Cagliari"
+          "title": "<t:1793533800:t> (06:50 ET) Barclays Women's Super League: Arsenal vs Aston Villa"
         },
         {
-          "display_title": "6:00 AM <t:1793544600:t> (09:50 ET) Frosinone vs Torino",
-          "slot": "PARAMOUNT B 022",
-          "slot_norm": "PARAMOUNT B 22",
+          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Barclays Women's Super League: London City vs Man. City",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793544600:t> (09:50 ET) Frosinone vs Torino"
+          "title": "<t:1793533800:t> (06:50 ET) Barclays Women's Super League: London City vs Man. City"
         },
         {
-          "display_title": "6:00 AM <t:1793555400:t> (12:50 ET) Lecce vs Genoa",
-          "slot": "PARAMOUNT B 023",
-          "slot_norm": "PARAMOUNT B 23",
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) English Football League: Sheffield Wednesday vs Blackpool",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793555400:t> (12:50 ET) Lecce vs Genoa"
+          "title": "<t:1793541000:t> (08:50 ET) English Football League: Sheffield Wednesday vs Blackpool"
         },
         {
-          "display_title": "6:00 AM <t:1793563200:t> (15:00 ET) Juventus vs Napoli",
-          "slot": "PARAMOUNT B 024",
-          "slot_norm": "PARAMOUNT B 24",
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: Birmingham City vs Tottenham",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793563200:t> (15:00 ET) Juventus vs Napoli"
+          "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: Birmingham City vs Tottenham"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: Brighton vs Crystal Palace",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: Brighton vs Crystal Palace"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Liverpool",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Liverpool"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Serie A: Frosinone vs Torino",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Serie A: Frosinone vs Torino"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Serie A: Lazio vs Cagliari",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Serie A: Lazio vs Cagliari"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541300:t> (08:55 ET) Scottish Professional Football League: Falkirk vs Celtic",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541300:t> (08:55 ET) Scottish Professional Football League: Falkirk vs Celtic"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541600:t> (09:00 ET) Barclays Women's Super League: Charlton Athletic vs Chelsea",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541600:t> (09:00 ET) Barclays Women's Super League: Charlton Athletic vs Chelsea"
+        },
+        {
+          "display_title": "6:00 AM <t:1793544900:t> (09:55 ET) Scottish Professional Football League: Heart of Midlothian vs Hibernian",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793544900:t> (09:55 ET) Scottish Professional Football League: Heart of Midlothian vs Hibernian"
+        },
+        {
+          "display_title": "6:00 AM <t:1793545200:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793545200:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
+        },
+        {
+          "display_title": "6:00 AM <t:1793551800:t> (11:50 ET) Serie A: Lecce vs Genoa",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793551800:t> (11:50 ET) Serie A: Lecce vs Genoa"
+        },
+        {
+          "display_title": "6:00 AM <t:1793552400:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
+          "slot": "PARAMOUNT 016",
+          "slot_norm": "PARAMOUNT 16",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793552400:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
+        },
+        {
+          "display_title": "6:00 AM <t:1793556000:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
+          "slot": "PARAMOUNT 017",
+          "slot_norm": "PARAMOUNT 17",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793556000:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
+        },
+        {
+          "display_title": "6:00 AM <t:1793559600:t> (14:00 ET) Serie A: Juventus vs Napoli",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793559600:t> (14:00 ET) Serie A: Juventus vs Napoli"
+        },
+        {
+          "display_title": "6:00 AM <t:1793577600:t> (19:00 ET) CBS Sports HQ: The Postgame",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793577600:t> (19:00 ET) CBS Sports HQ: The Postgame"
+        },
+        {
+          "display_title": "6:00 AM <t:1793532000:t> (06:20 ET) Como vs Venezia",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793532000:t> (06:20 ET) Como vs Venezia"
+        },
+        {
+          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) London City vs Man. City",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793533800:t> (06:50 ET) London City vs Man. City"
+        },
+        {
+          "display_title": "6:00 AM <t:1793533800:t> (06:50 ET) Arsenal vs Aston Villa",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793533800:t> (06:50 ET) Arsenal vs Aston Villa"
+        },
+        {
+          "display_title": "6:00 AM <t:1793541000:t> (08:50 ET) Lazio vs Cagliari",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-01T12:00:00-05:00",
+          "stop": "2026-11-02T00:00:00-05:00",
+          "title": "<t:1793541000:t> (08:50 ET) Lazio vs Cagliari"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 636623635,
-      "message_timestamp": 1793505646,
+      "message_id": 636660849,
+      "message_timestamp": 1793532737,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-01T06:28:14.463139+00:00"
+      "updated_at": "2026-11-01T13:40:09.467677+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -234,51 +370,19 @@
           "title": "<t:1793530800:t> (06:00 ET) Naiza FC 86 BU"
         },
         {
-          "display_title": "6:00 AM <t:1793570400:t> (17:00 ET) UFC Fight Night: Moicano vs Nolan ( Prelims UFC Section )",
-          "slot": "PPV C 007",
-          "slot_norm": "PPV C 7",
+          "display_title": "6:00 AM <t:1793545200:t> (10:00 ET) National 100 at East Alabama",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
           "start": "2026-11-01T12:00:00-05:00",
           "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793570400:t> (17:00 ET) UFC Fight Night: Moicano vs Nolan ( Prelims UFC Section )"
-        },
-        {
-          "display_title": "6:00 AM <t:1793570400:t> (17:00 ET) UFC Fight Night: Moicano vs Nolan",
-          "slot": "PPV C 008",
-          "slot_norm": "PPV C 8",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793570400:t> (17:00 ET) UFC Fight Night: Moicano vs Nolan"
-        },
-        {
-          "display_title": "6:00 AM <t:1793570400:t> (17:00 ET) UFC Fight Night: Moicano vs Nolan",
-          "slot": "PPV C 009",
-          "slot_norm": "PPV C 9",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793570400:t> (17:00 ET) UFC Fight Night: Moicano vs Nolan"
-        },
-        {
-          "display_title": "6:00 AM <t:1793574000:t> (18:00 ET) WWE NXT Halloween Havoc",
-          "slot": "PPV C 010",
-          "slot_norm": "PPV C 10",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793574000:t> (18:00 ET) WWE NXT Halloween Havoc"
-        },
-        {
-          "display_title": "6:00 AM <t:1793574000:t> (18:00 ET) WWE NXT Halloween Havoc BU",
-          "slot": "PPV C 011",
-          "slot_norm": "PPV C 11",
-          "start": "2026-11-01T12:00:00-05:00",
-          "stop": "2026-11-02T00:00:00-05:00",
-          "title": "<t:1793574000:t> (18:00 ET) WWE NXT Halloween Havoc BU"
+          "title": "<t:1793545200:t> (10:00 ET) National 100 at East Alabama"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636632521,
-      "message_timestamp": 1793512827,
+      "message_id": 636663001,
+      "message_timestamp": 1793534503,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-01T06:28:14.935273+00:00"
+      "updated_at": "2026-11-01T13:40:09.773213+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -414,181 +518,325 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1793501700:t> (02:55 UTC) WTA Tour WTA Tennis L. Fernandez vs D. Shnaider",
-          "slot": "SKY SPORTS+ 49",
-          "slot_norm": "SKY SPORTS+ 49",
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Lewis Hamilton: Onboard",
+          "slot": "SKY SPORTS+ 22",
+          "slot_norm": "SKY SPORTS+ 22",
           "start": "2026-11-01T12:00:00+00:00",
           "stop": "2026-11-02T00:00:00+00:00",
-          "title": "<t:1793501700:t> (02:55 UTC) WTA Tour WTA Tennis L. Fernandez vs D. Shnaider"
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Lewis Hamilton: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1793508300:t> (04:45 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs TBD",
-          "slot": "SKY SPORTS+ 50",
-          "slot_norm": "SKY SPORTS+ 50",
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Liam Lawson: Onboard",
+          "slot": "SKY SPORTS+ 23",
+          "slot_norm": "SKY SPORTS+ 23",
           "start": "2026-11-01T12:00:00+00:00",
           "stop": "2026-11-02T00:00:00+00:00",
-          "title": "<t:1793508300:t> (04:45 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs TBD"
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Liam Lawson: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Max Verstappen: Onboard",
+          "slot": "SKY SPORTS+ 24",
+          "slot_norm": "SKY SPORTS+ 24",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Max Verstappen: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Nico Hülkenberg: Onboard",
+          "slot": "SKY SPORTS+ 25",
+          "slot_norm": "SKY SPORTS+ 25",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Nico Hülkenberg: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Oliver Bearman: Onboard",
+          "slot": "SKY SPORTS+ 26",
+          "slot_norm": "SKY SPORTS+ 26",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Oliver Bearman: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Oscar Piastri: Onboard",
+          "slot": "SKY SPORTS+ 27",
+          "slot_norm": "SKY SPORTS+ 27",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Oscar Piastri: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Pierre Gasly: Onboard",
+          "slot": "SKY SPORTS+ 28",
+          "slot_norm": "SKY SPORTS+ 28",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Pierre Gasly: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Ryo Hirakawa: Onboard",
+          "slot": "SKY SPORTS+ 29",
+          "slot_norm": "SKY SPORTS+ 29",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Ryo Hirakawa: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Sergio Pérez: Onboard",
+          "slot": "SKY SPORTS+ 30",
+          "slot_norm": "SKY SPORTS+ 30",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Sergio Pérez: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Valtteri Bottas: Onboard",
+          "slot": "SKY SPORTS+ 31",
+          "slot_norm": "SKY SPORTS+ 31",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport Driver Cams Valtteri Bottas: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Driver Tracker",
+          "slot": "SKY SPORTS+ 32",
+          "slot_norm": "SKY SPORTS+ 32",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Driver Tracker"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Multiscreen",
+          "slot": "SKY SPORTS+ 33",
+          "slot_norm": "SKY SPORTS+ 33",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Multiscreen"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Onboard Mix",
+          "slot": "SKY SPORTS+ 34",
+          "slot_norm": "SKY SPORTS+ 34",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Onboard Mix"
+        },
+        {
+          "display_title": "1:00 AM <t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Timings",
+          "slot": "SKY SPORTS+ 35",
+          "slot_norm": "SKY SPORTS+ 35",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793557800:t> (18:30 UTC) Motorsport More From The Pit Wall Timings"
+        },
+        {
+          "display_title": "1:00 AM <t:1793566800:t> (21:00 UTC) NFL Los Angeles Chargers vs Los Angeles Rams",
+          "slot": "SKY SPORTS+ 36",
+          "slot_norm": "SKY SPORTS+ 36",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793566800:t> (21:00 UTC) NFL Los Angeles Chargers vs Los Angeles Rams"
+        },
+        {
+          "display_title": "1:00 AM <t:1793567400:t> (21:10 UTC) NFL Chiefs vs Broncos",
+          "slot": "SKY SPORTS+ 37",
+          "slot_norm": "SKY SPORTS+ 37",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793567400:t> (21:10 UTC) NFL Chiefs vs Broncos"
+        },
+        {
+          "display_title": "1:00 AM <t:1793568000:t> (21:20 UTC) NFL New England Patriots vs Miami Dolphins",
+          "slot": "SKY SPORTS+ 38",
+          "slot_norm": "SKY SPORTS+ 38",
+          "start": "2026-11-01T12:00:00+00:00",
+          "stop": "2026-11-02T00:00:00+00:00",
+          "title": "<t:1793568000:t> (21:20 UTC) NFL New England Patriots vs Miami Dolphins"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 636601386,
-      "message_timestamp": 1793491269,
+      "message_id": 636655837,
+      "message_timestamp": 1793529082,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-01T06:28:15.896838+00:00"
+      "updated_at": "2026-11-01T13:40:10.286640+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1793467200:t> (04:20 AEDT) • Tottenham Hotspur vs Crystal Palace Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 015",
-          "slot_norm": "AU STAN B 15",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793467200:t> (04:20 AEDT) • Tottenham Hotspur vs Crystal Palace Premier League Matchweek 9 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793467500:t> (04:25 AEDT) Northampton vs Gloucester PREM Rugby Round 5 2026/27",
-          "slot": "AU STAN B 016",
-          "slot_norm": "AU STAN B 16",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793467500:t> (04:25 AEDT) Northampton vs Gloucester PREM Rugby Round 5 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1793476200:t> (06:50 AEDT) Aston Villa vs Fulham Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 017",
-          "slot_norm": "AU STAN B 17",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793476200:t> (06:50 AEDT) Aston Villa vs Fulham Premier League Matchweek 9 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793485800:t> (09:30 AEDT) PL Saturday Wrap: Matchweek 9 Nov 1",
-          "slot": "AU STAN B 018",
-          "slot_norm": "AU STAN B 18",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793485800:t> (09:30 AEDT) PL Saturday Wrap: Matchweek 9 Nov 1"
-        },
-        {
-          "display_title": "2:00 PM <t:1793502000:t> (14:00 AEDT) Tokyo: Day 7 WTA 500",
-          "slot": "AU STAN B 019",
-          "slot_norm": "AU STAN B 19",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793502000:t> (14:00 AEDT) Tokyo: Day 7 WTA 500"
-        },
-        {
-          "display_title": "2:00 PM <t:1793505300:t> (14:55 AEDT) Yokohama F. Marinos vs Kawasaki Frontale J.League 2026",
-          "slot": "AU STAN B 020",
-          "slot_norm": "AU STAN B 20",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793505300:t> (14:55 AEDT) Yokohama F. Marinos vs Kawasaki Frontale J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1793508900:t> (15:55 AEDT) Ulsan vs Gangwon K League 2026",
-          "slot": "AU STAN B 021",
-          "slot_norm": "AU STAN B 21",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793508900:t> (15:55 AEDT) Ulsan vs Gangwon K League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1793516100:t> (17:55 AEDT) Machida Zelvia vs Gamba Osaka J.League 2026",
-          "slot": "AU STAN B 022",
-          "slot_norm": "AU STAN B 22",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793516100:t> (17:55 AEDT) Machida Zelvia vs Gamba Osaka J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1793517900:t> (18:25 AEDT) Seoul vs Incheon K League 2026",
-          "slot": "AU STAN B 023",
-          "slot_norm": "AU STAN B 23",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793517900:t> (18:25 AEDT) Seoul vs Incheon K League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1793520000:t> (19:00 AEDT) Guangzhou: Day 7 WTA 250",
-          "slot": "AU STAN B 024",
-          "slot_norm": "AU STAN B 24",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793520000:t> (19:00 AEDT) Guangzhou: Day 7 WTA 250"
-        },
-        {
-          "display_title": "2:00 PM <t:1793533800:t> (22:50 AEDT) London City Lionesses vs Manchester City WSL 2026/27",
-          "slot": "AU STAN B 025",
-          "slot_norm": "AU STAN B 25",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793533800:t> (22:50 AEDT) London City Lionesses vs Manchester City WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1793533800:t> (22:50 AEDT) Arsenal vs Aston Villa WSL 2026/27",
-          "slot": "AU STAN B 026",
-          "slot_norm": "AU STAN B 26",
-          "start": "2026-11-01T12:00:00+11:00",
-          "stop": "2026-11-02T00:00:00+11:00",
-          "title": "<t:1793533800:t> (22:50 AEDT) Arsenal vs Aston Villa WSL 2026/27"
-        },
-        {
           "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) Birmingham City vs Tottenham Hotspur WSL 2026/27",
-          "slot": "AU STAN B 027",
-          "slot_norm": "AU STAN B 27",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-11-02T12:00:00+11:00",
           "stop": "2026-11-03T00:00:00+11:00",
           "title": "<t:1793541000:t> (00:50 AEDT) Birmingham City vs Tottenham Hotspur WSL 2026/27"
         },
         {
           "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) Brighton & Hove Albion vs Crystal Palace WSL 2026/27",
-          "slot": "AU STAN B 028",
-          "slot_norm": "AU STAN B 28",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-11-02T12:00:00+11:00",
           "stop": "2026-11-03T00:00:00+11:00",
           "title": "<t:1793541000:t> (00:50 AEDT) Brighton & Hove Albion vs Crystal Palace WSL 2026/27"
         },
         {
           "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) West Ham United vs Liverpool WSL 2026/27",
-          "slot": "AU STAN B 029",
-          "slot_norm": "AU STAN B 29",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-11-02T12:00:00+11:00",
           "stop": "2026-11-03T00:00:00+11:00",
           "title": "<t:1793541000:t> (00:50 AEDT) West Ham United vs Liverpool WSL 2026/27"
         },
         {
           "display_title": "2:00 PM <t:1793542800:t> (01:20 AEDT) Charlton Athletic vs Chelsea WSL 2026/27",
-          "slot": "AU STAN B 030",
-          "slot_norm": "AU STAN B 30",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
           "start": "2026-11-02T12:00:00+11:00",
           "stop": "2026-11-03T00:00:00+11:00",
           "title": "<t:1793542800:t> (01:20 AEDT) Charlton Athletic vs Chelsea WSL 2026/27"
         },
         {
           "display_title": "2:00 PM <t:1793547000:t> (02:30 AEDT) Liverpool vs Arsenal Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 031",
-          "slot_norm": "AU STAN B 31",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-11-02T12:00:00+11:00",
           "stop": "2026-11-03T00:00:00+11:00",
           "title": "<t:1793547000:t> (02:30 AEDT) Liverpool vs Arsenal Premier League Matchweek 9 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1793550000:t> (03:20 AEDT) • Liverpool vs Arsenal Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 032",
-          "slot_norm": "AU STAN B 32",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-11-02T12:00:00+11:00",
           "stop": "2026-11-03T00:00:00+11:00",
           "title": "<t:1793550000:t> (03:20 AEDT) • Liverpool vs Arsenal Premier League Matchweek 9 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793559600:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 9 Nov 2",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793559600:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 9 Nov 2"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) Gotham FC vs Utah Royals NWSL 2026",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) Gotham FC vs Utah Royals NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) Racing Louisville vs Kansas City Current NWSL 2026",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) Racing Louisville vs Kansas City Current NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) Houston Dash vs Portland Thorns NWSL 2026",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) Houston Dash vs Portland Thorns NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) North Carolina Courage vs Denver Summit NWSL 2026",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) North Carolina Courage vs Denver Summit NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) Birmingham City vs Tottenham Hotspur WSL 2026/27",
+          "slot": "AU STAN B 004",
+          "slot_norm": "AU STAN B 4",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793541000:t> (00:50 AEDT) Birmingham City vs Tottenham Hotspur WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) Brighton & Hove Albion vs Crystal Palace WSL 2026/27",
+          "slot": "AU STAN B 005",
+          "slot_norm": "AU STAN B 5",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793541000:t> (00:50 AEDT) Brighton & Hove Albion vs Crystal Palace WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1793541000:t> (00:50 AEDT) West Ham United vs Liverpool WSL 2026/27",
+          "slot": "AU STAN B 006",
+          "slot_norm": "AU STAN B 6",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793541000:t> (00:50 AEDT) West Ham United vs Liverpool WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1793542800:t> (01:20 AEDT) Charlton Athletic vs Chelsea WSL 2026/27",
+          "slot": "AU STAN B 007",
+          "slot_norm": "AU STAN B 7",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793542800:t> (01:20 AEDT) Charlton Athletic vs Chelsea WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1793547000:t> (02:30 AEDT) Liverpool vs Arsenal Premier League Matchweek 9 2026/2027",
+          "slot": "AU STAN B 008",
+          "slot_norm": "AU STAN B 8",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793547000:t> (02:30 AEDT) Liverpool vs Arsenal Premier League Matchweek 9 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793550000:t> (03:20 AEDT) • Liverpool vs Arsenal Premier League Matchweek 9 2026/2027",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793550000:t> (03:20 AEDT) • Liverpool vs Arsenal Premier League Matchweek 9 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793559600:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 9 Nov 2",
+          "slot": "AU STAN B 010",
+          "slot_norm": "AU STAN B 10",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793559600:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 9 Nov 2"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) Gotham FC vs Utah Royals NWSL 2026",
+          "slot": "AU STAN B 011",
+          "slot_norm": "AU STAN B 11",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) Gotham FC vs Utah Royals NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) Racing Louisville vs Kansas City Current NWSL 2026",
+          "slot": "AU STAN B 012",
+          "slot_norm": "AU STAN B 12",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) Racing Louisville vs Kansas City Current NWSL 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1793570400:t> (09:00 AEDT) Houston Dash vs Portland Thorns NWSL 2026",
+          "slot": "AU STAN B 013",
+          "slot_norm": "AU STAN B 13",
+          "start": "2026-11-02T12:00:00+11:00",
+          "stop": "2026-11-03T00:00:00+11:00",
+          "title": "<t:1793570400:t> (09:00 AEDT) Houston Dash vs Portland Thorns NWSL 2026"
         }
       ],
       "group": "AU STAN",
-      "message_id": 636512733,
-      "message_timestamp": 1793453440,
+      "message_id": 636668390,
+      "message_timestamp": 1793538123,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-10-31T18:39:05.175794+00:00"
+      "updated_at": "2026-11-01T13:40:10.506347+00:00"
     }
   },
   "version": 1
