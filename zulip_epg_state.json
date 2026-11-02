@@ -282,12 +282,12 @@
           "title": "<t:1793660400:t> (18:00 ET) Millbridge Speedway"
         },
         {
-          "display_title": "6:00 AM <t:1793667600:t> (20:00 ET) WWE Monday Night RAW",
+          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) WWE Monday Night RAW",
           "slot": "PPV D 01",
           "slot_norm": "PPV D 1",
           "start": "2026-11-02T12:00:00-05:00",
           "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793667600:t> (20:00 ET) WWE Monday Night RAW"
+          "title": "<t:1793660400:t> (18:00 ET) WWE Monday Night RAW"
         },
         {
           "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) Millbridge Speedway",
@@ -299,10 +299,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 636864766,
-      "message_timestamp": 1793620866,
+      "message_id": 637016441,
+      "message_timestamp": 1793653236,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-02T16:25:13.524417+00:00"
+      "updated_at": "2026-11-02T23:37:48.084752+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

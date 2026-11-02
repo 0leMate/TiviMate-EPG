@@ -7852,7 +7852,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.01">
     <display-name>PPV D 01</display-name>
-    <display-name>PPV D 01: 20:00 WWE Monday Night RAW 11-02</display-name>
+    <display-name>PPV D 01: 18:00 WWE Monday Night RAW 11-02</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.02">
@@ -14523,7 +14523,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261102120000 -0500" stop="20261103000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.01">
-    <title>6:00 AM &lt;t:1793667600:t&gt; (20:00 ET) WWE Monday Night RAW</title>
+    <title>6:00 AM &lt;t:1793660400:t&gt; (18:00 ET) WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
