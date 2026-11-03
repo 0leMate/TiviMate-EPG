@@ -4,27 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) Millbridge Speedway",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) Millbridge Speedway",
+          "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) Millbridge Speedway"
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793746800:t> (18:00 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 636902969,
-      "message_timestamp": 1793629820,
+      "message_id": 637089190,
+      "message_timestamp": 1793682031,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-02T16:25:12.976707+00:00"
+      "updated_at": "2026-11-03T07:00:58.888619+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,189 +112,149 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793628000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793628000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) Galatasaray vs Stuttgart",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793725200:t> (12:00 ET) Galatasaray vs Stuttgart"
         },
         {
-          "display_title": "6:00 AM <t:1793635200:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793635200:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) Shakhtar Donetsk vs Sporting CP",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793725200:t> (12:00 ET) Shakhtar Donetsk vs Sporting CP"
         },
         {
-          "display_title": "6:00 AM <t:1793638800:t> (12:00 ET) CBS Sports HQ: Just Football",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793638800:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Barcelona vs Aston Villa",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) Barcelona vs Aston Villa"
         },
         {
-          "display_title": "6:00 AM <t:1793640000:t> (12:20 ET) Serie A: Sassuolo vs Fiorentina",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793640000:t> (12:20 ET) Serie A: Sassuolo vs Fiorentina"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Man. United vs Roma",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) Man. United vs Roma"
         },
         {
-          "display_title": "6:00 AM <t:1793646000:t> (14:00 ET) CBS Sports HQ: College Football Insiders",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793646000:t> (14:00 ET) CBS Sports HQ: College Football Insiders"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Atlético Madrid vs Bayern",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) Atlético Madrid vs Bayern"
         },
         {
-          "display_title": "6:00 AM <t:1793648100:t> (14:35 ET) Serie A: Atalanta vs Parma",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793648100:t> (14:35 ET) Serie A: Atalanta vs Parma"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) The Golazo Show",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) The Golazo Show"
         },
         {
-          "display_title": "6:00 AM <t:1793649600:t> (15:00 ET) CBS Sports HQ: This Just In",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793649600:t> (15:00 ET) CBS Sports HQ: This Just In"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Villarreal vs PSG",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) Villarreal vs PSG"
         },
         {
-          "display_title": "6:00 AM <t:1793653200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793653200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Feyenoord vs Inter",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) Feyenoord vs Inter"
         },
         {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Bodø/Glimt vs Lille",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) Bodø/Glimt vs Lille"
         },
         {
-          "display_title": "6:00 AM <t:1793667600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793667600:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) LASK vs Slovan Bratislava",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) LASK vs Slovan Bratislava"
         },
         {
-          "display_title": "6:00 AM <t:1793640000:t> (12:20 ET) Sassuolo vs Fiorentina",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793640000:t> (12:20 ET) Sassuolo vs Fiorentina"
+          "display_title": "6:00 AM <t:1793734500:t> (14:35 ET) Queens Park Rangers vs Burnley",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793734500:t> (14:35 ET) Queens Park Rangers vs Burnley"
         },
         {
-          "display_title": "6:00 AM <t:1793648100:t> (14:35 ET) Atalanta vs Parma",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793648100:t> (14:35 ET) Atalanta vs Parma"
+          "display_title": "6:00 AM <t:1793735400:t> (14:50 ET) Birmingham City vs Millwall",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793735400:t> (14:50 ET) Birmingham City vs Millwall"
         },
         {
-          "display_title": "6:00 AM <t:1793640000:t> (12:20 ET) Serie A: Sassuolo vs Fiorentina",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793640000:t> (12:20 ET) Serie A: Sassuolo vs Fiorentina"
-        },
-        {
-          "display_title": "6:00 AM <t:1793648100:t> (14:35 ET) Serie A: Atalanta vs Parma",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793648100:t> (14:35 ET) Serie A: Atalanta vs Parma"
+          "display_title": "6:00 AM <t:1793735400:t> (14:50 ET) West Bromwich Albion vs Southampton",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793735400:t> (14:50 ET) West Bromwich Albion vs Southampton"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 636923619,
-      "message_timestamp": 1793633427,
+      "message_id": 637089260,
+      "message_timestamp": 1793682055,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-02T16:25:13.250244+00:00"
+      "updated_at": "2026-11-03T07:00:59.357260+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) WWE Monday Night RAW",
+          "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) Millbridge Speedway",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) WWE Monday Night RAW"
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793746800:t> (18:00 ET) Millbridge Speedway"
         },
         {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) Millbridge Speedway",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "6:00 AM <t:1793656800:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)",
+          "display_title": "6:00 AM <t:1793743200:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793656800:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)"
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793743200:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)"
         },
         {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) WWE Monday Night RAW",
+          "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) Millbridge Speedway",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) WWE Monday Night RAW"
-        },
-        {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) Millbridge Speedway",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) Millbridge Speedway"
-        },
-        {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) WWE Monday Night RAW",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) WWE Monday Night RAW"
-        },
-        {
-          "display_title": "6:00 AM <t:1793660400:t> (18:00 ET) Millbridge Speedway",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-02T12:00:00-05:00",
-          "stop": "2026-11-03T00:00:00-05:00",
-          "title": "<t:1793660400:t> (18:00 ET) Millbridge Speedway"
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793746800:t> (18:00 ET) Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 637016441,
-      "message_timestamp": 1793653236,
+      "message_id": 637089245,
+      "message_timestamp": 1793682049,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-02T23:37:48.084752+00:00"
+      "updated_at": "2026-11-03T07:00:59.816255+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -438,179 +390,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1793613300:t> (09:55 UTC) ATP Tour ATP Tennis I. Buse vs Z. Bergs",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793613300:t> (09:55 UTC) ATP Tour ATP Tennis I. Buse vs Z. Bergs"
-        },
-        {
-          "display_title": "1:00 AM <t:1793613300:t> (09:55 UTC) ATP Tour ATP Tennis L. Darderi vs R. Hijikata",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793613300:t> (09:55 UTC) ATP Tour ATP Tennis L. Darderi vs R. Hijikata"
-        },
-        {
-          "display_title": "1:00 AM <t:1793613300:t> (09:55 UTC) ATP Tour ATP Tennis L. Musetti vs H. Hurkacz",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793613300:t> (09:55 UTC) ATP Tour ATP Tennis L. Musetti vs H. Hurkacz"
-        },
-        {
-          "display_title": "1:00 AM <t:1793613300:t> (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 1",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793613300:t> (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 1"
-        },
-        {
-          "display_title": "1:00 AM <t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis A. Falei vs M. Linette",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis A. Falei vs M. Linette"
-        },
-        {
-          "display_title": "1:00 AM <t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis J. Vandromme vs K. Okamura",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis J. Vandromme vs K. Okamura"
-        },
-        {
-          "display_title": "1:00 AM <t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis M. Sawangkaew vs M. Hontama",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis M. Sawangkaew vs M. Hontama"
-        },
-        {
-          "display_title": "1:00 AM <t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis V. Williams vs M. Stoiana",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793615100:t> (10:25 UTC) WTA Tour WTA Tennis V. Williams vs M. Stoiana"
-        },
-        {
-          "display_title": "1:00 AM <t:1793618700:t> (11:25 UTC) ATP Tour ATP Tennis A. Tabilo vs R. Jodar",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793618700:t> (11:25 UTC) ATP Tour ATP Tennis A. Tabilo vs R. Jodar"
-        },
-        {
-          "display_title": "1:00 AM <t:1793618700:t> (11:25 UTC) ATP Tour ATP Tennis L.Van Assche vs M. Navone",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793618700:t> (11:25 UTC) ATP Tour ATP Tennis L.Van Assche vs M. Navone"
-        },
-        {
-          "display_title": "1:00 AM <t:1793620500:t> (11:55 UTC) WTA Tour WTA Tennis Wang Xinyu vs A. Karunaratne",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793620500:t> (11:55 UTC) WTA Tour WTA Tennis Wang Xinyu vs A. Karunaratne"
-        },
-        {
-          "display_title": "1:00 AM <t:1793624100:t> (12:55 UTC) ATP Tour ATP Tennis C. Norrie vs M. Arnaldi",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793624100:t> (12:55 UTC) ATP Tour ATP Tennis C. Norrie vs M. Arnaldi"
-        },
-        {
-          "display_title": "1:00 AM <t:1793624100:t> (12:55 UTC) ATP Tour ATP Tennis C. Ruud vs J. Cerundolo",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793624100:t> (12:55 UTC) ATP Tour ATP Tennis C. Ruud vs J. Cerundolo"
-        },
-        {
-          "display_title": "1:00 AM <t:1793624100:t> (12:55 UTC) ATP Tour ATP Tennis D. Merida vs S. Baez",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793624100:t> (12:55 UTC) ATP Tour ATP Tennis D. Merida vs S. Baez"
-        },
-        {
-          "display_title": "1:00 AM <t:1793624100:t> (12:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793624100:t> (12:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska"
-        },
-        {
-          "display_title": "1:00 AM <t:1793624100:t> (12:55 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova",
-          "slot": "SKY SPORTS+ 16",
-          "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793624100:t> (12:55 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova"
-        },
-        {
-          "display_title": "1:00 AM <t:1793624100:t> (12:55 UTC) WTA Tour WTA Tennis M. Yamaguchi vs Z. Kulambayeva",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793624100:t> (12:55 UTC) WTA Tour WTA Tennis M. Yamaguchi vs Z. Kulambayeva"
-        },
-        {
-          "display_title": "1:00 AM <t:1793629500:t> (14:25 UTC) ATP Tour ATP Tennis K. Jacquet vs T. Machac",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793629500:t> (14:25 UTC) ATP Tour ATP Tennis K. Jacquet vs T. Machac"
-        },
-        {
-          "display_title": "1:00 AM <t:1793629500:t> (14:25 UTC) ATP Tour ATP Tennis M. Bellucci vs L. Sonego",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793629500:t> (14:25 UTC) ATP Tour ATP Tennis M. Bellucci vs L. Sonego"
-        },
-        {
-          "display_title": "1:00 AM <t:1793629500:t> (14:25 UTC) WTA Tour WTA Tennis S. Yamalapalli vs S. Waltert",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793629500:t> (14:25 UTC) WTA Tour WTA Tennis S. Yamalapalli vs S. Waltert"
-        },
-        {
-          "display_title": "1:00 AM <t:1793634900:t> (15:55 UTC) ATP Tour ATP Tennis A. Molcan vs T. Droguet",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-11-02T12:00:00+00:00",
-          "stop": "2026-11-03T00:00:00+00:00",
-          "title": "<t:1793634900:t> (15:55 UTC) ATP Tour ATP Tennis A. Molcan vs T. Droguet"
+          "display_title": "1:00 AM <t:1793731500:t> (18:45 UTC) Rotherham vs Newcastle U21",
+          "slot": "SKY SPORTS+ B 15",
+          "slot_norm": "SKY SPORTS+ B 15",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793731500:t> (18:45 UTC) Rotherham vs Newcastle U21"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 636857937,
-      "message_timestamp": 1793619030,
+      "message_id": 637048380,
+      "message_timestamp": 1793664035,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-02T16:25:14.069315+00:00"
+      "updated_at": "2026-11-03T07:01:00.722967+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
