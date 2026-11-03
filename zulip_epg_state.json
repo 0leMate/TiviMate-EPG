@@ -5,6 +5,14 @@
       "events": [
         {
           "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) Millbridge Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793746800:t> (18:00 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-03T12:00:00-05:00",
@@ -13,10 +21,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 637089190,
-      "message_timestamp": 1793682031,
+      "message_id": 637129301,
+      "message_timestamp": 1793696420,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-03T07:00:58.888619+00:00"
+      "updated_at": "2026-11-03T16:22:03.816746+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,115 +120,187 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "6:00 AM <t:1793714400:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793714400:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "6:00 AM <t:1793721600:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793721600:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) UEFA Champions League: Galatasaray vs Stuttgart",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793725200:t> (12:00 ET) UEFA Champions League: Galatasaray vs Stuttgart"
+        },
+        {
+          "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793725200:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) UEFA Champions League: Shakhtar Donetsk vs Sporting CP",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793725200:t> (12:00 ET) UEFA Champions League: Shakhtar Donetsk vs Sporting CP"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: Bodø/Glimt vs Lille",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: Bodø/Glimt vs Lille"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: Atlético Madrid vs Bayern",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: Atlético Madrid vs Bayern"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: Feyenoord vs Inter",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: Feyenoord vs Inter"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: Villarreal vs PSG",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: Villarreal vs PSG"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: The Golazo Show",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: The Golazo Show"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: LASK vs Slovan Bratislava",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: LASK vs Slovan Bratislava"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: Barcelona vs Aston Villa",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: Barcelona vs Aston Villa"
+        },
+        {
+          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) UEFA Champions League: Man. United vs Roma",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793732400:t> (14:00 ET) UEFA Champions League: Man. United vs Roma"
+        },
+        {
+          "display_title": "6:00 AM <t:1793734500:t> (14:35 ET) English Football League: Queens Park Rangers vs Burnley",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793734500:t> (14:35 ET) English Football League: Queens Park Rangers vs Burnley"
+        },
+        {
+          "display_title": "6:00 AM <t:1793735400:t> (14:50 ET) English Football League: West Bromwich Albion vs Southampton",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793735400:t> (14:50 ET) English Football League: West Bromwich Albion vs Southampton"
+        },
+        {
+          "display_title": "6:00 AM <t:1793735400:t> (14:50 ET) English Football League: Birmingham City vs Millwall",
+          "slot": "PARAMOUNT 016",
+          "slot_norm": "PARAMOUNT 16",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793735400:t> (14:50 ET) English Football League: Birmingham City vs Millwall"
+        },
+        {
+          "display_title": "6:00 AM <t:1793736000:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 017",
+          "slot_norm": "PARAMOUNT 17",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793736000:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "6:00 AM <t:1793739600:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 018",
+          "slot_norm": "PARAMOUNT 18",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793739600:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 019",
+          "slot_norm": "PARAMOUNT 19",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793746800:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1793750400:t> (19:00 ET) CBS Sports HQ: College Football Playoff Breakdown",
+          "slot": "PARAMOUNT 020",
+          "slot_norm": "PARAMOUNT 20",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793750400:t> (19:00 ET) CBS Sports HQ: College Football Playoff Breakdown"
+        },
+        {
+          "display_title": "6:00 AM <t:1793755800:t> (20:30 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 021",
+          "slot_norm": "PARAMOUNT 21",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793755800:t> (20:30 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
           "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) Galatasaray vs Stuttgart",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-11-03T12:00:00-05:00",
           "stop": "2026-11-04T00:00:00-05:00",
           "title": "<t:1793725200:t> (12:00 ET) Galatasaray vs Stuttgart"
-        },
-        {
-          "display_title": "6:00 AM <t:1793725200:t> (12:00 ET) Shakhtar Donetsk vs Sporting CP",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793725200:t> (12:00 ET) Shakhtar Donetsk vs Sporting CP"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Barcelona vs Aston Villa",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) Barcelona vs Aston Villa"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Man. United vs Roma",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) Man. United vs Roma"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Atlético Madrid vs Bayern",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) Atlético Madrid vs Bayern"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) The Golazo Show",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) The Golazo Show"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Villarreal vs PSG",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) Villarreal vs PSG"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Feyenoord vs Inter",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) Feyenoord vs Inter"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) Bodø/Glimt vs Lille",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) Bodø/Glimt vs Lille"
-        },
-        {
-          "display_title": "6:00 AM <t:1793732400:t> (14:00 ET) LASK vs Slovan Bratislava",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793732400:t> (14:00 ET) LASK vs Slovan Bratislava"
-        },
-        {
-          "display_title": "6:00 AM <t:1793734500:t> (14:35 ET) Queens Park Rangers vs Burnley",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793734500:t> (14:35 ET) Queens Park Rangers vs Burnley"
-        },
-        {
-          "display_title": "6:00 AM <t:1793735400:t> (14:50 ET) Birmingham City vs Millwall",
-          "slot": "PARAMOUNT B 014",
-          "slot_norm": "PARAMOUNT B 14",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793735400:t> (14:50 ET) Birmingham City vs Millwall"
-        },
-        {
-          "display_title": "6:00 AM <t:1793735400:t> (14:50 ET) West Bromwich Albion vs Southampton",
-          "slot": "PARAMOUNT B 015",
-          "slot_norm": "PARAMOUNT B 15",
-          "start": "2026-11-03T12:00:00-05:00",
-          "stop": "2026-11-04T00:00:00-05:00",
-          "title": "<t:1793735400:t> (14:50 ET) West Bromwich Albion vs Southampton"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 637089260,
-      "message_timestamp": 1793682055,
+      "message_id": 637204762,
+      "message_timestamp": 1793714419,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-03T07:00:59.357260+00:00"
+      "updated_at": "2026-11-03T16:22:03.929207+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -248,13 +328,21 @@
           "start": "2026-11-03T12:00:00-05:00",
           "stop": "2026-11-04T00:00:00-05:00",
           "title": "<t:1793746800:t> (18:00 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "6:00 AM <t:1793746800:t> (18:00 ET) Millbridge Speedway",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-11-03T12:00:00-05:00",
+          "stop": "2026-11-04T00:00:00-05:00",
+          "title": "<t:1793746800:t> (18:00 ET) Millbridge Speedway"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 637089245,
-      "message_timestamp": 1793682049,
+      "message_id": 637188705,
+      "message_timestamp": 1793710820,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-03T07:00:59.816255+00:00"
+      "updated_at": "2026-11-03T16:22:04.027255+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -390,93 +478,245 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1793731500:t> (18:45 UTC) Rotherham vs Newcastle U21",
-          "slot": "SKY SPORTS+ B 15",
-          "slot_norm": "SKY SPORTS+ B 15",
+          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis A. Zakharova vs P. Iatcenko",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
           "start": "2026-11-03T12:00:00+00:00",
           "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793731500:t> (18:45 UTC) Rotherham vs Newcastle U21"
+          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis A. Zakharova vs P. Iatcenko"
+        },
+        {
+          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis J. Tjen vs K. Hui",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis J. Tjen vs K. Hui"
+        },
+        {
+          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska"
+        },
+        {
+          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis V. Morvayova vs P. Kudermetova",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis V. Morvayova vs P. Kudermetova"
+        },
+        {
+          "display_title": "1:00 AM <t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis Jiang Xinyu/Wong Hong Yi Cody vs I. Neel/G. Olmos",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis Jiang Xinyu/Wong Hong Yi Cody vs I. Neel/G. Olmos"
+        },
+        {
+          "display_title": "1:00 AM <t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis M. Inglis vs M. Joint",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis M. Inglis vs M. Joint"
+        },
+        {
+          "display_title": "1:00 AM <t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis S. Cirstea vs M.Timofeeva",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis S. Cirstea vs M.Timofeeva"
+        },
+        {
+          "display_title": "1:00 AM <t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis A. Shubladze vs L. Samsonova",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis A. Shubladze vs L. Samsonova"
+        },
+        {
+          "display_title": "1:00 AM <t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis H. Sakatsume vs T. Valentova",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis H. Sakatsume vs T. Valentova"
+        },
+        {
+          "display_title": "1:00 AM <t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova"
+        },
+        {
+          "display_title": "1:00 AM <t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis R. Zolotareva vs L. Stefanini",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis R. Zolotareva vs L. Stefanini"
+        },
+        {
+          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rinderknech vs F. Cerundolo",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rinderknech vs F. Cerundolo"
+        },
+        {
+          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rublev vs T. Etcheverry",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rublev vs T. Etcheverry"
+        },
+        {
+          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis Q. Halys vs A. Fery",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis Q. Halys vs A. Fery"
+        },
+        {
+          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 2",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 2"
+        },
+        {
+          "display_title": "1:00 AM <t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis A. Parks vs A. Eala",
+          "slot": "SKY SPORTS+ 16",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis A. Parks vs A. Eala"
+        },
+        {
+          "display_title": "1:00 AM <t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis J. Burrage vs V. Adkar",
+          "slot": "SKY SPORTS+ 17",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis J. Burrage vs V. Adkar"
+        },
+        {
+          "display_title": "1:00 AM <t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis Tang Qianhui/Ye Qiuyu vs A. Karunaratne/C. Shek",
+          "slot": "SKY SPORTS+ 18",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis Tang Qianhui/Ye Qiuyu vs A. Karunaratne/C. Shek"
+        },
+        {
+          "display_title": "1:00 AM <t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs M. Kouame",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs M. Kouame"
+        },
+        {
+          "display_title": "1:00 AM <t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis B. Nakashima vs M. Berrettini",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-11-03T12:00:00+00:00",
+          "stop": "2026-11-04T00:00:00+00:00",
+          "title": "<t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis B. Nakashima vs M. Berrettini"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 637048380,
-      "message_timestamp": 1793664035,
+      "message_id": 637136682,
+      "message_timestamp": 1793698288,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-03T07:01:00.722967+00:00"
+      "updated_at": "2026-11-03T16:22:04.219502+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1793647800:t> (06:30 AEDT) Newcastle United vs Everton Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-11-03T12:00:00+11:00",
-          "stop": "2026-11-04T00:00:00+11:00",
-          "title": "<t:1793647800:t> (06:30 AEDT) Newcastle United vs Everton Premier League Matchweek 9 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793710500:t> (23:55 AEDT) Manchester United U19 vs Roma U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-11-03T12:00:00+11:00",
-          "stop": "2026-11-04T00:00:00+11:00",
-          "title": "<t:1793710500:t> (23:55 AEDT) Manchester United U19 vs Roma U19 UEFA Youth League 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793727600:t> (04:40 AEDT) Shakhtar Donetsk vs Sporting CP UEFA Champions League Matchday 4 2026/2027",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
+          "display_title": "2:00 PM <t:1793735700:t> (06:55 AEDT) Manchester United vs Roma UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 006",
+          "slot_norm": "AU STAN B 6",
           "start": "2026-11-04T12:00:00+11:00",
           "stop": "2026-11-05T00:00:00+11:00",
-          "title": "<t:1793727600:t> (04:40 AEDT) Shakhtar Donetsk vs Sporting CP UEFA Champions League Matchday 4 2026/2027"
+          "title": "<t:1793735700:t> (06:55 AEDT) Manchester United vs Roma UEFA Champions League Matchday 4 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1793727600:t> (04:40 AEDT) Galatasaray vs Stuttgart UEFA Champions League Matchday 4 2026/2027",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
+          "display_title": "2:00 PM <t:1793735700:t> (06:55 AEDT) Atlético de Madrid vs Bayern München UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 007",
+          "slot_norm": "AU STAN B 7",
           "start": "2026-11-04T12:00:00+11:00",
           "stop": "2026-11-05T00:00:00+11:00",
-          "title": "<t:1793727600:t> (04:40 AEDT) Galatasaray vs Stuttgart UEFA Champions League Matchday 4 2026/2027"
+          "title": "<t:1793735700:t> (06:55 AEDT) Atlético de Madrid vs Bayern München UEFA Champions League Matchday 4 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1793647800:t> (06:30 AEDT) Newcastle United vs Everton Premier League Matchweek 9 2026/2027",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-11-03T12:00:00+11:00",
-          "stop": "2026-11-04T00:00:00+11:00",
-          "title": "<t:1793647800:t> (06:30 AEDT) Newcastle United vs Everton Premier League Matchweek 9 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793710500:t> (23:55 AEDT) Manchester United U19 vs Roma U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-11-03T12:00:00+11:00",
-          "stop": "2026-11-04T00:00:00+11:00",
-          "title": "<t:1793710500:t> (23:55 AEDT) Manchester United U19 vs Roma U19 UEFA Youth League 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1793727600:t> (04:40 AEDT) Shakhtar Donetsk vs Sporting CP UEFA Champions League Matchday 4 2026/2027",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
+          "display_title": "2:00 PM <t:1793735700:t> (06:55 AEDT) Villarreal vs Paris SaintGermain UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 008",
+          "slot_norm": "AU STAN B 8",
           "start": "2026-11-04T12:00:00+11:00",
           "stop": "2026-11-05T00:00:00+11:00",
-          "title": "<t:1793727600:t> (04:40 AEDT) Shakhtar Donetsk vs Sporting CP UEFA Champions League Matchday 4 2026/2027"
+          "title": "<t:1793735700:t> (06:55 AEDT) Villarreal vs Paris SaintGermain UEFA Champions League Matchday 4 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1793727600:t> (04:40 AEDT) Galatasaray vs Stuttgart UEFA Champions League Matchday 4 2026/2027",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
+          "display_title": "2:00 PM <t:1793735700:t> (06:55 AEDT) Bodø / Glimt vs Lille UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
           "start": "2026-11-04T12:00:00+11:00",
           "stop": "2026-11-05T00:00:00+11:00",
-          "title": "<t:1793727600:t> (04:40 AEDT) Galatasaray vs Stuttgart UEFA Champions League Matchday 4 2026/2027"
+          "title": "<t:1793735700:t> (06:55 AEDT) Bodø / Glimt vs Lille UEFA Champions League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793735700:t> (06:55 AEDT) Feyenoord vs Internazionale UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 010",
+          "slot_norm": "AU STAN B 10",
+          "start": "2026-11-04T12:00:00+11:00",
+          "stop": "2026-11-05T00:00:00+11:00",
+          "title": "<t:1793735700:t> (06:55 AEDT) Feyenoord vs Internazionale UEFA Champions League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793735700:t> (06:55 AEDT) LASK vs Slovan Bratislava UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 011",
+          "slot_norm": "AU STAN B 11",
+          "start": "2026-11-04T12:00:00+11:00",
+          "stop": "2026-11-05T00:00:00+11:00",
+          "title": "<t:1793735700:t> (06:55 AEDT) LASK vs Slovan Bratislava UEFA Champions League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793814000:t> (04:40 AEDT) Fenerbahçe vs Liverpool UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 012",
+          "slot_norm": "AU STAN B 12",
+          "start": "2026-11-05T12:00:00+11:00",
+          "stop": "2026-11-06T00:00:00+11:00",
+          "title": "<t:1793814000:t> (04:40 AEDT) Fenerbahçe vs Liverpool UEFA Champions League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1793814000:t> (04:40 AEDT) AEK Athens vs Real Madrid UEFA Champions League Matchday 4 2026/2027",
+          "slot": "AU STAN B 013",
+          "slot_norm": "AU STAN B 13",
+          "start": "2026-11-05T12:00:00+11:00",
+          "stop": "2026-11-06T00:00:00+11:00",
+          "title": "<t:1793814000:t> (04:40 AEDT) AEK Athens vs Real Madrid UEFA Champions League Matchday 4 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 636878273,
-      "message_timestamp": 1793624425,
+      "message_id": 637188851,
+      "message_timestamp": 1793710851,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-02T16:25:14.380844+00:00"
+      "updated_at": "2026-11-03T16:22:04.337884+00:00"
     }
   },
   "version": 1
