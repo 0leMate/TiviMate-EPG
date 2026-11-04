@@ -12453,84 +12453,16 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <display-name>SKY SPORTS+ B 01</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <display-name>SKY SPORTS+ 02</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.02">
+    <display-name>SKY SPORTS+ B 02</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <display-name>SKY SPORTS+ 10</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.11">
-    <display-name>SKY SPORTS+ 11</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.12">
-    <display-name>SKY SPORTS+ 12</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.13">
-    <display-name>SKY SPORTS+ 13</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.14">
-    <display-name>SKY SPORTS+ 14</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.15">
-    <display-name>SKY SPORTS+ 15</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.16">
-    <display-name>SKY SPORTS+ 16</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.17">
-    <display-name>SKY SPORTS+ 17</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.18">
-    <display-name>SKY SPORTS+ 18</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.19">
-    <display-name>SKY SPORTS+ 19</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.20">
-    <display-name>SKY SPORTS+ 20</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.03">
+    <display-name>SKY SPORTS+ B 03</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <programme start="20261104120000 +1100" stop="20261105000000 +1100" channel="custom.AU.STAN.AU.STAN.B.006">
@@ -14568,103 +14500,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>1:00 AM &lt;t:1793688900:t&gt; (06:55 UTC) WTA Tour WTA Tennis A. Zakharova vs P. Iatcenko</title>
+  <programme start="20261104120000 +0000" stop="20261105000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.01">
+    <title>1:00 AM &lt;t:1793820600:t&gt; (19:30 UTC) Cardiff vs West Ham</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>1:00 AM &lt;t:1793688900:t&gt; (06:55 UTC) WTA Tour WTA Tennis J. Tjen vs K. Hui</title>
+  <programme start="20261104120000 +0000" stop="20261105000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.02">
+    <title>1:00 AM &lt;t:1793820600:t&gt; (19:30 UTC) Oxford U vs Reading</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:00 AM &lt;t:1793688900:t&gt; (06:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>1:00 AM &lt;t:1793688900:t&gt; (06:55 UTC) WTA Tour WTA Tennis V. Morvayova vs P. Kudermetova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>1:00 AM &lt;t:1793690700:t&gt; (07:25 UTC) WTA Tour WTA Tennis Jiang Xinyu/Wong Hong Yi Cody vs I. Neel/G. Olmos</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>1:00 AM &lt;t:1793690700:t&gt; (07:25 UTC) WTA Tour WTA Tennis M. Inglis vs M. Joint</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>1:00 AM &lt;t:1793690700:t&gt; (07:25 UTC) WTA Tour WTA Tennis S. Cirstea vs M.Timofeeva</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>1:00 AM &lt;t:1793696100:t&gt; (08:55 UTC) WTA Tour WTA Tennis A. Shubladze vs L. Samsonova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <title>1:00 AM &lt;t:1793696100:t&gt; (08:55 UTC) WTA Tour WTA Tennis H. Sakatsume vs T. Valentova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <title>1:00 AM &lt;t:1793697900:t&gt; (09:25 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.11">
-    <title>1:00 AM &lt;t:1793697900:t&gt; (09:25 UTC) WTA Tour WTA Tennis R. Zolotareva vs L. Stefanini</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.12">
-    <title>1:00 AM &lt;t:1793699700:t&gt; (09:55 UTC) ATP Tour ATP Tennis A. Rinderknech vs F. Cerundolo</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.13">
-    <title>1:00 AM &lt;t:1793699700:t&gt; (09:55 UTC) ATP Tour ATP Tennis A. Rublev vs T. Etcheverry</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
-    <title>1:00 AM &lt;t:1793699700:t&gt; (09:55 UTC) ATP Tour ATP Tennis Q. Halys vs A. Fery</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.15">
-    <title>1:00 AM &lt;t:1793699700:t&gt; (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 2</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.16">
-    <title>1:00 AM &lt;t:1793701500:t&gt; (10:25 UTC) WTA Tour WTA Tennis A. Parks vs A. Eala</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.17">
-    <title>1:00 AM &lt;t:1793701500:t&gt; (10:25 UTC) WTA Tour WTA Tennis J. Burrage vs V. Adkar</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.18">
-    <title>1:00 AM &lt;t:1793701500:t&gt; (10:25 UTC) WTA Tour WTA Tennis Tang Qianhui/Ye Qiuyu vs A. Karunaratne/C. Shek</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.19">
-    <title>1:00 AM &lt;t:1793705100:t&gt; (11:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs M. Kouame</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261103120000 +0000" stop="20261104000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.20">
-    <title>1:00 AM &lt;t:1793705100:t&gt; (11:25 UTC) ATP Tour ATP Tennis B. Nakashima vs M. Berrettini</title>
+  <programme start="20261104120000 +0000" stop="20261105000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.03">
+    <title>1:00 AM &lt;t:1793820600:t&gt; (19:30 UTC) Wrexham vs Middlesbrough</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>

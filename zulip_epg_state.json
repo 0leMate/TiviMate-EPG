@@ -478,171 +478,35 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis A. Zakharova vs P. Iatcenko",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis A. Zakharova vs P. Iatcenko"
+          "display_title": "1:00 AM <t:1793820600:t> (19:30 UTC) Cardiff vs West Ham",
+          "slot": "SKY SPORTS+ B 01",
+          "slot_norm": "SKY SPORTS+ B 1",
+          "start": "2026-11-04T12:00:00+00:00",
+          "stop": "2026-11-05T00:00:00+00:00",
+          "title": "<t:1793820600:t> (19:30 UTC) Cardiff vs West Ham"
         },
         {
-          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis J. Tjen vs K. Hui",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis J. Tjen vs K. Hui"
+          "display_title": "1:00 AM <t:1793820600:t> (19:30 UTC) Oxford U vs Reading",
+          "slot": "SKY SPORTS+ B 02",
+          "slot_norm": "SKY SPORTS+ B 2",
+          "start": "2026-11-04T12:00:00+00:00",
+          "stop": "2026-11-05T00:00:00+00:00",
+          "title": "<t:1793820600:t> (19:30 UTC) Oxford U vs Reading"
         },
         {
-          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis L. Fruhvirtova vs W. Falkowska"
-        },
-        {
-          "display_title": "1:00 AM <t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis V. Morvayova vs P. Kudermetova",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793688900:t> (06:55 UTC) WTA Tour WTA Tennis V. Morvayova vs P. Kudermetova"
-        },
-        {
-          "display_title": "1:00 AM <t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis Jiang Xinyu/Wong Hong Yi Cody vs I. Neel/G. Olmos",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis Jiang Xinyu/Wong Hong Yi Cody vs I. Neel/G. Olmos"
-        },
-        {
-          "display_title": "1:00 AM <t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis M. Inglis vs M. Joint",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis M. Inglis vs M. Joint"
-        },
-        {
-          "display_title": "1:00 AM <t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis S. Cirstea vs M.Timofeeva",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793690700:t> (07:25 UTC) WTA Tour WTA Tennis S. Cirstea vs M.Timofeeva"
-        },
-        {
-          "display_title": "1:00 AM <t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis A. Shubladze vs L. Samsonova",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis A. Shubladze vs L. Samsonova"
-        },
-        {
-          "display_title": "1:00 AM <t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis H. Sakatsume vs T. Valentova",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793696100:t> (08:55 UTC) WTA Tour WTA Tennis H. Sakatsume vs T. Valentova"
-        },
-        {
-          "display_title": "1:00 AM <t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis M. Uchijima vs R. Sramkova"
-        },
-        {
-          "display_title": "1:00 AM <t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis R. Zolotareva vs L. Stefanini",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793697900:t> (09:25 UTC) WTA Tour WTA Tennis R. Zolotareva vs L. Stefanini"
-        },
-        {
-          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rinderknech vs F. Cerundolo",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rinderknech vs F. Cerundolo"
-        },
-        {
-          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rublev vs T. Etcheverry",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis A. Rublev vs T. Etcheverry"
-        },
-        {
-          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis Q. Halys vs A. Fery",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tennis Q. Halys vs A. Fery"
-        },
-        {
-          "display_title": "1:00 AM <t:1793699700:t> (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 2",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793699700:t> (09:55 UTC) ATP Tour ATP Tour Finals Analysis Rolex Paris Masters Analysis Stream, Day 2"
-        },
-        {
-          "display_title": "1:00 AM <t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis A. Parks vs A. Eala",
-          "slot": "SKY SPORTS+ 16",
-          "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis A. Parks vs A. Eala"
-        },
-        {
-          "display_title": "1:00 AM <t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis J. Burrage vs V. Adkar",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis J. Burrage vs V. Adkar"
-        },
-        {
-          "display_title": "1:00 AM <t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis Tang Qianhui/Ye Qiuyu vs A. Karunaratne/C. Shek",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793701500:t> (10:25 UTC) WTA Tour WTA Tennis Tang Qianhui/Ye Qiuyu vs A. Karunaratne/C. Shek"
-        },
-        {
-          "display_title": "1:00 AM <t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs M. Kouame",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis A. Davidovich Fokina vs M. Kouame"
-        },
-        {
-          "display_title": "1:00 AM <t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis B. Nakashima vs M. Berrettini",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-11-03T12:00:00+00:00",
-          "stop": "2026-11-04T00:00:00+00:00",
-          "title": "<t:1793705100:t> (11:25 UTC) ATP Tour ATP Tennis B. Nakashima vs M. Berrettini"
+          "display_title": "1:00 AM <t:1793820600:t> (19:30 UTC) Wrexham vs Middlesbrough",
+          "slot": "SKY SPORTS+ B 03",
+          "slot_norm": "SKY SPORTS+ B 3",
+          "start": "2026-11-04T12:00:00+00:00",
+          "stop": "2026-11-05T00:00:00+00:00",
+          "title": "<t:1793820600:t> (19:30 UTC) Wrexham vs Middlesbrough"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 637136682,
-      "message_timestamp": 1793698288,
+      "message_id": 637357496,
+      "message_timestamp": 1793750425,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-03T16:22:04.219502+00:00"
+      "updated_at": "2026-11-04T02:29:13.643799+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
