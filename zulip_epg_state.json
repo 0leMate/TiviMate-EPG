@@ -12,19 +12,19 @@
           "title": "<t:1793823300:t> (15:15 ET) The Dirt Track at Charlotte"
         },
         {
-          "display_title": "6:00 AM <t:1793833200:t> (18:00 ET) Millbridge Speedway",
+          "display_title": "6:00 AM <t:1793823300:t> (15:15 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-04T12:00:00-05:00",
           "stop": "2026-11-05T00:00:00-05:00",
-          "title": "<t:1793833200:t> (18:00 ET) Millbridge Speedway"
+          "title": "<t:1793823300:t> (15:15 ET) The Dirt Track at Charlotte"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 637490795,
-      "message_timestamp": 1793795444,
+      "message_id": 637612988,
+      "message_timestamp": 1793820633,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-04T18:05:50.731067+00:00"
+      "updated_at": "2026-11-04T23:48:01.274259+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -322,6 +322,14 @@
           "title": "<t:1793823300:t> (15:15 ET) The Dirt Track at Charlotte"
         },
         {
+          "display_title": "6:00 AM <t:1793840400:t> (20:00 ET) AEW Dynamite Blood and Guts (Commercial Free)",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-11-04T12:00:00-05:00",
+          "stop": "2026-11-05T00:00:00-05:00",
+          "title": "<t:1793840400:t> (20:00 ET) AEW Dynamite Blood and Guts (Commercial Free)"
+        },
+        {
           "display_title": "6:00 AM <t:1793829600:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
@@ -355,10 +363,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 637498688,
-      "message_timestamp": 1793797238,
+      "message_id": 637660861,
+      "message_timestamp": 1793835040,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-04T18:05:51.304143+00:00"
+      "updated_at": "2026-11-04T23:48:01.784894+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

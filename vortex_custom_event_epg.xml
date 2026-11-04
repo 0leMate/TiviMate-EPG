@@ -7007,7 +7007,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02:</display-name>
+    <display-name>PPV 02: 20:00 AEW Dynamite Blood and Guts (Commercial Free)</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -14425,7 +14425,7 @@
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
   <programme start="20261104120000 -0500" stop="20261105000000 -0500" channel="custom.DIRTVISION.DIRT.B.01">
-    <title>6:00 AM &lt;t:1793833200:t&gt; (18:00 ET) Millbridge Speedway</title>
+    <title>6:00 AM &lt;t:1793823300:t&gt; (15:15 ET) The Dirt Track at Charlotte</title>
     <category>Sports</category>
     <desc>Zulip #dirtvision • DIRTVISION</desc>
   </programme>
@@ -14641,6 +14641,11 @@
   </programme>
   <programme start="20261104120000 -0500" stop="20261105000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
     <title>6:00 AM &lt;t:1793823300:t&gt; (15:15 ET) The Dirt Track at Charlotte</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261104120000 -0500" stop="20261105000000 -0500" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>6:00 AM &lt;t:1793840400:t&gt; (20:00 ET) AEW Dynamite Blood and Guts (Commercial Free)</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
