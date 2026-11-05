@@ -328,13 +328,21 @@
           "start": "2026-11-05T12:00:00-05:00",
           "stop": "2026-11-06T00:00:00-05:00",
           "title": "<t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte"
+        },
+        {
+          "display_title": "6:00 AM <t:1793919600:t> (18:00 ET) Gold Rush Nationals",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-11-05T12:00:00-05:00",
+          "stop": "2026-11-06T00:00:00-05:00",
+          "title": "<t:1793919600:t> (18:00 ET) Gold Rush Nationals"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 637874693,
-      "message_timestamp": 1793896231,
+      "message_id": 637978898,
+      "message_timestamp": 1793921434,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-05T16:34:57.164259+00:00"
+      "updated_at": "2026-11-05T23:43:41.386626+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

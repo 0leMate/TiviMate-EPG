@@ -7857,7 +7857,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.02">
     <display-name>PPV D 02</display-name>
-    <display-name>PPV D 02:</display-name>
+    <display-name>PPV D 02: 18:00 Gold Rush Nationals 11-05</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.03">
@@ -14622,6 +14622,11 @@
   </programme>
   <programme start="20261105120000 -0500" stop="20261106000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.01">
     <title>6:00 AM &lt;t:1793902500:t&gt; (13:15 ET) The Dirt Track at Charlotte</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261105120000 -0500" stop="20261106000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.02">
+    <title>6:00 AM &lt;t:1793919600:t&gt; (18:00 ET) Gold Rush Nationals</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
