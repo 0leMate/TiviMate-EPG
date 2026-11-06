@@ -12,12 +12,12 @@
           "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
         },
         {
-          "display_title": "6:00 AM <t:1793988900:t> (13:15 ET) The Dirt Track at Charlotte",
+          "display_title": "6:00 AM <t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1793988900:t> (13:15 ET) The Dirt Track at Charlotte"
+          "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
         },
         {
           "display_title": "6:00 AM <t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte",
@@ -29,10 +29,10 @@
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 638171940,
-      "message_timestamp": 1793979021,
+      "message_id": 638208030,
+      "message_timestamp": 1793986222,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-06T16:01:48.480470+00:00"
+      "updated_at": "2026-11-06T21:38:58.824281+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -128,59 +128,187 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793988000:t> (13:00 ET) Zuffa Boxing: Zuffa Boxing 12 Ceremonial Weigh In",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
+          "display_title": "6:00 AM <t:1793973600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1793988000:t> (13:00 ET) Zuffa Boxing: Zuffa Boxing 12 Ceremonial Weigh In"
+          "title": "<t:1793973600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "6:00 AM <t:1793980800:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793980800:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "6:00 AM <t:1793982000:t> (11:20 ET) World Rugby: Romania vs Tonga",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793982000:t> (11:20 ET) World Rugby: Romania vs Tonga"
+        },
+        {
+          "display_title": "6:00 AM <t:1793984400:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793984400:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "6:00 AM <t:1793988000:t> (13:00 ET) Zuffa Boxing: Zuffa Boxing 12 Ceremonial Weigh-In",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793988000:t> (13:00 ET) Zuffa Boxing: Zuffa Boxing 12 Ceremonial Weigh-In"
+        },
+        {
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) CBS Sports HQ: College Football Best Bets",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793991600:t> (14:00 ET) CBS Sports HQ: College Football Best Bets"
         },
         {
           "display_title": "6:00 AM <t:1793993100:t> (14:25 ET) Scottish Professional Football League: Raith Rovers vs Dunfermline Athletic",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
           "title": "<t:1793993100:t> (14:25 ET) Scottish Professional Football League: Raith Rovers vs Dunfermline Athletic"
         },
         {
           "display_title": "6:00 AM <t:1793993700:t> (14:35 ET) Serie A: Venezia vs Udinese",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
           "title": "<t:1793993700:t> (14:35 ET) Serie A: Venezia vs Udinese"
         },
         {
           "display_title": "6:00 AM <t:1793994600:t> (14:50 ET) English Football League: Derby County vs Bolton Wanderers",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
           "title": "<t:1793994600:t> (14:50 ET) English Football League: Derby County vs Bolton Wanderers"
         },
         {
-          "display_title": "6:00 AM <t:1794006000:t> (18:00 ET) UFC: UFC Fight Night Preview Show Cortes Acosta vs Walker",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
+          "display_title": "6:00 AM <t:1793995200:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1794006000:t> (18:00 ET) UFC: UFC Fight Night Preview Show Cortes Acosta vs Walker"
+          "title": "<t:1793995200:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "6:00 AM <t:1793998800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793998800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "6:00 AM <t:1794006000:t> (18:00 ET) UFC: UFC Fight Night Preview Show: Cortes Acosta vs Walker",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794006000:t> (18:00 ET) UFC: UFC Fight Night Preview Show: Cortes Acosta vs Walker"
+        },
+        {
+          "display_title": "6:00 AM <t:1794006000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794006000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794009600:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         },
         {
           "display_title": "6:00 AM <t:1794021300:t> (22:15 ET) PBR Team Series: PBR Teams Championship",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
           "title": "<t:1794021300:t> (22:15 ET) PBR Team Series: PBR Teams Championship"
+        },
+        {
+          "display_title": "6:00 AM <t:1793988000:t> (13:00 ET) Zuffa Boxing 12 Ceremonial Weigh In",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793988000:t> (13:00 ET) Zuffa Boxing 12 Ceremonial Weigh In"
+        },
+        {
+          "display_title": "6:00 AM <t:1793993100:t> (14:25 ET) Raith Rovers vs Dunfermline Athletic",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793993100:t> (14:25 ET) Raith Rovers vs Dunfermline Athletic"
+        },
+        {
+          "display_title": "6:00 AM <t:1793993700:t> (14:35 ET) Venezia vs Udinese",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793993700:t> (14:35 ET) Venezia vs Udinese"
+        },
+        {
+          "display_title": "6:00 AM <t:1793994600:t> (14:50 ET) Derby County vs Bolton Wanderers",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793994600:t> (14:50 ET) Derby County vs Bolton Wanderers"
+        },
+        {
+          "display_title": "6:00 AM <t:1794006000:t> (18:00 ET) UFC Fight Night Preview Show: Cortes Acosta vs Walker",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794006000:t> (18:00 ET) UFC Fight Night Preview Show: Cortes Acosta vs Walker"
+        },
+        {
+          "display_title": "6:00 AM <t:1794021300:t> (22:15 ET) PBR Teams Championship",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794021300:t> (22:15 ET) PBR Teams Championship"
+        },
+        {
+          "display_title": "6:00 AM <t:1793982000:t> (11:20 ET) World Rugby: Romania vs Tonga",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793982000:t> (11:20 ET) World Rugby: Romania vs Tonga"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 638119296,
-      "message_timestamp": 1793968250,
+      "message_id": 638230963,
+      "message_timestamp": 1793991622,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-06T16:01:48.592344+00:00"
+      "updated_at": "2026-11-06T21:38:59.015480+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -346,14 +474,6 @@
           "title": "<t:1794016800:t> (21:00 ET) ONE Championship 49"
         },
         {
-          "display_title": "6:00 AM <t:1793984400:t> (12:00 ET) Power Slap 26",
-          "slot": "PPV C 003",
-          "slot_norm": "PPV C 3",
-          "start": "2026-11-06T12:00:00-05:00",
-          "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1793984400:t> (12:00 ET) Power Slap 26"
-        },
-        {
           "display_title": "6:00 AM <t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte",
           "slot": "PPV D 01",
           "slot_norm": "PPV D 1",
@@ -379,10 +499,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638142413,
-      "message_timestamp": 1793973634,
+      "message_id": 638243619,
+      "message_timestamp": 1793995230,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-06T16:01:48.713164+00:00"
+      "updated_at": "2026-11-06T21:38:59.200773+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
