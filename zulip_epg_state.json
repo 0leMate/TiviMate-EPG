@@ -4,27 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "6:00 AM <t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte",
+          "display_title": "6:00 AM <t:1793988900:t> (13:15 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte"
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793988900:t> (13:15 ET) The Dirt Track at Charlotte"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 637874922,
-      "message_timestamp": 1793896265,
+      "message_id": 638027570,
+      "message_timestamp": 1793941239,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-05T16:34:56.201632+00:00"
+      "updated_at": "2026-11-06T07:03:35.292612+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -120,229 +112,237 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793898000:t> (12:00 ET) UEFA Conference League: FC Thun vs Heart of Midlothian",
-          "slot": "PARAMOUNT C 14",
-          "slot_norm": "PARAMOUNT C 14",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793898000:t> (12:00 ET) UEFA Conference League: FC Thun vs Heart of Midlothian"
+          "display_title": "6:00 AM <t:1793982000:t> (11:20 ET) Romania vs Tonga",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793982000:t> (11:20 ET) Romania vs Tonga"
         },
         {
-          "display_title": "6:00 AM <t:1793898000:t> (12:00 ET) UEFA Conference League: Crvena Zvezda vs Inter Escaldes",
-          "slot": "PARAMOUNT C 15",
-          "slot_norm": "PARAMOUNT C 15",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793898000:t> (12:00 ET) UEFA Conference League: Crvena Zvezda vs Inter Escaldes"
+          "display_title": "6:00 AM <t:1793988000:t> (13:00 ET) Zuffa Boxing 12 Ceremonial Weigh In",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793988000:t> (13:00 ET) Zuffa Boxing 12 Ceremonial Weigh In"
         },
         {
-          "display_title": "6:00 AM <t:1793898000:t> (12:00 ET) UEFA Conference League: KuPS Kuopio vs KAA Gent",
-          "slot": "PARAMOUNT C 16",
-          "slot_norm": "PARAMOUNT C 16",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793898000:t> (12:00 ET) UEFA Conference League: KuPS Kuopio vs KAA Gent"
+          "display_title": "6:00 AM <t:1793993100:t> (14:25 ET) Raith Rovers vs Dunfermline Athletic",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793993100:t> (14:25 ET) Raith Rovers vs Dunfermline Athletic"
         },
         {
-          "display_title": "6:00 AM <t:1793898000:t> (12:00 ET) UEFA Conference League: L Red Imps vs Hajduk Split",
-          "slot": "PARAMOUNT C 17",
-          "slot_norm": "PARAMOUNT C 17",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793898000:t> (12:00 ET) UEFA Conference League: L Red Imps vs Hajduk Split"
+          "display_title": "6:00 AM <t:1793993700:t> (14:35 ET) Venezia vs Udinese",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793993700:t> (14:35 ET) Venezia vs Udinese"
         },
         {
-          "display_title": "6:00 AM <t:1793898000:t> (12:00 ET) UEFA Conference League: Mjällby vs FK Borac",
-          "slot": "PARAMOUNT C 18",
-          "slot_norm": "PARAMOUNT C 18",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793898000:t> (12:00 ET) UEFA Conference League: Mjällby vs FK Borac"
+          "display_title": "6:00 AM <t:1793994600:t> (14:50 ET) Derby County vs Bolton Wanderers",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793994600:t> (14:50 ET) Derby County vs Bolton Wanderers"
         },
         {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: Bayer Leverkusen vs Marseille",
-          "slot": "PARAMOUNT C 19",
-          "slot_norm": "PARAMOUNT C 19",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: Bayer Leverkusen vs Marseille"
+          "display_title": "6:00 AM <t:1794006000:t> (18:00 ET) UFC Fight Night Preview Show: Cortes Acosta vs Walker",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794006000:t> (18:00 ET) UFC Fight Night Preview Show: Cortes Acosta vs Walker"
         },
         {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: AZ Alkmaar vs Juventus",
-          "slot": "PARAMOUNT C 21",
-          "slot_norm": "PARAMOUNT C 21",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: AZ Alkmaar vs Juventus"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: Celtic vs Beşiktaş",
-          "slot": "PARAMOUNT C 22",
-          "slot_norm": "PARAMOUNT C 22",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: Celtic vs Beşiktaş"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: Benfica vs Lech Poznań",
-          "slot": "PARAMOUNT C 23",
-          "slot_norm": "PARAMOUNT C 23",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: Benfica vs Lech Poznań"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: Celta Vigo vs Union Saint Gilloise",
-          "slot": "PARAMOUNT C 24",
-          "slot_norm": "PARAMOUNT C 24",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: Celta Vigo vs Union Saint Gilloise"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: Torreense vs Ararat Armenia",
-          "slot": "PARAMOUNT C 26",
-          "slot_norm": "PARAMOUNT C 26",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: Torreense vs Ararat Armenia"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Europa League: Sturm Graz vs Celje",
-          "slot": "PARAMOUNT C 27",
-          "slot_norm": "PARAMOUNT C 27",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Europa League: Sturm Graz vs Celje"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: Getafe vs Brighton",
-          "slot": "PARAMOUNT C 28",
-          "slot_norm": "PARAMOUNT C 28",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: Getafe vs Brighton"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: Monaco vs FC Nordsjælland",
-          "slot": "PARAMOUNT C 29",
-          "slot_norm": "PARAMOUNT C 29",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: Monaco vs FC Nordsjælland"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: Copenhagen vs FC Iberia Tbilisi",
-          "slot": "PARAMOUNT C 30",
-          "slot_norm": "PARAMOUNT C 30",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: Copenhagen vs FC Iberia Tbilisi"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: K Sint Truidense vs Brann",
-          "slot": "PARAMOUNT C 33",
-          "slot_norm": "PARAMOUNT C 33",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: K Sint Truidense vs Brann"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: Panathinaikos vs CSKA Sofia",
-          "slot": "PARAMOUNT C 34",
-          "slot_norm": "PARAMOUNT C 34",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: Panathinaikos vs CSKA Sofia"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: Riga FC vs Jablonec",
-          "slot": "PARAMOUNT C 35",
-          "slot_norm": "PARAMOUNT C 35",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: Riga FC vs Jablonec"
-        },
-        {
-          "display_title": "6:00 AM <t:1793908200:t> (14:50 ET) UEFA Conference League: Craiova vs Egnatia",
-          "slot": "PARAMOUNT C 36",
-          "slot_norm": "PARAMOUNT C 36",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908200:t> (14:50 ET) UEFA Conference League: Craiova vs Egnatia"
+          "display_title": "6:00 AM <t:1794021300:t> (22:15 ET) PBR Teams Championship",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794021300:t> (22:15 ET) PBR Teams Championship"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 637824078,
-      "message_timestamp": 1793887288,
+      "message_id": 638027770,
+      "message_timestamp": 1793941282,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-05T16:34:56.708576+00:00"
+      "updated_at": "2026-11-06T07:03:35.415039+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte",
+          "display_title": "6:00 AM <t:1793952000:t> (03:00 ET) Gallen vs Asofa",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte"
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793952000:t> (03:00 ET) Gallen vs Asofa"
         },
         {
-          "display_title": "6:00 AM <t:1793916000:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)",
-          "slot": "PPV 26",
-          "slot_norm": "PPV 26",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793916000:t> (17:00 ET) UFC Fight Night Moicano vs Nolan (Special Feed)"
+          "display_title": "6:00 AM <t:1793971800:t> (08:30 ET) ONE Friday Fights Isannuea vs Jack",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793971800:t> (08:30 ET) ONE Friday Fights Isannuea vs Jack"
         },
         {
-          "display_title": "6:00 AM <t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte",
+          "display_title": "6:00 AM <t:1793980800:t> (11:00 ET) IFL 5 Sumit vs Paalee",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793980800:t> (11:00 ET) IFL 5 Sumit vs Paalee"
+        },
+        {
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) Samourai MMA 2",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794009600:t> (19:00 ET) Samourai MMA 2"
+        },
+        {
+          "display_title": "6:00 AM <t:1794016800:t> (21:00 ET) GCW Dead on Arrival",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794016800:t> (21:00 ET) GCW Dead on Arrival"
+        },
+        {
+          "display_title": "6:00 AM <t:1794016800:t> (21:00 ET) ONE Fight Night 49 Gabriel vs Rasulov",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794016800:t> (21:00 ET) ONE Fight Night 49 Gabriel vs Rasulov"
+        },
+        {
+          "display_title": "6:00 AM <t:1794020400:t> (22:00 ET) LUX 064",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794020400:t> (22:00 ET) LUX 064"
+        },
+        {
+          "display_title": "6:00 AM <t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
+        },
+        {
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series"
+        },
+        {
+          "display_title": "6:00 AM <t:1793952000:t> (03:00 ET) Gallen vs Asofa",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte"
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793952000:t> (03:00 ET) Gallen vs Asofa"
         },
         {
-          "display_title": "6:00 AM <t:1793898000:t> (12:00 ET) EFC 139: Mkhwanazi vs Hinda",
+          "display_title": "6:00 AM <t:1793971800:t> (08:30 ET) ONE Friday Fights Isannuea vs Jack",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793971800:t> (08:30 ET) ONE Friday Fights Isannuea vs Jack"
+        },
+        {
+          "display_title": "6:00 AM <t:1793980800:t> (11:00 ET) IFL 5 Sumit vs Paalee",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793980800:t> (11:00 ET) IFL 5 Sumit vs Paalee"
+        },
+        {
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) Samourai MMA 2",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794009600:t> (19:00 ET) Samourai MMA 2"
+        },
+        {
+          "display_title": "6:00 AM <t:1794016800:t> (21:00 ET) GCW Dead on Arrival",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794016800:t> (21:00 ET) GCW Dead on Arrival"
+        },
+        {
+          "display_title": "6:00 AM <t:1794016800:t> (21:00 ET) ONE Fight Night 49 Gabriel vs Rasulov",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794016800:t> (21:00 ET) ONE Fight Night 49 Gabriel vs Rasulov"
+        },
+        {
+          "display_title": "6:00 AM <t:1794020400:t> (22:00 ET) LUX 064",
+          "slot": "PPV B 07",
+          "slot_norm": "PPV B 7",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794020400:t> (22:00 ET) LUX 064"
+        },
+        {
+          "display_title": "6:00 AM <t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte",
+          "slot": "PPV B 08",
+          "slot_norm": "PPV B 8",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
+        },
+        {
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series",
+          "slot": "PPV B 09",
+          "slot_norm": "PPV B 9",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series"
+        },
+        {
+          "display_title": "6:00 AM <t:1793984400:t> (12:00 ET) EFC 139: Mkhwanazi vs Hinda",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793898000:t> (12:00 ET) EFC 139: Mkhwanazi vs Hinda"
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793984400:t> (12:00 ET) EFC 139: Mkhwanazi vs Hinda"
         },
         {
-          "display_title": "6:00 AM <t:1793908800:t> (15:00 ET) Media Fight Night 2026",
+          "display_title": "6:00 AM <t:1793995200:t> (15:00 ET) Media Fight Night 2026",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793908800:t> (15:00 ET) Media Fight Night 2026"
-        },
-        {
-          "display_title": "6:00 AM <t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793902500:t> (13:15 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "6:00 AM <t:1793919600:t> (18:00 ET) Gold Rush Nationals",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-05T12:00:00-05:00",
-          "stop": "2026-11-06T00:00:00-05:00",
-          "title": "<t:1793919600:t> (18:00 ET) Gold Rush Nationals"
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793995200:t> (15:00 ET) Media Fight Night 2026"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 637978898,
-      "message_timestamp": 1793921434,
+      "message_id": 638042253,
+      "message_timestamp": 1793948446,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-05T23:43:41.386626+00:00"
+      "updated_at": "2026-11-06T07:03:35.524284+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
