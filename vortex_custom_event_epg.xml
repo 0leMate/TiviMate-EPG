@@ -7052,7 +7052,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
     <display-name>PPV 11</display-name>
-    <display-name>PPV 11: 19:00 PFC 55</display-name>
+    <display-name>PPV 11: 19:00 CANCELLED PFC 55</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.12">
@@ -7127,17 +7127,17 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.26">
     <display-name>PPV 26</display-name>
-    <display-name>PPV 26:</display-name>
+    <display-name>PPV 26: 17:00 UFC Fight Night Acosta vs Walker - Special Feed</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.27">
     <display-name>PPV 27</display-name>
-    <display-name>PPV 27:</display-name>
+    <display-name>PPV 27: UFC Fight Night: Multiview</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.28">
     <display-name>PPV 28</display-name>
-    <display-name>PPV 28:</display-name>
+    <display-name>PPV 28: FRDM+ World Cup Finals Day 3 Live</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.29">
@@ -7232,7 +7232,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.11">
     <display-name>PPV B 11</display-name>
-    <display-name>PPV B 11: 19:00 PFC 55</display-name>
+    <display-name>PPV B 11: 19:00 CANCELLED PFC 55</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.12">
@@ -7937,12 +7937,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.18">
     <display-name>PPV D 18</display-name>
-    <display-name>PPV D 18: 20:00 OKTAGON 97 Severino vs Holzer 11-07</display-name>
+    <display-name>PPV D 18: 12:00 OKTAGON 97 Severino vs Holzer 11-07</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.19">
     <display-name>PPV D 19</display-name>
-    <display-name>PPV D 19: 17:30 Petrosyan Mania Gold Edition 11-27</display-name>
+    <display-name>PPV D 19: 15:00 Petrosyan Mania Gold Edition 11-27</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.20">
@@ -14948,6 +14948,16 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.12">
+    <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) Perez vs Rivera</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.13">
+    <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) GCW The Crossroads</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
   <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.14">
     <title>6:00 AM &lt;t:1794061500:t&gt; (09:25 ET) GNCC Buckwheat 100</title>
     <category>Sports</category>
@@ -15075,11 +15085,6 @@
   </programme>
   <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.02">
     <title>6:00 AM &lt;t:1794092400:t&gt; (18:00 ET) Gold Rush Nationals</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.03">
-    <title>6:00 AM &lt;t:1794061800:t&gt; (09:30 ET) Grand National Cross Country Buckwheat 100</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

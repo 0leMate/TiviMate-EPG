@@ -202,6 +202,22 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "6:00 AM <t:1794099600:t> (20:00 ET) Perez vs Rivera",
+          "slot": "PPV B 12",
+          "slot_norm": "PPV B 12",
+          "start": "2026-11-07T12:00:00-05:00",
+          "stop": "2026-11-08T00:00:00-05:00",
+          "title": "<t:1794099600:t> (20:00 ET) Perez vs Rivera"
+        },
+        {
+          "display_title": "6:00 AM <t:1794099600:t> (20:00 ET) GCW The Crossroads",
+          "slot": "PPV B 13",
+          "slot_norm": "PPV B 13",
+          "start": "2026-11-07T12:00:00-05:00",
+          "stop": "2026-11-08T00:00:00-05:00",
+          "title": "<t:1794099600:t> (20:00 ET) GCW The Crossroads"
+        },
+        {
           "display_title": "6:00 AM <t:1794061500:t> (09:25 ET) GNCC Buckwheat 100",
           "slot": "PPV B 14",
           "slot_norm": "PPV B 14",
@@ -408,21 +424,13 @@
           "start": "2026-11-07T12:00:00-05:00",
           "stop": "2026-11-08T00:00:00-05:00",
           "title": "<t:1794092400:t> (18:00 ET) Gold Rush Nationals"
-        },
-        {
-          "display_title": "6:00 AM <t:1794061800:t> (09:30 ET) Grand National Cross Country Buckwheat 100",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794061800:t> (09:30 ET) Grand National Cross Country Buckwheat 100"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638365531,
-      "message_timestamp": 1794056445,
+      "message_id": 638424719,
+      "message_timestamp": 1794087387,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-07T16:32:58.753535+00:00"
+      "updated_at": "2026-11-07T22:04:51.583324+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
