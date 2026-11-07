@@ -378,12 +378,12 @@
           "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
         },
         {
-          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series",
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) CANCELLED Southern Thunder Super Dirt Series",
           "slot": "PPV 09",
           "slot_norm": "PPV 9",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series"
+          "title": "<t:1794009600:t> (19:00 ET) CANCELLED Southern Thunder Super Dirt Series"
         },
         {
           "display_title": "6:00 AM <t:1793984400:t> (12:00 ET) Power Slap 26",
@@ -450,20 +450,20 @@
           "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
         },
         {
-          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series",
+          "display_title": "6:00 AM <t:1794009600:t> (19:00 ET) CANCELLED Southern Thunder Super Dirt Series",
           "slot": "PPV B 09",
           "slot_norm": "PPV B 9",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1794009600:t> (19:00 ET) Southern Thunder Super Dirt Series"
+          "title": "<t:1794009600:t> (19:00 ET) CANCELLED Southern Thunder Super Dirt Series"
         },
         {
-          "display_title": "6:00 AM <t:1793971800:t> (08:30 ET) ONE Friday Fights 177 & The Inner Circle 37",
+          "display_title": "6:00 AM <t:1793967000:t> (07:10 ET) RWS: Wukong vs Chaila",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1793971800:t> (08:30 ET) ONE Friday Fights 177 & The Inner Circle 37"
+          "title": "<t:1793967000:t> (07:10 ET) RWS: Wukong vs Chaila"
         },
         {
           "display_title": "6:00 AM <t:1794016800:t> (21:00 ET) ONE Championship 49",
@@ -474,35 +474,83 @@
           "title": "<t:1794016800:t> (21:00 ET) ONE Championship 49"
         },
         {
-          "display_title": "6:00 AM <t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
+          "display_title": "6:00 AM <t:1793984400:t> (12:00 ET) OKTAGON 97: Severino vs Holzer",
+          "slot": "PPV C 003",
+          "slot_norm": "PPV C 3",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1793993400:t> (14:30 ET) The Dirt Track at Charlotte"
+          "title": "<t:1793984400:t> (12:00 ET) OKTAGON 97: Severino vs Holzer"
         },
         {
-          "display_title": "6:00 AM <t:1794006000:t> (18:00 ET) Gold Rush Nationals",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
+          "display_title": "6:00 AM <t:1793984400:t> (12:00 ET) OKTAGON 97: Severino vs Holzer BU",
+          "slot": "PPV C 004",
+          "slot_norm": "PPV C 4",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1794006000:t> (18:00 ET) Gold Rush Nationals"
+          "title": "<t:1793984400:t> (12:00 ET) OKTAGON 97: Severino vs Holzer BU"
         },
         {
-          "display_title": "6:00 AM <t:1794016800:t> (21:00 ET) GCW Dead on Arrival",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) Buatsi vs Hutchinson 2",
+          "slot": "PPV C 005",
+          "slot_norm": "PPV C 5",
           "start": "2026-11-06T12:00:00-05:00",
           "stop": "2026-11-07T00:00:00-05:00",
-          "title": "<t:1794016800:t> (21:00 ET) GCW Dead on Arrival"
+          "title": "<t:1793991600:t> (14:00 ET) Buatsi vs Hutchinson 2"
+        },
+        {
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) Buatsi vs Hutchinson 2 BU",
+          "slot": "PPV C 006",
+          "slot_norm": "PPV C 6",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793991600:t> (14:00 ET) Buatsi vs Hutchinson 2 BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) BKFC 96: Cooke vs Weir ( Also in Triller Section )",
+          "slot": "PPV C 007",
+          "slot_norm": "PPV C 7",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793991600:t> (14:00 ET) BKFC 96: Cooke vs Weir ( Also in Triller Section )"
+        },
+        {
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) BKFC 96: Cooke vs Weir BU",
+          "slot": "PPV C 008",
+          "slot_norm": "PPV C 8",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793991600:t> (14:00 ET) BKFC 96: Cooke vs Weir BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) Chris Billam-Smith vs Chev Clarke",
+          "slot": "PPV C 009",
+          "slot_norm": "PPV C 9",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793991600:t> (14:00 ET) Chris Billam-Smith vs Chev Clarke"
+        },
+        {
+          "display_title": "6:00 AM <t:1793991600:t> (14:00 ET) Chris Billam-Smith vs Chev Clarke BU",
+          "slot": "PPV C 010",
+          "slot_norm": "PPV C 10",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793991600:t> (14:00 ET) Chris Billam-Smith vs Chev Clarke BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1793994600:t> (14:50 ET) Petrosyan Mania Gold Edition",
+          "slot": "PPV C 011",
+          "slot_norm": "PPV C 11",
+          "start": "2026-11-06T12:00:00-05:00",
+          "stop": "2026-11-07T00:00:00-05:00",
+          "title": "<t:1793994600:t> (14:50 ET) Petrosyan Mania Gold Edition"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638243619,
-      "message_timestamp": 1793995230,
+      "message_id": 638287595,
+      "message_timestamp": 1794011432,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-06T21:38:59.200773+00:00"
+      "updated_at": "2026-11-07T02:03:29.572494+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
