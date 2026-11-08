@@ -4,19 +4,35 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794166200:t> (14:30 ET) The Dirt Track at Charlotte",
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration"
+        },
+        {
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Celebration",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794166200:t> (14:30 ET) The Dirt Track at Charlotte"
+          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Celebration"
+        },
+        {
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 638464826,
-      "message_timestamp": 1794114025,
+      "message_id": 638522058,
+      "message_timestamp": 1794153640,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-08T09:13:25.846435+00:00"
+      "updated_at": "2026-11-08T16:43:58.936421+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,151 +128,215 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794136800:t> (06:20 ET) Napoli vs Lazio",
-          "slot": "PARAMOUNT B 025",
-          "slot_norm": "PARAMOUNT B 25",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794136800:t> (06:20 ET) Napoli vs Lazio"
-        },
-        {
-          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Genoa vs Milan",
-          "slot": "PARAMOUNT B 026",
-          "slot_norm": "PARAMOUNT B 26",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794145800:t> (08:50 ET) Genoa vs Milan"
-        },
-        {
-          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Monza vs Atalanta",
-          "slot": "PARAMOUNT B 027",
-          "slot_norm": "PARAMOUNT B 27",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794145800:t> (08:50 ET) Monza vs Atalanta"
-        },
-        {
-          "display_title": "6:00 AM <t:1794155400:t> (11:30 ET) Inter vs Como",
-          "slot": "PARAMOUNT B 028",
-          "slot_norm": "PARAMOUNT B 28",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794155400:t> (11:30 ET) Inter vs Como"
-        },
-        {
-          "display_title": "6:00 AM <t:1794164400:t> (14:00 ET) Fiorentina vs Juventus",
-          "slot": "PARAMOUNT B 029",
-          "slot_norm": "PARAMOUNT B 29",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794164400:t> (14:00 ET) Fiorentina vs Juventus"
-        },
-        {
           "display_title": "6:00 AM <t:1794136800:t> (06:20 ET) Serie A: Napoli vs Lazio",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794136800:t> (06:20 ET) Serie A: Napoli vs Lazio"
         },
         {
+          "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Barclays Women's Super League: Aston Villa vs Man. United",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794138600:t> (06:50 ET) Barclays Women's Super League: Aston Villa vs Man. United"
+        },
+        {
           "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Barclays Women's Super League: Liverpool vs Arsenal",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794138600:t> (06:50 ET) Barclays Women's Super League: Liverpool vs Arsenal"
         },
         {
-          "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Barclays Women's Super League: Aston Villa vs Man United",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794138600:t> (06:50 ET) Barclays Women's Super League: Aston Villa vs Man United"
-        },
-        {
-          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Serie A: Genoa vs Milan",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794145800:t> (08:50 ET) Serie A: Genoa vs Milan"
-        },
-        {
-          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Serie A: Monza vs Atalanta",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794145800:t> (08:50 ET) Serie A: Monza vs Atalanta"
-        },
-        {
           "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Barclays Women's Super League: Crystal Palace vs Charlton Athletic",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794145800:t> (08:50 ET) Barclays Women's Super League: Crystal Palace vs Charlton Athletic"
         },
         {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Serie A: Genoa vs Milan",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Serie A: Genoa vs Milan"
+        },
+        {
           "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Barclays Women's Super League: Tottenham vs Brighton",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794145800:t> (08:50 ET) Barclays Women's Super League: Tottenham vs Brighton"
         },
         {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Serie A: Monza vs Atalanta",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Serie A: Monza vs Atalanta"
+        },
+        {
           "display_title": "6:00 AM <t:1794146400:t> (09:00 ET) Barclays Women's Super League: London City vs Birmingham City",
-          "slot": "PARAMOUNT C 08",
-          "slot_norm": "PARAMOUNT C 8",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794146400:t> (09:00 ET) Barclays Women's Super League: London City vs Birmingham City"
         },
         {
           "display_title": "6:00 AM <t:1794148500:t> (09:35 ET) World Rugby: Hong Kong China vs USA Eagles",
-          "slot": "PARAMOUNT C 09",
-          "slot_norm": "PARAMOUNT C 9",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794148500:t> (09:35 ET) World Rugby: Hong Kong China vs USA Eagles"
         },
         {
+          "display_title": "6:00 AM <t:1794150000:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794150000:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
+        },
+        {
           "display_title": "6:00 AM <t:1794155400:t> (11:30 ET) Serie A: Inter vs Como",
-          "slot": "PARAMOUNT C 10",
-          "slot_norm": "PARAMOUNT C 10",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794155400:t> (11:30 ET) Serie A: Inter vs Como"
         },
         {
+          "display_title": "6:00 AM <t:1794157200:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794157200:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
+        },
+        {
+          "display_title": "6:00 AM <t:1794160800:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794160800:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
+        },
+        {
           "display_title": "6:00 AM <t:1794164400:t> (14:00 ET) Serie A: Fiorentina vs Juventus",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
           "title": "<t:1794164400:t> (14:00 ET) Serie A: Fiorentina vs Juventus"
+        },
+        {
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) CBS Sports HQ: The Postgame",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794182400:t> (19:00 ET) CBS Sports HQ: The Postgame"
+        },
+        {
+          "display_title": "6:00 AM <t:1794136800:t> (06:20 ET) Napoli vs Lazio",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794136800:t> (06:20 ET) Napoli vs Lazio"
+        },
+        {
+          "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Liverpool vs Arsenal",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794138600:t> (06:50 ET) Liverpool vs Arsenal"
+        },
+        {
+          "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Aston Villa vs Man. United",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794138600:t> (06:50 ET) Aston Villa vs Man. United"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Genoa vs Milan",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Genoa vs Milan"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Monza vs Atalanta",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Monza vs Atalanta"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Crystal Palace vs Charlton Athletic",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Crystal Palace vs Charlton Athletic"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Tottenham vs Brighton",
+          "slot": "PARAMOUNT B 007",
+          "slot_norm": "PARAMOUNT B 7",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Tottenham vs Brighton"
+        },
+        {
+          "display_title": "6:00 AM <t:1794146400:t> (09:00 ET) London City vs Birmingham City",
+          "slot": "PARAMOUNT B 008",
+          "slot_norm": "PARAMOUNT B 8",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794146400:t> (09:00 ET) London City vs Birmingham City"
+        },
+        {
+          "display_title": "6:00 AM <t:1794148500:t> (09:35 ET) Hong Kong China vs USA Eagles",
+          "slot": "PARAMOUNT B 009",
+          "slot_norm": "PARAMOUNT B 9",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794148500:t> (09:35 ET) Hong Kong China vs USA Eagles"
+        },
+        {
+          "display_title": "6:00 AM <t:1794155400:t> (11:30 ET) Inter vs Como",
+          "slot": "PARAMOUNT B 010",
+          "slot_norm": "PARAMOUNT B 10",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794155400:t> (11:30 ET) Inter vs Como"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 638481939,
-      "message_timestamp": 1794126624,
+      "message_id": 638503034,
+      "message_timestamp": 1794141047,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-08T09:13:26.235092+00:00"
+      "updated_at": "2026-11-08T16:43:59.228968+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
-        {
-          "display_title": "6:00 AM <t:1794115800:t> (00:30 ET) Pancrase 368",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794115800:t> (00:30 ET) Pancrase 368"
-        },
         {
           "display_title": "6:00 AM <t:1794142800:t> (08:00 ET) GNCC Buckwheat 100",
           "slot": "PPV 02",
@@ -314,14 +394,6 @@
           "title": "<t:1794175200:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794115800:t> (00:30 ET) Pancrase 368",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794115800:t> (00:30 ET) Pancrase 368"
-        },
-        {
           "display_title": "6:00 AM <t:1794142800:t> (08:00 ET) GNCC Buckwheat 100",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
@@ -370,67 +442,59 @@
           "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
         },
         {
-          "display_title": "6:00 AM <t:1794167400:t> (14:50 ET) Petrosyan Mania Gold Edition",
-          "slot": "PPV C 011",
-          "slot_norm": "PPV C 11",
+          "display_title": "6:00 AM <t:1794176100:t> (17:15 ET) Turhan vs Baumgardner - Prelims",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794167400:t> (14:50 ET) Petrosyan Mania Gold Edition"
+          "title": "<t:1794176100:t> (17:15 ET) Turhan vs Baumgardner - Prelims"
         },
         {
-          "display_title": "6:00 AM <t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker ( Prelims fin UFC Section 22:00 )",
-          "slot": "PPV C 012",
-          "slot_norm": "PPV C 12",
+          "display_title": "6:00 AM <t:1794187800:t> (20:30 ET) LIVE EVENT 05",
+          "slot": "PPV C 003",
+          "slot_norm": "PPV C 3",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker ( Prelims fin UFC Section 22:00 )"
+          "title": "<t:1794187800:t> (20:30 ET) LIVE EVENT 05"
         },
         {
-          "display_title": "6:00 AM <t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker",
-          "slot": "PPV C 013",
-          "slot_norm": "PPV C 13",
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) Shooto Brazil 141",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker"
+          "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
         },
         {
-          "display_title": "6:00 AM <t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker",
-          "slot": "PPV C 014",
-          "slot_norm": "PPV C 14",
+          "display_title": "6:00 AM <t:1794148200:t> (09:30 ET) Grand National Cross Country Buckwheat 100",
+          "slot": "PPV D 05",
+          "slot_norm": "PPV D 5",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker"
+          "title": "<t:1794148200:t> (09:30 ET) Grand National Cross Country Buckwheat 100"
         },
         {
-          "display_title": "6:00 AM <t:1794186000:t> (20:00 ET) Perez vs Rivera",
-          "slot": "PPV C 016",
-          "slot_norm": "PPV C 16",
+          "display_title": "6:00 AM <t:1794144600:t> (08:30 ET) Veterans Race of Remembrance at Virginia international",
+          "slot": "PPV D 06",
+          "slot_norm": "PPV D 6",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794186000:t> (20:00 ET) Perez vs Rivera"
+          "title": "<t:1794144600:t> (08:30 ET) Veterans Race of Remembrance at Virginia international"
         },
         {
-          "display_title": "6:00 AM <t:1794186000:t> (20:00 ET) Perez vs Rivera BU",
-          "slot": "PPV C 017",
-          "slot_norm": "PPV C 17",
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration",
+          "slot": "PPV D 07",
+          "slot_norm": "PPV D 7",
           "start": "2026-11-08T12:00:00-05:00",
           "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794186000:t> (20:00 ET) Perez vs Rivera BU"
-        },
-        {
-          "display_title": "6:00 AM <t:1794157200:t> (12:00 ET) WWE Crown Jewel",
-          "slot": "PPV C 018",
-          "slot_norm": "PPV C 18",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794157200:t> (12:00 ET) WWE Crown Jewel"
+          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638469583,
-      "message_timestamp": 1794117645,
+      "message_id": 638522088,
+      "message_timestamp": 1794153661,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-08T09:13:26.690186+00:00"
+      "updated_at": "2026-11-08T16:43:59.524450+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -566,325 +630,69 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Liam Lawson: Onboard",
-          "slot": "SKY SPORTS+ 22",
-          "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Liam Lawson: Onboard"
+          "display_title": "1:00 AM <t:1794178500:t> (22:55 UTC) WTA Tour WTA Tennis K. Siniakova/T. Townsend vs S. Errani/J. Paolini",
+          "slot": "SKY SPORTS+ 45",
+          "slot_norm": "SKY SPORTS+ 45",
+          "start": "2026-11-08T12:00:00+00:00",
+          "stop": "2026-11-09T00:00:00+00:00",
+          "title": "<t:1794178500:t> (22:55 UTC) WTA Tour WTA Tennis K. Siniakova/T. Townsend vs S. Errani/J. Paolini"
         },
         {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Max Verstappen: Onboard",
-          "slot": "SKY SPORTS+ 23",
-          "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Max Verstappen: Onboard"
+          "display_title": "1:00 AM <t:1794183900:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs E. Perez/D. Schuurs",
+          "slot": "SKY SPORTS+ 46",
+          "slot_norm": "SKY SPORTS+ 46",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794183900:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs E. Perez/D. Schuurs"
         },
         {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard",
-          "slot": "SKY SPORTS+ 24",
-          "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Oliver Bearman: Onboard",
-          "slot": "SKY SPORTS+ 25",
-          "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Oliver Bearman: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Oscar Piastri: Onboard",
-          "slot": "SKY SPORTS+ 26",
-          "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Oscar Piastri: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Pierre Gasly: Onboard",
-          "slot": "SKY SPORTS+ 27",
-          "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Pierre Gasly: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Rafael Chaves Câmara: Onboard",
-          "slot": "SKY SPORTS+ 28",
-          "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Rafael Chaves Câmara: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Sergio Pérez: Onboard",
-          "slot": "SKY SPORTS+ 29",
-          "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Sergio Pérez: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard",
-          "slot": "SKY SPORTS+ 30",
-          "slot_norm": "SKY SPORTS+ 30",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Driver Tracker",
-          "slot": "SKY SPORTS+ 31",
-          "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Driver Tracker"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Multiscreen",
-          "slot": "SKY SPORTS+ 32",
-          "slot_norm": "SKY SPORTS+ 32",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Multiscreen"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Onboard Mix",
-          "slot": "SKY SPORTS+ 33",
-          "slot_norm": "SKY SPORTS+ 33",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Onboard Mix"
-        },
-        {
-          "display_title": "1:00 AM <t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Timings",
-          "slot": "SKY SPORTS+ 34",
-          "slot_norm": "SKY SPORTS+ 34",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794056400:t> (13:00 UTC) F1 More From The Pit Wall Timings"
-        },
-        {
-          "display_title": "1:00 AM <t:1794057900:t> (13:25 UTC) ATP Tour ATP Tennis L.Van Assche vs B. Shelton",
-          "slot": "SKY SPORTS+ 35",
-          "slot_norm": "SKY SPORTS+ 35",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794057900:t> (13:25 UTC) ATP Tour ATP Tennis L.Van Assche vs B. Shelton"
-        },
-        {
-          "display_title": "1:00 AM <t:1794059700:t> (13:55 UTC) WTA Tour WTA Tennis M. Linette vs A. Zakharova",
-          "slot": "SKY SPORTS+ 36",
-          "slot_norm": "SKY SPORTS+ 36",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794059700:t> (13:55 UTC) WTA Tour WTA Tennis M. Linette vs A. Zakharova"
-        },
-        {
-          "display_title": "1:00 AM <t:1794066900:t> (15:55 UTC) ATP Tour ATP Tennis C. Ruud vs C. Alcaraz",
-          "slot": "SKY SPORTS+ 37",
-          "slot_norm": "SKY SPORTS+ 37",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794066900:t> (15:55 UTC) ATP Tour ATP Tennis C. Ruud vs C. Alcaraz"
-        },
-        {
-          "display_title": "1:00 AM <t:1794070500:t> (16:55 UTC) Premier League Forest vs Man City",
-          "slot": "SKY SPORTS+ 38",
-          "slot_norm": "SKY SPORTS+ 38",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794070500:t> (16:55 UTC) Premier League Forest vs Man City"
-        },
-        {
-          "display_title": "1:00 AM <t:1794072300:t> (17:25 UTC) ATP Tour ATP Tennis H. Heliovaara/H. Patten vs Q. Halys/P. Herbert",
-          "slot": "SKY SPORTS+ 39",
-          "slot_norm": "SKY SPORTS+ 39",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794072300:t> (17:25 UTC) ATP Tour ATP Tennis H. Heliovaara/H. Patten vs Q. Halys/P. Herbert"
-        },
-        {
-          "display_title": "1:00 AM <t:1794077700:t> (18:55 UTC) Copper Box Arena in Zuffa Boxing 12 Chris Billam-Smith vs Chev Clarke",
-          "slot": "SKY SPORTS+ 40",
-          "slot_norm": "SKY SPORTS+ 40",
-          "start": "2026-11-07T12:00:00+00:00",
-          "stop": "2026-11-08T00:00:00+00:00",
-          "title": "<t:1794077700:t> (18:55 UTC) Copper Box Arena in Zuffa Boxing 12 Chris Billam-Smith vs Chev Clarke"
+          "display_title": "1:00 AM <t:1794187500:t> (01:25 UTC) College Park Center in MVPW-07 Elif Turhan vs Alycia Baumgardner",
+          "slot": "SKY SPORTS+ 47",
+          "slot_norm": "SKY SPORTS+ 47",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794187500:t> (01:25 UTC) College Park Center in MVPW-07 Elif Turhan vs Alycia Baumgardner"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 638355904,
-      "message_timestamp": 1794051094,
+      "message_id": 638508281,
+      "message_timestamp": 1794144694,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-07T16:32:58.907508+00:00"
+      "updated_at": "2026-11-08T16:44:00.070954+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1794117300:t> (16:55 AEDT) Gamba Osaka vs Cerezo Osaka J.League 2026",
-          "slot": "AU STAN B 028",
-          "slot_norm": "AU STAN B 28",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794117300:t> (16:55 AEDT) Gamba Osaka vs Cerezo Osaka J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794122700:t> (18:25 AEDT) Gangwon vs Jeonbuk K League 2026",
-          "slot": "AU STAN B 029",
-          "slot_norm": "AU STAN B 29",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794122700:t> (18:25 AEDT) Gangwon vs Jeonbuk K League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794124800:t> (19:00 AEDT) Hong Kong: Day 7 WTA 250",
-          "slot": "AU STAN B 030",
-          "slot_norm": "AU STAN B 30",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794124800:t> (19:00 AEDT) Hong Kong: Day 7 WTA 250"
-        },
-        {
-          "display_title": "2:00 PM <t:1794130200:t> (20:30 AEDT) Race: 6 Hours of Monza WEC 2026",
-          "slot": "AU STAN B 031",
-          "slot_norm": "AU STAN B 31",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794130200:t> (20:30 AEDT) Race: 6 Hours of Monza WEC 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794138600:t> (22:50 AEDT) Stafford Rangers vs Grimsby Town FA Cup 2026/2027",
-          "slot": "AU STAN B 032",
-          "slot_norm": "AU STAN B 32",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794138600:t> (22:50 AEDT) Stafford Rangers vs Grimsby Town FA Cup 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794138600:t> (22:50 AEDT) Aston Villa vs Manchester United WSL 2026/27",
-          "slot": "AU STAN B 033",
-          "slot_norm": "AU STAN B 33",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794138600:t> (22:50 AEDT) Aston Villa vs Manchester United WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794138600:t> (22:50 AEDT) Liverpool vs Arsenal WSL 2026/27",
-          "slot": "AU STAN B 034",
-          "slot_norm": "AU STAN B 34",
-          "start": "2026-11-08T12:00:00+11:00",
-          "stop": "2026-11-09T00:00:00+11:00",
-          "title": "<t:1794138600:t> (22:50 AEDT) Liverpool vs Arsenal WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794142800:t> (00:00 AEDT) Goal Rush: Crystal Palace vs Liverpool • 9 Nov Premier League 2026/2027",
-          "slot": "AU STAN B 035",
-          "slot_norm": "AU STAN B 35",
+          "display_title": "2:00 PM <t:1794168000:t> (07:00 AEDT) Washington Spirit vs Portland Thorns FC NWSL 2026",
+          "slot": "AU STAN B 024",
+          "slot_norm": "AU STAN B 24",
           "start": "2026-11-09T12:00:00+11:00",
           "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794142800:t> (00:00 AEDT) Goal Rush: Crystal Palace vs Liverpool • 9 Nov Premier League 2026/2027"
+          "title": "<t:1794168000:t> (07:00 AEDT) Washington Spirit vs Portland Thorns FC NWSL 2026"
         },
         {
-          "display_title": "2:00 PM <t:1794145800:t> (00:50 AEDT) Crystal Palace vs Liverpool Premier League Matchweek 10 2026/2027",
-          "slot": "AU STAN B 036",
-          "slot_norm": "AU STAN B 36",
+          "display_title": "2:00 PM <t:1794168000:t> (07:00 AEDT) Indian Wells: Day 1 WTA Finals",
+          "slot": "AU STAN B 025",
+          "slot_norm": "AU STAN B 25",
           "start": "2026-11-09T12:00:00+11:00",
           "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794145800:t> (00:50 AEDT) Crystal Palace vs Liverpool Premier League Matchweek 10 2026/2027"
+          "title": "<t:1794168000:t> (07:00 AEDT) Indian Wells: Day 1 WTA Finals"
         },
         {
-          "display_title": "2:00 PM <t:1794145800:t> (00:50 AEDT) Sunderland vs Chelsea Premier League Matchweek 10 2026/2027",
-          "slot": "AU STAN B 037",
-          "slot_norm": "AU STAN B 37",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794145800:t> (00:50 AEDT) Sunderland vs Chelsea Premier League Matchweek 10 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794145800:t> (00:50 AEDT) Tottenham Hotspur vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN B 038",
-          "slot_norm": "AU STAN B 38",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794145800:t> (00:50 AEDT) Tottenham Hotspur vs Brighton & Hove Albion WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794145800:t> (00:50 AEDT) Crystal Palace vs Charlton Athletic WSL 2026/27",
-          "slot": "AU STAN B 039",
-          "slot_norm": "AU STAN B 39",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794145800:t> (00:50 AEDT) Crystal Palace vs Charlton Athletic WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794145800:t> (00:50 AEDT) Brighton & Hove Albion vs Brentford Premier League Matchweek 10 2026/2027",
-          "slot": "AU STAN B 040",
-          "slot_norm": "AU STAN B 40",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794145800:t> (00:50 AEDT) Brighton & Hove Albion vs Brentford Premier League Matchweek 10 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794145800:t> (00:50 AEDT) Ipswich Town vs Bournemouth Premier League Matchweek 10 2026/2027",
-          "slot": "AU STAN B 041",
-          "slot_norm": "AU STAN B 41",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794145800:t> (00:50 AEDT) Ipswich Town vs Bournemouth Premier League Matchweek 10 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794146700:t> (01:05 AEDT) Cray Wanderers vs Stockport County FA Cup 2026/2027",
-          "slot": "AU STAN B 042",
-          "slot_norm": "AU STAN B 42",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794146700:t> (01:05 AEDT) Cray Wanderers vs Stockport County FA Cup 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794147600:t> (01:20 AEDT) London City Lionesses vs Birmingham City WSL 2026/27",
-          "slot": "AU STAN B 043",
-          "slot_norm": "AU STAN B 43",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794147600:t> (01:20 AEDT) London City Lionesses vs Birmingham City WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794148200:t> (01:30 AEDT) England vs Australia Nations Championship Round 4 2026",
-          "slot": "AU STAN B 044",
-          "slot_norm": "AU STAN B 44",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794148200:t> (01:30 AEDT) England vs Australia Nations Championship Round 4 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794148500:t> (01:35 AEDT) Hong Kong China vs USA Nations Cup Round 4 2026",
-          "slot": "AU STAN B 045",
-          "slot_norm": "AU STAN B 45",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794148500:t> (01:35 AEDT) Hong Kong China vs USA Nations Cup Round 4 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794149400:t> (01:50 AEDT) Wimborne Town vs Crawley Town FA Cup 2026/2027",
-          "slot": "AU STAN B 046",
-          "slot_norm": "AU STAN B 46",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794149400:t> (01:50 AEDT) Wimborne Town vs Crawley Town FA Cup 2026/2027"
+          "display_title": "2:00 PM <t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27",
+          "slot": "AU STAN B 026",
+          "slot_norm": "AU STAN B 26",
+          "start": "2026-11-10T12:00:00+11:00",
+          "stop": "2026-11-11T00:00:00+11:00",
+          "title": "<t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 638365562,
-      "message_timestamp": 1794056458,
+      "message_id": 638505695,
+      "message_timestamp": 1794142909,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-07T16:32:58.986513+00:00"
+      "updated_at": "2026-11-08T16:44:00.360417+00:00"
     }
   },
   "version": 1
