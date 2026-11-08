@@ -7037,7 +7037,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
     <display-name>PPV 08</display-name>
-    <display-name>PPV 08: 12:00 Oktagon 97 Severino vs Holzer</display-name>
+    <display-name>PPV 08:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.09">
@@ -7047,12 +7047,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.10">
     <display-name>PPV 10</display-name>
-    <display-name>PPV 10: 15:00 2/ Cage Warriors 212</display-name>
+    <display-name>PPV 10:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
     <display-name>PPV 11</display-name>
-    <display-name>PPV 11: 19:00 CANCELLED PFC 55</display-name>
+    <display-name>PPV 11:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.12">
@@ -7067,12 +7067,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.14">
     <display-name>PPV 14</display-name>
-    <display-name>PPV 14: 09:25 GNCC Buckwheat 100</display-name>
+    <display-name>PPV 14:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.15">
     <display-name>PPV 15</display-name>
-    <display-name>PPV 15: 13:00 Crown Vic Nationals Caraway</display-name>
+    <display-name>PPV 15:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.16">
@@ -7217,7 +7217,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.08">
     <display-name>PPV B 08</display-name>
-    <display-name>PPV B 08: 12:00 Oktagon 97 Severino vs Holzer</display-name>
+    <display-name>PPV B 08:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.09">
@@ -7227,12 +7227,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.10">
     <display-name>PPV B 10</display-name>
-    <display-name>PPV B 10: 15:00 2/ Cage Warriors 212</display-name>
+    <display-name>PPV B 10:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.11">
     <display-name>PPV B 11</display-name>
-    <display-name>PPV B 11: 19:00 CANCELLED PFC 55</display-name>
+    <display-name>PPV B 11:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.12">
@@ -7247,12 +7247,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.14">
     <display-name>PPV B 14</display-name>
-    <display-name>PPV B 14: 09:25 GNCC Buckwheat 100</display-name>
+    <display-name>PPV B 14:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.15">
     <display-name>PPV B 15</display-name>
-    <display-name>PPV B 15: 13:00 Crown Vic Nationals Caraway</display-name>
+    <display-name>PPV B 15:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.16">
@@ -7352,52 +7352,52 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001: 07:10 RWS: Wukong vs Chaila</display-name>
+    <display-name>PPV C 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002: 11:00 Buatsi vs Hutchinson 2: Prelims</display-name>
+    <display-name>PPV C 002:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
     <display-name>PPV C 003</display-name>
-    <display-name>PPV C 003: 12:00 OKTAGON 97: Severino vs Holzer</display-name>
+    <display-name>PPV C 003:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.004">
     <display-name>PPV C 004</display-name>
-    <display-name>PPV C 004: 12:00 OKTAGON 97: Severino vs Holzer BU</display-name>
+    <display-name>PPV C 004:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.005">
     <display-name>PPV C 005</display-name>
-    <display-name>PPV C 005: 14:00 Buatsi vs Hutchinson 2</display-name>
+    <display-name>PPV C 005:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.006">
     <display-name>PPV C 006</display-name>
-    <display-name>PPV C 006: 14:00 Buatsi vs Hutchinson 2 BU</display-name>
+    <display-name>PPV C 006:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.007">
     <display-name>PPV C 007</display-name>
-    <display-name>PPV C 007: 14:00 BKFC 96: Cooke vs Weir ( Also in Triller Section )</display-name>
+    <display-name>PPV C 007:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.008">
     <display-name>PPV C 008</display-name>
-    <display-name>PPV C 008: 14:00 BKFC 96: Cooke vs Weir BU</display-name>
+    <display-name>PPV C 008:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.009">
     <display-name>PPV C 009</display-name>
-    <display-name>PPV C 009: 14:00 Chris Billam-Smith vs Chev Clarke</display-name>
+    <display-name>PPV C 009:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.010">
     <display-name>PPV C 010</display-name>
-    <display-name>PPV C 010: 14:00 Chris Billam-Smith vs Chev Clarke BU</display-name>
+    <display-name>PPV C 010:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.011">
@@ -14948,6 +14948,116 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>6:00 AM &lt;t:1794088800:t&gt; (17:00 ET) UFC Fight Night Acosta vs Walker</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.02">
+    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) WWE Crown Jewel</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.04">
+    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) 12/ Billam Smith vs Clarke</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.05">
+    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) BKFC 96 Cohoon vs Weir</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.06">
+    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) Buatsi vs Hutchinson 2</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.07">
+    <title>6:00 AM &lt;t:1794067200:t&gt; (11:00 ET) Nexzone Fight Night Sullu vs Ismail</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.09">
+    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) Petrosyan Mania Gold Edition</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.12">
+    <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) Perez vs Rivera</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.13">
+    <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) GCW The Crossroads</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.16">
+    <title>6:00 AM &lt;t:1794079800:t&gt; (14:30 ET) The Dirt Track at Charlotte</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.17">
+    <title>6:00 AM &lt;t:1794085200:t&gt; (16:00 ET) Fall Brawl Hickory</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.18">
+    <title>6:00 AM &lt;t:1794094200:t&gt; (18:30 ET) USAC WS Midgets Ventura</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.19">
+    <title>6:00 AM &lt;t:1794096000:t&gt; (19:00 ET) Southern Thunder Super Dirt Series</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.20">
+    <title>6:00 AM &lt;t:1794103200:t&gt; (21:00 ET) AMA EnduroCross Salt Lake</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.26">
+    <title>6:00 AM &lt;t:1794088800:t&gt; (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
+    <title>6:00 AM &lt;t:1794088800:t&gt; (17:00 ET) UFC Fight Night Acosta vs Walker</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.02">
+    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) WWE Crown Jewel</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.04">
+    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) 12/ Billam Smith vs Clarke</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.05">
+    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) BKFC 96 Cohoon vs Weir</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.06">
+    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) Buatsi vs Hutchinson 2</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.07">
+    <title>6:00 AM &lt;t:1794067200:t&gt; (11:00 ET) Nexzone Fight Night Sullu vs Ismail</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.09">
+    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) Petrosyan Mania Gold Edition</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
   <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.12">
     <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) Perez vs Rivera</title>
     <category>Sports</category>
@@ -14955,16 +15065,6 @@
   </programme>
   <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.13">
     <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) GCW The Crossroads</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.14">
-    <title>6:00 AM &lt;t:1794061500:t&gt; (09:25 ET) GNCC Buckwheat 100</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.15">
-    <title>6:00 AM &lt;t:1794074400:t&gt; (13:00 ET) Crown Vic Nationals Caraway</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14990,101 +15090,6 @@
   </programme>
   <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.20">
     <title>6:00 AM &lt;t:1794103200:t&gt; (21:00 ET) AMA EnduroCross Salt Lake</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.001">
-    <title>6:00 AM &lt;t:1794053400:t&gt; (07:10 ET) RWS: Wukong vs Chaila</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.002">
-    <title>6:00 AM &lt;t:1794067200:t&gt; (11:00 ET) Buatsi vs Hutchinson 2: Prelims</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.003">
-    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) OKTAGON 97: Severino vs Holzer</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.004">
-    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) OKTAGON 97: Severino vs Holzer BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.005">
-    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) Buatsi vs Hutchinson 2</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.006">
-    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) Buatsi vs Hutchinson 2 BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.007">
-    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) BKFC 96: Cooke vs Weir ( Also in Triller Section )</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.008">
-    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) BKFC 96: Cooke vs Weir BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.009">
-    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) Chris Billam-Smith vs Chev Clarke</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.010">
-    <title>6:00 AM &lt;t:1794078000:t&gt; (14:00 ET) Chris Billam-Smith vs Chev Clarke BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.011">
-    <title>6:00 AM &lt;t:1794081000:t&gt; (14:50 ET) Petrosyan Mania Gold Edition</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.012">
-    <title>6:00 AM &lt;t:1794092400:t&gt; (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker ( Prelims fin UFC Section 22:00 )</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.013">
-    <title>6:00 AM &lt;t:1794092400:t&gt; (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.014">
-    <title>6:00 AM &lt;t:1794092400:t&gt; (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.016">
-    <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) Perez vs Rivera</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.017">
-    <title>6:00 AM &lt;t:1794099600:t&gt; (20:00 ET) Perez vs Rivera BU</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.018">
-    <title>6:00 AM &lt;t:1794070800:t&gt; (12:00 ET) WWE Crown Jewel</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.01">
-    <title>6:00 AM &lt;t:1794079800:t&gt; (14:30 ET) The Dirt Track at Charlotte</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261107120000 -0500" stop="20261108000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.02">
-    <title>6:00 AM &lt;t:1794092400:t&gt; (18:00 ET) Gold Rush Nationals</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
