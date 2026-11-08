@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "6:00 AM <t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte",
+          "display_title": "6:00 AM <t:1794166200:t> (14:30 ET) The Dirt Track at Charlotte",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "6:00 AM <t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794166200:t> (14:30 ET) The Dirt Track at Charlotte"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 638374487,
-      "message_timestamp": 1794061833,
+      "message_id": 638464826,
+      "message_timestamp": 1794114025,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-07T16:32:58.571673+00:00"
+      "updated_at": "2026-11-08T09:13:25.846435+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -128,317 +112,325 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794063000:t> (09:50 ET) World Rugby: Portugal vs Chile",
-          "slot": "PARAMOUNT C 16",
-          "slot_norm": "PARAMOUNT C 16",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794063000:t> (09:50 ET) World Rugby: Portugal vs Chile"
+          "display_title": "6:00 AM <t:1794136800:t> (06:20 ET) Napoli vs Lazio",
+          "slot": "PARAMOUNT B 025",
+          "slot_norm": "PARAMOUNT B 25",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794136800:t> (06:20 ET) Napoli vs Lazio"
         },
         {
-          "display_title": "6:00 AM <t:1794069000:t> (11:30 ET) Zuffa Boxing: Zuffa Boxing 12",
-          "slot": "PARAMOUNT C 17",
-          "slot_norm": "PARAMOUNT C 17",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794069000:t> (11:30 ET) Zuffa Boxing: Zuffa Boxing 12"
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Genoa vs Milan",
+          "slot": "PARAMOUNT B 026",
+          "slot_norm": "PARAMOUNT B 26",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Genoa vs Milan"
         },
         {
-          "display_title": "6:00 AM <t:1794070200:t> (11:50 ET) Serie A: Parma vs Bologna",
-          "slot": "PARAMOUNT C 18",
-          "slot_norm": "PARAMOUNT C 18",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794070200:t> (11:50 ET) Serie A: Parma vs Bologna"
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Monza vs Atalanta",
+          "slot": "PARAMOUNT B 027",
+          "slot_norm": "PARAMOUNT B 27",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Monza vs Atalanta"
         },
         {
-          "display_title": "6:00 AM <t:1794073200:t> (12:40 ET) Scottish Professional Football League: Aberdeen vs Hibernian",
-          "slot": "PARAMOUNT C 19",
-          "slot_norm": "PARAMOUNT C 19",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794073200:t> (12:40 ET) Scottish Professional Football League: Aberdeen vs Hibernian"
+          "display_title": "6:00 AM <t:1794155400:t> (11:30 ET) Inter vs Como",
+          "slot": "PARAMOUNT B 028",
+          "slot_norm": "PARAMOUNT B 28",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794155400:t> (11:30 ET) Inter vs Como"
         },
         {
-          "display_title": "6:00 AM <t:1794081300:t> (14:55 ET) Scottish Professional Football League: St Mirren vs Rangers",
-          "slot": "PARAMOUNT C 21",
-          "slot_norm": "PARAMOUNT C 21",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794081300:t> (14:55 ET) Scottish Professional Football League: St Mirren vs Rangers"
+          "display_title": "6:00 AM <t:1794164400:t> (14:00 ET) Fiorentina vs Juventus",
+          "slot": "PARAMOUNT B 029",
+          "slot_norm": "PARAMOUNT B 29",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794164400:t> (14:00 ET) Fiorentina vs Juventus"
         },
         {
-          "display_title": "6:00 AM <t:1794085200:t> (16:00 ET) UFC: UFC Fight Night English",
-          "slot": "PARAMOUNT C 22",
-          "slot_norm": "PARAMOUNT C 22",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794085200:t> (16:00 ET) UFC: UFC Fight Night English"
+          "display_title": "6:00 AM <t:1794136800:t> (06:20 ET) Serie A: Napoli vs Lazio",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794136800:t> (06:20 ET) Serie A: Napoli vs Lazio"
         },
         {
-          "display_title": "6:00 AM <t:1794085200:t> (16:00 ET) UFC: UFC Fight Night em Português",
-          "slot": "PARAMOUNT C 23",
-          "slot_norm": "PARAMOUNT C 23",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794085200:t> (16:00 ET) UFC: UFC Fight Night em Português"
+          "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Barclays Women's Super League: Liverpool vs Arsenal",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794138600:t> (06:50 ET) Barclays Women's Super League: Liverpool vs Arsenal"
         },
         {
-          "display_title": "6:00 AM <t:1794085200:t> (16:00 ET) UFC: UFC Fight Night en Español",
-          "slot": "PARAMOUNT C 24",
-          "slot_norm": "PARAMOUNT C 24",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794085200:t> (16:00 ET) UFC: UFC Fight Night en Español"
+          "display_title": "6:00 AM <t:1794138600:t> (06:50 ET) Barclays Women's Super League: Aston Villa vs Man United",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794138600:t> (06:50 ET) Barclays Women's Super League: Aston Villa vs Man United"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Serie A: Genoa vs Milan",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Serie A: Genoa vs Milan"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Serie A: Monza vs Atalanta",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Serie A: Monza vs Atalanta"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Barclays Women's Super League: Crystal Palace vs Charlton Athletic",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Barclays Women's Super League: Crystal Palace vs Charlton Athletic"
+        },
+        {
+          "display_title": "6:00 AM <t:1794145800:t> (08:50 ET) Barclays Women's Super League: Tottenham vs Brighton",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794145800:t> (08:50 ET) Barclays Women's Super League: Tottenham vs Brighton"
+        },
+        {
+          "display_title": "6:00 AM <t:1794146400:t> (09:00 ET) Barclays Women's Super League: London City vs Birmingham City",
+          "slot": "PARAMOUNT C 08",
+          "slot_norm": "PARAMOUNT C 8",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794146400:t> (09:00 ET) Barclays Women's Super League: London City vs Birmingham City"
+        },
+        {
+          "display_title": "6:00 AM <t:1794148500:t> (09:35 ET) World Rugby: Hong Kong China vs USA Eagles",
+          "slot": "PARAMOUNT C 09",
+          "slot_norm": "PARAMOUNT C 9",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794148500:t> (09:35 ET) World Rugby: Hong Kong China vs USA Eagles"
+        },
+        {
+          "display_title": "6:00 AM <t:1794155400:t> (11:30 ET) Serie A: Inter vs Como",
+          "slot": "PARAMOUNT C 10",
+          "slot_norm": "PARAMOUNT C 10",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794155400:t> (11:30 ET) Serie A: Inter vs Como"
+        },
+        {
+          "display_title": "6:00 AM <t:1794164400:t> (14:00 ET) Serie A: Fiorentina vs Juventus",
+          "slot": "PARAMOUNT C 11",
+          "slot_norm": "PARAMOUNT C 11",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794164400:t> (14:00 ET) Serie A: Fiorentina vs Juventus"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 638353287,
-      "message_timestamp": 1794049303,
+      "message_id": 638481939,
+      "message_timestamp": 1794126624,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-07T16:32:58.663123+00:00"
+      "updated_at": "2026-11-08T09:13:26.235092+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794088800:t> (17:00 ET) UFC Fight Night Acosta vs Walker",
+          "display_title": "6:00 AM <t:1794115800:t> (00:30 ET) Pancrase 368",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794088800:t> (17:00 ET) UFC Fight Night Acosta vs Walker"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794115800:t> (00:30 ET) Pancrase 368"
         },
         {
-          "display_title": "6:00 AM <t:1794070800:t> (12:00 ET) WWE Crown Jewel",
+          "display_title": "6:00 AM <t:1794142800:t> (08:00 ET) GNCC Buckwheat 100",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794070800:t> (12:00 ET) WWE Crown Jewel"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794142800:t> (08:00 ET) GNCC Buckwheat 100"
         },
         {
-          "display_title": "6:00 AM <t:1794078000:t> (14:00 ET) 12/ Billam Smith vs Clarke",
+          "display_title": "6:00 AM <t:1794144600:t> (08:30 ET) Veterans Race Rememberance",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794144600:t> (08:30 ET) Veterans Race Rememberance"
+        },
+        {
+          "display_title": "6:00 AM <t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner",
           "slot": "PPV 04",
           "slot_norm": "PPV 4",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794078000:t> (14:00 ET) 12/ Billam Smith vs Clarke"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner"
         },
         {
-          "display_title": "6:00 AM <t:1794078000:t> (14:00 ET) BKFC 96 Cohoon vs Weir",
+          "display_title": "6:00 AM <t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794078000:t> (14:00 ET) BKFC 96 Cohoon vs Weir"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner"
         },
         {
-          "display_title": "6:00 AM <t:1794078000:t> (14:00 ET) Buatsi vs Hutchinson 2",
+          "display_title": "6:00 AM <t:1794177000:t> (17:30 ET) Fury Challenger Series 17",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794078000:t> (14:00 ET) Buatsi vs Hutchinson 2"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794177000:t> (17:30 ET) Fury Challenger Series 17"
         },
         {
-          "display_title": "6:00 AM <t:1794067200:t> (11:00 ET) Nexzone Fight Night Sullu vs Ismail",
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) Shooto Brazil 141",
           "slot": "PPV 07",
           "slot_norm": "PPV 7",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794067200:t> (11:00 ET) Nexzone Fight Night Sullu vs Ismail"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
         },
         {
-          "display_title": "6:00 AM <t:1794070800:t> (12:00 ET) Petrosyan Mania Gold Edition",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794070800:t> (12:00 ET) Petrosyan Mania Gold Edition"
-        },
-        {
-          "display_title": "6:00 AM <t:1794099600:t> (20:00 ET) Perez vs Rivera",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794099600:t> (20:00 ET) Perez vs Rivera"
-        },
-        {
-          "display_title": "6:00 AM <t:1794099600:t> (20:00 ET) GCW The Crossroads",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794099600:t> (20:00 ET) GCW The Crossroads"
-        },
-        {
-          "display_title": "6:00 AM <t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte",
-          "slot": "PPV 16",
-          "slot_norm": "PPV 16",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte"
-        },
-        {
-          "display_title": "6:00 AM <t:1794085200:t> (16:00 ET) Fall Brawl Hickory",
-          "slot": "PPV 17",
-          "slot_norm": "PPV 17",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794085200:t> (16:00 ET) Fall Brawl Hickory"
-        },
-        {
-          "display_title": "6:00 AM <t:1794094200:t> (18:30 ET) USAC WS Midgets Ventura",
-          "slot": "PPV 18",
-          "slot_norm": "PPV 18",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794094200:t> (18:30 ET) USAC WS Midgets Ventura"
-        },
-        {
-          "display_title": "6:00 AM <t:1794096000:t> (19:00 ET) Southern Thunder Super Dirt Series",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794096000:t> (19:00 ET) Southern Thunder Super Dirt Series"
-        },
-        {
-          "display_title": "6:00 AM <t:1794103200:t> (21:00 ET) AMA EnduroCross Salt Lake",
-          "slot": "PPV 20",
-          "slot_norm": "PPV 20",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794103200:t> (21:00 ET) AMA EnduroCross Salt Lake"
-        },
-        {
-          "display_title": "6:00 AM <t:1794088800:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
+          "display_title": "6:00 AM <t:1794175200:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794088800:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794175200:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794088800:t> (17:00 ET) UFC Fight Night Acosta vs Walker",
+          "display_title": "6:00 AM <t:1794115800:t> (00:30 ET) Pancrase 368",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794088800:t> (17:00 ET) UFC Fight Night Acosta vs Walker"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794115800:t> (00:30 ET) Pancrase 368"
         },
         {
-          "display_title": "6:00 AM <t:1794070800:t> (12:00 ET) WWE Crown Jewel",
+          "display_title": "6:00 AM <t:1794142800:t> (08:00 ET) GNCC Buckwheat 100",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794070800:t> (12:00 ET) WWE Crown Jewel"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794142800:t> (08:00 ET) GNCC Buckwheat 100"
         },
         {
-          "display_title": "6:00 AM <t:1794078000:t> (14:00 ET) 12/ Billam Smith vs Clarke",
+          "display_title": "6:00 AM <t:1794144600:t> (08:30 ET) Veterans Race Rememberance",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794144600:t> (08:30 ET) Veterans Race Rememberance"
+        },
+        {
+          "display_title": "6:00 AM <t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner",
           "slot": "PPV B 04",
           "slot_norm": "PPV B 4",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794078000:t> (14:00 ET) 12/ Billam Smith vs Clarke"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner"
         },
         {
-          "display_title": "6:00 AM <t:1794078000:t> (14:00 ET) BKFC 96 Cohoon vs Weir",
+          "display_title": "6:00 AM <t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner",
           "slot": "PPV B 05",
           "slot_norm": "PPV B 5",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794078000:t> (14:00 ET) BKFC 96 Cohoon vs Weir"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner"
         },
         {
-          "display_title": "6:00 AM <t:1794078000:t> (14:00 ET) Buatsi vs Hutchinson 2",
+          "display_title": "6:00 AM <t:1794177000:t> (17:30 ET) Fury Challenger Series 17",
           "slot": "PPV B 06",
           "slot_norm": "PPV B 6",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794078000:t> (14:00 ET) Buatsi vs Hutchinson 2"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794177000:t> (17:30 ET) Fury Challenger Series 17"
         },
         {
-          "display_title": "6:00 AM <t:1794067200:t> (11:00 ET) Nexzone Fight Night Sullu vs Ismail",
+          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) Shooto Brazil 141",
           "slot": "PPV B 07",
           "slot_norm": "PPV B 7",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794067200:t> (11:00 ET) Nexzone Fight Night Sullu vs Ismail"
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
         },
         {
-          "display_title": "6:00 AM <t:1794070800:t> (12:00 ET) Petrosyan Mania Gold Edition",
-          "slot": "PPV B 09",
-          "slot_norm": "PPV B 9",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794070800:t> (12:00 ET) Petrosyan Mania Gold Edition"
+          "display_title": "6:00 AM <t:1794167400:t> (14:50 ET) Petrosyan Mania Gold Edition",
+          "slot": "PPV C 011",
+          "slot_norm": "PPV C 11",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794167400:t> (14:50 ET) Petrosyan Mania Gold Edition"
         },
         {
-          "display_title": "6:00 AM <t:1794099600:t> (20:00 ET) Perez vs Rivera",
-          "slot": "PPV B 12",
-          "slot_norm": "PPV B 12",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794099600:t> (20:00 ET) Perez vs Rivera"
+          "display_title": "6:00 AM <t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker ( Prelims fin UFC Section 22:00 )",
+          "slot": "PPV C 012",
+          "slot_norm": "PPV C 12",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker ( Prelims fin UFC Section 22:00 )"
         },
         {
-          "display_title": "6:00 AM <t:1794099600:t> (20:00 ET) GCW The Crossroads",
-          "slot": "PPV B 13",
-          "slot_norm": "PPV B 13",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794099600:t> (20:00 ET) GCW The Crossroads"
+          "display_title": "6:00 AM <t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker",
+          "slot": "PPV C 013",
+          "slot_norm": "PPV C 13",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker"
         },
         {
-          "display_title": "6:00 AM <t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte",
-          "slot": "PPV B 16",
-          "slot_norm": "PPV B 16",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794079800:t> (14:30 ET) The Dirt Track at Charlotte"
+          "display_title": "6:00 AM <t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker",
+          "slot": "PPV C 014",
+          "slot_norm": "PPV C 14",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794178800:t> (18:00 ET) UFC Fight Night: Cortes Acosta vs Walker"
         },
         {
-          "display_title": "6:00 AM <t:1794085200:t> (16:00 ET) Fall Brawl Hickory",
-          "slot": "PPV B 17",
-          "slot_norm": "PPV B 17",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794085200:t> (16:00 ET) Fall Brawl Hickory"
+          "display_title": "6:00 AM <t:1794186000:t> (20:00 ET) Perez vs Rivera",
+          "slot": "PPV C 016",
+          "slot_norm": "PPV C 16",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794186000:t> (20:00 ET) Perez vs Rivera"
         },
         {
-          "display_title": "6:00 AM <t:1794094200:t> (18:30 ET) USAC WS Midgets Ventura",
-          "slot": "PPV B 18",
-          "slot_norm": "PPV B 18",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794094200:t> (18:30 ET) USAC WS Midgets Ventura"
+          "display_title": "6:00 AM <t:1794186000:t> (20:00 ET) Perez vs Rivera BU",
+          "slot": "PPV C 017",
+          "slot_norm": "PPV C 17",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794186000:t> (20:00 ET) Perez vs Rivera BU"
         },
         {
-          "display_title": "6:00 AM <t:1794096000:t> (19:00 ET) Southern Thunder Super Dirt Series",
-          "slot": "PPV B 19",
-          "slot_norm": "PPV B 19",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794096000:t> (19:00 ET) Southern Thunder Super Dirt Series"
-        },
-        {
-          "display_title": "6:00 AM <t:1794103200:t> (21:00 ET) AMA EnduroCross Salt Lake",
-          "slot": "PPV B 20",
-          "slot_norm": "PPV B 20",
-          "start": "2026-11-07T12:00:00-05:00",
-          "stop": "2026-11-08T00:00:00-05:00",
-          "title": "<t:1794103200:t> (21:00 ET) AMA EnduroCross Salt Lake"
+          "display_title": "6:00 AM <t:1794157200:t> (12:00 ET) WWE Crown Jewel",
+          "slot": "PPV C 018",
+          "slot_norm": "PPV C 18",
+          "start": "2026-11-08T12:00:00-05:00",
+          "stop": "2026-11-09T00:00:00-05:00",
+          "title": "<t:1794157200:t> (12:00 ET) WWE Crown Jewel"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638440275,
-      "message_timestamp": 1794097827,
+      "message_id": 638469583,
+      "message_timestamp": 1794117645,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-08T01:33:59.148374+00:00"
+      "updated_at": "2026-11-08T09:13:26.690186+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
