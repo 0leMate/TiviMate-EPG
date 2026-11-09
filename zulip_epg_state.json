@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration"
-        },
-        {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Celebration",
+          "display_title": "6:00 AM <t:1794268800:t> (19:00 ET) World of Outlaws Celebration",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Celebration"
-        },
-        {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration"
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794268800:t> (19:00 ET) World of Outlaws Celebration"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 638522058,
-      "message_timestamp": 1794153640,
+      "message_id": 638613749,
+      "message_timestamp": 1794200443,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-08T16:43:58.936421+00:00"
+      "updated_at": "2026-11-09T09:57:35.292568+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -170,155 +154,43 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794142800:t> (08:00 ET) GNCC Buckwheat 100",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794142800:t> (08:00 ET) GNCC Buckwheat 100"
+          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "6:00 AM <t:1794144600:t> (08:30 ET) Veterans Race Rememberance",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794144600:t> (08:30 ET) Veterans Race Rememberance"
-        },
-        {
-          "display_title": "6:00 AM <t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner"
-        },
-        {
-          "display_title": "6:00 AM <t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner"
-        },
-        {
-          "display_title": "6:00 AM <t:1794177000:t> (17:30 ET) Fury Challenger Series 17",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794177000:t> (17:30 ET) Fury Challenger Series 17"
-        },
-        {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) Shooto Brazil 141",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
-        },
-        {
-          "display_title": "6:00 AM <t:1794175200:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
+          "display_title": "6:00 AM <t:1794261600:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794175200:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794261600:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794142800:t> (08:00 ET) GNCC Buckwheat 100",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794142800:t> (08:00 ET) GNCC Buckwheat 100"
+          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "6:00 AM <t:1794144600:t> (08:30 ET) Veterans Race Rememberance",
-          "slot": "PPV B 03",
-          "slot_norm": "PPV B 3",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794144600:t> (08:30 ET) Veterans Race Rememberance"
-        },
-        {
-          "display_title": "6:00 AM <t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner",
-          "slot": "PPV B 04",
-          "slot_norm": "PPV B 4",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794176100:t> (17:15 ET) Prelims MVPW 07 Turhan vs Baumgardner"
-        },
-        {
-          "display_title": "6:00 AM <t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner",
-          "slot": "PPV B 05",
-          "slot_norm": "PPV B 5",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794187800:t> (20:30 ET) MVPW 07 Turhan vs Baumgardner"
-        },
-        {
-          "display_title": "6:00 AM <t:1794177000:t> (17:30 ET) Fury Challenger Series 17",
-          "slot": "PPV B 06",
-          "slot_norm": "PPV B 6",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794177000:t> (17:30 ET) Fury Challenger Series 17"
-        },
-        {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) Shooto Brazil 141",
-          "slot": "PPV B 07",
-          "slot_norm": "PPV B 7",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
-        },
-        {
-          "display_title": "6:00 AM <t:1794176100:t> (17:15 ET) Turhan vs Baumgardner - Prelims",
+          "display_title": "6:00 AM <t:1794262500:t> (17:15 ET) Turhan vs Baumgardner - Prelims",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794176100:t> (17:15 ET) Turhan vs Baumgardner - Prelims"
-        },
-        {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) Shooto Brazil 141",
-          "slot": "PPV D 04",
-          "slot_norm": "PPV D 4",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) Shooto Brazil 141"
-        },
-        {
-          "display_title": "6:00 AM <t:1794148200:t> (09:30 ET) Grand National Cross Country Buckwheat 100",
-          "slot": "PPV D 05",
-          "slot_norm": "PPV D 5",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794148200:t> (09:30 ET) Grand National Cross Country Buckwheat 100"
-        },
-        {
-          "display_title": "6:00 AM <t:1794144600:t> (08:30 ET) Veterans Race of Remembrance at Virginia international",
-          "slot": "PPV D 06",
-          "slot_norm": "PPV D 6",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794144600:t> (08:30 ET) Veterans Race of Remembrance at Virginia international"
-        },
-        {
-          "display_title": "6:00 AM <t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration",
-          "slot": "PPV D 07",
-          "slot_norm": "PPV D 7",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794182400:t> (19:00 ET) World of Outlaws Awards Celebration"
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794262500:t> (17:15 ET) Turhan vs Baumgardner - Prelims"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638568492,
-      "message_timestamp": 1794180645,
+      "message_id": 638613834,
+      "message_timestamp": 1794200467,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-09T01:46:44.940393+00:00"
+      "updated_at": "2026-11-09T09:57:36.134208+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
