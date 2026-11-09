@@ -112,43 +112,75 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794146400:t> (09:00 ET) Barclays Women's Super League: London City vs Birmingham City",
-          "slot": "PARAMOUNT C 08",
-          "slot_norm": "PARAMOUNT C 8",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794146400:t> (09:00 ET) Barclays Women's Super League: London City vs Birmingham City"
+          "display_title": "6:00 AM <t:1794232800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794232800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
         },
         {
-          "display_title": "6:00 AM <t:1794148500:t> (09:35 ET) World Rugby: Hong Kong China vs USA Eagles",
-          "slot": "PARAMOUNT C 09",
-          "slot_norm": "PARAMOUNT C 9",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794148500:t> (09:35 ET) World Rugby: Hong Kong China vs USA Eagles"
+          "display_title": "6:00 AM <t:1794240000:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794240000:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
         },
         {
-          "display_title": "6:00 AM <t:1794155400:t> (11:30 ET) Serie A: Inter vs Como",
-          "slot": "PARAMOUNT C 10",
-          "slot_norm": "PARAMOUNT C 10",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794155400:t> (11:30 ET) Serie A: Inter vs Como"
+          "display_title": "6:00 AM <t:1794243600:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794243600:t> (12:00 ET) CBS Sports HQ: Just Football"
         },
         {
-          "display_title": "6:00 AM <t:1794164400:t> (14:00 ET) Serie A: Fiorentina vs Juventus",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
-          "start": "2026-11-08T12:00:00-05:00",
-          "stop": "2026-11-09T00:00:00-05:00",
-          "title": "<t:1794164400:t> (14:00 ET) Serie A: Fiorentina vs Juventus"
+          "display_title": "6:00 AM <t:1794250800:t> (14:00 ET) CBS Sports HQ: College Football Insiders",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794250800:t> (14:00 ET) CBS Sports HQ: College Football Insiders"
+        },
+        {
+          "display_title": "6:00 AM <t:1794254400:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794254400:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "6:00 AM <t:1794258000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794258000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "6:00 AM <t:1794265200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794265200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-09T12:00:00-05:00",
+          "stop": "2026-11-10T00:00:00-05:00",
+          "title": "<t:1794272400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 638568510,
-      "message_timestamp": 1794180653,
+      "message_id": 638709669,
+      "message_timestamp": 1794227452,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-09T01:46:44.544338+00:00"
+      "updated_at": "2026-11-09T20:52:20.385227+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -178,19 +210,19 @@
           "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "6:00 AM <t:1794262500:t> (17:15 ET) Turhan vs Baumgardner - Prelims",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
+          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
           "start": "2026-11-09T12:00:00-05:00",
           "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794262500:t> (17:15 ET) Turhan vs Baumgardner - Prelims"
+          "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638613834,
-      "message_timestamp": 1794200467,
+      "message_id": 638701850,
+      "message_timestamp": 1794225633,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-09T09:57:36.134208+00:00"
+      "updated_at": "2026-11-09T20:52:20.455590+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -326,61 +358,141 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794183900:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs E. Perez/D. Schuurs",
-          "slot": "SKY SPORTS+ 46",
-          "slot_norm": "SKY SPORTS+ 46",
+          "display_title": "1:00 AM <t:1794225300:t> (11:55 UTC) ATP Tour ATP Tennis J. Duckworth vs C. Norrie",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
           "start": "2026-11-09T12:00:00+00:00",
           "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794183900:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs E. Perez/D. Schuurs"
+          "title": "<t:1794225300:t> (11:55 UTC) ATP Tour ATP Tennis J. Duckworth vs C. Norrie"
         },
         {
-          "display_title": "1:00 AM <t:1794187500:t> (01:25 UTC) College Park Center in MVPW-07 Elif Turhan vs Alycia Baumgardner",
-          "slot": "SKY SPORTS+ 47",
-          "slot_norm": "SKY SPORTS+ 47",
+          "display_title": "1:00 AM <t:1794230700:t> (13:25 UTC) ATP Tour ATP Tennis A. Vallejo vs U. Humbert",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
           "start": "2026-11-09T12:00:00+00:00",
           "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794187500:t> (01:25 UTC) College Park Center in MVPW-07 Elif Turhan vs Alycia Baumgardner"
+          "title": "<t:1794230700:t> (13:25 UTC) ATP Tour ATP Tennis A. Vallejo vs U. Humbert"
+        },
+        {
+          "display_title": "1:00 AM <t:1794243300:t> (16:55 UTC) ATP Tour ATP Tennis T. Etcheverry vs M. Dahlin",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794243300:t> (16:55 UTC) ATP Tour ATP Tennis T. Etcheverry vs M. Dahlin"
+        },
+        {
+          "display_title": "1:00 AM <t:1794248700:t> (18:25 UTC) ATP Tour ATP Tennis L. Borg vs T. Samuel",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794248700:t> (18:25 UTC) ATP Tour ATP Tennis L. Borg vs T. Samuel"
+        },
+        {
+          "display_title": "1:00 AM <t:1794254100:t> (19:55 UTC) WTA Tour WTA Tennis A. Sabalenka vs K. Muchova",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794254100:t> (19:55 UTC) WTA Tour WTA Tennis A. Sabalenka vs K. Muchova"
+        },
+        {
+          "display_title": "1:00 AM <t:1794259500:t> (21:25 UTC) WTA Tour WTA Tennis M. Andreeva vs E. Svitolina",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794259500:t> (21:25 UTC) WTA Tour WTA Tennis M. Andreeva vs E. Svitolina"
+        },
+        {
+          "display_title": "1:00 AM <t:1794264900:t> (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs E. Mertens/Zhang Shuai",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794264900:t> (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs E. Mertens/Zhang Shuai"
+        },
+        {
+          "display_title": "1:00 AM <t:1794266700:t> (23:25 UTC) NBA Washington Wizards vs Detroit Pistons",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-11-09T12:00:00+00:00",
+          "stop": "2026-11-10T00:00:00+00:00",
+          "title": "<t:1794266700:t> (23:25 UTC) NBA Washington Wizards vs Detroit Pistons"
+        },
+        {
+          "display_title": "1:00 AM <t:1794270300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs Hsieh Su-Wei/J. Ostapenko",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794270300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs Hsieh Su-Wei/J. Ostapenko"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 638572293,
-      "message_timestamp": 1794182433,
+      "message_id": 638718070,
+      "message_timestamp": 1794229257,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-09T01:46:45.723242+00:00"
+      "updated_at": "2026-11-09T20:52:20.581329+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1794168000:t> (07:00 AEDT) Washington Spirit vs Portland Thorns FC NWSL 2026",
-          "slot": "AU STAN B 024",
-          "slot_norm": "AU STAN B 24",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794168000:t> (07:00 AEDT) Washington Spirit vs Portland Thorns FC NWSL 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794168000:t> (07:00 AEDT) Indian Wells: Day 1 WTA Finals",
-          "slot": "AU STAN B 025",
-          "slot_norm": "AU STAN B 25",
-          "start": "2026-11-09T12:00:00+11:00",
-          "stop": "2026-11-10T00:00:00+11:00",
-          "title": "<t:1794168000:t> (07:00 AEDT) Indian Wells: Day 1 WTA Finals"
-        },
-        {
           "display_title": "2:00 PM <t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27",
-          "slot": "AU STAN B 026",
-          "slot_norm": "AU STAN B 26",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-11-10T12:00:00+11:00",
           "stop": "2026-11-11T00:00:00+11:00",
           "title": "<t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-11-10T12:00:00+11:00",
+          "stop": "2026-11-11T00:00:00+11:00",
+          "title": "<t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-11-10T12:00:00+11:00",
+          "stop": "2026-11-11T00:00:00+11:00",
+          "title": "<t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals"
+        },
+        {
+          "display_title": "2:00 PM <t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
+          "start": "2026-11-10T12:00:00+11:00",
+          "stop": "2026-11-11T00:00:00+11:00",
+          "title": "<t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027",
+          "slot": "AU STAN B 002",
+          "slot_norm": "AU STAN B 2",
+          "start": "2026-11-10T12:00:00+11:00",
+          "stop": "2026-11-11T00:00:00+11:00",
+          "title": "<t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals",
+          "slot": "AU STAN B 003",
+          "slot_norm": "AU STAN B 3",
+          "start": "2026-11-10T12:00:00+11:00",
+          "stop": "2026-11-11T00:00:00+11:00",
+          "title": "<t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals"
         }
       ],
       "group": "AU STAN",
-      "message_id": 638505695,
-      "message_timestamp": 1794142909,
+      "message_id": 638717898,
+      "message_timestamp": 1794229231,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-08T16:44:00.360417+00:00"
+      "updated_at": "2026-11-09T20:52:20.652997+00:00"
     }
   },
   "version": 1
