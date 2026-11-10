@@ -112,101 +112,157 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794232800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "display_title": "6:00 AM <t:1794319200:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794232800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794319200:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
         },
         {
-          "display_title": "6:00 AM <t:1794240000:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "display_title": "6:00 AM <t:1794326400:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794240000:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794326400:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
         },
         {
-          "display_title": "6:00 AM <t:1794243600:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) CBS Sports HQ: Just Football",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794243600:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) CBS Sports HQ: Just Football"
         },
         {
-          "display_title": "6:00 AM <t:1794250800:t> (14:00 ET) CBS Sports HQ: College Football Insiders",
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794250800:t> (14:00 ET) CBS Sports HQ: College Football Insiders"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea"
         },
         {
-          "display_title": "6:00 AM <t:1794254400:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794254400:t> (15:00 ET) CBS Sports HQ: This Just In"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC"
         },
         {
-          "display_title": "6:00 AM <t:1794258000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern",
           "slot": "PARAMOUNT 006",
           "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794258000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern"
         },
         {
-          "display_title": "6:00 AM <t:1794265200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man. City",
           "slot": "PARAMOUNT 007",
           "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794265200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man. City"
         },
         {
-          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette",
           "slot": "PARAMOUNT 008",
           "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794272400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette"
+        },
+        {
+          "display_title": "6:00 AM <t:1794351600:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794351600:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1794355200:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794355200:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
+          "display_title": "6:00 AM <t:1794362400:t> (21:00 ET) CBS Sports HQ: College Football Playoff Breakdown",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794362400:t> (21:00 ET) CBS Sports HQ: College Football Playoff Breakdown"
+        },
+        {
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) BK Häcken vs Chelsea",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) BK Häcken vs Chelsea"
+        },
+        {
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) Real Madrid vs Paris FC",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) Real Madrid vs Paris FC"
+        },
+        {
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) Inter vs Man. City",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) Inter vs Man. City"
+        },
+        {
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) PSG vs Bayern",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) PSG vs Bayern"
+        },
+        {
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) Roma vs Servette",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) Roma vs Servette"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 638709669,
-      "message_timestamp": 1794227452,
+      "message_id": 639108162,
+      "message_timestamp": 1794308463,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-09T20:52:20.385227+00:00"
+      "updated_at": "2026-11-10T12:48:51.579479+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794261600:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
+          "display_title": "6:00 AM <t:1794348000:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794261600:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
-        },
-        {
-          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794348000:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 639018202,
-      "message_timestamp": 1794283224,
+      "message_id": 639036790,
+      "message_timestamp": 1794286848,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-10T04:11:50.910920+00:00"
+      "updated_at": "2026-11-10T12:48:51.824012+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -342,47 +398,191 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794270300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs Hsieh Su-Wei/J. Ostapenko",
+          "display_title": "1:00 AM <t:1794311700:t> (11:55 UTC) ATP Tour ATP Tennis A. Michelsen vs J. Cerundolo",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794311700:t> (11:55 UTC) ATP Tour ATP Tennis A. Michelsen vs J. Cerundolo"
+        },
+        {
+          "display_title": "1:00 AM <t:1794317100:t> (13:25 UTC) ATP Tour ATP Tennis T. Etcheverry vs T. Tirante",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794317100:t> (13:25 UTC) ATP Tour ATP Tennis T. Etcheverry vs T. Tirante"
+        },
+        {
+          "display_title": "1:00 AM <t:1794329700:t> (16:55 UTC) ATP Tour ATP Tennis H. Rune vs Z. Bergs",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794329700:t> (16:55 UTC) ATP Tour ATP Tennis H. Rune vs Z. Bergs"
+        },
+        {
+          "display_title": "1:00 AM <t:1794335100:t> (18:25 UTC) ATP Tour ATP Tennis L. Musetti vs T. Samuel",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794335100:t> (18:25 UTC) ATP Tour ATP Tennis L. Musetti vs T. Samuel"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Barnet vs L Orient",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Barnet vs L Orient"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Bristol Rovers vs Reading",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Bristol Rovers vs Reading"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Burton vs Notts County",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Burton vs Notts County"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Crewe vs Wigan",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Crewe vs Wigan"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Grimsby vs Nottm Forest U21",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
           "start": "2026-11-10T12:00:00+00:00",
           "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794270300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs Hsieh Su-Wei/J. Ostapenko"
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Grimsby vs Nottm Forest U21"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Huddersfield vs Liverpool U21",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Huddersfield vs Liverpool U21"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Mansfield vs Chesterfield",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Mansfield vs Chesterfield"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Northampton vs Gillingham",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Northampton vs Gillingham"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Oxford Utd vs Cheltenham",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Oxford Utd vs Cheltenham"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Plymouth vs Swindon",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Plymouth vs Swindon"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stevenage vs Fulham U21",
+          "slot": "SKY SPORTS+ 15",
+          "slot_norm": "SKY SPORTS+ 15",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stevenage vs Fulham U21"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stockport vs Tranmere",
+          "slot": "SKY SPORTS+ 16",
+          "slot_norm": "SKY SPORTS+ 16",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stockport vs Tranmere"
+        },
+        {
+          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) Jersey Mike's Trophy Leicester vs Walsall",
+          "slot": "SKY SPORTS+ 17",
+          "slot_norm": "SKY SPORTS+ 17",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794336300:t> (18:45 UTC) Jersey Mike's Trophy Leicester vs Walsall"
+        },
+        {
+          "display_title": "1:00 AM <t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bradford vs York",
+          "slot": "SKY SPORTS+ 18",
+          "slot_norm": "SKY SPORTS+ 18",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bradford vs York"
+        },
+        {
+          "display_title": "1:00 AM <t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bromley vs MK Dons",
+          "slot": "SKY SPORTS+ 19",
+          "slot_norm": "SKY SPORTS+ 19",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bromley vs MK Dons"
+        },
+        {
+          "display_title": "1:00 AM <t:1794338100:t> (19:15 UTC) EFL EFL Trophy Crawley vs Brentford U21",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794338100:t> (19:15 UTC) EFL EFL Trophy Crawley vs Brentford U21"
+        },
+        {
+          "display_title": "1:00 AM <t:1794339000:t> (19:30 UTC) EFL EFL Trophy Colchester vs Ipswich U21",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794339000:t> (19:30 UTC) EFL EFL Trophy Colchester vs Ipswich U21"
+        },
+        {
+          "display_title": "1:00 AM <t:1794340500:t> (19:55 UTC) WTA Tour WTA Tennis M. Kostyuk vs J. Pegula",
+          "slot": "SKY SPORTS+ 22",
+          "slot_norm": "SKY SPORTS+ 22",
+          "start": "2026-11-10T12:00:00+00:00",
+          "stop": "2026-11-11T00:00:00+00:00",
+          "title": "<t:1794340500:t> (19:55 UTC) WTA Tour WTA Tennis M. Kostyuk vs J. Pegula"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 638900967,
-      "message_timestamp": 1794268830,
+      "message_id": 639114992,
+      "message_timestamp": 1794310261,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-10T04:11:51.703682+00:00"
+      "updated_at": "2026-11-10T12:48:52.184316+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
-        {
-          "display_title": "2:00 PM <t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-11-10T12:00:00+11:00",
-          "stop": "2026-11-11T00:00:00+11:00",
-          "title": "<t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-11-10T12:00:00+11:00",
-          "stop": "2026-11-11T00:00:00+11:00",
-          "title": "<t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-11-10T12:00:00+11:00",
-          "stop": "2026-11-11T00:00:00+11:00",
-          "title": "<t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals"
-        },
         {
           "display_title": "2:00 PM <t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27",
           "slot": "AU STAN B 001",
@@ -409,10 +609,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 638717898,
-      "message_timestamp": 1794229231,
+      "message_id": 639101023,
+      "message_timestamp": 1794306627,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-09T20:52:20.652997+00:00"
+      "updated_at": "2026-11-10T12:48:52.372204+00:00"
     }
   },
   "version": 1
