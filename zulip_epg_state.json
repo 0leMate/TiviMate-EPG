@@ -238,13 +238,53 @@
           "start": "2026-11-10T12:00:00-05:00",
           "stop": "2026-11-11T00:00:00-05:00",
           "title": "<t:1794339900:t> (14:45 ET) Roma vs Servette"
+        },
+        {
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea"
+        },
+        {
+          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC"
+        },
+        {
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man City",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man City"
+        },
+        {
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern"
+        },
+        {
+          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
+          "start": "2026-11-10T12:00:00-05:00",
+          "stop": "2026-11-11T00:00:00-05:00",
+          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 639108162,
-      "message_timestamp": 1794308463,
+      "message_id": 639163291,
+      "message_timestamp": 1794321053,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-10T12:48:51.579479+00:00"
+      "updated_at": "2026-11-10T20:55:12.166833+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -584,35 +624,27 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27",
+          "display_title": "2:00 PM <t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-11-11T12:00:00+11:00",
+          "stop": "2026-11-12T00:00:00+11:00",
+          "title": "<t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals"
+        },
+        {
+          "display_title": "2:00 PM <t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals",
           "slot": "AU STAN B 001",
           "slot_norm": "AU STAN B 1",
-          "start": "2026-11-10T12:00:00+11:00",
-          "stop": "2026-11-11T00:00:00+11:00",
-          "title": "<t:1794249000:t> (05:30 AEDT) Second Round Draw FA Cup 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-11-10T12:00:00+11:00",
-          "stop": "2026-11-11T00:00:00+11:00",
-          "title": "<t:1794252000:t> (06:20 AEDT) Plymouth Parkway vs Berkhamsted FA Cup 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-11-10T12:00:00+11:00",
-          "stop": "2026-11-11T00:00:00+11:00",
-          "title": "<t:1794254400:t> (07:00 AEDT) Indian Wells: Day 2 WTA Finals"
+          "start": "2026-11-11T12:00:00+11:00",
+          "stop": "2026-11-12T00:00:00+11:00",
+          "title": "<t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals"
         }
       ],
       "group": "AU STAN",
-      "message_id": 639101023,
-      "message_timestamp": 1794306627,
+      "message_id": 639137055,
+      "message_timestamp": 1794315637,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-10T12:48:52.372204+00:00"
+      "updated_at": "2026-11-10T20:55:12.565112+00:00"
     }
   },
   "version": 1
