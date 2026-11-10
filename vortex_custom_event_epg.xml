@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 20:00 WWE Monday Night RAW</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7182,7 +7182,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 20:00 WWE Monday Night RAW</display-name>
+    <display-name>PPV B 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
@@ -12449,38 +12449,6 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
     <display-name>SKY SPORTS+ 09</display-name>
     <display-name>SKY SPORTS+</display-name>
@@ -13850,18 +13818,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261109120000 -0500" stop="20261110000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1794272400:t&gt; (20:00 ET) WWE Monday Night RAW</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261109120000 -0500" stop="20261110000000 -0500" channel="custom.PAY.PER.VIEW.PPV.26">
     <title>6:00 AM &lt;t:1794261600:t&gt; (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261109120000 -0500" stop="20261110000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>6:00 AM &lt;t:1794272400:t&gt; (20:00 ET) WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -13869,46 +13827,6 @@
     <title>6:00 AM &lt;t:1794272400:t&gt; (20:00 ET) WWE Monday Night RAW</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>1:00 AM &lt;t:1794225300:t&gt; (11:55 UTC) ATP Tour ATP Tennis J. Duckworth vs C. Norrie</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>1:00 AM &lt;t:1794230700:t&gt; (13:25 UTC) ATP Tour ATP Tennis A. Vallejo vs U. Humbert</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:00 AM &lt;t:1794243300:t&gt; (16:55 UTC) ATP Tour ATP Tennis T. Etcheverry vs M. Dahlin</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>1:00 AM &lt;t:1794248700:t&gt; (18:25 UTC) ATP Tour ATP Tennis L. Borg vs T. Samuel</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>1:00 AM &lt;t:1794254100:t&gt; (19:55 UTC) WTA Tour WTA Tennis A. Sabalenka vs K. Muchova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>1:00 AM &lt;t:1794259500:t&gt; (21:25 UTC) WTA Tour WTA Tennis M. Andreeva vs E. Svitolina</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>1:00 AM &lt;t:1794264900:t&gt; (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs E. Mertens/Zhang Shuai</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261109120000 +0000" stop="20261110000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>1:00 AM &lt;t:1794266700:t&gt; (23:25 UTC) NBA Washington Wizards vs Detroit Pistons</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
   <programme start="20261110120000 +0000" stop="20261111000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
     <title>1:00 AM &lt;t:1794270300:t&gt; (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs Hsieh Su-Wei/J. Ostapenko</title>

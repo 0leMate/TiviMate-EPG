@@ -186,28 +186,12 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
-        },
-        {
           "display_title": "6:00 AM <t:1794261600:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
           "start": "2026-11-09T12:00:00-05:00",
           "stop": "2026-11-10T00:00:00-05:00",
           "title": "<t:1794261600:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
-        },
-        {
-          "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-09T12:00:00-05:00",
-          "stop": "2026-11-10T00:00:00-05:00",
-          "title": "<t:1794272400:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
           "display_title": "6:00 AM <t:1794272400:t> (20:00 ET) WWE Monday Night RAW",
@@ -219,10 +203,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 638701850,
-      "message_timestamp": 1794225633,
+      "message_id": 639018202,
+      "message_timestamp": 1794283224,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-09T20:52:20.455590+00:00"
+      "updated_at": "2026-11-10T04:11:50.910920+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -358,70 +342,6 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794225300:t> (11:55 UTC) ATP Tour ATP Tennis J. Duckworth vs C. Norrie",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794225300:t> (11:55 UTC) ATP Tour ATP Tennis J. Duckworth vs C. Norrie"
-        },
-        {
-          "display_title": "1:00 AM <t:1794230700:t> (13:25 UTC) ATP Tour ATP Tennis A. Vallejo vs U. Humbert",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794230700:t> (13:25 UTC) ATP Tour ATP Tennis A. Vallejo vs U. Humbert"
-        },
-        {
-          "display_title": "1:00 AM <t:1794243300:t> (16:55 UTC) ATP Tour ATP Tennis T. Etcheverry vs M. Dahlin",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794243300:t> (16:55 UTC) ATP Tour ATP Tennis T. Etcheverry vs M. Dahlin"
-        },
-        {
-          "display_title": "1:00 AM <t:1794248700:t> (18:25 UTC) ATP Tour ATP Tennis L. Borg vs T. Samuel",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794248700:t> (18:25 UTC) ATP Tour ATP Tennis L. Borg vs T. Samuel"
-        },
-        {
-          "display_title": "1:00 AM <t:1794254100:t> (19:55 UTC) WTA Tour WTA Tennis A. Sabalenka vs K. Muchova",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794254100:t> (19:55 UTC) WTA Tour WTA Tennis A. Sabalenka vs K. Muchova"
-        },
-        {
-          "display_title": "1:00 AM <t:1794259500:t> (21:25 UTC) WTA Tour WTA Tennis M. Andreeva vs E. Svitolina",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794259500:t> (21:25 UTC) WTA Tour WTA Tennis M. Andreeva vs E. Svitolina"
-        },
-        {
-          "display_title": "1:00 AM <t:1794264900:t> (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs E. Mertens/Zhang Shuai",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794264900:t> (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs E. Mertens/Zhang Shuai"
-        },
-        {
-          "display_title": "1:00 AM <t:1794266700:t> (23:25 UTC) NBA Washington Wizards vs Detroit Pistons",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-09T12:00:00+00:00",
-          "stop": "2026-11-10T00:00:00+00:00",
-          "title": "<t:1794266700:t> (23:25 UTC) NBA Washington Wizards vs Detroit Pistons"
-        },
-        {
           "display_title": "1:00 AM <t:1794270300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs Hsieh Su-Wei/J. Ostapenko",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
@@ -431,10 +351,10 @@
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 638718070,
-      "message_timestamp": 1794229257,
+      "message_id": 638900967,
+      "message_timestamp": 1794268830,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-09T20:52:20.581329+00:00"
+      "updated_at": "2026-11-10T04:11:51.703682+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
