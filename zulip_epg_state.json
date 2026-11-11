@@ -112,197 +112,45 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794319200:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794319200:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
-        },
-        {
-          "display_title": "6:00 AM <t:1794326400:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794326400:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
-        },
-        {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) CBS Sports HQ: Just Football",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) CBS Sports HQ: Just Football"
-        },
-        {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea"
-        },
-        {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man. City",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man. City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette"
-        },
-        {
-          "display_title": "6:00 AM <t:1794351600:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794351600:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
-        },
-        {
-          "display_title": "6:00 AM <t:1794355200:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794355200:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "6:00 AM <t:1794362400:t> (21:00 ET) CBS Sports HQ: College Football Playoff Breakdown",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794362400:t> (21:00 ET) CBS Sports HQ: College Football Playoff Breakdown"
-        },
-        {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) BK Häcken vs Chelsea",
+          "display_title": "6:00 AM <t:1794418200:t> (12:30 ET) OH Leuven vs HB Køge",
           "slot": "PARAMOUNT B 001",
           "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) BK Häcken vs Chelsea"
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794418200:t> (12:30 ET) OH Leuven vs HB Køge"
         },
         {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) Real Madrid vs Paris FC",
+          "display_title": "6:00 AM <t:1794426300:t> (14:45 ET) Juventus vs Lyonnes",
           "slot": "PARAMOUNT B 002",
           "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) Real Madrid vs Paris FC"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) Inter vs Man. City",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) Inter vs Man. City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) PSG vs Bayern",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) PSG vs Bayern"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) Roma vs Servette",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) Roma vs Servette"
-        },
-        {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: BK Häcken vs Chelsea"
-        },
-        {
-          "display_title": "6:00 AM <t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794330000:t> (12:00 ET) UEFA Women's Champions League: Real Madrid vs Paris FC"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man City",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Inter vs Man City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: PSG vs Bayern"
-        },
-        {
-          "display_title": "6:00 AM <t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794339900:t> (14:45 ET) UEFA Women's Champions League: Roma vs Servette"
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794426300:t> (14:45 ET) Juventus vs Lyonnes"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 639163291,
-      "message_timestamp": 1794321053,
+      "message_id": 639414235,
+      "message_timestamp": 1794389437,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-10T20:55:12.166833+00:00"
+      "updated_at": "2026-11-11T09:37:17.950349+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794348000:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
+          "display_title": "6:00 AM <t:1794434400:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-10T12:00:00-05:00",
-          "stop": "2026-11-11T00:00:00-05:00",
-          "title": "<t:1794348000:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794434400:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 639036790,
-      "message_timestamp": 1794286848,
+      "message_id": 639363564,
+      "message_timestamp": 1794373264,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-10T12:48:51.824012+00:00"
+      "updated_at": "2026-11-11T09:37:18.342725+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
