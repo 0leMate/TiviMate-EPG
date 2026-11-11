@@ -112,6 +112,86 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "6:00 AM <t:1794405600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794405600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "6:00 AM <t:1794412800:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794412800:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "6:00 AM <t:1794416400:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794416400:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "6:00 AM <t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge"
+        },
+        {
+          "display_title": "6:00 AM <t:1794423600:t> (14:00 ET) CBS Sports HQ: With The First Pick",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794423600:t> (14:00 ET) CBS Sports HQ: With The First Pick"
+        },
+        {
+          "display_title": "6:00 AM <t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes"
+        },
+        {
+          "display_title": "6:00 AM <t:1794427200:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794427200:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "6:00 AM <t:1794430800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794430800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "6:00 AM <t:1794438000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794438000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1794441600:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794441600:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
           "display_title": "6:00 AM <t:1794418200:t> (12:30 ET) OH Leuven vs HB Køge",
           "slot": "PARAMOUNT B 001",
           "slot_norm": "PARAMOUNT B 1",
@@ -126,17 +206,41 @@
           "start": "2026-11-11T12:00:00-05:00",
           "stop": "2026-11-12T00:00:00-05:00",
           "title": "<t:1794426300:t> (14:45 ET) Juventus vs Lyonnes"
+        },
+        {
+          "display_title": "6:00 AM <t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge"
+        },
+        {
+          "display_title": "6:00 AM <t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 639414235,
-      "message_timestamp": 1794389437,
+      "message_id": 639454096,
+      "message_timestamp": 1794400230,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-11T09:37:17.950349+00:00"
+      "updated_at": "2026-11-11T17:56:51.633119+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
+        {
+          "display_title": "6:00 AM <t:1794445200:t> (20:00 ET) AEW Dynamite",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-11-11T12:00:00-05:00",
+          "stop": "2026-11-12T00:00:00-05:00",
+          "title": "<t:1794445200:t> (20:00 ET) AEW Dynamite"
+        },
         {
           "display_title": "6:00 AM <t:1794434400:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
@@ -147,10 +251,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 639363564,
-      "message_timestamp": 1794373264,
+      "message_id": 639533199,
+      "message_timestamp": 1794418225,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-11T09:37:18.342725+00:00"
+      "updated_at": "2026-11-11T17:56:52.126822+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -286,53 +390,133 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794356700:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs S. Errani/J. Paolini",
-          "slot": "SKY SPORTS+ 26",
-          "slot_norm": "SKY SPORTS+ 26",
+          "display_title": "1:00 AM <t:1794398100:t> (11:55 UTC) ATP Tour ATP Tennis L. Sonego vs A. Tabilo",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
           "start": "2026-11-11T12:00:00+00:00",
           "stop": "2026-11-12T00:00:00+00:00",
-          "title": "<t:1794356700:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs S. Errani/J. Paolini"
+          "title": "<t:1794398100:t> (11:55 UTC) ATP Tour ATP Tennis L. Sonego vs A. Tabilo"
         },
         {
-          "display_title": "1:00 AM <t:1794369300:t> (03:55 UTC) NBA Thunder vs Trail Blazers",
-          "slot": "SKY SPORTS+ 27",
-          "slot_norm": "SKY SPORTS+ 27",
+          "display_title": "1:00 AM <t:1794403500:t> (13:25 UTC) ATP Tour ATP Tennis T. Fritz vs C. Norrie",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
           "start": "2026-11-11T12:00:00+00:00",
           "stop": "2026-11-12T00:00:00+00:00",
-          "title": "<t:1794369300:t> (03:55 UTC) NBA Thunder vs Trail Blazers"
+          "title": "<t:1794403500:t> (13:25 UTC) ATP Tour ATP Tennis T. Fritz vs C. Norrie"
+        },
+        {
+          "display_title": "1:00 AM <t:1794416100:t> (16:55 UTC) ATP Tour ATP Tennis A. Shevchenko vs C. Ruud",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794416100:t> (16:55 UTC) ATP Tour ATP Tennis A. Shevchenko vs C. Ruud"
+        },
+        {
+          "display_title": "1:00 AM <t:1794421500:t> (18:25 UTC) ATP Tour ATP Tennis M. Kecmanovic vs H. Rune",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794421500:t> (18:25 UTC) ATP Tour ATP Tennis M. Kecmanovic vs H. Rune"
+        },
+        {
+          "display_title": "1:00 AM <t:1794422700:t> (18:45 UTC) EFL EFL Trophy Barnsley vs Oldham",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794422700:t> (18:45 UTC) EFL EFL Trophy Barnsley vs Oldham"
+        },
+        {
+          "display_title": "1:00 AM <t:1794422700:t> (18:45 UTC) EFL EFL Trophy Sheff Wed vs Accrington",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794422700:t> (18:45 UTC) EFL EFL Trophy Sheff Wed vs Accrington"
+        },
+        {
+          "display_title": "1:00 AM <t:1794426900:t> (19:55 UTC) WTA Tour WTA Tennis E. Svitolina vs K. Muchova",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794426900:t> (19:55 UTC) WTA Tour WTA Tennis E. Svitolina vs K. Muchova"
+        },
+        {
+          "display_title": "1:00 AM <t:1794432300:t> (21:25 UTC) WTA Tour WTA Tennis A. Sabalenka vs M. Andreeva",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794432300:t> (21:25 UTC) WTA Tour WTA Tennis A. Sabalenka vs M. Andreeva"
+        },
+        {
+          "display_title": "1:00 AM <t:1794437700:t> (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs H. Guo/K. Mladenovic",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794437700:t> (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs H. Guo/K. Mladenovic"
+        },
+        {
+          "display_title": "1:00 AM <t:1794443100:t> (00:25 UTC) WTA Tour WTA Tennis Hsieh Su-Wei/J. Ostapenko vs E. Mertens/Zhang Shuai",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-11-12T12:00:00+00:00",
+          "stop": "2026-11-13T00:00:00+00:00",
+          "title": "<t:1794443100:t> (00:25 UTC) WTA Tour WTA Tennis Hsieh Su-Wei/J. Ostapenko vs E. Mertens/Zhang Shuai"
+        },
+        {
+          "display_title": "1:00 AM <t:1794422700:t> (18:45 UTC) Barnsley vs Oldham",
+          "slot": "SKY SPORTS+ B 15",
+          "slot_norm": "SKY SPORTS+ B 15",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794422700:t> (18:45 UTC) Barnsley vs Oldham"
+        },
+        {
+          "display_title": "1:00 AM <t:1794422700:t> (18:45 UTC) Sheff Wed vs Accrington",
+          "slot": "SKY SPORTS+ B 16",
+          "slot_norm": "SKY SPORTS+ B 16",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794422700:t> (18:45 UTC) Sheff Wed vs Accrington"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 639313566,
-      "message_timestamp": 1794355299,
+      "message_id": 639447500,
+      "message_timestamp": 1794398442,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-11T01:59:48.842684+00:00"
+      "updated_at": "2026-11-11T17:56:53.044247+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals",
+          "display_title": "2:00 PM <t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals",
           "slot": "AU STAN 001",
           "slot_norm": "AU STAN 1",
-          "start": "2026-11-11T12:00:00+11:00",
-          "stop": "2026-11-12T00:00:00+11:00",
-          "title": "<t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals"
+          "start": "2026-11-12T12:00:00+11:00",
+          "stop": "2026-11-13T00:00:00+11:00",
+          "title": "<t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals"
         },
         {
-          "display_title": "2:00 PM <t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals",
+          "display_title": "2:00 PM <t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals",
           "slot": "AU STAN B 001",
           "slot_norm": "AU STAN B 1",
-          "start": "2026-11-11T12:00:00+11:00",
-          "stop": "2026-11-12T00:00:00+11:00",
-          "title": "<t:1794340800:t> (07:00 AEDT) Indian Wells: Day 3 WTA Finals"
+          "start": "2026-11-12T12:00:00+11:00",
+          "stop": "2026-11-13T00:00:00+11:00",
+          "title": "<t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals"
         }
       ],
       "group": "AU STAN",
-      "message_id": 639137055,
-      "message_timestamp": 1794315637,
+      "message_id": 639462221,
+      "message_timestamp": 1794402035,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-10T20:55:12.565112+00:00"
+      "updated_at": "2026-11-11T17:56:53.539440+00:00"
     }
   },
   "version": 1
