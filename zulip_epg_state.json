@@ -438,187 +438,27 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794311700:t> (11:55 UTC) ATP Tour ATP Tennis A. Michelsen vs J. Cerundolo",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794311700:t> (11:55 UTC) ATP Tour ATP Tennis A. Michelsen vs J. Cerundolo"
+          "display_title": "1:00 AM <t:1794356700:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs S. Errani/J. Paolini",
+          "slot": "SKY SPORTS+ 26",
+          "slot_norm": "SKY SPORTS+ 26",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794356700:t> (00:25 UTC) WTA Tour WTA Tennis C. Bucsa/N. Melichar-Martinez vs S. Errani/J. Paolini"
         },
         {
-          "display_title": "1:00 AM <t:1794317100:t> (13:25 UTC) ATP Tour ATP Tennis T. Etcheverry vs T. Tirante",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794317100:t> (13:25 UTC) ATP Tour ATP Tennis T. Etcheverry vs T. Tirante"
-        },
-        {
-          "display_title": "1:00 AM <t:1794329700:t> (16:55 UTC) ATP Tour ATP Tennis H. Rune vs Z. Bergs",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794329700:t> (16:55 UTC) ATP Tour ATP Tennis H. Rune vs Z. Bergs"
-        },
-        {
-          "display_title": "1:00 AM <t:1794335100:t> (18:25 UTC) ATP Tour ATP Tennis L. Musetti vs T. Samuel",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794335100:t> (18:25 UTC) ATP Tour ATP Tennis L. Musetti vs T. Samuel"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Barnet vs L Orient",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Barnet vs L Orient"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Bristol Rovers vs Reading",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Bristol Rovers vs Reading"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Burton vs Notts County",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Burton vs Notts County"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Crewe vs Wigan",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Crewe vs Wigan"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Grimsby vs Nottm Forest U21",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Grimsby vs Nottm Forest U21"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Huddersfield vs Liverpool U21",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Huddersfield vs Liverpool U21"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Mansfield vs Chesterfield",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Mansfield vs Chesterfield"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Northampton vs Gillingham",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Northampton vs Gillingham"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Oxford Utd vs Cheltenham",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Oxford Utd vs Cheltenham"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Plymouth vs Swindon",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Plymouth vs Swindon"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stevenage vs Fulham U21",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stevenage vs Fulham U21"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stockport vs Tranmere",
-          "slot": "SKY SPORTS+ 16",
-          "slot_norm": "SKY SPORTS+ 16",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) EFL EFL Trophy Stockport vs Tranmere"
-        },
-        {
-          "display_title": "1:00 AM <t:1794336300:t> (18:45 UTC) Jersey Mike's Trophy Leicester vs Walsall",
-          "slot": "SKY SPORTS+ 17",
-          "slot_norm": "SKY SPORTS+ 17",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794336300:t> (18:45 UTC) Jersey Mike's Trophy Leicester vs Walsall"
-        },
-        {
-          "display_title": "1:00 AM <t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bradford vs York",
-          "slot": "SKY SPORTS+ 18",
-          "slot_norm": "SKY SPORTS+ 18",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bradford vs York"
-        },
-        {
-          "display_title": "1:00 AM <t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bromley vs MK Dons",
-          "slot": "SKY SPORTS+ 19",
-          "slot_norm": "SKY SPORTS+ 19",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794338100:t> (19:15 UTC) EFL EFL Trophy Bromley vs MK Dons"
-        },
-        {
-          "display_title": "1:00 AM <t:1794338100:t> (19:15 UTC) EFL EFL Trophy Crawley vs Brentford U21",
-          "slot": "SKY SPORTS+ 20",
-          "slot_norm": "SKY SPORTS+ 20",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794338100:t> (19:15 UTC) EFL EFL Trophy Crawley vs Brentford U21"
-        },
-        {
-          "display_title": "1:00 AM <t:1794339000:t> (19:30 UTC) EFL EFL Trophy Colchester vs Ipswich U21",
-          "slot": "SKY SPORTS+ 21",
-          "slot_norm": "SKY SPORTS+ 21",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794339000:t> (19:30 UTC) EFL EFL Trophy Colchester vs Ipswich U21"
-        },
-        {
-          "display_title": "1:00 AM <t:1794340500:t> (19:55 UTC) WTA Tour WTA Tennis M. Kostyuk vs J. Pegula",
-          "slot": "SKY SPORTS+ 22",
-          "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-11-10T12:00:00+00:00",
-          "stop": "2026-11-11T00:00:00+00:00",
-          "title": "<t:1794340500:t> (19:55 UTC) WTA Tour WTA Tennis M. Kostyuk vs J. Pegula"
+          "display_title": "1:00 AM <t:1794369300:t> (03:55 UTC) NBA Thunder vs Trail Blazers",
+          "slot": "SKY SPORTS+ 27",
+          "slot_norm": "SKY SPORTS+ 27",
+          "start": "2026-11-11T12:00:00+00:00",
+          "stop": "2026-11-12T00:00:00+00:00",
+          "title": "<t:1794369300:t> (03:55 UTC) NBA Thunder vs Trail Blazers"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 639114992,
-      "message_timestamp": 1794310261,
+      "message_id": 639313566,
+      "message_timestamp": 1794355299,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-10T12:48:52.184316+00:00"
+      "updated_at": "2026-11-11T01:59:48.842684+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
