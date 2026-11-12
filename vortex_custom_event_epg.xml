@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 20:00 AEW Dynamite</display-name>
+    <display-name>PPV 01: 20:00 AEW Dynamite (Commercial Free)</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7352,12 +7352,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001:</display-name>
+    <display-name>PPV C 001: 18:30 Orobio vs Cedeno</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002:</display-name>
+    <display-name>PPV C 002: 18:30 Orobio vs Cedeno BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
@@ -12449,59 +12449,10 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.10">
     <display-name>SKY SPORTS+ 10</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.15">
-    <display-name>SKY SPORTS+ B 15</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.16">
-    <display-name>SKY SPORTS+ B 16</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <programme start="20261112120000 +1100" stop="20261113000000 +1100" channel="custom.AU.STAN.AU.STAN.001">
-    <title>2:00 PM &lt;t:1794427200:t&gt; (07:00 AEDT) Indian Wells: Day 4 WTA Finals</title>
-    <category>Sports</category>
-    <desc>Zulip #stan-sport • AU STAN</desc>
-  </programme>
   <programme start="20261112120000 +1100" stop="20261113000000 +1100" channel="custom.AU.STAN.AU.STAN.B.001">
     <title>2:00 PM &lt;t:1794427200:t&gt; (07:00 AEDT) Indian Wells: Day 4 WTA Finals</title>
     <category>Sports</category>
@@ -14083,7 +14034,7 @@
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
   <programme start="20261111120000 -0500" stop="20261112000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1794445200:t&gt; (20:00 ET) AEW Dynamite</title>
+    <title>6:00 AM &lt;t:1794445200:t&gt; (20:00 ET) AEW Dynamite (Commercial Free)</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14092,63 +14043,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>1:00 AM &lt;t:1794398100:t&gt; (11:55 UTC) ATP Tour ATP Tennis L. Sonego vs A. Tabilo</title>
+  <programme start="20261111120000 -0500" stop="20261112000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.001">
+    <title>6:00 AM &lt;t:1794439800:t&gt; (18:30 ET) Orobio vs Cedeno</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>1:00 AM &lt;t:1794403500:t&gt; (13:25 UTC) ATP Tour ATP Tennis T. Fritz vs C. Norrie</title>
+  <programme start="20261111120000 -0500" stop="20261112000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.002">
+    <title>6:00 AM &lt;t:1794439800:t&gt; (18:30 ET) Orobio vs Cedeno BU</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:00 AM &lt;t:1794416100:t&gt; (16:55 UTC) ATP Tour ATP Tennis A. Shevchenko vs C. Ruud</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>1:00 AM &lt;t:1794421500:t&gt; (18:25 UTC) ATP Tour ATP Tennis M. Kecmanovic vs H. Rune</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>1:00 AM &lt;t:1794422700:t&gt; (18:45 UTC) EFL EFL Trophy Barnsley vs Oldham</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>1:00 AM &lt;t:1794422700:t&gt; (18:45 UTC) EFL EFL Trophy Sheff Wed vs Accrington</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>1:00 AM &lt;t:1794426900:t&gt; (19:55 UTC) WTA Tour WTA Tennis E. Svitolina vs K. Muchova</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>1:00 AM &lt;t:1794432300:t&gt; (21:25 UTC) WTA Tour WTA Tennis A. Sabalenka vs M. Andreeva</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <title>1:00 AM &lt;t:1794437700:t&gt; (22:55 UTC) WTA Tour WTA Tennis G. Dabrowski/L. Stefani vs H. Guo/K. Mladenovic</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261112120000 +0000" stop="20261113000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
     <title>1:00 AM &lt;t:1794443100:t&gt; (00:25 UTC) WTA Tour WTA Tennis Hsieh Su-Wei/J. Ostapenko vs E. Mertens/Zhang Shuai</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.15">
-    <title>1:00 AM &lt;t:1794422700:t&gt; (18:45 UTC) Barnsley vs Oldham</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261111120000 +0000" stop="20261112000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.16">
-    <title>1:00 AM &lt;t:1794422700:t&gt; (18:45 UTC) Sheff Wed vs Accrington</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
@@ -17469,16 +17375,6 @@
   </programme>
   <programme start="20261111120000 -0500" stop="20261112000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.010">
     <title>6:00 AM &lt;t:1794441600:t&gt; (19:00 ET) CBS Sports HQ: Scoreboard &amp; Highlights</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261111120000 -0500" stop="20261112000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.001">
-    <title>6:00 AM &lt;t:1794418200:t&gt; (12:30 ET) OH Leuven vs HB Køge</title>
-    <category>Sports</category>
-    <desc>Zulip #paramount • US PARAMOUNT</desc>
-  </programme>
-  <programme start="20261111120000 -0500" stop="20261112000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.002">
-    <title>6:00 AM &lt;t:1794426300:t&gt; (14:45 ET) Juventus vs Lyonnes</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
