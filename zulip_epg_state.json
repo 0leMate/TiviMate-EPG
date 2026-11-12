@@ -112,149 +112,93 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794405600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794405600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "display_title": "6:00 AM <t:1794502800:t> (12:00 ET) Barcelona vs Arsenal",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794502800:t> (12:00 ET) Barcelona vs Arsenal"
         },
         {
-          "display_title": "6:00 AM <t:1794412800:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794412800:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "display_title": "6:00 AM <t:1794513000:t> (14:50 ET) Benfica vs Austria Wien",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794513000:t> (14:50 ET) Benfica vs Austria Wien"
         },
         {
-          "display_title": "6:00 AM <t:1794416400:t> (12:00 ET) CBS Sports HQ: Just Football",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794416400:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "display_title": "6:00 AM <t:1794524400:t> (18:00 ET) UFC 334: Press Conference",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794524400:t> (18:00 ET) UFC 334: Press Conference"
         },
         {
-          "display_title": "6:00 AM <t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge"
-        },
-        {
-          "display_title": "6:00 AM <t:1794423600:t> (14:00 ET) CBS Sports HQ: With The First Pick",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794423600:t> (14:00 ET) CBS Sports HQ: With The First Pick"
-        },
-        {
-          "display_title": "6:00 AM <t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes"
-        },
-        {
-          "display_title": "6:00 AM <t:1794427200:t> (15:00 ET) CBS Sports HQ: This Just In",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794427200:t> (15:00 ET) CBS Sports HQ: This Just In"
-        },
-        {
-          "display_title": "6:00 AM <t:1794430800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794430800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
-        },
-        {
-          "display_title": "6:00 AM <t:1794438000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794438000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
-        },
-        {
-          "display_title": "6:00 AM <t:1794441600:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794441600:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "6:00 AM <t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794418200:t> (12:30 ET) UEFA Women's Champions League: OH Leuven vs HB Køge"
-        },
-        {
-          "display_title": "6:00 AM <t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794426300:t> (14:45 ET) UEFA Women's Champions League: Juventus vs Lyonnes"
+          "display_title": "6:00 AM <t:1794524400:t> (18:00 ET) UFC 334: Press Conference em Português",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794524400:t> (18:00 ET) UFC 334: Press Conference em Português"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 639605561,
-      "message_timestamp": 1794441683,
+      "message_id": 639694690,
+      "message_timestamp": 1794475855,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-12T00:52:14.570039+00:00"
+      "updated_at": "2026-11-12T09:58:06.565011+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794445200:t> (20:00 ET) AEW Dynamite (Commercial Free)",
+          "display_title": "6:00 AM <t:1794531600:t> (20:00 ET) AEW Dynamite (Commercial Free)",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794445200:t> (20:00 ET) AEW Dynamite (Commercial Free)"
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794531600:t> (20:00 ET) AEW Dynamite (Commercial Free)"
         },
         {
-          "display_title": "6:00 AM <t:1794434400:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
+          "display_title": "6:00 AM <t:1794520800:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794434400:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794520800:t> (17:00 ET) UFC Fight Night Acosta vs Walker - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794439800:t> (18:30 ET) Orobio vs Cedeno",
+          "display_title": "6:00 AM <t:1794526200:t> (18:30 ET) Orobio vs Cedeno",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794526200:t> (18:30 ET) Orobio vs Cedeno"
+        },
+        {
+          "display_title": "6:00 AM <t:1794526200:t> (18:30 ET) Orobio vs Cedeno",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794439800:t> (18:30 ET) Orobio vs Cedeno"
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794526200:t> (18:30 ET) Orobio vs Cedeno"
         },
         {
-          "display_title": "6:00 AM <t:1794439800:t> (18:30 ET) Orobio vs Cedeno BU",
+          "display_title": "6:00 AM <t:1794526200:t> (18:30 ET) Orobio vs Cedeno BU",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
-          "start": "2026-11-11T12:00:00-05:00",
-          "stop": "2026-11-12T00:00:00-05:00",
-          "title": "<t:1794439800:t> (18:30 ET) Orobio vs Cedeno BU"
+          "start": "2026-11-12T12:00:00-05:00",
+          "stop": "2026-11-13T00:00:00-05:00",
+          "title": "<t:1794526200:t> (18:30 ET) Orobio vs Cedeno BU"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 639597390,
-      "message_timestamp": 1794438038,
+      "message_id": 639647109,
+      "message_timestamp": 1794459658,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-12T00:52:14.955944+00:00"
+      "updated_at": "2026-11-12T09:58:06.919133+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -409,6 +353,14 @@
       "events": [
         {
           "display_title": "2:00 PM <t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-11-12T12:00:00+11:00",
+          "stop": "2026-11-13T00:00:00+11:00",
+          "title": "<t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals"
+        },
+        {
+          "display_title": "2:00 PM <t:1794427200:t> (07:00 AEDT) Indian Wells: Day 4 WTA Finals",
           "slot": "AU STAN B 001",
           "slot_norm": "AU STAN B 1",
           "start": "2026-11-12T12:00:00+11:00",
@@ -417,10 +369,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 639605775,
-      "message_timestamp": 1794441728,
+      "message_id": 639618105,
+      "message_timestamp": 1794447066,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-12T00:52:16.127931+00:00"
+      "updated_at": "2026-11-12T09:58:07.901581+00:00"
     }
   },
   "version": 1
