@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 08:30 ONE Friday Fights 178 Shimon vs Ondash</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7022,7 +7022,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
     <display-name>PPV 05</display-name>
-    <display-name>PPV 05: 17:00 NARA Nationals Southern Illinois</display-name>
+    <display-name>PPV 05: 19:30 NARA Nationals Southern Illinois</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.06">
@@ -7182,7 +7182,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 08:30 ONE Friday Fights 178 Shimon vs Ondash</display-name>
+    <display-name>PPV B 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
@@ -7202,7 +7202,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.05">
     <display-name>PPV B 05</display-name>
-    <display-name>PPV B 05: 17:00 NARA Nationals Southern Illinois</display-name>
+    <display-name>PPV B 05: 19:30 NARA Nationals Southern Illinois</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.06">
@@ -14172,11 +14172,6 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261113120000 -0500" stop="20261114000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1794576600:t&gt; (08:30 ET) ONE Friday Fights 178 Shimon vs Ondash</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261113120000 -0500" stop="20261114000000 -0500" channel="custom.PAY.PER.VIEW.PPV.02">
     <title>6:00 AM &lt;t:1794614400:t&gt; (19:00 ET) Toughman Contest</title>
     <category>Sports</category>
@@ -14193,17 +14188,12 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261113120000 -0500" stop="20261114000000 -0500" channel="custom.PAY.PER.VIEW.PPV.05">
-    <title>6:00 AM &lt;t:1794607200:t&gt; (17:00 ET) NARA Nationals Southern Illinois</title>
+    <title>6:00 AM &lt;t:1794616200:t&gt; (19:30 ET) NARA Nationals Southern Illinois</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261113120000 -0500" stop="20261114000000 -0500" channel="custom.PAY.PER.VIEW.PPV.06">
     <title>6:00 AM &lt;t:1794621600:t&gt; (21:00 ET) AMA EnduroCross Idaho Falls</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261113120000 -0500" stop="20261114000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>6:00 AM &lt;t:1794576600:t&gt; (08:30 ET) ONE Friday Fights 178 Shimon vs Ondash</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14223,7 +14213,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261113120000 -0500" stop="20261114000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.05">
-    <title>6:00 AM &lt;t:1794607200:t&gt; (17:00 ET) NARA Nationals Southern Illinois</title>
+    <title>6:00 AM &lt;t:1794616200:t&gt; (19:30 ET) NARA Nationals Southern Illinois</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

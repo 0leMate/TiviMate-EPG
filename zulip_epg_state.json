@@ -282,14 +282,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794576600:t> (08:30 ET) ONE Friday Fights 178 Shimon vs Ondash",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-13T12:00:00-05:00",
-          "stop": "2026-11-14T00:00:00-05:00",
-          "title": "<t:1794576600:t> (08:30 ET) ONE Friday Fights 178 Shimon vs Ondash"
-        },
-        {
           "display_title": "6:00 AM <t:1794614400:t> (19:00 ET) Toughman Contest",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
@@ -314,12 +306,12 @@
           "title": "<t:1794605400:t> (16:30 ET) FloRacing Night In America Senoia"
         },
         {
-          "display_title": "6:00 AM <t:1794607200:t> (17:00 ET) NARA Nationals Southern Illinois",
+          "display_title": "6:00 AM <t:1794616200:t> (19:30 ET) NARA Nationals Southern Illinois",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
           "start": "2026-11-13T12:00:00-05:00",
           "stop": "2026-11-14T00:00:00-05:00",
-          "title": "<t:1794607200:t> (17:00 ET) NARA Nationals Southern Illinois"
+          "title": "<t:1794616200:t> (19:30 ET) NARA Nationals Southern Illinois"
         },
         {
           "display_title": "6:00 AM <t:1794621600:t> (21:00 ET) AMA EnduroCross Idaho Falls",
@@ -328,14 +320,6 @@
           "start": "2026-11-13T12:00:00-05:00",
           "stop": "2026-11-14T00:00:00-05:00",
           "title": "<t:1794621600:t> (21:00 ET) AMA EnduroCross Idaho Falls"
-        },
-        {
-          "display_title": "6:00 AM <t:1794576600:t> (08:30 ET) ONE Friday Fights 178 Shimon vs Ondash",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-13T12:00:00-05:00",
-          "stop": "2026-11-14T00:00:00-05:00",
-          "title": "<t:1794576600:t> (08:30 ET) ONE Friday Fights 178 Shimon vs Ondash"
         },
         {
           "display_title": "6:00 AM <t:1794614400:t> (19:00 ET) Toughman Contest",
@@ -362,12 +346,12 @@
           "title": "<t:1794605400:t> (16:30 ET) FloRacing Night In America Senoia"
         },
         {
-          "display_title": "6:00 AM <t:1794607200:t> (17:00 ET) NARA Nationals Southern Illinois",
+          "display_title": "6:00 AM <t:1794616200:t> (19:30 ET) NARA Nationals Southern Illinois",
           "slot": "PPV B 05",
           "slot_norm": "PPV B 5",
           "start": "2026-11-13T12:00:00-05:00",
           "stop": "2026-11-14T00:00:00-05:00",
-          "title": "<t:1794607200:t> (17:00 ET) NARA Nationals Southern Illinois"
+          "title": "<t:1794616200:t> (19:30 ET) NARA Nationals Southern Illinois"
         },
         {
           "display_title": "6:00 AM <t:1794621600:t> (21:00 ET) AMA EnduroCross Idaho Falls",
@@ -443,10 +427,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640076086,
-      "message_timestamp": 1794574888,
+      "message_id": 640199273,
+      "message_timestamp": 1794601827,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-13T16:34:14.408536+00:00"
+      "updated_at": "2026-11-13T23:43:45.078932+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
