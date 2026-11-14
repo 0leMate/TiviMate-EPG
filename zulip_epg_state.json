@@ -354,259 +354,259 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear 2026",
-          "slot": "PPV C 014",
-          "slot_norm": "PPV C 14",
+          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) UFC 334 Prelims",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear 2026"
-        },
-        {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear 2026 BU",
-          "slot": "PPV C 015",
-          "slot_norm": "PPV C 15",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear 2026 BU"
-        },
-        {
-          "display_title": "6:00 AM <t:1794677400:t> (12:30 ET) BKB 61: Selby",
-          "slot": "PPV C 017",
-          "slot_norm": "PPV C 17",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794677400:t> (12:30 ET) BKB 61: Selby"
-        },
-        {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) EARLY PRELIMS UFC 334",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) EARLY PRELIMS UFC 334"
-        },
-        {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) EARLY PRELIMS UFC 334",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) EARLY PRELIMS UFC 334"
-        },
-        {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) PRELIMS UFC 334",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) PRELIMS UFC 334"
-        },
-        {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) PRELIMS UFC 334",
-          "slot": "PPV D 04",
-          "slot_norm": "PPV D 4",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) PRELIMS UFC 334"
+          "title": "<t:1794693600:t> (17:00 ET) UFC 334 Prelims"
         },
         {
           "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit",
-          "slot": "PPV D 05",
-          "slot_norm": "PPV D 5",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
           "title": "<t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit"
-        },
-        {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit",
-          "slot": "PPV D 06",
-          "slot_norm": "PPV D 6",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit"
-        },
-        {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit",
-          "slot": "PPV D 07",
-          "slot_norm": "PPV D 7",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit"
-        },
-        {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) Multiview UFC 334",
-          "slot": "PPV D 08",
-          "slot_norm": "PPV D 8",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) Multiview UFC 334"
-        },
-        {
-          "display_title": "6:00 AM <t:1794719700:t> (00:15 ET) Post Fight Conference UFC 334",
-          "slot": "PPV D 09",
-          "slot_norm": "PPV D 9",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794719700:t> (00:15 ET) Post Fight Conference UFC 334"
-        },
-        {
-          "display_title": "6:00 AM <t:1794682800:t> (14:00 ET) PRELIMS Cage Warriors 213",
-          "slot": "PPV D 11",
-          "slot_norm": "PPV D 11",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794682800:t> (14:00 ET) PRELIMS Cage Warriors 213"
-        },
-        {
-          "display_title": "6:00 AM <t:1794686400:t> (15:00 ET) Cage Warriors 213 London",
-          "slot": "PPV D 12",
-          "slot_norm": "PPV D 12",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794686400:t> (15:00 ET) Cage Warriors 213 London"
-        },
-        {
-          "display_title": "6:00 AM <t:1794664800:t> (09:00 ET) TNT After Shock",
-          "slot": "PPV D 13",
-          "slot_norm": "PPV D 13",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794664800:t> (09:00 ET) TNT After Shock"
-        },
-        {
-          "display_title": "6:00 AM <t:1794684600:t> (14:30 ET) TNT Cold Day In Hell",
-          "slot": "PPV D 15",
-          "slot_norm": "PPV D 15",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794684600:t> (14:30 ET) TNT Cold Day In Hell"
-        },
-        {
-          "display_title": "6:00 AM <t:1794664800:t> (09:00 ET) PFL Dubai",
-          "slot": "PPV D 17",
-          "slot_norm": "PPV D 17",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794664800:t> (09:00 ET) PFL Dubai"
         },
         {
           "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear",
-          "slot": "PPV D 18",
-          "slot_norm": "PPV D 18",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
           "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
         },
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear",
-          "slot": "PPV D 19",
-          "slot_norm": "PPV D 19",
+          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
+          "title": "<t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie"
         },
         {
-          "display_title": "6:00 AM <t:1794672000:t> (11:00 ET) RAF Chimaev vs Weidman",
-          "slot": "PPV D 20",
-          "slot_norm": "PPV D 20",
+          "display_title": "6:00 AM <t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794672000:t> (11:00 ET) RAF Chimaev vs Weidman"
+          "title": "<t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton"
         },
         {
-          "display_title": "6:00 AM <t:1794673800:t> (11:30 ET) PRELIMS Riley vs Coupe",
-          "slot": "PPV D 21",
-          "slot_norm": "PPV D 21",
+          "display_title": "6:00 AM <t:1794664800:t> (09:00 ET) PFL Nemkov vs Bilostenniy",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794673800:t> (11:30 ET) PRELIMS Riley vs Coupe"
+          "title": "<t:1794664800:t> (09:00 ET) PFL Nemkov vs Bilostenniy"
+        },
+        {
+          "display_title": "6:00 AM <t:1794672000:t> (11:00 ET) RAF Abu Dhabi Chimaev vs Weidman",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794672000:t> (11:00 ET) RAF Abu Dhabi Chimaev vs Weidman"
         },
         {
           "display_title": "6:00 AM <t:1794682800:t> (14:00 ET) Riley vs Coupe",
-          "slot": "PPV D 22",
-          "slot_norm": "PPV D 22",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
           "title": "<t:1794682800:t> (14:00 ET) Riley vs Coupe"
         },
         {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) PRELIMS Pacheco vs Fulghum",
-          "slot": "PPV D 23",
-          "slot_norm": "PPV D 23",
+          "display_title": "6:00 AM <t:1794682800:t> (14:00 ET) FCC 48",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) PRELIMS Pacheco vs Fulghum"
+          "title": "<t:1794682800:t> (14:00 ET) FCC 48"
+        },
+        {
+          "display_title": "6:00 AM <t:1794686400:t> (15:00 ET) 2/ Cage Warriors 213",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794686400:t> (15:00 ET) 2/ Cage Warriors 213"
+        },
+        {
+          "display_title": "6:00 AM <t:1794684600:t> (14:30 ET) TNT Extreme Wrestling Cold Day In Hell",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794684600:t> (14:30 ET) TNT Extreme Wrestling Cold Day In Hell"
         },
         {
           "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) Pacheco vs Fulghum",
-          "slot": "PPV D 24",
-          "slot_norm": "PPV D 24",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
           "title": "<t:1794704400:t> (20:00 ET) Pacheco vs Fulghum"
         },
         {
           "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) GCW Massacre in Missoula",
-          "slot": "PPV D 25",
-          "slot_norm": "PPV D 25",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
           "title": "<t:1794697200:t> (18:00 ET) GCW Massacre in Missoula"
         },
         {
-          "display_title": "6:00 AM <t:1794684600:t> (14:30 ET) TNT Cold Day In Hell",
-          "slot": "PPV D 26",
-          "slot_norm": "PPV D 26",
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Toughman Contest",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794684600:t> (14:30 ET) TNT Cold Day In Hell"
+          "title": "<t:1794700800:t> (19:00 ET) Toughman Contest"
         },
         {
-          "display_title": "6:00 AM <t:1794688200:t> (15:30 ET) NARA Nationals at Southern Illinois",
-          "slot": "PPV D 27",
-          "slot_norm": "PPV D 27",
+          "display_title": "6:00 AM <t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794688200:t> (15:30 ET) NARA Nationals at Southern Illinois"
+          "title": "<t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead"
         },
         {
-          "display_title": "6:00 AM <t:1794691800:t> (16:30 ET) FloRacing Night in America at Senoia",
-          "slot": "PPV D 28",
-          "slot_norm": "PPV D 28",
+          "display_title": "6:00 AM <t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794691800:t> (16:30 ET) FloRacing Night in America at Senoia"
+          "title": "<t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia"
         },
         {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) AMA EnduroCross at Idaho",
-          "slot": "PPV D 29",
-          "slot_norm": "PPV D 29",
+          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois",
+          "slot": "PPV 18",
+          "slot_norm": "PPV 18",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) AMA EnduroCross at Idaho"
+          "title": "<t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois"
         },
         {
-          "display_title": "6:00 AM <t:1794699000:t> (18:30 ET) Governors Cup at New Smyrna",
-          "slot": "PPV D 31",
-          "slot_norm": "PPV D 31",
+          "display_title": "6:00 AM <t:1794679200:t> (13:00 ET) 2nd Annual Gobbler",
+          "slot": "PPV 19",
+          "slot_norm": "PPV 19",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794699000:t> (18:30 ET) Governors Cup at New Smyrna"
+          "title": "<t:1794679200:t> (13:00 ET) 2nd Annual Gobbler"
         },
         {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) CARS Tour West at Las Vegas Bullring",
-          "slot": "PPV D 32",
-          "slot_norm": "PPV D 32",
+          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Sprint Cars",
+          "slot": "PPV 20",
+          "slot_norm": "PPV 20",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) CARS Tour West at Las Vegas Bullring"
+          "title": "<t:1794697200:t> (18:00 ET) Volusia Sprint Cars"
+        },
+        {
+          "display_title": "6:00 AM <t:1794699000:t> (18:30 ET) Governors Cup New Smyrna",
+          "slot": "PPV 21",
+          "slot_norm": "PPV 21",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794699000:t> (18:30 ET) Governors Cup New Smyrna"
+        },
+        {
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas",
+          "slot": "PPV 22",
+          "slot_norm": "PPV 22",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas"
+        },
+        {
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia",
+          "slot": "PPV 23",
+          "slot_norm": "PPV 23",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia"
+        },
+        {
+          "display_title": "6:00 AM <t:1794702300:t> (19:25 ET) USAC Southwest Sprints Central AZ",
+          "slot": "PPV 24",
+          "slot_norm": "PPV 24",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794702300:t> (19:25 ET) USAC Southwest Sprints Central AZ"
+        },
+        {
+          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) AMA EnduroCross Idaho Falls",
+          "slot": "PPV 25",
+          "slot_norm": "PPV 25",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794708000:t> (21:00 ET) AMA EnduroCross Idaho Falls"
+        },
+        {
+          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
+          "slot": "PPV 26",
+          "slot_norm": "PPV 26",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794693600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
+        },
+        {
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) AEW Saturday Tailgate Brawl",
+          "slot": "PPV 28",
+          "slot_norm": "PPV 28",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794700800:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+        },
+        {
+          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) UFC 334 Prelims",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794693600:t> (17:00 ET) UFC 334 Prelims"
+        },
+        {
+          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit"
+        },
+        {
+          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
+        },
+        {
+          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie"
+        },
+        {
+          "display_title": "6:00 AM <t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640318947,
-      "message_timestamp": 1794661228,
+      "message_id": 640364581,
+      "message_timestamp": 1794688231,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-14T15:12:50.283789+00:00"
+      "updated_at": "2026-11-14T20:48:36.894644+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
