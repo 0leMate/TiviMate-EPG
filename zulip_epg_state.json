@@ -4,35 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Speedway Park",
-          "slot": "DIRT 01",
-          "slot_norm": "DIRT 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) Volusia Speedway Park"
-        },
-        {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1794783600:t> (18:00 ET) Volusia Speedway Park",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) Volusia Speedway Park"
-        },
-        {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Speedway Park",
-          "slot": "DIRT C 01",
-          "slot_norm": "DIRT C 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) Volusia Speedway Park"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794783600:t> (18:00 ET) Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 640330148,
-      "message_timestamp": 1794668436,
+      "message_id": 640416896,
+      "message_timestamp": 1794718831,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-14T15:12:50.116287+00:00"
+      "updated_at": "2026-11-15T09:37:57.488264+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -128,477 +112,205 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794690000:t> (16:00 ET) UFC: UFC 334 em Português",
-          "slot": "PARAMOUNT 023",
-          "slot_norm": "PARAMOUNT 23",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794690000:t> (16:00 ET) UFC: UFC 334 em Português"
-        },
-        {
-          "display_title": "6:00 AM <t:1794690000:t> (16:00 ET) UFC: UFC 334 en Español",
-          "slot": "PARAMOUNT 024",
-          "slot_norm": "PARAMOUNT 24",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794690000:t> (16:00 ET) UFC: UFC 334 en Español"
-        },
-        {
-          "display_title": "6:00 AM <t:1794690000:t> (16:00 ET) UFC: UFC 334: English",
-          "slot": "PARAMOUNT 025",
-          "slot_norm": "PARAMOUNT 25",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794690000:t> (16:00 ET) UFC: UFC 334: English"
-        },
-        {
-          "display_title": "6:00 AM <t:1794691800:t> (16:30 ET) CBS Sports HQ: UFC 334: Gane vs Hokit Pre-Fight Show",
-          "slot": "PARAMOUNT 026",
-          "slot_norm": "PARAMOUNT 26",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794691800:t> (16:30 ET) CBS Sports HQ: UFC 334: Gane vs Hokit Pre-Fight Show"
-        },
-        {
-          "display_title": "6:00 AM <t:1794699000:t> (18:30 ET) CBS Sports HQ: College Football Postgame",
-          "slot": "PARAMOUNT 027",
-          "slot_norm": "PARAMOUNT 27",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794699000:t> (18:30 ET) CBS Sports HQ: College Football Postgame"
-        },
-        {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 028",
-          "slot_norm": "PARAMOUNT 28",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) Ufc: UFC 334: Multiview",
-          "slot": "PARAMOUNT 029",
-          "slot_norm": "PARAMOUNT 29",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) Ufc: UFC 334: Multiview"
-        },
-        {
-          "display_title": "6:00 AM <t:1794657600:t> (07:00 ET) Zuffa Boxing 13",
+          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) Aston Villa vs Birmingham City",
           "slot": "PARAMOUNT B 001",
           "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794657600:t> (07:00 ET) Zuffa Boxing 13"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794750600:t> (08:50 ET) Aston Villa vs Birmingham City"
         },
         {
-          "display_title": "6:00 AM <t:1794658800:t> (07:20 ET) Exeter City vs Cheltenham Town",
+          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) West Ham United vs Charlton Athletic",
           "slot": "PARAMOUNT B 002",
           "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794658800:t> (07:20 ET) Exeter City vs Cheltenham Town"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794750600:t> (08:50 ET) West Ham United vs Charlton Athletic"
         },
         {
-          "display_title": "6:00 AM <t:1794659700:t> (07:35 ET) Man. United vs Crystal Palace",
+          "display_title": "6:00 AM <t:1794758400:t> (11:00 ET) Arsenal vs London City",
           "slot": "PARAMOUNT B 003",
           "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794659700:t> (07:35 ET) Man. United vs Crystal Palace"
-        },
-        {
-          "display_title": "6:00 AM <t:1794661200:t> (08:00 ET) Chelsea vs Man. City",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794661200:t> (08:00 ET) Chelsea vs Man. City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794664200:t> (08:50 ET) Hong Kong China vs Canada",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794664200:t> (08:50 ET) Hong Kong China vs Canada"
-        },
-        {
-          "display_title": "6:00 AM <t:1794664200:t> (08:50 ET) Georgia vs Tonga",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794664200:t> (08:50 ET) Georgia vs Tonga"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Zimbabwe vs Uruguay",
-          "slot": "PARAMOUNT B 007",
-          "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Zimbabwe vs Uruguay"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Portugal vs Samoa",
-          "slot": "PARAMOUNT B 008",
-          "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Portugal vs Samoa"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Bristol Rovers vs Chesterfield",
-          "slot": "PARAMOUNT B 009",
-          "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Bristol Rovers vs Chesterfield"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Salford City vs Northampton Town",
-          "slot": "PARAMOUNT B 010",
-          "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Salford City vs Northampton Town"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Sheffield Wednesday vs Plymouth Argyle",
-          "slot": "PARAMOUNT B 011",
-          "slot_norm": "PARAMOUNT B 11",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Sheffield Wednesday vs Plymouth Argyle"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Stockport County vs Reading",
-          "slot": "PARAMOUNT B 012",
-          "slot_norm": "PARAMOUNT B 12",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Stockport County vs Reading"
-        },
-        {
-          "display_title": "6:00 AM <t:1794667800:t> (09:50 ET) Tottenham vs Everton",
-          "slot": "PARAMOUNT B 013",
-          "slot_norm": "PARAMOUNT B 13",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794667800:t> (09:50 ET) Tottenham vs Everton"
-        },
-        {
-          "display_title": "6:00 AM <t:1794671400:t> (10:50 ET) Spain vs Chile",
-          "slot": "PARAMOUNT B 014",
-          "slot_norm": "PARAMOUNT B 14",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794671400:t> (10:50 ET) Spain vs Chile"
-        },
-        {
-          "display_title": "6:00 AM <t:1794673200:t> (11:20 ET) Romania vs USA Eagles",
-          "slot": "PARAMOUNT B 015",
-          "slot_norm": "PARAMOUNT B 15",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794673200:t> (11:20 ET) Romania vs USA Eagles"
-        },
-        {
-          "display_title": "6:00 AM <t:1794675600:t> (12:00 ET) Brighton vs Liverpool",
-          "slot": "PARAMOUNT B 016",
-          "slot_norm": "PARAMOUNT B 16",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794675600:t> (12:00 ET) Brighton vs Liverpool"
-        },
-        {
-          "display_title": "6:00 AM <t:1794676800:t> (12:20 ET) Fleetwood Town vs Tranmere Rovers",
-          "slot": "PARAMOUNT B 017",
-          "slot_norm": "PARAMOUNT B 17",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794676800:t> (12:20 ET) Fleetwood Town vs Tranmere Rovers"
-        },
-        {
-          "display_title": "6:00 AM <t:1794690000:t> (16:00 ET) UFC 334: English",
-          "slot": "PARAMOUNT B 018",
-          "slot_norm": "PARAMOUNT B 18",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794690000:t> (16:00 ET) UFC 334: English"
-        },
-        {
-          "display_title": "6:00 AM <t:1794690000:t> (16:00 ET) UFC 334 em Português",
-          "slot": "PARAMOUNT B 019",
-          "slot_norm": "PARAMOUNT B 19",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794690000:t> (16:00 ET) UFC 334 em Português"
-        },
-        {
-          "display_title": "6:00 AM <t:1794690000:t> (16:00 ET) UFC 334 en Español",
-          "slot": "PARAMOUNT B 020",
-          "slot_norm": "PARAMOUNT B 20",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794690000:t> (16:00 ET) UFC 334 en Español"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794758400:t> (11:00 ET) Arsenal vs London City"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 640314046,
-      "message_timestamp": 1794657732,
+      "message_id": 640442320,
+      "message_timestamp": 1794735041,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-14T15:12:50.204193+00:00"
+      "updated_at": "2026-11-15T09:37:57.943370+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) UFC 334 Prelims",
+          "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) Governors Cup New Smyrna",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) UFC 334 Prelims"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794762000:t> (12:00 ET) Governors Cup New Smyrna"
         },
         {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit",
+          "display_title": "6:00 AM <t:1794781800:t> (17:30 ET) Submission Hunter Pro 105",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro 105"
         },
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
-        },
-        {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) Pacheco vs Fulghum",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) Pacheco vs Fulghum"
-        },
-        {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) GCW Massacre in Missoula",
-          "slot": "PPV 14",
-          "slot_norm": "PPV 14",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) GCW Massacre in Missoula"
-        },
-        {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Toughman Contest",
-          "slot": "PPV 15",
-          "slot_norm": "PPV 15",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) Toughman Contest"
-        },
-        {
-          "display_title": "6:00 AM <t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead",
-          "slot": "PPV 16",
-          "slot_norm": "PPV 16",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead"
-        },
-        {
-          "display_title": "6:00 AM <t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia",
-          "slot": "PPV 17",
-          "slot_norm": "PPV 17",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia"
-        },
-        {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois",
-          "slot": "PPV 18",
-          "slot_norm": "PPV 18",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois"
-        },
-        {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Sprint Cars",
-          "slot": "PPV 20",
-          "slot_norm": "PPV 20",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) Volusia Sprint Cars"
-        },
-        {
-          "display_title": "6:00 AM <t:1794699000:t> (18:30 ET) Governors Cup New Smyrna",
-          "slot": "PPV 21",
-          "slot_norm": "PPV 21",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794699000:t> (18:30 ET) Governors Cup New Smyrna"
-        },
-        {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas",
-          "slot": "PPV 22",
-          "slot_norm": "PPV 22",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas"
-        },
-        {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia",
-          "slot": "PPV 23",
-          "slot_norm": "PPV 23",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia"
-        },
-        {
-          "display_title": "6:00 AM <t:1794702300:t> (19:25 ET) CANCELLED USAC Southwest Sprints Central AZ",
-          "slot": "PPV 24",
-          "slot_norm": "PPV 24",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794702300:t> (19:25 ET) CANCELLED USAC Southwest Sprints Central AZ"
-        },
-        {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) AMA EnduroCross Idaho Falls",
-          "slot": "PPV 25",
-          "slot_norm": "PPV 25",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) AMA EnduroCross Idaho Falls"
-        },
-        {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
+          "display_title": "6:00 AM <t:1794780000:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794780000:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) AEW Saturday Tailgate Brawl",
+          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) AEW Saturday Tailgate Brawl",
           "slot": "PPV 28",
           "slot_norm": "PPV 28",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794787200:t> (19:00 ET) AEW Saturday Tailgate Brawl"
         },
         {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) UFC 334 Prelims",
+          "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) Governors Cup New Smyrna",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) UFC 334 Prelims"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794762000:t> (12:00 ET) Governors Cup New Smyrna"
         },
         {
-          "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit",
+          "display_title": "6:00 AM <t:1794781800:t> (17:30 ET) Submission Hunter Pro 105",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794708000:t> (21:00 ET) UFC 334 Gane vs Hokit"
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro 105"
         },
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) AEW Full Gear",
-          "slot": "PPV B 03",
-          "slot_norm": "PPV B 3",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
+          "display_title": "6:00 AM <t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )"
         },
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) Pacheco vs Fulghum",
-          "slot": "PPV B 13",
-          "slot_norm": "PPV B 13",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) Pacheco vs Fulghum"
+          "display_title": "6:00 AM <t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )"
         },
         {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) GCW Massacre in Missoula",
-          "slot": "PPV B 14",
-          "slot_norm": "PPV B 14",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) GCW Massacre in Missoula"
+          "display_title": "6:00 AM <t:1794769200:t> (14:00 ET) Riley vs Coupe",
+          "slot": "PPV C 005",
+          "slot_norm": "PPV C 5",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794769200:t> (14:00 ET) Riley vs Coupe"
         },
         {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Toughman Contest",
-          "slot": "PPV B 15",
-          "slot_norm": "PPV B 15",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) Toughman Contest"
+          "display_title": "6:00 AM <t:1794769200:t> (14:00 ET) Riley vs Coupe BU",
+          "slot": "PPV C 006",
+          "slot_norm": "PPV C 6",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794769200:t> (14:00 ET) Riley vs Coupe BU"
         },
         {
-          "display_title": "6:00 AM <t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead",
-          "slot": "PPV B 16",
-          "slot_norm": "PPV B 16",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead"
+          "display_title": "6:00 AM <t:1794780000:t> (17:00 ET) Pacheco vs Fulghum: Prelims",
+          "slot": "PPV C 007",
+          "slot_norm": "PPV C 7",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794780000:t> (17:00 ET) Pacheco vs Fulghum: Prelims"
         },
         {
-          "display_title": "6:00 AM <t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia",
-          "slot": "PPV B 17",
-          "slot_norm": "PPV B 17",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia"
+          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) AEW Full Gear 2026 - Buy-In",
+          "slot": "PPV C 008",
+          "slot_norm": "PPV C 8",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794787200:t> (19:00 ET) AEW Full Gear 2026 - Buy-In"
         },
         {
-          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois",
-          "slot": "PPV B 18",
-          "slot_norm": "PPV B 18",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois"
+          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) UFC 334: Gane vs Hokit ( from UFC Section )",
+          "slot": "PPV C 009",
+          "slot_norm": "PPV C 9",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794787200:t> (19:00 ET) UFC 334: Gane vs Hokit ( from UFC Section )"
         },
         {
-          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Sprint Cars",
-          "slot": "PPV B 20",
-          "slot_norm": "PPV B 20",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794697200:t> (18:00 ET) Volusia Sprint Cars"
+          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) UFC 334: Gane vs Hokit",
+          "slot": "PPV C 010",
+          "slot_norm": "PPV C 10",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794787200:t> (19:00 ET) UFC 334: Gane vs Hokit"
         },
         {
-          "display_title": "6:00 AM <t:1794699000:t> (18:30 ET) Governors Cup New Smyrna",
-          "slot": "PPV B 21",
-          "slot_norm": "PPV B 21",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794699000:t> (18:30 ET) Governors Cup New Smyrna"
+          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) UFC 334: Gane vs Hokit",
+          "slot": "PPV C 011",
+          "slot_norm": "PPV C 11",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794787200:t> (19:00 ET) UFC 334: Gane vs Hokit"
         },
         {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas",
-          "slot": "PPV B 22",
-          "slot_norm": "PPV B 22",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas"
+          "display_title": "6:00 AM <t:1794790800:t> (20:00 ET) Pacheco vs Fulghum",
+          "slot": "PPV C 012",
+          "slot_norm": "PPV C 12",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794790800:t> (20:00 ET) Pacheco vs Fulghum"
         },
         {
-          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia",
-          "slot": "PPV B 23",
-          "slot_norm": "PPV B 23",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia"
+          "display_title": "6:00 AM <t:1794790800:t> (20:00 ET) Pacheco vs Fulghum BU",
+          "slot": "PPV C 013",
+          "slot_norm": "PPV C 13",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794790800:t> (20:00 ET) Pacheco vs Fulghum BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1794790800:t> (20:00 ET) AEW Full Gear 2026",
+          "slot": "PPV C 014",
+          "slot_norm": "PPV C 14",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794790800:t> (20:00 ET) AEW Full Gear 2026"
+        },
+        {
+          "display_title": "6:00 AM <t:1794790800:t> (20:00 ET) AEW Full Gear 2026 BU",
+          "slot": "PPV C 015",
+          "slot_norm": "PPV C 15",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794790800:t> (20:00 ET) AEW Full Gear 2026 BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1794719700:t> (00:15 ET) Post Fight Conference UFC 334",
+          "slot": "PPV D 09",
+          "slot_norm": "PPV D 9",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794719700:t> (00:15 ET) Post Fight Conference UFC 334"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640398012,
-      "message_timestamp": 1794706325,
+      "message_id": 640429337,
+      "message_timestamp": 1794726026,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-15T01:59:26.514180+00:00"
+      "updated_at": "2026-11-15T09:37:58.391004+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
