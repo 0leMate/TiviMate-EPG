@@ -274,22 +274,6 @@
           "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro 105"
         },
         {
-          "display_title": "6:00 AM <t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )"
-        },
-        {
-          "display_title": "6:00 AM <t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794749400:t> (08:30 ET) Live Football: Game4Ricky ( Also 5HD )"
-        },
-        {
           "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) Governors Cup at New Smyrna",
           "slot": "PPV D 01",
           "slot_norm": "PPV D 1",
@@ -304,13 +288,29 @@
           "start": "2026-11-15T12:00:00-05:00",
           "stop": "2026-11-16T00:00:00-05:00",
           "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro"
+        },
+        {
+          "display_title": "6:00 AM <t:1794783600:t> (18:00 ET) TNA Destination vs",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794783600:t> (18:00 ET) TNA Destination vs"
+        },
+        {
+          "display_title": "6:00 AM <t:1794783600:t> (18:00 ET) LBW TNA Destination vs",
+          "slot": "PPV D 04",
+          "slot_norm": "PPV D 4",
+          "start": "2026-11-15T12:00:00-05:00",
+          "stop": "2026-11-16T00:00:00-05:00",
+          "title": "<t:1794783600:t> (18:00 ET) LBW TNA Destination vs"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640463983,
-      "message_timestamp": 1794749470,
+      "message_id": 640515533,
+      "message_timestamp": 1794780048,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-15T17:16:38.565876+00:00"
+      "updated_at": "2026-11-15T22:59:59.572006+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

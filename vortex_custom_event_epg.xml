@@ -7352,12 +7352,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001: 08:30 Live Football: Game4Ricky ( Also 5HD )</display-name>
+    <display-name>PPV C 001:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002: 08:30 Live Football: Game4Ricky ( Also 5HD )</display-name>
+    <display-name>PPV C 002:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
@@ -7862,12 +7862,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.03">
     <display-name>PPV D 03</display-name>
-    <display-name>PPV D 03:</display-name>
+    <display-name>PPV D 03: 18:00 TNA Destination vs 11-15</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.04">
     <display-name>PPV D 04</display-name>
-    <display-name>PPV D 04:</display-name>
+    <display-name>PPV D 04: 18:00 LBW TNA Destination vs 11-15</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.D.05">
@@ -14403,16 +14403,6 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261115120000 -0500" stop="20261116000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.001">
-    <title>6:00 AM &lt;t:1794749400:t&gt; (08:30 ET) Live Football: Game4Ricky ( Also 5HD )</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261115120000 -0500" stop="20261116000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.002">
-    <title>6:00 AM &lt;t:1794749400:t&gt; (08:30 ET) Live Football: Game4Ricky ( Also 5HD )</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261115120000 -0500" stop="20261116000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.01">
     <title>6:00 AM &lt;t:1794762000:t&gt; (12:00 ET) Governors Cup at New Smyrna</title>
     <category>Sports</category>
@@ -14420,6 +14410,16 @@
   </programme>
   <programme start="20261115120000 -0500" stop="20261116000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.02">
     <title>6:00 AM &lt;t:1794781800:t&gt; (17:30 ET) Submission Hunter Pro</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261115120000 -0500" stop="20261116000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.03">
+    <title>6:00 AM &lt;t:1794783600:t&gt; (18:00 ET) TNA Destination vs</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261115120000 -0500" stop="20261116000000 -0500" channel="custom.PAY.PER.VIEW.PPV.D.04">
+    <title>6:00 AM &lt;t:1794783600:t&gt; (18:00 ET) LBW TNA Destination vs</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
