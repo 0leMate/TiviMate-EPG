@@ -378,70 +378,6 @@
           "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
         },
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie",
-          "slot": "PPV 05",
-          "slot_norm": "PPV 5",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie"
-        },
-        {
-          "display_title": "6:00 AM <t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton",
-          "slot": "PPV 06",
-          "slot_norm": "PPV 6",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton"
-        },
-        {
-          "display_title": "6:00 AM <t:1794664800:t> (09:00 ET) PFL Nemkov vs Bilostenniy",
-          "slot": "PPV 07",
-          "slot_norm": "PPV 7",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794664800:t> (09:00 ET) PFL Nemkov vs Bilostenniy"
-        },
-        {
-          "display_title": "6:00 AM <t:1794672000:t> (11:00 ET) RAF Abu Dhabi Chimaev vs Weidman",
-          "slot": "PPV 08",
-          "slot_norm": "PPV 8",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794672000:t> (11:00 ET) RAF Abu Dhabi Chimaev vs Weidman"
-        },
-        {
-          "display_title": "6:00 AM <t:1794682800:t> (14:00 ET) Riley vs Coupe",
-          "slot": "PPV 09",
-          "slot_norm": "PPV 9",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794682800:t> (14:00 ET) Riley vs Coupe"
-        },
-        {
-          "display_title": "6:00 AM <t:1794682800:t> (14:00 ET) FCC 48",
-          "slot": "PPV 10",
-          "slot_norm": "PPV 10",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794682800:t> (14:00 ET) FCC 48"
-        },
-        {
-          "display_title": "6:00 AM <t:1794686400:t> (15:00 ET) 2/ Cage Warriors 213",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794686400:t> (15:00 ET) 2/ Cage Warriors 213"
-        },
-        {
-          "display_title": "6:00 AM <t:1794684600:t> (14:30 ET) TNT Extreme Wrestling Cold Day In Hell",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794684600:t> (14:30 ET) TNT Extreme Wrestling Cold Day In Hell"
-        },
-        {
           "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) Pacheco vs Fulghum",
           "slot": "PPV 13",
           "slot_norm": "PPV 13",
@@ -490,14 +426,6 @@
           "title": "<t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois"
         },
         {
-          "display_title": "6:00 AM <t:1794679200:t> (13:00 ET) 2nd Annual Gobbler",
-          "slot": "PPV 19",
-          "slot_norm": "PPV 19",
-          "start": "2026-11-14T12:00:00-05:00",
-          "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794679200:t> (13:00 ET) 2nd Annual Gobbler"
-        },
-        {
           "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Sprint Cars",
           "slot": "PPV 20",
           "slot_norm": "PPV 20",
@@ -530,12 +458,12 @@
           "title": "<t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia"
         },
         {
-          "display_title": "6:00 AM <t:1794702300:t> (19:25 ET) USAC Southwest Sprints Central AZ",
+          "display_title": "6:00 AM <t:1794702300:t> (19:25 ET) CANCELLED USAC Southwest Sprints Central AZ",
           "slot": "PPV 24",
           "slot_norm": "PPV 24",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794702300:t> (19:25 ET) USAC Southwest Sprints Central AZ"
+          "title": "<t:1794702300:t> (19:25 ET) CANCELLED USAC Southwest Sprints Central AZ"
         },
         {
           "display_title": "6:00 AM <t:1794708000:t> (21:00 ET) AMA EnduroCross Idaho Falls",
@@ -586,27 +514,91 @@
           "title": "<t:1794704400:t> (20:00 ET) AEW Full Gear"
         },
         {
-          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie",
-          "slot": "PPV B 05",
-          "slot_norm": "PPV B 5",
+          "display_title": "6:00 AM <t:1794704400:t> (20:00 ET) Pacheco vs Fulghum",
+          "slot": "PPV B 13",
+          "slot_norm": "PPV B 13",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794704400:t> (20:00 ET) BKB 61 Selby vs Ollie"
+          "title": "<t:1794704400:t> (20:00 ET) Pacheco vs Fulghum"
         },
         {
-          "display_title": "6:00 AM <t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton",
-          "slot": "PPV B 06",
-          "slot_norm": "PPV B 6",
+          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) GCW Massacre in Missoula",
+          "slot": "PPV B 14",
+          "slot_norm": "PPV B 14",
           "start": "2026-11-14T12:00:00-05:00",
           "stop": "2026-11-15T00:00:00-05:00",
-          "title": "<t:1794675600:t> (12:00 ET) Zuffa 13 Adames vs Warburton"
+          "title": "<t:1794697200:t> (18:00 ET) GCW Massacre in Missoula"
+        },
+        {
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Toughman Contest",
+          "slot": "PPV B 15",
+          "slot_norm": "PPV B 15",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794700800:t> (19:00 ET) Toughman Contest"
+        },
+        {
+          "display_title": "6:00 AM <t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead",
+          "slot": "PPV B 16",
+          "slot_norm": "PPV B 16",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794677400:t> (12:30 ET) 10th Annual Islip 300 Riverhead"
+        },
+        {
+          "display_title": "6:00 AM <t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia",
+          "slot": "PPV B 17",
+          "slot_norm": "PPV B 17",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794691800:t> (16:30 ET) FloRacing Night In America Senoia"
+        },
+        {
+          "display_title": "6:00 AM <t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois",
+          "slot": "PPV B 18",
+          "slot_norm": "PPV B 18",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794693600:t> (17:00 ET) NARA Nationals Southern Illinois"
+        },
+        {
+          "display_title": "6:00 AM <t:1794697200:t> (18:00 ET) Volusia Sprint Cars",
+          "slot": "PPV B 20",
+          "slot_norm": "PPV B 20",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794697200:t> (18:00 ET) Volusia Sprint Cars"
+        },
+        {
+          "display_title": "6:00 AM <t:1794699000:t> (18:30 ET) Governors Cup New Smyrna",
+          "slot": "PPV B 21",
+          "slot_norm": "PPV B 21",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794699000:t> (18:30 ET) Governors Cup New Smyrna"
+        },
+        {
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas",
+          "slot": "PPV B 22",
+          "slot_norm": "PPV B 22",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794700800:t> (19:00 ET) CARS Tour West Las Vegas"
+        },
+        {
+          "display_title": "6:00 AM <t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia",
+          "slot": "PPV B 23",
+          "slot_norm": "PPV B 23",
+          "start": "2026-11-14T12:00:00-05:00",
+          "stop": "2026-11-15T00:00:00-05:00",
+          "title": "<t:1794700800:t> (19:00 ET) Georgia State Race Warmup Lavonia"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640364581,
-      "message_timestamp": 1794688231,
+      "message_id": 640398012,
+      "message_timestamp": 1794706325,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-14T20:48:36.894644+00:00"
+      "updated_at": "2026-11-15T01:59:26.514180+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -742,115 +734,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Mk Dons vs Burton",
-          "slot": "SKY SPORTS+ B 05",
-          "slot_norm": "SKY SPORTS+ B 5",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Mk Dons vs Burton"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Stockport vs Reading",
-          "slot": "SKY SPORTS+ B 06",
-          "slot_norm": "SKY SPORTS+ B 6",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Stockport vs Reading"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Sheff Wed vs Plymouth",
-          "slot": "SKY SPORTS+ B 07",
-          "slot_norm": "SKY SPORTS+ B 7",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Sheff Wed vs Plymouth"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Wigan vs Barnsley",
-          "slot": "SKY SPORTS+ B 08",
-          "slot_norm": "SKY SPORTS+ B 8",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Wigan vs Barnsley"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Wimbledon vs Blackpool",
-          "slot": "SKY SPORTS+ B 09",
-          "slot_norm": "SKY SPORTS+ B 9",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Wimbledon vs Blackpool"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Bristol R vs Chesterfield",
-          "slot": "SKY SPORTS+ B 10",
-          "slot_norm": "SKY SPORTS+ B 10",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Bristol R vs Chesterfield"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Colchester vs Gillingham",
-          "slot": "SKY SPORTS+ B 11",
-          "slot_norm": "SKY SPORTS+ B 11",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Colchester vs Gillingham"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Crewe vs Newport",
-          "slot": "SKY SPORTS+ B 12",
-          "slot_norm": "SKY SPORTS+ B 12",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Crewe vs Newport"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Port Vale vs Accrington",
-          "slot": "SKY SPORTS+ B 13",
-          "slot_norm": "SKY SPORTS+ B 13",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Port Vale vs Accrington"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Rochdale vs York",
-          "slot": "SKY SPORTS+ B 14",
-          "slot_norm": "SKY SPORTS+ B 14",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Rochdale vs York"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Salford vs Northampton",
-          "slot": "SKY SPORTS+ B 15",
-          "slot_norm": "SKY SPORTS+ B 15",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Salford vs Northampton"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Shrewsbury vs Oldham",
-          "slot": "SKY SPORTS+ B 16",
-          "slot_norm": "SKY SPORTS+ B 16",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Shrewsbury vs Oldham"
-        },
-        {
-          "display_title": "1:00 AM <t:1794667500:t> (14:45 UTC) Swindon vs Grimsby",
-          "slot": "SKY SPORTS+ B 17",
-          "slot_norm": "SKY SPORTS+ B 17",
-          "start": "2026-11-14T12:00:00+00:00",
-          "stop": "2026-11-15T00:00:00+00:00",
-          "title": "<t:1794667500:t> (14:45 UTC) Swindon vs Grimsby"
+          "display_title": "1:00 AM <t:1794702300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs S. Errani/J. Paolini",
+          "slot": "SKY SPORTS+ 20",
+          "slot_norm": "SKY SPORTS+ 20",
+          "start": "2026-11-15T12:00:00+00:00",
+          "stop": "2026-11-16T00:00:00+00:00",
+          "title": "<t:1794702300:t> (00:25 UTC) WTA Tour WTA Tennis H. Guo/K. Mladenovic vs S. Errani/J. Paolini"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 640318973,
-      "message_timestamp": 1794661234,
+      "message_id": 640386664,
+      "message_timestamp": 1794700843,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-14T15:12:50.419996+00:00"
+      "updated_at": "2026-11-15T01:59:26.691880+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
