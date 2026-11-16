@@ -112,115 +112,75 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) Barclays Women's Super League: Aston Villa vs Birmingham City",
+          "display_title": "6:00 AM <t:1794837600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794750600:t> (08:50 ET) Barclays Women's Super League: Aston Villa vs Birmingham City"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794837600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
         },
         {
-          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Charlton Athletic",
+          "display_title": "6:00 AM <t:1794844800:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794750600:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Charlton Athletic"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794844800:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
         },
         {
-          "display_title": "6:00 AM <t:1794754800:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
+          "display_title": "6:00 AM <t:1794848400:t> (12:00 ET) CBS Sports HQ: Just Football",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794754800:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794848400:t> (12:00 ET) CBS Sports HQ: Just Football"
         },
         {
-          "display_title": "6:00 AM <t:1794758400:t> (11:00 ET) Barclays Women's Super League: Arsenal vs London City",
+          "display_title": "6:00 AM <t:1794855600:t> (14:00 ET) CBS Sports HQ: College Football Insiders",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794758400:t> (11:00 ET) Barclays Women's Super League: Arsenal vs London City"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794855600:t> (14:00 ET) CBS Sports HQ: College Football Insiders"
         },
         {
-          "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
+          "display_title": "6:00 AM <t:1794859200:t> (15:00 ET) CBS Sports HQ: This Just In",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794762000:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794859200:t> (15:00 ET) CBS Sports HQ: This Just In"
         },
         {
-          "display_title": "6:00 AM <t:1794765600:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
+          "display_title": "6:00 AM <t:1794862800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
           "slot": "PARAMOUNT 006",
           "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794765600:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794862800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
         },
         {
-          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) CBS Sports HQ: The Postgame",
+          "display_title": "6:00 AM <t:1794870000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
           "slot": "PARAMOUNT 007",
           "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794787200:t> (19:00 ET) CBS Sports HQ: The Postgame"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794870000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
         },
         {
-          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) Aston Villa vs Birmingham City",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794750600:t> (08:50 ET) Aston Villa vs Birmingham City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) West Ham United vs Charlton Athletic",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794750600:t> (08:50 ET) West Ham United vs Charlton Athletic"
-        },
-        {
-          "display_title": "6:00 AM <t:1794758400:t> (11:00 ET) Arsenal vs London City",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794758400:t> (11:00 ET) Arsenal vs London City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) Barclays Women's Super League: Aston Villa vs Birmingham City",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794750600:t> (08:50 ET) Barclays Women's Super League: Aston Villa vs Birmingham City"
-        },
-        {
-          "display_title": "6:00 AM <t:1794750600:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Charlton Athletic",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794750600:t> (08:50 ET) Barclays Women's Super League: West Ham United vs Charlton Athletic"
-        },
-        {
-          "display_title": "6:00 AM <t:1794758400:t> (11:00 ET) Barclays Women's Super League: Arsenal vs London City",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794758400:t> (11:00 ET) Barclays Women's Super League: Arsenal vs London City"
+          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794877200:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 640555221,
-      "message_timestamp": 1794789087,
+      "message_id": 640734387,
+      "message_timestamp": 1794834028,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-16T06:51:46.704830+00:00"
+      "updated_at": "2026-11-16T18:41:51.733515+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -256,13 +216,21 @@
           "start": "2026-11-16T12:00:00-05:00",
           "stop": "2026-11-17T00:00:00-05:00",
           "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
+        },
+        {
+          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) WWE Monday Night RAW",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640631620,
-      "message_timestamp": 1794805245,
+      "message_id": 640759647,
+      "message_timestamp": 1794839431,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-16T06:51:47.013805+00:00"
+      "updated_at": "2026-11-16T18:41:51.838003+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -398,191 +366,71 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794738300:t> (10:25 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Afternoon Session",
+          "display_title": "1:00 AM <t:1794833100:t> (12:45 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Afternoon Session",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794738300:t> (10:25 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Afternoon Session"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794833100:t> (12:45 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Afternoon Session"
         },
         {
-          "display_title": "1:00 AM <t:1794747300:t> (12:55 UTC) ATP Tour ATP Tennis A. Zverev vs R. Jodar",
+          "display_title": "1:00 AM <t:1794833700:t> (12:55 UTC) ATP Tour ATP Tennis C. Alcaraz vs F. Tiafoe",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794747300:t> (12:55 UTC) ATP Tour ATP Tennis A. Zverev vs R. Jodar"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794833700:t> (12:55 UTC) ATP Tour ATP Tennis C. Alcaraz vs F. Tiafoe"
         },
         {
-          "display_title": "1:00 AM <t:1794747300:t> (12:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
+          "display_title": "1:00 AM <t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Evening Session",
           "slot": "SKY SPORTS+ 03",
           "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794747300:t> (12:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Evening Session"
         },
         {
-          "display_title": "1:00 AM <t:1794761700:t> (16:55 UTC) ATP Tour ATP Tennis M. Arevalo/M. Pavic vs T. Arribage/A. Olivetti",
+          "display_title": "1:00 AM <t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis C. Harrison/N. Skupski vs K. Krawietz/T. Puetz",
           "slot": "SKY SPORTS+ 04",
           "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794761700:t> (16:55 UTC) ATP Tour ATP Tennis M. Arevalo/M. Pavic vs T. Arribage/A. Olivetti"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis C. Harrison/N. Skupski vs K. Krawietz/T. Puetz"
         },
         {
-          "display_title": "1:00 AM <t:1794763500:t> (17:25 UTC) NFL Houston Texans vs Cleveland Browns",
+          "display_title": "1:00 AM <t:1794855300:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
           "slot": "SKY SPORTS+ 05",
           "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794763500:t> (17:25 UTC) NFL Houston Texans vs Cleveland Browns"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794855300:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
         },
         {
-          "display_title": "1:00 AM <t:1794767100:t> (18:25 UTC) Pelican The Annika, Day 4",
+          "display_title": "1:00 AM <t:1794857100:t> (19:25 UTC) ATP Tour ATP Tennis D. Medvedev vs F. Cobolli",
           "slot": "SKY SPORTS+ 06",
           "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794767100:t> (18:25 UTC) Pelican The Annika, Day 4"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794857100:t> (19:25 UTC) ATP Tour ATP Tennis D. Medvedev vs F. Cobolli"
         },
         {
-          "display_title": "1:00 AM <t:1794768900:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts, Day 2 Evening",
+          "display_title": "1:00 AM <t:1794871500:t> (23:25 UTC) NBA Magic vs Celtics",
           "slot": "SKY SPORTS+ 07",
           "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794768900:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts, Day 2 Evening"
-        },
-        {
-          "display_title": "1:00 AM <t:1794770700:t> (19:25 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Evening Session",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794770700:t> (19:25 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Evening Session"
-        },
-        {
-          "display_title": "1:00 AM <t:1794770700:t> (19:25 UTC) ATP Tour ATP Tennis B. Shelton vs A. Fils",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794770700:t> (19:25 UTC) ATP Tour ATP Tennis B. Shelton vs A. Fils"
-        },
-        {
-          "display_title": "1:00 AM <t:1794772500:t> (19:55 UTC) WTA Tour WTA Tennis E. Svitolina vs M. Andreeva",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794772500:t> (19:55 UTC) WTA Tour WTA Tennis E. Svitolina vs M. Andreeva"
-        },
-        {
-          "display_title": "1:00 AM <t:1794776100:t> (20:55 UTC) Charles Schwab Cup Championship, Day 4",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794776100:t> (20:55 UTC) Charles Schwab Cup Championship, Day 4"
-        },
-        {
-          "display_title": "1:00 AM <t:1794776400:t> (21:00 UTC) NFL Los Angeles Rams vs Arizona Cardinals",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794776400:t> (21:00 UTC) NFL Los Angeles Rams vs Arizona Cardinals"
-        },
-        {
-          "display_title": "1:00 AM <t:1794776400:t> (21:00 UTC) NFL Seahawks vs Raiders",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794776400:t> (21:00 UTC) NFL Seahawks vs Raiders"
-        },
-        {
-          "display_title": "1:00 AM <t:1794777600:t> (21:20 UTC) NFL San Francisco 49ers vs Dallas Cowboys",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794777600:t> (21:20 UTC) NFL San Francisco 49ers vs Dallas Cowboys"
-        },
-        {
-          "display_title": "1:00 AM <t:1794780600:t> (22:10 UTC) WTA Tour WTA Tennis K. Siniakova/T. Townsend vs S. Errani/J. Paolini",
-          "slot": "SKY SPORTS+ 15",
-          "slot_norm": "SKY SPORTS+ 15",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794780600:t> (22:10 UTC) WTA Tour WTA Tennis K. Siniakova/T. Townsend vs S. Errani/J. Paolini"
-        },
-        {
-          "display_title": "1:00 AM <t:1794747300:t> (12:55 UTC) Grand Slam Of Darts, Day 2 Afternoon",
-          "slot": "SKY SPORTS+ B 01",
-          "slot_norm": "SKY SPORTS+ B 1",
-          "start": "2026-11-15T12:00:00+00:00",
-          "stop": "2026-11-16T00:00:00+00:00",
-          "title": "<t:1794747300:t> (12:55 UTC) Grand Slam Of Darts, Day 2 Afternoon"
+          "start": "2026-11-16T12:00:00+00:00",
+          "stop": "2026-11-17T00:00:00+00:00",
+          "title": "<t:1794871500:t> (23:25 UTC) NBA Magic vs Celtics"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 640461022,
-      "message_timestamp": 1794747672,
+      "message_id": 640750441,
+      "message_timestamp": 1794837637,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-15T17:16:39.434982+00:00"
+      "updated_at": "2026-11-16T18:41:52.095429+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
-        {
-          "display_title": "2:00 PM <t:1794750600:t> (00:50 AEDT) West Ham United vs Charlton Athletic WSL 2026/27",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-11-16T12:00:00+11:00",
-          "stop": "2026-11-17T00:00:00+11:00",
-          "title": "<t:1794750600:t> (00:50 AEDT) West Ham United vs Charlton Athletic WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794750600:t> (00:50 AEDT) Aston Villa vs Birmingham City WSL 2026/27",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-11-16T12:00:00+11:00",
-          "stop": "2026-11-17T00:00:00+11:00",
-          "title": "<t:1794750600:t> (00:50 AEDT) Aston Villa vs Birmingham City WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794753000:t> (01:30 AEDT) Scotland vs Australia Nations Championship Round 5 2026",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-11-16T12:00:00+11:00",
-          "stop": "2026-11-17T00:00:00+11:00",
-          "title": "<t:1794753000:t> (01:30 AEDT) Scotland vs Australia Nations Championship Round 5 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794759600:t> (03:20 AEDT) Arsenal vs London City Lionesses WSL 2026/27",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-11-16T12:00:00+11:00",
-          "stop": "2026-11-17T00:00:00+11:00",
-          "title": "<t:1794759600:t> (03:20 AEDT) Arsenal vs London City Lionesses WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1794772800:t> (07:00 AEDT) Gotham FC vs Kansas City Current NWSL 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-11-16T12:00:00+11:00",
-          "stop": "2026-11-17T00:00:00+11:00",
-          "title": "<t:1794772800:t> (07:00 AEDT) Gotham FC vs Kansas City Current NWSL 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1794772800:t> (07:00 AEDT) Indian Wells: Day 8 WTA Finals",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-11-16T12:00:00+11:00",
-          "stop": "2026-11-17T00:00:00+11:00",
-          "title": "<t:1794772800:t> (07:00 AEDT) Indian Wells: Day 8 WTA Finals"
-        },
         {
           "display_title": "2:00 PM <t:1794750600:t> (00:50 AEDT) West Ham United vs Charlton Athletic WSL 2026/27",
           "slot": "AU STAN B 003",
@@ -633,10 +481,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 640555282,
-      "message_timestamp": 1794789114,
+      "message_id": 640698095,
+      "message_timestamp": 1794825022,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-16T06:51:47.753566+00:00"
+      "updated_at": "2026-11-16T18:41:52.186512+00:00"
     }
   },
   "version": 1
