@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794783600:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1794870000:t> (18:00 ET) Volusia Speedway Park",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794783600:t> (18:00 ET) Volusia Speedway Park"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794870000:t> (18:00 ET) Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 640416896,
-      "message_timestamp": 1794718831,
+      "message_id": 640631579,
+      "message_timestamp": 1794805226,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-15T09:37:57.488264+00:00"
+      "updated_at": "2026-11-16T06:51:46.438955+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -217,100 +217,52 @@
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 640455494,
-      "message_timestamp": 1794744068,
+      "message_id": 640555221,
+      "message_timestamp": 1794789087,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-15T17:16:38.124705+00:00"
+      "updated_at": "2026-11-16T06:51:46.704830+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) Governors Cup New Smyrna",
+          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794762000:t> (12:00 ET) Governors Cup New Smyrna"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "6:00 AM <t:1794781800:t> (17:30 ET) Submission Hunter Pro 105",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro 105"
-        },
-        {
-          "display_title": "6:00 AM <t:1794780000:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
+          "display_title": "6:00 AM <t:1794866400:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794780000:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794866400:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794787200:t> (19:00 ET) AEW Saturday Tailgate Brawl",
+          "display_title": "6:00 AM <t:1794873600:t> (19:00 ET) AEW Saturday Tailgate Brawl",
           "slot": "PPV 28",
           "slot_norm": "PPV 28",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794787200:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794873600:t> (19:00 ET) AEW Saturday Tailgate Brawl"
         },
         {
-          "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) Governors Cup New Smyrna",
+          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) WWE Monday Night RAW",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794762000:t> (12:00 ET) Governors Cup New Smyrna"
-        },
-        {
-          "display_title": "6:00 AM <t:1794781800:t> (17:30 ET) Submission Hunter Pro 105",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro 105"
-        },
-        {
-          "display_title": "6:00 AM <t:1794762000:t> (12:00 ET) Governors Cup at New Smyrna",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794762000:t> (12:00 ET) Governors Cup at New Smyrna"
-        },
-        {
-          "display_title": "6:00 AM <t:1794781800:t> (17:30 ET) Submission Hunter Pro",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794781800:t> (17:30 ET) Submission Hunter Pro"
-        },
-        {
-          "display_title": "6:00 AM <t:1794783600:t> (18:00 ET) TNA Destination vs",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794783600:t> (18:00 ET) TNA Destination vs"
-        },
-        {
-          "display_title": "6:00 AM <t:1794783600:t> (18:00 ET) LBW TNA Destination vs",
-          "slot": "PPV D 04",
-          "slot_norm": "PPV D 4",
-          "start": "2026-11-15T12:00:00-05:00",
-          "stop": "2026-11-16T00:00:00-05:00",
-          "title": "<t:1794783600:t> (18:00 ET) LBW TNA Destination vs"
+          "start": "2026-11-16T12:00:00-05:00",
+          "stop": "2026-11-17T00:00:00-05:00",
+          "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640515533,
-      "message_timestamp": 1794780048,
+      "message_id": 640631620,
+      "message_timestamp": 1794805245,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-15T22:59:59.572006+00:00"
+      "updated_at": "2026-11-16T06:51:47.013805+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -681,10 +633,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 640460999,
-      "message_timestamp": 1794747661,
+      "message_id": 640555282,
+      "message_timestamp": 1794789114,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-15T17:16:39.890301+00:00"
+      "updated_at": "2026-11-16T06:51:47.753566+00:00"
     }
   },
   "version": 1
