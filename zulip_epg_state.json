@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794870000:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1794956400:t> (18:00 ET) Volusia Speedway Park",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794870000:t> (18:00 ET) Volusia Speedway Park"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794956400:t> (18:00 ET) Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 640631579,
-      "message_timestamp": 1794805226,
+      "message_id": 641039083,
+      "message_timestamp": 1794891623,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-16T06:51:46.438955+00:00"
+      "updated_at": "2026-11-17T13:39:56.686111+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,125 +112,101 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794837600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "display_title": "6:00 AM <t:1794924000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794837600:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794924000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
         },
         {
-          "display_title": "6:00 AM <t:1794844800:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "display_title": "6:00 AM <t:1794931200:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794844800:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794931200:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
         },
         {
-          "display_title": "6:00 AM <t:1794848400:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "display_title": "6:00 AM <t:1794934800:t> (12:00 ET) CBS Sports HQ: Just Football",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794848400:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794934800:t> (12:00 ET) CBS Sports HQ: Just Football"
         },
         {
-          "display_title": "6:00 AM <t:1794855600:t> (14:00 ET) CBS Sports HQ: College Football Insiders",
+          "display_title": "6:00 AM <t:1794945600:t> (15:00 ET) CBS Sports HQ: This Just In",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794855600:t> (14:00 ET) CBS Sports HQ: College Football Insiders"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794945600:t> (15:00 ET) CBS Sports HQ: This Just In"
         },
         {
-          "display_title": "6:00 AM <t:1794859200:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "display_title": "6:00 AM <t:1794949200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794859200:t> (15:00 ET) CBS Sports HQ: This Just In"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794949200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
         },
         {
-          "display_title": "6:00 AM <t:1794862800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "display_title": "6:00 AM <t:1794956400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
           "slot": "PARAMOUNT 006",
           "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794862800:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794956400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
         },
         {
-          "display_title": "6:00 AM <t:1794870000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "display_title": "6:00 AM <t:1794960000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
           "slot": "PARAMOUNT 007",
           "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794870000:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794960000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         },
         {
-          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "display_title": "6:00 AM <t:1794969000:t> (21:30 ET) CBS Sports HQ: College Football Playoff Breakdown",
           "slot": "PARAMOUNT 008",
           "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794877200:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794969000:t> (21:30 ET) CBS Sports HQ: College Football Playoff Breakdown"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 640734387,
-      "message_timestamp": 1794834028,
+      "message_id": 641211191,
+      "message_timestamp": 1794916857,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-16T18:41:51.733515+00:00"
+      "updated_at": "2026-11-17T13:39:56.983755+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
-        },
-        {
-          "display_title": "6:00 AM <t:1794866400:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
+          "display_title": "6:00 AM <t:1794952800:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794866400:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794952800:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794873600:t> (19:00 ET) AEW Saturday Tailgate Brawl",
+          "display_title": "6:00 AM <t:1794960000:t> (19:00 ET) AEW Saturday Tailgate Brawl",
           "slot": "PPV 28",
           "slot_norm": "PPV 28",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794873600:t> (19:00 ET) AEW Saturday Tailgate Brawl"
-        },
-        {
-          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
-        },
-        {
-          "display_title": "6:00 AM <t:1794877200:t> (20:00 ET) WWE Monday Night RAW",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-16T12:00:00-05:00",
-          "stop": "2026-11-17T00:00:00-05:00",
-          "title": "<t:1794877200:t> (20:00 ET) WWE Monday Night RAW"
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794960000:t> (19:00 ET) AEW Saturday Tailgate Brawl"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 640759647,
-      "message_timestamp": 1794839431,
+      "message_id": 641039793,
+      "message_timestamp": 1794891651,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-16T18:41:51.838003+00:00"
+      "updated_at": "2026-11-17T13:39:57.338350+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -366,19 +342,91 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794902400:t> (08:00 UTC) Women's Big Bash League Adelaide Strikers vs Sydney Sixers",
+          "display_title": "1:00 AM <t:1794911100:t> (10:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Afternoon Session",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794911100:t> (10:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Afternoon Session"
+        },
+        {
+          "display_title": "1:00 AM <t:1794920100:t> (12:55 UTC) ATP Tour ATP Tennis A. Fils vs R. Jodar",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794920100:t> (12:55 UTC) ATP Tour ATP Tennis A. Fils vs R. Jodar"
+        },
+        {
+          "display_title": "1:00 AM <t:1794934500:t> (16:55 UTC) ATP Tour ATP Tennis T. Arribage/A. Olivetti vs O. Luz/R. Matos",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794934500:t> (16:55 UTC) ATP Tour ATP Tennis T. Arribage/A. Olivetti vs O. Luz/R. Matos"
+        },
+        {
+          "display_title": "1:00 AM <t:1794934500:t> (16:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794934500:t> (16:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session"
+        },
+        {
+          "display_title": "1:00 AM <t:1794941100:t> (18:45 UTC) EFL EFL Trophy Luton vs Peterborough",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794941100:t> (18:45 UTC) EFL EFL Trophy Luton vs Peterborough"
+        },
+        {
+          "display_title": "1:00 AM <t:1794941700:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794941700:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
+        },
+        {
+          "display_title": "1:00 AM <t:1794943500:t> (19:25 UTC) ATP Tour ATP Tennis A. Zverev vs B. Shelton",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794943500:t> (19:25 UTC) ATP Tour ATP Tennis A. Zverev vs B. Shelton"
+        },
+        {
+          "display_title": "1:00 AM <t:1794959700:t> (23:55 UTC) NBA Pistons vs Spurs",
           "slot": "SKY SPORTS+ 08",
           "slot_norm": "SKY SPORTS+ 8",
           "start": "2026-11-17T12:00:00+00:00",
           "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794902400:t> (08:00 UTC) Women's Big Bash League Adelaide Strikers vs Sydney Sixers"
+          "title": "<t:1794959700:t> (23:55 UTC) NBA Pistons vs Spurs"
+        },
+        {
+          "display_title": "1:00 AM <t:1794974100:t> (03:55 UTC) NBA Jazz vs Clippers",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-11-18T12:00:00+00:00",
+          "stop": "2026-11-19T00:00:00+00:00",
+          "title": "<t:1794974100:t> (03:55 UTC) NBA Jazz vs Clippers"
+        },
+        {
+          "display_title": "1:00 AM <t:1794941100:t> (18:45 UTC) Luton vs Peterborough",
+          "slot": "SKY SPORTS+ B 07",
+          "slot_norm": "SKY SPORTS+ B 7",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794941100:t> (18:45 UTC) Luton vs Peterborough"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 640905920,
-      "message_timestamp": 1794873624,
+      "message_id": 641233624,
+      "message_timestamp": 1794922228,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-17T02:59:32.638124+00:00"
+      "updated_at": "2026-11-17T13:39:57.922229+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
