@@ -366,67 +366,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794833100:t> (12:45 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Afternoon Session",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794833100:t> (12:45 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Afternoon Session"
-        },
-        {
-          "display_title": "1:00 AM <t:1794833700:t> (12:55 UTC) ATP Tour ATP Tennis C. Alcaraz vs F. Tiafoe",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794833700:t> (12:55 UTC) ATP Tour ATP Tennis C. Alcaraz vs F. Tiafoe"
-        },
-        {
-          "display_title": "1:00 AM <t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Evening Session",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis ATP Finals Analysis Stream, Evening Session"
-        },
-        {
-          "display_title": "1:00 AM <t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis C. Harrison/N. Skupski vs K. Krawietz/T. Puetz",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794848100:t> (16:55 UTC) ATP Tour ATP Tennis C. Harrison/N. Skupski vs K. Krawietz/T. Puetz"
-        },
-        {
-          "display_title": "1:00 AM <t:1794855300:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794855300:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
-        },
-        {
-          "display_title": "1:00 AM <t:1794857100:t> (19:25 UTC) ATP Tour ATP Tennis D. Medvedev vs F. Cobolli",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794857100:t> (19:25 UTC) ATP Tour ATP Tennis D. Medvedev vs F. Cobolli"
-        },
-        {
-          "display_title": "1:00 AM <t:1794871500:t> (23:25 UTC) NBA Magic vs Celtics",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-16T12:00:00+00:00",
-          "stop": "2026-11-17T00:00:00+00:00",
-          "title": "<t:1794871500:t> (23:25 UTC) NBA Magic vs Celtics"
+          "display_title": "1:00 AM <t:1794902400:t> (08:00 UTC) Women's Big Bash League Adelaide Strikers vs Sydney Sixers",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-11-17T12:00:00+00:00",
+          "stop": "2026-11-18T00:00:00+00:00",
+          "title": "<t:1794902400:t> (08:00 UTC) Women's Big Bash League Adelaide Strikers vs Sydney Sixers"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 640750441,
-      "message_timestamp": 1794837637,
+      "message_id": 640905920,
+      "message_timestamp": 1794873624,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-16T18:41:52.095429+00:00"
+      "updated_at": "2026-11-17T02:59:32.638124+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
