@@ -112,6 +112,102 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "6:00 AM <t:1795010400:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795010400:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "6:00 AM <t:1795017600:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795017600:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "6:00 AM <t:1795021200:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795021200:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) UEFA Women's Champions League: Real Madrid vs Inter",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795023000:t> (12:30 ET) UEFA Women's Champions League: Real Madrid vs Inter"
+        },
+        {
+          "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) UEFA Women's Champions League: BK Häcken vs Man. City",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795023000:t> (12:30 ET) UEFA Women's Champions League: BK Häcken vs Man. City"
+        },
+        {
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) CBS Sports HQ: Set, Hut!",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) CBS Sports HQ: Set, Hut!"
+        },
+        {
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Juventus vs OH Leuven",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Juventus vs OH Leuven"
+        },
+        {
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Chelsea vs PSG",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Chelsea vs PSG"
+        },
+        {
+          "display_title": "6:00 AM <t:1795032000:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795032000:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "6:00 AM <t:1795035600:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795035600:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "6:00 AM <t:1795042800:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795042800:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1795046400:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795046400:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
           "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) Real Madrid vs Inter",
           "slot": "PARAMOUNT B 001",
           "slot_norm": "PARAMOUNT B 1",
@@ -142,13 +238,45 @@
           "start": "2026-11-18T12:00:00-05:00",
           "stop": "2026-11-19T00:00:00-05:00",
           "title": "<t:1795028400:t> (14:00 ET) Juventus vs OH Leuven"
+        },
+        {
+          "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) UEFA Women's Champions League: Real Madrid vs Inter",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795023000:t> (12:30 ET) UEFA Women's Champions League: Real Madrid vs Inter"
+        },
+        {
+          "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) UEFA Women's Champions League: BK Häcken vs Man City",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795023000:t> (12:30 ET) UEFA Women's Champions League: BK Häcken vs Man City"
+        },
+        {
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Chelsea vs PSG",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Chelsea vs PSG"
+        },
+        {
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Juventus vs OH Leuven",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) UEFA Women's Champions League: Juventus vs OH Leuven"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 641447715,
-      "message_timestamp": 1794978045,
+      "message_id": 641567140,
+      "message_timestamp": 1795010469,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-18T13:14:06.235541+00:00"
+      "updated_at": "2026-11-18T22:09:46.110341+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -168,29 +296,13 @@
           "start": "2026-11-18T12:00:00-05:00",
           "stop": "2026-11-19T00:00:00-05:00",
           "title": "<t:1795046400:t> (19:00 ET) AEW Saturday Tailgate Brawl"
-        },
-        {
-          "display_title": "6:00 AM <t:1794988800:t> (03:00 ET) Teremoana vs Ahio",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-11-18T12:00:00-05:00",
-          "stop": "2026-11-19T00:00:00-05:00",
-          "title": "<t:1794988800:t> (03:00 ET) Teremoana vs Ahio"
-        },
-        {
-          "display_title": "6:00 AM <t:1794988800:t> (03:00 ET) Teremoana vs Ahio",
-          "slot": "PPV C 002",
-          "slot_norm": "PPV C 2",
-          "start": "2026-11-18T12:00:00-05:00",
-          "stop": "2026-11-19T00:00:00-05:00",
-          "title": "<t:1794988800:t> (03:00 ET) Teremoana vs Ahio"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 641447766,
-      "message_timestamp": 1794978066,
+      "message_id": 641618229,
+      "message_timestamp": 1795019441,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-18T13:14:06.364024+00:00"
+      "updated_at": "2026-11-18T22:09:46.644450+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -326,19 +438,51 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794974100:t> (03:55 UTC) NBA Jazz vs Clippers",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
+          "display_title": "1:00 AM <t:1795020900:t> (16:55 UTC) ATP Tour ATP Tennis M. Granollers/H. Zeballos vs K. Krawietz/T. Puetz",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
           "start": "2026-11-18T12:00:00+00:00",
           "stop": "2026-11-19T00:00:00+00:00",
-          "title": "<t:1794974100:t> (03:55 UTC) NBA Jazz vs Clippers"
+          "title": "<t:1795020900:t> (16:55 UTC) ATP Tour ATP Tennis M. Granollers/H. Zeballos vs K. Krawietz/T. Puetz"
+        },
+        {
+          "display_title": "1:00 AM <t:1795028100:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-11-18T12:00:00+00:00",
+          "stop": "2026-11-19T00:00:00+00:00",
+          "title": "<t:1795028100:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
+        },
+        {
+          "display_title": "1:00 AM <t:1795029900:t> (19:25 UTC) ATP Tour ATP Tennis F. Cobolli vs F. Tiafoe",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-18T12:00:00+00:00",
+          "stop": "2026-11-19T00:00:00+00:00",
+          "title": "<t:1795029900:t> (19:25 UTC) ATP Tour ATP Tennis F. Cobolli vs F. Tiafoe"
+        },
+        {
+          "display_title": "1:00 AM <t:1795029900:t> (19:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-18T12:00:00+00:00",
+          "stop": "2026-11-19T00:00:00+00:00",
+          "title": "<t:1795029900:t> (19:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session"
+        },
+        {
+          "display_title": "1:00 AM <t:1795046100:t> (23:55 UTC) NBA Bucks vs Heat",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-18T12:00:00+00:00",
+          "stop": "2026-11-19T00:00:00+00:00",
+          "title": "<t:1795046100:t> (23:55 UTC) NBA Bucks vs Heat"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 641405799,
-      "message_timestamp": 1794960032,
+      "message_id": 641587042,
+      "message_timestamp": 1795014075,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-18T03:47:00.137062+00:00"
+      "updated_at": "2026-11-18T22:09:47.524959+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
