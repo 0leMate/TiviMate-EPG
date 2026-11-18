@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794956400:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1795042800:t> (18:00 ET) Volusia Speedway Park",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794956400:t> (18:00 ET) Volusia Speedway Park"
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795042800:t> (18:00 ET) Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 641039083,
-      "message_timestamp": 1794891623,
+      "message_id": 641447631,
+      "message_timestamp": 1794978024,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-17T13:39:56.686111+00:00"
+      "updated_at": "2026-11-18T13:14:06.118162+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,117 +112,85 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794924000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794924000:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) Real Madrid vs Inter",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795023000:t> (12:30 ET) Real Madrid vs Inter"
         },
         {
-          "display_title": "6:00 AM <t:1794931200:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794931200:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "display_title": "6:00 AM <t:1795023000:t> (12:30 ET) BK Häcken vs Man. City",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795023000:t> (12:30 ET) BK Häcken vs Man. City"
         },
         {
-          "display_title": "6:00 AM <t:1794934800:t> (12:00 ET) CBS Sports HQ: Just Football",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794934800:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) Chelsea vs PSG",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) Chelsea vs PSG"
         },
         {
-          "display_title": "6:00 AM <t:1794945600:t> (15:00 ET) CBS Sports HQ: This Just In",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794945600:t> (15:00 ET) CBS Sports HQ: This Just In"
-        },
-        {
-          "display_title": "6:00 AM <t:1794949200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794949200:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
-        },
-        {
-          "display_title": "6:00 AM <t:1794956400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794956400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
-        },
-        {
-          "display_title": "6:00 AM <t:1794960000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794960000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "6:00 AM <t:1794969000:t> (21:30 ET) CBS Sports HQ: College Football Playoff Breakdown",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794969000:t> (21:30 ET) CBS Sports HQ: College Football Playoff Breakdown"
+          "display_title": "6:00 AM <t:1795028400:t> (14:00 ET) Juventus vs OH Leuven",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795028400:t> (14:00 ET) Juventus vs OH Leuven"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 641211191,
-      "message_timestamp": 1794916857,
+      "message_id": 641447715,
+      "message_timestamp": 1794978045,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-17T13:39:56.983755+00:00"
+      "updated_at": "2026-11-18T13:14:06.235541+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1794952800:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
+          "display_title": "6:00 AM <t:1795039200:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794952800:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795039200:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1794960000:t> (19:00 ET) AEW Saturday Tailgate Brawl",
+          "display_title": "6:00 AM <t:1795046400:t> (19:00 ET) AEW Saturday Tailgate Brawl",
           "slot": "PPV 28",
           "slot_norm": "PPV 28",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794960000:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795046400:t> (19:00 ET) AEW Saturday Tailgate Brawl"
         },
         {
-          "display_title": "6:00 AM <t:1794902400:t> (03:00 ET) Teremoana vs Ahio",
+          "display_title": "6:00 AM <t:1794988800:t> (03:00 ET) Teremoana vs Ahio",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794902400:t> (03:00 ET) Teremoana vs Ahio"
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1794988800:t> (03:00 ET) Teremoana vs Ahio"
         },
         {
-          "display_title": "6:00 AM <t:1794902400:t> (03:00 ET) Teremoana vs Ahio",
+          "display_title": "6:00 AM <t:1794988800:t> (03:00 ET) Teremoana vs Ahio",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
-          "start": "2026-11-17T12:00:00-05:00",
-          "stop": "2026-11-18T00:00:00-05:00",
-          "title": "<t:1794902400:t> (03:00 ET) Teremoana vs Ahio"
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1794988800:t> (03:00 ET) Teremoana vs Ahio"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 641410307,
-      "message_timestamp": 1794961832,
+      "message_id": 641447766,
+      "message_timestamp": 1794978066,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-18T03:46:59.227276+00:00"
+      "updated_at": "2026-11-18T13:14:06.364024+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
