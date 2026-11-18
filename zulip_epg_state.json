@@ -200,13 +200,29 @@
           "start": "2026-11-17T12:00:00-05:00",
           "stop": "2026-11-18T00:00:00-05:00",
           "title": "<t:1794960000:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+        },
+        {
+          "display_title": "6:00 AM <t:1794902400:t> (03:00 ET) Teremoana vs Ahio",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794902400:t> (03:00 ET) Teremoana vs Ahio"
+        },
+        {
+          "display_title": "6:00 AM <t:1794902400:t> (03:00 ET) Teremoana vs Ahio",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-11-17T12:00:00-05:00",
+          "stop": "2026-11-18T00:00:00-05:00",
+          "title": "<t:1794902400:t> (03:00 ET) Teremoana vs Ahio"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 641039793,
-      "message_timestamp": 1794891651,
+      "message_id": 641410307,
+      "message_timestamp": 1794961832,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-17T13:39:57.338350+00:00"
+      "updated_at": "2026-11-18T03:46:59.227276+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -342,91 +358,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1794911100:t> (10:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Afternoon Session",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794911100:t> (10:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Afternoon Session"
-        },
-        {
-          "display_title": "1:00 AM <t:1794920100:t> (12:55 UTC) ATP Tour ATP Tennis A. Fils vs R. Jodar",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794920100:t> (12:55 UTC) ATP Tour ATP Tennis A. Fils vs R. Jodar"
-        },
-        {
-          "display_title": "1:00 AM <t:1794934500:t> (16:55 UTC) ATP Tour ATP Tennis T. Arribage/A. Olivetti vs O. Luz/R. Matos",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794934500:t> (16:55 UTC) ATP Tour ATP Tennis T. Arribage/A. Olivetti vs O. Luz/R. Matos"
-        },
-        {
-          "display_title": "1:00 AM <t:1794934500:t> (16:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794934500:t> (16:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session"
-        },
-        {
-          "display_title": "1:00 AM <t:1794941100:t> (18:45 UTC) EFL EFL Trophy Luton vs Peterborough",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794941100:t> (18:45 UTC) EFL EFL Trophy Luton vs Peterborough"
-        },
-        {
-          "display_title": "1:00 AM <t:1794941700:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794941700:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
-        },
-        {
-          "display_title": "1:00 AM <t:1794943500:t> (19:25 UTC) ATP Tour ATP Tennis A. Zverev vs B. Shelton",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794943500:t> (19:25 UTC) ATP Tour ATP Tennis A. Zverev vs B. Shelton"
-        },
-        {
-          "display_title": "1:00 AM <t:1794959700:t> (23:55 UTC) NBA Pistons vs Spurs",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794959700:t> (23:55 UTC) NBA Pistons vs Spurs"
-        },
-        {
           "display_title": "1:00 AM <t:1794974100:t> (03:55 UTC) NBA Jazz vs Clippers",
           "slot": "SKY SPORTS+ 09",
           "slot_norm": "SKY SPORTS+ 9",
           "start": "2026-11-18T12:00:00+00:00",
           "stop": "2026-11-19T00:00:00+00:00",
           "title": "<t:1794974100:t> (03:55 UTC) NBA Jazz vs Clippers"
-        },
-        {
-          "display_title": "1:00 AM <t:1794941100:t> (18:45 UTC) Luton vs Peterborough",
-          "slot": "SKY SPORTS+ B 07",
-          "slot_norm": "SKY SPORTS+ B 7",
-          "start": "2026-11-17T12:00:00+00:00",
-          "stop": "2026-11-18T00:00:00+00:00",
-          "title": "<t:1794941100:t> (18:45 UTC) Luton vs Peterborough"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 641233624,
-      "message_timestamp": 1794922228,
+      "message_id": 641405799,
+      "message_timestamp": 1794960032,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-17T13:39:57.922229+00:00"
+      "updated_at": "2026-11-18T03:47:00.137062+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",

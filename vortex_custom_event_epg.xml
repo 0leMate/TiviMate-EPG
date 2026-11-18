@@ -7352,12 +7352,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001:</display-name>
+    <display-name>PPV C 001: 03:00 Teremoana vs Ahio</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002:</display-name>
+    <display-name>PPV C 002: 03:00 Teremoana vs Ahio</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
@@ -12449,44 +12449,8 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
     <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.07">
-    <display-name>SKY SPORTS+ B 07</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <programme start="20261116120000 +1100" stop="20261117000000 +1100" channel="custom.AU.STAN.AU.STAN.B.003">
@@ -14644,53 +14608,18 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>1:00 AM &lt;t:1794911100:t&gt; (10:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Afternoon Session</title>
+  <programme start="20261117120000 -0500" stop="20261118000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.001">
+    <title>6:00 AM &lt;t:1794902400:t&gt; (03:00 ET) Teremoana vs Ahio</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>1:00 AM &lt;t:1794920100:t&gt; (12:55 UTC) ATP Tour ATP Tennis A. Fils vs R. Jodar</title>
+  <programme start="20261117120000 -0500" stop="20261118000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.002">
+    <title>6:00 AM &lt;t:1794902400:t&gt; (03:00 ET) Teremoana vs Ahio</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:00 AM &lt;t:1794934500:t&gt; (16:55 UTC) ATP Tour ATP Tennis T. Arribage/A. Olivetti vs O. Luz/R. Matos</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>1:00 AM &lt;t:1794934500:t&gt; (16:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>1:00 AM &lt;t:1794941100:t&gt; (18:45 UTC) EFL EFL Trophy Luton vs Peterborough</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>1:00 AM &lt;t:1794941700:t&gt; (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>1:00 AM &lt;t:1794943500:t&gt; (19:25 UTC) ATP Tour ATP Tennis A. Zverev vs B. Shelton</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>1:00 AM &lt;t:1794959700:t&gt; (23:55 UTC) NBA Pistons vs Spurs</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261118120000 +0000" stop="20261119000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
     <title>1:00 AM &lt;t:1794974100:t&gt; (03:55 UTC) NBA Jazz vs Clippers</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261118000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.07">
-    <title>1:00 AM &lt;t:1794941100:t&gt; (18:45 UTC) Luton vs Peterborough</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
