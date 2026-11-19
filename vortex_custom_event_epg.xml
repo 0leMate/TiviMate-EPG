@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 12:00 Power Slap 27 Quinones vs Godfrey</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7182,7 +7182,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 12:00 Power Slap 27 Quinones vs Godfrey</display-name>
+    <display-name>PPV B 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
@@ -14818,11 +14818,6 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1795107600:t&gt; (12:00 ET) Power Slap 27 Quinones vs Godfrey</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.26">
     <title>6:00 AM &lt;t:1795125600:t&gt; (17:00 ET) FC 334 Gane vs Hokit - Special Feed</title>
     <category>Sports</category>
@@ -14830,11 +14825,6 @@
   </programme>
   <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.28">
     <title>6:00 AM &lt;t:1795132800:t&gt; (19:00 ET) AEW Saturday Tailgate Brawl</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>6:00 AM &lt;t:1795107600:t&gt; (12:00 ET) Power Slap 27 Quinones vs Godfrey</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

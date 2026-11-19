@@ -306,14 +306,6 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795107600:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795107600:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey"
-        },
-        {
           "display_title": "6:00 AM <t:1795125600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
@@ -328,21 +320,13 @@
           "start": "2026-11-19T12:00:00-05:00",
           "stop": "2026-11-20T00:00:00-05:00",
           "title": "<t:1795132800:t> (19:00 ET) AEW Saturday Tailgate Brawl"
-        },
-        {
-          "display_title": "6:00 AM <t:1795107600:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795107600:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 641767667,
-      "message_timestamp": 1795064468,
+      "message_id": 642014963,
+      "message_timestamp": 1795120223,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-19T13:35:36.274437+00:00"
+      "updated_at": "2026-11-19T22:18:59.877622+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
