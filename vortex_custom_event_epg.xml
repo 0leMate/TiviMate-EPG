@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01:</display-name>
+    <display-name>PPV 01: 12:00 Power Slap 27 Quinones vs Godfrey</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7182,7 +7182,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01:</display-name>
+    <display-name>PPV B 01: 12:00 Power Slap 27 Quinones vs Godfrey</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
@@ -12453,24 +12453,8 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <display-name>SKY SPORTS+ 05</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
+    <display-name>SKY SPORTS+ 06</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <programme start="20261116120000 +1100" stop="20261117000000 +1100" channel="custom.AU.STAN.AU.STAN.B.003">
@@ -14528,6 +14512,11 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
+  <programme start="20261118120000 -0500" stop="20261119000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
+    <title>6:00 AM &lt;t:1795021200:t&gt; (12:00 ET) Power Slap 27 Quinones vs Godfrey</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
   <programme start="20261118120000 -0500" stop="20261119000000 -0500" channel="custom.PAY.PER.VIEW.PPV.26">
     <title>6:00 AM &lt;t:1795039200:t&gt; (17:00 ET) FC 334 Gane vs Hokit - Special Feed</title>
     <category>Sports</category>
@@ -14538,28 +14527,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261118120000 +0000" stop="20261119000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>1:00 AM &lt;t:1795020900:t&gt; (16:55 UTC) ATP Tour ATP Tennis M. Granollers/H. Zeballos vs K. Krawietz/T. Puetz</title>
+  <programme start="20261118120000 -0500" stop="20261119000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
+    <title>6:00 AM &lt;t:1795021200:t&gt; (12:00 ET) Power Slap 27 Quinones vs Godfrey</title>
     <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261118120000 +0000" stop="20261119000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>1:00 AM &lt;t:1795028100:t&gt; (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261118120000 +0000" stop="20261119000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:00 AM &lt;t:1795029900:t&gt; (19:25 UTC) ATP Tour ATP Tennis F. Cobolli vs F. Tiafoe</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261118120000 +0000" stop="20261119000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>1:00 AM &lt;t:1795029900:t&gt; (19:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261118120000 +0000" stop="20261119000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>1:00 AM &lt;t:1795046100:t&gt; (23:55 UTC) NBA Bucks vs Heat</title>
+  <programme start="20261119120000 +0000" stop="20261120000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
+    <title>1:00 AM &lt;t:1795075200:t&gt; (08:00 UTC) Women&#x27;s Big Bash League Brisbane Heat vs Sydney Thunder</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>

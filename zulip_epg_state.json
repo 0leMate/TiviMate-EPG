@@ -282,6 +282,14 @@
       "channel": "pay-per-view",
       "events": [
         {
+          "display_title": "6:00 AM <t:1795021200:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795021200:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey"
+        },
+        {
           "display_title": "6:00 AM <t:1795039200:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
@@ -296,13 +304,21 @@
           "start": "2026-11-18T12:00:00-05:00",
           "stop": "2026-11-19T00:00:00-05:00",
           "title": "<t:1795046400:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+        },
+        {
+          "display_title": "6:00 AM <t:1795021200:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-18T12:00:00-05:00",
+          "stop": "2026-11-19T00:00:00-05:00",
+          "title": "<t:1795021200:t> (12:00 ET) Power Slap 27 Quinones vs Godfrey"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 641618229,
-      "message_timestamp": 1795019441,
+      "message_id": 641730147,
+      "message_timestamp": 1795048222,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-18T22:09:46.644450+00:00"
+      "updated_at": "2026-11-19T03:41:57.570880+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -438,51 +454,19 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1795020900:t> (16:55 UTC) ATP Tour ATP Tennis M. Granollers/H. Zeballos vs K. Krawietz/T. Puetz",
-          "slot": "SKY SPORTS+ 01",
-          "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-18T12:00:00+00:00",
-          "stop": "2026-11-19T00:00:00+00:00",
-          "title": "<t:1795020900:t> (16:55 UTC) ATP Tour ATP Tennis M. Granollers/H. Zeballos vs K. Krawietz/T. Puetz"
-        },
-        {
-          "display_title": "1:00 AM <t:1795028100:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
-          "slot": "SKY SPORTS+ 02",
-          "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-18T12:00:00+00:00",
-          "stop": "2026-11-19T00:00:00+00:00",
-          "title": "<t:1795028100:t> (18:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
-        },
-        {
-          "display_title": "1:00 AM <t:1795029900:t> (19:25 UTC) ATP Tour ATP Tennis F. Cobolli vs F. Tiafoe",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-18T12:00:00+00:00",
-          "stop": "2026-11-19T00:00:00+00:00",
-          "title": "<t:1795029900:t> (19:25 UTC) ATP Tour ATP Tennis F. Cobolli vs F. Tiafoe"
-        },
-        {
-          "display_title": "1:00 AM <t:1795029900:t> (19:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-18T12:00:00+00:00",
-          "stop": "2026-11-19T00:00:00+00:00",
-          "title": "<t:1795029900:t> (19:25 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream, Evening Session"
-        },
-        {
-          "display_title": "1:00 AM <t:1795046100:t> (23:55 UTC) NBA Bucks vs Heat",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-18T12:00:00+00:00",
-          "stop": "2026-11-19T00:00:00+00:00",
-          "title": "<t:1795046100:t> (23:55 UTC) NBA Bucks vs Heat"
+          "display_title": "1:00 AM <t:1795075200:t> (08:00 UTC) Women's Big Bash League Brisbane Heat vs Sydney Thunder",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-19T12:00:00+00:00",
+          "stop": "2026-11-20T00:00:00+00:00",
+          "title": "<t:1795075200:t> (08:00 UTC) Women's Big Bash League Brisbane Heat vs Sydney Thunder"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 641587042,
-      "message_timestamp": 1795014075,
+      "message_id": 641725318,
+      "message_timestamp": 1795046428,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-18T22:09:47.524959+00:00"
+      "updated_at": "2026-11-19T03:41:58.099979+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
