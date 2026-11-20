@@ -320,13 +320,61 @@
           "start": "2026-11-19T12:00:00-05:00",
           "stop": "2026-11-20T00:00:00-05:00",
           "title": "<t:1795132800:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+        },
+        {
+          "display_title": "6:00 AM <t:1795095000:t> (08:30 ET) JONE Friday Fights 179 & The Inner Circle 39",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-11-19T12:00:00-05:00",
+          "stop": "2026-11-20T00:00:00-05:00",
+          "title": "<t:1795095000:t> (08:30 ET) JONE Friday Fights 179 & The Inner Circle 39"
+        },
+        {
+          "display_title": "6:00 AM <t:1795125600:t> (17:00 ET) Jones vs Pettus: Prelims",
+          "slot": "PPV C 002",
+          "slot_norm": "PPV C 2",
+          "start": "2026-11-19T12:00:00-05:00",
+          "stop": "2026-11-20T00:00:00-05:00",
+          "title": "<t:1795125600:t> (17:00 ET) Jones vs Pettus: Prelims"
+        },
+        {
+          "display_title": "6:00 AM <t:1795136400:t> (20:00 ET) Jones vs Pettus",
+          "slot": "PPV C 003",
+          "slot_norm": "PPV C 3",
+          "start": "2026-11-19T12:00:00-05:00",
+          "stop": "2026-11-20T00:00:00-05:00",
+          "title": "<t:1795136400:t> (20:00 ET) Jones vs Pettus"
+        },
+        {
+          "display_title": "6:00 AM <t:1795136400:t> (20:00 ET) Jones vs Pettus BU",
+          "slot": "PPV C 004",
+          "slot_norm": "PPV C 4",
+          "start": "2026-11-19T12:00:00-05:00",
+          "stop": "2026-11-20T00:00:00-05:00",
+          "title": "<t:1795136400:t> (20:00 ET) Jones vs Pettus BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine",
+          "slot": "PPV C 005",
+          "slot_norm": "PPV C 5",
+          "start": "2026-11-19T12:00:00-05:00",
+          "stop": "2026-11-20T00:00:00-05:00",
+          "title": "<t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine"
+        },
+        {
+          "display_title": "6:00 AM <t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU",
+          "slot": "PPV C 006",
+          "slot_norm": "PPV C 6",
+          "start": "2026-11-19T12:00:00-05:00",
+          "stop": "2026-11-20T00:00:00-05:00",
+          "title": "<t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642014963,
-      "message_timestamp": 1795120223,
+      "message_id": 642066735,
+      "message_timestamp": 1795134622,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-19T22:18:59.877622+00:00"
+      "updated_at": "2026-11-20T03:34:42.624164+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

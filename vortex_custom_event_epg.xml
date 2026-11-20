@@ -7352,32 +7352,32 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001:</display-name>
+    <display-name>PPV C 001: 08:30 JONE Friday Fights 179 &amp; The Inner Circle 39</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
     <display-name>PPV C 002</display-name>
-    <display-name>PPV C 002:</display-name>
+    <display-name>PPV C 002: 17:00 Jones vs Pettus: Prelims</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.003">
     <display-name>PPV C 003</display-name>
-    <display-name>PPV C 003:</display-name>
+    <display-name>PPV C 003: 20:00 Jones vs Pettus</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.004">
     <display-name>PPV C 004</display-name>
-    <display-name>PPV C 004:</display-name>
+    <display-name>PPV C 004: 20:00 Jones vs Pettus BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.005">
     <display-name>PPV C 005</display-name>
-    <display-name>PPV C 005:</display-name>
+    <display-name>PPV C 005: 21:00 BKFC Fight Night Myrtle Beach: Richardson vs Oxendine</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.006">
     <display-name>PPV C 006</display-name>
-    <display-name>PPV C 006:</display-name>
+    <display-name>PPV C 006: 21:00 BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.007">
@@ -11567,12 +11567,12 @@
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.045">
     <display-name>AU STAN 045</display-name>
-    <display-name>AU STAN 045: 00:50 AEDT Everton vs Brighton &amp; Hove Albion WSL 2026/27 11-23</display-name>
+    <display-name>AU STAN 045: 00:50 AEDT Charlton Athletic vs Aston Villa WSL 2026/27 11-23</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.046">
     <display-name>AU STAN 046</display-name>
-    <display-name>AU STAN 046: 00:50 AEDT Charlton Athletic vs Aston Villa WSL 2026/27 11-23</display-name>
+    <display-name>AU STAN 046: 00:50 AEDT Everton vs Brighton &amp; Hove Albion WSL 2026/27 11-23</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.047">
@@ -12067,12 +12067,12 @@
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.B.045">
     <display-name>AU STAN B 045</display-name>
-    <display-name>AU STAN B 045: 00:50 AEDT Everton vs Brighton &amp; Hove Albion WSL 2026/27 11-23</display-name>
+    <display-name>AU STAN B 045: 00:50 AEDT Charlton Athletic vs Aston Villa WSL 2026/27 11-23</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.B.046">
     <display-name>AU STAN B 046</display-name>
-    <display-name>AU STAN B 046: 00:50 AEDT Charlton Athletic vs Aston Villa WSL 2026/27 11-23</display-name>
+    <display-name>AU STAN B 046: 00:50 AEDT Everton vs Brighton &amp; Hove Albion WSL 2026/27 11-23</display-name>
     <display-name>AU STAN</display-name>
   </channel>
   <channel id="custom.AU.STAN.AU.STAN.B.047">
@@ -14825,6 +14825,36 @@
   </programme>
   <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.28">
     <title>6:00 AM &lt;t:1795132800:t&gt; (19:00 ET) AEW Saturday Tailgate Brawl</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.001">
+    <title>6:00 AM &lt;t:1795095000:t&gt; (08:30 ET) JONE Friday Fights 179 &amp; The Inner Circle 39</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.002">
+    <title>6:00 AM &lt;t:1795125600:t&gt; (17:00 ET) Jones vs Pettus: Prelims</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.003">
+    <title>6:00 AM &lt;t:1795136400:t&gt; (20:00 ET) Jones vs Pettus</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.004">
+    <title>6:00 AM &lt;t:1795136400:t&gt; (20:00 ET) Jones vs Pettus BU</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.005">
+    <title>6:00 AM &lt;t:1795140000:t&gt; (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261119120000 -0500" stop="20261120000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.006">
+    <title>6:00 AM &lt;t:1795140000:t&gt; (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
