@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795129200:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1795215600:t> (18:00 ET) Volusia Speedway Park",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795129200:t> (18:00 ET) Volusia Speedway Park"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795215600:t> (18:00 ET) Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 641767527,
-      "message_timestamp": 1795064423,
+      "message_id": 642104990,
+      "message_timestamp": 1795150828,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-19T13:35:35.721851+00:00"
+      "updated_at": "2026-11-20T13:17:08.449795+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,269 +112,373 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795096800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "display_title": "6:00 AM <t:1795183200:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
           "slot": "PARAMOUNT 001",
           "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795096800:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795183200:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
         },
         {
-          "display_title": "6:00 AM <t:1795104000:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "display_title": "6:00 AM <t:1795186800:t> (10:00 ET) UFC: UFC Doha Ceremonial Weigh-In",
           "slot": "PARAMOUNT 002",
           "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795104000:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795186800:t> (10:00 ET) UFC: UFC Doha Ceremonial Weigh-In"
         },
         {
-          "display_title": "6:00 AM <t:1795107600:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "display_title": "6:00 AM <t:1795190400:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
           "slot": "PARAMOUNT 003",
           "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795107600:t> (12:00 ET) CBS Sports HQ: Just Football"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795190400:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
         },
         {
-          "display_title": "6:00 AM <t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Austria Wien vs Bayern",
+          "display_title": "6:00 AM <t:1795191600:t> (11:20 ET) World Rugby: Romania vs Canada",
           "slot": "PARAMOUNT 004",
           "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Austria Wien vs Bayern"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795191600:t> (11:20 ET) World Rugby: Romania vs Canada"
         },
         {
-          "display_title": "6:00 AM <t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Paris FC vs HB Køge",
+          "display_title": "6:00 AM <t:1795194000:t> (12:00 ET) CBS Sports HQ: Just Football",
           "slot": "PARAMOUNT 005",
           "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Paris FC vs HB Køge"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795194000:t> (12:00 ET) CBS Sports HQ: Just Football"
         },
         {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) CBS Sports HQ: Fantasy Football Today",
+          "display_title": "6:00 AM <t:1795201200:t> (14:00 ET) CBS Sports HQ: College Football Picks Show",
           "slot": "PARAMOUNT 006",
           "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) CBS Sports HQ: Fantasy Football Today"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795201200:t> (14:00 ET) CBS Sports HQ: College Football Picks Show"
         },
         {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Benfica vs Roma",
+          "display_title": "6:00 AM <t:1795204200:t> (14:50 ET) English Football League: Barnsley vs Sheffield Wednesday",
           "slot": "PARAMOUNT 007",
           "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Benfica vs Roma"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795204200:t> (14:50 ET) English Football League: Barnsley vs Sheffield Wednesday"
         },
         {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Barcelona vs Servette",
+          "display_title": "6:00 AM <t:1795204800:t> (15:00 ET) CBS Sports HQ: This Just In",
           "slot": "PARAMOUNT 008",
           "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Barcelona vs Servette"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795204800:t> (15:00 ET) CBS Sports HQ: This Just In"
         },
         {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Arsenal vs Lyonnes",
+          "display_title": "6:00 AM <t:1795208400:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
           "slot": "PARAMOUNT 009",
           "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Arsenal vs Lyonnes"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795208400:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
         },
         {
-          "display_title": "6:00 AM <t:1795118400:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "display_title": "6:00 AM <t:1795215600:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
           "slot": "PARAMOUNT 010",
           "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795118400:t> (15:00 ET) CBS Sports HQ: This Just In"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795215600:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
         },
         {
-          "display_title": "6:00 AM <t:1795122000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "display_title": "6:00 AM <t:1795219200:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
           "slot": "PARAMOUNT 011",
           "slot_norm": "PARAMOUNT 11",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795122000:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795219200:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         },
         {
-          "display_title": "6:00 AM <t:1795129200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795129200:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
-        },
-        {
-          "display_title": "6:00 AM <t:1795136400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795136400:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "6:00 AM <t:1795109400:t> (12:30 ET) Austria Wien vs Bayern",
+          "display_title": "6:00 AM <t:1795186800:t> (10:00 ET) UFC Doha Ceremonial Weigh In",
           "slot": "PARAMOUNT B 001",
           "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795109400:t> (12:30 ET) Austria Wien vs Bayern"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795186800:t> (10:00 ET) UFC Doha Ceremonial Weigh In"
         },
         {
-          "display_title": "6:00 AM <t:1795109400:t> (12:30 ET) Paris FC vs HB Køge",
+          "display_title": "6:00 AM <t:1795191600:t> (11:20 ET) Romania vs Canada",
           "slot": "PARAMOUNT B 002",
           "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795109400:t> (12:30 ET) Paris FC vs HB Køge"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795191600:t> (11:20 ET) Romania vs Canada"
         },
         {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) Arsenal vs Lyonnes",
+          "display_title": "6:00 AM <t:1795204200:t> (14:50 ET) Barnsley vs Sheffield Wednesday",
           "slot": "PARAMOUNT B 003",
           "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) Arsenal vs Lyonnes"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795204200:t> (14:50 ET) Barnsley vs Sheffield Wednesday"
         },
         {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) Barcelona vs Servette",
+          "display_title": "6:00 AM <t:1795251000:t> (03:50 ET) Hong Kong China vs Tonga",
           "slot": "PARAMOUNT B 004",
           "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) Barcelona vs Servette"
-        },
-        {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) Benfica vs Roma",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) Benfica vs Roma"
-        },
-        {
-          "display_title": "6:00 AM <t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Austria Wien vs Bayern",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Austria Wien vs Bayern"
-        },
-        {
-          "display_title": "6:00 AM <t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Paris FC vs HB Køge",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795109400:t> (12:30 ET) UEFA Women's Champions League: Paris FC vs HB Køge"
-        },
-        {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Arsenal vs Lyonnes",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Arsenal vs Lyonnes"
-        },
-        {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Barcelona vs Servette",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Barcelona vs Servette"
-        },
-        {
-          "display_title": "6:00 AM <t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Benfica vs Roma",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795114800:t> (14:00 ET) UEFA Women's Champions League: Benfica vs Roma"
+          "start": "2026-11-21T12:00:00-05:00",
+          "stop": "2026-11-22T00:00:00-05:00",
+          "title": "<t:1795251000:t> (03:50 ET) Hong Kong China vs Tonga"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 641870706,
-      "message_timestamp": 1795093256,
+      "message_id": 642178612,
+      "message_timestamp": 1795172456,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-19T13:35:35.955574+00:00"
+      "updated_at": "2026-11-20T13:17:08.857659+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795125600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed",
-          "slot": "PPV 26",
-          "slot_norm": "PPV 26",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795125600:t> (17:00 ET) FC 334 Gane vs Hokit - Special Feed"
+          "display_title": "6:00 AM <t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob"
         },
         {
-          "display_title": "6:00 AM <t:1795132800:t> (19:00 ET) AEW Saturday Tailgate Brawl",
-          "slot": "PPV 28",
-          "slot_norm": "PPV 28",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795132800:t> (19:00 ET) AEW Saturday Tailgate Brawl"
+          "display_title": "6:00 AM <t:1795199400:t> (13:30 ET) ARES 45",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795199400:t> (13:30 ET) ARES 45"
         },
         {
-          "display_title": "6:00 AM <t:1795095000:t> (08:30 ET) JONE Friday Fights 179 & The Inner Circle 39",
+          "display_title": "6:00 AM <t:1795199400:t> (13:30 ET) Price vs Kotaskova",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795199400:t> (13:30 ET) Price vs Kotaskova"
+        },
+        {
+          "display_title": "6:00 AM <t:1795212000:t> (17:00 ET) Jones vs Pettus",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795212000:t> (17:00 ET) Jones vs Pettus"
+        },
+        {
+          "display_title": "6:00 AM <t:1795215600:t> (18:00 ET) Bison Kombat 11",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795215600:t> (18:00 ET) Bison Kombat 11"
+        },
+        {
+          "display_title": "6:00 AM <t:1795221000:t> (19:30 ET) Influencer Fight Night Butterbean vs Campbell",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795221000:t> (19:30 ET) Influencer Fight Night Butterbean vs Campbell"
+        },
+        {
+          "display_title": "6:00 AM <t:1795222800:t> (20:00 ET) Jones vs Pettus",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795222800:t> (20:00 ET) Jones vs Pettus"
+        },
+        {
+          "display_title": "6:00 AM <t:1795226400:t> (21:00 ET) BKFC Fight Night Richardson vs Oxendine",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795226400:t> (21:00 ET) BKFC Fight Night Richardson vs Oxendine"
+        },
+        {
+          "display_title": "6:00 AM <t:1795226400:t> (21:00 ET) Fury Challenger Series 18",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795226400:t> (21:00 ET) Fury Challenger Series 18"
+        },
+        {
+          "display_title": "6:00 AM <t:1795230000:t> (22:00 ET) UWC 60",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795230000:t> (22:00 ET) UWC 60"
+        },
+        {
+          "display_title": "6:00 AM <t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced"
+        },
+        {
+          "display_title": "6:00 AM <t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship"
+        },
+        {
+          "display_title": "6:00 AM <t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob"
+        },
+        {
+          "display_title": "6:00 AM <t:1795199400:t> (13:30 ET) ARES 45",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795199400:t> (13:30 ET) ARES 45"
+        },
+        {
+          "display_title": "6:00 AM <t:1795199400:t> (13:30 ET) Price vs Kotaskova",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795199400:t> (13:30 ET) Price vs Kotaskova"
+        },
+        {
+          "display_title": "6:00 AM <t:1795212000:t> (17:00 ET) Jones vs Pettus",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795212000:t> (17:00 ET) Jones vs Pettus"
+        },
+        {
+          "display_title": "6:00 AM <t:1795215600:t> (18:00 ET) Bison Kombat 11",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795215600:t> (18:00 ET) Bison Kombat 11"
+        },
+        {
+          "display_title": "6:00 AM <t:1795221000:t> (19:30 ET) Influencer Fight Night Butterbean vs Campbell",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795221000:t> (19:30 ET) Influencer Fight Night Butterbean vs Campbell"
+        },
+        {
+          "display_title": "6:00 AM <t:1795222800:t> (20:00 ET) Jones vs Pettus",
+          "slot": "PPV B 07",
+          "slot_norm": "PPV B 7",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795222800:t> (20:00 ET) Jones vs Pettus"
+        },
+        {
+          "display_title": "6:00 AM <t:1795226400:t> (21:00 ET) BKFC Fight Night Richardson vs Oxendine",
+          "slot": "PPV B 08",
+          "slot_norm": "PPV B 8",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795226400:t> (21:00 ET) BKFC Fight Night Richardson vs Oxendine"
+        },
+        {
+          "display_title": "6:00 AM <t:1795226400:t> (21:00 ET) Fury Challenger Series 18",
+          "slot": "PPV B 09",
+          "slot_norm": "PPV B 9",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795226400:t> (21:00 ET) Fury Challenger Series 18"
+        },
+        {
+          "display_title": "6:00 AM <t:1795230000:t> (22:00 ET) UWC 60",
+          "slot": "PPV B 10",
+          "slot_norm": "PPV B 10",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795230000:t> (22:00 ET) UWC 60"
+        },
+        {
+          "display_title": "6:00 AM <t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced",
+          "slot": "PPV B 11",
+          "slot_norm": "PPV B 11",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced"
+        },
+        {
+          "display_title": "6:00 AM <t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship",
+          "slot": "PPV B 12",
+          "slot_norm": "PPV B 12",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship"
+        },
+        {
+          "display_title": "6:00 AM <t:1795181400:t> (08:30 ET) ONE Friday Fights 179 & The Inner Circle 39",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795095000:t> (08:30 ET) JONE Friday Fights 179 & The Inner Circle 39"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795181400:t> (08:30 ET) ONE Friday Fights 179 & The Inner Circle 39"
         },
         {
-          "display_title": "6:00 AM <t:1795125600:t> (17:00 ET) Jones vs Pettus: Prelims",
+          "display_title": "6:00 AM <t:1795212000:t> (17:00 ET) Jones vs Pettus: Prelims",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795125600:t> (17:00 ET) Jones vs Pettus: Prelims"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795212000:t> (17:00 ET) Jones vs Pettus: Prelims"
         },
         {
-          "display_title": "6:00 AM <t:1795136400:t> (20:00 ET) Jones vs Pettus",
+          "display_title": "6:00 AM <t:1795222800:t> (20:00 ET) Jones vs Pettus",
           "slot": "PPV C 003",
           "slot_norm": "PPV C 3",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795136400:t> (20:00 ET) Jones vs Pettus"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795222800:t> (20:00 ET) Jones vs Pettus"
         },
         {
-          "display_title": "6:00 AM <t:1795136400:t> (20:00 ET) Jones vs Pettus BU",
+          "display_title": "6:00 AM <t:1795222800:t> (20:00 ET) Jones vs Pettus BU",
           "slot": "PPV C 004",
           "slot_norm": "PPV C 4",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795136400:t> (20:00 ET) Jones vs Pettus BU"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795222800:t> (20:00 ET) Jones vs Pettus BU"
         },
         {
-          "display_title": "6:00 AM <t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine",
+          "display_title": "6:00 AM <t:1795226400:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine",
           "slot": "PPV C 005",
           "slot_norm": "PPV C 5",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine"
-        },
-        {
-          "display_title": "6:00 AM <t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU",
-          "slot": "PPV C 006",
-          "slot_norm": "PPV C 6",
-          "start": "2026-11-19T12:00:00-05:00",
-          "stop": "2026-11-20T00:00:00-05:00",
-          "title": "<t:1795140000:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU"
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795226400:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642066735,
-      "message_timestamp": 1795134622,
+      "message_id": 642193629,
+      "message_timestamp": 1795176051,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-20T03:34:42.624164+00:00"
+      "updated_at": "2026-11-20T13:17:09.291857+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -510,118 +614,134 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Max Verstappen: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Lewis Hamilton: Onboard",
+          "slot": "SKY SPORTS+ 21",
+          "slot_norm": "SKY SPORTS+ 21",
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Lewis Hamilton: Onboard"
+        },
+        {
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Liam Lawson: Onboard",
           "slot": "SKY SPORTS+ 22",
           "slot_norm": "SKY SPORTS+ 22",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Max Verstappen: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Liam Lawson: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Max Verstappen: Onboard",
           "slot": "SKY SPORTS+ 23",
           "slot_norm": "SKY SPORTS+ 23",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Max Verstappen: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Oliver Bearman: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard",
           "slot": "SKY SPORTS+ 24",
           "slot_norm": "SKY SPORTS+ 24",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Oliver Bearman: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Nico Hülkenberg: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Oscar Piastri: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Oliver Bearman: Onboard",
           "slot": "SKY SPORTS+ 25",
           "slot_norm": "SKY SPORTS+ 25",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Oscar Piastri: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Oliver Bearman: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Pierre Gasly: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Oscar Piastri: Onboard",
           "slot": "SKY SPORTS+ 26",
           "slot_norm": "SKY SPORTS+ 26",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Pierre Gasly: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Oscar Piastri: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Sergio Pérez: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Pierre Gasly: Onboard",
           "slot": "SKY SPORTS+ 27",
           "slot_norm": "SKY SPORTS+ 27",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Sergio Pérez: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Pierre Gasly: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Sergio Pérez: Onboard",
           "slot": "SKY SPORTS+ 28",
           "slot_norm": "SKY SPORTS+ 28",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Sergio Pérez: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Driver Tracker",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard",
           "slot": "SKY SPORTS+ 29",
           "slot_norm": "SKY SPORTS+ 29",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Driver Tracker"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 Driver Cams Valtteri Bottas: Onboard"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Multiscreen",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Driver Tracker",
           "slot": "SKY SPORTS+ 30",
           "slot_norm": "SKY SPORTS+ 30",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Multiscreen"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Driver Tracker"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Onboard Mix",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Multiscreen",
           "slot": "SKY SPORTS+ 31",
           "slot_norm": "SKY SPORTS+ 31",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Onboard Mix"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Multiscreen"
         },
         {
-          "display_title": "1:00 AM <t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Timings",
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Onboard Mix",
           "slot": "SKY SPORTS+ 32",
           "slot_norm": "SKY SPORTS+ 32",
-          "start": "2026-11-19T12:00:00+00:00",
-          "stop": "2026-11-20T00:00:00+00:00",
-          "title": "<t:1795129200:t> (23:00 UTC) F1 More From The Pit Wall Timings"
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Onboard Mix"
+        },
+        {
+          "display_title": "1:00 AM <t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Timings",
+          "slot": "SKY SPORTS+ 33",
+          "slot_norm": "SKY SPORTS+ 33",
+          "start": "2026-11-20T12:00:00+00:00",
+          "stop": "2026-11-21T00:00:00+00:00",
+          "title": "<t:1795215600:t> (23:00 UTC) F1 More From The Pit Wall Timings"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 641870549,
-      "message_timestamp": 1795093231,
+      "message_id": 642193641,
+      "message_timestamp": 1795176054,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-19T13:35:36.938595+00:00"
+      "updated_at": "2026-11-20T13:17:10.124401+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026",
+          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026",
           "slot": "AU STAN 001",
           "slot_norm": "AU STAN 1",
           "start": "2026-11-20T12:00:00+11:00",
           "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026"
+          "title": "<t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026"
         },
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026",
+          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026",
           "slot": "AU STAN 002",
           "slot_norm": "AU STAN 2",
           "start": "2026-11-20T12:00:00+11:00",
           "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026"
+          "title": "<t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026"
         },
         {
           "display_title": "2:00 PM <t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026",
@@ -632,20 +752,20 @@
           "title": "<t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026"
         },
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026",
+          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026",
           "slot": "AU STAN B 001",
           "slot_norm": "AU STAN B 1",
           "start": "2026-11-20T12:00:00+11:00",
           "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026"
+          "title": "<t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026"
         },
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026",
+          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026",
           "slot": "AU STAN B 002",
           "slot_norm": "AU STAN B 2",
           "start": "2026-11-20T12:00:00+11:00",
           "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026"
+          "title": "<t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026"
         },
         {
           "display_title": "2:00 PM <t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026",
@@ -657,10 +777,10 @@
         }
       ],
       "group": "AU STAN",
-      "message_id": 641870661,
-      "message_timestamp": 1795093249,
+      "message_id": 642186032,
+      "message_timestamp": 1795174256,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-19T13:35:37.226533+00:00"
+      "updated_at": "2026-11-20T13:17:10.537030+00:00"
     }
   },
   "version": 1
