@@ -230,25 +230,41 @@
           "start": "2026-11-21T12:00:00-05:00",
           "stop": "2026-11-22T00:00:00-05:00",
           "title": "<t:1795251000:t> (03:50 ET) Hong Kong China vs Tonga"
+        },
+        {
+          "display_title": "6:00 AM <t:1795186800:t> (10:00 ET) UFC: UFC Doha Ceremonial Weigh In",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795186800:t> (10:00 ET) UFC: UFC Doha Ceremonial Weigh In"
+        },
+        {
+          "display_title": "6:00 AM <t:1795191600:t> (11:20 ET) World Rugby: Romania vs Canada",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795191600:t> (11:20 ET) World Rugby: Romania vs Canada"
+        },
+        {
+          "display_title": "6:00 AM <t:1795204200:t> (14:50 ET) English Football League: Barnsley vs Sheffield Wednesday",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795204200:t> (14:50 ET) English Football League: Barnsley vs Sheffield Wednesday"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 642178612,
-      "message_timestamp": 1795172456,
+      "message_id": 642225481,
+      "message_timestamp": 1795183238,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-20T13:17:08.857659+00:00"
+      "updated_at": "2026-11-20T21:53:03.791351+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
-        {
-          "display_title": "6:00 AM <t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-20T12:00:00-05:00",
-          "stop": "2026-11-21T00:00:00-05:00",
-          "title": "<t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob"
-        },
         {
           "display_title": "6:00 AM <t:1795199400:t> (13:30 ET) ARES 45",
           "slot": "PPV 02",
@@ -336,14 +352,6 @@
           "start": "2026-11-20T12:00:00-05:00",
           "stop": "2026-11-21T00:00:00-05:00",
           "title": "<t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship"
-        },
-        {
-          "display_title": "6:00 AM <t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-20T12:00:00-05:00",
-          "stop": "2026-11-21T00:00:00-05:00",
-          "title": "<t:1795181400:t> (08:30 ET) ONE Friday Fights 179 Chartpayak vs Klarob"
         },
         {
           "display_title": "6:00 AM <t:1795199400:t> (13:30 ET) ARES 45",
@@ -434,14 +442,6 @@
           "title": "<t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship"
         },
         {
-          "display_title": "6:00 AM <t:1795181400:t> (08:30 ET) ONE Friday Fights 179 & The Inner Circle 39",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-11-20T12:00:00-05:00",
-          "stop": "2026-11-21T00:00:00-05:00",
-          "title": "<t:1795181400:t> (08:30 ET) ONE Friday Fights 179 & The Inner Circle 39"
-        },
-        {
           "display_title": "6:00 AM <t:1795212000:t> (17:00 ET) Jones vs Pettus: Prelims",
           "slot": "PPV C 002",
           "slot_norm": "PPV C 2",
@@ -472,13 +472,29 @@
           "start": "2026-11-20T12:00:00-05:00",
           "stop": "2026-11-21T00:00:00-05:00",
           "title": "<t:1795226400:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine"
+        },
+        {
+          "display_title": "6:00 AM <t:1795226400:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU",
+          "slot": "PPV C 006",
+          "slot_norm": "PPV C 6",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795226400:t> (21:00 ET) BKFC Fight Night Myrtle Beach: Richardson vs Oxendine BU"
+        },
+        {
+          "display_title": "6:00 AM <t:1795197600:t> (13:00 ET) Price vs Kotaskova",
+          "slot": "PPV C 007",
+          "slot_norm": "PPV C 7",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795197600:t> (13:00 ET) Price vs Kotaskova"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642193629,
-      "message_timestamp": 1795176051,
+      "message_id": 642347094,
+      "message_timestamp": 1795210256,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-20T13:17:09.291857+00:00"
+      "updated_at": "2026-11-20T21:53:04.283803+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
