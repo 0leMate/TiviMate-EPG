@@ -7052,7 +7052,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.11">
     <display-name>PPV 11</display-name>
-    <display-name>PPV 11: 16:45 USAC Chase Johnson Classic Merced</display-name>
+    <display-name>PPV 11: 21:45 USAC Chase Johnson Classic Merced</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.12">
@@ -7232,7 +7232,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.11">
     <display-name>PPV B 11</display-name>
-    <display-name>PPV B 11: 16:45 USAC Chase Johnson Classic Merced</display-name>
+    <display-name>PPV B 11: 21:45 USAC Chase Johnson Classic Merced</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.12">
@@ -7387,22 +7387,22 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.008">
     <display-name>PPV C 008</display-name>
-    <display-name>PPV C 008:</display-name>
+    <display-name>PPV C 008: 12:00 OKTAGON 98: Legierski vs Buchinger BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.009">
     <display-name>PPV C 009</display-name>
-    <display-name>PPV C 009:</display-name>
+    <display-name>PPV C 009: 12:00 Stein vs Antonietti</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.010">
     <display-name>PPV C 010</display-name>
-    <display-name>PPV C 010:</display-name>
+    <display-name>PPV C 010: 12:00 Stein vs Antonietti BU</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.011">
     <display-name>PPV C 011</display-name>
-    <display-name>PPV C 011:</display-name>
+    <display-name>PPV C 011: 14:30 Fight Clubbing #45 - Lamezia Terme</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.012">
@@ -12501,33 +12501,93 @@
     <display-name>SKY SPORTS+ 33</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <programme start="20261120120000 +1100" stop="20261121000000 +1100" channel="custom.AU.STAN.AU.STAN.001">
-    <title>2:00 PM &lt;t:1795168500:t&gt; (20:55 AEDT) Vissel Kobe vs Mito J.League 2026</title>
+  <programme start="20261121120000 +1100" stop="20261122000000 +1100" channel="custom.AU.STAN.AU.STAN.B.013">
+    <title>2:00 PM &lt;t:1795264500:t&gt; (23:35 AEDT) Liverpool vs Chelsea WSL 2026/27</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261120120000 +1100" stop="20261121000000 +1100" channel="custom.AU.STAN.AU.STAN.002">
-    <title>2:00 PM &lt;t:1795168500:t&gt; (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026</title>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.014">
+    <title>2:00 PM &lt;t:1795266900:t&gt; (00:15 AEDT) England vs New Zealand Nations Championship Round 6 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261121120000 +1100" stop="20261122000000 +1100" channel="custom.AU.STAN.AU.STAN.003">
-    <title>2:00 PM &lt;t:1795191600:t&gt; (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026</title>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.015">
+    <title>2:00 PM &lt;t:1795269000:t&gt; (00:50 AEDT) Georgia vs USA Nations Cup Round 6 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261120120000 +1100" stop="20261121000000 +1100" channel="custom.AU.STAN.AU.STAN.B.001">
-    <title>2:00 PM &lt;t:1795168500:t&gt; (20:55 AEDT) Vissel Kobe vs Mito J.League 2026</title>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.016">
+    <title>2:00 PM &lt;t:1795269600:t&gt; (01:00 AEDT) Scotland vs Japan Nations Championship Round 6 2026</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261120120000 +1100" stop="20261121000000 +1100" channel="custom.AU.STAN.AU.STAN.B.002">
-    <title>2:00 PM &lt;t:1795168500:t&gt; (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026</title>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.017">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Chelsea vs Leeds United Premier League Matchweek 11 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
-  <programme start="20261121120000 +1100" stop="20261122000000 +1100" channel="custom.AU.STAN.AU.STAN.B.003">
-    <title>2:00 PM &lt;t:1795191600:t&gt; (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026</title>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.018">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Goal Rush: Chelsea vs Leeds United • 22 Nov Premier League 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.019">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Bournemouth vs Nottingham Forest Premier League Matchweek 11 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.020">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Coventry City vs Crystal Palace Premier League Matchweek 11 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.021">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Aston Villa vs Sunderland Premier League Matchweek 11 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.022">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Tottenham Hotspur vs Ipswich Town Premier League Matchweek 11 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.023">
+    <title>2:00 PM &lt;t:1795272600:t&gt; (01:50 AEDT) Portugal vs Uruguay Nations Cup Round 6 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.024">
+    <title>2:00 PM &lt;t:1795276200:t&gt; (02:50 AEDT) Spain vs Samoa Nations Cup Round 6 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.025">
+    <title>2:00 PM &lt;t:1795278600:t&gt; (03:30 AEDT) Italy vs Fiji Nations Championship Round 6 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.026">
+    <title>2:00 PM &lt;t:1795278600:t&gt; (03:30 AEDT) Ireland vs South Africa Nations Championship Round 6 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.027">
+    <title>2:00 PM &lt;t:1795280700:t&gt; (04:05 AEDT) London City Lionesses vs Crystal Palace WSL 2026/27</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.028">
+    <title>2:00 PM &lt;t:1795280700:t&gt; (04:05 AEDT) Zimbabwe vs Chile Nations Cup Round 6 2026</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.029">
+    <title>2:00 PM &lt;t:1795281600:t&gt; (04:20 AEDT) Newcastle United vs Arsenal Premier League Matchweek 11 2026/2027</title>
+    <category>Sports</category>
+    <desc>Zulip #stan-sport • AU STAN</desc>
+  </programme>
+  <programme start="20261122120000 +1100" stop="20261123000000 +1100" channel="custom.AU.STAN.AU.STAN.B.030">
+    <title>2:00 PM &lt;t:1795281600:t&gt; (04:20 AEDT) • Newcastle United vs Arsenal Premier League Matchweek 11 2026/2027</title>
     <category>Sports</category>
     <desc>Zulip #stan-sport • AU STAN</desc>
   </programme>
@@ -14627,7 +14687,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261121000000 -0500" channel="custom.PAY.PER.VIEW.PPV.11">
-    <title>6:00 AM &lt;t:1795211100:t&gt; (16:45 ET) USAC Chase Johnson Classic Merced</title>
+    <title>6:00 AM &lt;t:1795229100:t&gt; (21:45 ET) USAC Chase Johnson Classic Merced</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14682,7 +14742,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261120120000 -0500" stop="20261121000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.11">
-    <title>6:00 AM &lt;t:1795211100:t&gt; (16:45 ET) USAC Chase Johnson Classic Merced</title>
+    <title>6:00 AM &lt;t:1795229100:t&gt; (21:45 ET) USAC Chase Johnson Classic Merced</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14718,6 +14778,11 @@
   </programme>
   <programme start="20261120120000 -0500" stop="20261121000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.007">
     <title>6:00 AM &lt;t:1795197600:t&gt; (13:00 ET) Price vs Kotaskova</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261120120000 -0500" stop="20261121000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.008">
+    <title>6:00 AM &lt;t:1795194000:t&gt; (12:00 ET) OKTAGON 98: Legierski vs Buchinger BU</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>

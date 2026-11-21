@@ -338,12 +338,12 @@
           "title": "<t:1795230000:t> (22:00 ET) UWC 60"
         },
         {
-          "display_title": "6:00 AM <t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced",
+          "display_title": "6:00 AM <t:1795229100:t> (21:45 ET) USAC Chase Johnson Classic Merced",
           "slot": "PPV 11",
           "slot_norm": "PPV 11",
           "start": "2026-11-20T12:00:00-05:00",
           "stop": "2026-11-21T00:00:00-05:00",
-          "title": "<t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced"
+          "title": "<t:1795229100:t> (21:45 ET) USAC Chase Johnson Classic Merced"
         },
         {
           "display_title": "6:00 AM <t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship",
@@ -426,12 +426,12 @@
           "title": "<t:1795230000:t> (22:00 ET) UWC 60"
         },
         {
-          "display_title": "6:00 AM <t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced",
+          "display_title": "6:00 AM <t:1795229100:t> (21:45 ET) USAC Chase Johnson Classic Merced",
           "slot": "PPV B 11",
           "slot_norm": "PPV B 11",
           "start": "2026-11-20T12:00:00-05:00",
           "stop": "2026-11-21T00:00:00-05:00",
-          "title": "<t:1795211100:t> (16:45 ET) USAC Chase Johnson Classic Merced"
+          "title": "<t:1795229100:t> (21:45 ET) USAC Chase Johnson Classic Merced"
         },
         {
           "display_title": "6:00 AM <t:1795221000:t> (19:30 ET) Southern Thunder Super Dirt Series Championship",
@@ -488,13 +488,21 @@
           "start": "2026-11-20T12:00:00-05:00",
           "stop": "2026-11-21T00:00:00-05:00",
           "title": "<t:1795197600:t> (13:00 ET) Price vs Kotaskova"
+        },
+        {
+          "display_title": "6:00 AM <t:1795194000:t> (12:00 ET) OKTAGON 98: Legierski vs Buchinger BU",
+          "slot": "PPV C 008",
+          "slot_norm": "PPV C 8",
+          "start": "2026-11-20T12:00:00-05:00",
+          "stop": "2026-11-21T00:00:00-05:00",
+          "title": "<t:1795194000:t> (12:00 ET) OKTAGON 98: Legierski vs Buchinger BU"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642347094,
-      "message_timestamp": 1795210256,
+      "message_id": 642384586,
+      "message_timestamp": 1795222828,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-20T21:53:04.283803+00:00"
+      "updated_at": "2026-11-21T03:17:39.063285+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -744,59 +752,155 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-11-20T12:00:00+11:00",
-          "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-11-20T12:00:00+11:00",
-          "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
+          "display_title": "2:00 PM <t:1795264500:t> (23:35 AEDT) Liverpool vs Chelsea WSL 2026/27",
+          "slot": "AU STAN B 013",
+          "slot_norm": "AU STAN B 13",
           "start": "2026-11-21T12:00:00+11:00",
           "stop": "2026-11-22T00:00:00+11:00",
-          "title": "<t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026"
+          "title": "<t:1795264500:t> (23:35 AEDT) Liverpool vs Chelsea WSL 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-11-20T12:00:00+11:00",
-          "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Vissel Kobe vs Mito J.League 2026"
+          "display_title": "2:00 PM <t:1795266900:t> (00:15 AEDT) England vs New Zealand Nations Championship Round 6 2026",
+          "slot": "AU STAN B 014",
+          "slot_norm": "AU STAN B 14",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795266900:t> (00:15 AEDT) England vs New Zealand Nations Championship Round 6 2026"
         },
         {
-          "display_title": "2:00 PM <t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-11-20T12:00:00+11:00",
-          "stop": "2026-11-21T00:00:00+11:00",
-          "title": "<t:1795168500:t> (20:55 AEDT) Kashiwa Reysol vs Chiba J.League 2026"
+          "display_title": "2:00 PM <t:1795269000:t> (00:50 AEDT) Georgia vs USA Nations Cup Round 6 2026",
+          "slot": "AU STAN B 015",
+          "slot_norm": "AU STAN B 15",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795269000:t> (00:50 AEDT) Georgia vs USA Nations Cup Round 6 2026"
         },
         {
-          "display_title": "2:00 PM <t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-11-21T12:00:00+11:00",
-          "stop": "2026-11-22T00:00:00+11:00",
-          "title": "<t:1795191600:t> (03:20 AEDT) Romania vs Canada Nations Cup Round 6 2026"
+          "display_title": "2:00 PM <t:1795269600:t> (01:00 AEDT) Scotland vs Japan Nations Championship Round 6 2026",
+          "slot": "AU STAN B 016",
+          "slot_norm": "AU STAN B 16",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795269600:t> (01:00 AEDT) Scotland vs Japan Nations Championship Round 6 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Chelsea vs Leeds United Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 017",
+          "slot_norm": "AU STAN B 17",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Chelsea vs Leeds United Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Goal Rush: Chelsea vs Leeds United • 22 Nov Premier League 2026/2027",
+          "slot": "AU STAN B 018",
+          "slot_norm": "AU STAN B 18",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Goal Rush: Chelsea vs Leeds United • 22 Nov Premier League 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Bournemouth vs Nottingham Forest Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 019",
+          "slot_norm": "AU STAN B 19",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Bournemouth vs Nottingham Forest Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Coventry City vs Crystal Palace Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 020",
+          "slot_norm": "AU STAN B 20",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Coventry City vs Crystal Palace Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Aston Villa vs Sunderland Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 021",
+          "slot_norm": "AU STAN B 21",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Aston Villa vs Sunderland Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Tottenham Hotspur vs Ipswich Town Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 022",
+          "slot_norm": "AU STAN B 22",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Tottenham Hotspur vs Ipswich Town Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795272600:t> (01:50 AEDT) Portugal vs Uruguay Nations Cup Round 6 2026",
+          "slot": "AU STAN B 023",
+          "slot_norm": "AU STAN B 23",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795272600:t> (01:50 AEDT) Portugal vs Uruguay Nations Cup Round 6 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795276200:t> (02:50 AEDT) Spain vs Samoa Nations Cup Round 6 2026",
+          "slot": "AU STAN B 024",
+          "slot_norm": "AU STAN B 24",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795276200:t> (02:50 AEDT) Spain vs Samoa Nations Cup Round 6 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795278600:t> (03:30 AEDT) Italy vs Fiji Nations Championship Round 6 2026",
+          "slot": "AU STAN B 025",
+          "slot_norm": "AU STAN B 25",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795278600:t> (03:30 AEDT) Italy vs Fiji Nations Championship Round 6 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795278600:t> (03:30 AEDT) Ireland vs South Africa Nations Championship Round 6 2026",
+          "slot": "AU STAN B 026",
+          "slot_norm": "AU STAN B 26",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795278600:t> (03:30 AEDT) Ireland vs South Africa Nations Championship Round 6 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795280700:t> (04:05 AEDT) London City Lionesses vs Crystal Palace WSL 2026/27",
+          "slot": "AU STAN B 027",
+          "slot_norm": "AU STAN B 27",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795280700:t> (04:05 AEDT) London City Lionesses vs Crystal Palace WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795280700:t> (04:05 AEDT) Zimbabwe vs Chile Nations Cup Round 6 2026",
+          "slot": "AU STAN B 028",
+          "slot_norm": "AU STAN B 28",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795280700:t> (04:05 AEDT) Zimbabwe vs Chile Nations Cup Round 6 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795281600:t> (04:20 AEDT) Newcastle United vs Arsenal Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 029",
+          "slot_norm": "AU STAN B 29",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795281600:t> (04:20 AEDT) Newcastle United vs Arsenal Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795281600:t> (04:20 AEDT) • Newcastle United vs Arsenal Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 030",
+          "slot_norm": "AU STAN B 30",
+          "start": "2026-11-22T12:00:00+11:00",
+          "stop": "2026-11-23T00:00:00+11:00",
+          "title": "<t:1795281600:t> (04:20 AEDT) • Newcastle United vs Arsenal Premier League Matchweek 11 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 642186032,
-      "message_timestamp": 1795174256,
+      "message_id": 642375033,
+      "message_timestamp": 1795219271,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-20T13:17:10.537030+00:00"
+      "updated_at": "2026-11-21T03:17:40.335596+00:00"
     }
   },
   "version": 1
