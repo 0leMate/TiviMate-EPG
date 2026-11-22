@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795302000:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1795388400:t> (18:00 ET) Volusia Speedway Park",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795302000:t> (18:00 ET) Volusia Speedway Park"
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795388400:t> (18:00 ET) Volusia Speedway Park"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 642421075,
-      "message_timestamp": 1795237248,
+      "message_id": 642613098,
+      "message_timestamp": 1795323654,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-21T12:50:40.143555+00:00"
+      "updated_at": "2026-11-22T09:57:27.974274+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,301 +112,125 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795271400:t> (09:30 ET) English Football League: West Ham United vs Preston North End",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795271400:t> (09:30 ET) English Football League: West Ham United vs Preston North End"
+          "display_title": "6:00 AM <t:1795346400:t> (06:20 ET) Juventus vs Venezia",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795346400:t> (06:20 ET) Juventus vs Venezia"
         },
         {
-          "display_title": "6:00 AM <t:1795271400:t> (09:30 ET) English Football League: Middlesbrough vs Bristol City",
-          "slot": "PARAMOUNT C 12",
-          "slot_norm": "PARAMOUNT C 12",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795271400:t> (09:30 ET) English Football League: Middlesbrough vs Bristol City"
+          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Bologna vs Udinese",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795355400:t> (08:50 ET) Bologna vs Udinese"
         },
         {
-          "display_title": "6:00 AM <t:1795276140:t> (10:49 ET) World Rugby: Spain vs Samoa",
-          "slot": "PARAMOUNT C 13",
-          "slot_norm": "PARAMOUNT C 13",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795276140:t> (10:49 ET) World Rugby: Spain vs Samoa"
+          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Sassuolo vs Genoa",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795355400:t> (08:50 ET) Sassuolo vs Genoa"
         },
         {
-          "display_title": "6:00 AM <t:1795279800:t> (11:50 ET) Serie A: Parma vs Roma",
-          "slot": "PARAMOUNT C 14",
-          "slot_norm": "PARAMOUNT C 14",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795279800:t> (11:50 ET) Serie A: Parma vs Roma"
+          "display_title": "6:00 AM <t:1795366200:t> (11:50 ET) Milan vs Frosinone",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366200:t> (11:50 ET) Milan vs Frosinone"
         },
         {
-          "display_title": "6:00 AM <t:1795280700:t> (12:05 ET) World Rugby: Zimbabwe vs Chile",
-          "slot": "PARAMOUNT C 15",
-          "slot_norm": "PARAMOUNT C 15",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280700:t> (12:05 ET) World Rugby: Zimbabwe vs Chile"
-        },
-        {
-          "display_title": "6:00 AM <t:1795280700:t> (12:05 ET) Barclays Women's Super League: London City vs Crystal Palace",
-          "slot": "PARAMOUNT C 16",
-          "slot_norm": "PARAMOUNT C 16",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280700:t> (12:05 ET) Barclays Women's Super League: London City vs Crystal Palace"
-        },
-        {
-          "display_title": "6:00 AM <t:1795282800:t> (12:40 ET) Scottish Professional Football League: Dundee vs Heart of Midlothian",
-          "slot": "PARAMOUNT C 17",
-          "slot_norm": "PARAMOUNT C 17",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795282800:t> (12:40 ET) Scottish Professional Football League: Dundee vs Heart of Midlothian"
-        },
-        {
-          "display_title": "6:00 AM <t:1795284000:t> (13:00 ET) UFC: UFC Fight Night Multiview",
-          "slot": "PARAMOUNT C 18",
-          "slot_norm": "PARAMOUNT C 18",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795284000:t> (13:00 ET) UFC: UFC Fight Night Multiview"
-        },
-        {
-          "display_title": "6:00 AM <t:1795287600:t> (14:00 ET) Serie A: Napoli vs Torino",
-          "slot": "PARAMOUNT C 19",
-          "slot_norm": "PARAMOUNT C 19",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795287600:t> (14:00 ET) Serie A: Napoli vs Torino"
-        },
-        {
-          "display_title": "6:00 AM <t:1795309200:t> (20:00 ET) More Soccer: NWSL Championship Presented by Google Pixel Spanish Broadcast Washington Spirit vs Kansas City Current",
-          "slot": "PARAMOUNT C 21",
-          "slot_norm": "PARAMOUNT C 21",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795309200:t> (20:00 ET) More Soccer: NWSL Championship Presented by Google Pixel Spanish Broadcast Washington Spirit vs Kansas City Current"
+          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Atalanta vs Inter",
+          "slot": "PARAMOUNT B 005",
+          "slot_norm": "PARAMOUNT B 5",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795374000:t> (14:00 ET) Atalanta vs Inter"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 642505536,
-      "message_timestamp": 1795278634,
+      "message_id": 642640471,
+      "message_timestamp": 1795339840,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-21T20:36:08.637439+00:00"
+      "updated_at": "2026-11-22T09:57:28.056914+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795309200:t> (20:00 ET) AEW Collision (Commercial Free)",
+          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795309200:t> (20:00 ET) AEW Collision (Commercial Free)"
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback"
         },
         {
-          "display_title": "6:00 AM <t:1795297500:t> (16:45 ET) USAC Chase Johnson Classic Merced",
-          "slot": "PPV 11",
-          "slot_norm": "PPV 11",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795297500:t> (16:45 ET) USAC Chase Johnson Classic Merced"
+          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
         },
         {
-          "display_title": "6:00 AM <t:1795298400:t> (17:00 ET) Snowball Derby",
-          "slot": "PPV 12",
-          "slot_norm": "PPV 12",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795298400:t> (17:00 ET) Snowball Derby"
-        },
-        {
-          "display_title": "6:00 AM <t:1795303800:t> (18:30 ET) Southern Thunder Super Dirt Series Championship",
-          "slot": "PPV 13",
-          "slot_norm": "PPV 13",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795303800:t> (18:30 ET) Southern Thunder Super Dirt Series Championship"
-        },
-        {
-          "display_title": "6:00 AM <t:1795309200:t> (20:00 ET) CANCELLED Bobby Martin Memorial Flip Flop 50 Night Two",
-          "slot": "PPV 14",
-          "slot_norm": "PPV 14",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795309200:t> (20:00 ET) CANCELLED Bobby Martin Memorial Flip Flop 50 Night Two"
-        },
-        {
-          "display_title": "6:00 AM <t:1795273200:t> (10:00 ET) UFC Fight Nigh - Special Feed",
+          "display_title": "6:00 AM <t:1795359600:t> (10:00 ET) UFC Fight Nigh - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795273200:t> (10:00 ET) UFC Fight Nigh - Special Feed"
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795359600:t> (10:00 ET) UFC Fight Nigh - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1795297500:t> (16:45 ET) USAC Chase Johnson Classic Merced",
-          "slot": "PPV B 11",
-          "slot_norm": "PPV B 11",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795297500:t> (16:45 ET) USAC Chase Johnson Classic Merced"
+          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback"
         },
         {
-          "display_title": "6:00 AM <t:1795298400:t> (17:00 ET) Snowball Derby",
-          "slot": "PPV B 12",
-          "slot_norm": "PPV B 12",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795298400:t> (17:00 ET) Snowball Derby"
+          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
         },
         {
-          "display_title": "6:00 AM <t:1795303800:t> (18:30 ET) Southern Thunder Super Dirt Series Championship",
-          "slot": "PPV B 13",
-          "slot_norm": "PPV B 13",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795303800:t> (18:30 ET) Southern Thunder Super Dirt Series Championship"
-        },
-        {
-          "display_title": "6:00 AM <t:1795309200:t> (20:00 ET) CANCELLED Bobby Martin Memorial Flip Flop 50 Night Two",
-          "slot": "PPV B 14",
-          "slot_norm": "PPV B 14",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795309200:t> (20:00 ET) CANCELLED Bobby Martin Memorial Flip Flop 50 Night Two"
-        },
-        {
-          "display_title": "6:00 AM <t:1795280400:t> (12:00 ET) Stein vs Antonietti",
+          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Stein vs Antonietti",
           "slot": "PPV C 009",
           "slot_norm": "PPV C 9",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280400:t> (12:00 ET) Stein vs Antonietti"
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366800:t> (12:00 ET) Stein vs Antonietti"
         },
         {
-          "display_title": "6:00 AM <t:1795280400:t> (12:00 ET) Stein vs Antonietti BU",
+          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Stein vs Antonietti BU",
           "slot": "PPV C 010",
           "slot_norm": "PPV C 10",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280400:t> (12:00 ET) Stein vs Antonietti BU"
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366800:t> (12:00 ET) Stein vs Antonietti BU"
         },
         {
-          "display_title": "6:00 AM <t:1795289400:t> (14:30 ET) Fight Clubbing \\#45 - Lamezia Terme",
+          "display_title": "6:00 AM <t:1795375800:t> (14:30 ET) Fight Clubbing \\#45 - Lamezia Terme",
           "slot": "PPV C 011",
           "slot_norm": "PPV C 11",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795289400:t> (14:30 ET) Fight Clubbing \\#45 - Lamezia Terme"
-        },
-        {
-          "display_title": "6:00 AM <t:1795273200:t> (10:00 ET) PRELIMS UFC FN",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795273200:t> (10:00 ET) PRELIMS UFC FN"
-        },
-        {
-          "display_title": "6:00 AM <t:1795273200:t> (10:00 ET) PRELIMS UFC FN",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795273200:t> (10:00 ET) PRELIMS UFC FN"
-        },
-        {
-          "display_title": "6:00 AM <t:1795284000:t> (13:00 ET) UFC FN Prochazka vs Stirling",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795284000:t> (13:00 ET) UFC FN Prochazka vs Stirling"
-        },
-        {
-          "display_title": "6:00 AM <t:1795284000:t> (13:00 ET) UFC FN Prochazka vs Stirling",
-          "slot": "PPV D 04",
-          "slot_norm": "PPV D 4",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795284000:t> (13:00 ET) UFC FN Prochazka vs Stirling"
-        },
-        {
-          "display_title": "6:00 AM <t:1795295700:t> (16:15 ET) UFC Post Fight Conference",
-          "slot": "PPV D 05",
-          "slot_norm": "PPV D 5",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795295700:t> (16:15 ET) UFC Post Fight Conference"
-        },
-        {
-          "display_title": "6:00 AM <t:1795280400:t> (12:00 ET) OKTAGON 98 Legierski vs Buchinger",
-          "slot": "PPV D 08",
-          "slot_norm": "PPV D 8",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280400:t> (12:00 ET) OKTAGON 98 Legierski vs Buchinger"
-        },
-        {
-          "display_title": "6:00 AM <t:1795280400:t> (12:00 ET) KOK 130 Freiburg",
-          "slot": "PPV D 09",
-          "slot_norm": "PPV D 9",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280400:t> (12:00 ET) KOK 130 Freiburg"
-        },
-        {
-          "display_title": "6:00 AM <t:1795280400:t> (12:00 ET) Stein vs Antonietti",
-          "slot": "PPV D 10",
-          "slot_norm": "PPV D 10",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795280400:t> (12:00 ET) Stein vs Antonietti"
-        },
-        {
-          "display_title": "6:00 AM <t:1795307100:t> (19:25 ET) USAC Southwest Sprints at Central Arizona",
-          "slot": "PPV D 12",
-          "slot_norm": "PPV D 12",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795307100:t> (19:25 ET) USAC Southwest Sprints at Central Arizona"
-        },
-        {
-          "display_title": "6:00 AM <t:1795297500:t> (16:45 ET) USAC Chase Johnson Classic at Merced",
-          "slot": "PPV D 13",
-          "slot_norm": "PPV D 13",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795297500:t> (16:45 ET) USAC Chase Johnson Classic at Merced"
-        },
-        {
-          "display_title": "6:00 AM <t:1795298400:t> (17:00 ET) Snowball Derby Preview at 5 Flags",
-          "slot": "PPV D 14",
-          "slot_norm": "PPV D 14",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795298400:t> (17:00 ET) Snowball Derby Preview at 5 Flags"
-        },
-        {
-          "display_title": "6:00 AM <t:1795303800:t> (18:30 ET) Southern Thunder Super Dirt Series Championship",
-          "slot": "PPV D 15",
-          "slot_norm": "PPV D 15",
-          "start": "2026-11-21T12:00:00-05:00",
-          "stop": "2026-11-22T00:00:00-05:00",
-          "title": "<t:1795303800:t> (18:30 ET) Southern Thunder Super Dirt Series Championship"
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795375800:t> (14:30 ET) Fight Clubbing \\#45 - Lamezia Terme"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642590544,
-      "message_timestamp": 1795312826,
+      "message_id": 642613204,
+      "message_timestamp": 1795323692,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T02:23:16.345379+00:00"
+      "updated_at": "2026-11-22T09:57:28.140562+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
