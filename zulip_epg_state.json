@@ -112,6 +112,126 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "6:00 AM <t:1795346400:t> (06:20 ET) Serie A: Juventus vs Venezia",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795346400:t> (06:20 ET) Serie A: Juventus vs Venezia"
+        },
+        {
+          "display_title": "6:00 AM <t:1795348200:t> (06:50 ET) Barclays Women's Super League: Birmingham City vs Man. United",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795348200:t> (06:50 ET) Barclays Women's Super League: Birmingham City vs Man. United"
+        },
+        {
+          "display_title": "6:00 AM <t:1795348200:t> (06:50 ET) Barclays Women's Super League: Man. City vs Tottenham",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795348200:t> (06:50 ET) Barclays Women's Super League: Man. City vs Tottenham"
+        },
+        {
+          "display_title": "6:00 AM <t:1795348200:t> (06:50 ET) English Football League: Burnley vs Blackburn Rovers",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795348200:t> (06:50 ET) English Football League: Burnley vs Blackburn Rovers"
+        },
+        {
+          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Serie A: Sassuolo vs Genoa",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795355400:t> (08:50 ET) Serie A: Sassuolo vs Genoa"
+        },
+        {
+          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Barclays Women's Super League: Everton vs Brighton",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795355400:t> (08:50 ET) Barclays Women's Super League: Everton vs Brighton"
+        },
+        {
+          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Barclays Women's Super League: Charlton Athletic vs Aston Villa",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795355400:t> (08:50 ET) Barclays Women's Super League: Charlton Athletic vs Aston Villa"
+        },
+        {
+          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Serie A: Bologna vs Udinese",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795355400:t> (08:50 ET) Serie A: Bologna vs Udinese"
+        },
+        {
+          "display_title": "6:00 AM <t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United"
+        },
+        {
+          "display_title": "6:00 AM <t:1795359600:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795359600:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
+        },
+        {
+          "display_title": "6:00 AM <t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone",
+          "slot": "PARAMOUNT 011",
+          "slot_norm": "PARAMOUNT 11",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone"
+        },
+        {
+          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
+          "slot": "PARAMOUNT 012",
+          "slot_norm": "PARAMOUNT 12",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366800:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
+        },
+        {
+          "display_title": "6:00 AM <t:1795370400:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
+          "slot": "PARAMOUNT 013",
+          "slot_norm": "PARAMOUNT 13",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795370400:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
+        },
+        {
+          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter",
+          "slot": "PARAMOUNT 014",
+          "slot_norm": "PARAMOUNT 14",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter"
+        },
+        {
+          "display_title": "6:00 AM <t:1795392000:t> (19:00 ET) CBS Sports HQ: The Postgame",
+          "slot": "PARAMOUNT 015",
+          "slot_norm": "PARAMOUNT 15",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795392000:t> (19:00 ET) CBS Sports HQ: The Postgame"
+        },
+        {
           "display_title": "6:00 AM <t:1795346400:t> (06:20 ET) Juventus vs Venezia",
           "slot": "PARAMOUNT B 001",
           "slot_norm": "PARAMOUNT B 1",
@@ -150,13 +270,37 @@
           "start": "2026-11-22T12:00:00-05:00",
           "stop": "2026-11-23T00:00:00-05:00",
           "title": "<t:1795374000:t> (14:00 ET) Atalanta vs Inter"
+        },
+        {
+          "display_title": "6:00 AM <t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United"
+        },
+        {
+          "display_title": "6:00 AM <t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone"
+        },
+        {
+          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-22T12:00:00-05:00",
+          "stop": "2026-11-23T00:00:00-05:00",
+          "title": "<t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 642640471,
-      "message_timestamp": 1795339840,
+      "message_id": 642681314,
+      "message_timestamp": 1795366869,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T09:57:28.056914+00:00"
+      "updated_at": "2026-11-22T17:55:20.640309+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -202,35 +346,27 @@
           "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
         },
         {
-          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Stein vs Antonietti",
-          "slot": "PPV C 009",
-          "slot_norm": "PPV C 9",
+          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Thor Mini Os at Gatorback",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
           "start": "2026-11-22T12:00:00-05:00",
           "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366800:t> (12:00 ET) Stein vs Antonietti"
+          "title": "<t:1795366800:t> (12:00 ET) Thor Mini Os at Gatorback"
         },
         {
-          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Stein vs Antonietti BU",
-          "slot": "PPV C 010",
-          "slot_norm": "PPV C 10",
+          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
           "start": "2026-11-22T12:00:00-05:00",
           "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366800:t> (12:00 ET) Stein vs Antonietti BU"
-        },
-        {
-          "display_title": "6:00 AM <t:1795375800:t> (14:30 ET) Fight Clubbing \\#45 - Lamezia Terme",
-          "slot": "PPV C 011",
-          "slot_norm": "PPV C 11",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795375800:t> (14:30 ET) Fight Clubbing \\#45 - Lamezia Terme"
+          "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642613204,
-      "message_timestamp": 1795323692,
+      "message_id": 642650677,
+      "message_timestamp": 1795347060,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T09:57:28.140562+00:00"
+      "updated_at": "2026-11-22T17:55:21.029486+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -366,117 +502,253 @@
       "channel": "sky-sports-plus",
       "events": [
         {
+          "display_title": "1:00 AM <t:1795347900:t> (11:45 UTC) Barclays Women's Super League Birmingham vs Man Utd",
+          "slot": "SKY SPORTS+ 01",
+          "slot_norm": "SKY SPORTS+ 1",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795347900:t> (11:45 UTC) Barclays Women's Super League Birmingham vs Man Utd"
+        },
+        {
+          "display_title": "1:00 AM <t:1795352100:t> (12:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
+          "slot": "SKY SPORTS+ 02",
+          "slot_norm": "SKY SPORTS+ 2",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795352100:t> (12:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
+        },
+        {
+          "display_title": "1:00 AM <t:1795352100:t> (12:55 UTC) Premier League Hull vs Brighton",
+          "slot": "SKY SPORTS+ 03",
+          "slot_norm": "SKY SPORTS+ 3",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795352100:t> (12:55 UTC) Premier League Hull vs Brighton"
+        },
+        {
+          "display_title": "1:00 AM <t:1795355100:t> (13:45 UTC) Barclays Women's Super League Charlton vs Aston Villa",
+          "slot": "SKY SPORTS+ 04",
+          "slot_norm": "SKY SPORTS+ 4",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795355100:t> (13:45 UTC) Barclays Women's Super League Charlton vs Aston Villa"
+        },
+        {
+          "display_title": "1:00 AM <t:1795355100:t> (13:45 UTC) Barclays Women's Super League Everton vs Brighton",
+          "slot": "SKY SPORTS+ 05",
+          "slot_norm": "SKY SPORTS+ 5",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795355100:t> (13:45 UTC) Barclays Women's Super League Everton vs Brighton"
+        },
+        {
+          "display_title": "1:00 AM <t:1795355700:t> (13:55 UTC) ATP Tour ATP Tennis M. Arevalo/M. Pavic vs T. Arribage/A. Olivetti",
+          "slot": "SKY SPORTS+ 06",
+          "slot_norm": "SKY SPORTS+ 6",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795355700:t> (13:55 UTC) ATP Tour ATP Tennis M. Arevalo/M. Pavic vs T. Arribage/A. Olivetti"
+        },
+        {
+          "display_title": "1:00 AM <t:1795355700:t> (13:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream",
+          "slot": "SKY SPORTS+ 07",
+          "slot_norm": "SKY SPORTS+ 7",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795355700:t> (13:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream"
+        },
+        {
+          "display_title": "1:00 AM <t:1795362900:t> (15:55 UTC) Premier League Liverpool vs Man Utd",
+          "slot": "SKY SPORTS+ 08",
+          "slot_norm": "SKY SPORTS+ 8",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795362900:t> (15:55 UTC) Premier League Liverpool vs Man Utd"
+        },
+        {
+          "display_title": "1:00 AM <t:1795366500:t> (16:55 UTC) ATP Tour ATP Tennis A. Zverev vs C. Alcaraz",
+          "slot": "SKY SPORTS+ 09",
+          "slot_norm": "SKY SPORTS+ 9",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795366500:t> (16:55 UTC) ATP Tour ATP Tennis A. Zverev vs C. Alcaraz"
+        },
+        {
+          "display_title": "1:00 AM <t:1795368600:t> (17:30 UTC) NFL Tampa Bay Buccaneers vs Detroit Lions",
+          "slot": "SKY SPORTS+ 10",
+          "slot_norm": "SKY SPORTS+ 10",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795368600:t> (17:30 UTC) NFL Tampa Bay Buccaneers vs Detroit Lions"
+        },
+        {
+          "display_title": "1:00 AM <t:1795370100:t> (17:55 UTC) PGA Tour RSM Classic, Day 4",
+          "slot": "SKY SPORTS+ 11",
+          "slot_norm": "SKY SPORTS+ 11",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795370100:t> (17:55 UTC) PGA Tour RSM Classic, Day 4"
+        },
+        {
+          "display_title": "1:00 AM <t:1795375500:t> (19:25 UTC) Aldersley Leisure Village Grand Slam of Darts, Final",
+          "slot": "SKY SPORTS+ 12",
+          "slot_norm": "SKY SPORTS+ 12",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795375500:t> (19:25 UTC) Aldersley Leisure Village Grand Slam of Darts, Final"
+        },
+        {
+          "display_title": "1:00 AM <t:1795382400:t> (21:20 UTC) NFL Jacksonville Jaguars vs New York Giants",
+          "slot": "SKY SPORTS+ 13",
+          "slot_norm": "SKY SPORTS+ 13",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795382400:t> (21:20 UTC) NFL Jacksonville Jaguars vs New York Giants"
+        },
+        {
+          "display_title": "1:00 AM <t:1795382400:t> (21:20 UTC) NFL Las Vegas Raiders vs Denver Broncos",
+          "slot": "SKY SPORTS+ 14",
+          "slot_norm": "SKY SPORTS+ 14",
+          "start": "2026-11-22T12:00:00+00:00",
+          "stop": "2026-11-23T00:00:00+00:00",
+          "title": "<t:1795382400:t> (21:20 UTC) NFL Las Vegas Raiders vs Denver Broncos"
+        },
+        {
           "display_title": "1:00 AM <t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Multiscreen",
           "slot": "SKY SPORTS+ 39",
           "slot_norm": "SKY SPORTS+ 39",
           "start": "2026-11-22T12:00:00+00:00",
           "stop": "2026-11-23T00:00:00+00:00",
           "title": "<t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Multiscreen"
-        },
-        {
-          "display_title": "1:00 AM <t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Onboard Mix",
-          "slot": "SKY SPORTS+ 40",
-          "slot_norm": "SKY SPORTS+ 40",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Onboard Mix"
-        },
-        {
-          "display_title": "1:00 AM <t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Timings",
-          "slot": "SKY SPORTS+ 41",
-          "slot_norm": "SKY SPORTS+ 41",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Timings"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 642574010,
-      "message_timestamp": 1795305702,
+      "message_id": 642653314,
+      "message_timestamp": 1795348861,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-22T02:23:16.550602+00:00"
+      "updated_at": "2026-11-22T17:55:21.780772+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795330800:t> (18:00 AEDT) Race: FR World Cup Macau Grand Prix 2026",
-          "slot": "AU STAN B 030",
-          "slot_norm": "AU STAN B 30",
-          "start": "2026-11-22T12:00:00+11:00",
-          "stop": "2026-11-23T00:00:00+11:00",
-          "title": "<t:1795330800:t> (18:00 AEDT) Race: FR World Cup Macau Grand Prix 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795348200:t> (22:50 AEDT) Manchester City vs Tottenham Hotspur WSL 2026/27",
-          "slot": "AU STAN B 031",
-          "slot_norm": "AU STAN B 31",
-          "start": "2026-11-22T12:00:00+11:00",
-          "stop": "2026-11-23T00:00:00+11:00",
-          "title": "<t:1795348200:t> (22:50 AEDT) Manchester City vs Tottenham Hotspur WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795348200:t> (22:50 AEDT) Birmingham City vs Manchester United WSL 2026/27",
-          "slot": "AU STAN B 032",
-          "slot_norm": "AU STAN B 32",
-          "start": "2026-11-22T12:00:00+11:00",
-          "stop": "2026-11-23T00:00:00+11:00",
-          "title": "<t:1795348200:t> (22:50 AEDT) Birmingham City vs Manchester United WSL 2026/27"
-        },
-        {
           "display_title": "2:00 PM <t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN B 033",
-          "slot_norm": "AU STAN B 33",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-11-23T12:00:00+11:00",
           "stop": "2026-11-24T00:00:00+11:00",
           "title": "<t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN B 034",
-          "slot_norm": "AU STAN B 34",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27"
-        },
-        {
           "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27",
-          "slot": "AU STAN B 035",
-          "slot_norm": "AU STAN B 35",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-11-23T12:00:00+11:00",
           "stop": "2026-11-24T00:00:00+11:00",
           "title": "<t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27"
         },
         {
+          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27"
+        },
+        {
           "display_title": "2:00 PM <t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27",
-          "slot": "AU STAN B 036",
-          "slot_norm": "AU STAN B 36",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-11-23T12:00:00+11:00",
           "stop": "2026-11-24T00:00:00+11:00",
           "title": "<t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27"
         },
         {
+          "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
+        },
+        {
           "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN B 037",
-          "slot_norm": "AU STAN B 37",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-11-23T12:00:00+11:00",
           "stop": "2026-11-24T00:00:00+11:00",
           "title": "<t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
         },
         {
+          "display_title": "2:00 PM <t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23"
+        },
+        {
+          "display_title": "2:00 PM <t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 003",
+          "slot_norm": "AU STAN B 3",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27",
+          "slot": "AU STAN B 004",
+          "slot_norm": "AU STAN B 4",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27",
+          "slot": "AU STAN B 005",
+          "slot_norm": "AU STAN B 5",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27",
+          "slot": "AU STAN B 006",
+          "slot_norm": "AU STAN B 6",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27"
+        },
+        {
           "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN B 038",
-          "slot_norm": "AU STAN B 38",
+          "slot": "AU STAN B 007",
+          "slot_norm": "AU STAN B 7",
           "start": "2026-11-23T12:00:00+11:00",
           "stop": "2026-11-24T00:00:00+11:00",
           "title": "<t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 008",
+          "slot_norm": "AU STAN B 8",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
+          "start": "2026-11-23T12:00:00+11:00",
+          "stop": "2026-11-24T00:00:00+11:00",
+          "title": "<t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23"
         }
       ],
       "group": "AU STAN",
-      "message_id": 642476083,
-      "message_timestamp": 1795266034,
+      "message_id": 642658930,
+      "message_timestamp": 1795352459,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-21T20:36:09.779561+00:00"
+      "updated_at": "2026-11-22T17:55:22.232869+00:00"
     }
   },
   "version": 1
