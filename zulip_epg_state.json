@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795388400:t> (18:00 ET) Volusia Speedway Park",
+          "display_title": "6:00 AM <t:1795395300:t> (19:55 ET) iRacing",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-22T12:00:00-05:00",
           "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795388400:t> (18:00 ET) Volusia Speedway Park"
+          "title": "<t:1795395300:t> (19:55 ET) iRacing"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 642613098,
-      "message_timestamp": 1795323654,
+      "message_id": 642722890,
+      "message_timestamp": 1795388457,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T09:57:27.974274+00:00"
+      "updated_at": "2026-11-22T23:40:58.740419+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
