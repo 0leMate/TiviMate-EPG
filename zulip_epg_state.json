@@ -4,19 +4,35 @@
       "channel": "dirtvision",
       "events": [
         {
+          "display_title": "6:00 AM <t:1795481700:t> (19:55 ET) iRacing Pro Series \\| Sprint Car",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795481700:t> (19:55 ET) iRacing Pro Series \\| Sprint Car"
+        },
+        {
           "display_title": "6:00 AM <t:1795481700:t> (19:55 ET) iRacing",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-23T12:00:00-05:00",
           "stop": "2026-11-24T00:00:00-05:00",
           "title": "<t:1795481700:t> (19:55 ET) iRacing"
+        },
+        {
+          "display_title": "6:00 AM <t:1795481700:t> (19:55 ET) iRacing Pro Series \\| Sprint Car",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795481700:t> (19:55 ET) iRacing Pro Series \\| Sprint Car"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 642769401,
-      "message_timestamp": 1795410034,
+      "message_id": 642967231,
+      "message_timestamp": 1795451454,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-23T07:55:14.758961+00:00"
+      "updated_at": "2026-11-23T20:23:33.122943+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,19 +128,99 @@
       "channel": "paramount",
       "events": [
         {
+          "display_title": "6:00 AM <t:1795442400:t> (09:00 ET) CBS Sports HQ: Morning Boxscore",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795442400:t> (09:00 ET) CBS Sports HQ: Morning Boxscore"
+        },
+        {
+          "display_title": "6:00 AM <t:1795449600:t> (11:00 ET) CBS Sports HQ: What 2 Watch",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795449600:t> (11:00 ET) CBS Sports HQ: What 2 Watch"
+        },
+        {
+          "display_title": "6:00 AM <t:1795453200:t> (12:00 ET) CBS Sports HQ: Just Football",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795453200:t> (12:00 ET) CBS Sports HQ: Just Football"
+        },
+        {
+          "display_title": "6:00 AM <t:1795460400:t> (14:00 ET) CBS Sports HQ: College Football Insiders",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795460400:t> (14:00 ET) CBS Sports HQ: College Football Insiders"
+        },
+        {
+          "display_title": "6:00 AM <t:1795462500:t> (14:35 ET) Serie A: Monza vs Fiorentina",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795462500:t> (14:35 ET) Serie A: Monza vs Fiorentina"
+        },
+        {
+          "display_title": "6:00 AM <t:1795464000:t> (15:00 ET) CBS Sports HQ: This Just In",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795464000:t> (15:00 ET) CBS Sports HQ: This Just In"
+        },
+        {
+          "display_title": "6:00 AM <t:1795467600:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795467600:t> (16:00 ET) CBS Sports HQ: CBS Sports HQ Spotlight"
+        },
+        {
+          "display_title": "6:00 AM <t:1795474800:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795474800:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
+        },
+        {
+          "display_title": "6:00 AM <t:1795482000:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795482000:t> (20:00 ET) CBS Sports HQ: Scoreboard & Highlights"
+        },
+        {
           "display_title": "6:00 AM <t:1795462500:t> (14:35 ET) Monza vs Fiorentina",
-          "slot": "PARAMOUNT B 006",
-          "slot_norm": "PARAMOUNT B 6",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
           "start": "2026-11-23T12:00:00-05:00",
           "stop": "2026-11-24T00:00:00-05:00",
           "title": "<t:1795462500:t> (14:35 ET) Monza vs Fiorentina"
+        },
+        {
+          "display_title": "6:00 AM <t:1795462500:t> (14:35 ET) Serie A: Monza vs Fiorentina",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795462500:t> (14:35 ET) Serie A: Monza vs Fiorentina"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 642769471,
-      "message_timestamp": 1795410046,
+      "message_id": 642934044,
+      "message_timestamp": 1795446064,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-23T07:55:15.247397+00:00"
+      "updated_at": "2026-11-23T20:23:33.347672+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -168,13 +264,37 @@
           "start": "2026-11-23T12:00:00-05:00",
           "stop": "2026-11-24T00:00:00-05:00",
           "title": "<t:1795485600:t> (21:00 ET) USAC National Midgets Plaza Park"
+        },
+        {
+          "display_title": "6:00 AM <t:1795474800:t> (18:00 ET) WWE Monday Night Raw",
+          "slot": "PPV D 01",
+          "slot_norm": "PPV D 1",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795474800:t> (18:00 ET) WWE Monday Night Raw"
+        },
+        {
+          "display_title": "6:00 AM <t:1795435200:t> (07:00 ET) Thor Mini Os at Gatorback",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795435200:t> (07:00 ET) Thor Mini Os at Gatorback"
+        },
+        {
+          "display_title": "6:00 AM <t:1795485600:t> (21:00 ET) USAC NOS Energy Drink Midgets at Plaza Park",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795485600:t> (21:00 ET) USAC NOS Energy Drink Midgets at Plaza Park"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642769423,
-      "message_timestamp": 1795410038,
+      "message_id": 642891007,
+      "message_timestamp": 1795438843,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-23T07:55:15.708311+00:00"
+      "updated_at": "2026-11-23T20:23:33.574808+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -310,253 +430,101 @@
       "channel": "sky-sports-plus",
       "events": [
         {
-          "display_title": "1:00 AM <t:1795347900:t> (11:45 UTC) Barclays Women's Super League Birmingham vs Man Utd",
+          "display_title": "1:00 AM <t:1795458300:t> (18:25 UTC) Premier League Brentford vs Everton",
           "slot": "SKY SPORTS+ 01",
           "slot_norm": "SKY SPORTS+ 1",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795347900:t> (11:45 UTC) Barclays Women's Super League Birmingham vs Man Utd"
+          "start": "2026-11-23T12:00:00+00:00",
+          "stop": "2026-11-24T00:00:00+00:00",
+          "title": "<t:1795458300:t> (18:25 UTC) Premier League Brentford vs Everton"
         },
         {
-          "display_title": "1:00 AM <t:1795352100:t> (12:55 UTC) Aldersley Leisure Village Grand Slam of Darts",
+          "display_title": "1:00 AM <t:1795478100:t> (23:55 UTC) NBA Nets vs Timberwolves",
           "slot": "SKY SPORTS+ 02",
           "slot_norm": "SKY SPORTS+ 2",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795352100:t> (12:55 UTC) Aldersley Leisure Village Grand Slam of Darts"
-        },
-        {
-          "display_title": "1:00 AM <t:1795352100:t> (12:55 UTC) Premier League Hull vs Brighton",
-          "slot": "SKY SPORTS+ 03",
-          "slot_norm": "SKY SPORTS+ 3",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795352100:t> (12:55 UTC) Premier League Hull vs Brighton"
-        },
-        {
-          "display_title": "1:00 AM <t:1795355100:t> (13:45 UTC) Barclays Women's Super League Charlton vs Aston Villa",
-          "slot": "SKY SPORTS+ 04",
-          "slot_norm": "SKY SPORTS+ 4",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795355100:t> (13:45 UTC) Barclays Women's Super League Charlton vs Aston Villa"
-        },
-        {
-          "display_title": "1:00 AM <t:1795355100:t> (13:45 UTC) Barclays Women's Super League Everton vs Brighton",
-          "slot": "SKY SPORTS+ 05",
-          "slot_norm": "SKY SPORTS+ 5",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795355100:t> (13:45 UTC) Barclays Women's Super League Everton vs Brighton"
-        },
-        {
-          "display_title": "1:00 AM <t:1795355700:t> (13:55 UTC) ATP Tour ATP Tennis M. Arevalo/M. Pavic vs T. Arribage/A. Olivetti",
-          "slot": "SKY SPORTS+ 06",
-          "slot_norm": "SKY SPORTS+ 6",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795355700:t> (13:55 UTC) ATP Tour ATP Tennis M. Arevalo/M. Pavic vs T. Arribage/A. Olivetti"
-        },
-        {
-          "display_title": "1:00 AM <t:1795355700:t> (13:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream",
-          "slot": "SKY SPORTS+ 07",
-          "slot_norm": "SKY SPORTS+ 7",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795355700:t> (13:55 UTC) ATP Tour ATP Tour Finals Analysis ATP Finals Analysis Stream"
-        },
-        {
-          "display_title": "1:00 AM <t:1795362900:t> (15:55 UTC) Premier League Liverpool vs Man Utd",
-          "slot": "SKY SPORTS+ 08",
-          "slot_norm": "SKY SPORTS+ 8",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795362900:t> (15:55 UTC) Premier League Liverpool vs Man Utd"
-        },
-        {
-          "display_title": "1:00 AM <t:1795366500:t> (16:55 UTC) ATP Tour ATP Tennis A. Zverev vs C. Alcaraz",
-          "slot": "SKY SPORTS+ 09",
-          "slot_norm": "SKY SPORTS+ 9",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795366500:t> (16:55 UTC) ATP Tour ATP Tennis A. Zverev vs C. Alcaraz"
-        },
-        {
-          "display_title": "1:00 AM <t:1795368600:t> (17:30 UTC) NFL Tampa Bay Buccaneers vs Detroit Lions",
-          "slot": "SKY SPORTS+ 10",
-          "slot_norm": "SKY SPORTS+ 10",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795368600:t> (17:30 UTC) NFL Tampa Bay Buccaneers vs Detroit Lions"
-        },
-        {
-          "display_title": "1:00 AM <t:1795370100:t> (17:55 UTC) PGA Tour RSM Classic, Day 4",
-          "slot": "SKY SPORTS+ 11",
-          "slot_norm": "SKY SPORTS+ 11",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795370100:t> (17:55 UTC) PGA Tour RSM Classic, Day 4"
-        },
-        {
-          "display_title": "1:00 AM <t:1795375500:t> (19:25 UTC) Aldersley Leisure Village Grand Slam of Darts, Final",
-          "slot": "SKY SPORTS+ 12",
-          "slot_norm": "SKY SPORTS+ 12",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795375500:t> (19:25 UTC) Aldersley Leisure Village Grand Slam of Darts, Final"
-        },
-        {
-          "display_title": "1:00 AM <t:1795382400:t> (21:20 UTC) NFL Jacksonville Jaguars vs New York Giants",
-          "slot": "SKY SPORTS+ 13",
-          "slot_norm": "SKY SPORTS+ 13",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795382400:t> (21:20 UTC) NFL Jacksonville Jaguars vs New York Giants"
-        },
-        {
-          "display_title": "1:00 AM <t:1795382400:t> (21:20 UTC) NFL Las Vegas Raiders vs Denver Broncos",
-          "slot": "SKY SPORTS+ 14",
-          "slot_norm": "SKY SPORTS+ 14",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795382400:t> (21:20 UTC) NFL Las Vegas Raiders vs Denver Broncos"
-        },
-        {
-          "display_title": "1:00 AM <t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Multiscreen",
-          "slot": "SKY SPORTS+ 39",
-          "slot_norm": "SKY SPORTS+ 39",
-          "start": "2026-11-22T12:00:00+00:00",
-          "stop": "2026-11-23T00:00:00+00:00",
-          "title": "<t:1795314600:t> (02:30 UTC) F1 More From The Pit Wall Multiscreen"
+          "start": "2026-11-23T12:00:00+00:00",
+          "stop": "2026-11-24T00:00:00+00:00",
+          "title": "<t:1795478100:t> (23:55 UTC) NBA Nets vs Timberwolves"
         }
       ],
       "group": "SKY SPORTS+",
-      "message_id": 642653314,
-      "message_timestamp": 1795348861,
+      "message_id": 642848846,
+      "message_timestamp": 1795429865,
       "timezone": "Europe/London",
-      "updated_at": "2026-11-22T17:55:21.780772+00:00"
+      "updated_at": "2026-11-23T20:23:34.048428+00:00"
     },
     "stan-sport": {
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027",
+          "display_title": "2:00 PM <t:1795462200:t> (06:30 AEDT) Brentford vs Everton Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
+          "start": "2026-11-24T12:00:00+11:00",
+          "stop": "2026-11-25T00:00:00+11:00",
+          "title": "<t:1795462200:t> (06:30 AEDT) Brentford vs Everton Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795463100:t> (06:45 AEDT) Brentford vs Everton: Hello Sport Coverage Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
+          "start": "2026-11-24T12:00:00+11:00",
+          "stop": "2026-11-25T00:00:00+11:00",
+          "title": "<t:1795463100:t> (06:45 AEDT) Brentford vs Everton: Hello Sport Coverage Premier League Matchweek 11 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795542000:t> (04:40 AEDT) Galatasaray vs Aston Villa UEFA Champions League Matchday 5 2026/2027",
           "slot": "AU STAN 003",
           "slot_norm": "AU STAN 3",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027"
+          "start": "2026-11-25T12:00:00+11:00",
+          "stop": "2026-11-26T00:00:00+11:00",
+          "title": "<t:1795542000:t> (04:40 AEDT) Galatasaray vs Aston Villa UEFA Champions League Matchday 5 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27",
+          "display_title": "2:00 PM <t:1795542000:t> (04:40 AEDT) Bodø / Glimt vs LASK UEFA Champions League Matchday 5 2026/2027",
           "slot": "AU STAN 004",
           "slot_norm": "AU STAN 4",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27"
+          "start": "2026-11-25T12:00:00+11:00",
+          "stop": "2026-11-26T00:00:00+11:00",
+          "title": "<t:1795542000:t> (04:40 AEDT) Bodø / Glimt vs LASK UEFA Champions League Matchday 5 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27"
+          "display_title": "2:00 PM <t:1795462200:t> (06:30 AEDT) Brentford vs Everton Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 001",
+          "slot_norm": "AU STAN B 1",
+          "start": "2026-11-24T12:00:00+11:00",
+          "stop": "2026-11-25T00:00:00+11:00",
+          "title": "<t:1795462200:t> (06:30 AEDT) Brentford vs Everton Premier League Matchweek 11 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27"
+          "display_title": "2:00 PM <t:1795463100:t> (06:45 AEDT) Brentford vs Everton: Hello Sport Coverage Premier League Matchweek 11 2026/2027",
+          "slot": "AU STAN B 002",
+          "slot_norm": "AU STAN B 2",
+          "start": "2026-11-24T12:00:00+11:00",
+          "stop": "2026-11-25T00:00:00+11:00",
+          "title": "<t:1795463100:t> (06:45 AEDT) Brentford vs Everton: Hello Sport Coverage Premier League Matchweek 11 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23"
-        },
-        {
-          "display_title": "2:00 PM <t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027",
+          "display_title": "2:00 PM <t:1795542000:t> (04:40 AEDT) Galatasaray vs Aston Villa UEFA Champions League Matchday 5 2026/2027",
           "slot": "AU STAN B 003",
           "slot_norm": "AU STAN B 3",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795352400:t> (00:00 AEDT) Hull City vs Brighton & Hove Albion Premier League Matchweek 11 2026/2027"
+          "start": "2026-11-25T12:00:00+11:00",
+          "stop": "2026-11-26T00:00:00+11:00",
+          "title": "<t:1795542000:t> (04:40 AEDT) Galatasaray vs Aston Villa UEFA Champions League Matchday 5 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27",
+          "display_title": "2:00 PM <t:1795542000:t> (04:40 AEDT) Bodø / Glimt vs LASK UEFA Champions League Matchday 5 2026/2027",
           "slot": "AU STAN B 004",
           "slot_norm": "AU STAN B 4",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795355400:t> (00:50 AEDT) Charlton Athletic vs Aston Villa WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795355400:t> (00:50 AEDT) Everton vs Brighton & Hove Albion WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795357200:t> (01:20 AEDT) Arsenal vs West Ham United WSL 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN B 007",
-          "slot_norm": "AU STAN B 7",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795364400:t> (03:20 AEDT) Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027",
-          "slot": "AU STAN B 008",
-          "slot_norm": "AU STAN B 8",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795364400:t> (03:20 AEDT) • Liverpool vs Manchester United Premier League Matchweek 11 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-11-23T12:00:00+11:00",
-          "stop": "2026-11-24T00:00:00+11:00",
-          "title": "<t:1795374000:t> (06:00 AEDT) PL Weekend Wrap: Matchweek 11 Nov 23"
+          "start": "2026-11-25T12:00:00+11:00",
+          "stop": "2026-11-26T00:00:00+11:00",
+          "title": "<t:1795542000:t> (04:40 AEDT) Bodø / Glimt vs LASK UEFA Champions League Matchday 5 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 642658930,
-      "message_timestamp": 1795352459,
+      "message_id": 642891237,
+      "message_timestamp": 1795438882,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-22T17:55:22.232869+00:00"
+      "updated_at": "2026-11-23T20:23:34.312039+00:00"
     }
   },
   "version": 1
