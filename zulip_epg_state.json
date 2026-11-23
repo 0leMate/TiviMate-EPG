@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795395300:t> (19:55 ET) iRacing",
+          "display_title": "6:00 AM <t:1795481700:t> (19:55 ET) iRacing",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795395300:t> (19:55 ET) iRacing"
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795481700:t> (19:55 ET) iRacing"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 642722890,
-      "message_timestamp": 1795388457,
+      "message_id": 642769401,
+      "message_timestamp": 1795410034,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T23:40:58.740419+00:00"
+      "updated_at": "2026-11-23T07:55:14.758961+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,261 +112,69 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795346400:t> (06:20 ET) Serie A: Juventus vs Venezia",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795346400:t> (06:20 ET) Serie A: Juventus vs Venezia"
-        },
-        {
-          "display_title": "6:00 AM <t:1795348200:t> (06:50 ET) Barclays Women's Super League: Birmingham City vs Man. United",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795348200:t> (06:50 ET) Barclays Women's Super League: Birmingham City vs Man. United"
-        },
-        {
-          "display_title": "6:00 AM <t:1795348200:t> (06:50 ET) Barclays Women's Super League: Man. City vs Tottenham",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795348200:t> (06:50 ET) Barclays Women's Super League: Man. City vs Tottenham"
-        },
-        {
-          "display_title": "6:00 AM <t:1795348200:t> (06:50 ET) English Football League: Burnley vs Blackburn Rovers",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795348200:t> (06:50 ET) English Football League: Burnley vs Blackburn Rovers"
-        },
-        {
-          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Serie A: Sassuolo vs Genoa",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795355400:t> (08:50 ET) Serie A: Sassuolo vs Genoa"
-        },
-        {
-          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Barclays Women's Super League: Everton vs Brighton",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795355400:t> (08:50 ET) Barclays Women's Super League: Everton vs Brighton"
-        },
-        {
-          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Barclays Women's Super League: Charlton Athletic vs Aston Villa",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795355400:t> (08:50 ET) Barclays Women's Super League: Charlton Athletic vs Aston Villa"
-        },
-        {
-          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Serie A: Bologna vs Udinese",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795355400:t> (08:50 ET) Serie A: Bologna vs Udinese"
-        },
-        {
-          "display_title": "6:00 AM <t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United"
-        },
-        {
-          "display_title": "6:00 AM <t:1795359600:t> (10:00 ET) CBS Sports HQ: The NFL Today +",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795359600:t> (10:00 ET) CBS Sports HQ: The NFL Today +"
-        },
-        {
-          "display_title": "6:00 AM <t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone",
-          "slot": "PARAMOUNT 011",
-          "slot_norm": "PARAMOUNT 11",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone"
-        },
-        {
-          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) CBS Sports HQ: Gameday Pregame",
-          "slot": "PARAMOUNT 012",
-          "slot_norm": "PARAMOUNT 12",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366800:t> (12:00 ET) CBS Sports HQ: Gameday Pregame"
-        },
-        {
-          "display_title": "6:00 AM <t:1795370400:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard",
-          "slot": "PARAMOUNT 013",
-          "slot_norm": "PARAMOUNT 13",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795370400:t> (13:00 ET) CBS Sports HQ: HQ Gameday Scoreboard"
-        },
-        {
-          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter",
-          "slot": "PARAMOUNT 014",
-          "slot_norm": "PARAMOUNT 14",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter"
-        },
-        {
-          "display_title": "6:00 AM <t:1795392000:t> (19:00 ET) CBS Sports HQ: The Postgame",
-          "slot": "PARAMOUNT 015",
-          "slot_norm": "PARAMOUNT 15",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795392000:t> (19:00 ET) CBS Sports HQ: The Postgame"
-        },
-        {
-          "display_title": "6:00 AM <t:1795346400:t> (06:20 ET) Juventus vs Venezia",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795346400:t> (06:20 ET) Juventus vs Venezia"
-        },
-        {
-          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Bologna vs Udinese",
-          "slot": "PARAMOUNT B 002",
-          "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795355400:t> (08:50 ET) Bologna vs Udinese"
-        },
-        {
-          "display_title": "6:00 AM <t:1795355400:t> (08:50 ET) Sassuolo vs Genoa",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795355400:t> (08:50 ET) Sassuolo vs Genoa"
-        },
-        {
-          "display_title": "6:00 AM <t:1795366200:t> (11:50 ET) Milan vs Frosinone",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366200:t> (11:50 ET) Milan vs Frosinone"
-        },
-        {
-          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Atalanta vs Inter",
-          "slot": "PARAMOUNT B 005",
-          "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795374000:t> (14:00 ET) Atalanta vs Inter"
-        },
-        {
-          "display_title": "6:00 AM <t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795356000:t> (09:00 ET) Barclays Women's Super League: Arsenal vs West Ham United"
-        },
-        {
-          "display_title": "6:00 AM <t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366200:t> (11:50 ET) Serie A: Milan vs Frosinone"
-        },
-        {
-          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795374000:t> (14:00 ET) Serie A: Atalanta vs Inter"
+          "display_title": "6:00 AM <t:1795462500:t> (14:35 ET) Monza vs Fiorentina",
+          "slot": "PARAMOUNT B 006",
+          "slot_norm": "PARAMOUNT B 6",
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795462500:t> (14:35 ET) Monza vs Fiorentina"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 642681314,
-      "message_timestamp": 1795366869,
+      "message_id": 642769471,
+      "message_timestamp": 1795410046,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T17:55:20.640309+00:00"
+      "updated_at": "2026-11-23T07:55:15.247397+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback",
+          "display_title": "6:00 AM <t:1795474800:t> (18:00 ET) WWE Monday Night RAW",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback"
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795474800:t> (18:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday",
+          "display_title": "6:00 AM <t:1795485600:t> (21:00 ET) USAC National Midgets Plaza Park",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795485600:t> (21:00 ET) USAC National Midgets Plaza Park"
         },
         {
-          "display_title": "6:00 AM <t:1795359600:t> (10:00 ET) UFC Fight Nigh - Special Feed",
+          "display_title": "6:00 AM <t:1795446000:t> (10:00 ET) UFC Fight Nigh - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795359600:t> (10:00 ET) UFC Fight Nigh - Special Feed"
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795446000:t> (10:00 ET) UFC Fight Nigh - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback",
+          "display_title": "6:00 AM <t:1795474800:t> (18:00 ET) WWE Monday Night RAW",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366800:t> (12:00 ET) Thor Mini Os Gatorback"
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795474800:t> (18:00 ET) WWE Monday Night RAW"
         },
         {
-          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday",
+          "display_title": "6:00 AM <t:1795485600:t> (21:00 ET) USAC National Midgets Plaza Park",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
-        },
-        {
-          "display_title": "6:00 AM <t:1795366800:t> (12:00 ET) Thor Mini Os at Gatorback",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795366800:t> (12:00 ET) Thor Mini Os at Gatorback"
-        },
-        {
-          "display_title": "6:00 AM <t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-22T12:00:00-05:00",
-          "stop": "2026-11-23T00:00:00-05:00",
-          "title": "<t:1795374000:t> (14:00 ET) Georgia State Race Championship Sunday"
+          "start": "2026-11-23T12:00:00-05:00",
+          "stop": "2026-11-24T00:00:00-05:00",
+          "title": "<t:1795485600:t> (21:00 ET) USAC National Midgets Plaza Park"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 642650677,
-      "message_timestamp": 1795347060,
+      "message_id": 642769423,
+      "message_timestamp": 1795410038,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-22T17:55:21.029486+00:00"
+      "updated_at": "2026-11-23T07:55:15.708311+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
