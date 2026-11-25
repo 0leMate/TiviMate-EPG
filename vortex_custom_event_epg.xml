@@ -7007,7 +7007,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 18:45 USAC Jason Leffler Memorial Kern</display-name>
+    <display-name>PPV 02: 19:45 USAC Jason Leffler Memorial Kern</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -7187,7 +7187,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02: 18:45 USAC Jason Leffler Memorial Kern</display-name>
+    <display-name>PPV B 02: 19:45 USAC Jason Leffler Memorial Kern</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
@@ -12449,96 +12449,12 @@
     <display-name>PPV2 16</display-name>
     <display-name>PAY PER VIEW 2</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <display-name>SKY SPORTS+ 01</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <display-name>SKY SPORTS+ 02</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <display-name>SKY SPORTS+ 03</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <display-name>SKY SPORTS+ 04</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <display-name>SKY SPORTS+ 05</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <display-name>SKY SPORTS+ 06</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <display-name>SKY SPORTS+ 07</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <display-name>SKY SPORTS+ 08</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <display-name>SKY SPORTS+ 09</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <display-name>SKY SPORTS+ 10</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.11">
-    <display-name>SKY SPORTS+ 11</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.12">
-    <display-name>SKY SPORTS+ 12</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.13">
-    <display-name>SKY SPORTS+ 13</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.14">
-    <display-name>SKY SPORTS+ 14</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.15">
-    <display-name>SKY SPORTS+ 15</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.16">
-    <display-name>SKY SPORTS+ 16</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.17">
-    <display-name>SKY SPORTS+ 17</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.18">
-    <display-name>SKY SPORTS+ 18</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.19">
-    <display-name>SKY SPORTS+ 19</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
   <channel id="custom.SKY.SPORTS.SKY.SPORTS.20">
     <display-name>SKY SPORTS+ 20</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.01">
-    <display-name>SKY SPORTS+ B 01</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.02">
-    <display-name>SKY SPORTS+ B 02</display-name>
-    <display-name>SKY SPORTS+</display-name>
-  </channel>
-  <channel id="custom.SKY.SPORTS.SKY.SPORTS.B.03">
-    <display-name>SKY SPORTS+ B 03</display-name>
+  <channel id="custom.SKY.SPORTS.SKY.SPORTS.21">
+    <display-name>SKY SPORTS+ 21</display-name>
     <display-name>SKY SPORTS+</display-name>
   </channel>
   <programme start="20261125120000 +1100" stop="20261126000000 +1100" channel="custom.AU.STAN.AU.STAN.001">
@@ -14667,7 +14583,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261125000000 -0500" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>6:00 AM &lt;t:1795563900:t&gt; (18:45 ET) USAC Jason Leffler Memorial Kern</title>
+    <title>6:00 AM &lt;t:1795567500:t&gt; (19:45 ET) USAC Jason Leffler Memorial Kern</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14682,7 +14598,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261124120000 -0500" stop="20261125000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>6:00 AM &lt;t:1795563900:t&gt; (18:45 ET) USAC Jason Leffler Memorial Kern</title>
+    <title>6:00 AM &lt;t:1795567500:t&gt; (19:45 ET) USAC Jason Leffler Memorial Kern</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14701,118 +14617,13 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.01">
-    <title>1:00 AM &lt;t:1795545900:t&gt; (18:45 UTC) EFL EFL Trophy Fleetwood vs Leeds U21</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.02">
-    <title>1:00 AM &lt;t:1795545900:t&gt; (18:45 UTC) EFL EFL Trophy Oxford U vs Tottenham U21</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.03">
-    <title>1:00 AM &lt;t:1795545900:t&gt; (18:45 UTC) EFL EFL Trophy Salford vs Sunderland U21</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.04">
-    <title>1:00 AM &lt;t:1795545900:t&gt; (18:45 UTC) EFL EFL Trophy Tranmere vs Everton U21</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.05">
-    <title>1:00 AM &lt;t:1795548300:t&gt; (19:25 UTC) EFL Championship Wolves vs Derby</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.06">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Bristol C vs Wrexham</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.07">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Cardiff vs Preston</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.08">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Charlton vs Lincoln</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.09">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Middlesbrough vs Swansea</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.10">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Norwich vs QPR</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.11">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Portsmouth vs West Ham</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.12">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL Championship Sheff Utd vs Southampton</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.13">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL League One Blackpool vs Leicester</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.14">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL League One Bradford vs Barnsley</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.15">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL League One Bromley vs Wycombe</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.16">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL League One Stevenage vs Sheff Wed</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.17">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL League Two Crawley vs Barnet</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.18">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) EFL League Two Port Vale vs Northampton</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.19">
-    <title>1:00 AM &lt;t:1795564500:t&gt; (23:55 UTC) Basketball NBA Boston Celtics vs Washington Wizards</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
   <programme start="20261125120000 +0000" stop="20261126000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.20">
     <title>1:00 AM &lt;t:1795575300:t&gt; (02:55 UTC) Basketball NBA Dallas Mavericks vs Denver Nuggets</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.01">
-    <title>1:00 AM &lt;t:1795548300:t&gt; (19:25 UTC) Wolves vs Derby</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.02">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) Middlesbrough vs Swansea</title>
-    <category>Sports</category>
-    <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
-  </programme>
-  <programme start="20261124120000 +0000" stop="20261125000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.B.03">
-    <title>1:00 AM &lt;t:1795548600:t&gt; (19:30 UTC) Bristol C vs Wrexham</title>
+  <programme start="20261125120000 +0000" stop="20261126000000 +0000" channel="custom.SKY.SPORTS.SKY.SPORTS.21">
+    <title>1:00 AM &lt;t:1795593600:t&gt; (08:00 UTC) Cricket Cricket Melbourne Renegades vs Brisbane Heat</title>
     <category>Sports</category>
     <desc>Zulip #sky-sports-plus • SKY SPORTS+</desc>
   </programme>
