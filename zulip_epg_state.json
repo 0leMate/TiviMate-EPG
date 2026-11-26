@@ -512,107 +512,139 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795600500:t> (20:55 AEDT) Fagiano Okayama vs Shimizu SPulse J.League 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795600500:t> (20:55 AEDT) Fagiano Okayama vs Shimizu SPulse J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795600500:t> (20:55 AEDT) Mito vs Tokyo Verdy J.League 2026",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795600500:t> (20:55 AEDT) Mito vs Tokyo Verdy J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795600500:t> (20:55 AEDT) Nagasaki vs Kawasaki Frontale J.League 2026",
-          "slot": "AU STAN 003",
-          "slot_norm": "AU STAN 3",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795600500:t> (20:55 AEDT) Nagasaki vs Kawasaki Frontale J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795611300:t> (23:55 AEDT) Sporting CP U19 vs Manchester United U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795611300:t> (23:55 AEDT) Sporting CP U19 vs Manchester United U19 UEFA Youth League 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795628400:t> (04:40 AEDT) Sabah vs Barcelona UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
+          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Sporting CP vs Manchester United UEFA Champions League Matchday 5 2026/2027",
+          "slot": "AU STAN B 009",
+          "slot_norm": "AU STAN B 9",
           "start": "2026-11-26T12:00:00+11:00",
           "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795628400:t> (04:40 AEDT) Sabah vs Barcelona UEFA Champions League Matchday 5 2026/2027"
+          "title": "<t:1795636500:t> (06:55 AEDT) Sporting CP vs Manchester United UEFA Champions League Matchday 5 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795628400:t> (04:40 AEDT) Slavia Praha vs Villarreal UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
+          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Lille vs Bayern München UEFA Champions League Matchday 5 2026/2027",
+          "slot": "AU STAN B 010",
+          "slot_norm": "AU STAN B 10",
           "start": "2026-11-26T12:00:00+11:00",
           "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795628400:t> (04:40 AEDT) Slavia Praha vs Villarreal UEFA Champions League Matchday 5 2026/2027"
+          "title": "<t:1795636500:t> (06:55 AEDT) Lille vs Bayern München UEFA Champions League Matchday 5 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795600500:t> (20:55 AEDT) Fagiano Okayama vs Shimizu SPulse J.League 2026",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795600500:t> (20:55 AEDT) Fagiano Okayama vs Shimizu SPulse J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795600500:t> (20:55 AEDT) Mito vs Tokyo Verdy J.League 2026",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795600500:t> (20:55 AEDT) Mito vs Tokyo Verdy J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795600500:t> (20:55 AEDT) Nagasaki vs Kawasaki Frontale J.League 2026",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795600500:t> (20:55 AEDT) Nagasaki vs Kawasaki Frontale J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795611300:t> (23:55 AEDT) Sporting CP U19 vs Manchester United U19 UEFA Youth League 2026/2027",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
-          "start": "2026-11-25T12:00:00+11:00",
-          "stop": "2026-11-26T00:00:00+11:00",
-          "title": "<t:1795611300:t> (23:55 AEDT) Sporting CP U19 vs Manchester United U19 UEFA Youth League 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795628400:t> (04:40 AEDT) Sabah vs Barcelona UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
+          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Paris SaintGermain vs Roma UEFA Champions League Matchday 5 2026/2027",
+          "slot": "AU STAN B 011",
+          "slot_norm": "AU STAN B 11",
           "start": "2026-11-26T12:00:00+11:00",
           "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795628400:t> (04:40 AEDT) Sabah vs Barcelona UEFA Champions League Matchday 5 2026/2027"
+          "title": "<t:1795636500:t> (06:55 AEDT) Paris SaintGermain vs Roma UEFA Champions League Matchday 5 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795628400:t> (04:40 AEDT) Slavia Praha vs Villarreal UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
+          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Atlético de Madrid vs Viking UEFA Champions League Matchday 5 2026/2027",
+          "slot": "AU STAN B 012",
+          "slot_norm": "AU STAN B 12",
           "start": "2026-11-26T12:00:00+11:00",
           "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795628400:t> (04:40 AEDT) Slavia Praha vs Villarreal UEFA Champions League Matchday 5 2026/2027"
+          "title": "<t:1795636500:t> (06:55 AEDT) Atlético de Madrid vs Viking UEFA Champions League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Internazionale vs Stuttgart UEFA Champions League Matchday 5 2026/2027",
+          "slot": "AU STAN B 013",
+          "slot_norm": "AU STAN B 13",
+          "start": "2026-11-26T12:00:00+11:00",
+          "stop": "2026-11-27T00:00:00+11:00",
+          "title": "<t:1795636500:t> (06:55 AEDT) Internazionale vs Stuttgart UEFA Champions League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Shakhtar Donetsk vs Fenerbahçe UEFA Champions League Matchday 5 2026/2027",
+          "slot": "AU STAN B 014",
+          "slot_norm": "AU STAN B 14",
+          "start": "2026-11-26T12:00:00+11:00",
+          "stop": "2026-11-27T00:00:00+11:00",
+          "title": "<t:1795636500:t> (06:55 AEDT) Shakhtar Donetsk vs Fenerbahçe UEFA Champions League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795706700:t> (02:25 AEDT) Kairat vs Mjällby UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN B 015",
+          "slot_norm": "AU STAN B 15",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795706700:t> (02:25 AEDT) Kairat vs Mjällby UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Celta de Vigo vs Bournemouth UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 016",
+          "slot_norm": "AU STAN B 16",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Celta de Vigo vs Bournemouth UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Olympiakos Piraeus vs Milan UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 017",
+          "slot_norm": "AU STAN B 17",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Olympiakos Piraeus vs Milan UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Viktoria Plzeň vs Benfica UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 018",
+          "slot_norm": "AU STAN B 18",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Viktoria Plzeň vs Benfica UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Union SaintGilloise vs Lech Poznań UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 019",
+          "slot_norm": "AU STAN B 19",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Union SaintGilloise vs Lech Poznań UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Beşiktaş vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 020",
+          "slot_norm": "AU STAN B 20",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Beşiktaş vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Dinamo Zagreb vs Bayer 04 Leverkusen UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 021",
+          "slot_norm": "AU STAN B 21",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Dinamo Zagreb vs Bayer 04 Leverkusen UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Salzburg vs AraratArmenia UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 022",
+          "slot_norm": "AU STAN B 22",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Salzburg vs AraratArmenia UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Olympique Marseille vs Levski Sofia UEFA Europa League Matchday 5 2026/2027",
+          "slot": "AU STAN B 023",
+          "slot_norm": "AU STAN B 23",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Olympique Marseille vs Levski Sofia UEFA Europa League Matchday 5 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Iberia 1999 vs Getafe UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN B 024",
+          "slot_norm": "AU STAN B 24",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Iberia 1999 vs Getafe UEFA Conference League Matchday 4 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 643549111,
-      "message_timestamp": 1795606222,
+      "message_id": 643727274,
+      "message_timestamp": 1795651309,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-25T14:41:12.568934+00:00"
+      "updated_at": "2026-11-26T00:32:47.762860+00:00"
     }
   },
   "version": 1
