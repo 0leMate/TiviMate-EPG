@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795654500:t> (19:55 ET) iRacing",
+          "display_title": "6:00 AM <t:1795740900:t> (19:55 ET) iRacing",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795654500:t> (19:55 ET) iRacing"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795740900:t> (19:55 ET) iRacing"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 643468595,
-      "message_timestamp": 1795582827,
+      "message_id": 643767717,
+      "message_timestamp": 1795669235,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-25T14:41:12.095728+00:00"
+      "updated_at": "2026-11-26T11:09:15.910541+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,221 +112,269 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) Club Brugge vs Liverpool",
+          "display_title": "6:00 AM <t:1795706400:t> (10:20 ET) Kairat Almaty vs Mjällby",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795706400:t> (10:20 ET) Kairat Almaty vs Mjällby"
+        },
+        {
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Olympiacos vs Milan",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Olympiacos vs Milan"
+        },
+        {
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) The Golazo Show",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) The Golazo Show"
+        },
+        {
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Celta Vigo vs AFC Bournemouth",
           "slot": "PARAMOUNT B 004",
           "slot_norm": "PARAMOUNT B 4",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) Club Brugge vs Liverpool"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Celta Vigo vs AFC Bournemouth"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) PSG vs Roma",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Viktoria Plzeň vs Benfica",
           "slot": "PARAMOUNT B 005",
           "slot_norm": "PARAMOUNT B 5",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) PSG vs Roma"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Viktoria Plzeň vs Benfica"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) The Golazo Show",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Marseille vs Levski Sofia",
           "slot": "PARAMOUNT B 006",
           "slot_norm": "PARAMOUNT B 6",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) The Golazo Show"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Marseille vs Levski Sofia"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) Lille vs Bayern",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Beşiktaş vs Hapoel Beer Sheva",
           "slot": "PARAMOUNT B 007",
           "slot_norm": "PARAMOUNT B 7",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) Lille vs Bayern"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Beşiktaş vs Hapoel Beer Sheva"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) Inter vs Stuttgart",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Dinamo Zagreb vs Bayer Leverkusen",
           "slot": "PARAMOUNT B 008",
           "slot_norm": "PARAMOUNT B 8",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) Inter vs Stuttgart"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Dinamo Zagreb vs Bayer Leverkusen"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) Atlético Madrid vs Viking",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) RB Salzburg vs Ararat Armenia",
           "slot": "PARAMOUNT B 009",
           "slot_norm": "PARAMOUNT B 9",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) Atlético Madrid vs Viking"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) RB Salzburg vs Ararat Armenia"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) Shakhtar Donetsk vs Fenerbahçe",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Union Saint Gilloise vs Lech Poznań",
           "slot": "PARAMOUNT B 010",
           "slot_norm": "PARAMOUNT B 10",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) Shakhtar Donetsk vs Fenerbahçe"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Union Saint Gilloise vs Lech Poznań"
         },
         {
-          "display_title": "6:00 AM <t:1795626000:t> (12:00 ET) UEFA Champions League: Sabah vs Barcelona",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795626000:t> (12:00 ET) UEFA Champions League: Sabah vs Barcelona"
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Brighton vs Craiova",
+          "slot": "PARAMOUNT B 011",
+          "slot_norm": "PARAMOUNT B 11",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Brighton vs Craiova"
         },
         {
-          "display_title": "6:00 AM <t:1795626000:t> (12:00 ET) UEFA Champions League: Slavia Praha vs Villarreal",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795626000:t> (12:00 ET) UEFA Champions League: Slavia Praha vs Villarreal"
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Ajax vs FC Thun",
+          "slot": "PARAMOUNT B 012",
+          "slot_norm": "PARAMOUNT B 12",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Ajax vs FC Thun"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: Sporting CP vs Man United",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: Sporting CP vs Man United"
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) FC Iberia Tbilisi vs Getafe",
+          "slot": "PARAMOUNT B 013",
+          "slot_norm": "PARAMOUNT B 13",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) FC Iberia Tbilisi vs Getafe"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: Club Brugge vs Liverpool",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: Club Brugge vs Liverpool"
+          "display_title": "6:00 AM <t:1795712460:t> (12:01 ET) Heart of Midlothian vs Monaco",
+          "slot": "PARAMOUNT B 014",
+          "slot_norm": "PARAMOUNT B 14",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712460:t> (12:01 ET) Heart of Midlothian vs Monaco"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: PSG vs Roma",
-          "slot": "PARAMOUNT C 05",
-          "slot_norm": "PARAMOUNT C 5",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: PSG vs Roma"
+          "display_title": "6:00 AM <t:1795712460:t> (12:01 ET) Jablonec vs FC Lugano",
+          "slot": "PARAMOUNT B 015",
+          "slot_norm": "PARAMOUNT B 15",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712460:t> (12:01 ET) Jablonec vs FC Lugano"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: The Golazo Show",
-          "slot": "PARAMOUNT C 06",
-          "slot_norm": "PARAMOUNT C 6",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: The Golazo Show"
+          "display_title": "6:00 AM <t:1795712460:t> (12:01 ET) Kauno Žalgiris vs Riga FC",
+          "slot": "PARAMOUNT B 016",
+          "slot_norm": "PARAMOUNT B 16",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712460:t> (12:01 ET) Kauno Žalgiris vs Riga FC"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: Lille vs Bayern",
-          "slot": "PARAMOUNT C 07",
-          "slot_norm": "PARAMOUNT C 7",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: Lille vs Bayern"
+          "display_title": "6:00 AM <t:1795712460:t> (12:01 ET) Egnatia vs L. Red Imps",
+          "slot": "PARAMOUNT B 017",
+          "slot_norm": "PARAMOUNT B 17",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712460:t> (12:01 ET) Egnatia vs L. Red Imps"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: Inter vs Stuttgart",
-          "slot": "PARAMOUNT C 08",
-          "slot_norm": "PARAMOUNT C 8",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: Inter vs Stuttgart"
+          "display_title": "6:00 AM <t:1795712460:t> (12:01 ET) Pafos vs FC Midtjylland",
+          "slot": "PARAMOUNT B 018",
+          "slot_norm": "PARAMOUNT B 18",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712460:t> (12:01 ET) Pafos vs FC Midtjylland"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: Atlético Madrid vs Viking",
-          "slot": "PARAMOUNT C 09",
-          "slot_norm": "PARAMOUNT C 9",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: Atlético Madrid vs Viking"
+          "display_title": "6:00 AM <t:1795712460:t> (12:01 ET) Brann vs AGF Aarhus",
+          "slot": "PARAMOUNT B 019",
+          "slot_norm": "PARAMOUNT B 19",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712460:t> (12:01 ET) Brann vs AGF Aarhus"
         },
         {
-          "display_title": "6:00 AM <t:1795633200:t> (14:00 ET) UEFA Champions League: Shakhtar Donetsk vs Fenerbahçe",
-          "slot": "PARAMOUNT C 10",
-          "slot_norm": "PARAMOUNT C 10",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795633200:t> (14:00 ET) UEFA Champions League: Shakhtar Donetsk vs Fenerbahçe"
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) Crystal Palace vs Real Sociedad",
+          "slot": "PARAMOUNT B 020",
+          "slot_norm": "PARAMOUNT B 20",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) Crystal Palace vs Real Sociedad"
         },
         {
-          "display_title": "6:00 AM <t:1795635300:t> (14:35 ET) English Football League: Burnley vs Birmingham City",
-          "slot": "PARAMOUNT C 11",
-          "slot_norm": "PARAMOUNT C 11",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795635300:t> (14:35 ET) English Football League: Burnley vs Birmingham City"
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) Sunderland vs Jagiellonia Białystok",
+          "slot": "PARAMOUNT B 021",
+          "slot_norm": "PARAMOUNT B 21",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) Sunderland vs Jagiellonia Białystok"
         },
         {
-          "display_title": "6:00 AM <t:1795636200:t> (14:50 ET) English Football League: Stoke City vs Millwall",
-          "slot": "PARAMOUNT C 12",
-          "slot_norm": "PARAMOUNT C 12",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795636200:t> (14:50 ET) English Football League: Stoke City vs Millwall"
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) Juventus vs Omonia",
+          "slot": "PARAMOUNT B 022",
+          "slot_norm": "PARAMOUNT B 22",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) Juventus vs Omonia"
+        },
+        {
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) Sparta Praha vs AZ Alkmaar",
+          "slot": "PARAMOUNT B 023",
+          "slot_norm": "PARAMOUNT B 23",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) Sparta Praha vs AZ Alkmaar"
+        },
+        {
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) Hoffenheim vs Sturm Graz",
+          "slot": "PARAMOUNT B 024",
+          "slot_norm": "PARAMOUNT B 24",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) Hoffenheim vs Sturm Graz"
+        },
+        {
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) Torreense vs Celtic",
+          "slot": "PARAMOUNT B 025",
+          "slot_norm": "PARAMOUNT B 25",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) Torreense vs Celtic"
+        },
+        {
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) OFI Crete vs Anderlecht",
+          "slot": "PARAMOUNT B 026",
+          "slot_norm": "PARAMOUNT B 26",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) OFI Crete vs Anderlecht"
+        },
+        {
+          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) NEC Nijmegen vs Rennes",
+          "slot": "PARAMOUNT B 027",
+          "slot_norm": "PARAMOUNT B 27",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795722600:t> (14:50 ET) NEC Nijmegen vs Rennes"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 643556845,
-      "message_timestamp": 1795608044,
+      "message_id": 643820169,
+      "message_timestamp": 1795685444,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-25T14:41:12.218869+00:00"
+      "updated_at": "2026-11-26T11:09:16.392418+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795626000:t> (12:00 ET) Thor Mini O's Gatorback",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795626000:t> (12:00 ET) Thor Mini O's Gatorback"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback"
         },
         {
-          "display_title": "6:00 AM <t:1795618800:t> (10:00 ET) UFC Fight Nigh - Special Feed",
+          "display_title": "6:00 AM <t:1795741200:t> (20:00 ET) AEW Dynamite (Commercial Free)",
+          "slot": "PPV 02",
+          "slot_norm": "PPV 2",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795741200:t> (20:00 ET) AEW Dynamite (Commercial Free)"
+        },
+        {
+          "display_title": "6:00 AM <t:1795705200:t> (10:00 ET) UFC Fight Nigh - Special Feed",
           "slot": "PPV 26",
           "slot_norm": "PPV 26",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795618800:t> (10:00 ET) UFC Fight Nigh - Special Feed"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795705200:t> (10:00 ET) UFC Fight Nigh - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1795651200:t> (19:00 ET) AEW Saturday Tailgate Brawl",
-          "slot": "PPV 28",
-          "slot_norm": "PPV 28",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795651200:t> (19:00 ET) AEW Saturday Tailgate Brawl"
-        },
-        {
-          "display_title": "6:00 AM <t:1795626000:t> (12:00 ET) Thor Mini O's Gatorback",
+          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795626000:t> (12:00 ET) Thor Mini O's Gatorback"
-        },
-        {
-          "display_title": "6:00 AM <t:1795629600:t> (13:00 ET) Thor Mini Os at Gatorback Cycle",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795629600:t> (13:00 ET) Thor Mini Os at Gatorback Cycle"
-        },
-        {
-          "display_title": "6:00 AM <t:1795615200:t> (09:00 ET) Eibach Gateway Dirt Nationals",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-25T12:00:00-05:00",
-          "stop": "2026-11-26T00:00:00-05:00",
-          "title": "<t:1795615200:t> (09:00 ET) Eibach Gateway Dirt Nationals"
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 643571470,
-      "message_timestamp": 1795611633,
+      "message_id": 643767734,
+      "message_timestamp": 1795669242,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-25T14:41:12.303497+00:00"
+      "updated_at": "2026-11-26T11:09:16.874011+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -512,139 +560,139 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Sporting CP vs Manchester United UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-11-26T12:00:00+11:00",
-          "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795636500:t> (06:55 AEDT) Sporting CP vs Manchester United UEFA Champions League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Lille vs Bayern München UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-11-26T12:00:00+11:00",
-          "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795636500:t> (06:55 AEDT) Lille vs Bayern München UEFA Champions League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Paris SaintGermain vs Roma UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
-          "start": "2026-11-26T12:00:00+11:00",
-          "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795636500:t> (06:55 AEDT) Paris SaintGermain vs Roma UEFA Champions League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Atlético de Madrid vs Viking UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-11-26T12:00:00+11:00",
-          "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795636500:t> (06:55 AEDT) Atlético de Madrid vs Viking UEFA Champions League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Internazionale vs Stuttgart UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 013",
-          "slot_norm": "AU STAN B 13",
-          "start": "2026-11-26T12:00:00+11:00",
-          "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795636500:t> (06:55 AEDT) Internazionale vs Stuttgart UEFA Champions League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795636500:t> (06:55 AEDT) Shakhtar Donetsk vs Fenerbahçe UEFA Champions League Matchday 5 2026/2027",
-          "slot": "AU STAN B 014",
-          "slot_norm": "AU STAN B 14",
-          "start": "2026-11-26T12:00:00+11:00",
-          "stop": "2026-11-27T00:00:00+11:00",
-          "title": "<t:1795636500:t> (06:55 AEDT) Shakhtar Donetsk vs Fenerbahçe UEFA Champions League Matchday 5 2026/2027"
-        },
-        {
           "display_title": "2:00 PM <t:1795706700:t> (02:25 AEDT) Kairat vs Mjällby UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 015",
-          "slot_norm": "AU STAN B 15",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795706700:t> (02:25 AEDT) Kairat vs Mjällby UEFA Conference League Matchday 4 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Celta de Vigo vs Bournemouth UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 016",
-          "slot_norm": "AU STAN B 16",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Celta de Vigo vs Bournemouth UEFA Europa League Matchday 5 2026/2027"
         },
         {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Brighton & Hove Albion vs Universitatea Craiova UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Brighton & Hove Albion vs Universitatea Craiova UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Olympiakos Piraeus vs Milan UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 017",
-          "slot_norm": "AU STAN B 17",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Olympiakos Piraeus vs Milan UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Viktoria Plzeň vs Benfica UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 018",
-          "slot_norm": "AU STAN B 18",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Viktoria Plzeň vs Benfica UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Union SaintGilloise vs Lech Poznań UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 019",
-          "slot_norm": "AU STAN B 19",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Union SaintGilloise vs Lech Poznań UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Beşiktaş vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 020",
-          "slot_norm": "AU STAN B 20",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Beşiktaş vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Dinamo Zagreb vs Bayer 04 Leverkusen UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 021",
-          "slot_norm": "AU STAN B 21",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Dinamo Zagreb vs Bayer 04 Leverkusen UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Salzburg vs AraratArmenia UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 022",
-          "slot_norm": "AU STAN B 22",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Salzburg vs AraratArmenia UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Olympique Marseille vs Levski Sofia UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 023",
-          "slot_norm": "AU STAN B 23",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Olympique Marseille vs Levski Sofia UEFA Europa League Matchday 5 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Iberia 1999 vs Getafe UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 024",
-          "slot_norm": "AU STAN B 24",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
           "start": "2026-11-27T12:00:00+11:00",
           "stop": "2026-11-28T00:00:00+11:00",
           "title": "<t:1795714800:t> (04:40 AEDT) Iberia 1999 vs Getafe UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Pafos vs Midtjylland UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Pafos vs Midtjylland UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Brann vs AGF UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Brann vs AGF UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Jablonec vs Lugano UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Jablonec vs Lugano UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Ajax vs Thun UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Ajax vs Thun UEFA Conference League Matchday 4 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Kauno Žalgiris vs Riga UEFA Conference League Matchday 4 2026/2027",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-11-27T12:00:00+11:00",
+          "stop": "2026-11-28T00:00:00+11:00",
+          "title": "<t:1795714800:t> (04:40 AEDT) Kauno Žalgiris vs Riga UEFA Conference League Matchday 4 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 643727274,
-      "message_timestamp": 1795651309,
+      "message_id": 643835832,
+      "message_timestamp": 1795689029,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-26T00:32:47.762860+00:00"
+      "updated_at": "2026-11-26T11:09:18.283067+00:00"
     }
   },
   "version": 1
