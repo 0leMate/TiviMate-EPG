@@ -274,12 +274,12 @@
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback",
+          "display_title": "6:00 AM <t:1795699800:t> (08:30 ET) ONE Friday Fights 180",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
           "start": "2026-11-26T12:00:00-05:00",
           "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback"
+          "title": "<t:1795699800:t> (08:30 ET) ONE Friday Fights 180"
         },
         {
           "display_title": "6:00 AM <t:1795741200:t> (20:00 ET) AEW Dynamite (Commercial Free)",
@@ -298,12 +298,28 @@
           "title": "<t:1795705200:t> (10:00 ET) UFC Fight Nigh - Special Feed"
         },
         {
-          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback",
+          "display_title": "6:00 AM <t:1795699800:t> (08:30 ET) ONE Friday Fights 180",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
           "start": "2026-11-26T12:00:00-05:00",
           "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795712400:t> (12:00 ET) Thor Mini O's Gatorback"
+          "title": "<t:1795699800:t> (08:30 ET) ONE Friday Fights 180"
+        },
+        {
+          "display_title": "6:00 AM <t:1795700400:t> (08:40 ET) Cruz vs Subkhankulov",
+          "slot": "PPV B 02",
+          "slot_norm": "PPV B 2",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795700400:t> (08:40 ET) Cruz vs Subkhankulov"
+        },
+        {
+          "display_title": "6:00 AM <t:1795692600:t> (06:30 ET) ONE Friday Fights 180 & The Inner Circle 40",
+          "slot": "PPV C 001",
+          "slot_norm": "PPV C 1",
+          "start": "2026-11-26T12:00:00-05:00",
+          "stop": "2026-11-27T00:00:00-05:00",
+          "title": "<t:1795692600:t> (06:30 ET) ONE Friday Fights 180 & The Inner Circle 40"
         },
         {
           "display_title": "6:00 AM <t:1795694400:t> (07:00 ET) Thor Mini Os at Gatorback Cycle",
@@ -315,10 +331,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 643874179,
-      "message_timestamp": 1795698066,
+      "message_id": 644032246,
+      "message_timestamp": 1795752030,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-26T21:45:01.419787+00:00"
+      "updated_at": "2026-11-27T04:20:47.256353+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

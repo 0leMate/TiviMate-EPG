@@ -7002,7 +7002,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 12:00 Thor Mini O&#x27;s Gatorback</display-name>
+    <display-name>PPV 01: 08:30 ONE Friday Fights 180</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
@@ -7182,12 +7182,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 12:00 Thor Mini O&#x27;s Gatorback</display-name>
+    <display-name>PPV B 01: 08:30 ONE Friday Fights 180</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02:</display-name>
+    <display-name>PPV B 02: 08:40 Cruz vs Subkhankulov</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
@@ -7352,7 +7352,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.001">
     <display-name>PPV C 001</display-name>
-    <display-name>PPV C 001:</display-name>
+    <display-name>PPV C 001: 06:30 ONE Friday Fights 180 &amp; The Inner Circle 40</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.C.002">
@@ -14440,7 +14440,7 @@
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261127000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1795712400:t&gt; (12:00 ET) Thor Mini O&#x27;s Gatorback</title>
+    <title>6:00 AM &lt;t:1795699800:t&gt; (08:30 ET) ONE Friday Fights 180</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14455,7 +14455,17 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261126120000 -0500" stop="20261127000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>6:00 AM &lt;t:1795712400:t&gt; (12:00 ET) Thor Mini O&#x27;s Gatorback</title>
+    <title>6:00 AM &lt;t:1795699800:t&gt; (08:30 ET) ONE Friday Fights 180</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261127000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.02">
+    <title>6:00 AM &lt;t:1795700400:t&gt; (08:40 ET) Cruz vs Subkhankulov</title>
+    <category>Sports</category>
+    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261127000000 -0500" channel="custom.PAY.PER.VIEW.PPV.C.001">
+    <title>6:00 AM &lt;t:1795692600:t&gt; (06:30 ET) ONE Friday Fights 180 &amp; The Inner Circle 40</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
