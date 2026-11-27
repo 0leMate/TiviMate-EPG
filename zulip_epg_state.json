@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795740900:t> (19:55 ET) iRacing",
+          "display_title": "6:00 AM <t:1795827300:t> (19:55 ET) iRacing",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795740900:t> (19:55 ET) iRacing"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795827300:t> (19:55 ET) iRacing"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 643767717,
-      "message_timestamp": 1795669235,
+      "message_id": 644040533,
+      "message_timestamp": 1795755690,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-26T11:09:15.910541+00:00"
+      "updated_at": "2026-11-27T14:02:53.540943+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,229 +112,277 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) UEFA Conference League: Kauno Žalgiris vs Riga FC",
-          "slot": "PARAMOUNT C 16",
-          "slot_norm": "PARAMOUNT C 16",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795712400:t> (12:00 ET) UEFA Conference League: Kauno Žalgiris vs Riga FC"
+          "display_title": "6:00 AM <t:1795788000:t> (09:00 ET) CBS Sports HQ: Scoreboard Final",
+          "slot": "PARAMOUNT 001",
+          "slot_norm": "PARAMOUNT 1",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795788000:t> (09:00 ET) CBS Sports HQ: Scoreboard Final"
         },
         {
-          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) UEFA Conference League: Egnatia vs L Red Imps",
-          "slot": "PARAMOUNT C 17",
-          "slot_norm": "PARAMOUNT C 17",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795712400:t> (12:00 ET) UEFA Conference League: Egnatia vs L Red Imps"
+          "display_title": "6:00 AM <t:1795795200:t> (11:00 ET) CBS Sports HQ: College Football Pregame",
+          "slot": "PARAMOUNT 002",
+          "slot_norm": "PARAMOUNT 2",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795795200:t> (11:00 ET) CBS Sports HQ: College Football Pregame"
         },
         {
-          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) UEFA Conference League: Pafos vs FC Midtjylland",
-          "slot": "PARAMOUNT C 18",
-          "slot_norm": "PARAMOUNT C 18",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795712400:t> (12:00 ET) UEFA Conference League: Pafos vs FC Midtjylland"
+          "display_title": "6:00 AM <t:1795798800:t> (12:00 ET) CBS Sports HQ: Gameday Scoreboard",
+          "slot": "PARAMOUNT 003",
+          "slot_norm": "PARAMOUNT 3",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795798800:t> (12:00 ET) CBS Sports HQ: Gameday Scoreboard"
         },
         {
-          "display_title": "6:00 AM <t:1795712400:t> (12:00 ET) UEFA Conference League: Brann vs AGF Aarhus",
-          "slot": "PARAMOUNT C 19",
-          "slot_norm": "PARAMOUNT C 19",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795712400:t> (12:00 ET) UEFA Conference League: Brann vs AGF Aarhus"
+          "display_title": "6:00 AM <t:1795806000:t> (14:00 ET) CBS Sports HQ: Gameday Pregame",
+          "slot": "PARAMOUNT 004",
+          "slot_norm": "PARAMOUNT 4",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795806000:t> (14:00 ET) CBS Sports HQ: Gameday Pregame"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: Sunderland vs Jagiellonia Białystok",
-          "slot": "PARAMOUNT C 21",
-          "slot_norm": "PARAMOUNT C 21",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: Sunderland vs Jagiellonia Białystok"
+          "display_title": "6:00 AM <t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna",
+          "slot": "PARAMOUNT 005",
+          "slot_norm": "PARAMOUNT 5",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: Juventus vs Omonia",
-          "slot": "PARAMOUNT C 22",
-          "slot_norm": "PARAMOUNT C 22",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: Juventus vs Omonia"
+          "display_title": "6:00 AM <t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough",
+          "slot": "PARAMOUNT 006",
+          "slot_norm": "PARAMOUNT 6",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: Sparta Praha vs AZ Alkmaar",
-          "slot": "PARAMOUNT C 23",
-          "slot_norm": "PARAMOUNT C 23",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: Sparta Praha vs AZ Alkmaar"
+          "display_title": "6:00 AM <t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica",
+          "slot": "PARAMOUNT 007",
+          "slot_norm": "PARAMOUNT 7",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: Hoffenheim vs Sturm Graz",
-          "slot": "PARAMOUNT C 24",
-          "slot_norm": "PARAMOUNT C 24",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: Hoffenheim vs Sturm Graz"
+          "display_title": "6:00 AM <t:1795820400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
+          "slot": "PARAMOUNT 008",
+          "slot_norm": "PARAMOUNT 8",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795820400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: OFI Crete vs Anderlecht",
-          "slot": "PARAMOUNT C 26",
-          "slot_norm": "PARAMOUNT C 26",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: OFI Crete vs Anderlecht"
+          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
+          "slot": "PARAMOUNT 009",
+          "slot_norm": "PARAMOUNT 9",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795824000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: NEC Nijmegen vs Rennes",
-          "slot": "PARAMOUNT C 27",
-          "slot_norm": "PARAMOUNT C 27",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: NEC Nijmegen vs Rennes"
+          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador",
+          "slot": "PARAMOUNT 010",
+          "slot_norm": "PARAMOUNT 10",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador"
         },
         {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Europa League: Ferencváros vs Celje",
-          "slot": "PARAMOUNT C 28",
-          "slot_norm": "PARAMOUNT C 28",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Europa League: Ferencváros vs Celje"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Conference League: Freiburg vs FC Twente",
-          "slot": "PARAMOUNT C 29",
-          "slot_norm": "PARAMOUNT C 29",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Conference League: Freiburg vs FC Twente"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Conference League: CSKA Sofia vs Trabzonspor",
-          "slot": "PARAMOUNT C 30",
-          "slot_norm": "PARAMOUNT C 30",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Conference League: CSKA Sofia vs Trabzonspor"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Conference League: Hajduk Split vs K Sint Truidense",
-          "slot": "PARAMOUNT C 33",
-          "slot_norm": "PARAMOUNT C 33",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Conference League: Hajduk Split vs K Sint Truidense"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Conference League: Inter Escaldes vs Copenhagen",
-          "slot": "PARAMOUNT C 34",
-          "slot_norm": "PARAMOUNT C 34",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Conference League: Inter Escaldes vs Copenhagen"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Conference League: KAA Gent vs Crvena Zvezda",
-          "slot": "PARAMOUNT C 35",
-          "slot_norm": "PARAMOUNT C 35",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Conference League: KAA Gent vs Crvena Zvezda"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) UEFA Conference League: Braga vs KuPS Kuopio",
-          "slot": "PARAMOUNT C 36",
-          "slot_norm": "PARAMOUNT C 36",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) UEFA Conference League: Braga vs KuPS Kuopio"
-        },
-        {
-          "display_title": "6:00 AM <t:1795722600:t> (14:50 ET) English Football League: Doncaster Rovers vs Huddersfield Town",
-          "slot": "PARAMOUNT C 37",
-          "slot_norm": "PARAMOUNT C 37",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795722600:t> (14:50 ET) English Football League: Doncaster Rovers vs Huddersfield Town"
-        },
-        {
-          "display_title": "6:00 AM <t:1795723200:t> (15:00 ET) UEFA Europa League: Lyon vs Lillestrøm",
-          "slot": "PARAMOUNT C 38",
-          "slot_norm": "PARAMOUNT C 38",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795723200:t> (15:00 ET) UEFA Europa League: Lyon vs Lillestrøm"
+          "display_title": "6:00 AM <t:1795808100:t> (14:35 ET) Venezia vs Bologna",
+          "slot": "PARAMOUNT B 001",
+          "slot_norm": "PARAMOUNT B 1",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795808100:t> (14:35 ET) Venezia vs Bologna"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 643866533,
-      "message_timestamp": 1795696231,
+      "message_id": 644126640,
+      "message_timestamp": 1795780874,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-26T21:45:01.044682+00:00"
+      "updated_at": "2026-11-27T14:02:53.631475+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795699800:t> (08:30 ET) ONE Friday Fights 180",
+          "display_title": "6:00 AM <t:1795786200:t> (08:30 ET) ONE Friday Fights 180",
           "slot": "PPV 01",
           "slot_norm": "PPV 1",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795699800:t> (08:30 ET) ONE Friday Fights 180"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795786200:t> (08:30 ET) ONE Friday Fights 180"
         },
         {
-          "display_title": "6:00 AM <t:1795741200:t> (20:00 ET) AEW Dynamite (Commercial Free)",
+          "display_title": "6:00 AM <t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov",
           "slot": "PPV 02",
           "slot_norm": "PPV 2",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795741200:t> (20:00 ET) AEW Dynamite (Commercial Free)"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov"
         },
         {
-          "display_title": "6:00 AM <t:1795705200:t> (10:00 ET) UFC Fight Nigh - Special Feed",
-          "slot": "PPV 26",
-          "slot_norm": "PPV 26",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795705200:t> (10:00 ET) UFC Fight Nigh - Special Feed"
+          "display_title": "6:00 AM <t:1795793400:t> (10:30 ET) Odiase vs Perez",
+          "slot": "PPV 03",
+          "slot_norm": "PPV 3",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795793400:t> (10:30 ET) Odiase vs Perez"
         },
         {
-          "display_title": "6:00 AM <t:1795699800:t> (08:30 ET) ONE Friday Fights 180",
+          "display_title": "6:00 AM <t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad"
+        },
+        {
+          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged",
+          "slot": "PPV 05",
+          "slot_norm": "PPV 5",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged"
+        },
+        {
+          "display_title": "6:00 AM <t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback",
+          "slot": "PPV 06",
+          "slot_norm": "PPV 6",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback"
+        },
+        {
+          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee",
+          "slot": "PPV 07",
+          "slot_norm": "PPV 7",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee"
+        },
+        {
+          "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura",
+          "slot": "PPV 08",
+          "slot_norm": "PPV 8",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura"
+        },
+        {
+          "display_title": "6:00 AM <t:1795786200:t> (08:30 ET) ONE Friday Fights 180",
           "slot": "PPV B 01",
           "slot_norm": "PPV B 1",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795699800:t> (08:30 ET) ONE Friday Fights 180"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795786200:t> (08:30 ET) ONE Friday Fights 180"
         },
         {
-          "display_title": "6:00 AM <t:1795700400:t> (08:40 ET) Cruz vs Subkhankulov",
+          "display_title": "6:00 AM <t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov",
           "slot": "PPV B 02",
           "slot_norm": "PPV B 2",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795700400:t> (08:40 ET) Cruz vs Subkhankulov"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov"
         },
         {
-          "display_title": "6:00 AM <t:1795692600:t> (06:30 ET) ONE Friday Fights 180 & The Inner Circle 40",
+          "display_title": "6:00 AM <t:1795793400:t> (10:30 ET) Odiase vs Perez",
+          "slot": "PPV B 03",
+          "slot_norm": "PPV B 3",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795793400:t> (10:30 ET) Odiase vs Perez"
+        },
+        {
+          "display_title": "6:00 AM <t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad"
+        },
+        {
+          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged",
+          "slot": "PPV B 05",
+          "slot_norm": "PPV B 5",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged"
+        },
+        {
+          "display_title": "6:00 AM <t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback",
+          "slot": "PPV B 06",
+          "slot_norm": "PPV B 6",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback"
+        },
+        {
+          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee",
+          "slot": "PPV B 07",
+          "slot_norm": "PPV B 7",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee"
+        },
+        {
+          "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura",
+          "slot": "PPV B 08",
+          "slot_norm": "PPV B 8",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura"
+        },
+        {
+          "display_title": "6:00 AM <t:1795786200:t> (08:30 ET) ONE Friday Fights 180 & The Inner Circle 40",
           "slot": "PPV C 001",
           "slot_norm": "PPV C 1",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795692600:t> (06:30 ET) ONE Friday Fights 180 & The Inner Circle 40"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795786200:t> (08:30 ET) ONE Friday Fights 180 & The Inner Circle 40"
         },
         {
-          "display_title": "6:00 AM <t:1795694400:t> (07:00 ET) Thor Mini Os at Gatorback Cycle",
+          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) Thor Mini Os at Gatorback Cycle",
           "slot": "PPV D 01",
           "slot_norm": "PPV D 1",
-          "start": "2026-11-26T12:00:00-05:00",
-          "stop": "2026-11-27T00:00:00-05:00",
-          "title": "<t:1795694400:t> (07:00 ET) Thor Mini Os at Gatorback Cycle"
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795824000:t> (19:00 ET) Thor Mini Os at Gatorback Cycle"
+        },
+        {
+          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) 4 Cylinder Nationals at Cherokee",
+          "slot": "PPV D 02",
+          "slot_norm": "PPV D 2",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795802400:t> (13:00 ET) 4 Cylinder Nationals at Cherokee"
+        },
+        {
+          "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix at Ventura",
+          "slot": "PPV D 03",
+          "slot_norm": "PPV D 3",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix at Ventura"
+        },
+        {
+          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214 Unplugged",
+          "slot": "PPV D 06",
+          "slot_norm": "PPV D 6",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795802400:t> (13:00 ET) Cage Warriors 214 Unplugged"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 644032246,
-      "message_timestamp": 1795752030,
+      "message_id": 644134093,
+      "message_timestamp": 1795782648,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-27T04:20:47.256353+00:00"
+      "updated_at": "2026-11-27T14:02:53.716974+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -521,146 +569,162 @@
       "events": [
         {
           "display_title": "2:00 PM <t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026",
-          "slot": "AU STAN 035",
-          "slot_norm": "AU STAN 35",
+          "slot": "AU STAN 001",
+          "slot_norm": "AU STAN 1",
           "start": "2026-11-28T12:00:00+11:00",
           "stop": "2026-11-29T00:00:00+11:00",
           "title": "<t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026"
         },
         {
           "display_title": "2:00 PM <t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27",
-          "slot": "AU STAN 036",
-          "slot_norm": "AU STAN 36",
+          "slot": "AU STAN 002",
+          "slot_norm": "AU STAN 2",
           "start": "2026-11-28T12:00:00+11:00",
           "stop": "2026-11-29T00:00:00+11:00",
           "title": "<t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27"
         },
         {
           "display_title": "2:00 PM <t:1795804500:t> (05:35 AEDT) Men\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27",
-          "slot": "AU STAN 037",
-          "slot_norm": "AU STAN 37",
+          "slot": "AU STAN 003",
+          "slot_norm": "AU STAN 3",
           "start": "2026-11-28T12:00:00+11:00",
           "stop": "2026-11-29T00:00:00+11:00",
           "title": "<t:1795804500:t> (05:35 AEDT) Men\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27"
         },
         {
-          "display_title": "2:00 PM <t:1795706700:t> (02:25 AEDT) Kairat vs Mjällby UEFA Conference League Matchday 4 2026/2027",
+          "display_title": "2:00 PM <t:1795807800:t> (06:30 AEDT) Ireland vs Australia Nations Championship Final 2026",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795807800:t> (06:30 AEDT) Ireland vs Australia Nations Championship Final 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795807800:t> (06:30 AEDT) Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795807800:t> (06:30 AEDT) Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795809000:t> (06:50 AEDT) • Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795809000:t> (06:50 AEDT) • Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795841700:t> (15:55 AEDT) Seoul vs Daejeon K League 2026",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795841700:t> (15:55 AEDT) Seoul vs Daejeon K League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795841700:t> (15:55 AEDT) Kyoto Sanga vs Cerezo Osaka J.League 2026",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795841700:t> (15:55 AEDT) Kyoto Sanga vs Cerezo Osaka J.League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795845300:t> (16:55 AEDT) Dubai • Day 1 (Session 1) World Rugby Sevens Series 2026/27",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795845300:t> (16:55 AEDT) Dubai • Day 1 (Session 1) World Rugby Sevens Series 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795848900:t> (17:55 AEDT) Kashiwa Reysol vs Sanfrecce Hiroshima J.League 2026",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795848900:t> (17:55 AEDT) Kashiwa Reysol vs Sanfrecce Hiroshima J.League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795850700:t> (18:25 AEDT) Pohang vs Gwangju K League 2026",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795850700:t> (18:25 AEDT) Pohang vs Gwangju K League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795869600:t> (23:40 AEDT) Dubai • Day 1 (Session 2) World Rugby Sevens Series 2026/27",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795869600:t> (23:40 AEDT) Dubai • Day 1 (Session 2) World Rugby Sevens Series 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795870800:t> (00:00 AEDT) Wales vs Japan Nations Championship Final 2026",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795870800:t> (00:00 AEDT) Wales vs Japan Nations Championship Final 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795874400:t> (01:00 AEDT) Manchester United vs Brentford Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795874400:t> (01:00 AEDT) Manchester United vs Brentford Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795877400:t> (01:50 AEDT) Leeds United vs Coventry City Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795877400:t> (01:50 AEDT) Leeds United vs Coventry City Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795880700:t> (02:45 AEDT) England vs New Zealand Nations Championship Final 2026",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795880700:t> (02:45 AEDT) England vs New Zealand Nations Championship Final 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795886400:t> (04:20 AEDT) Ipswich Town vs Aston Villa Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795886400:t> (04:20 AEDT) Ipswich Town vs Aston Villa Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026",
           "slot": "AU STAN B 001",
           "slot_norm": "AU STAN B 1",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795706700:t> (02:25 AEDT) Kairat vs Mjällby UEFA Conference League Matchday 4 2026/2027"
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026"
         },
         {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Celta de Vigo vs Bournemouth UEFA Europa League Matchday 5 2026/2027",
+          "display_title": "2:00 PM <t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27",
           "slot": "AU STAN B 002",
           "slot_norm": "AU STAN B 2",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Celta de Vigo vs Bournemouth UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Brighton & Hove Albion vs Universitatea Craiova UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 003",
-          "slot_norm": "AU STAN B 3",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Brighton & Hove Albion vs Universitatea Craiova UEFA Conference League Matchday 4 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Olympiakos Piraeus vs Milan UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 004",
-          "slot_norm": "AU STAN B 4",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Olympiakos Piraeus vs Milan UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Viktoria Plzeň vs Benfica UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 005",
-          "slot_norm": "AU STAN B 5",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Viktoria Plzeň vs Benfica UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Union SaintGilloise vs Lech Poznań UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 006",
-          "slot_norm": "AU STAN B 6",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Union SaintGilloise vs Lech Poznań UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Beşiktaş vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 007",
-          "slot_norm": "AU STAN B 7",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Beşiktaş vs Hapoel Be\\`er Sheva UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Dinamo Zagreb vs Bayer 04 Leverkusen UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 008",
-          "slot_norm": "AU STAN B 8",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Dinamo Zagreb vs Bayer 04 Leverkusen UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Salzburg vs AraratArmenia UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 009",
-          "slot_norm": "AU STAN B 9",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Salzburg vs AraratArmenia UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Olympique Marseille vs Levski Sofia UEFA Europa League Matchday 5 2026/2027",
-          "slot": "AU STAN B 010",
-          "slot_norm": "AU STAN B 10",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Olympique Marseille vs Levski Sofia UEFA Europa League Matchday 5 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Iberia 1999 vs Getafe UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 011",
-          "slot_norm": "AU STAN B 11",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Iberia 1999 vs Getafe UEFA Conference League Matchday 4 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Pafos vs Midtjylland UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 012",
-          "slot_norm": "AU STAN B 12",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Pafos vs Midtjylland UEFA Conference League Matchday 4 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Brann vs AGF UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 013",
-          "slot_norm": "AU STAN B 13",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Brann vs AGF UEFA Conference League Matchday 4 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795714800:t> (04:40 AEDT) Jablonec vs Lugano UEFA Conference League Matchday 4 2026/2027",
-          "slot": "AU STAN B 014",
-          "slot_norm": "AU STAN B 14",
-          "start": "2026-11-27T12:00:00+11:00",
-          "stop": "2026-11-28T00:00:00+11:00",
-          "title": "<t:1795714800:t> (04:40 AEDT) Jablonec vs Lugano UEFA Conference League Matchday 4 2026/2027"
+          "start": "2026-11-28T12:00:00+11:00",
+          "stop": "2026-11-29T00:00:00+11:00",
+          "title": "<t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27"
         }
       ],
       "group": "AU STAN",
-      "message_id": 643874105,
-      "message_timestamp": 1795698049,
+      "message_id": 644141787,
+      "message_timestamp": 1795784456,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-26T21:45:02.602016+00:00"
+      "updated_at": "2026-11-27T14:02:53.991368+00:00"
     }
   },
   "version": 1
