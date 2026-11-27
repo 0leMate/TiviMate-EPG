@@ -198,33 +198,49 @@
           "start": "2026-11-27T12:00:00-05:00",
           "stop": "2026-11-28T00:00:00-05:00",
           "title": "<t:1795808100:t> (14:35 ET) Venezia vs Bologna"
+        },
+        {
+          "display_title": "6:00 AM <t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna"
+        },
+        {
+          "display_title": "6:00 AM <t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough"
+        },
+        {
+          "display_title": "6:00 AM <t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica"
+        },
+        {
+          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-11-27T12:00:00-05:00",
+          "stop": "2026-11-28T00:00:00-05:00",
+          "title": "<t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 644126640,
-      "message_timestamp": 1795780874,
+      "message_id": 644165236,
+      "message_timestamp": 1795789827,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-27T14:02:53.631475+00:00"
+      "updated_at": "2026-11-27T22:47:38.844025+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
-        {
-          "display_title": "6:00 AM <t:1795786200:t> (08:30 ET) ONE Friday Fights 180",
-          "slot": "PPV 01",
-          "slot_norm": "PPV 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795786200:t> (08:30 ET) ONE Friday Fights 180"
-        },
-        {
-          "display_title": "6:00 AM <t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov",
-          "slot": "PPV 02",
-          "slot_norm": "PPV 2",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov"
-        },
         {
           "display_title": "6:00 AM <t:1795793400:t> (10:30 ET) Odiase vs Perez",
           "slot": "PPV 03",
@@ -232,14 +248,6 @@
           "start": "2026-11-27T12:00:00-05:00",
           "stop": "2026-11-28T00:00:00-05:00",
           "title": "<t:1795793400:t> (10:30 ET) Odiase vs Perez"
-        },
-        {
-          "display_title": "6:00 AM <t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad",
-          "slot": "PPV 04",
-          "slot_norm": "PPV 4",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad"
         },
         {
           "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged",
@@ -258,12 +266,12 @@
           "title": "<t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback"
         },
         {
-          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee",
+          "display_title": "6:00 AM <t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee",
           "slot": "PPV 07",
           "slot_norm": "PPV 7",
           "start": "2026-11-27T12:00:00-05:00",
           "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee"
+          "title": "<t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee"
         },
         {
           "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura",
@@ -274,36 +282,12 @@
           "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura"
         },
         {
-          "display_title": "6:00 AM <t:1795786200:t> (08:30 ET) ONE Friday Fights 180",
-          "slot": "PPV B 01",
-          "slot_norm": "PPV B 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795786200:t> (08:30 ET) ONE Friday Fights 180"
-        },
-        {
-          "display_title": "6:00 AM <t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov",
-          "slot": "PPV B 02",
-          "slot_norm": "PPV B 2",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795786800:t> (08:40 ET) Cruz vs Subkhankulov"
-        },
-        {
           "display_title": "6:00 AM <t:1795793400:t> (10:30 ET) Odiase vs Perez",
           "slot": "PPV B 03",
           "slot_norm": "PPV B 3",
           "start": "2026-11-27T12:00:00-05:00",
           "stop": "2026-11-28T00:00:00-05:00",
           "title": "<t:1795793400:t> (10:30 ET) Odiase vs Perez"
-        },
-        {
-          "display_title": "6:00 AM <t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad",
-          "slot": "PPV B 04",
-          "slot_norm": "PPV B 4",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795795200:t> (11:00 ET) Mix Fight 59 Zakarian vs Mohamad"
         },
         {
           "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged",
@@ -322,12 +306,12 @@
           "title": "<t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback"
         },
         {
-          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee",
+          "display_title": "6:00 AM <t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee",
           "slot": "PPV B 07",
           "slot_norm": "PPV B 7",
           "start": "2026-11-27T12:00:00-05:00",
           "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795802400:t> (13:00 ET) 4 Cyl Nationals Cherokee"
+          "title": "<t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee"
         },
         {
           "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura",
@@ -379,10 +363,10 @@
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 644134093,
-      "message_timestamp": 1795782648,
+      "message_id": 644250884,
+      "message_timestamp": 1795815033,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-27T14:02:53.716974+00:00"
+      "updated_at": "2026-11-27T22:47:39.215436+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",

@@ -5000,6 +5000,546 @@
     <display-name>ESPN+ B 600:</display-name>
     <display-name>US ESPN+</display-name>
   </channel>
+  <channel id="custom.US.ESPN.ESPN.C.001">
+    <display-name>ESPN+ C 001</display-name>
+    <display-name>ESPN+ C 001: 03:00 Football: NFL Football: 2026 Week 12 Philadelphia Eagles vs Dallas Cowboys 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.002">
+    <display-name>ESPN+ C 002</display-name>
+    <display-name>ESPN+ C 002: 03:35 Macarthur FC vs Melbourne City FC 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.003">
+    <display-name>ESPN+ C 003</display-name>
+    <display-name>ESPN+ C 003: 05:30 Football: NFL Football: 2026 Week 12 Kansas City Chiefs vs Buffalo Bills 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.004">
+    <display-name>ESPN+ C 004</display-name>
+    <display-name>ESPN+ C 004: 08:00 Football: Good Morning Football 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.005">
+    <display-name>ESPN+ C 005</display-name>
+    <display-name>ESPN+ C 005: 11:00 North Dakota vs Florida International 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.006">
+    <display-name>ESPN+ C 006</display-name>
+    <display-name>ESPN+ C 006: 11:00 Basketball: #2 Virginia vs Xavier 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.007">
+    <display-name>ESPN+ C 007</display-name>
+    <display-name>ESPN+ C 007: 11:00 NCAA Men`s Basketball: UND vs FIU • #2 UVA vs XAV 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.008">
+    <display-name>ESPN+ C 008</display-name>
+    <display-name>ESPN+ C 008: 11:30 Football: The Season: Ole Miss Football 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.009">
+    <display-name>ESPN+ C 009</display-name>
+    <display-name>ESPN+ C 009: 12:00 Merrimack vs St. Lawrence 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.010">
+    <display-name>ESPN+ C 010</display-name>
+    <display-name>ESPN+ C 010: 12:00 The Rich Eisen Show 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.011">
+    <display-name>ESPN+ C 011</display-name>
+    <display-name>ESPN+ C 011: 12:00 UMBC vs Iona 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.012">
+    <display-name>ESPN+ C 012</display-name>
+    <display-name>ESPN+ C 012: 12:00 Football: Mississippi St vs #22 Ole Miss 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.013">
+    <display-name>ESPN+ C 013</display-name>
+    <display-name>ESPN+ C 013: 12:00 Football: Mississippi St vs #22 Ole Miss (SkyCast+) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.014">
+    <display-name>ESPN+ C 014</display-name>
+    <display-name>ESPN+ C 014: 12:00 Football: Total Access 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.015">
+    <display-name>ESPN+ C 015</display-name>
+    <display-name>ESPN+ C 015: 12:00 Football: Toledo vs Ohio 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.016">
+    <display-name>ESPN+ C 016</display-name>
+    <display-name>ESPN+ C 016: 12:00 Football: Tulsa vs UTSA 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.017">
+    <display-name>ESPN+ C 017</display-name>
+    <display-name>ESPN+ C 017: 12:00 NCAA Football: TLSA vs UTSA • MSST vs #22 MISS 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.018">
+    <display-name>ESPN+ C 018</display-name>
+    <display-name>ESPN+ C 018: 12:00 NCAA Football: TOL vs OHIO • MSST vs #22 MISS 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.019">
+    <display-name>ESPN+ C 019</display-name>
+    <display-name>ESPN+ C 019: 12:00 NCAA Football: TOL vs OHIO • TLSA vs UTSA 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.020">
+    <display-name>ESPN+ C 020</display-name>
+    <display-name>ESPN+ C 020: 12:00 NCAA Football: TOL vs OHIO • TLSA vs UTSA • MSST vs #22 MISS 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.021">
+    <display-name>ESPN+ C 021</display-name>
+    <display-name>ESPN+ C 021: 12:01 Basketball: Akron vs #3 Louisville 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.022">
+    <display-name>ESPN+ C 022</display-name>
+    <display-name>ESPN+ C 022: 12:01 NCAA Men`s Basketball: UND vs FIU • #2 UVA vs XAV • UMBC vs IONA 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.023">
+    <display-name>ESPN+ C 023</display-name>
+    <display-name>ESPN+ C 023: 12:01 NCAA Men`s Basketball: #2 UVA vs XAV • UMBC vs IONA 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.024">
+    <display-name>ESPN+ C 024</display-name>
+    <display-name>ESPN+ C 024: 12:01 NCAA Women`s Basketball: UND vs FIU • UMBC vs IONA 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.025">
+    <display-name>ESPN+ C 025</display-name>
+    <display-name>ESPN+ C 025: 12:30 Toronto Maple Leafs vs Boston Bruins 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.026">
+    <display-name>ESPN+ C 026</display-name>
+    <display-name>ESPN+ C 026: 12:30 Utah Mammoth vs Nashville Predators 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.027">
+    <display-name>ESPN+ C 027</display-name>
+    <display-name>ESPN+ C 027: 12:30 Toronto Maple Leafs vs Boston Bruins 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.028">
+    <display-name>ESPN+ C 028</display-name>
+    <display-name>ESPN+ C 028: 12:30 Tennessee Tech vs Grambling (3rd Place Game) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.029">
+    <display-name>ESPN+ C 029</display-name>
+    <display-name>ESPN+ C 029: 12:30 Utah Mammoth vs Nashville Predators 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.030">
+    <display-name>ESPN+ C 030</display-name>
+    <display-name>ESPN+ C 030: 12:30 NCAA Women`s Basketball: AKR vs #3 LOU • TNTC vs GRAM 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.031">
+    <display-name>ESPN+ C 031</display-name>
+    <display-name>ESPN+ C 031: 12:30 NHL: TOR vs BOS • UTA vs NSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.032">
+    <display-name>ESPN+ C 032</display-name>
+    <display-name>ESPN+ C 032: 13:00 Team Europe vs Team USA 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.033">
+    <display-name>ESPN+ C 033</display-name>
+    <display-name>ESPN+ C 033: 13:00 Delaware State vs Bucknell 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.034">
+    <display-name>ESPN+ C 034</display-name>
+    <display-name>ESPN+ C 034: 13:00 SEC Halftime Band Performances at Ole Miss 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.035">
+    <display-name>ESPN+ C 035</display-name>
+    <display-name>ESPN+ C 035: 13:00 UT Rio Grande Valley vs Illinois Chicago 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.036">
+    <display-name>ESPN+ C 036</display-name>
+    <display-name>ESPN+ C 036: 13:00 Calgary Flames vs New Jersey Devils 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.037">
+    <display-name>ESPN+ C 037</display-name>
+    <display-name>ESPN+ C 037: 13:00 Calgary Flames vs New Jersey Devils 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.038">
+    <display-name>ESPN+ C 038</display-name>
+    <display-name>ESPN+ C 038: 13:00 Bryant &amp; Stratton College vs Youngstown State 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.039">
+    <display-name>ESPN+ C 039</display-name>
+    <display-name>ESPN+ C 039: 13:00 #20 Baylor vs Cincinnati 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.040">
+    <display-name>ESPN+ C 040</display-name>
+    <display-name>ESPN+ C 040: 13:00 Basketball: Players Era 16 as a part of Feast Week 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.041">
+    <display-name>ESPN+ C 041</display-name>
+    <display-name>ESPN+ C 041: 13:01 NHL: UTA vs NSH • CGY vs NJ 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.042">
+    <display-name>ESPN+ C 042</display-name>
+    <display-name>ESPN+ C 042: 13:01 NHL: TOR vs BOS • UTA vs NSH • CGY vs NJ 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.043">
+    <display-name>ESPN+ C 043</display-name>
+    <display-name>ESPN+ C 043: 13:01 NHL: TOR vs BOS • CGY vs NJ 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.044">
+    <display-name>ESPN+ C 044</display-name>
+    <display-name>ESPN+ C 044: 13:01 Volleyball: #19 North Carolina vs Miami 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.045">
+    <display-name>ESPN+ C 045</display-name>
+    <display-name>ESPN+ C 045: 13:30 Utah vs UCF 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.046">
+    <display-name>ESPN+ C 046</display-name>
+    <display-name>ESPN+ C 046: 13:30 Northern Illinois vs Manhattan 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.047">
+    <display-name>ESPN+ C 047</display-name>
+    <display-name>ESPN+ C 047: 13:30 South Dakota vs North Florida 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.048">
+    <display-name>ESPN+ C 048</display-name>
+    <display-name>ESPN+ C 048: 13:30 NCAA Men`s Basketball: #24 Memphis vs Wake Forest 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.049">
+    <display-name>ESPN+ C 049</display-name>
+    <display-name>ESPN+ C 049: 13:30 NCAA Men`s Basketball: Players Era 16 as a part of Feast Week • WAKE vs #24 MEM 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.050">
+    <display-name>ESPN+ C 050</display-name>
+    <display-name>ESPN+ C 050: 13:30 NCAA Women`s Basketball: SDAK vs UNF • TNTC vs GRAM 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.051">
+    <display-name>ESPN+ C 051</display-name>
+    <display-name>ESPN+ C 051: 13:30 NCAA Women`s Basketball: AKR vs #3 LOU • SDAK vs UNF • TNTC vs GRAM 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.052">
+    <display-name>ESPN+ C 052</display-name>
+    <display-name>ESPN+ C 052: 13:30 NCAA Women`s Basketball: AKR vs #3 LOU • SDAK vs UNF 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.053">
+    <display-name>ESPN+ C 053</display-name>
+    <display-name>ESPN+ C 053: 14:00 #11 St. Cloud State vs Vermont 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.054">
+    <display-name>ESPN+ C 054</display-name>
+    <display-name>ESPN+ C 054: 14:00 Villanova vs #3 Texas Tech (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.055">
+    <display-name>ESPN+ C 055</display-name>
+    <display-name>ESPN+ C 055: 14:00 Western Kentucky vs Florida Atlantic 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.056">
+    <display-name>ESPN+ C 056</display-name>
+    <display-name>ESPN+ C 056: 14:00 Navy vs Fairfield 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.057">
+    <display-name>ESPN+ C 057</display-name>
+    <display-name>ESPN+ C 057: 14:00 #6 Michigan vs #3 Duke (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.058">
+    <display-name>ESPN+ C 058</display-name>
+    <display-name>ESPN+ C 058: 14:00 TSV Havelse vs F.C. Hansa Rostock 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.059">
+    <display-name>ESPN+ C 059</display-name>
+    <display-name>ESPN+ C 059: 14:00 Maine vs Le Moyne 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.060">
+    <display-name>ESPN+ C 060</display-name>
+    <display-name>ESPN+ C 060: 14:00 Basketball: Southern vs #14 Vanderbilt 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.061">
+    <display-name>ESPN+ C 061</display-name>
+    <display-name>ESPN+ C 061: 14:00 NCAA Men`s Basketball: WAKE vs #24 MEM • SOU vs #14 VAN 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.062">
+    <display-name>ESPN+ C 062</display-name>
+    <display-name>ESPN+ C 062: 14:01 NCAA Men`s Basketball: Players Era 16 as a part of Feast Week • SOU vs #14 VAN 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.063">
+    <display-name>ESPN+ C 063</display-name>
+    <display-name>ESPN+ C 063: 14:01 NCAA Men`s Basketball: Players Era 16 as a part of Feast Week • WAKE vs #24 MEM • SOU vs #14 VAN 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.064">
+    <display-name>ESPN+ C 064</display-name>
+    <display-name>ESPN+ C 064: 14:01 Soccer: Futbol Picante 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.065">
+    <display-name>ESPN+ C 065</display-name>
+    <display-name>ESPN+ C 065: 14:30 Vancouver Canucks vs Philadelphia Flyers 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.066">
+    <display-name>ESPN+ C 066</display-name>
+    <display-name>ESPN+ C 066: 14:30 Detroit Red Wings vs Columbus Blue Jackets 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.067">
+    <display-name>ESPN+ C 067</display-name>
+    <display-name>ESPN+ C 067: 14:30 Vancouver Canucks vs Philadelphia Flyers 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.068">
+    <display-name>ESPN+ C 068</display-name>
+    <display-name>ESPN+ C 068: 14:30 Florida Panthers vs Washington Capitals 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.069">
+    <display-name>ESPN+ C 069</display-name>
+    <display-name>ESPN+ C 069: 14:30 Southern Miss vs Drexel 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.070">
+    <display-name>ESPN+ C 070</display-name>
+    <display-name>ESPN+ C 070: 14:30 Ottawa Senators vs Tampa Bay Lightning 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.071">
+    <display-name>ESPN+ C 071</display-name>
+    <display-name>ESPN+ C 071: 14:30 #5 Stanford vs #4 Alabama (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.072">
+    <display-name>ESPN+ C 072</display-name>
+    <display-name>ESPN+ C 072: 14:30 Florida Panthers vs Washington Capitals 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.073">
+    <display-name>ESPN+ C 073</display-name>
+    <display-name>ESPN+ C 073: 14:30 Richmond vs St. John`s 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.074">
+    <display-name>ESPN+ C 074</display-name>
+    <display-name>ESPN+ C 074: 14:30 Detroit Red Wings vs Columbus Blue Jackets 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.075">
+    <display-name>ESPN+ C 075</display-name>
+    <display-name>ESPN+ C 075: 14:30 Ottawa Senators vs Tampa Bay Lightning 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.076">
+    <display-name>ESPN+ C 076</display-name>
+    <display-name>ESPN+ C 076: 14:31 NHL: DET vs CBJ • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.077">
+    <display-name>ESPN+ C 077</display-name>
+    <display-name>ESPN+ C 077: 14:31 NHL: DET vs CBJ • VAN vs PHI • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.078">
+    <display-name>ESPN+ C 078</display-name>
+    <display-name>ESPN+ C 078: 14:31 NHL: DET vs CBJ • OTT vs TB • VAN vs PHI • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.079">
+    <display-name>ESPN+ C 079</display-name>
+    <display-name>ESPN+ C 079: 14:32 NHL: DET vs CBJ • OTT vs TB • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.080">
+    <display-name>ESPN+ C 080</display-name>
+    <display-name>ESPN+ C 080: 14:32 NHL: OTT vs TB • VAN vs PHI • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.081">
+    <display-name>ESPN+ C 081</display-name>
+    <display-name>ESPN+ C 081: 14:32 NHL: VAN vs PHI • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.082">
+    <display-name>ESPN+ C 082</display-name>
+    <display-name>ESPN+ C 082: 14:32 NHL: OTT vs TB • FLA vs WSH 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.083">
+    <display-name>ESPN+ C 083</display-name>
+    <display-name>ESPN+ C 083: 14:32 NHL: DET vs CBJ • VAN vs PHI 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.084">
+    <display-name>ESPN+ C 084</display-name>
+    <display-name>ESPN+ C 084: 14:32 NHL: OTT vs TB • VAN vs PHI 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.085">
+    <display-name>ESPN+ C 085</display-name>
+    <display-name>ESPN+ C 085: 14:32 NHL: DET vs CBJ • OTT vs TB • VAN vs PHI 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.086">
+    <display-name>ESPN+ C 086</display-name>
+    <display-name>ESPN+ C 086: 14:32 NHL: DET vs CBJ • OTT vs TB 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.087">
+    <display-name>ESPN+ C 087</display-name>
+    <display-name>ESPN+ C 087: 14:50 Levante UD vs Racing Santander (Matchday #14) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.088">
+    <display-name>ESPN+ C 088</display-name>
+    <display-name>ESPN+ C 088: 14:50 Soccer: Levante vs Racing (Levante vs Racing de Santander (ESP)) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.089">
+    <display-name>ESPN+ C 089</display-name>
+    <display-name>ESPN+ C 089: 14:50 Soccer: Levante vs Racing (Levante vs Racing de Santander (ESP)) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.090">
+    <display-name>ESPN+ C 090</display-name>
+    <display-name>ESPN+ C 090: 15:00 Texas State vs Louisiana Tech 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.091">
+    <display-name>ESPN+ C 091</display-name>
+    <display-name>ESPN+ C 091: 15:00 Houston vs #4 Purdue (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.092">
+    <display-name>ESPN+ C 092</display-name>
+    <display-name>ESPN+ C 092: 15:00 Tennessee Southern vs North Alabama 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.093">
+    <display-name>ESPN+ C 093</display-name>
+    <display-name>ESPN+ C 093: 15:00 Bellarmine vs Butler 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.094">
+    <display-name>ESPN+ C 094</display-name>
+    <display-name>ESPN+ C 094: 15:00 App State vs South Alabama 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.095">
+    <display-name>ESPN+ C 095</display-name>
+    <display-name>ESPN+ C 095: 15:00 Texas Tech vs West Virginia 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.096">
+    <display-name>ESPN+ C 096</display-name>
+    <display-name>ESPN+ C 096: 15:00 Iowa State vs Colorado 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.097">
+    <display-name>ESPN+ C 097</display-name>
+    <display-name>ESPN+ C 097: 15:00 Little Rock vs Colorado State (Championship) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.098">
+    <display-name>ESPN+ C 098</display-name>
+    <display-name>ESPN+ C 098: 15:00 #13 Yale vs #7 Quinnipiac 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.099">
+    <display-name>ESPN+ C 099</display-name>
+    <display-name>ESPN+ C 099: 15:00 Saint Louis vs Drake 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.100">
+    <display-name>ESPN+ C 100</display-name>
+    <display-name>ESPN+ C 100: 15:00 #5 UCLA vs #4 Kansas (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.101">
+    <display-name>ESPN+ C 101</display-name>
+    <display-name>ESPN+ C 101: 15:00 #6 Utah State vs #3 BYU (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.102">
+    <display-name>ESPN+ C 102</display-name>
+    <display-name>ESPN+ C 102: 15:01 Dartmouth vs Harvard 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.103">
+    <display-name>ESPN+ C 103</display-name>
+    <display-name>ESPN+ C 103: 15:01 Louisiana vs Northwestern State 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.104">
+    <display-name>ESPN+ C 104</display-name>
+    <display-name>ESPN+ C 104: 15:01 #5 Florida State vs #4 South Carolina (Second Round) 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.105">
+    <display-name>ESPN+ C 105</display-name>
+    <display-name>ESPN+ C 105: 15:01 Idaho vs California Baptist 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.106">
+    <display-name>ESPN+ C 106</display-name>
+    <display-name>ESPN+ C 106: 15:01 Missouri Valley vs Southeast Missouri State 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.107">
+    <display-name>ESPN+ C 107</display-name>
+    <display-name>ESPN+ C 107: 15:01 Auburn (Montgomery) vs UAB 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
+  <channel id="custom.US.ESPN.ESPN.C.108">
+    <display-name>ESPN+ C 108</display-name>
+    <display-name>ESPN+ C 108: 15:01 Football: College Football Scoreboard 11-27</display-name>
+    <display-name>US ESPN+</display-name>
+  </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.001">
     <display-name>PARAMOUNT 001</display-name>
     <display-name>PARAMOUNT 001: 09:00 CBS Sports HQ: Scoreboard Final 11-27</display-name>
@@ -6002,22 +6542,22 @@
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.C.01">
     <display-name>PARAMOUNT C 01</display-name>
-    <display-name>PARAMOUNT C 01:</display-name>
+    <display-name>PARAMOUNT C 01: 14:35 Serie A: Venezia vs Bologna 11-27</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.C.02">
     <display-name>PARAMOUNT C 02</display-name>
-    <display-name>PARAMOUNT C 02:</display-name>
+    <display-name>PARAMOUNT C 02: 14:50 English Football League: Southampton vs Middlesbrough 11-27</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.C.03">
     <display-name>PARAMOUNT C 03</display-name>
-    <display-name>PARAMOUNT C 03:</display-name>
+    <display-name>PARAMOUNT C 03: 16:30 Concacaf W Championship: Jamaica vs Costa Rica 11-27</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.C.04">
     <display-name>PARAMOUNT C 04</display-name>
-    <display-name>PARAMOUNT C 04:</display-name>
+    <display-name>PARAMOUNT C 04: 19:00 Concacaf W Championship: USA vs El Salvador 11-27</display-name>
     <display-name>US PARAMOUNT</display-name>
   </channel>
   <channel id="custom.US.PARAMOUNT.PARAMOUNT.C.05">
@@ -7002,12 +7542,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.01">
     <display-name>PPV 01</display-name>
-    <display-name>PPV 01: 08:30 ONE Friday Fights 180</display-name>
+    <display-name>PPV 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.02">
     <display-name>PPV 02</display-name>
-    <display-name>PPV 02: 08:40 Cruz vs Subkhankulov</display-name>
+    <display-name>PPV 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.03">
@@ -7017,7 +7557,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.04">
     <display-name>PPV 04</display-name>
-    <display-name>PPV 04: 11:00 Mix Fight 59 Zakarian vs Mohamad</display-name>
+    <display-name>PPV 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.05">
@@ -7032,7 +7572,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.07">
     <display-name>PPV 07</display-name>
-    <display-name>PPV 07: 13:00 4 Cyl Nationals Cherokee</display-name>
+    <display-name>PPV 07: 18:00 4 Cyl Nationals Cherokee</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.08">
@@ -7182,12 +7722,12 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.01">
     <display-name>PPV B 01</display-name>
-    <display-name>PPV B 01: 08:30 ONE Friday Fights 180</display-name>
+    <display-name>PPV B 01:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.02">
     <display-name>PPV B 02</display-name>
-    <display-name>PPV B 02: 08:40 Cruz vs Subkhankulov</display-name>
+    <display-name>PPV B 02:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.03">
@@ -7197,7 +7737,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.04">
     <display-name>PPV B 04</display-name>
-    <display-name>PPV B 04: 11:00 Mix Fight 59 Zakarian vs Mohamad</display-name>
+    <display-name>PPV B 04:</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.05">
@@ -7212,7 +7752,7 @@
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.07">
     <display-name>PPV B 07</display-name>
-    <display-name>PPV B 07: 13:00 4 Cyl Nationals Cherokee</display-name>
+    <display-name>PPV B 07: 18:00 4 Cyl Nationals Cherokee</display-name>
     <display-name>PAY PER VIEW</display-name>
   </channel>
   <channel id="custom.PAY.PER.VIEW.PPV.B.08">
@@ -10597,17 +11137,17 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.001">
     <display-name>CA TSN+ D 001</display-name>
-    <display-name>CA TSN+ D 001:</display-name>
+    <display-name>CA TSN+ D 001: 02:56 HSBC Rugby SVNS 3 Dubai: Day 1 vs Pool Play 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.002">
     <display-name>CA TSN+ D 002</display-name>
-    <display-name>CA TSN+ D 002:</display-name>
+    <display-name>CA TSN+ D 002: 08:00 SPORTSCENTRE A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.003">
     <display-name>CA TSN+ D 003</display-name>
-    <display-name>CA TSN+ D 003:</display-name>
+    <display-name>CA TSN+ D 003: 08:00 SC with Jay Onrait A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.004">
@@ -10617,517 +11157,517 @@
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.005">
     <display-name>CA TSN+ D 005</display-name>
-    <display-name>CA TSN+ D 005:</display-name>
+    <display-name>CA TSN+ D 005: 08:20 Formula 1 Mixed On-Board Camera vs Qatar Grand Prix Practice #1 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.006">
     <display-name>CA TSN+ D 006</display-name>
-    <display-name>CA TSN+ D 006:</display-name>
+    <display-name>CA TSN+ D 006: 08:20 Formula 1 Driver Tracker vs Qatar Grand Prix Practice #1 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.007">
     <display-name>CA TSN+ D 007</display-name>
-    <display-name>CA TSN+ D 007:</display-name>
+    <display-name>CA TSN+ D 007: 08:20 Formula 1 On-Board Camera: Lance Stroll vs Qatar Grand Prix Practice #1 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.008">
     <display-name>CA TSN+ D 008</display-name>
-    <display-name>CA TSN+ D 008:</display-name>
+    <display-name>CA TSN+ D 008: 08:20 Formula 1 On-Board Camera: Max Verstappen vs Qatar Grand Prix Practice #1 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.009">
     <display-name>CA TSN+ D 009</display-name>
-    <display-name>CA TSN+ D 009:</display-name>
+    <display-name>CA TSN+ D 009: 08:20 Formula 1 On-Board Camera: Lando Norris vs Qatar Grand Prix Practice #1 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.010">
     <display-name>CA TSN+ D 010</display-name>
-    <display-name>CA TSN+ D 010:</display-name>
+    <display-name>CA TSN+ D 010: 08:20 Formula 1 Timing Channel vs Qatar Grand Prix Practice #1 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.011">
     <display-name>CA TSN+ D 011</display-name>
-    <display-name>CA TSN+ D 011:</display-name>
+    <display-name>CA TSN+ D 011: 08:30 SPORTSCENTRE B 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.012">
     <display-name>CA TSN+ D 012</display-name>
-    <display-name>CA TSN+ D 012:</display-name>
+    <display-name>CA TSN+ D 012: 08:30 SC: Wacky CFL Moments A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.013">
     <display-name>CA TSN+ D 013</display-name>
-    <display-name>CA TSN+ D 013:</display-name>
+    <display-name>CA TSN+ D 013: 08:45 FIFA Men&#x27;s U17 World Cup: Costa Rica vs Brazil 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.014">
     <display-name>CA TSN+ D 014</display-name>
-    <display-name>CA TSN+ D 014:</display-name>
+    <display-name>CA TSN+ D 014: 09:00 SC with Jay Onrait B 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.015">
     <display-name>CA TSN+ D 015</display-name>
-    <display-name>CA TSN+ D 015:</display-name>
+    <display-name>CA TSN+ D 015: 09:00 SC: Top 50 Goals of All-Time A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.016">
     <display-name>CA TSN+ D 016</display-name>
-    <display-name>CA TSN+ D 016:</display-name>
+    <display-name>CA TSN+ D 016: 09:30 SPORTSCENTRE C 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.017">
     <display-name>CA TSN+ D 017</display-name>
-    <display-name>CA TSN+ D 017:</display-name>
+    <display-name>CA TSN+ D 017: 09:30 SC: Wacky CFL Moments B 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.018">
     <display-name>CA TSN+ D 018</display-name>
-    <display-name>CA TSN+ D 018:</display-name>
+    <display-name>CA TSN+ D 018: 09:55 Formula 2 Qualifying: Lusail 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.019">
     <display-name>CA TSN+ D 019</display-name>
-    <display-name>CA TSN+ D 019:</display-name>
+    <display-name>CA TSN+ D 019: 10:00 SC with Jay Onrait C 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.020">
     <display-name>CA TSN+ D 020</display-name>
-    <display-name>CA TSN+ D 020:</display-name>
+    <display-name>CA TSN+ D 020: 10:00 Davis Cup Finals: Semifinals vs Italy vs Czechia 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.021">
     <display-name>CA TSN+ D 021</display-name>
-    <display-name>CA TSN+ D 021:</display-name>
+    <display-name>CA TSN+ D 021: 10:00 SC: Top 50 Goals of All-Time B 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.022">
     <display-name>CA TSN+ D 022</display-name>
-    <display-name>CA TSN+ D 022:</display-name>
+    <display-name>CA TSN+ D 022: 10:30 SC: Wacky CFL Moments C 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.023">
     <display-name>CA TSN+ D 023</display-name>
-    <display-name>CA TSN+ D 023:</display-name>
+    <display-name>CA TSN+ D 023: 10:30 SPORTSCENTRE D 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.024">
     <display-name>CA TSN+ D 024</display-name>
-    <display-name>CA TSN+ D 024:</display-name>
+    <display-name>CA TSN+ D 024: 11:00 SC with Jay Onrait D 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.025">
     <display-name>CA TSN+ D 025</display-name>
-    <display-name>CA TSN+ D 025:</display-name>
+    <display-name>CA TSN+ D 025: 11:00 SC: Top 50 Goals of All-Time C 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.026">
     <display-name>CA TSN+ D 026</display-name>
-    <display-name>CA TSN+ D 026:</display-name>
+    <display-name>CA TSN+ D 026: 11:30 SC: Top Overtime Moments 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.027">
     <display-name>CA TSN+ D 027</display-name>
-    <display-name>CA TSN+ D 027:</display-name>
+    <display-name>CA TSN+ D 027: 11:30 SPORTSCENTRE E 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.028">
     <display-name>CA TSN+ D 028</display-name>
-    <display-name>CA TSN+ D 028:</display-name>
+    <display-name>CA TSN+ D 028: 11:45 Formula 1 Practice: Qatar Grand Prix 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.029">
     <display-name>CA TSN+ D 029</display-name>
-    <display-name>CA TSN+ D 029:</display-name>
+    <display-name>CA TSN+ D 029: 11:50 Formula 1 Pit Lane vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.030">
     <display-name>CA TSN+ D 030</display-name>
-    <display-name>CA TSN+ D 030:</display-name>
+    <display-name>CA TSN+ D 030: 11:50 Formula 1 Mixed On-Board Camera vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.031">
     <display-name>CA TSN+ D 031</display-name>
-    <display-name>CA TSN+ D 031:</display-name>
+    <display-name>CA TSN+ D 031: 11:50 Formula 1 Driver Tracker vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.032">
     <display-name>CA TSN+ D 032</display-name>
-    <display-name>CA TSN+ D 032:</display-name>
+    <display-name>CA TSN+ D 032: 11:50 Formula 1 On-Board Camera: Lance Stroll vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.033">
     <display-name>CA TSN+ D 033</display-name>
-    <display-name>CA TSN+ D 033:</display-name>
+    <display-name>CA TSN+ D 033: 11:50 Formula 1 On-Board Camera: Max Verstappen vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.034">
     <display-name>CA TSN+ D 034</display-name>
-    <display-name>CA TSN+ D 034:</display-name>
+    <display-name>CA TSN+ D 034: 11:50 Formula 1 On-Board Camera: Lando Norris vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.035">
     <display-name>CA TSN+ D 035</display-name>
-    <display-name>CA TSN+ D 035:</display-name>
+    <display-name>CA TSN+ D 035: 11:50 Formula 1 Timing Channel vs Qatar Grand Prix Practice #2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.036">
     <display-name>CA TSN+ D 036</display-name>
-    <display-name>CA TSN+ D 036:</display-name>
+    <display-name>CA TSN+ D 036: 12:00 First Take 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.037">
     <display-name>CA TSN+ D 037</display-name>
-    <display-name>CA TSN+ D 037:</display-name>
+    <display-name>CA TSN+ D 037: 12:00 Rich Eisen Show 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.038">
     <display-name>CA TSN+ D 038</display-name>
-    <display-name>CA TSN+ D 038:</display-name>
+    <display-name>CA TSN+ D 038: 12:00 SPORTSCENTRE F 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.039">
     <display-name>CA TSN+ D 039</display-name>
-    <display-name>CA TSN+ D 039:</display-name>
+    <display-name>CA TSN+ D 039: 12:00 NCAA Football: Tulsa vs UTSA 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.040">
     <display-name>CA TSN+ D 040</display-name>
-    <display-name>CA TSN+ D 040:</display-name>
+    <display-name>CA TSN+ D 040: 12:00 NCAA Football: Mississippi State vs Ole Miss 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.041">
     <display-name>CA TSN+ D 041</display-name>
-    <display-name>CA TSN+ D 041:</display-name>
+    <display-name>CA TSN+ D 041: 12:30 Toronto Maple Leafs Pre-Game 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.042">
     <display-name>CA TSN+ D 042</display-name>
-    <display-name>CA TSN+ D 042:</display-name>
+    <display-name>CA TSN+ D 042: 12:30 SPORTSCENTRE G 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.043">
     <display-name>CA TSN+ D 043</display-name>
-    <display-name>CA TSN+ D 043:</display-name>
+    <display-name>CA TSN+ D 043: 13:00 Molson Leafs Hockey: Maple Leafs vs Bruins 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.044">
     <display-name>CA TSN+ D 044</display-name>
-    <display-name>CA TSN+ D 044:</display-name>
+    <display-name>CA TSN+ D 044: 13:00 NFL GameDay: Week 11 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.045">
     <display-name>CA TSN+ D 045</display-name>
-    <display-name>CA TSN+ D 045:</display-name>
+    <display-name>CA TSN+ D 045: 13:00 NCAA Men&#x27;s Basketball: TBD vs TBD A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.046">
     <display-name>CA TSN+ D 046</display-name>
-    <display-name>CA TSN+ D 046:</display-name>
+    <display-name>CA TSN+ D 046: 13:15 SC: Top 40 Trick Plays of All-Time 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.047">
     <display-name>CA TSN+ D 047</display-name>
-    <display-name>CA TSN+ D 047:</display-name>
+    <display-name>CA TSN+ D 047: 13:30 Canadian Superbike Championship: Pro Supersport Race 2 of 8 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.048">
     <display-name>CA TSN+ D 048</display-name>
-    <display-name>CA TSN+ D 048:</display-name>
+    <display-name>CA TSN+ D 048: 13:30 NFL Black Friday Pre-Game 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.049">
     <display-name>CA TSN+ D 049</display-name>
-    <display-name>CA TSN+ D 049:</display-name>
+    <display-name>CA TSN+ D 049: 14:00 SC: October Plays of the Month A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.050">
     <display-name>CA TSN+ D 050</display-name>
-    <display-name>CA TSN+ D 050:</display-name>
+    <display-name>CA TSN+ D 050: 14:00 Motorcycle Experience 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.051">
     <display-name>CA TSN+ D 051</display-name>
-    <display-name>CA TSN+ D 051:</display-name>
+    <display-name>CA TSN+ D 051: 14:30 CFL Playoffs in 30: Grey Cup 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.052">
     <display-name>CA TSN+ D 052</display-name>
-    <display-name>CA TSN+ D 052:</display-name>
+    <display-name>CA TSN+ D 052: 14:30 SailGP Highlights: Dubai 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.053">
     <display-name>CA TSN+ D 053</display-name>
-    <display-name>CA TSN+ D 053:</display-name>
+    <display-name>CA TSN+ D 053: 14:48 LaLiga: Levante vs Racing Santander 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.054">
     <display-name>CA TSN+ D 054</display-name>
-    <display-name>CA TSN+ D 054: 00:00 SC: Top 100 Catches of All-Time 11-27</display-name>
+    <display-name>CA TSN+ D 054: 15:00 Canadian Tire Senators Hockey: Senators vs Lightning 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.055">
     <display-name>CA TSN+ D 055</display-name>
-    <display-name>CA TSN+ D 055: 01:00 SPORTSCENTRE K 11-27</display-name>
+    <display-name>CA TSN+ D 055: 15:00 NCAA Women&#x27;s Hockey: Yale vs Quinnipiac 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.056">
     <display-name>CA TSN+ D 056</display-name>
-    <display-name>CA TSN+ D 056: 01:00 SC: Top 50 Goals of All-Time A 11-27</display-name>
+    <display-name>CA TSN+ D 056: 15:00 NFL Black Friday Football: Broncos vs Steelers A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.057">
     <display-name>CA TSN+ D 057</display-name>
-    <display-name>CA TSN+ D 057: 01:30 SC: Wacky CFL Moments A 11-27</display-name>
+    <display-name>CA TSN+ D 057: 15:00 NCAA Men&#x27;s Basketball: TBD vs TBD B 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.058">
     <display-name>CA TSN+ D 058</display-name>
-    <display-name>CA TSN+ D 058: 02:00 SPORTSCENTRE L 11-27</display-name>
+    <display-name>CA TSN+ D 058: 15:30 OverDrive 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.059">
     <display-name>CA TSN+ D 059</display-name>
-    <display-name>CA TSN+ D 059: 02:00 SC: Top 50 Goals of All-Time B 11-27</display-name>
+    <display-name>CA TSN+ D 059: 15:30 NCAA Football: Florida vs Florida State 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.060">
     <display-name>CA TSN+ D 060</display-name>
-    <display-name>CA TSN+ D 060: 02:30 SC: Wacky CFL Moments B 11-27</display-name>
+    <display-name>CA TSN+ D 060: 15:30 NCAA Football: Temple vs Memphis 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.061">
     <display-name>CA TSN+ D 061</display-name>
-    <display-name>CA TSN+ D 061: 02:56 HSBC Rugby SVNS 3 Dubai: Day 1 vs Pool Play 11-27</display-name>
+    <display-name>CA TSN+ D 061: 16:00 NFL Black Friday Football: Broncos vs Steelers B 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.062">
     <display-name>CA TSN+ D 062</display-name>
-    <display-name>CA TSN+ D 062: 03:00 SC with Jay Onrait H 11-27</display-name>
+    <display-name>CA TSN+ D 062: 17:30 NFL Black Friday Football: Broncos vs Steelers C 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.063">
     <display-name>CA TSN+ D 063</display-name>
-    <display-name>CA TSN+ D 063: 03:00 SPORTSCENTRE M 11-27</display-name>
+    <display-name>CA TSN+ D 063: 18:00 SPORTSCENTRE H 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.064">
     <display-name>CA TSN+ D 064</display-name>
-    <display-name>CA TSN+ D 064: 03:00 SC: Top 50 Goals of All-Time C 11-27</display-name>
+    <display-name>CA TSN+ D 064: 19:00 Raptors GameDay 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.065">
     <display-name>CA TSN+ D 065</display-name>
-    <display-name>CA TSN+ D 065: 03:28 AFL Women&#x27;s Series: Grand Final vs North Melbourne vs Melbourne 11-27</display-name>
+    <display-name>CA TSN+ D 065: 19:00 Winnipeg Jets Pre-Game 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.066">
     <display-name>CA TSN+ D 066</display-name>
-    <display-name>CA TSN+ D 066: 03:30 SPORTSCENTRE N 11-27</display-name>
+    <display-name>CA TSN+ D 066: 19:00 College Football Scoreboard 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.067">
     <display-name>CA TSN+ D 067</display-name>
-    <display-name>CA TSN+ D 067: 04:00 SC with Jay Onrait I 11-27</display-name>
+    <display-name>CA TSN+ D 067: 19:00 NCAA Men&#x27;s Hockey: Ohio State vs Union 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.068">
     <display-name>CA TSN+ D 068</display-name>
-    <display-name>CA TSN+ D 068: 04:30 SPORTSCENTRE O 11-27</display-name>
+    <display-name>CA TSN+ D 068: 19:30 NLL on TSN: Rush vs FireWolves A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.069">
     <display-name>CA TSN+ D 069</display-name>
-    <display-name>CA TSN+ D 069: 05:00 SC with Jay Onrait J 11-27</display-name>
+    <display-name>CA TSN+ D 069: 19:30 Tangerine Raptors Basketball: Nets vs Raptors A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.070">
     <display-name>CA TSN+ D 070</display-name>
-    <display-name>CA TSN+ D 070: 05:30 SPORTSCENTRE P 11-27</display-name>
+    <display-name>CA TSN+ D 070: 19:30 Winnipeg Jets on TSN: Jets vs Islanders 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.071">
     <display-name>CA TSN+ D 071</display-name>
-    <display-name>CA TSN+ D 071: 06:00 SC with Jay Onrait K 11-27</display-name>
+    <display-name>CA TSN+ D 071: 19:30 NCAA Football: Texas vs Texas A&amp;M 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.072">
     <display-name>CA TSN+ D 072</display-name>
-    <display-name>CA TSN+ D 072: 06:00 SC: Top 50 Goals of All-Time D 11-27</display-name>
+    <display-name>CA TSN+ D 072: 19:30 SC: Top Characters in Sports A 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.073">
     <display-name>CA TSN+ D 073</display-name>
-    <display-name>CA TSN+ D 073:</display-name>
+    <display-name>CA TSN+ D 073: 20:00 MLS Playoffs on TSN: Columbus vs Miami vs Game 2 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.074">
     <display-name>CA TSN+ D 074</display-name>
-    <display-name>CA TSN+ D 074:</display-name>
+    <display-name>CA TSN+ D 074: 21:00 NCAA Men&#x27;s Basketball: TBD vs TBD C 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.075">
     <display-name>CA TSN+ D 075</display-name>
-    <display-name>CA TSN+ D 075:</display-name>
+    <display-name>CA TSN+ D 075: 21:30 NBA on TSN: Nuggets vs Jazz 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.076">
     <display-name>CA TSN+ D 076</display-name>
-    <display-name>CA TSN+ D 076:</display-name>
+    <display-name>CA TSN+ D 076: 22:00 SPORTSCENTRE I 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.077">
     <display-name>CA TSN+ D 077</display-name>
-    <display-name>CA TSN+ D 077:</display-name>
+    <display-name>CA TSN+ D 077: 23:00 SPORTSCENTRE J 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.078">
     <display-name>CA TSN+ D 078</display-name>
-    <display-name>CA TSN+ D 078:</display-name>
+    <display-name>CA TSN+ D 078: 23:00 SC: CFL Plays of the Year 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.079">
     <display-name>CA TSN+ D 079</display-name>
-    <display-name>CA TSN+ D 079:</display-name>
+    <display-name>CA TSN+ D 079: 23:00 NCAA Men&#x27;s Basketball: TBD vs TBD D 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.080">
     <display-name>CA TSN+ D 080</display-name>
-    <display-name>CA TSN+ D 080:</display-name>
+    <display-name>CA TSN+ D 080: 23:30 SC: CFL Games of the Year 11-27</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.081">
     <display-name>CA TSN+ D 081</display-name>
-    <display-name>CA TSN+ D 081:</display-name>
+    <display-name>CA TSN+ D 081: 00:00 SC: Top Characters in Sports B 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.082">
     <display-name>CA TSN+ D 082</display-name>
-    <display-name>CA TSN+ D 082:</display-name>
+    <display-name>CA TSN+ D 082: 00:00 The Rebuild: Inside the Montreal Canadiens vs The Next Generation 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.083">
     <display-name>CA TSN+ D 083</display-name>
-    <display-name>CA TSN+ D 083:</display-name>
+    <display-name>CA TSN+ D 083: 00:00 NLL on TSN: Rush vs FireWolves B 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.084">
     <display-name>CA TSN+ D 084</display-name>
-    <display-name>CA TSN+ D 084:</display-name>
+    <display-name>CA TSN+ D 084: 00:30 SC: Best Individual Performances 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.085">
     <display-name>CA TSN+ D 085</display-name>
-    <display-name>CA TSN+ D 085:</display-name>
+    <display-name>CA TSN+ D 085: 00:55 HSBC Rugby SVNS Dubai: Day 1 vs Pool Play 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.086">
     <display-name>CA TSN+ D 086</display-name>
-    <display-name>CA TSN+ D 086:</display-name>
+    <display-name>CA TSN+ D 086: 01:00 SPORTSCENTRE K 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.087">
     <display-name>CA TSN+ D 087</display-name>
-    <display-name>CA TSN+ D 087:</display-name>
+    <display-name>CA TSN+ D 087: 02:00 SPORTSCENTRE L 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.088">
     <display-name>CA TSN+ D 088</display-name>
-    <display-name>CA TSN+ D 088:</display-name>
+    <display-name>CA TSN+ D 088: 02:30 Tangerine Raptors Basketball: Nets vs Raptors B 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.089">
     <display-name>CA TSN+ D 089</display-name>
-    <display-name>CA TSN+ D 089:</display-name>
+    <display-name>CA TSN+ D 089: 02:56 HSBC Rugby SVNS 3 Dubai: Day 2 vs Pool Play 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.090">
     <display-name>CA TSN+ D 090</display-name>
-    <display-name>CA TSN+ D 090:</display-name>
+    <display-name>CA TSN+ D 090: 03:00 SPORTSCENTRE M 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.091">
     <display-name>CA TSN+ D 091</display-name>
-    <display-name>CA TSN+ D 091:</display-name>
+    <display-name>CA TSN+ D 091: 04:00 SPORTSCENTRE N 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.092">
     <display-name>CA TSN+ D 092</display-name>
-    <display-name>CA TSN+ D 092:</display-name>
+    <display-name>CA TSN+ D 092: 05:00 SPORTSCENTRE O 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.093">
     <display-name>CA TSN+ D 093</display-name>
-    <display-name>CA TSN+ D 093:</display-name>
+    <display-name>CA TSN+ D 093: 05:00 SailGP Grand Finals: Abu Dhabi vs Day #1 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.094">
     <display-name>CA TSN+ D 094</display-name>
-    <display-name>CA TSN+ D 094:</display-name>
+    <display-name>CA TSN+ D 094: 05:00 TSN Raptors in 30: Nets vs Raptors A 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.095">
     <display-name>CA TSN+ D 095</display-name>
-    <display-name>CA TSN+ D 095:</display-name>
+    <display-name>CA TSN+ D 095: 05:30 TSN Raptors in 30: Nets vs Raptors B 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.096">
     <display-name>CA TSN+ D 096</display-name>
-    <display-name>CA TSN+ D 096:</display-name>
+    <display-name>CA TSN+ D 096: 06:00 SPORTSCENTRE P 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.097">
     <display-name>CA TSN+ D 097</display-name>
-    <display-name>CA TSN+ D 097:</display-name>
+    <display-name>CA TSN+ D 097: 06:00 Davis Cup Finals: Semifinals vs Great Britain vs Spain 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.098">
     <display-name>CA TSN+ D 098</display-name>
-    <display-name>CA TSN+ D 098:</display-name>
+    <display-name>CA TSN+ D 098: 06:00 TSN Raptors in 30: Nets vs Raptors C 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.099">
     <display-name>CA TSN+ D 099</display-name>
-    <display-name>CA TSN+ D 099:</display-name>
+    <display-name>CA TSN+ D 099: 06:30 SPORTSCENTRE Q 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.100">
     <display-name>CA TSN+ D 100</display-name>
-    <display-name>CA TSN+ D 100:</display-name>
+    <display-name>CA TSN+ D 100: 06:30 TSN Raptors in 30: Nets vs Raptors D 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.101">
     <display-name>CA TSN+ D 101</display-name>
-    <display-name>CA TSN+ D 101:</display-name>
+    <display-name>CA TSN+ D 101: 07:00 SPORTSCENTRE R 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.102">
     <display-name>CA TSN+ D 102</display-name>
-    <display-name>CA TSN+ D 102:</display-name>
+    <display-name>CA TSN+ D 102: 07:00 TSN Raptors in 30: Nets vs Raptors E 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.103">
     <display-name>CA TSN+ D 103</display-name>
-    <display-name>CA TSN+ D 103:</display-name>
+    <display-name>CA TSN+ D 103: 07:30 TSN Raptors in 30: Nets vs Raptors F 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.104">
     <display-name>CA TSN+ D 104</display-name>
-    <display-name>CA TSN+ D 104:</display-name>
+    <display-name>CA TSN+ D 104: 07:48 LaLiga: Real Betis vs Rayo Vallecano 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.105">
     <display-name>CA TSN+ D 105</display-name>
-    <display-name>CA TSN+ D 105:</display-name>
+    <display-name>CA TSN+ D 105: 08:00 SPORTSCENTRE S 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.106">
     <display-name>CA TSN+ D 106</display-name>
-    <display-name>CA TSN+ D 106:</display-name>
+    <display-name>CA TSN+ D 106: 08:00 TSN Raptors in 30: Nets vs Raptors G 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.107">
     <display-name>CA TSN+ D 107</display-name>
-    <display-name>CA TSN+ D 107:</display-name>
+    <display-name>CA TSN+ D 107: 08:30 TSN Raptors in 30: Nets vs Raptors H 11-28</display-name>
     <display-name>CA TSN+</display-name>
   </channel>
   <channel id="custom.CA.TSN.CA.TSN.D.108">
@@ -14054,98 +14594,533 @@
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127000000 -0500" stop="20261127040000 -0500" channel="custom.CA.TSN.CA.TSN.D.054">
-    <title>6:00 PM SC: Top 100 Catches of All-Time</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127010000 -0500" stop="20261127050000 -0500" channel="custom.CA.TSN.CA.TSN.D.055">
-    <title>7:00 PM SPORTSCENTRE K</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127010000 -0500" stop="20261127050000 -0500" channel="custom.CA.TSN.CA.TSN.D.056">
-    <title>7:00 PM SC: Top 50 Goals of All-Time A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127013000 -0500" stop="20261127053000 -0500" channel="custom.CA.TSN.CA.TSN.D.057">
-    <title>7:30 PM SC: Wacky CFL Moments A</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127020000 -0500" stop="20261127060000 -0500" channel="custom.CA.TSN.CA.TSN.D.058">
-    <title>8:00 PM SPORTSCENTRE L</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127020000 -0500" stop="20261127060000 -0500" channel="custom.CA.TSN.CA.TSN.D.059">
-    <title>8:00 PM SC: Top 50 Goals of All-Time B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127023000 -0500" stop="20261127063000 -0500" channel="custom.CA.TSN.CA.TSN.D.060">
-    <title>8:30 PM SC: Wacky CFL Moments B</title>
-    <category>Sports</category>
-    <desc>Vortex M3U • CA TSN+</desc>
-  </programme>
-  <programme start="20261127025600 -0500" stop="20261127065600 -0500" channel="custom.CA.TSN.CA.TSN.D.061">
+  <programme start="20261127025600 -0500" stop="20261127065600 -0500" channel="custom.CA.TSN.CA.TSN.D.001">
     <title>8:56 PM HSBC Rugby SVNS 3 Dubai: Day 1 vs Pool Play</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127070000 -0500" channel="custom.CA.TSN.CA.TSN.D.062">
-    <title>9:00 PM SC with Jay Onrait H</title>
+  <programme start="20261127080000 -0500" stop="20261127120000 -0500" channel="custom.CA.TSN.CA.TSN.D.002">
+    <title>2:00 AM SPORTSCENTRE A</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127070000 -0500" channel="custom.CA.TSN.CA.TSN.D.063">
+  <programme start="20261127080000 -0500" stop="20261127120000 -0500" channel="custom.CA.TSN.CA.TSN.D.003">
+    <title>2:00 AM SC with Jay Onrait A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127082000 -0500" stop="20261127122000 -0500" channel="custom.CA.TSN.CA.TSN.D.005">
+    <title>2:20 AM Formula 1 Mixed On-Board Camera vs Qatar Grand Prix Practice #1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127082000 -0500" stop="20261127122000 -0500" channel="custom.CA.TSN.CA.TSN.D.006">
+    <title>2:20 AM Formula 1 Driver Tracker vs Qatar Grand Prix Practice #1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127082000 -0500" stop="20261127122000 -0500" channel="custom.CA.TSN.CA.TSN.D.007">
+    <title>2:20 AM Formula 1 On-Board Camera: Lance Stroll vs Qatar Grand Prix Practice #1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127082000 -0500" stop="20261127122000 -0500" channel="custom.CA.TSN.CA.TSN.D.008">
+    <title>2:20 AM Formula 1 On-Board Camera: Max Verstappen vs Qatar Grand Prix Practice #1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127082000 -0500" stop="20261127122000 -0500" channel="custom.CA.TSN.CA.TSN.D.009">
+    <title>2:20 AM Formula 1 On-Board Camera: Lando Norris vs Qatar Grand Prix Practice #1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127082000 -0500" stop="20261127122000 -0500" channel="custom.CA.TSN.CA.TSN.D.010">
+    <title>2:20 AM Formula 1 Timing Channel vs Qatar Grand Prix Practice #1</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127083000 -0500" stop="20261127123000 -0500" channel="custom.CA.TSN.CA.TSN.D.011">
+    <title>2:30 AM SPORTSCENTRE B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127083000 -0500" stop="20261127123000 -0500" channel="custom.CA.TSN.CA.TSN.D.012">
+    <title>2:30 AM SC: Wacky CFL Moments A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127084500 -0500" stop="20261127124500 -0500" channel="custom.CA.TSN.CA.TSN.D.013">
+    <title>2:45 AM FIFA Men&#x27;s U17 World Cup: Costa Rica vs Brazil</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127130000 -0500" channel="custom.CA.TSN.CA.TSN.D.014">
+    <title>3:00 AM SC with Jay Onrait B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127090000 -0500" stop="20261127130000 -0500" channel="custom.CA.TSN.CA.TSN.D.015">
+    <title>3:00 AM SC: Top 50 Goals of All-Time A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127093000 -0500" stop="20261127133000 -0500" channel="custom.CA.TSN.CA.TSN.D.016">
+    <title>3:30 AM SPORTSCENTRE C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127093000 -0500" stop="20261127133000 -0500" channel="custom.CA.TSN.CA.TSN.D.017">
+    <title>3:30 AM SC: Wacky CFL Moments B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127095500 -0500" stop="20261127135500 -0500" channel="custom.CA.TSN.CA.TSN.D.018">
+    <title>3:55 AM Formula 2 Qualifying: Lusail</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127100000 -0500" stop="20261127140000 -0500" channel="custom.CA.TSN.CA.TSN.D.019">
+    <title>4:00 AM SC with Jay Onrait C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127100000 -0500" stop="20261127140000 -0500" channel="custom.CA.TSN.CA.TSN.D.020">
+    <title>4:00 AM Davis Cup Finals: Semifinals vs Italy vs Czechia</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127100000 -0500" stop="20261127140000 -0500" channel="custom.CA.TSN.CA.TSN.D.021">
+    <title>4:00 AM SC: Top 50 Goals of All-Time B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127103000 -0500" stop="20261127143000 -0500" channel="custom.CA.TSN.CA.TSN.D.022">
+    <title>4:30 AM SC: Wacky CFL Moments C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127103000 -0500" stop="20261127143000 -0500" channel="custom.CA.TSN.CA.TSN.D.023">
+    <title>4:30 AM SPORTSCENTRE D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127110000 -0500" stop="20261127150000 -0500" channel="custom.CA.TSN.CA.TSN.D.024">
+    <title>5:00 AM SC with Jay Onrait D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127110000 -0500" stop="20261127150000 -0500" channel="custom.CA.TSN.CA.TSN.D.025">
+    <title>5:00 AM SC: Top 50 Goals of All-Time C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127113000 -0500" stop="20261127153000 -0500" channel="custom.CA.TSN.CA.TSN.D.026">
+    <title>5:30 AM SC: Top Overtime Moments</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127113000 -0500" stop="20261127153000 -0500" channel="custom.CA.TSN.CA.TSN.D.027">
+    <title>5:30 AM SPORTSCENTRE E</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127114500 -0500" stop="20261127154500 -0500" channel="custom.CA.TSN.CA.TSN.D.028">
+    <title>5:45 AM Formula 1 Practice: Qatar Grand Prix</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.029">
+    <title>5:50 AM Formula 1 Pit Lane vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.030">
+    <title>5:50 AM Formula 1 Mixed On-Board Camera vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.031">
+    <title>5:50 AM Formula 1 Driver Tracker vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.032">
+    <title>5:50 AM Formula 1 On-Board Camera: Lance Stroll vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.033">
+    <title>5:50 AM Formula 1 On-Board Camera: Max Verstappen vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.034">
+    <title>5:50 AM Formula 1 On-Board Camera: Lando Norris vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127115000 -0500" stop="20261127155000 -0500" channel="custom.CA.TSN.CA.TSN.D.035">
+    <title>5:50 AM Formula 1 Timing Channel vs Qatar Grand Prix Practice #2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.CA.TSN.CA.TSN.D.036">
+    <title>6:00 AM First Take</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.CA.TSN.CA.TSN.D.037">
+    <title>6:00 AM Rich Eisen Show</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.CA.TSN.CA.TSN.D.038">
+    <title>6:00 AM SPORTSCENTRE F</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.CA.TSN.CA.TSN.D.039">
+    <title>6:00 AM NCAA Football: Tulsa vs UTSA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.CA.TSN.CA.TSN.D.040">
+    <title>6:00 AM NCAA Football: Mississippi State vs Ole Miss</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.CA.TSN.CA.TSN.D.041">
+    <title>6:30 AM Toronto Maple Leafs Pre-Game</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.CA.TSN.CA.TSN.D.042">
+    <title>6:30 AM SPORTSCENTRE G</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.CA.TSN.CA.TSN.D.043">
+    <title>7:00 AM Molson Leafs Hockey: Maple Leafs vs Bruins</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.CA.TSN.CA.TSN.D.044">
+    <title>7:00 AM NFL GameDay: Week 11</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.CA.TSN.CA.TSN.D.045">
+    <title>7:00 AM NCAA Men&#x27;s Basketball: TBD vs TBD A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127131500 -0500" stop="20261127171500 -0500" channel="custom.CA.TSN.CA.TSN.D.046">
+    <title>7:15 AM SC: Top 40 Trick Plays of All-Time</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.CA.TSN.CA.TSN.D.047">
+    <title>7:30 AM Canadian Superbike Championship: Pro Supersport Race 2 of 8</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.CA.TSN.CA.TSN.D.048">
+    <title>7:30 AM NFL Black Friday Pre-Game</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.CA.TSN.CA.TSN.D.049">
+    <title>8:00 AM SC: October Plays of the Month A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.CA.TSN.CA.TSN.D.050">
+    <title>8:00 AM Motorcycle Experience</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.CA.TSN.CA.TSN.D.051">
+    <title>8:30 AM CFL Playoffs in 30: Grey Cup</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.CA.TSN.CA.TSN.D.052">
+    <title>8:30 AM SailGP Highlights: Dubai</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127144800 -0500" stop="20261127184800 -0500" channel="custom.CA.TSN.CA.TSN.D.053">
+    <title>8:48 AM LaLiga: Levante vs Racing Santander</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.CA.TSN.CA.TSN.D.054">
+    <title>9:00 AM Canadian Tire Senators Hockey: Senators vs Lightning</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.CA.TSN.CA.TSN.D.055">
+    <title>9:00 AM NCAA Women&#x27;s Hockey: Yale vs Quinnipiac</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.CA.TSN.CA.TSN.D.056">
+    <title>9:00 AM NFL Black Friday Football: Broncos vs Steelers A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.CA.TSN.CA.TSN.D.057">
+    <title>9:00 AM NCAA Men&#x27;s Basketball: TBD vs TBD B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127153000 -0500" stop="20261127193000 -0500" channel="custom.CA.TSN.CA.TSN.D.058">
+    <title>9:30 AM OverDrive</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127153000 -0500" stop="20261127193000 -0500" channel="custom.CA.TSN.CA.TSN.D.059">
+    <title>9:30 AM NCAA Football: Florida vs Florida State</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127153000 -0500" stop="20261127193000 -0500" channel="custom.CA.TSN.CA.TSN.D.060">
+    <title>9:30 AM NCAA Football: Temple vs Memphis</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127160000 -0500" stop="20261127200000 -0500" channel="custom.CA.TSN.CA.TSN.D.061">
+    <title>10:00 AM NFL Black Friday Football: Broncos vs Steelers B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127173000 -0500" stop="20261127213000 -0500" channel="custom.CA.TSN.CA.TSN.D.062">
+    <title>11:30 AM NFL Black Friday Football: Broncos vs Steelers C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127220000 -0500" channel="custom.CA.TSN.CA.TSN.D.063">
+    <title>12:00 PM SPORTSCENTRE H</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127230000 -0500" channel="custom.CA.TSN.CA.TSN.D.064">
+    <title>1:00 PM Raptors GameDay</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127230000 -0500" channel="custom.CA.TSN.CA.TSN.D.065">
+    <title>1:00 PM Winnipeg Jets Pre-Game</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127230000 -0500" channel="custom.CA.TSN.CA.TSN.D.066">
+    <title>1:00 PM College Football Scoreboard</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127190000 -0500" stop="20261127230000 -0500" channel="custom.CA.TSN.CA.TSN.D.067">
+    <title>1:00 PM NCAA Men&#x27;s Hockey: Ohio State vs Union</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127193000 -0500" stop="20261127233000 -0500" channel="custom.CA.TSN.CA.TSN.D.068">
+    <title>1:30 PM NLL on TSN: Rush vs FireWolves A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127193000 -0500" stop="20261127233000 -0500" channel="custom.CA.TSN.CA.TSN.D.069">
+    <title>1:30 PM Tangerine Raptors Basketball: Nets vs Raptors A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127193000 -0500" stop="20261127233000 -0500" channel="custom.CA.TSN.CA.TSN.D.070">
+    <title>1:30 PM Winnipeg Jets on TSN: Jets vs Islanders</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127193000 -0500" stop="20261127233000 -0500" channel="custom.CA.TSN.CA.TSN.D.071">
+    <title>1:30 PM NCAA Football: Texas vs Texas A&amp;M</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127193000 -0500" stop="20261127233000 -0500" channel="custom.CA.TSN.CA.TSN.D.072">
+    <title>1:30 PM SC: Top Characters in Sports A</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127200000 -0500" stop="20261128000000 -0500" channel="custom.CA.TSN.CA.TSN.D.073">
+    <title>2:00 PM MLS Playoffs on TSN: Columbus vs Miami vs Game 2</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127210000 -0500" stop="20261128010000 -0500" channel="custom.CA.TSN.CA.TSN.D.074">
+    <title>3:00 PM NCAA Men&#x27;s Basketball: TBD vs TBD C</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127213000 -0500" stop="20261128013000 -0500" channel="custom.CA.TSN.CA.TSN.D.075">
+    <title>3:30 PM NBA on TSN: Nuggets vs Jazz</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261128020000 -0500" channel="custom.CA.TSN.CA.TSN.D.076">
+    <title>4:00 PM SPORTSCENTRE I</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128030000 -0500" channel="custom.CA.TSN.CA.TSN.D.077">
+    <title>5:00 PM SPORTSCENTRE J</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128030000 -0500" channel="custom.CA.TSN.CA.TSN.D.078">
+    <title>5:00 PM SC: CFL Plays of the Year</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128030000 -0500" channel="custom.CA.TSN.CA.TSN.D.079">
+    <title>5:00 PM NCAA Men&#x27;s Basketball: TBD vs TBD D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261127233000 -0500" stop="20261128033000 -0500" channel="custom.CA.TSN.CA.TSN.D.080">
+    <title>5:30 PM SC: CFL Games of the Year</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128040000 -0500" channel="custom.CA.TSN.CA.TSN.D.081">
+    <title>6:00 PM SC: Top Characters in Sports B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128040000 -0500" channel="custom.CA.TSN.CA.TSN.D.082">
+    <title>6:00 PM The Rebuild: Inside the Montreal Canadiens vs The Next Generation</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128000000 -0500" stop="20261128040000 -0500" channel="custom.CA.TSN.CA.TSN.D.083">
+    <title>6:00 PM NLL on TSN: Rush vs FireWolves B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128003000 -0500" stop="20261128043000 -0500" channel="custom.CA.TSN.CA.TSN.D.084">
+    <title>6:30 PM SC: Best Individual Performances</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128005500 -0500" stop="20261128045500 -0500" channel="custom.CA.TSN.CA.TSN.D.085">
+    <title>6:55 PM HSBC Rugby SVNS Dubai: Day 1 vs Pool Play</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128010000 -0500" stop="20261128050000 -0500" channel="custom.CA.TSN.CA.TSN.D.086">
+    <title>7:00 PM SPORTSCENTRE K</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128020000 -0500" stop="20261128060000 -0500" channel="custom.CA.TSN.CA.TSN.D.087">
+    <title>8:00 PM SPORTSCENTRE L</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128023000 -0500" stop="20261128063000 -0500" channel="custom.CA.TSN.CA.TSN.D.088">
+    <title>8:30 PM Tangerine Raptors Basketball: Nets vs Raptors B</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128025600 -0500" stop="20261128065600 -0500" channel="custom.CA.TSN.CA.TSN.D.089">
+    <title>8:56 PM HSBC Rugby SVNS 3 Dubai: Day 2 vs Pool Play</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128030000 -0500" stop="20261128070000 -0500" channel="custom.CA.TSN.CA.TSN.D.090">
     <title>9:00 PM SPORTSCENTRE M</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127030000 -0500" stop="20261127070000 -0500" channel="custom.CA.TSN.CA.TSN.D.064">
-    <title>9:00 PM SC: Top 50 Goals of All-Time C</title>
+  <programme start="20261128040000 -0500" stop="20261128080000 -0500" channel="custom.CA.TSN.CA.TSN.D.091">
+    <title>10:00 PM SPORTSCENTRE N</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127032800 -0500" stop="20261127072800 -0500" channel="custom.CA.TSN.CA.TSN.D.065">
-    <title>9:28 PM AFL Women&#x27;s Series: Grand Final vs North Melbourne vs Melbourne</title>
+  <programme start="20261128050000 -0500" stop="20261128090000 -0500" channel="custom.CA.TSN.CA.TSN.D.092">
+    <title>11:00 PM SPORTSCENTRE O</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127033000 -0500" stop="20261127073000 -0500" channel="custom.CA.TSN.CA.TSN.D.066">
-    <title>9:30 PM SPORTSCENTRE N</title>
+  <programme start="20261128050000 -0500" stop="20261128090000 -0500" channel="custom.CA.TSN.CA.TSN.D.093">
+    <title>11:00 PM SailGP Grand Finals: Abu Dhabi vs Day #1</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127040000 -0500" stop="20261127080000 -0500" channel="custom.CA.TSN.CA.TSN.D.067">
-    <title>10:00 PM SC with Jay Onrait I</title>
+  <programme start="20261128050000 -0500" stop="20261128090000 -0500" channel="custom.CA.TSN.CA.TSN.D.094">
+    <title>11:00 PM TSN Raptors in 30: Nets vs Raptors A</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127043000 -0500" stop="20261127083000 -0500" channel="custom.CA.TSN.CA.TSN.D.068">
-    <title>10:30 PM SPORTSCENTRE O</title>
+  <programme start="20261128053000 -0500" stop="20261128093000 -0500" channel="custom.CA.TSN.CA.TSN.D.095">
+    <title>11:30 PM TSN Raptors in 30: Nets vs Raptors B</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127050000 -0500" stop="20261127090000 -0500" channel="custom.CA.TSN.CA.TSN.D.069">
-    <title>11:00 PM SC with Jay Onrait J</title>
+  <programme start="20261128060000 -0500" stop="20261128100000 -0500" channel="custom.CA.TSN.CA.TSN.D.096">
+    <title>12:00 AM SPORTSCENTRE P</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127053000 -0500" stop="20261127093000 -0500" channel="custom.CA.TSN.CA.TSN.D.070">
-    <title>11:30 PM SPORTSCENTRE P</title>
+  <programme start="20261128060000 -0500" stop="20261128100000 -0500" channel="custom.CA.TSN.CA.TSN.D.097">
+    <title>12:00 AM Davis Cup Finals: Semifinals vs Great Britain vs Spain</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127100000 -0500" channel="custom.CA.TSN.CA.TSN.D.071">
-    <title>12:00 AM SC with Jay Onrait K</title>
+  <programme start="20261128060000 -0500" stop="20261128100000 -0500" channel="custom.CA.TSN.CA.TSN.D.098">
+    <title>12:00 AM TSN Raptors in 30: Nets vs Raptors C</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
-  <programme start="20261127060000 -0500" stop="20261127100000 -0500" channel="custom.CA.TSN.CA.TSN.D.072">
-    <title>12:00 AM SC: Top 50 Goals of All-Time D</title>
+  <programme start="20261128063000 -0500" stop="20261128103000 -0500" channel="custom.CA.TSN.CA.TSN.D.099">
+    <title>12:30 AM SPORTSCENTRE Q</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128063000 -0500" stop="20261128103000 -0500" channel="custom.CA.TSN.CA.TSN.D.100">
+    <title>12:30 AM TSN Raptors in 30: Nets vs Raptors D</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128110000 -0500" channel="custom.CA.TSN.CA.TSN.D.101">
+    <title>1:00 AM SPORTSCENTRE R</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128070000 -0500" stop="20261128110000 -0500" channel="custom.CA.TSN.CA.TSN.D.102">
+    <title>1:00 AM TSN Raptors in 30: Nets vs Raptors E</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128073000 -0500" stop="20261128113000 -0500" channel="custom.CA.TSN.CA.TSN.D.103">
+    <title>1:30 AM TSN Raptors in 30: Nets vs Raptors F</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128074800 -0500" stop="20261128114800 -0500" channel="custom.CA.TSN.CA.TSN.D.104">
+    <title>1:48 AM LaLiga: Real Betis vs Rayo Vallecano</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128120000 -0500" channel="custom.CA.TSN.CA.TSN.D.105">
+    <title>2:00 AM SPORTSCENTRE S</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128080000 -0500" stop="20261128120000 -0500" channel="custom.CA.TSN.CA.TSN.D.106">
+    <title>2:00 AM TSN Raptors in 30: Nets vs Raptors G</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • CA TSN+</desc>
+  </programme>
+  <programme start="20261128083000 -0500" stop="20261128123000 -0500" channel="custom.CA.TSN.CA.TSN.D.107">
+    <title>2:30 AM TSN Raptors in 30: Nets vs Raptors H</title>
     <category>Sports</category>
     <desc>Vortex M3U • CA TSN+</desc>
   </programme>
@@ -14364,23 +15339,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view2 • PAY PER VIEW 2</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.01">
-    <title>6:00 AM &lt;t:1795786200:t&gt; (08:30 ET) ONE Friday Fights 180</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.02">
-    <title>6:00 AM &lt;t:1795786800:t&gt; (08:40 ET) Cruz vs Subkhankulov</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.03">
     <title>6:00 AM &lt;t:1795793400:t&gt; (10:30 ET) Odiase vs Perez</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.04">
-    <title>6:00 AM &lt;t:1795795200:t&gt; (11:00 ET) Mix Fight 59 Zakarian vs Mohamad</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14395,7 +15355,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.07">
-    <title>6:00 AM &lt;t:1795802400:t&gt; (13:00 ET) 4 Cyl Nationals Cherokee</title>
+    <title>6:00 AM &lt;t:1795820400:t&gt; (18:00 ET) 4 Cyl Nationals Cherokee</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14404,23 +15364,8 @@
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
-  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.01">
-    <title>6:00 AM &lt;t:1795786200:t&gt; (08:30 ET) ONE Friday Fights 180</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.02">
-    <title>6:00 AM &lt;t:1795786800:t&gt; (08:40 ET) Cruz vs Subkhankulov</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
   <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.03">
     <title>6:00 AM &lt;t:1795793400:t&gt; (10:30 ET) Odiase vs Perez</title>
-    <category>Sports</category>
-    <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
-  </programme>
-  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.04">
-    <title>6:00 AM &lt;t:1795795200:t&gt; (11:00 ET) Mix Fight 59 Zakarian vs Mohamad</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -14435,7 +15380,7 @@
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
   <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.PAY.PER.VIEW.PPV.B.07">
-    <title>6:00 AM &lt;t:1795802400:t&gt; (13:00 ET) 4 Cyl Nationals Cherokee</title>
+    <title>6:00 AM &lt;t:1795820400:t&gt; (18:00 ET) 4 Cyl Nationals Cherokee</title>
     <category>Sports</category>
     <desc>Zulip #pay-per-view • PAY PER VIEW</desc>
   </programme>
@@ -17569,6 +18514,546 @@
     <category>Sports</category>
     <desc>Vortex M3U • US ESPN+</desc>
   </programme>
+  <programme start="20261127030000 -0500" stop="20261127070000 -0500" channel="custom.US.ESPN.ESPN.C.001">
+    <title>9:00 PM Football: NFL Football: 2026 Week 12 Philadelphia Eagles vs Dallas Cowboys</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127033500 -0500" stop="20261127073500 -0500" channel="custom.US.ESPN.ESPN.C.002">
+    <title>9:35 PM Macarthur FC vs Melbourne City FC</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127053000 -0500" stop="20261127093000 -0500" channel="custom.US.ESPN.ESPN.C.003">
+    <title>11:30 PM Football: NFL Football: 2026 Week 12 Kansas City Chiefs vs Buffalo Bills</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127080000 -0500" stop="20261127120000 -0500" channel="custom.US.ESPN.ESPN.C.004">
+    <title>2:00 AM Football: Good Morning Football</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127110000 -0500" stop="20261127150000 -0500" channel="custom.US.ESPN.ESPN.C.005">
+    <title>5:00 AM North Dakota vs Florida International</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127110000 -0500" stop="20261127150000 -0500" channel="custom.US.ESPN.ESPN.C.006">
+    <title>5:00 AM Basketball: #2 Virginia vs Xavier</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127110000 -0500" stop="20261127150000 -0500" channel="custom.US.ESPN.ESPN.C.007">
+    <title>5:00 AM NCAA Men`s Basketball: UND vs FIU • #2 UVA vs XAV</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127113000 -0500" stop="20261127153000 -0500" channel="custom.US.ESPN.ESPN.C.008">
+    <title>5:30 AM Football: The Season: Ole Miss Football</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.009">
+    <title>6:00 AM Merrimack vs St. Lawrence</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.010">
+    <title>6:00 AM The Rich Eisen Show</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.011">
+    <title>6:00 AM UMBC vs Iona</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.012">
+    <title>6:00 AM Football: Mississippi St vs #22 Ole Miss</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.013">
+    <title>6:00 AM Football: Mississippi St vs #22 Ole Miss (SkyCast+)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.014">
+    <title>6:00 AM Football: Total Access</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.015">
+    <title>6:00 AM Football: Toledo vs Ohio</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.016">
+    <title>6:00 AM Football: Tulsa vs UTSA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.017">
+    <title>6:00 AM NCAA Football: TLSA vs UTSA • MSST vs #22 MISS</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.018">
+    <title>6:00 AM NCAA Football: TOL vs OHIO • MSST vs #22 MISS</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.019">
+    <title>6:00 AM NCAA Football: TOL vs OHIO • TLSA vs UTSA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261127160000 -0500" channel="custom.US.ESPN.ESPN.C.020">
+    <title>6:00 AM NCAA Football: TOL vs OHIO • TLSA vs UTSA • MSST vs #22 MISS</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120100 -0500" stop="20261127160100 -0500" channel="custom.US.ESPN.ESPN.C.021">
+    <title>6:01 AM Basketball: Akron vs #3 Louisville</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120100 -0500" stop="20261127160100 -0500" channel="custom.US.ESPN.ESPN.C.022">
+    <title>6:01 AM NCAA Men`s Basketball: UND vs FIU • #2 UVA vs XAV • UMBC vs IONA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120100 -0500" stop="20261127160100 -0500" channel="custom.US.ESPN.ESPN.C.023">
+    <title>6:01 AM NCAA Men`s Basketball: #2 UVA vs XAV • UMBC vs IONA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127120100 -0500" stop="20261127160100 -0500" channel="custom.US.ESPN.ESPN.C.024">
+    <title>6:01 AM NCAA Women`s Basketball: UND vs FIU • UMBC vs IONA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.025">
+    <title>6:30 AM Toronto Maple Leafs vs Boston Bruins</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.026">
+    <title>6:30 AM Utah Mammoth vs Nashville Predators</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.027">
+    <title>6:30 AM Toronto Maple Leafs vs Boston Bruins</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.028">
+    <title>6:30 AM Tennessee Tech vs Grambling (3rd Place Game)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.029">
+    <title>6:30 AM Utah Mammoth vs Nashville Predators</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.030">
+    <title>6:30 AM NCAA Women`s Basketball: AKR vs #3 LOU • TNTC vs GRAM</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127123000 -0500" stop="20261127163000 -0500" channel="custom.US.ESPN.ESPN.C.031">
+    <title>6:30 AM NHL: TOR vs BOS • UTA vs NSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.032">
+    <title>7:00 AM Team Europe vs Team USA</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.033">
+    <title>7:00 AM Delaware State vs Bucknell</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.034">
+    <title>7:00 AM SEC Halftime Band Performances at Ole Miss</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.035">
+    <title>7:00 AM UT Rio Grande Valley vs Illinois Chicago</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.036">
+    <title>7:00 AM Calgary Flames vs New Jersey Devils</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.037">
+    <title>7:00 AM Calgary Flames vs New Jersey Devils</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.038">
+    <title>7:00 AM Bryant &amp; Stratton College vs Youngstown State</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.039">
+    <title>7:00 AM #20 Baylor vs Cincinnati</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130000 -0500" stop="20261127170000 -0500" channel="custom.US.ESPN.ESPN.C.040">
+    <title>7:00 AM Basketball: Players Era 16 as a part of Feast Week</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130100 -0500" stop="20261127170100 -0500" channel="custom.US.ESPN.ESPN.C.041">
+    <title>7:01 AM NHL: UTA vs NSH • CGY vs NJ</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130100 -0500" stop="20261127170100 -0500" channel="custom.US.ESPN.ESPN.C.042">
+    <title>7:01 AM NHL: TOR vs BOS • UTA vs NSH • CGY vs NJ</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130100 -0500" stop="20261127170100 -0500" channel="custom.US.ESPN.ESPN.C.043">
+    <title>7:01 AM NHL: TOR vs BOS • CGY vs NJ</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127130100 -0500" stop="20261127170100 -0500" channel="custom.US.ESPN.ESPN.C.044">
+    <title>7:01 AM Volleyball: #19 North Carolina vs Miami</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.045">
+    <title>7:30 AM Utah vs UCF</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.046">
+    <title>7:30 AM Northern Illinois vs Manhattan</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.047">
+    <title>7:30 AM South Dakota vs North Florida</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.048">
+    <title>7:30 AM NCAA Men`s Basketball: #24 Memphis vs Wake Forest</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.049">
+    <title>7:30 AM NCAA Men`s Basketball: Players Era 16 as a part of Feast Week • WAKE vs #24 MEM</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.050">
+    <title>7:30 AM NCAA Women`s Basketball: SDAK vs UNF • TNTC vs GRAM</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.051">
+    <title>7:30 AM NCAA Women`s Basketball: AKR vs #3 LOU • SDAK vs UNF • TNTC vs GRAM</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127133000 -0500" stop="20261127173000 -0500" channel="custom.US.ESPN.ESPN.C.052">
+    <title>7:30 AM NCAA Women`s Basketball: AKR vs #3 LOU • SDAK vs UNF</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.053">
+    <title>8:00 AM #11 St. Cloud State vs Vermont</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.054">
+    <title>8:00 AM Villanova vs #3 Texas Tech (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.055">
+    <title>8:00 AM Western Kentucky vs Florida Atlantic</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.056">
+    <title>8:00 AM Navy vs Fairfield</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.057">
+    <title>8:00 AM #6 Michigan vs #3 Duke (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.058">
+    <title>8:00 AM TSV Havelse vs F.C. Hansa Rostock</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.059">
+    <title>8:00 AM Maine vs Le Moyne</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.060">
+    <title>8:00 AM Basketball: Southern vs #14 Vanderbilt</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140000 -0500" stop="20261127180000 -0500" channel="custom.US.ESPN.ESPN.C.061">
+    <title>8:00 AM NCAA Men`s Basketball: WAKE vs #24 MEM • SOU vs #14 VAN</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140100 -0500" stop="20261127180100 -0500" channel="custom.US.ESPN.ESPN.C.062">
+    <title>8:01 AM NCAA Men`s Basketball: Players Era 16 as a part of Feast Week • SOU vs #14 VAN</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140100 -0500" stop="20261127180100 -0500" channel="custom.US.ESPN.ESPN.C.063">
+    <title>8:01 AM NCAA Men`s Basketball: Players Era 16 as a part of Feast Week • WAKE vs #24 MEM • SOU vs #14 VAN</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127140100 -0500" stop="20261127180100 -0500" channel="custom.US.ESPN.ESPN.C.064">
+    <title>8:01 AM Soccer: Futbol Picante</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.065">
+    <title>8:30 AM Vancouver Canucks vs Philadelphia Flyers</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.066">
+    <title>8:30 AM Detroit Red Wings vs Columbus Blue Jackets</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.067">
+    <title>8:30 AM Vancouver Canucks vs Philadelphia Flyers</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.068">
+    <title>8:30 AM Florida Panthers vs Washington Capitals</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.069">
+    <title>8:30 AM Southern Miss vs Drexel</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.070">
+    <title>8:30 AM Ottawa Senators vs Tampa Bay Lightning</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.071">
+    <title>8:30 AM #5 Stanford vs #4 Alabama (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.072">
+    <title>8:30 AM Florida Panthers vs Washington Capitals</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.073">
+    <title>8:30 AM Richmond vs St. John`s</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.074">
+    <title>8:30 AM Detroit Red Wings vs Columbus Blue Jackets</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143000 -0500" stop="20261127183000 -0500" channel="custom.US.ESPN.ESPN.C.075">
+    <title>8:30 AM Ottawa Senators vs Tampa Bay Lightning</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143100 -0500" stop="20261127183100 -0500" channel="custom.US.ESPN.ESPN.C.076">
+    <title>8:31 AM NHL: DET vs CBJ • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143100 -0500" stop="20261127183100 -0500" channel="custom.US.ESPN.ESPN.C.077">
+    <title>8:31 AM NHL: DET vs CBJ • VAN vs PHI • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143100 -0500" stop="20261127183100 -0500" channel="custom.US.ESPN.ESPN.C.078">
+    <title>8:31 AM NHL: DET vs CBJ • OTT vs TB • VAN vs PHI • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.079">
+    <title>8:32 AM NHL: DET vs CBJ • OTT vs TB • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.080">
+    <title>8:32 AM NHL: OTT vs TB • VAN vs PHI • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.081">
+    <title>8:32 AM NHL: VAN vs PHI • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.082">
+    <title>8:32 AM NHL: OTT vs TB • FLA vs WSH</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.083">
+    <title>8:32 AM NHL: DET vs CBJ • VAN vs PHI</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.084">
+    <title>8:32 AM NHL: OTT vs TB • VAN vs PHI</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.085">
+    <title>8:32 AM NHL: DET vs CBJ • OTT vs TB • VAN vs PHI</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127143200 -0500" stop="20261127183200 -0500" channel="custom.US.ESPN.ESPN.C.086">
+    <title>8:32 AM NHL: DET vs CBJ • OTT vs TB</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127145000 -0500" stop="20261127185000 -0500" channel="custom.US.ESPN.ESPN.C.087">
+    <title>8:50 AM Levante UD vs Racing Santander (Matchday #14)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127145000 -0500" stop="20261127185000 -0500" channel="custom.US.ESPN.ESPN.C.088">
+    <title>8:50 AM Soccer: Levante vs Racing (Levante vs Racing de Santander (ESP))</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127145000 -0500" stop="20261127185000 -0500" channel="custom.US.ESPN.ESPN.C.089">
+    <title>8:50 AM Soccer: Levante vs Racing (Levante vs Racing de Santander (ESP))</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.090">
+    <title>9:00 AM Texas State vs Louisiana Tech</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.091">
+    <title>9:00 AM Houston vs #4 Purdue (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.092">
+    <title>9:00 AM Tennessee Southern vs North Alabama</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.093">
+    <title>9:00 AM Bellarmine vs Butler</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.094">
+    <title>9:00 AM App State vs South Alabama</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.095">
+    <title>9:00 AM Texas Tech vs West Virginia</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.096">
+    <title>9:00 AM Iowa State vs Colorado</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.097">
+    <title>9:00 AM Little Rock vs Colorado State (Championship)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.098">
+    <title>9:00 AM #13 Yale vs #7 Quinnipiac</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.099">
+    <title>9:00 AM Saint Louis vs Drake</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.100">
+    <title>9:00 AM #5 UCLA vs #4 Kansas (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150000 -0500" stop="20261127190000 -0500" channel="custom.US.ESPN.ESPN.C.101">
+    <title>9:00 AM #6 Utah State vs #3 BYU (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.102">
+    <title>9:01 AM Dartmouth vs Harvard</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.103">
+    <title>9:01 AM Louisiana vs Northwestern State</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.104">
+    <title>9:01 AM #5 Florida State vs #4 South Carolina (Second Round)</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.105">
+    <title>9:01 AM Idaho vs California Baptist</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.106">
+    <title>9:01 AM Missouri Valley vs Southeast Missouri State</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.107">
+    <title>9:01 AM Auburn (Montgomery) vs UAB</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
+  <programme start="20261127150100 -0500" stop="20261127190100 -0500" channel="custom.US.ESPN.ESPN.C.108">
+    <title>9:01 AM Football: College Football Scoreboard</title>
+    <category>Sports</category>
+    <desc>Vortex M3U • US ESPN+</desc>
+  </programme>
   <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.001">
     <title>6:00 AM &lt;t:1795788000:t&gt; (09:00 ET) CBS Sports HQ: Scoreboard Final</title>
     <category>Sports</category>
@@ -17621,6 +19106,26 @@
   </programme>
   <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.B.001">
     <title>6:00 AM &lt;t:1795808100:t&gt; (14:35 ET) Venezia vs Bologna</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.01">
+    <title>6:00 AM &lt;t:1795808100:t&gt; (14:35 ET) Serie A: Venezia vs Bologna</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.02">
+    <title>6:00 AM &lt;t:1795809000:t&gt; (14:50 ET) English Football League: Southampton vs Middlesbrough</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.03">
+    <title>6:00 AM &lt;t:1795815000:t&gt; (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica</title>
+    <category>Sports</category>
+    <desc>Zulip #paramount • US PARAMOUNT</desc>
+  </programme>
+  <programme start="20261127120000 -0500" stop="20261128000000 -0500" channel="custom.US.PARAMOUNT.PARAMOUNT.C.04">
+    <title>6:00 AM &lt;t:1795824000:t&gt; (19:00 ET) Concacaf W Championship: USA vs El Salvador</title>
     <category>Sports</category>
     <desc>Zulip #paramount • US PARAMOUNT</desc>
   </programme>
