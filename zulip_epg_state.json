@@ -4,19 +4,19 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795827300:t> (19:55 ET) iRacing",
+          "display_title": "6:00 AM <t:1795913700:t> (19:55 ET) iRacing",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795827300:t> (19:55 ET) iRacing"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795913700:t> (19:55 ET) iRacing"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 644040533,
-      "message_timestamp": 1795755690,
+      "message_id": 644302677,
+      "message_timestamp": 1795842046,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-27T14:02:53.540943+00:00"
+      "updated_at": "2026-11-28T08:09:17.917831+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,261 +112,285 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795788000:t> (09:00 ET) CBS Sports HQ: Scoreboard Final",
-          "slot": "PARAMOUNT 001",
-          "slot_norm": "PARAMOUNT 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795788000:t> (09:00 ET) CBS Sports HQ: Scoreboard Final"
+          "display_title": "6:00 AM <t:1795873800:t> (08:50 ET) Frosinone vs Parma",
+          "slot": "PARAMOUNT B 002",
+          "slot_norm": "PARAMOUNT B 2",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795873800:t> (08:50 ET) Frosinone vs Parma"
         },
         {
-          "display_title": "6:00 AM <t:1795795200:t> (11:00 ET) CBS Sports HQ: College Football Pregame",
-          "slot": "PARAMOUNT 002",
-          "slot_norm": "PARAMOUNT 2",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795795200:t> (11:00 ET) CBS Sports HQ: College Football Pregame"
+          "display_title": "6:00 AM <t:1795884600:t> (11:50 ET) Torino vs Lazio",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795884600:t> (11:50 ET) Torino vs Lazio"
         },
         {
-          "display_title": "6:00 AM <t:1795798800:t> (12:00 ET) CBS Sports HQ: Gameday Scoreboard",
-          "slot": "PARAMOUNT 003",
-          "slot_norm": "PARAMOUNT 3",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795798800:t> (12:00 ET) CBS Sports HQ: Gameday Scoreboard"
-        },
-        {
-          "display_title": "6:00 AM <t:1795806000:t> (14:00 ET) CBS Sports HQ: Gameday Pregame",
-          "slot": "PARAMOUNT 004",
-          "slot_norm": "PARAMOUNT 4",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795806000:t> (14:00 ET) CBS Sports HQ: Gameday Pregame"
-        },
-        {
-          "display_title": "6:00 AM <t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna",
-          "slot": "PARAMOUNT 005",
-          "slot_norm": "PARAMOUNT 5",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna"
-        },
-        {
-          "display_title": "6:00 AM <t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough",
-          "slot": "PARAMOUNT 006",
-          "slot_norm": "PARAMOUNT 6",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough"
-        },
-        {
-          "display_title": "6:00 AM <t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica",
-          "slot": "PARAMOUNT 007",
-          "slot_norm": "PARAMOUNT 7",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica"
-        },
-        {
-          "display_title": "6:00 AM <t:1795820400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE",
-          "slot": "PARAMOUNT 008",
-          "slot_norm": "PARAMOUNT 8",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795820400:t> (18:00 ET) CBS Sports HQ: Primetime Pregame LIVE"
-        },
-        {
-          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights",
-          "slot": "PARAMOUNT 009",
-          "slot_norm": "PARAMOUNT 9",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795824000:t> (19:00 ET) CBS Sports HQ: Scoreboard & Highlights"
-        },
-        {
-          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador",
-          "slot": "PARAMOUNT 010",
-          "slot_norm": "PARAMOUNT 10",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador"
-        },
-        {
-          "display_title": "6:00 AM <t:1795808100:t> (14:35 ET) Venezia vs Bologna",
-          "slot": "PARAMOUNT B 001",
-          "slot_norm": "PARAMOUNT B 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795808100:t> (14:35 ET) Venezia vs Bologna"
-        },
-        {
-          "display_title": "6:00 AM <t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna",
-          "slot": "PARAMOUNT C 01",
-          "slot_norm": "PARAMOUNT C 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795808100:t> (14:35 ET) Serie A: Venezia vs Bologna"
-        },
-        {
-          "display_title": "6:00 AM <t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough",
-          "slot": "PARAMOUNT C 02",
-          "slot_norm": "PARAMOUNT C 2",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795809000:t> (14:50 ET) English Football League: Southampton vs Middlesbrough"
-        },
-        {
-          "display_title": "6:00 AM <t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica",
-          "slot": "PARAMOUNT C 03",
-          "slot_norm": "PARAMOUNT C 3",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795815000:t> (16:30 ET) Concacaf W Championship: Jamaica vs Costa Rica"
-        },
-        {
-          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador",
-          "slot": "PARAMOUNT C 04",
-          "slot_norm": "PARAMOUNT C 4",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795824000:t> (19:00 ET) Concacaf W Championship: USA vs El Salvador"
+          "display_title": "6:00 AM <t:1795894500:t> (14:35 ET) Inter vs Genoa",
+          "slot": "PARAMOUNT B 004",
+          "slot_norm": "PARAMOUNT B 4",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795894500:t> (14:35 ET) Inter vs Genoa"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 644165236,
-      "message_timestamp": 1795789827,
+      "message_id": 644302724,
+      "message_timestamp": 1795842060,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-27T22:47:38.844025+00:00"
+      "updated_at": "2026-11-28T08:09:18.133787+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795793400:t> (10:30 ET) Odiase vs Perez",
+          "display_title": "6:00 AM <t:1795903200:t> (17:00 ET) WWE Survivor Series War Games",
+          "slot": "PPV 01",
+          "slot_norm": "PPV 1",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795903200:t> (17:00 ET) WWE Survivor Series War Games"
+        },
+        {
+          "display_title": "6:00 AM <t:1795852800:t> (03:00 ET) Eternal MMA 113",
           "slot": "PPV 03",
           "slot_norm": "PPV 3",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795793400:t> (10:30 ET) Odiase vs Perez"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795852800:t> (03:00 ET) Eternal MMA 113"
         },
         {
-          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged",
+          "display_title": "6:00 AM <t:1795878000:t> (10:00 ET) Prelims Kabayel vs Hysa",
+          "slot": "PPV 04",
+          "slot_norm": "PPV 4",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795878000:t> (10:00 ET) Prelims Kabayel vs Hysa"
+        },
+        {
+          "display_title": "6:00 AM <t:1795881600:t> (11:00 ET) Musas Fight Night 4 Loriga vs Cariaco",
           "slot": "PPV 05",
           "slot_norm": "PPV 5",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795881600:t> (11:00 ET) Musas Fight Night 4 Loriga vs Cariaco"
         },
         {
-          "display_title": "6:00 AM <t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback",
+          "display_title": "6:00 AM <t:1795885200:t> (12:00 ET) KOK Fight Night",
           "slot": "PPV 06",
           "slot_norm": "PPV 6",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795885200:t> (12:00 ET) KOK Fight Night"
         },
         {
-          "display_title": "6:00 AM <t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee",
+          "display_title": "6:00 AM <t:1795885200:t> (12:00 ET) Memphis Wrestling Thanksgiving Little Boogeyman",
           "slot": "PPV 07",
           "slot_norm": "PPV 7",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795885200:t> (12:00 ET) Memphis Wrestling Thanksgiving Little Boogeyman"
         },
         {
-          "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura",
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Kabayel vs Hysa",
           "slot": "PPV 08",
           "slot_norm": "PPV 8",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) Kabayel vs Hysa"
         },
         {
-          "display_title": "6:00 AM <t:1795793400:t> (10:30 ET) Odiase vs Perez",
+          "display_title": "6:00 AM <t:1795897800:t> (15:30 ET) 1/ Cage Warriors 215",
+          "slot": "PPV 09",
+          "slot_norm": "PPV 9",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795897800:t> (15:30 ET) 1/ Cage Warriors 215"
+        },
+        {
+          "display_title": "6:00 AM <t:1795892400:t> (14:00 ET) Glory Rivals 6",
+          "slot": "PPV 10",
+          "slot_norm": "PPV 10",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795892400:t> (14:00 ET) Glory Rivals 6"
+        },
+        {
+          "display_title": "6:00 AM <t:1795892400:t> (14:00 ET) True Grit Wrestling Test Your Mettle",
+          "slot": "PPV 11",
+          "slot_norm": "PPV 11",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795892400:t> (14:00 ET) True Grit Wrestling Test Your Mettle"
+        },
+        {
+          "display_title": "6:00 AM <t:1795910400:t> (19:00 ET) ACW November Reign",
+          "slot": "PPV 12",
+          "slot_norm": "PPV 12",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795910400:t> (19:00 ET) ACW November Reign"
+        },
+        {
+          "display_title": "6:00 AM <t:1795921200:t> (22:00 ET) MMA Mexico 10",
+          "slot": "PPV 13",
+          "slot_norm": "PPV 13",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795921200:t> (22:00 ET) MMA Mexico 10"
+        },
+        {
+          "display_title": "6:00 AM <t:1795885200:t> (12:00 ET) Thor Mini Os Gatorback",
+          "slot": "PPV 14",
+          "slot_norm": "PPV 14",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795885200:t> (12:00 ET) Thor Mini Os Gatorback"
+        },
+        {
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Millbridge Sprints",
+          "slot": "PPV 15",
+          "slot_norm": "PPV 15",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) Millbridge Sprints"
+        },
+        {
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) 4 Cylinder Nationals Cherokee",
+          "slot": "PPV 16",
+          "slot_norm": "PPV 16",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) 4 Cylinder Nationals Cherokee"
+        },
+        {
+          "display_title": "6:00 AM <t:1795907700:t> (18:15 ET) USAC Turkey Night Grand Prix Ventura",
+          "slot": "PPV 17",
+          "slot_norm": "PPV 17",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795907700:t> (18:15 ET) USAC Turkey Night Grand Prix Ventura"
+        },
+        {
+          "display_title": "6:00 AM <t:1795903200:t> (17:00 ET) WWE Survivor Series War Games",
+          "slot": "PPV B 01",
+          "slot_norm": "PPV B 1",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795903200:t> (17:00 ET) WWE Survivor Series War Games"
+        },
+        {
+          "display_title": "6:00 AM <t:1795852800:t> (03:00 ET) Eternal MMA 113",
           "slot": "PPV B 03",
           "slot_norm": "PPV B 3",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795793400:t> (10:30 ET) Odiase vs Perez"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795852800:t> (03:00 ET) Eternal MMA 113"
         },
         {
-          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged",
+          "display_title": "6:00 AM <t:1795878000:t> (10:00 ET) Prelims Kabayel vs Hysa",
+          "slot": "PPV B 04",
+          "slot_norm": "PPV B 4",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795878000:t> (10:00 ET) Prelims Kabayel vs Hysa"
+        },
+        {
+          "display_title": "6:00 AM <t:1795881600:t> (11:00 ET) Musas Fight Night 4 Loriga vs Cariaco",
           "slot": "PPV B 05",
           "slot_norm": "PPV B 5",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795802400:t> (13:00 ET) Cage Warriors 214: Unplugged"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795881600:t> (11:00 ET) Musas Fight Night 4 Loriga vs Cariaco"
         },
         {
-          "display_title": "6:00 AM <t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback",
+          "display_title": "6:00 AM <t:1795885200:t> (12:00 ET) KOK Fight Night",
           "slot": "PPV B 06",
           "slot_norm": "PPV B 6",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795798800:t> (12:00 ET) Thor Mini O's Gatorback"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795885200:t> (12:00 ET) KOK Fight Night"
         },
         {
-          "display_title": "6:00 AM <t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee",
+          "display_title": "6:00 AM <t:1795885200:t> (12:00 ET) Memphis Wrestling Thanksgiving Little Boogeyman",
           "slot": "PPV B 07",
           "slot_norm": "PPV B 7",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795820400:t> (18:00 ET) 4 Cyl Nationals Cherokee"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795885200:t> (12:00 ET) Memphis Wrestling Thanksgiving Little Boogeyman"
         },
         {
-          "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura",
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Kabayel vs Hysa",
           "slot": "PPV B 08",
           "slot_norm": "PPV B 8",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix Ventura"
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) Kabayel vs Hysa"
         },
         {
-          "display_title": "6:00 AM <t:1795786200:t> (08:30 ET) ONE Friday Fights 180 & The Inner Circle 40",
-          "slot": "PPV C 001",
-          "slot_norm": "PPV C 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795786200:t> (08:30 ET) ONE Friday Fights 180 & The Inner Circle 40"
+          "display_title": "6:00 AM <t:1795897800:t> (15:30 ET) 1/ Cage Warriors 215",
+          "slot": "PPV B 09",
+          "slot_norm": "PPV B 9",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795897800:t> (15:30 ET) 1/ Cage Warriors 215"
         },
         {
-          "display_title": "6:00 AM <t:1795824000:t> (19:00 ET) Thor Mini Os at Gatorback Cycle",
-          "slot": "PPV D 01",
-          "slot_norm": "PPV D 1",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795824000:t> (19:00 ET) Thor Mini Os at Gatorback Cycle"
+          "display_title": "6:00 AM <t:1795892400:t> (14:00 ET) Glory Rivals 6",
+          "slot": "PPV B 10",
+          "slot_norm": "PPV B 10",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795892400:t> (14:00 ET) Glory Rivals 6"
         },
         {
-          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) 4 Cylinder Nationals at Cherokee",
-          "slot": "PPV D 02",
-          "slot_norm": "PPV D 2",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795802400:t> (13:00 ET) 4 Cylinder Nationals at Cherokee"
+          "display_title": "6:00 AM <t:1795892400:t> (14:00 ET) True Grit Wrestling Test Your Mettle",
+          "slot": "PPV B 11",
+          "slot_norm": "PPV B 11",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795892400:t> (14:00 ET) True Grit Wrestling Test Your Mettle"
         },
         {
-          "display_title": "6:00 AM <t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix at Ventura",
-          "slot": "PPV D 03",
-          "slot_norm": "PPV D 3",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795822200:t> (18:30 ET) USAC Turkey Night Grand Prix at Ventura"
+          "display_title": "6:00 AM <t:1795910400:t> (19:00 ET) ACW November Reign",
+          "slot": "PPV B 12",
+          "slot_norm": "PPV B 12",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795910400:t> (19:00 ET) ACW November Reign"
         },
         {
-          "display_title": "6:00 AM <t:1795802400:t> (13:00 ET) Cage Warriors 214 Unplugged",
-          "slot": "PPV D 06",
-          "slot_norm": "PPV D 6",
-          "start": "2026-11-27T12:00:00-05:00",
-          "stop": "2026-11-28T00:00:00-05:00",
-          "title": "<t:1795802400:t> (13:00 ET) Cage Warriors 214 Unplugged"
+          "display_title": "6:00 AM <t:1795921200:t> (22:00 ET) MMA Mexico 10",
+          "slot": "PPV B 13",
+          "slot_norm": "PPV B 13",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795921200:t> (22:00 ET) MMA Mexico 10"
+        },
+        {
+          "display_title": "6:00 AM <t:1795885200:t> (12:00 ET) Thor Mini Os Gatorback",
+          "slot": "PPV B 14",
+          "slot_norm": "PPV B 14",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795885200:t> (12:00 ET) Thor Mini Os Gatorback"
+        },
+        {
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Millbridge Sprints",
+          "slot": "PPV B 15",
+          "slot_norm": "PPV B 15",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) Millbridge Sprints"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 644250884,
-      "message_timestamp": 1795815033,
+      "message_id": 644302685,
+      "message_timestamp": 1795842049,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-27T22:47:39.215436+00:00"
+      "updated_at": "2026-11-28T08:09:18.335453+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
