@@ -4,19 +4,35 @@
       "channel": "dirtvision",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795913700:t> (19:55 ET) iRacing",
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Millbridge Speedway",
+          "slot": "DIRT 01",
+          "slot_norm": "DIRT 1",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Millbridge Speedway",
           "slot": "DIRT B 01",
           "slot_norm": "DIRT B 1",
           "start": "2026-11-28T12:00:00-05:00",
           "stop": "2026-11-29T00:00:00-05:00",
-          "title": "<t:1795913700:t> (19:55 ET) iRacing"
+          "title": "<t:1795888800:t> (13:00 ET) Millbridge Speedway"
+        },
+        {
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) Millbridge Speedway",
+          "slot": "DIRT C 01",
+          "slot_norm": "DIRT C 1",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) Millbridge Speedway"
         }
       ],
       "group": "DIRTVISION",
-      "message_id": 644302677,
-      "message_timestamp": 1795842046,
+      "message_id": 644377212,
+      "message_timestamp": 1795881661,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-28T08:09:17.917831+00:00"
+      "updated_at": "2026-11-28T17:00:56.780606+00:00"
     },
     "discovery-plus": {
       "channel": "discovery-plus",
@@ -112,35 +128,147 @@
       "channel": "paramount",
       "events": [
         {
-          "display_title": "6:00 AM <t:1795873800:t> (08:50 ET) Frosinone vs Parma",
+          "display_title": "6:00 AM <t:1795884600:t> (11:50 ET) Torino vs Lazio",
           "slot": "PARAMOUNT B 002",
           "slot_norm": "PARAMOUNT B 2",
-          "start": "2026-11-28T12:00:00-05:00",
-          "stop": "2026-11-29T00:00:00-05:00",
-          "title": "<t:1795873800:t> (08:50 ET) Frosinone vs Parma"
-        },
-        {
-          "display_title": "6:00 AM <t:1795884600:t> (11:50 ET) Torino vs Lazio",
-          "slot": "PARAMOUNT B 003",
-          "slot_norm": "PARAMOUNT B 3",
           "start": "2026-11-28T12:00:00-05:00",
           "stop": "2026-11-29T00:00:00-05:00",
           "title": "<t:1795884600:t> (11:50 ET) Torino vs Lazio"
         },
         {
           "display_title": "6:00 AM <t:1795894500:t> (14:35 ET) Inter vs Genoa",
-          "slot": "PARAMOUNT B 004",
-          "slot_norm": "PARAMOUNT B 4",
+          "slot": "PARAMOUNT B 003",
+          "slot_norm": "PARAMOUNT B 3",
           "start": "2026-11-28T12:00:00-05:00",
           "stop": "2026-11-29T00:00:00-05:00",
           "title": "<t:1795894500:t> (14:35 ET) Inter vs Genoa"
+        },
+        {
+          "display_title": "6:00 AM <t:1795844700:t> (00:45 ET) World Rugby: Dubai Day 1",
+          "slot": "PARAMOUNT C 01",
+          "slot_norm": "PARAMOUNT C 1",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795844700:t> (00:45 ET) World Rugby: Dubai Day 1"
+        },
+        {
+          "display_title": "6:00 AM <t:1795868400:t> (07:20 ET) English Football League: Lincoln City vs Wolves",
+          "slot": "PARAMOUNT C 02",
+          "slot_norm": "PARAMOUNT C 2",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795868400:t> (07:20 ET) English Football League: Lincoln City vs Wolves"
+        },
+        {
+          "display_title": "6:00 AM <t:1795868400:t> (07:20 ET) English Football League: Peterborough United vs Cambridge United",
+          "slot": "PARAMOUNT C 03",
+          "slot_norm": "PARAMOUNT C 3",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795868400:t> (07:20 ET) English Football League: Peterborough United vs Cambridge United"
+        },
+        {
+          "display_title": "6:00 AM <t:1795868400:t> (07:20 ET) English Football League: Preston North End vs Norwich City",
+          "slot": "PARAMOUNT C 04",
+          "slot_norm": "PARAMOUNT C 4",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795868400:t> (07:20 ET) English Football League: Preston North End vs Norwich City"
+        },
+        {
+          "display_title": "6:00 AM <t:1795873800:t> (08:50 ET) Serie A: Frosinone vs Parma",
+          "slot": "PARAMOUNT C 05",
+          "slot_norm": "PARAMOUNT C 5",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795873800:t> (08:50 ET) Serie A: Frosinone vs Parma"
+        },
+        {
+          "display_title": "6:00 AM <t:1795876200:t> (09:30 ET) English Football League: Wrexham vs Portsmouth",
+          "slot": "PARAMOUNT C 06",
+          "slot_norm": "PARAMOUNT C 6",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795876200:t> (09:30 ET) English Football League: Wrexham vs Portsmouth"
+        },
+        {
+          "display_title": "6:00 AM <t:1795876200:t> (09:30 ET) English Football League: West Ham United vs Stoke City",
+          "slot": "PARAMOUNT C 07",
+          "slot_norm": "PARAMOUNT C 7",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795876200:t> (09:30 ET) English Football League: West Ham United vs Stoke City"
+        },
+        {
+          "display_title": "6:00 AM <t:1795876200:t> (09:30 ET) English Football League: Walsall vs Northampton Town",
+          "slot": "PARAMOUNT C 08",
+          "slot_norm": "PARAMOUNT C 8",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795876200:t> (09:30 ET) English Football League: Walsall vs Northampton Town"
+        },
+        {
+          "display_title": "6:00 AM <t:1795876200:t> (09:30 ET) English Football League: Millwall vs Burnley",
+          "slot": "PARAMOUNT C 09",
+          "slot_norm": "PARAMOUNT C 9",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795876200:t> (09:30 ET) English Football League: Millwall vs Burnley"
+        },
+        {
+          "display_title": "6:00 AM <t:1795876200:t> (09:30 ET) English Football League: West Bromwich Albion vs Bristol City",
+          "slot": "PARAMOUNT C 10",
+          "slot_norm": "PARAMOUNT C 10",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795876200:t> (09:30 ET) English Football League: West Bromwich Albion vs Bristol City"
+        },
+        {
+          "display_title": "6:00 AM <t:1795884600:t> (11:50 ET) Serie A: Torino vs Lazio",
+          "slot": "PARAMOUNT C 11",
+          "slot_norm": "PARAMOUNT C 11",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795884600:t> (11:50 ET) Serie A: Torino vs Lazio"
+        },
+        {
+          "display_title": "6:00 AM <t:1795887000:t> (12:30 ET) Concacaf W Championship: Canada vs Panama",
+          "slot": "PARAMOUNT C 12",
+          "slot_norm": "PARAMOUNT C 12",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795887000:t> (12:30 ET) Concacaf W Championship: Canada vs Panama"
+        },
+        {
+          "display_title": "6:00 AM <t:1795887600:t> (12:40 ET) Scottish Professional Football League: Motherwell vs Hibernian",
+          "slot": "PARAMOUNT C 13",
+          "slot_norm": "PARAMOUNT C 13",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795887600:t> (12:40 ET) Scottish Professional Football League: Motherwell vs Hibernian"
+        },
+        {
+          "display_title": "6:00 AM <t:1795894500:t> (14:35 ET) Serie A: Inter vs Genoa",
+          "slot": "PARAMOUNT C 14",
+          "slot_norm": "PARAMOUNT C 14",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795894500:t> (14:35 ET) Serie A: Inter vs Genoa"
+        },
+        {
+          "display_title": "6:00 AM <t:1795896000:t> (15:00 ET) Concacaf W Championship: Mexico vs Haiti",
+          "slot": "PARAMOUNT C 15",
+          "slot_norm": "PARAMOUNT C 15",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795896000:t> (15:00 ET) Concacaf W Championship: Mexico vs Haiti"
         }
       ],
       "group": "US PARAMOUNT",
-      "message_id": 644302724,
-      "message_timestamp": 1795842060,
+      "message_id": 644353567,
+      "message_timestamp": 1795867307,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-28T08:09:18.133787+00:00"
+      "updated_at": "2026-11-28T17:00:57.200092+00:00"
     },
     "pay-per-view": {
       "channel": "pay-per-view",
@@ -152,14 +280,6 @@
           "start": "2026-11-28T12:00:00-05:00",
           "stop": "2026-11-29T00:00:00-05:00",
           "title": "<t:1795903200:t> (17:00 ET) WWE Survivor Series War Games"
-        },
-        {
-          "display_title": "6:00 AM <t:1795852800:t> (03:00 ET) Eternal MMA 113",
-          "slot": "PPV 03",
-          "slot_norm": "PPV 3",
-          "start": "2026-11-28T12:00:00-05:00",
-          "stop": "2026-11-29T00:00:00-05:00",
-          "title": "<t:1795852800:t> (03:00 ET) Eternal MMA 113"
         },
         {
           "display_title": "6:00 AM <t:1795878000:t> (10:00 ET) Prelims Kabayel vs Hysa",
@@ -282,14 +402,6 @@
           "title": "<t:1795903200:t> (17:00 ET) WWE Survivor Series War Games"
         },
         {
-          "display_title": "6:00 AM <t:1795852800:t> (03:00 ET) Eternal MMA 113",
-          "slot": "PPV B 03",
-          "slot_norm": "PPV B 3",
-          "start": "2026-11-28T12:00:00-05:00",
-          "stop": "2026-11-29T00:00:00-05:00",
-          "title": "<t:1795852800:t> (03:00 ET) Eternal MMA 113"
-        },
-        {
           "display_title": "6:00 AM <t:1795878000:t> (10:00 ET) Prelims Kabayel vs Hysa",
           "slot": "PPV B 04",
           "slot_norm": "PPV B 4",
@@ -384,13 +496,29 @@
           "start": "2026-11-28T12:00:00-05:00",
           "stop": "2026-11-29T00:00:00-05:00",
           "title": "<t:1795888800:t> (13:00 ET) Millbridge Sprints"
+        },
+        {
+          "display_title": "6:00 AM <t:1795888800:t> (13:00 ET) 4 Cylinder Nationals Cherokee",
+          "slot": "PPV B 16",
+          "slot_norm": "PPV B 16",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795888800:t> (13:00 ET) 4 Cylinder Nationals Cherokee"
+        },
+        {
+          "display_title": "6:00 AM <t:1795907700:t> (18:15 ET) USAC Turkey Night Grand Prix Ventura",
+          "slot": "PPV B 17",
+          "slot_norm": "PPV B 17",
+          "start": "2026-11-28T12:00:00-05:00",
+          "stop": "2026-11-29T00:00:00-05:00",
+          "title": "<t:1795907700:t> (18:15 ET) USAC Turkey Night Grand Prix Ventura"
         }
       ],
       "group": "PAY PER VIEW",
-      "message_id": 644302685,
-      "message_timestamp": 1795842049,
+      "message_id": 644368202,
+      "message_timestamp": 1795876234,
       "timezone": "America/New_York",
-      "updated_at": "2026-11-28T08:09:18.335453+00:00"
+      "updated_at": "2026-11-28T17:00:57.607939+00:00"
     },
     "pay-per-view2": {
       "channel": "pay-per-view2",
@@ -576,163 +704,163 @@
       "channel": "stan-sport",
       "events": [
         {
-          "display_title": "2:00 PM <t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026",
-          "slot": "AU STAN 001",
-          "slot_norm": "AU STAN 1",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27",
-          "slot": "AU STAN 002",
-          "slot_norm": "AU STAN 2",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795804500:t> (05:35 AEDT) Men\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27",
+          "display_title": "2:00 PM <t:1795870800:t> (00:00 AEDT) Wales vs Japan Nations Championship Final 2026",
           "slot": "AU STAN 003",
           "slot_norm": "AU STAN 3",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795804500:t> (05:35 AEDT) Men\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795807800:t> (06:30 AEDT) Ireland vs Australia Nations Championship Final 2026",
-          "slot": "AU STAN 004",
-          "slot_norm": "AU STAN 4",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795807800:t> (06:30 AEDT) Ireland vs Australia Nations Championship Final 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795807800:t> (06:30 AEDT) Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027",
-          "slot": "AU STAN 005",
-          "slot_norm": "AU STAN 5",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795807800:t> (06:30 AEDT) Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795809000:t> (06:50 AEDT) • Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027",
-          "slot": "AU STAN 006",
-          "slot_norm": "AU STAN 6",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795809000:t> (06:50 AEDT) • Nottingham Forest vs Chelsea Premier League Matchweek 12 2026/2027"
-        },
-        {
-          "display_title": "2:00 PM <t:1795841700:t> (15:55 AEDT) Seoul vs Daejeon K League 2026",
-          "slot": "AU STAN 007",
-          "slot_norm": "AU STAN 7",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795841700:t> (15:55 AEDT) Seoul vs Daejeon K League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795841700:t> (15:55 AEDT) Kyoto Sanga vs Cerezo Osaka J.League 2026",
-          "slot": "AU STAN 008",
-          "slot_norm": "AU STAN 8",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795841700:t> (15:55 AEDT) Kyoto Sanga vs Cerezo Osaka J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795845300:t> (16:55 AEDT) Dubai • Day 1 (Session 1) World Rugby Sevens Series 2026/27",
-          "slot": "AU STAN 009",
-          "slot_norm": "AU STAN 9",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795845300:t> (16:55 AEDT) Dubai • Day 1 (Session 1) World Rugby Sevens Series 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795848900:t> (17:55 AEDT) Kashiwa Reysol vs Sanfrecce Hiroshima J.League 2026",
-          "slot": "AU STAN 010",
-          "slot_norm": "AU STAN 10",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795848900:t> (17:55 AEDT) Kashiwa Reysol vs Sanfrecce Hiroshima J.League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795850700:t> (18:25 AEDT) Pohang vs Gwangju K League 2026",
-          "slot": "AU STAN 011",
-          "slot_norm": "AU STAN 11",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795850700:t> (18:25 AEDT) Pohang vs Gwangju K League 2026"
-        },
-        {
-          "display_title": "2:00 PM <t:1795869600:t> (23:40 AEDT) Dubai • Day 1 (Session 2) World Rugby Sevens Series 2026/27",
-          "slot": "AU STAN 012",
-          "slot_norm": "AU STAN 12",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795869600:t> (23:40 AEDT) Dubai • Day 1 (Session 2) World Rugby Sevens Series 2026/27"
-        },
-        {
-          "display_title": "2:00 PM <t:1795870800:t> (00:00 AEDT) Wales vs Japan Nations Championship Final 2026",
-          "slot": "AU STAN 013",
-          "slot_norm": "AU STAN 13",
           "start": "2026-11-29T12:00:00+11:00",
           "stop": "2026-11-30T00:00:00+11:00",
           "title": "<t:1795870800:t> (00:00 AEDT) Wales vs Japan Nations Championship Final 2026"
         },
         {
           "display_title": "2:00 PM <t:1795874400:t> (01:00 AEDT) Manchester United vs Brentford Premier League Matchweek 12 2026/2027",
-          "slot": "AU STAN 014",
-          "slot_norm": "AU STAN 14",
+          "slot": "AU STAN 004",
+          "slot_norm": "AU STAN 4",
           "start": "2026-11-29T12:00:00+11:00",
           "stop": "2026-11-30T00:00:00+11:00",
           "title": "<t:1795874400:t> (01:00 AEDT) Manchester United vs Brentford Premier League Matchweek 12 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795877400:t> (01:50 AEDT) Leeds United vs Coventry City Premier League Matchweek 12 2026/2027",
-          "slot": "AU STAN 015",
-          "slot_norm": "AU STAN 15",
+          "slot": "AU STAN 005",
+          "slot_norm": "AU STAN 5",
           "start": "2026-11-29T12:00:00+11:00",
           "stop": "2026-11-30T00:00:00+11:00",
           "title": "<t:1795877400:t> (01:50 AEDT) Leeds United vs Coventry City Premier League Matchweek 12 2026/2027"
         },
         {
           "display_title": "2:00 PM <t:1795880700:t> (02:45 AEDT) England vs New Zealand Nations Championship Final 2026",
-          "slot": "AU STAN 016",
-          "slot_norm": "AU STAN 16",
+          "slot": "AU STAN 006",
+          "slot_norm": "AU STAN 6",
           "start": "2026-11-29T12:00:00+11:00",
           "stop": "2026-11-30T00:00:00+11:00",
           "title": "<t:1795880700:t> (02:45 AEDT) England vs New Zealand Nations Championship Final 2026"
         },
         {
           "display_title": "2:00 PM <t:1795886400:t> (04:20 AEDT) Ipswich Town vs Aston Villa Premier League Matchweek 12 2026/2027",
-          "slot": "AU STAN 017",
-          "slot_norm": "AU STAN 17",
+          "slot": "AU STAN 007",
+          "slot_norm": "AU STAN 7",
           "start": "2026-11-29T12:00:00+11:00",
           "stop": "2026-11-30T00:00:00+11:00",
           "title": "<t:1795886400:t> (04:20 AEDT) Ipswich Town vs Aston Villa Premier League Matchweek 12 2026/2027"
         },
         {
-          "display_title": "2:00 PM <t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026",
-          "slot": "AU STAN B 001",
-          "slot_norm": "AU STAN B 1",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795797000:t> (03:30 AEDT) Italy vs Fiji Nations Championship Final 2026"
+          "display_title": "2:00 PM <t:1795896000:t> (07:00 AEDT) PL Saturday Wrap: Matchweek 12 Nov 29",
+          "slot": "AU STAN 008",
+          "slot_norm": "AU STAN 8",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795896000:t> (07:00 AEDT) PL Saturday Wrap: Matchweek 12 Nov 29"
         },
         {
-          "display_title": "2:00 PM <t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27",
-          "slot": "AU STAN B 002",
-          "slot_norm": "AU STAN B 2",
-          "start": "2026-11-28T12:00:00+11:00",
-          "stop": "2026-11-29T00:00:00+11:00",
-          "title": "<t:1795799100:t> (04:05 AEDT) Women\\`s Elite: Ostrava UCI Cyclocross World Cup 2026/27"
+          "display_title": "2:00 PM <t:1795928100:t> (15:55 AEDT) Ulsan vs Jeonbuk K League 2026",
+          "slot": "AU STAN 009",
+          "slot_norm": "AU STAN 9",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795928100:t> (15:55 AEDT) Ulsan vs Jeonbuk K League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795931700:t> (16:55 AEDT) Kawasaki Frontale vs Gamba Osaka J.League 2026",
+          "slot": "AU STAN 010",
+          "slot_norm": "AU STAN 10",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795931700:t> (16:55 AEDT) Kawasaki Frontale vs Gamba Osaka J.League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795934400:t> (17:40 AEDT) Dubai • Day 2 (Session 1) World Rugby Sevens Series 2026/27",
+          "slot": "AU STAN 011",
+          "slot_norm": "AU STAN 11",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795934400:t> (17:40 AEDT) Dubai • Day 2 (Session 1) World Rugby Sevens Series 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795935300:t> (17:55 AEDT) Machida Zelvia vs Tokyo Verdy J.League 2026",
+          "slot": "AU STAN 012",
+          "slot_norm": "AU STAN 12",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795935300:t> (17:55 AEDT) Machida Zelvia vs Tokyo Verdy J.League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795937100:t> (18:25 AEDT) Incheon vs Gangwon K League 2026",
+          "slot": "AU STAN 013",
+          "slot_norm": "AU STAN 13",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795937100:t> (18:25 AEDT) Incheon vs Gangwon K League 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795943100:t> (20:05 AEDT) Dubai • Day 2 (Session 2) World Rugby Sevens Series 2026/27",
+          "slot": "AU STAN 014",
+          "slot_norm": "AU STAN 14",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795943100:t> (20:05 AEDT) Dubai • Day 2 (Session 2) World Rugby Sevens Series 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795950000:t> (22:00 AEDT) Everton vs Liverpool Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 015",
+          "slot_norm": "AU STAN 15",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795950000:t> (22:00 AEDT) Everton vs Liverpool Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795953000:t> (22:50 AEDT) Women\\`s Elite: Tabor UCI Cyclocross World Cup 2026/27",
+          "slot": "AU STAN 016",
+          "slot_norm": "AU STAN 16",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795953000:t> (22:50 AEDT) Women\\`s Elite: Tabor UCI Cyclocross World Cup 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795953000:t> (22:50 AEDT) • Everton vs Liverpool Premier League Matchweek 12 2026/2027",
+          "slot": "AU STAN 017",
+          "slot_norm": "AU STAN 17",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795953000:t> (22:50 AEDT) • Everton vs Liverpool Premier League Matchweek 12 2026/2027"
+        },
+        {
+          "display_title": "2:00 PM <t:1795956000:t> (23:40 AEDT) Dubai • Day 2 (Session 3) World Rugby Sevens Series 2026/27",
+          "slot": "AU STAN 018",
+          "slot_norm": "AU STAN 18",
+          "start": "2026-11-29T12:00:00+11:00",
+          "stop": "2026-11-30T00:00:00+11:00",
+          "title": "<t:1795956000:t> (23:40 AEDT) Dubai • Day 2 (Session 3) World Rugby Sevens Series 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795957200:t> (00:00 AEDT) Scotland vs Argentina Nations Championship Final 2026",
+          "slot": "AU STAN 019",
+          "slot_norm": "AU STAN 19",
+          "start": "2026-11-30T12:00:00+11:00",
+          "stop": "2026-12-01T00:00:00+11:00",
+          "title": "<t:1795957200:t> (00:00 AEDT) Scotland vs Argentina Nations Championship Final 2026"
+        },
+        {
+          "display_title": "2:00 PM <t:1795958400:t> (00:20 AEDT) Men\\`s Elite: Tabor UCI Cyclocross World Cup 2026/27",
+          "slot": "AU STAN 020",
+          "slot_norm": "AU STAN 20",
+          "start": "2026-11-30T12:00:00+11:00",
+          "stop": "2026-12-01T00:00:00+11:00",
+          "title": "<t:1795958400:t> (00:20 AEDT) Men\\`s Elite: Tabor UCI Cyclocross World Cup 2026/27"
+        },
+        {
+          "display_title": "2:00 PM <t:1795960500:t> (00:55 AEDT) Goal Rush: Sunderland vs Tottenham Hotspur • 30 Nov Premier League 2026/2027",
+          "slot": "AU STAN 021",
+          "slot_norm": "AU STAN 21",
+          "start": "2026-11-30T12:00:00+11:00",
+          "stop": "2026-12-01T00:00:00+11:00",
+          "title": "<t:1795960500:t> (00:55 AEDT) Goal Rush: Sunderland vs Tottenham Hotspur • 30 Nov Premier League 2026/2027"
         }
       ],
       "group": "AU STAN",
-      "message_id": 644141787,
-      "message_timestamp": 1795784456,
+      "message_id": 644359857,
+      "message_timestamp": 1795870855,
       "timezone": "Australia/Sydney",
-      "updated_at": "2026-11-27T14:02:53.991368+00:00"
+      "updated_at": "2026-11-28T17:00:58.858607+00:00"
     }
   },
   "version": 1
